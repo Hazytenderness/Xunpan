@@ -1,10 +1,10 @@
 """把一个批次的核页结果和询盘报价整理成 ATAO 运营台「询盘复核」可导入的文件。
 
 用法：
-  python3 tools/build_review_feed.py batches/2026-10-05-洗衣 --candidates 货源候选.json
+  python3 tools/build_review_feed.py batches/2026-10-05-洗衣
 输出：<批次目录>/review_feed.json
 
---candidates 是运营台商品的货源候选 {序: [{候选ID, 供应商, 参考价}]}，用来只保留属于该款候选的店。
+只保留属于该款货源候选的店（候选从 ataous 站点 products.js 读取，也可用 --candidates 指定 JSON）。
 数据来源：
   pages/<offerId>.json      核页抓到的卖家、在售、起订量
   核页规格匹配.json          每组「条目×款×商品」对应的页面规格、价格和包装
@@ -17,12 +17,19 @@ from pathlib import Path
 
 ap = argparse.ArgumentParser()
 ap.add_argument('batch')
-ap.add_argument('--candidates', required=True)
+ap.add_argument('--candidates', help='缺省时直接读 ataous 站点的 products.js')
 args = ap.parse_args()
 
 B = Path(args.batch)
 queue = json.loads((B / 'queue.json').read_text())
-candidates = {int(k): {c['候选ID'] for c in v} for k, v in json.loads(Path(args.candidates).read_text()).items()}
+if args.candidates:
+    raw = json.loads(Path(args.candidates).read_text())
+else:
+    import subprocess
+    site = Path.home() / 'ClaudeP/06_VibeCoding/ataous/ataous-site/build/js/products.js'
+    js = "globalThis.window=globalThis;require(process.argv[1]);const o={};for(const x of DECK)if(x.货源候选)o[x.序]=x.货源候选.map(c=>({候选ID:String(c.候选ID)}));process.stdout.write(JSON.stringify(o))"
+    raw = json.loads(subprocess.run(['node', '-e', js, str(site)], check=True, capture_output=True, text=True).stdout)
+candidates = {int(k): {c['候选ID'] for c in v} for k, v in raw.items()}
 match = {(m['id'], m['序'], m['offerId']): m for m in json.loads((B / '核页规格匹配.json').read_text())}
 quotes = {}
 if (B / 'quotes.jsonl').exists():
