@@ -47,6 +47,8 @@
 - **每个数字都要附对方原话**，没回答的填 `null`，**不猜**。
 - 价格要写清计价单位：按个、按套还是按包；含不含税；含不含运费。
 - 图片里的信息（报价单截图、包装照片）也要读出来填进去，原话一栏写「见图 media/…」。
+- **AI 预判**：`build_review_feed.py` 生成时会用站点同一套公式给每条资料加 `建议`（自动采纳 / 建议采纳 / 建议驳回 / 需判断）。事实类、起订量不超过首批、规格可信且利润率变动 ≤3 个点的价格直接自动采纳；采纳后利润率 <15%、规格未确认、报价与页面价相差 >20%、起订量超首批的留给用户。规则在 `tools/review_triage.py`。
+- **演示数据**：`tools/demo_review_feed.py` 生成「演示·询盘回复」批次，网站上标「演示数据」，每日导出跳过它；撤回用推送接口发 `{"撤回批次": "演示·询盘回复"}`。
 - **同步到网站**：整理完紧接着运行
   `python3 tools/build_review_feed.py batches/<批次>` 生成 `review_feed.json`，再运行 `python3 tools/push_review_feed.py batches/<批次>` 推到 ATAO 运营台「询盘复核」。重复推送安全（已有的不会重复记）；返回里 `未导入` 不为空要告诉用户。
 - **复核结果每天自动存档**：launchd 任务 `com.xunpan.review-export` 在北京时间每天 0:02 和 12:02 运行 `tools/export_review_result.py`（本机在 23/0/11/12 点各唤醒一次，脚本按北京时间只放行 0 点和 12 点，夏令时切换不受影响），把网站上的采纳/驳回结果写进 `batches/<批次>/review_result.json`，有变化才提交推送。日志在 `~/Library/Logs/xunpan-review-export.log`。

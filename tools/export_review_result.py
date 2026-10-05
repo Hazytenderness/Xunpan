@@ -38,6 +38,8 @@ keep = ['id', '序', '候选ID', '供应商', '字段', '状态', '原值', '新
         '导入时间', '处理人', '处理时间']
 groups = defaultdict(list)
 for e in data['条目']:
+    if (e.get('批次') or '').startswith('演示'):
+        continue
     groups[e.get('批次') or '未分批'].append({k: e.get(k) for k in keep if e.get(k) is not None})
 
 changed = []

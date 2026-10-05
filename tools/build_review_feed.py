@@ -11,6 +11,7 @@
   quotes.jsonl（可选）       询盘回复抽出的报价，每个字段 {值, 原话, 时间}
 """
 import argparse
+import sys
 import json
 import re
 from pathlib import Path
@@ -18,6 +19,7 @@ from pathlib import Path
 ap = argparse.ArgumentParser()
 ap.add_argument('batch')
 ap.add_argument('--candidates', help='缺省时直接读 ataous 站点的 products.js')
+ap.add_argument('--site', default=str(Path.home() / 'ClaudeP/06_VibeCoding/ataous/ataous-site'), help='ataous 站点目录，用它的公式做 AI 预判')
 args = ap.parse_args()
 
 B = Path(args.batch)
@@ -26,7 +28,7 @@ if args.candidates:
     raw = json.loads(Path(args.candidates).read_text())
 else:
     import subprocess
-    site = Path.home() / 'ClaudeP/06_VibeCoding/ataous/ataous-site/build/js/products.js'
+    site = Path(args.site) / 'build/js/products.js'
     js = "globalThis.window=globalThis;require(process.argv[1]);const o={};for(const x of DECK)if(x.货源候选)o[x.序]=x.货源候选.map(c=>({候选ID:String(c.候选ID)}));process.stdout.write(JSON.stringify(o))"
     raw = json.loads(subprocess.run(['node', '-e', js, str(site)], check=True, capture_output=True, text=True).stdout)
 candidates = {int(k): {c['候选ID'] for c in v} for k, v in raw.items()}
@@ -48,15 +50,17 @@ def pieces(spec):
 
 
 seen = set()
+page_price = {}
 
 
-def add(序, offer, seller, field, value, basis, link, when, source):
+def add(序, offer, seller, field, value, basis, link, when, source, **extra):
     key = json.dumps([序, offer, field, value], ensure_ascii=False, sort_keys=True)
     if key in seen:
         return
     seen.add(key)
     items.append({'序': 序, '候选ID': offer, '供应商': seller, '字段': field, '新值': value,
-                  '依据': basis, '证据': link, '来源': source, '采集时间': when})
+                  '依据': basis, '证据': link, '来源': source, '采集时间': when,
+                  **{'_' + k: v for k, v in extra.items() if v is not None}})
 
 
 for x in queue:
@@ -75,7 +79,7 @@ for x in queue:
             if page.get('状态') == 'PUBLISHED':
                 add(序, offer, seller, '在售状态', '在售', f"商品页在售，标题「{page.get('标题', '')[:40]}」", link, when, '1688 核页')
             if page.get('起订量'):
-                add(序, offer, seller, '起订量', int(page['起订量']), f"页面起批量 {page['起订量']} {page.get('单位') or '件'}", link, when, '1688 核页')
+                add(序, offer, seller, '起订量', int(page['起订量']), f"页面起批量 {page['起订量']} {page.get('单位') or '件'}", link, when, '1688 核页', 首批=k.get('数量'))
             m = match.get((x['id'], 序, offer))
             if not m or m.get('sku_index') is None or not m.get('price'):
                 continue
@@ -84,10 +88,11 @@ for x in queue:
             basis = f"页面规格「{m['sku']}」{m['price']:.2f} 元"
             if need != have:
                 basis += f"，页面{'单个售卖' if have == 1 else f'{have} 个一份'}，按 {need} 个装折算 {price:.2f} 元"
-            add(序, offer, seller, '采购单价', price, basis, link, when, '1688 核页')
+            add(序, offer, seller, '采购单价', price, basis, link, when, '1688 核页', 置信度=m.get('confidence'), 说明=m.get('note'))
+            page_price[(序, offer)] = price
             if m.get('pack') and need == have:
                 pk = m['pack']
-                add(序, offer, seller, '单品包装', pk, f"页面包装信息：规格「{m['sku']}」{pk['长']}×{pk['宽']}×{pk['高']} cm，{pk['重量克']} g", link, when, '1688 核页')
+                add(序, offer, seller, '单品包装', pk, f"页面包装信息：规格「{m['sku']}」{pk['长']}×{pk['宽']}×{pk['高']} cm，{pk['重量克']} g", link, when, '1688 核页', 置信度=m.get('confidence'))
     q = quotes.get(x['id'])
     if not q:
         continue
@@ -102,7 +107,7 @@ for x in queue:
         if ladder and isinstance(ladder['值'], dict):
             price = ladder['值'].get('500') or next((v for v in ladder['值'].values() if v), None)
             if price:
-                add(序, offer, seller, '采购单价', price, ladder['原话'], link, ladder.get('时间', ''), '询盘回复')
+                add(序, offer, seller, '采购单价', price, ladder['原话'], link, ladder.get('时间', ''), '询盘回复', 页面价=page_price.get((序, offer)))
         for field, target in [('起订量', '起订量'), ('现货', '现货'), ('箱规', '箱规'), ('中性包装', '中性包装'),
                               ('交期', '交期'), ('打样', '打样'), ('开票点数', '开票'), ('定制', '定制')]:
             v = said(field)
@@ -113,6 +118,9 @@ for x in queue:
         if pack and isinstance(pack['值'], dict):
             add(序, offer, seller, '单品包装', pack['值'], pack['原话'], link, pack.get('时间', ''), '询盘回复')
 
+sys.path.insert(0, str(Path(__file__).parent))
+from review_triage import triage
+items = triage(items, Path(args.site))
 feed = {'批次': batch_name, '来源': '询盘与核页', '生成时间': max((i['采集时间'] for i in items), default=''), '条目': items}
 out = B / 'review_feed.json'
 out.write_text(json.dumps(feed, ensure_ascii=False, indent=1))
