@@ -1,0 +1,4 @@
+# 对方发来的视频体积大，只留本地；图片进库方便云端抽字段
+batches/*/media/**/*.mp4
+batches/*/media/**/*.mov
+.DS_Store
