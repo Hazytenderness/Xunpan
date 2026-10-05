@@ -1,6 +1,7 @@
 """每天把 ATAO 运营台「询盘复核」的处理结果导出存进本仓库，有变化才提交推送。
 
-用法：python3 tools/export_review_result.py [--no-push]
+用法：python3 tools/export_review_result.py [--no-push] [--beijing-hours 0,12]
+--beijing-hours：只在北京时间这些整点运行，其余时刻直接退出（定时任务用，避开夏令时切换）
 输出：batches/<批次>/review_result.json（按复核记录里的批次分组）
 密钥文件：~/.config/xunpan/ataous_review_token（不进仓库）
 """
@@ -13,6 +14,10 @@ from datetime import datetime, timezone, timedelta
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
+if '--beijing-hours' in sys.argv:
+    hours = {int(h) for h in sys.argv[sys.argv.index('--beijing-hours') + 1].split(',')}
+    if datetime.now(timezone(timedelta(hours=8))).hour not in hours:
+        sys.exit(0)
 BRANCH = 'claude/claude-github-connection-mtu9fd'
 token = (Path.home() / '.config/xunpan/ataous_review_token').read_text().strip()
 req = urllib.request.Request('https://ataous.com/api/jp/review-feed',
@@ -42,7 +47,7 @@ for batch, rows in groups.items():
         folder = ROOT / 'batches' / '_未分批'
         folder.mkdir(parents=True, exist_ok=True)
     out = folder / 'review_result.json'
-    body = {'批次': batch, '网站更新时间': data.get('更新时间'), '统计': dict(Counter(r['状态'] for r in rows)),
+    body = {'批次': batch, '统计': dict(Counter(r['状态'] for r in rows)),
             '条数': len(rows), '条目': rows}
     text = json.dumps(body, ensure_ascii=False, indent=1) + '\n'
     if not out.exists() or out.read_text() != text:
