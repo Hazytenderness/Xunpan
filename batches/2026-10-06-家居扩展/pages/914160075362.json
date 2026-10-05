@@ -1,0 +1,152 @@
+{
+ "offerId": "914160075362",
+ "条目": "L72",
+ "核页时间": "2026-10-05T13:53:55.971Z",
+ "url": "https://detail.1688.com/offer/914160075362.html",
+ "href": "https://detail.1688.com/offer/914160075362.html",
+ "textHead": "金华市池祥工贸有限公司\n关注\n客服\n商品\n入驻11年\n主营：厨房整理\n四星供应链\n品质达标率\n99.9%\n综合履约率\n99.8%\n店铺回头率\n54%\n代工模式OEM\n视频\nstart\nPlay\n00:00\n00:56\n主图视频\n商品属性\n包装信息\n商品详情\n同款推荐\n热门推荐\n商品属性\n适用范围\t\n饮料\n\t是否进口\t\n否\n\n货号\t\ncx2415\n\t颜色\t\n粉蓝3500ml,橙黄3500ml,粉蓝2500ml,橙黄2500ml\n\n是否有专利\t\n否\n\t风格\t\n北欧风格\n\n是否属于礼品\t\n否\n包装信息\n商品件重尺\n颜色\t长(cm)\t宽(cm)\t高(cm)\t体积(cm³)\t重量(g)\n粉蓝3500ml",
+ "卖家公司": "金华市池祥工贸有限公司",
+ "旺旺名": "金华市池祥工贸有限公司",
+ "标题": "冰箱冷水壶便携高颜值大容量家用水果茶凉水壶果汁饮料桶冷萃壶",
+ "状态": "PUBLISHED",
+ "类目": "冷水壶",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "颜色",
+   "值": [
+    "粉蓝3500ml",
+    "橙黄3500ml",
+    "粉蓝2500ml",
+    "橙黄2500ml"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "橙黄3500ml",
+   "价格": "19.00",
+   "库存": 2392
+  },
+  {
+   "规格": "粉蓝3500ml",
+   "价格": "19.00",
+   "库存": 1811
+  },
+  {
+   "规格": "橙黄2500ml",
+   "价格": "16.00",
+   "库存": 3788
+  },
+  {
+   "规格": "粉蓝2500ml",
+   "价格": "16.00",
+   "库存": 4067
+  }
+ ],
+ "规格图": [
+  [
+   "粉蓝3500ml",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01CgHnSW1cuKeOAgbXU_!!2815843660-0-cib.jpg"
+  ],
+  [
+   "橙黄3500ml",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01S60xfR1cuKeRVynY8_!!2815843660-0-cib.jpg"
+  ],
+  [
+   "粉蓝2500ml",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01yhoNrO1cuKePtsXCG_!!2815843660-0-cib.jpg"
+  ],
+  [
+   "橙黄2500ml",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01bJ8RyE1cuKeOIKi82_!!2815843660-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "skuPrice",
+ "价格区间": "16.00-19.00",
+ "阶梯价_登录后": [
+  {
+   "price": "16.00",
+   "beginAmount": 1
+  },
+  {
+   "price": "19.00",
+   "beginAmount": 1
+  }
+ ],
+ "划线价": [
+  {
+   "displayStyle": "line_price",
+   "price": "16.00",
+   "beginAmount": 1
+  },
+  {
+   "displayStyle": "line_price",
+   "price": "19.00",
+   "beginAmount": 1
+  }
+ ],
+ "到手价": {
+  "价": "15",
+  "说明": "新人价",
+  "件数": 1
+ },
+ "起订量": 1,
+ "单位": "个",
+ "可售总量": 12058,
+ "已售": 10147,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01aHGbat1cuKePQJkdI_!!2815843660-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01XOpBAX1cuKePQNAhd_!!2815843660-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01zOVjkG1cuKePttGrK_!!2815843660-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN012aniXQ1cuKeQefxbq_!!2815843660-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01y5ES8O1cuKdgiXaG8_!!2815843660-0-cib.jpg"
+ ],
+ "商品属性": [
+  "适用范围:饮料",
+  "是否进口:否",
+  "货号:cx2415",
+  "颜色:粉蓝3500ml/橙黄3500ml/粉蓝2500ml/橙黄2500ml",
+  "是否有专利:否",
+  "风格:北欧风格",
+  "是否属于礼品:否"
+ ],
+ "包装信息": [
+  {
+   "volume": 4878.72,
+   "sku1": "粉蓝3500ml",
+   "length": 13.2,
+   "width": 13.2,
+   "weight": 450,
+   "skuId": 5780041256472,
+   "height": 28
+  },
+  {
+   "volume": 4878.72,
+   "sku1": "橙黄3500ml",
+   "length": 13.2,
+   "width": 13.2,
+   "weight": 450,
+   "skuId": 5780041256473,
+   "height": 28
+  },
+  {
+   "volume": 4356,
+   "sku1": "粉蓝2500ml",
+   "length": 13.2,
+   "width": 13.2,
+   "weight": 400,
+   "skuId": 5780041256474,
+   "height": 25
+  },
+  {
+   "volume": 4356,
+   "sku1": "橙黄2500ml",
+   "length": 13.2,
+   "width": 13.2,
+   "weight": 400,
+   "skuId": 5780041256475,
+   "height": 25
+  }
+ ]
+}

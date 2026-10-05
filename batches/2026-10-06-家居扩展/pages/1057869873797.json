@@ -1,0 +1,92 @@
+{
+ "offerId": "1057869873797",
+ "条目": "L150",
+ "核页时间": "2026-10-05T14:18:23.063Z",
+ "url": "https://detail.1688.com/offer/1057869873797.html",
+ "href": "https://detail.1688.com/offer/1057869873797.html",
+ "textHead": "义乌市锦鹿五金制品有限公司\n关注\n客服\n商品\n入驻1年\n主营：厨房工具\n四星供应链\n品质达标率\n99.9%\n综合履约率\n99%\n店铺回头率\n48%\n视频\nstart\nPlay\n00:00\n00:25\n主图视频\n商品属性\n包装信息\n商品详情\n同款推荐\n热门推荐\n商品属性\n材质\t\n201不锈钢\n\t品牌\t\n锦鹿\n\n风格\t\n简约风\n\t是否进口\t\n国产\n\n货号\t\nJL-55\n\t加印LOGO\t\n可以\n\n加工定制\t\n可以\n\t价格段\t\n3-5元\n\n产地\t\n义乌\n\t颜色\t\n锅盖架12*10\n\n主要下游平台\t\n淘宝,ebay,亚马逊,wish,快手,LINIO,SHEIN,速卖通,天猫,独立站,LAZADA,拼多",
+ "卖家公司": "义乌市锦鹿五金制品有限公司",
+ "旺旺名": "锦鹿五金制品",
+ "标题": "新款不锈钢锅盖架汤勺锅铲架厨房置物架砧板菜板立式收纳架子",
+ "状态": "PUBLISHED",
+ "类目": "锅具收纳架",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "颜色",
+   "值": [
+    "锅盖架12*10"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "锅盖架12*10",
+   "价格": "1.80",
+   "库存": 956828
+  }
+ ],
+ "规格图": [
+  [
+   "锅盖架12*10",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01shcAs31jo6fnqoBv7_!!2222436434594-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "skuPrice",
+ "价格区间": "3.60",
+ "阶梯价_登录后": [
+  {
+   "price": "1.80",
+   "beginAmount": 2
+  }
+ ],
+ "划线价": [
+  {
+   "displayStyle": "line_price",
+   "price": "3.60",
+   "beginAmount": 1
+  }
+ ],
+ "到手价": {
+  "价": "1.3",
+  "说明": "新人价",
+  "件数": 2
+ },
+ "起订量": 2,
+ "单位": "个",
+ "可售总量": 956828,
+ "已售": 40399,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN017D2bgw1jo6fieAl9x_!!2222436434594-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN0100nC921jo6fj7GBYg_!!2222436434594-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01Gq98Ac1jo6fislNt0_!!2222436434594-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01xu0mCW1jo6fiskJPs_!!2222436434594-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN014femE61jo6fifITik_!!2222436434594-0-cib.jpg"
+ ],
+ "商品属性": [
+  "材质:201不锈钢",
+  "品牌:锦鹿",
+  "风格:简约风",
+  "是否进口:国产",
+  "货号:JL-55",
+  "加印LOGO:可以",
+  "加工定制:可以",
+  "价格段:3-5元",
+  "产地:义乌",
+  "颜色:锅盖架12*10",
+  "主要下游平台:淘宝/ebay/亚马逊/wish/快手/LINIO/SHEIN/速卖通/天猫/独立站/LAZADA/拼多多/shopee/抖音/垂类电商/其他",
+  "有可授权的自有品牌:是",
+  "是否有专利:否"
+ ],
+ "包装信息": [
+  {
+   "volume": 1000,
+   "sku1": "锅盖架12*10",
+   "length": 10,
+   "width": 10,
+   "weight": 180,
+   "skuId": 6102342380342,
+   "height": 10
+  }
+ ]
+}
