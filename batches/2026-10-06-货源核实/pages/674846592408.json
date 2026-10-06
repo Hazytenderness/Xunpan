@@ -1,0 +1,917 @@
+{
+ "offerId": "674846592408",
+ "条目": "H0972",
+ "block": false,
+ "卖家公司": "高阳县梵棉纺织品有限公司",
+ "旺旺名": "ming333520",
+ "标题": "澡巾批发纯棉加厚吸水成人家用涤棉大毛巾 洗澡全棉毛巾批发",
+ "状态": "PUBLISHED",
+ "类目": "毛巾",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "颜色",
+   "值": [
+    "0942咖色大格.",
+    "0942蓝色大格.",
+    "0410灰色",
+    "0410咖色",
+    "0397字母绿色",
+    "0404-灰色",
+    "0404-粉色",
+    "0404-湖蓝色",
+    "0941蓝色",
+    "0941粉色",
+    "0405-蓝色",
+    "0405-黄色",
+    "0952-白色【A类7A抗菌】",
+    "0952-蓝色【A类7A抗菌】",
+    "0952-橘色【A类7A抗菌】",
+    "0952-浅灰【A类7A抗菌】",
+    "0951-紫色【A类7A抗菌】",
+    "0951-黄色【A类7A抗菌】",
+    "0951-深灰【A类7A抗菌】",
+    "0951-浅咖【A类7A抗菌】",
+    "0951-浅粉【A类7A抗菌】",
+    "0951-浅灰【A类7A抗菌】",
+    "0951-薄荷绿【A类7A抗菌】",
+    "0951-深棕【A类7A抗菌】",
+    "0951-深粉【A类7A抗菌】",
+    "0951-中灰【A类7A抗菌】",
+    "0947双回格澡巾浅咖",
+    "0398灰色",
+    "0398蓝色",
+    "0398绿色",
+    "0401新粉色",
+    "0401新蓝色",
+    "0401新绿色",
+    "0401新黄色",
+    "0396浅咖澡巾",
+    "0396黄色澡巾",
+    "0396浅蓝澡巾",
+    "0948水纹棕色",
+    "0950粉色",
+    "0950绿色",
+    "0950米黄",
+    "0950浅灰"
+   ]
+  },
+  {
+   "属性": "规格（长*宽cm）",
+   "值": [
+    "40*90CM",
+    "40*80CM"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "0401新粉色&gt;40*90CM",
+   "价格": "5.50",
+   "库存": 9955
+  },
+  {
+   "规格": "0951-浅灰【A类7A抗菌】&gt;40*80CM",
+   "价格": "11.99",
+   "库存": 9994
+  },
+  {
+   "规格": "0398绿色&gt;40*90CM",
+   "价格": "6.10",
+   "库存": 9987
+  },
+  {
+   "规格": "0951-紫色【A类7A抗菌】&gt;40*80CM",
+   "价格": "11.99",
+   "库存": 9999
+  },
+  {
+   "规格": "0410咖色&gt;40*90CM",
+   "价格": "6.60",
+   "库存": 9962
+  },
+  {
+   "规格": "0948水纹棕色&gt;40*90CM",
+   "价格": "5.20",
+   "库存": 9963
+  },
+  {
+   "规格": "0398灰色&gt;40*90CM",
+   "价格": "6.10",
+   "库存": 9979
+  },
+  {
+   "规格": "0396浅蓝澡巾&gt;40*90CM",
+   "价格": "5.90",
+   "库存": 9976
+  },
+  {
+   "规格": "0951-浅咖【A类7A抗菌】&gt;40*80CM",
+   "价格": "11.99",
+   "库存": 9995
+  },
+  {
+   "规格": "0951-黄色【A类7A抗菌】&gt;40*80CM",
+   "价格": "11.99",
+   "库存": 9998
+  },
+  {
+   "规格": "0941粉色&gt;40*90CM",
+   "价格": "6.70",
+   "库存": 9979
+  },
+  {
+   "规格": "0951-薄荷绿【A类7A抗菌】&gt;40*80CM",
+   "价格": "11.99",
+   "库存": 9992
+  },
+  {
+   "规格": "0401新绿色&gt;40*90CM",
+   "价格": "5.50",
+   "库存": 9971
+  },
+  {
+   "规格": "0951-深棕【A类7A抗菌】&gt;40*80CM",
+   "价格": "11.99",
+   "库存": 9993
+  },
+  {
+   "规格": "0951-中灰【A类7A抗菌】&gt;40*80CM",
+   "价格": "11.99",
+   "库存": 9996
+  },
+  {
+   "规格": "0952-橘色【A类7A抗菌】&gt;40*80CM",
+   "价格": "8.99",
+   "库存": 9993
+  },
+  {
+   "规格": "0942蓝色大格.&gt;40*90CM",
+   "价格": "6.10",
+   "库存": 9728
+  },
+  {
+   "规格": "0952-蓝色【A类7A抗菌】&gt;40*80CM",
+   "价格": "8.99",
+   "库存": 9979
+  },
+  {
+   "规格": "0950米黄&gt;40*90CM",
+   "价格": "6.20",
+   "库存": 9994
+  },
+  {
+   "规格": "0398蓝色&gt;40*90CM",
+   "价格": "6.10",
+   "库存": 9981
+  },
+  {
+   "规格": "0396黄色澡巾&gt;40*90CM",
+   "价格": "5.90",
+   "库存": 9992
+  },
+  {
+   "规格": "0401新蓝色&gt;40*90CM",
+   "价格": "5.50",
+   "库存": 9988
+  },
+  {
+   "规格": "0404-粉色&gt;40*90CM",
+   "价格": "7.40",
+   "库存": 9924
+  },
+  {
+   "规格": "0404-灰色&gt;40*90CM",
+   "价格": "7.40",
+   "库存": 0
+  },
+  {
+   "规格": "0950浅灰&gt;40*90CM",
+   "价格": "6.20",
+   "库存": 9995
+  },
+  {
+   "规格": "0405-蓝色&gt;40*90CM",
+   "价格": "6.99",
+   "库存": 9897
+  },
+  {
+   "规格": "0941蓝色&gt;40*90CM",
+   "价格": "6.70",
+   "库存": 9962
+  },
+  {
+   "规格": "0952-白色【A类7A抗菌】&gt;40*80CM",
+   "价格": "8.99",
+   "库存": 9987
+  },
+  {
+   "规格": "0951-深灰【A类7A抗菌】&gt;40*80CM",
+   "价格": "11.99",
+   "库存": 9996
+  },
+  {
+   "规格": "0410灰色&gt;40*90CM",
+   "价格": "6.60",
+   "库存": 9954
+  },
+  {
+   "规格": "0951-深粉【A类7A抗菌】&gt;40*80CM",
+   "价格": "11.99",
+   "库存": 9991
+  },
+  {
+   "规格": "0401新黄色&gt;40*90CM",
+   "价格": "5.50",
+   "库存": 9994
+  },
+  {
+   "规格": "0404-湖蓝色&gt;40*90CM",
+   "价格": "7.40",
+   "库存": 0
+  },
+  {
+   "规格": "0952-浅灰【A类7A抗菌】&gt;40*80CM",
+   "价格": "8.99",
+   "库存": 9987
+  },
+  {
+   "规格": "0397字母绿色&gt;40*90CM",
+   "价格": "6.60",
+   "库存": 9972
+  },
+  {
+   "规格": "0950绿色&gt;40*90CM",
+   "价格": "6.20",
+   "库存": 9997
+  },
+  {
+   "规格": "0951-浅粉【A类7A抗菌】&gt;40*80CM",
+   "价格": "11.99",
+   "库存": 9994
+  },
+  {
+   "规格": "0405-黄色&gt;40*90CM",
+   "价格": "6.99",
+   "库存": 9905
+  },
+  {
+   "规格": "0950粉色&gt;40*90CM",
+   "价格": "6.20",
+   "库存": 9997
+  },
+  {
+   "规格": "0947双回格澡巾浅咖&gt;40*90CM",
+   "价格": "5.20",
+   "库存": 9962
+  },
+  {
+   "规格": "0396浅咖澡巾&gt;40*90CM",
+   "价格": "5.90",
+   "库存": 9987
+  },
+  {
+   "规格": "0942咖色大格.&gt;40*90CM",
+   "价格": "6.10",
+   "库存": 9774
+  }
+ ],
+ "规格图": [
+  [
+   "0942咖色大格.",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01bqr98S23nuoOhpjcO_!!951847301-0-cib.jpg"
+  ],
+  [
+   "0942蓝色大格.",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01diZ5ND23nuoOJLi5C_!!951847301-0-cib.jpg"
+  ],
+  [
+   "0410灰色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01XTHhpH23nuoO7hsu3_!!951847301-0-cib.jpg"
+  ],
+  [
+   "0410咖色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01vRMjK023nuoOa2UaB_!!951847301-0-cib.jpg"
+  ],
+  [
+   "0397字母绿色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01ZXpkhS23nuoOa2tip_!!951847301-0-cib.jpg"
+  ],
+  [
+   "0404-灰色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01ZM4rdi23nuoOJSclp_!!951847301-0-cib.jpg"
+  ],
+  [
+   "0404-粉色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01UThvIn23nuoOhyreY_!!951847301-0-cib.jpg"
+  ],
+  [
+   "0404-湖蓝色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01MoZZHo23nuoOuPnYU_!!951847301-0-cib.jpg"
+  ],
+  [
+   "0941蓝色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01MR8g7F23nuoOSaqvl_!!951847301-0-cib.jpg"
+  ],
+  [
+   "0941粉色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01xbyYUr23nuoOEFvvV_!!951847301-0-cib.jpg"
+  ],
+  [
+   "0405-蓝色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01KTje8423nuoOV3rcO_!!951847301-0-cib.jpg"
+  ],
+  [
+   "0405-黄色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01ynHg2B23nuoJdzid6_!!951847301-0-cib.jpg"
+  ],
+  [
+   "0952-白色【A类7A抗菌】",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01wzs9TQx7PCB21stE_!!951847301-0-cib.jpg"
+  ],
+  [
+   "0952-蓝色【A类7A抗菌】",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01emEmleXG5RK21stE_!!951847301-0-cib.jpg"
+  ],
+  [
+   "0952-橘色【A类7A抗菌】",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01ke7hPrQkwYK21stE_!!951847301-0-cib.jpg"
+  ],
+  [
+   "0952-浅灰【A类7A抗菌】",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01Zd84W7RHBAK21stE_!!951847301-0-cib.jpg"
+  ],
+  [
+   "0951-紫色【A类7A抗菌】",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01CfRO2vhgVIG24uCu_!!951847301-0-cib.jpg"
+  ],
+  [
+   "0951-黄色【A类7A抗菌】",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01jyNf3p2mLvE24uCu_!!951847301-0-cib.jpg"
+  ],
+  [
+   "0951-深灰【A类7A抗菌】",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01zqtHtSPskrJ24uCu_!!951847301-0-cib.jpg"
+  ],
+  [
+   "0951-浅咖【A类7A抗菌】",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01M7UHPJeeZpK24uCu_!!951847301-0-cib.jpg"
+  ],
+  [
+   "0951-浅粉【A类7A抗菌】",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01BdmsHKeGlOI24uCu_!!951847301-0-cib.jpg"
+  ],
+  [
+   "0951-浅灰【A类7A抗菌】",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01n3AYJhNZN2E24uCu_!!951847301-0-cib.jpg"
+  ],
+  [
+   "0951-薄荷绿【A类7A抗菌】",
+   "https://cbu01.alicdn.com/img/ibank/O1CN012apkHbqqJmI24uCu_!!951847301-0-cib.jpg"
+  ],
+  [
+   "0951-深棕【A类7A抗菌】",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01mhQw9iQtVxD24uCu_!!951847301-0-cib.jpg"
+  ],
+  [
+   "0951-深粉【A类7A抗菌】",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01DNvpuHWKzFB24uCu_!!951847301-0-cib.jpg"
+  ],
+  [
+   "0951-中灰【A类7A抗菌】",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01rpSNdZIMtRK24uCu_!!951847301-0-cib.jpg"
+  ],
+  [
+   "0947双回格澡巾浅咖",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01vggjxy23numEMsjPh_!!951847301-0-cib.jpg"
+  ],
+  [
+   "0398灰色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01eJVK6123numEuwbT1_!!951847301-0-cib.jpg"
+  ],
+  [
+   "0398蓝色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01H24nbs23numFH77Fh_!!951847301-0-cib.jpg"
+  ],
+  [
+   "0398绿色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01OPO8FD23numFhmVdG_!!951847301-0-cib.jpg"
+  ],
+  [
+   "0401新粉色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01vYP1Qy23numClMkdE_!!951847301-0-cib.jpg"
+  ],
+  [
+   "0401新蓝色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN0118Y4Nm23num84zJcC_!!951847301-0-cib.jpg"
+  ],
+  [
+   "0401新绿色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01nCWmxm23numDTuPPN_!!951847301-0-cib.jpg"
+  ],
+  [
+   "0401新黄色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01O7a1EV23numClMcFT_!!951847301-0-cib.jpg"
+  ],
+  [
+   "0396浅咖澡巾",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01blaXpX23numZFxrm4_!!951847301-0-cib.jpg"
+  ],
+  [
+   "0396黄色澡巾",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01I7wGi023numSuw1Ko_!!951847301-0-cib.jpg"
+  ],
+  [
+   "0396浅蓝澡巾",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01gWEo8M23numYQv9X4_!!951847301-0-cib.jpg"
+  ],
+  [
+   "0948水纹棕色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01Z0nvGm23nunrKLnd7_!!951847301-0-cib.jpg"
+  ],
+  [
+   "0950粉色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN011t74zW23numZiyOf4_!!951847301-0-cib.jpg"
+  ],
+  [
+   "0950绿色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01694bIM23numZrgnKF_!!951847301-0-cib.jpg"
+  ],
+  [
+   "0950米黄",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01CKmATx23numUDTTTw_!!951847301-0-cib.jpg"
+  ],
+  [
+   "0950浅灰",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01XYx9xm23numYtMYh3_!!951847301-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "skuPrice",
+ "价格区间": "6.12-14.11",
+ "阶梯价_登录后": [
+  {
+   "price": "5.20",
+   "beginAmount": 1
+  },
+  {
+   "price": "11.99",
+   "beginAmount": 1
+  }
+ ],
+ "到手价": null,
+ "起订量": 1,
+ "单位": "条",
+ "可售总量": 398669,
+ "已售": 13823,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01UIaw7I23nuohfPpqL_!!951847301-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01luKRpj23numJkYZ0H_!!951847301-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01zTs1z323nuoVzOtCW_!!951847301-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01mTWYfd23nuoWGwsNo_!!951847301-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01zKEv7r23numCOQInw_!!951847301-0-cib.jpg"
+ ],
+ "商品属性": [
+  "材质:纯棉",
+  "品牌:飞飞",
+  "克重:140g（含）-170g（不含）",
+  "制作工艺:平织/断档",
+  "纱线规格:32股",
+  "货号:0401",
+  "加工定制:是",
+  "颜色:0942咖色大格./0942蓝色大格./0410灰色/0410咖色/0397字母绿色/0404-灰色/0404-粉色/0404-湖蓝色/0941蓝色/0941粉色/0405-蓝色/0405-黄色/0952-白色【A类7A抗菌】/0952-蓝色【A类7A抗菌】/0952-橘色【A类7A抗菌】/0952-浅灰【A类7A抗菌】/0951-紫色【A类7A抗菌】/0951-黄色【A类7A抗菌】/0951-深灰【A类7A抗菌】/0951-浅咖【A类7A抗菌】/0951-浅粉【A类7A抗菌】/0951-浅灰【A类7A抗菌】/0951-薄荷绿【A类7A抗菌】/0951-深棕【A类7A抗菌】/0951-深粉【A类7A抗菌】/0951-中灰【A类7A抗菌】/0947双回格澡巾浅咖/0398灰色/0398蓝色/0398绿色/0401新粉色/0401新蓝色/0401新绿色/0401新黄色/0396浅咖澡巾/0396黄色澡巾/0396浅蓝澡巾/0948水纹棕色/0950粉色/0950绿色/0950米黄/0950浅灰",
+  "规格（长*宽cm）:40*90CM/40*80CM",
+  "安全类别:B类",
+  "吸水性等级:5s-10s",
+  "厚度等级:标准款（常规款）",
+  "长*宽（CM）:40*90cm",
+  "抗菌处理:不抗菌处理",
+  "产地:中国",
+  "使用场景:旅游/沙滩/酒店/美容院/健身/洗浴/家庭",
+  "适用人群:儿童/通用/成人",
+  "是否一次性:否"
+ ],
+ "包装信息": [
+  {
+   "sku2": "40*90CM",
+   "volume": 0,
+   "sku1": "0942咖色大格.",
+   "length": 0,
+   "width": 0,
+   "weight": 150,
+   "skuId": 6294885246526,
+   "height": 0
+  },
+  {
+   "sku2": "40*90CM",
+   "volume": 0,
+   "sku1": "0942蓝色大格.",
+   "length": 0,
+   "width": 0,
+   "weight": 150,
+   "skuId": 6294885246525,
+   "height": 0
+  },
+  {
+   "sku2": "40*90CM",
+   "volume": 0,
+   "sku1": "0410灰色",
+   "length": 0,
+   "width": 0,
+   "weight": 150,
+   "skuId": 6294885246559,
+   "height": 0
+  },
+  {
+   "sku2": "40*90CM",
+   "volume": 0,
+   "sku1": "0410咖色",
+   "length": 0,
+   "width": 0,
+   "weight": 150,
+   "skuId": 6294885246556,
+   "height": 0
+  },
+  {
+   "sku2": "40*90CM",
+   "volume": 0,
+   "sku1": "0397字母绿色",
+   "length": 0,
+   "width": 0,
+   "weight": 150,
+   "skuId": 6294885246534,
+   "height": 0
+  },
+  {
+   "sku2": "40*90CM",
+   "volume": 0,
+   "sku1": "0404-灰色",
+   "length": 0,
+   "width": 0,
+   "weight": 150,
+   "skuId": 6294885246515,
+   "height": 0
+  },
+  {
+   "sku2": "40*90CM",
+   "volume": 0,
+   "sku1": "0404-粉色",
+   "length": 0,
+   "width": 0,
+   "weight": 150,
+   "skuId": 6294885246519,
+   "height": 0
+  },
+  {
+   "sku2": "40*90CM",
+   "volume": 0,
+   "sku1": "0404-湖蓝色",
+   "length": 0,
+   "width": 0,
+   "weight": 150,
+   "skuId": 6294885246520,
+   "height": 0
+  },
+  {
+   "sku2": "40*90CM",
+   "volume": 0,
+   "sku1": "0941蓝色",
+   "length": 0,
+   "width": 0,
+   "weight": 150,
+   "skuId": 6294885246558,
+   "height": 0
+  },
+  {
+   "sku2": "40*90CM",
+   "volume": 0,
+   "sku1": "0941粉色",
+   "length": 0,
+   "width": 0,
+   "weight": 150,
+   "skuId": 6294885246516,
+   "height": 0
+  },
+  {
+   "sku2": "40*90CM",
+   "volume": 0,
+   "sku1": "0405-蓝色",
+   "length": 0,
+   "width": 0,
+   "weight": 150,
+   "skuId": 6294885246517,
+   "height": 0
+  },
+  {
+   "sku2": "40*90CM",
+   "volume": 0,
+   "sku1": "0405-黄色",
+   "length": 0,
+   "width": 0,
+   "weight": 150,
+   "skuId": 6294885246521,
+   "height": 0
+  },
+  {
+   "sku2": "40*80CM",
+   "volume": 0,
+   "sku1": "0952-白色【A类7A抗菌】",
+   "length": 0,
+   "width": 0,
+   "weight": 140,
+   "skuId": 6295063279274,
+   "height": 0
+  },
+  {
+   "sku2": "40*80CM",
+   "volume": 0,
+   "sku1": "0952-蓝色【A类7A抗菌】",
+   "length": 0,
+   "width": 0,
+   "weight": 140,
+   "skuId": 6295063279278,
+   "height": 0
+  },
+  {
+   "sku2": "40*80CM",
+   "volume": 0,
+   "sku1": "0952-橘色【A类7A抗菌】",
+   "length": 0,
+   "width": 0,
+   "weight": 140,
+   "skuId": 6295063279276,
+   "height": 0
+  },
+  {
+   "sku2": "40*80CM",
+   "volume": 0,
+   "sku1": "0952-浅灰【A类7A抗菌】",
+   "length": 0,
+   "width": 0,
+   "weight": 140,
+   "skuId": 6295063279280,
+   "height": 0
+  },
+  {
+   "sku2": "40*80CM",
+   "volume": 0,
+   "sku1": "0951-紫色【A类7A抗菌】",
+   "length": 0,
+   "width": 0,
+   "weight": 200,
+   "skuId": 6295063279270,
+   "height": 0
+  },
+  {
+   "sku2": "40*80CM",
+   "volume": 0,
+   "sku1": "0951-黄色【A类7A抗菌】",
+   "length": 0,
+   "width": 0,
+   "weight": 200,
+   "skuId": 6295063279268,
+   "height": 0
+  },
+  {
+   "sku2": "40*80CM",
+   "volume": 0,
+   "sku1": "0951-深灰【A类7A抗菌】",
+   "length": 0,
+   "width": 0,
+   "weight": 200,
+   "skuId": 6295063279258,
+   "height": 0
+  },
+  {
+   "sku2": "40*80CM",
+   "volume": 0,
+   "sku1": "0951-浅咖【A类7A抗菌】",
+   "length": 0,
+   "width": 0,
+   "weight": 200,
+   "skuId": 6295063279260,
+   "height": 0
+  },
+  {
+   "sku2": "40*80CM",
+   "volume": 0,
+   "sku1": "0951-浅粉【A类7A抗菌】",
+   "length": 0,
+   "width": 0,
+   "weight": 200,
+   "skuId": 6295063279264,
+   "height": 0
+  },
+  {
+   "sku2": "40*80CM",
+   "volume": 0,
+   "sku1": "0951-浅灰【A类7A抗菌】",
+   "length": 0,
+   "width": 0,
+   "weight": 200,
+   "skuId": 6295063279282,
+   "height": 0
+  },
+  {
+   "sku2": "40*80CM",
+   "volume": 0,
+   "sku1": "0951-薄荷绿【A类7A抗菌】",
+   "length": 0,
+   "width": 0,
+   "weight": 200,
+   "skuId": 6295063279272,
+   "height": 0
+  },
+  {
+   "sku2": "40*80CM",
+   "volume": 0,
+   "sku1": "0951-深棕【A类7A抗菌】",
+   "length": 0,
+   "width": 0,
+   "weight": 200,
+   "skuId": 6295063279262,
+   "height": 0
+  },
+  {
+   "sku2": "40*80CM",
+   "volume": 0,
+   "sku1": "0951-深粉【A类7A抗菌】",
+   "length": 0,
+   "width": 0,
+   "weight": 200,
+   "skuId": 6295063279266,
+   "height": 0
+  },
+  {
+   "sku2": "40*80CM",
+   "volume": 0,
+   "sku1": "0951-中灰【A类7A抗菌】",
+   "length": 0,
+   "width": 0,
+   "weight": 200,
+   "skuId": 6295063279256,
+   "height": 0
+  },
+  {
+   "sku2": "40*90CM",
+   "volume": 0,
+   "sku1": "0947双回格澡巾浅咖",
+   "length": 0,
+   "width": 0,
+   "weight": 150,
+   "skuId": 6294885246537,
+   "height": 0
+  },
+  {
+   "sku2": "40*90CM",
+   "volume": 0,
+   "sku1": "0398灰色",
+   "length": 0,
+   "width": 0,
+   "weight": 150,
+   "skuId": 6294885246513,
+   "height": 0
+  },
+  {
+   "sku2": "40*90CM",
+   "volume": 0,
+   "sku1": "0398蓝色",
+   "length": 0,
+   "width": 0,
+   "weight": 150,
+   "skuId": 6294885246557,
+   "height": 0
+  },
+  {
+   "sku2": "40*90CM",
+   "volume": 0,
+   "sku1": "0398绿色",
+   "length": 0,
+   "width": 0,
+   "weight": 150,
+   "skuId": 6294885246560,
+   "height": 0
+  },
+  {
+   "sku2": "40*90CM",
+   "volume": 0,
+   "sku1": "0401新粉色",
+   "length": 0,
+   "width": 0,
+   "weight": 150,
+   "skuId": 6294885246555,
+   "height": 0
+  },
+  {
+   "sku2": "40*90CM",
+   "volume": 0,
+   "sku1": "0401新蓝色",
+   "length": 0,
+   "width": 0,
+   "weight": 150,
+   "skuId": 6294885246528,
+   "height": 0
+  },
+  {
+   "sku2": "40*90CM",
+   "volume": 0,
+   "sku1": "0401新绿色",
+   "length": 0,
+   "width": 0,
+   "weight": 150,
+   "skuId": 6294885246529,
+   "height": 0
+  },
+  {
+   "sku2": "40*90CM",
+   "volume": 0,
+   "sku1": "0401新黄色",
+   "length": 0,
+   "width": 0,
+   "weight": 150,
+   "skuId": 6294885246527,
+   "height": 0
+  },
+  {
+   "sku2": "40*90CM",
+   "volume": 0,
+   "sku1": "0396浅咖澡巾",
+   "length": 0,
+   "width": 0,
+   "weight": 150,
+   "skuId": 6294885246531,
+   "height": 0
+  },
+  {
+   "sku2": "40*90CM",
+   "volume": 0,
+   "sku1": "0396黄色澡巾",
+   "length": 0,
+   "width": 0,
+   "weight": 150,
+   "skuId": 6294885246530,
+   "height": 0
+  },
+  {
+   "sku2": "40*90CM",
+   "volume": 0,
+   "sku1": "0396浅蓝澡巾",
+   "length": 0,
+   "width": 0,
+   "weight": 150,
+   "skuId": 6294885246532,
+   "height": 0
+  },
+  {
+   "sku2": "40*90CM",
+   "volume": 0,
+   "sku1": "0948水纹棕色",
+   "length": 0,
+   "width": 0,
+   "weight": 150,
+   "skuId": 6294885246538,
+   "height": 0
+  },
+  {
+   "sku2": "40*90CM",
+   "volume": 0,
+   "sku1": "0950粉色",
+   "length": 0,
+   "width": 0,
+   "weight": 150,
+   "skuId": 6294885246514,
+   "height": 0
+  },
+  {
+   "sku2": "40*90CM",
+   "volume": 0,
+   "sku1": "0950绿色",
+   "length": 0,
+   "width": 0,
+   "weight": 150,
+   "skuId": 6294885246562,
+   "height": 0
+  },
+  {
+   "sku2": "40*90CM",
+   "volume": 0,
+   "sku1": "0950米黄",
+   "length": 0,
+   "width": 0,
+   "weight": 150,
+   "skuId": 6294885246540,
+   "height": 0
+  },
+  {
+   "sku2": "40*90CM",
+   "volume": 0,
+   "sku1": "0950浅灰",
+   "length": 0,
+   "width": 0,
+   "weight": 150,
+   "skuId": 6294885246518,
+   "height": 0
+  }
+ ],
+ "url": "https://detail.1688.com/offer/674846592408.html",
+ "核页时间": "2026-10-06T19:20:54.898Z"
+}

@@ -1,0 +1,753 @@
+{
+ "offerId": "760388752755",
+ "条目": "H0240",
+ "block": false,
+ "卖家公司": "潮州市潮安区金石镇班晟五金制品厂",
+ "旺旺名": "班晟五金制品厂",
+ "标题": "厨房挂墙置物架调料架挂壁式加厚免打孔调味料品罐收纳架子",
+ "状态": "PUBLISHED",
+ "类目": "厨房置物架",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "层数（规格）",
+   "值": [
+    "30cm【黑色】",
+    "40cm【黑色】",
+    "50cm【黑色】",
+    "60cm【黑色",
+    "30cm【灰色】",
+    "40cm【灰色】",
+    "50cm【灰色】",
+    "60cm【灰色】",
+    "30cm【黑色+杆+钩】",
+    "40cm【黑色+杆+钩】",
+    "50cm【黑色+杆+钩】",
+    "60cm【黑色+杆+钩】",
+    "30cm【灰色+杆+钩】",
+    "40cm【灰色+杆+钩】",
+    "50cm【灰色+杆+钩】",
+    "60cm【灰色+杆+钩】",
+    "30cm【黑色双层】",
+    "40cm【黑色双层】",
+    "50cm【黑色双层】",
+    "60cm【黑色双层】",
+    "30cm【灰色双层】",
+    "40cm【灰色双层】",
+    "50cm【灰色双层】",
+    "60cm【灰色双层】",
+    "30cm【奶油】",
+    "40cm【奶油】",
+    "50cm【奶油】",
+    "60cm【奶油】",
+    "30cm【奶油+杆+钩】",
+    "40cm【奶油+杆+钩】",
+    "50cm【奶油+杆+钩】",
+    "60cm【奶油+杆+钩】",
+    "30cm【奶油双层】",
+    "40cm【奶油双层】",
+    "50cm【奶油双层】",
+    "60cm【奶油双层】"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "50cm【奶油双层】",
+   "价格": "28.00",
+   "库存": 88875
+  },
+  {
+   "规格": "40cm【灰色】",
+   "价格": "11.50",
+   "库存": 998579
+  },
+  {
+   "规格": "30cm【灰色】",
+   "价格": "9.50",
+   "库存": 999730
+  },
+  {
+   "规格": "30cm【奶油】",
+   "价格": "9.00",
+   "库存": 49971
+  },
+  {
+   "规格": "60cm【黑色",
+   "价格": "14.50",
+   "库存": 999923
+  },
+  {
+   "规格": "40cm【奶油】",
+   "价格": "11.50",
+   "库存": 49547
+  },
+  {
+   "规格": "60cm【灰色】",
+   "价格": "14.50",
+   "库存": 999809
+  },
+  {
+   "规格": "50cm【灰色+杆+钩】",
+   "价格": "15.00",
+   "库存": 999929
+  },
+  {
+   "规格": "40cm【黑色双层】",
+   "价格": "25.00",
+   "库存": 47820
+  },
+  {
+   "规格": "50cm【黑色双层】",
+   "价格": "28.00",
+   "库存": 55421
+  },
+  {
+   "规格": "50cm【奶油】",
+   "价格": "13.00",
+   "库存": 88659
+  },
+  {
+   "规格": "50cm【灰色】",
+   "价格": "13.00",
+   "库存": 999554
+  },
+  {
+   "规格": "50cm【黑色+杆+钩】",
+   "价格": "15.00",
+   "库存": 999256
+  },
+  {
+   "规格": "30cm【灰色双层】",
+   "价格": "21.00",
+   "库存": 49996
+  },
+  {
+   "规格": "60cm【奶油】",
+   "价格": "14.50",
+   "库存": 88750
+  },
+  {
+   "规格": "40cm【黑色】",
+   "价格": "11.50",
+   "库存": 996804
+  },
+  {
+   "规格": "50cm【黑色】",
+   "价格": "13.00",
+   "库存": 999263
+  },
+  {
+   "规格": "30cm【黑色】",
+   "价格": "9.50",
+   "库存": 996894
+  },
+  {
+   "规格": "30cm【灰色+杆+钩】",
+   "价格": "11.00",
+   "库存": 999956
+  },
+  {
+   "规格": "30cm【奶油+杆+钩】",
+   "价格": "11.00",
+   "库存": 88804
+  },
+  {
+   "规格": "60cm【奶油+杆+钩】",
+   "价格": "16.50",
+   "库存": 88789
+  },
+  {
+   "规格": "60cm【灰色+杆+钩】",
+   "价格": "16.50",
+   "库存": 999914
+  },
+  {
+   "规格": "50cm【灰色双层】",
+   "价格": "28.00",
+   "库存": 49980
+  },
+  {
+   "规格": "60cm【黑色+杆+钩】",
+   "价格": "16.50",
+   "库存": 998598
+  },
+  {
+   "规格": "60cm【黑色双层】",
+   "价格": "31.00",
+   "库存": 49954
+  },
+  {
+   "规格": "30cm【黑色双层】",
+   "价格": "21.00",
+   "库存": 49992
+  },
+  {
+   "规格": "40cm【灰色双层】",
+   "价格": "25.00",
+   "库存": 49978
+  },
+  {
+   "规格": "40cm【奶油+杆+钩】",
+   "价格": "13.00",
+   "库存": 88653
+  },
+  {
+   "规格": "40cm【奶油双层】",
+   "价格": "25.00",
+   "库存": 88573
+  },
+  {
+   "规格": "30cm【黑色+杆+钩】",
+   "价格": "11.00",
+   "库存": 999811
+  },
+  {
+   "规格": "60cm【灰色双层】",
+   "价格": "31.00",
+   "库存": 49980
+  },
+  {
+   "规格": "50cm【奶油+杆+钩】",
+   "价格": "15.00",
+   "库存": 88850
+  },
+  {
+   "规格": "30cm【奶油双层】",
+   "价格": "21.00",
+   "库存": 88883
+  },
+  {
+   "规格": "60cm【奶油双层】",
+   "价格": "31.00",
+   "库存": 88872
+  },
+  {
+   "规格": "40cm【灰色+杆+钩】",
+   "价格": "13.00",
+   "库存": 999900
+  },
+  {
+   "规格": "40cm【黑色+杆+钩】",
+   "价格": "13.00",
+   "库存": 999702
+  }
+ ],
+ "规格图": [
+  [
+   "30cm【黑色】",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01m9lRqD2Fzc6549Q95_!!2215082728951-0-cib.jpg"
+  ],
+  [
+   "40cm【黑色】",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01YgWF222Fzc6Hr3YhN_!!2215082728951-0-cib.jpg"
+  ],
+  [
+   "50cm【黑色】",
+   "https://cbu01.alicdn.com/img/ibank/O1CN0191VEzy2Fzc69cmq3R_!!2215082728951-0-cib.jpg"
+  ],
+  [
+   "60cm【黑色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01FIjvRt2Fzc6Hr2tAx_!!2215082728951-0-cib.jpg"
+  ],
+  [
+   "30cm【灰色】",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01LQMbHm2Fzc6H3wGy1_!!2215082728951-0-cib.jpg"
+  ],
+  [
+   "40cm【灰色】",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01twR44u2Fzc6Hr1kXn_!!2215082728951-0-cib.jpg"
+  ],
+  [
+   "50cm【灰色】",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01mwXIc02Fzc6Hr5ZYI_!!2215082728951-0-cib.jpg"
+  ],
+  [
+   "60cm【灰色】",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01rq0UW52Fzc6IWum9z_!!2215082728951-0-cib.jpg"
+  ],
+  [
+   "30cm【黑色+杆+钩】",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01tZ5We82Fzc6Hr77HE_!!2215082728951-0-cib.jpg"
+  ],
+  [
+   "40cm【黑色+杆+钩】",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01rA5NQS2Fzc6BDBkRJ_!!2215082728951-0-cib.jpg"
+  ],
+  [
+   "50cm【黑色+杆+钩】",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01ckJG2J2Fzc6Giueec_!!2215082728951-0-cib.jpg"
+  ],
+  [
+   "60cm【黑色+杆+钩】",
+   "https://cbu01.alicdn.com/img/ibank/O1CN018lM54L2Fzc6D6xHu4_!!2215082728951-0-cib.jpg"
+  ],
+  [
+   "30cm【灰色+杆+钩】",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01ckeLNu2Fzc654GOu4_!!2215082728951-0-cib.jpg"
+  ],
+  [
+   "40cm【灰色+杆+钩】",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01eTmDCd2Fzc6FkcTME_!!2215082728951-0-cib.jpg"
+  ],
+  [
+   "50cm【灰色+杆+钩】",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01MoYM7F2Fzc6GiyDAP_!!2215082728951-0-cib.jpg"
+  ],
+  [
+   "60cm【灰色+杆+钩】",
+   "https://cbu01.alicdn.com/img/ibank/O1CN015qnMel2Fzc6HrBLVE_!!2215082728951-0-cib.jpg"
+  ],
+  [
+   "30cm【黑色双层】",
+   "https://cbu01.alicdn.com/img/ibank/O1CN016I3apa2Fzc7dHiYly_!!2215082728951-0-cib.jpg"
+  ],
+  [
+   "40cm【黑色双层】",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01Unm35j2Fzc7ibQLLm_!!2215082728951-0-cib.jpg"
+  ],
+  [
+   "50cm【黑色双层】",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01svHbY12Fzc7jM8ra9_!!2215082728951-0-cib.jpg"
+  ],
+  [
+   "60cm【黑色双层】",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01Clvup02Fzc7jzXU2C_!!2215082728951-0-cib.jpg"
+  ],
+  [
+   "30cm【灰色双层】",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01rj5W492Fzc7ibOOtR_!!2215082728951-0-cib.jpg"
+  ],
+  [
+   "40cm【灰色双层】",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01cyaAIk2Fzc7gjSZVY_!!2215082728951-0-cib.jpg"
+  ],
+  [
+   "50cm【灰色双层】",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01YyXX122Fzc7jMDYs0_!!2215082728951-0-cib.jpg"
+  ],
+  [
+   "60cm【灰色双层】",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01EhsYwd2Fzc7hMS1ci_!!2215082728951-0-cib.jpg"
+  ],
+  [
+   "30cm【奶油】",
+   "https://cbu01.alicdn.com/img/ibank/O1CN018byOzV2Fzc8slKVvK_!!2215082728951-0-cib.jpg"
+  ],
+  [
+   "40cm【奶油】",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01ey0M2p2Fzc8qpQ6QB_!!2215082728951-0-cib.jpg"
+  ],
+  [
+   "50cm【奶油】",
+   "https://cbu01.alicdn.com/img/ibank/O1CN011TzXBv2Fzc8rmITc8_!!2215082728951-0-cib.jpg"
+  ],
+  [
+   "60cm【奶油】",
+   "https://cbu01.alicdn.com/img/ibank/O1CN015hp8rA2Fzc8qpQN5U_!!2215082728951-0-cib.jpg"
+  ],
+  [
+   "30cm【奶油+杆+钩】",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01o2R5Xq2Fzc8qpQhuQ_!!2215082728951-0-cib.jpg"
+  ],
+  [
+   "40cm【奶油+杆+钩】",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01WZURap2Fzc8okfbhT_!!2215082728951-0-cib.jpg"
+  ],
+  [
+   "50cm【奶油+杆+钩】",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01daX1LY2Fzc8lxxr9Q_!!2215082728951-0-cib.jpg"
+  ],
+  [
+   "60cm【奶油+杆+钩】",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01asyzm42Fzc8tOLR7a_!!2215082728951-0-cib.jpg"
+  ],
+  [
+   "30cm【奶油双层】",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01D5sz612Fzc8p61M1H_!!2215082728951-0-cib.jpg"
+  ],
+  [
+   "40cm【奶油双层】",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01E7nSL72Fzc8nEDKaH_!!2215082728951-0-cib.jpg"
+  ],
+  [
+   "50cm【奶油双层】",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01BQO0qL2Fzc8hPLB48_!!2215082728951-0-cib.jpg"
+  ],
+  [
+   "60cm【奶油双层】",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01HBOkqn2Fzc8qpUKaV_!!2215082728951-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "skuPrice",
+ "价格区间": "9.00-31.00",
+ "阶梯价_登录后": [
+  {
+   "price": "9.00",
+   "beginAmount": 1
+  },
+  {
+   "price": "31.00",
+   "beginAmount": 2
+  }
+ ],
+ "到手价": null,
+ "起订量": 2,
+ "单位": "个",
+ "可售总量": 17377969,
+ "已售": 4456,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01MAOd7q2Fzc8mrG0g4_!!2215082728951-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01qbCBSi2Fzc6GihE9O_!!2215082728951-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01GKtOni2Fzc8slD7q6_!!2215082728951-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN010X9kaE2Fzc6Aix5F4_!!2215082728951-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01g3T0B32Fzc6FTuBNS_!!2215082728951-0-cib.jpg"
+ ],
+ "商品属性": [
+  "材质:碳钢",
+  "功能:免安装",
+  "置物架分类:壁挂",
+  "品牌:班晟",
+  "风格:其它",
+  "货号:加厚置物架",
+  "是否进口:否",
+  "产地:潮州",
+  "产品上市时间:2024",
+  "价格段:10-20元",
+  "层数（规格）:30cm【黑色】/40cm【黑色】/50cm【黑色】/60cm【黑色/30cm【灰色】/40cm【灰色】/50cm【灰色】/60cm【灰色】/30cm【黑色+杆+钩】/40cm【黑色+杆+钩】/50cm【黑色+杆+钩】/60cm【黑色+杆+钩】/30cm【灰色+杆+钩】/40cm【灰色+杆+钩】/50cm【灰色+杆+钩】/60cm【灰色+杆+钩】/30cm【黑色双层】/40cm【黑色双层】/50cm【黑色双层】/60cm【黑色双层】/30cm【灰色双层】/40cm【灰色双层】/50cm【灰色双层】/60cm【灰色双层】/30cm【奶油】/40cm【奶油】/50cm【奶油】/60cm【奶油】/30cm【奶油+杆+钩】/40cm【奶油+杆+钩】/50cm【奶油+杆+钩】/60cm【奶油+杆+钩】/30cm【奶油双层】/40cm【奶油双层】/50cm【奶油双层】/60cm【奶油双层】",
+  "是否有专利:无",
+  "是否跨境出口专供货源:否",
+  "版权:无",
+  "适用位置:墙面",
+  "置物用品类型:调味料",
+  "造型设计:长方形"
+ ],
+ "包装信息": [
+  {
+   "volume": 2611.44,
+   "sku1": "30cm【黑色】",
+   "length": 10.8,
+   "width": 7.8,
+   "weight": 728,
+   "skuId": 5414255383223,
+   "height": 31
+  },
+  {
+   "volume": 3453.84,
+   "sku1": "40cm【黑色】",
+   "length": 10.8,
+   "width": 7.8,
+   "weight": 919,
+   "skuId": 5414255383224,
+   "height": 41
+  },
+  {
+   "volume": 4296.24,
+   "sku1": "50cm【黑色】",
+   "length": 10.8,
+   "width": 7.8,
+   "weight": 1105,
+   "skuId": 5414255383225,
+   "height": 51
+  },
+  {
+   "volume": 5138.64,
+   "sku1": "60cm【黑色",
+   "length": 10.8,
+   "width": 7.8,
+   "weight": 1302,
+   "skuId": 5414255383226,
+   "height": 61
+  },
+  {
+   "volume": 2611.44,
+   "sku1": "30cm【灰色】",
+   "length": 10.8,
+   "width": 7.8,
+   "weight": 728,
+   "skuId": 5414255383227,
+   "height": 31
+  },
+  {
+   "volume": 3453.84,
+   "sku1": "40cm【灰色】",
+   "length": 10.8,
+   "width": 7.8,
+   "weight": 919,
+   "skuId": 5414255383228,
+   "height": 41
+  },
+  {
+   "volume": 4296.24,
+   "sku1": "50cm【灰色】",
+   "length": 10.8,
+   "width": 7.8,
+   "weight": 1105,
+   "skuId": 5414255383229,
+   "height": 51
+  },
+  {
+   "volume": 5138.64,
+   "sku1": "60cm【灰色】",
+   "length": 10.8,
+   "width": 7.8,
+   "weight": 1302,
+   "skuId": 5414255383230,
+   "height": 61
+  },
+  {
+   "volume": 2611.44,
+   "sku1": "30cm【黑色+杆+钩】",
+   "length": 10.8,
+   "width": 7.8,
+   "weight": 766,
+   "skuId": 5414255383231,
+   "height": 31
+  },
+  {
+   "volume": 3453.84,
+   "sku1": "40cm【黑色+杆+钩】",
+   "length": 10.8,
+   "width": 7.8,
+   "weight": 972,
+   "skuId": 5414255383232,
+   "height": 41
+  },
+  {
+   "volume": 4296.24,
+   "sku1": "50cm【黑色+杆+钩】",
+   "length": 10.8,
+   "width": 7.8,
+   "weight": 1168,
+   "skuId": 5414255383233,
+   "height": 51
+  },
+  {
+   "volume": 5138.64,
+   "sku1": "60cm【黑色+杆+钩】",
+   "length": 10.8,
+   "width": 7.8,
+   "weight": 1376,
+   "skuId": 5414255383234,
+   "height": 61
+  },
+  {
+   "volume": 2611.44,
+   "sku1": "30cm【灰色+杆+钩】",
+   "length": 10.8,
+   "width": 7.8,
+   "weight": 766,
+   "skuId": 5414255383235,
+   "height": 31
+  },
+  {
+   "volume": 3453.84,
+   "sku1": "40cm【灰色+杆+钩】",
+   "length": 10.8,
+   "width": 7.8,
+   "weight": 972,
+   "skuId": 5414255383236,
+   "height": 41
+  },
+  {
+   "volume": 4296.24,
+   "sku1": "50cm【灰色+杆+钩】",
+   "length": 10.8,
+   "width": 7.8,
+   "weight": 1168,
+   "skuId": 5414255383237,
+   "height": 51
+  },
+  {
+   "volume": 5138.64,
+   "sku1": "60cm【灰色+杆+钩】",
+   "length": 10.8,
+   "width": 7.8,
+   "weight": 1376,
+   "skuId": 5414255383238,
+   "height": 61
+  },
+  {
+   "volume": 5751,
+   "sku1": "30cm【黑色双层】",
+   "length": 35.5,
+   "width": 13.5,
+   "weight": 1429,
+   "skuId": 5306949605450,
+   "height": 12
+  },
+  {
+   "volume": 7371,
+   "sku1": "40cm【黑色双层】",
+   "length": 45.5,
+   "width": 13.5,
+   "weight": 1808,
+   "skuId": 5306949605451,
+   "height": 12
+  },
+  {
+   "volume": 8991,
+   "sku1": "50cm【黑色双层】",
+   "length": 55.5,
+   "width": 13.5,
+   "weight": 2174,
+   "skuId": 5306949605449,
+   "height": 12
+  },
+  {
+   "volume": 10611,
+   "sku1": "60cm【黑色双层】",
+   "length": 65.5,
+   "width": 13.5,
+   "weight": 2563,
+   "skuId": 5306949605452,
+   "height": 12
+  },
+  {
+   "volume": 5751,
+   "sku1": "30cm【灰色双层】",
+   "length": 35.5,
+   "width": 13.5,
+   "weight": 1429,
+   "skuId": 5306949605454,
+   "height": 12
+  },
+  {
+   "volume": 7371,
+   "sku1": "40cm【灰色双层】",
+   "length": 45.5,
+   "width": 13.5,
+   "weight": 1808,
+   "skuId": 5306949605455,
+   "height": 12
+  },
+  {
+   "volume": 8991,
+   "sku1": "50cm【灰色双层】",
+   "length": 55.5,
+   "width": 13.5,
+   "weight": 2174,
+   "skuId": 5306949605456,
+   "height": 12
+  },
+  {
+   "volume": 10611,
+   "sku1": "60cm【灰色双层】",
+   "length": 65.5,
+   "width": 13.5,
+   "weight": 2563,
+   "skuId": 5306949605453,
+   "height": 12
+  },
+  {
+   "volume": 2611.44,
+   "sku1": "30cm【奶油】",
+   "length": 10.8,
+   "width": 7.8,
+   "weight": 728,
+   "skuId": 5596852226021,
+   "height": 31
+  },
+  {
+   "volume": 3453.84,
+   "sku1": "40cm【奶油】",
+   "length": 10.8,
+   "width": 7.8,
+   "weight": 919,
+   "skuId": 5596852226022,
+   "height": 41
+  },
+  {
+   "volume": 4296.24,
+   "sku1": "50cm【奶油】",
+   "length": 10.8,
+   "width": 7.8,
+   "weight": 1105,
+   "skuId": 5596852226023,
+   "height": 51
+  },
+  {
+   "volume": 5138.64,
+   "sku1": "60cm【奶油】",
+   "length": 10.8,
+   "width": 7.8,
+   "weight": 1302,
+   "skuId": 5596852226020,
+   "height": 61
+  },
+  {
+   "volume": 2611.44,
+   "sku1": "30cm【奶油+杆+钩】",
+   "length": 10.8,
+   "width": 7.8,
+   "weight": 766,
+   "skuId": 5596852226024,
+   "height": 31
+  },
+  {
+   "volume": 3453.84,
+   "sku1": "40cm【奶油+杆+钩】",
+   "length": 10.8,
+   "width": 7.8,
+   "weight": 972,
+   "skuId": 5596852226025,
+   "height": 41
+  },
+  {
+   "volume": 4296.24,
+   "sku1": "50cm【奶油+杆+钩】",
+   "length": 10.8,
+   "width": 7.8,
+   "weight": 1168,
+   "skuId": 5596852226026,
+   "height": 51
+  },
+  {
+   "volume": 5138.64,
+   "sku1": "60cm【奶油+杆+钩】",
+   "length": 10.8,
+   "width": 7.8,
+   "weight": 1376,
+   "skuId": 5596852226031,
+   "height": 61
+  },
+  {
+   "volume": 5751,
+   "sku1": "30cm【奶油双层】",
+   "length": 35.5,
+   "width": 13.5,
+   "weight": 1429,
+   "skuId": 5596852226027,
+   "height": 12
+  },
+  {
+   "volume": 7371,
+   "sku1": "40cm【奶油双层】",
+   "length": 45.5,
+   "width": 13.5,
+   "weight": 1808,
+   "skuId": 5596852226028,
+   "height": 12
+  },
+  {
+   "volume": 8991,
+   "sku1": "50cm【奶油双层】",
+   "length": 55.5,
+   "width": 13.5,
+   "weight": 2174,
+   "skuId": 5596852226029,
+   "height": 12
+  },
+  {
+   "volume": 10611,
+   "sku1": "60cm【奶油双层】",
+   "length": 65.5,
+   "width": 13.5,
+   "weight": 2563,
+   "skuId": 5596852226030,
+   "height": 12
+  }
+ ],
+ "url": "https://detail.1688.com/offer/760388752755.html",
+ "核页时间": "2026-10-06T15:51:30.092Z"
+}

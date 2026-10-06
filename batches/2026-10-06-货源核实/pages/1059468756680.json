@@ -1,0 +1,187 @@
+{
+ "offerId": "1059468756680",
+ "条目": "H0281",
+ "block": false,
+ "卖家公司": "揭阳市榕城区厨夫子不锈钢制品厂(个体工商户)",
+ "旺旺名": "厨夫子不锈钢制品厂",
+ "标题": "不锈钢勺子长柄火锅勺漏勺叶滴三厘无磁滴水勺公用勺不锈钢勺",
+ "状态": "PUBLISHED",
+ "类目": "勺、调羹",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "规格",
+   "值": [
+    "3厘加厚5cm勺子",
+    "3厘加厚5cm漏勺",
+    "3厘加厚6cm勺子",
+    "3厘加厚6cm漏勺",
+    "3厘加厚7cm勺子",
+    "3厘加厚7cm漏勺"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "3厘加厚6cm漏勺",
+   "价格": "1.90",
+   "库存": 49998
+  },
+  {
+   "规格": "3厘加厚5cm勺子",
+   "价格": "1.75",
+   "库存": 49998
+  },
+  {
+   "规格": "3厘加厚5cm漏勺",
+   "价格": "1.75",
+   "库存": 49998
+  },
+  {
+   "规格": "3厘加厚7cm勺子",
+   "价格": "2.00",
+   "库存": 49935
+  },
+  {
+   "规格": "3厘加厚6cm勺子",
+   "价格": "1.90",
+   "库存": 49994
+  },
+  {
+   "规格": "3厘加厚7cm漏勺",
+   "价格": "2.00",
+   "库存": 49985
+  }
+ ],
+ "规格图": [
+  [
+   "3厘加厚5cm勺子",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01lA2tKk1l6iNYPu0Ju_!!2222555784770-0-cib.jpg"
+  ],
+  [
+   "3厘加厚5cm漏勺",
+   "https://cbu01.alicdn.com/img/ibank/O1CN017nPWZB1l6iNd04v2T_!!2222555784770-0-cib.jpg"
+  ],
+  [
+   "3厘加厚6cm勺子",
+   "https://cbu01.alicdn.com/img/ibank/O1CN011d1ULA1l6iNdVNM7B_!!2222555784770-0-cib.jpg"
+  ],
+  [
+   "3厘加厚6cm漏勺",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01I5ObCe1l6iNcsEgKH_!!2222555784770-0-cib.jpg"
+  ],
+  [
+   "3厘加厚7cm勺子",
+   "https://cbu01.alicdn.com/img/ibank/O1CN0101IFvr1l6iNd3nkQr_!!2222555784770-0-cib.jpg"
+  ],
+  [
+   "3厘加厚7cm漏勺",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01ITR8Hq1l6iNd7BVtz_!!2222555784770-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "skuPrice",
+ "价格区间": null,
+ "阶梯价_登录后": [
+  {
+   "price": "1.75",
+   "beginAmount": 1
+  },
+  {
+   "price": "2.00",
+   "beginAmount": 1
+  }
+ ],
+ "到手价": null,
+ "起订量": 1,
+ "单位": "把",
+ "可售总量": 299908,
+ "已售": 92,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01ustfhm1l6iNnDo4A5_!!2222555784770-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01xBd6BN1wT7WsKG0Ov_!!6000000006308-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01ijWDsg1NrqMCtAq5h_!!6000000001624-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01af1mYE1km6YbarbDo_!!6000000004725-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01V5GVlx1l6iNcfML5T_!!2222555784770-0-cib.jpg"
+ ],
+ "商品属性": [
+  "材质:不锈钢",
+  "抛光工艺:布轮光（镜面抛光）",
+  "产品质量等级:合格品",
+  "品牌:厨夫子",
+  "适用对象:成人",
+  "不锈钢材质:201不锈钢",
+  "风格:现代简约",
+  "规格:3厘加厚5cm勺子/3厘加厚5cm漏勺/3厘加厚6cm勺子/3厘加厚6cm漏勺/3厘加厚7cm勺子/3厘加厚7cm漏勺",
+  "货号:0001",
+  "加印LOGO:可以",
+  "图案:纯色",
+  "贸易属性:内贸",
+  "是否进口:否",
+  "适用送礼场合:展销会/广告促销/员工福利/商务馈赠",
+  "产品上市时间:2026年春",
+  "价格段:10-20元",
+  "加工定制:是",
+  "是否有专利:否",
+  "产品类别:勺",
+  "是否跨境出口专供货源:否",
+  "风格类型:简约格调"
+ ],
+ "包装信息": [
+  {
+   "volume": 249.69,
+   "sku1": "3厘加厚5cm勺子",
+   "length": 20.5,
+   "width": 5.8,
+   "weight": 60,
+   "skuId": 6100684416034,
+   "height": 2.1
+  },
+  {
+   "volume": 249.69,
+   "sku1": "3厘加厚5cm漏勺",
+   "length": 20.5,
+   "width": 5.8,
+   "weight": 57,
+   "skuId": 6100684416035,
+   "height": 2.1
+  },
+  {
+   "volume": 401.94,
+   "sku1": "3厘加厚6cm勺子",
+   "length": 29,
+   "width": 6.3,
+   "weight": 80,
+   "skuId": 6100684416036,
+   "height": 2.2
+  },
+  {
+   "volume": 401.94,
+   "sku1": "3厘加厚6cm漏勺",
+   "length": 29,
+   "width": 6.3,
+   "weight": 77,
+   "skuId": 6100684416037,
+   "height": 2.2
+  },
+  {
+   "volume": 486.91,
+   "sku1": "3厘加厚7cm勺子",
+   "length": 29,
+   "width": 7.3,
+   "weight": 90,
+   "skuId": 6100684416038,
+   "height": 2.3
+  },
+  {
+   "volume": 486.91,
+   "sku1": "3厘加厚7cm漏勺",
+   "length": 29,
+   "width": 7.3,
+   "weight": 86,
+   "skuId": 6100684416039,
+   "height": 2.3
+  }
+ ],
+ "url": "https://detail.1688.com/offer/1059468756680.html",
+ "核页时间": "2026-10-06T16:05:24.622Z"
+}

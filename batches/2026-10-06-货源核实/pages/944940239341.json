@@ -1,0 +1,194 @@
+{
+ "offerId": "944940239341",
+ "条目": "H0698",
+ "block": false,
+ "卖家公司": "义乌市迪巴拉宠物用品有限公司",
+ "旺旺名": "迪巴拉宠物用品",
+ "标题": "猫梳子原木梳毛专用梳毛刷长毛开结去浮毛神器密齿短毛狗宠物排梳",
+ "状态": "PUBLISHED",
+ "类目": "宠物梳子",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "规格",
+   "值": [
+    "密齿梳",
+    "长短齿疏",
+    "疏齿梳",
+    "密齿梳+长短齿梳",
+    "密齿梳+疏齿梳子",
+    "长短齿梳+疏齿梳子",
+    "密齿+疏齿+长短齿"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "长短齿疏",
+   "价格": "1.90",
+   "库存": 89689
+  },
+  {
+   "规格": "密齿梳",
+   "价格": "1.90",
+   "库存": 92163
+  },
+  {
+   "规格": "密齿梳+疏齿梳子",
+   "价格": "2.80",
+   "库存": 96144
+  },
+  {
+   "规格": "密齿+疏齿+长短齿",
+   "价格": "5.70",
+   "库存": 94314
+  },
+  {
+   "规格": "长短齿梳+疏齿梳子",
+   "价格": "2.80",
+   "库存": 93456
+  },
+  {
+   "规格": "疏齿梳",
+   "价格": "1.90",
+   "库存": 87308
+  },
+  {
+   "规格": "密齿梳+长短齿梳",
+   "价格": "2.80",
+   "库存": 97645
+  }
+ ],
+ "规格图": [
+  [
+   "密齿梳",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01EnZmzs1NwsdVzx9o5_!!2220131161635-0-cib.jpg"
+  ],
+  [
+   "长短齿疏",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01bE1Yq41NwsdTaMy5p_!!2220131161635-0-cib.jpg"
+  ],
+  [
+   "疏齿梳",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01JIm9Z51NwsdUQp2nf_!!2220131161635-0-cib.jpg"
+  ],
+  [
+   "密齿梳+长短齿梳",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01CbSAcJ1NwsdVYpVUM_!!2220131161635-0-cib.jpg"
+  ],
+  [
+   "密齿梳+疏齿梳子",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01y7ojwL1NwsdUxJQ0g_!!2220131161635-0-cib.jpg"
+  ],
+  [
+   "长短齿梳+疏齿梳子",
+   "https://cbu01.alicdn.com/img/ibank/O1CN010e2d3o1NwsdUgY29p_!!2220131161635-0-cib.jpg"
+  ],
+  [
+   "密齿+疏齿+长短齿",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01V1owmG1NwsdOhdnPJ_!!2220131161635-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "skuPrice",
+ "价格区间": null,
+ "阶梯价_登录后": [
+  {
+   "price": "1.90",
+   "beginAmount": 2
+  },
+  {
+   "price": "5.70",
+   "beginAmount": 2
+  }
+ ],
+ "到手价": null,
+ "起订量": 2,
+ "单位": "把",
+ "可售总量": 650719,
+ "已售": 2154,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01L67dsb1NwsdTZdmzf_!!2220131161635-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN012liN4m1NwsdVLJpdJ_!!2220131161635-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01gTW5oi1NwsdUwj60j_!!2220131161635-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01J98Hyj1NwsdT3OzEU_!!2220131161635-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01M2Q3gy1NwsdUfzfBY_!!2220131161635-0-cib.jpg"
+ ],
+ "商品属性": [
+  "材质:不锈钢",
+  "品牌:其他",
+  "是否专利货源:否",
+  "货号:DBL0509",
+  "是否跨境出口专供货源:是",
+  "主要销售地区:北美 欧洲",
+  "有可授权的自有品牌:否",
+  "主要下游平台:亚马逊",
+  "规格:密齿梳/长短齿疏/疏齿梳/密齿梳+长短齿梳/密齿梳+疏齿梳子/长短齿梳+疏齿梳子/密齿+疏齿+长短齿"
+ ],
+ "包装信息": [
+  {
+   "volume": 72,
+   "sku1": "密齿梳",
+   "length": 20,
+   "width": 3,
+   "weight": 23,
+   "skuId": 6017253726856,
+   "height": 1.2
+  },
+  {
+   "volume": 79.2,
+   "sku1": "长短齿疏",
+   "length": 20,
+   "width": 3.3,
+   "weight": 25,
+   "skuId": 6017253726857,
+   "height": 1.2
+  },
+  {
+   "volume": 108,
+   "sku1": "疏齿梳",
+   "length": 20,
+   "width": 4.5,
+   "weight": 24,
+   "skuId": 6017253726858,
+   "height": 1.2
+  },
+  {
+   "volume": 180,
+   "sku1": "密齿梳+长短齿梳",
+   "length": 20,
+   "width": 6,
+   "weight": 47,
+   "skuId": 6017253726859,
+   "height": 1.5
+  },
+  {
+   "volume": 225,
+   "sku1": "密齿梳+疏齿梳子",
+   "length": 20,
+   "width": 7.5,
+   "weight": 48,
+   "skuId": 6017253726860,
+   "height": 1.5
+  },
+  {
+   "volume": 234,
+   "sku1": "长短齿梳+疏齿梳子",
+   "length": 20,
+   "width": 7.8,
+   "weight": 49,
+   "skuId": 6017253726861,
+   "height": 1.5
+  },
+  {
+   "volume": 3660,
+   "sku1": "密齿+疏齿+长短齿",
+   "length": 20,
+   "width": 122,
+   "weight": 72,
+   "skuId": 6017253726862,
+   "height": 1.5
+  }
+ ],
+ "url": "https://detail.1688.com/offer/944940239341.html",
+ "核页时间": "2026-10-06T18:02:07.396Z"
+}

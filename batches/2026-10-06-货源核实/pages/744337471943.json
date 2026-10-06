@@ -1,0 +1,187 @@
+{
+ "offerId": "744337471943",
+ "条目": "H0820",
+ "block": false,
+ "卖家公司": "徐州华秀玻璃制品有限公司",
+ "旺旺名": "华秀玻璃",
+ "标题": "批发油瓶厨房专用玻璃喷油瓶不挂油透明家用加厚油壶喷油壶调料瓶",
+ "状态": "PUBLISHED",
+ "类目": "油壶",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "容量",
+   "值": [
+    "白色喷头",
+    "黑色喷头",
+    "220ml白色",
+    "220ml黑色",
+    "300ML黑色",
+    "300ML白色"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "黑色喷头",
+   "价格": "1.40",
+   "库存": 998366
+  },
+  {
+   "规格": "300ML黑色",
+   "价格": "2.75",
+   "库存": 9960037
+  },
+  {
+   "规格": "300ML白色",
+   "价格": "2.75",
+   "库存": 9942103
+  },
+  {
+   "规格": "白色喷头",
+   "价格": "1.40",
+   "库存": 989341
+  },
+  {
+   "规格": "220ml白色",
+   "价格": "2.35",
+   "库存": 9627904
+  },
+  {
+   "规格": "220ml黑色",
+   "价格": "2.35",
+   "库存": 9875703
+  }
+ ],
+ "规格图": [
+  [
+   "白色喷头",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01IFvbB51Hl4iGb3jGV_!!2212765150797-0-cib.jpg"
+  ],
+  [
+   "黑色喷头",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01GYYjGW1Hl4iEa9PLw_!!2212765150797-0-cib.jpg"
+  ],
+  [
+   "220ml白色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN010P9YMz1Hl4hxOIRTp_!!2212765150797-0-cib.jpg"
+  ],
+  [
+   "220ml黑色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01zKT1WR1Hl4hyi9UDP_!!2212765150797-0-cib.jpg"
+  ],
+  [
+   "300ML黑色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01tPhQ9K1Hl4hwa5sX9_!!2212765150797-0-cib.jpg"
+  ],
+  [
+   "300ML白色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01mGFOPp1Hl4hwyeYwz_!!2212765150797-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "skuPrice",
+ "价格区间": null,
+ "阶梯价_登录后": [
+  {
+   "price": "1.40",
+   "beginAmount": 1
+  },
+  {
+   "price": "2.75",
+   "beginAmount": 1
+  }
+ ],
+ "到手价": null,
+ "起订量": 1,
+ "单位": "个",
+ "可售总量": 41393454,
+ "已售": 88951,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01Jj02271Hl4iylcVkp_!!2212765150797-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN019GF9FZ1Hl4YNDX93N_!!2212765150797-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN018AyTkn1Hl4YQgJwHs_!!2212765150797-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN0121G3Mh1Hl4YIREOoh_!!2212765150797-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN013dONlm1Hl4YKAd87a_!!2212765150797-0-cib.jpg"
+ ],
+ "商品属性": [
+  "材质:玻璃",
+  "功能:按压喷油",
+  "品牌:其他",
+  "产品质量等级:合格品",
+  "是否进口:否",
+  "货号:油壶",
+  "原产国/地区:中国大陆",
+  "容量:白色喷头/黑色喷头/220ml白色/220ml黑色/300ML黑色/300ML白色",
+  "加印LOGO:不可以",
+  "产品上市时间:2023",
+  "价格段:5元以内",
+  "产地:其他",
+  "是否有专利:否",
+  "主要下游平台:ebay/亚马逊/wish/速卖通/独立站/LAZADA/其他",
+  "主要销售地区:非洲/欧洲/南美/东南亚/北美/东北亚/中东/其他",
+  "有可授权的自有品牌:否",
+  "是否跨境出口专供货源:是",
+  "风格:现代简约",
+  "333:喷油瓶",
+  "222:油瓶",
+  "111:喷油壶"
+ ],
+ "包装信息": [
+  {
+   "volume": 2000,
+   "sku1": "白色喷头",
+   "length": 10,
+   "width": 10,
+   "weight": 300,
+   "skuId": 5941260975317,
+   "height": 20
+  },
+  {
+   "volume": 2000,
+   "sku1": "黑色喷头",
+   "length": 10,
+   "width": 10,
+   "weight": 300,
+   "skuId": 5941260975316,
+   "height": 20
+  },
+  {
+   "volume": 2000,
+   "sku1": "220ml白色",
+   "length": 10,
+   "width": 10,
+   "weight": 500,
+   "skuId": 5134672553014,
+   "height": 20
+  },
+  {
+   "volume": 2000,
+   "sku1": "220ml黑色",
+   "length": 10,
+   "width": 10,
+   "weight": 500,
+   "skuId": 5134672553015,
+   "height": 20
+  },
+  {
+   "volume": 2000,
+   "sku1": "300ML黑色",
+   "length": 10,
+   "width": 10,
+   "weight": 500,
+   "skuId": 5136587417988,
+   "height": 20
+  },
+  {
+   "volume": 2000,
+   "sku1": "300ML白色",
+   "length": 10,
+   "width": 10,
+   "weight": 500,
+   "skuId": 5136587417989,
+   "height": 20
+  }
+ ],
+ "url": "https://detail.1688.com/offer/744337471943.html",
+ "核页时间": "2026-10-06T18:35:12.453Z"
+}

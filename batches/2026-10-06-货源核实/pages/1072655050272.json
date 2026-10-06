@@ -1,0 +1,128 @@
+{
+ "offerId": "1072655050272",
+ "条目": "H0525",
+ "block": false,
+ "卖家公司": "义乌市淳品日用百货商行",
+ "旺旺名": "义乌市淳品日用百货商行",
+ "标题": "宠物四季通用猫抓盆特大号猫抓板瓦楞纸圆形耐磨玩具猫窝猫咪用品",
+ "状态": "PUBLISHED",
+ "类目": "猫抓板",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "颜色",
+   "值": [
+    "【小号圆形】直径35cm高8cm",
+    "【中号圆形】直径40cm高9cm",
+    "【小号椭圆形】长43cm宽26cm",
+    "【中号椭圆形】长47cm宽32cm",
+    "【大号椭圆形】长53cm宽37cm"
+   ]
+  },
+  {
+   "属性": "规格",
+   "值": [
+    "无规格"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "【中号椭圆形】长47cm宽32cm&gt;无规格",
+   "价格": "7.33",
+   "库存": 0
+  },
+  {
+   "规格": "【小号椭圆形】长43cm宽26cm&gt;无规格",
+   "价格": "5.86",
+   "库存": 115
+  },
+  {
+   "规格": "【大号椭圆形】长53cm宽37cm&gt;无规格",
+   "价格": "8.35",
+   "库存": 6
+  },
+  {
+   "规格": "【中号圆形】直径40cm高9cm&gt;无规格",
+   "价格": "6.29",
+   "库存": 40
+  },
+  {
+   "规格": "【小号圆形】直径35cm高8cm&gt;无规格",
+   "价格": "4.98",
+   "库存": 104
+  }
+ ],
+ "规格图": [
+  [
+   "【小号圆形】直径35cm高8cm",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01lB6tTCgxTFG1chua_!!2221253645379-0-cib.jpg"
+  ],
+  [
+   "【中号圆形】直径40cm高9cm",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01gxFFzM33t1H1chua_!!2221253645379-0-cib.jpg"
+  ],
+  [
+   "【小号椭圆形】长43cm宽26cm",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01gCl5DV7nC1E1chua_!!2221253645379-0-cib.jpg"
+  ],
+  [
+   "【中号椭圆形】长47cm宽32cm",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01SXlIWVDybxB1chua_!!2221253645379-0-cib.jpg"
+  ],
+  [
+   "【大号椭圆形】长53cm宽37cm",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01rSKRztqxLMF1chua_!!2221253645379-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "skuPrice",
+ "价格区间": "5.08-8.52",
+ "阶梯价_登录后": [
+  {
+   "price": "4.98",
+   "beginAmount": 1
+  },
+  {
+   "price": "8.35",
+   "beginAmount": 1
+  }
+ ],
+ "到手价": {
+  "价": "3.98",
+  "说明": "新人价",
+  "件数": 1
+ },
+ "起订量": 1,
+ "单位": "件",
+ "可售总量": 265,
+ "已售": 105,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01Kjbl4z2zi5F1chua_!!2221253645379-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN017ThWlXvqZyI1chua_!!2221253645379-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN013KK6uMBUSGF1chua_!!2221253645379-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01tIpi5KnudiB1chua_!!2221253645379-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01vrtYLvx2zWC1chua_!!2221253645379-0-cib.jpg"
+ ],
+ "商品属性": [
+  "材质:瓦楞纸",
+  "品牌:朋意",
+  "风格:国潮",
+  "是否专利货源:否",
+  "是否跨境出口专供货源:是",
+  "货号:猫抓板猫窝",
+  "颜色:【小号圆形】直径35cm高8cm/【中号圆形】直径40cm高9cm/【小号椭圆形】长43cm宽26cm/【中号椭圆形】长47cm宽32cm/【大号椭圆形】长53cm宽37cm",
+  "箱装数量:其他",
+  "规格:无规格"
+ ],
+ "包装信息": [
+  {
+   "volume": 0,
+   "length": 0,
+   "width": 0,
+   "weight": 1000,
+   "height": 0
+  }
+ ],
+ "url": "https://detail.1688.com/offer/1072655050272.html",
+ "核页时间": "2026-10-06T17:14:38.318Z"
+}

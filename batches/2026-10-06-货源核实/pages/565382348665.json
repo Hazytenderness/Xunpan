@@ -1,0 +1,407 @@
+{
+ "offerId": "565382348665",
+ "条目": "H0862",
+ "block": false,
+ "卖家公司": "永康市具派家居用品制造厂",
+ "旺旺名": "具派家居用品",
+ "标题": "新款背带款保温杯杯套卡通儿童水壶套玻璃杯隔热潜水料肩带壶套",
+ "状态": "PUBLISHED",
+ "类目": "杯套/壶套/保温套",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "颜色",
+   "值": [
+    "粉小鹿",
+    "太阳狗",
+    "青恐龙",
+    "叠乐高",
+    "宇航员",
+    "犀牛",
+    "狮子王",
+    "围兜猫",
+    "黑圆点",
+    "猫头鹰",
+    "紫怪兽",
+    "仙人掌",
+    "恐龙",
+    "围兜狗",
+    "招财猫",
+    "藏青星",
+    "卡通",
+    "蓝小象",
+    "Hello熊",
+    "星愿袋",
+    "迷彩绿",
+    "蓝企鹅",
+    "暗红咖啡",
+    "海底世界",
+    "爱心猫",
+    "蓝猫咪",
+    "足球",
+    "喷水象",
+    "小白熊",
+    "LOVE 猫",
+    "大脸猫",
+    "OPP包装 0.25元/个",
+    "小绵羊"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "星愿袋",
+   "价格": null,
+   "库存": 510
+  },
+  {
+   "规格": "爱心猫",
+   "价格": null,
+   "库存": 192
+  },
+  {
+   "规格": "大脸猫",
+   "价格": null,
+   "库存": 63
+  },
+  {
+   "规格": "恐龙",
+   "价格": null,
+   "库存": 267
+  },
+  {
+   "规格": "迷彩绿",
+   "价格": null,
+   "库存": 579
+  },
+  {
+   "规格": "粉小鹿",
+   "价格": null,
+   "库存": 164
+  },
+  {
+   "规格": "Hello熊",
+   "价格": null,
+   "库存": 32
+  },
+  {
+   "规格": "OPP包装 0.25元/个",
+   "价格": null,
+   "库存": 10104
+  },
+  {
+   "规格": "太阳狗",
+   "价格": null,
+   "库存": 79
+  },
+  {
+   "规格": "LOVE 猫",
+   "价格": null,
+   "库存": 139
+  },
+  {
+   "规格": "宇航员",
+   "价格": null,
+   "库存": 136
+  },
+  {
+   "规格": "狮子王",
+   "价格": null,
+   "库存": 158
+  },
+  {
+   "规格": "围兜猫",
+   "价格": null,
+   "库存": 186
+  },
+  {
+   "规格": "卡通",
+   "价格": null,
+   "库存": 376
+  },
+  {
+   "规格": "小白熊",
+   "价格": null,
+   "库存": 299
+  },
+  {
+   "规格": "犀牛",
+   "价格": null,
+   "库存": 295
+  },
+  {
+   "规格": "藏青星",
+   "价格": null,
+   "库存": 292
+  },
+  {
+   "规格": "仙人掌",
+   "价格": null,
+   "库存": 94
+  },
+  {
+   "规格": "黑圆点",
+   "价格": null,
+   "库存": 30
+  },
+  {
+   "规格": "海底世界",
+   "价格": null,
+   "库存": 353
+  },
+  {
+   "规格": "猫头鹰",
+   "价格": null,
+   "库存": 3
+  },
+  {
+   "规格": "青恐龙",
+   "价格": null,
+   "库存": 49
+  },
+  {
+   "规格": "紫怪兽",
+   "价格": null,
+   "库存": 33
+  },
+  {
+   "规格": "招财猫",
+   "价格": null,
+   "库存": 129
+  },
+  {
+   "规格": "足球",
+   "价格": null,
+   "库存": 345
+  },
+  {
+   "规格": "喷水象",
+   "价格": null,
+   "库存": 68
+  },
+  {
+   "规格": "叠乐高",
+   "价格": null,
+   "库存": 1
+  },
+  {
+   "规格": "小绵羊",
+   "价格": null,
+   "库存": 0
+  },
+  {
+   "规格": "蓝小象",
+   "价格": null,
+   "库存": 501
+  },
+  {
+   "规格": "蓝企鹅",
+   "价格": null,
+   "库存": 290
+  },
+  {
+   "规格": "蓝猫咪",
+   "价格": null,
+   "库存": 99
+  },
+  {
+   "规格": "暗红咖啡",
+   "价格": null,
+   "库存": 182
+  },
+  {
+   "规格": "围兜狗",
+   "价格": null,
+   "库存": 255
+  }
+ ],
+ "规格图": [
+  [
+   "粉小鹿",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01PDFOP62Dy7fSpYCGF_!!2869018677-0-cib.jpg"
+  ],
+  [
+   "太阳狗",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01HGLWu42Dy7fWBip4H_!!2869018677-0-cib.jpg"
+  ],
+  [
+   "青恐龙",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01DMPX8y2Dy7fTKAEBP_!!2869018677-0-cib.jpg"
+  ],
+  [
+   "叠乐高",
+   "https://cbu01.alicdn.com/img/ibank/O1CN013osgDO2Dy7V5ekLix_!!2869018677-0-cib.jpg"
+  ],
+  [
+   "宇航员",
+   "https://cbu01.alicdn.com/img/ibank/O1CN017s51hj2Dy7cCmCG74_!!2869018677-0-cib.jpg"
+  ],
+  [
+   "犀牛",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01h0Kaeb2Dy7cIFwgaA_!!2869018677-0-cib.jpg"
+  ],
+  [
+   "狮子王",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01dXqSTe2Dy7RS5F60X_!!2869018677-0-cib.jpg"
+  ],
+  [
+   "围兜猫",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01qMLtRM2Dy7V9y9siH_!!2869018677-0-cib.jpg"
+  ],
+  [
+   "黑圆点",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01fawnc52Dy7kgkjbPL_!!2869018677-0-cib.jpg"
+  ],
+  [
+   "猫头鹰",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01koGenA2Dy7UmrjBKZ_!!2869018677-0-cib.jpg"
+  ],
+  [
+   "紫怪兽",
+   "https://cbu01.alicdn.com/img/ibank/11148729329_1726864382.jpg"
+  ],
+  [
+   "仙人掌",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01EDdW1M2Dy7Usg3W17_!!2869018677-0-cib.jpg"
+  ],
+  [
+   "恐龙",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01Mo88oe2Dy7UwA0br8_!!2869018677-0-cib.jpg"
+  ],
+  [
+   "围兜狗",
+   "https://cbu01.alicdn.com/img/ibank/O1CN019Z67qi2Dy7Usg89Fu_!!2869018677-0-cib.jpg"
+  ],
+  [
+   "招财猫",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01uk9LG92Dy7LPQASpe_!!2869018677-0-cib.jpg"
+  ],
+  [
+   "藏青星",
+   "https://cbu01.alicdn.com/img/ibank/O1CN013oVtXD2Dy7Usg7LOz_!!2869018677-0-cib.jpg"
+  ],
+  [
+   "卡通",
+   "https://cbu01.alicdn.com/img/ibank/11180704166_1726864382.jpg"
+  ],
+  [
+   "蓝小象",
+   "https://cbu01.alicdn.com/img/ibank/11211671843_1726864382.jpg"
+  ],
+  [
+   "Hello熊",
+   "https://cbu01.alicdn.com/img/ibank/O1CN014Ef2hm2Dy7Mu34tWl_!!2869018677-0-cib.jpg"
+  ],
+  [
+   "星愿袋",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01tKkoyF2Dy7SAhvA8H_!!2869018677-0-cib.jpg"
+  ],
+  [
+   "迷彩绿",
+   "https://cbu01.alicdn.com/img/ibank/11211695764_1726864382.jpg"
+  ],
+  [
+   "蓝企鹅",
+   "https://cbu01.alicdn.com/img/ibank/11148702913_1726864382.jpg"
+  ],
+  [
+   "暗红咖啡",
+   "https://cbu01.alicdn.com/img/ibank/10725786062_1726864382.jpg"
+  ],
+  [
+   "海底世界",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01cEQNEu2Dy7KNaB11i_!!2869018677-0-cib.jpg"
+  ],
+  [
+   "爱心猫",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01P30oA42Dy7LXI11AY_!!2869018677-0-cib.jpg"
+  ],
+  [
+   "蓝猫咪",
+   "https://cbu01.alicdn.com/img/ibank/O1CN013TQ1Aa2Dy7QAYyDHA_!!2869018677-0-cib.jpg"
+  ],
+  [
+   "足球",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01xoMgKw2Dy7fV1252o_!!2869018677-0-cib.jpg"
+  ],
+  [
+   "喷水象",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01CzvTBo2Dy7MWQGIHy_!!2869018677-0-cib.jpg"
+  ],
+  [
+   "小白熊",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01hq83I82Dy7MewHGtn_!!2869018677-0-cib.jpg"
+  ],
+  [
+   "LOVE 猫",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01ZDeKa22Dy7MJYnHCs_!!2869018677-0-cib.jpg"
+  ],
+  [
+   "大脸猫",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01bl8PUq2Dy7MFoUaRC_!!2869018677-0-cib.jpg"
+  ],
+  [
+   "小绵羊",
+   "https://cbu01.alicdn.com/img/ibank/O1CN019soGVE2Dy7UrH0J5v_!!2869018677-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "rangePrice",
+ "价格区间": null,
+ "阶梯价_登录后": [
+  {
+   "price": "2.80",
+   "beginAmount": 2
+  },
+  {
+   "price": "2.70",
+   "beginAmount": 200
+  },
+  {
+   "price": "2.65",
+   "beginAmount": 500
+  }
+ ],
+ "到手价": null,
+ "起订量": 2,
+ "单位": "只",
+ "可售总量": 16303,
+ "已售": 26353,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01H0NQne2Dy7an4C4J4_!!2869018677-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01uJAGJ12Dy7Q5xjrCp_!!2869018677-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01dV7bsD2Dy7ajguz9d_!!2869018677-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/10725786062_1726864382.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01FxxSo4W5yuC1chua_!!6000000001788-0-cib.jpg"
+ ],
+ "商品属性": [
+  "材质:布",
+  "品牌:具派",
+  "产品质量等级:合格品",
+  "风格:卡通",
+  "颜色:粉小鹿/太阳狗/青恐龙/叠乐高/宇航员/犀牛/狮子王/小绵羊/围兜猫/黑圆点/猫头鹰/紫怪兽/仙人掌/恐龙/围兜狗/招财猫/藏青星/卡通/蓝小象/Hello熊/星愿袋/迷彩绿/蓝企鹅/暗红咖啡/海底世界/爱心猫/蓝猫咪/足球/喷水象/小白熊/LOVE 猫/大脸猫/OPP包装 0.25元/个",
+  "货号:550ml背带款",
+  "是否进口:否",
+  "加印LOGO:可以",
+  "加工定制:是",
+  "价格段:5元以内",
+  "是否有专利:否",
+  "包装规格:500",
+  "主要下游平台:ebay/亚马逊/wish/速卖通/独立站/LAZADA",
+  "主要销售地区:欧洲/南美/东南亚/北美/东北亚/中东",
+  "是否跨境出口专供货源:是",
+  "功能:环保",
+  "适用人群:儿童",
+  "是否属于礼品:否"
+ ],
+ "包装信息": [
+  {
+   "volume": 0,
+   "length": 0,
+   "width": 0,
+   "weight": 50,
+   "height": 0
+  }
+ ],
+ "url": "https://detail.1688.com/offer/565382348665.html",
+ "核页时间": "2026-10-06T18:48:01.842Z"
+}

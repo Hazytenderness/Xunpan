@@ -1,0 +1,141 @@
+{
+ "offerId": "646603826062",
+ "条目": "H0620",
+ "block": false,
+ "卖家公司": "鞍山市森磊商贸有限公司",
+ "旺旺名": "鞍山三利水族用品有限公司",
+ "标题": "鱼缸造景小沉木杜鹃根装饰微景空气凤梨装饰鱼缸摆件躲",
+ "状态": "PUBLISHED",
+ "类目": "造景/装饰",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "规格",
+   "值": [
+    "5-10cm",
+    "10-15cm",
+    "15-20cm",
+    "20-25cm",
+    "25-30cm",
+    "30-40cm",
+    "2-5cm"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "2-5cm",
+   "价格": "0.39",
+   "库存": 0
+  },
+  {
+   "规格": "15-20cm",
+   "价格": "5.60",
+   "库存": 30754
+  },
+  {
+   "规格": "5-10cm",
+   "价格": "0.91",
+   "库存": 50488
+  },
+  {
+   "规格": "10-15cm",
+   "价格": "2.80",
+   "库存": 37374
+  },
+  {
+   "规格": "25-30cm",
+   "价格": "9.70",
+   "库存": 57845
+  },
+  {
+   "规格": "20-25cm",
+   "价格": "7.80",
+   "库存": 56767
+  },
+  {
+   "规格": "30-40cm",
+   "价格": "14.80",
+   "库存": 60903
+  }
+ ],
+ "规格图": [
+  [
+   "5-10cm",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01IxPCkn2Hxto6HALqL_!!2207573589218-0-cib.jpg"
+  ],
+  [
+   "10-15cm",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01PGctOj2HxtnzAI0zC_!!2207573589218-0-cib.jpg"
+  ],
+  [
+   "15-20cm",
+   "https://cbu01.alicdn.com/img/ibank/O1CN014wbclY2Hxto5F4OXX_!!2207573589218-0-cib.jpg"
+  ],
+  [
+   "20-25cm",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01FHhoLV2Hxto8TE8To_!!2207573589218-0-cib.jpg"
+  ],
+  [
+   "25-30cm",
+   "https://cbu01.alicdn.com/img/ibank/O1CN011IAxF82Hxto5F5Ggb_!!2207573589218-0-cib.jpg"
+  ],
+  [
+   "30-40cm",
+   "https://cbu01.alicdn.com/img/ibank/O1CN019klIS22Hxtcl65zVy_!!2207573589218-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "skuPrice",
+ "价格区间": null,
+ "阶梯价_登录后": [
+  {
+   "price": "0.91",
+   "beginAmount": 2
+  },
+  {
+   "price": "14.80",
+   "beginAmount": 10
+  }
+ ],
+ "到手价": null,
+ "起订量": 10,
+ "单位": "个",
+ "可售总量": 294131,
+ "已售": 181260,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01wKM6mU2Hxtc9BuDN5_!!2207573589218-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01B2CntM2HxtnzmP52Y_!!2207573589218-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01PVL4yt2HxtcJOICDC_!!2207573589218-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01L7Zy7E2HxtnzAbY7Y_!!2207573589218-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN015MSBy42HxtcHsE5cj_!!2207573589218-0-cib.jpg"
+ ],
+ "商品属性": [
+  "材质:沉木",
+  "品牌:大匠神采",
+  "功能:鱼缸造景",
+  "款式:鱼缸造景款",
+  "产品类别:鱼缸造景装饰",
+  "主要用途:鱼缸造景装饰装",
+  "产地:辽宁",
+  "是否进口:否",
+  "尺码:5-10cm",
+  "货号:沉木001",
+  "箱装数量:1",
+  "重量:30",
+  "规格:5-10cm/10-15cm/15-20cm/20-25cm/25-30cm/30-40cm/2-5cm",
+  "主要下游平台:ebay/亚马逊/wish/速卖通/LAZADA",
+  "有可授权的自有品牌:是",
+  "是否跨境出口专供货源:是"
+ ],
+ "包装信息": [
+  {
+   "volume": 0,
+   "length": 0,
+   "width": 0,
+   "weight": 500,
+   "height": 0
+  }
+ ],
+ "url": "https://detail.1688.com/offer/646603826062.html",
+ "核页时间": "2026-10-06T17:40:17.962Z"
+}

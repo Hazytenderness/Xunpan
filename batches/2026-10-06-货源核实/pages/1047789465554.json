@@ -1,0 +1,76 @@
+{
+ "offerId": "1047789465554",
+ "条目": "H0502",
+ "block": false,
+ "卖家公司": "扬州市生态科技新城云汇电子商务商行(个体工商户)",
+ "旺旺名": "云汇电子商务商行",
+ "标题": "批发2包3包5包10包甲虫发酵木屑产房爬宠腐殖土锹甲垫材产木长戟",
+ "状态": "PUBLISHED",
+ "类目": "其他小宠用品",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "规格",
+   "值": [
+    "一包500克"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "一包500克",
+   "价格": null,
+   "库存": 998562
+  }
+ ],
+ "规格图": [],
+ "价格展示": "rangePrice",
+ "价格区间": null,
+ "阶梯价_登录后": [
+  {
+   "price": "2.70",
+   "beginAmount": 1
+  },
+  {
+   "price": "2.60",
+   "beginAmount": 20
+  },
+  {
+   "price": "2.50",
+   "beginAmount": 50
+  }
+ ],
+ "到手价": null,
+ "起订量": 1,
+ "单位": "件",
+ "可售总量": 998562,
+ "已售": 2338,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01BikHzl20tSlORqEmY_!!2222351146907-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01LSgYgf20tSlOCpvHE_!!2222351146907-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01c4T1mI20tSlJQM2Em_!!2222351146907-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01DItPNe20tSlOetMtM_!!2222351146907-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01BjQhSw1agTWawq9aS_!!6000000003359-0-cib.jpg"
+ ],
+ "商品属性": [
+  "品牌:其他",
+  "材质:松木",
+  "是否进口:否",
+  "货号:1013561648",
+  "适用对象:爬虫",
+  "是否专利货源:否",
+  "规格:一包500克",
+  "是否跨境出口专供货源:是"
+ ],
+ "包装信息": [
+  {
+   "volume": 0,
+   "length": 0,
+   "width": 0,
+   "weight": 300,
+   "height": 0
+  }
+ ],
+ "url": "https://detail.1688.com/offer/1047789465554.html",
+ "核页时间": "2026-10-06T17:07:40.999Z"
+}

@@ -1,0 +1,103 @@
+{
+ "offerId": "1005538597017",
+ "条目": "H0585",
+ "block": false,
+ "卖家公司": "深圳汐遇电子商务有限公司",
+ "旺旺名": "堂外堂生物",
+ "标题": "宠物纯露免洗擦浴精华，猫咪狗狗除螨清洁洗澡沐浴露 除臭",
+ "状态": "PUBLISHED",
+ "类目": "狗狗香波浴液",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "规格",
+   "值": [
+    "狗狗300ml",
+    "猫咪300ml"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "猫咪300ml",
+   "价格": null,
+   "库存": 9999642
+  },
+  {
+   "规格": "狗狗300ml",
+   "价格": null,
+   "库存": 9997153
+  }
+ ],
+ "规格图": [
+  [
+   "狗狗300ml",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01AAtcFC1H4TwWVtwof_!!2215603030704-0-cib.jpg"
+  ],
+  [
+   "猫咪300ml",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01ctFnSa1H4TwX6URxS_!!2215603030704-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "rangePrice",
+ "价格区间": null,
+ "阶梯价_登录后": [
+  {
+   "price": "2.30",
+   "beginAmount": 1
+  },
+  {
+   "price": "2.20",
+   "beginAmount": 3000
+  },
+  {
+   "price": "2.00",
+   "beginAmount": 6000
+  }
+ ],
+ "到手价": null,
+ "起订量": 3,
+ "单位": "个",
+ "可售总量": 19996795,
+ "已售": 2984,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01gn1lmC1H4TwVwAxgO_!!2215603030704-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01HW2y981H4TwWVqrKM_!!2215603030704-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01uvnCT51H4TwWKJL3M_!!2215603030704-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN0142UM1T1H4TwVw9ggZ_!!2215603030704-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01b11SVr1H4TwVw9HkY_!!2215603030704-0-cib.jpg"
+ ],
+ "商品属性": [
+  "品牌:其他",
+  "功效:杀螨除菌",
+  "容量:200至500ml",
+  "产地:广东",
+  "是否进口:否",
+  "箱装数量:咨询",
+  "是否专利货源:否",
+  "规格:狗狗300ml/猫咪300ml",
+  "是否跨境出口专供货源:否"
+ ],
+ "包装信息": [
+  {
+   "volume": 0,
+   "sku1": "狗狗300ml",
+   "length": 0,
+   "width": 0,
+   "weight": 300,
+   "skuId": 5998380324963,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "猫咪300ml",
+   "length": 0,
+   "width": 0,
+   "weight": 300,
+   "skuId": 5998380324964,
+   "height": 0
+  }
+ ],
+ "url": "https://detail.1688.com/offer/1005538597017.html",
+ "核页时间": "2026-10-06T17:31:09.542Z"
+}

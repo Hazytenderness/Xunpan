@@ -1,0 +1,437 @@
+{
+ "offerId": "783877283496",
+ "条目": "H0523",
+ "block": false,
+ "卖家公司": "南通晚棠纺织品有限公司",
+ "旺旺名": "晚棠纺织品",
+ "标题": "宠物可水洗尿垫狗防水宠物垫宠物用品吸水防水宠物训练垫隔尿用品",
+ "状态": "PUBLISHED",
+ "类目": "宠物尿片/尿垫/护垫",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "规格",
+   "值": [
+    "红色骨头XS30*30cm",
+    "红色骨头S35*50cm",
+    "红色骨头M45*60cm",
+    "红色骨头L50*70cm",
+    "红色骨头XL70*100cm",
+    "红色骨头XXL90*140cm",
+    "白色小狗XS30*30cm",
+    "白色小狗S35*0cm",
+    "白色小狗M45*60cm",
+    "白色小狗L50*70cm",
+    "白色小狗XL70*100cm",
+    "白色小狗XXL90*140cm",
+    "白色骨头脚印XS30*30cm",
+    "白色骨头脚印S35*50cm",
+    "白色骨头脚印M45*60cm",
+    "白色骨头脚印L50*70cm",
+    "白色骨头脚印XL70*100cm",
+    "白色骨头脚印XXL90*140cm",
+    "灰色骨头XS30*30cm",
+    "灰色骨头S35*50cm",
+    "灰色骨头M45*60cm",
+    "灰色骨头L50*70cm",
+    "灰色骨头XL70*100cm",
+    "灰色骨头XXL90*140cm",
+    "咖色小狗XS30*30cm",
+    "咖色小狗S35*50cm",
+    "咖色小狗M45*60cm",
+    "咖色小狗L50*70cm",
+    "咖色小狗XL70*100cm",
+    "咖色小狗XXL90*140cm",
+    "蓝色星球XS30*30cm",
+    "蓝色星球S35*50cm",
+    "蓝色星球M45*60cm",
+    "蓝色星球L50*70cm",
+    "蓝色星球XL70*100cm",
+    "蓝色星球XXL90*140cm"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "咖色小狗L50*70cm",
+   "价格": "10.50",
+   "库存": 988
+  },
+  {
+   "规格": "红色骨头XXL90*140cm",
+   "价格": "35.00",
+   "库存": 997
+  },
+  {
+   "规格": "灰色骨头M45*60cm",
+   "价格": "8.50",
+   "库存": 999
+  },
+  {
+   "规格": "蓝色星球XS30*30cm",
+   "价格": "3.60",
+   "库存": 999
+  },
+  {
+   "规格": "白色小狗XS30*30cm",
+   "价格": "3.60",
+   "库存": 1000
+  },
+  {
+   "规格": "白色骨头脚印XS30*30cm",
+   "价格": "3.60",
+   "库存": 1000
+  },
+  {
+   "规格": "灰色骨头S35*50cm",
+   "价格": "4.90",
+   "库存": 982
+  },
+  {
+   "规格": "灰色骨头XXL90*140cm",
+   "价格": "35.00",
+   "库存": 997
+  },
+  {
+   "规格": "蓝色星球XL70*100cm",
+   "价格": "18.50",
+   "库存": 999
+  },
+  {
+   "规格": "白色小狗XL70*100cm",
+   "价格": "18.50",
+   "库存": 995
+  },
+  {
+   "规格": "灰色骨头XL70*100cm",
+   "价格": "18.50",
+   "库存": 985
+  },
+  {
+   "规格": "咖色小狗XXL90*140cm",
+   "价格": "35.00",
+   "库存": 1000
+  },
+  {
+   "规格": "咖色小狗S35*50cm",
+   "价格": "4.90",
+   "库存": 990
+  },
+  {
+   "规格": "红色骨头S35*50cm",
+   "价格": "4.90",
+   "库存": 992
+  },
+  {
+   "规格": "咖色小狗XL70*100cm",
+   "价格": "18.50",
+   "库存": 995
+  },
+  {
+   "规格": "灰色骨头XS30*30cm",
+   "价格": "3.60",
+   "库存": 1000
+  },
+  {
+   "规格": "白色骨头脚印L50*70cm",
+   "价格": "10.50",
+   "库存": 1000
+  },
+  {
+   "规格": "蓝色星球S35*50cm",
+   "价格": "4.90",
+   "库存": 998
+  },
+  {
+   "规格": "蓝色星球M45*60cm",
+   "价格": "8.50",
+   "库存": 997
+  },
+  {
+   "规格": "红色骨头M45*60cm",
+   "价格": "8.50",
+   "库存": 988
+  },
+  {
+   "规格": "白色骨头脚印XL70*100cm",
+   "价格": "18.50",
+   "库存": 1000
+  },
+  {
+   "规格": "白色小狗L50*70cm",
+   "价格": "10.50",
+   "库存": 990
+  },
+  {
+   "规格": "咖色小狗M45*60cm",
+   "价格": "8.50",
+   "库存": 994
+  },
+  {
+   "规格": "白色骨头脚印XXL90*140cm",
+   "价格": "35.00",
+   "库存": 1000
+  },
+  {
+   "规格": "白色小狗S35*0cm",
+   "价格": "4.90",
+   "库存": 998
+  },
+  {
+   "规格": "红色骨头XL70*100cm",
+   "价格": "18.50",
+   "库存": 999
+  },
+  {
+   "规格": "咖色小狗XS30*30cm",
+   "价格": "3.60",
+   "库存": 1000
+  },
+  {
+   "规格": "白色骨头脚印M45*60cm",
+   "价格": "8.50",
+   "库存": 1000
+  },
+  {
+   "规格": "蓝色星球XXL90*140cm",
+   "价格": "35.00",
+   "库存": 999
+  },
+  {
+   "规格": "灰色骨头L50*70cm",
+   "价格": "10.50",
+   "库存": 983
+  },
+  {
+   "规格": "白色骨头脚印S35*50cm",
+   "价格": "4.90",
+   "库存": 999
+  },
+  {
+   "规格": "白色小狗M45*60cm",
+   "价格": "8.50",
+   "库存": 1000
+  },
+  {
+   "规格": "红色骨头XS30*30cm",
+   "价格": "3.60",
+   "库存": 990
+  },
+  {
+   "规格": "蓝色星球L50*70cm",
+   "价格": "10.50",
+   "库存": 994
+  },
+  {
+   "规格": "白色小狗XXL90*140cm",
+   "价格": "35.00",
+   "库存": 1000
+  },
+  {
+   "规格": "红色骨头L50*70cm",
+   "价格": "10.50",
+   "库存": 991
+  }
+ ],
+ "规格图": [
+  [
+   "红色骨头XS30*30cm",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01l5KONH2214mCXdwjO_!!2217702797059-0-cib.jpg"
+  ],
+  [
+   "红色骨头S35*50cm",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01l5KONH2214mCXdwjO_!!2217702797059-0-cib.jpg"
+  ],
+  [
+   "红色骨头M45*60cm",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01l5KONH2214mCXdwjO_!!2217702797059-0-cib.jpg"
+  ],
+  [
+   "红色骨头L50*70cm",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01l5KONH2214mCXdwjO_!!2217702797059-0-cib.jpg"
+  ],
+  [
+   "红色骨头XL70*100cm",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01l5KONH2214mCXdwjO_!!2217702797059-0-cib.jpg"
+  ],
+  [
+   "红色骨头XXL90*140cm",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01l5KONH2214mCXdwjO_!!2217702797059-0-cib.jpg"
+  ],
+  [
+   "白色小狗XS30*30cm",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01lWxuWc2214mFCo6YD_!!2217702797059-0-cib.jpg"
+  ],
+  [
+   "白色小狗S35*0cm",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01lWxuWc2214mFCo6YD_!!2217702797059-0-cib.jpg"
+  ],
+  [
+   "白色小狗M45*60cm",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01lWxuWc2214mFCo6YD_!!2217702797059-0-cib.jpg"
+  ],
+  [
+   "白色小狗L50*70cm",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01lWxuWc2214mFCo6YD_!!2217702797059-0-cib.jpg"
+  ],
+  [
+   "白色小狗XL70*100cm",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01lWxuWc2214mFCo6YD_!!2217702797059-0-cib.jpg"
+  ],
+  [
+   "白色小狗XXL90*140cm",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01lWxuWc2214mFCo6YD_!!2217702797059-0-cib.jpg"
+  ],
+  [
+   "白色骨头脚印XS30*30cm",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01nventJ2214mDpECKO_!!2217702797059-0-cib.jpg"
+  ],
+  [
+   "白色骨头脚印S35*50cm",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01nventJ2214mDpECKO_!!2217702797059-0-cib.jpg"
+  ],
+  [
+   "白色骨头脚印M45*60cm",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01nventJ2214mDpECKO_!!2217702797059-0-cib.jpg"
+  ],
+  [
+   "白色骨头脚印L50*70cm",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01nventJ2214mDpECKO_!!2217702797059-0-cib.jpg"
+  ],
+  [
+   "白色骨头脚印XL70*100cm",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01nventJ2214mDpECKO_!!2217702797059-0-cib.jpg"
+  ],
+  [
+   "白色骨头脚印XXL90*140cm",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01nventJ2214mDpECKO_!!2217702797059-0-cib.jpg"
+  ],
+  [
+   "灰色骨头XS30*30cm",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01aFTaua2214m2yqvLk_!!2217702797059-0-cib.jpg"
+  ],
+  [
+   "灰色骨头S35*50cm",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01aFTaua2214m2yqvLk_!!2217702797059-0-cib.jpg"
+  ],
+  [
+   "灰色骨头M45*60cm",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01aFTaua2214m2yqvLk_!!2217702797059-0-cib.jpg"
+  ],
+  [
+   "灰色骨头L50*70cm",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01aFTaua2214m2yqvLk_!!2217702797059-0-cib.jpg"
+  ],
+  [
+   "灰色骨头XL70*100cm",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01aFTaua2214m2yqvLk_!!2217702797059-0-cib.jpg"
+  ],
+  [
+   "灰色骨头XXL90*140cm",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01aFTaua2214m2yqvLk_!!2217702797059-0-cib.jpg"
+  ],
+  [
+   "咖色小狗XS30*30cm",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01hUYVzu2214m8qPhay_!!2217702797059-0-cib.jpg"
+  ],
+  [
+   "咖色小狗S35*50cm",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01hUYVzu2214m8qPhay_!!2217702797059-0-cib.jpg"
+  ],
+  [
+   "咖色小狗M45*60cm",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01hUYVzu2214m8qPhay_!!2217702797059-0-cib.jpg"
+  ],
+  [
+   "咖色小狗L50*70cm",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01hUYVzu2214m8qPhay_!!2217702797059-0-cib.jpg"
+  ],
+  [
+   "咖色小狗XL70*100cm",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01hUYVzu2214m8qPhay_!!2217702797059-0-cib.jpg"
+  ],
+  [
+   "咖色小狗XXL90*140cm",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01hUYVzu2214m8qPhay_!!2217702797059-0-cib.jpg"
+  ],
+  [
+   "蓝色星球XS30*30cm",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01wD9Efq2214mFFV06N_!!2217702797059-0-cib.jpg"
+  ],
+  [
+   "蓝色星球S35*50cm",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01wD9Efq2214mFFV06N_!!2217702797059-0-cib.jpg"
+  ],
+  [
+   "蓝色星球M45*60cm",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01wD9Efq2214mFFV06N_!!2217702797059-0-cib.jpg"
+  ],
+  [
+   "蓝色星球L50*70cm",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01wD9Efq2214mFFV06N_!!2217702797059-0-cib.jpg"
+  ],
+  [
+   "蓝色星球XL70*100cm",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01wD9Efq2214mFFV06N_!!2217702797059-0-cib.jpg"
+  ],
+  [
+   "蓝色星球XXL90*140cm",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01wD9Efq2214mFFV06N_!!2217702797059-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "skuPrice",
+ "价格区间": "3.60-35.00",
+ "阶梯价_登录后": [
+  {
+   "price": "3.60",
+   "beginAmount": 1
+  },
+  {
+   "price": "35.00",
+   "beginAmount": 1
+  }
+ ],
+ "到手价": {
+  "价": "2.6",
+  "说明": "新人价",
+  "件数": 1
+ },
+ "起订量": 1,
+ "单位": "个",
+ "可售总量": 35838,
+ "已售": 138,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01JoZr8C2214m8sYpUf_!!2217702797059-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN011GGr0w2214mBJ0tiW_!!2217702797059-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01vOAAyp2214m8sbBBa_!!2217702797059-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01HdHp0W2214mAWz0q8_!!2217702797059-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN017LKEUZ1LFFkn1rBTg_!!6000000001269-0-cib.jpg"
+ ],
+ "商品属性": [
+  "品牌:其他",
+  "材质:涤纶",
+  "包装数量(片):1",
+  "货号:WT236",
+  "是否进口:否",
+  "是否专利货源:否",
+  "规格:红色骨头XS30*30cm/红色骨头S35*50cm/红色骨头M45*60cm/红色骨头L50*70cm/红色骨头XL70*100cm/红色骨头XXL90*140cm/白色小狗XS30*30cm/白色小狗S35*0cm/白色小狗M45*60cm/白色小狗L50*70cm/白色小狗XL70*100cm/白色小狗XXL90*140cm/白色骨头脚印XS30*30cm/白色骨头脚印S35*50cm/白色骨头脚印M45*60cm/白色骨头脚印L50*70cm/白色骨头脚印XL70*100cm/白色骨头脚印XXL90*140cm/灰色骨头XS30*30cm/灰色骨头S35*50cm/灰色骨头M45*60cm/灰色骨头L50*70cm/灰色骨头XL70*100cm/灰色骨头XXL90*140cm/咖色小狗XS30*30cm/咖色小狗S35*50cm/咖色小狗M45*60cm/咖色小狗L50*70cm/咖色小狗XL70*100cm/咖色小狗XXL90*140cm/蓝色星球XS30*30cm/蓝色星球S35*50cm/蓝色星球M45*60cm/蓝色星球L50*70cm/蓝色星球XL70*100cm/蓝色星球XXL90*140cm",
+  "是否跨境出口专供货源:是",
+  "主要销售地区:欧洲/南美/东南亚/北美/东北亚/中东",
+  "主要下游平台:ebay",
+  "有可授权的自有品牌:否",
+  "适用对象:通用",
+  "是否属于礼品:否",
+  "单片厚度:0.5"
+ ],
+ "包装信息": [
+  {
+   "volume": 0,
+   "length": 0,
+   "width": 0,
+   "weight": 400,
+   "height": 0
+  }
+ ],
+ "url": "https://detail.1688.com/offer/783877283496.html",
+ "核页时间": "2026-10-06T17:14:04.327Z"
+}

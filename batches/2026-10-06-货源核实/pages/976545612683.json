@@ -1,0 +1,942 @@
+{
+ "offerId": "976545612683",
+ "条目": "H0330",
+ "block": false,
+ "卖家公司": "义乌市向舟工贸有限公司",
+ "旺旺名": "向舟工贸有限公司",
+ "标题": "跨境Owala同款保温杯304不锈钢水杯便携弹跳杯手提双饮杯吸管杯",
+ "状态": "PUBLISHED",
+ "类目": "保温杯",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "颜色",
+   "值": [
+    "绿色猫",
+    "红玫瑰",
+    "海洋风暴",
+    "彩蝴蝶",
+    "黑色扑克",
+    "蝴蝶结白色",
+    "蝴蝶结粉色",
+    "我的世界",
+    "粉色蕾丝",
+    "蓝色小熊",
+    "粉色格子",
+    "白色shi努比",
+    "蓝色shi努比",
+    "粉色shi努比",
+    "紫色shi努比",
+    "卡通图1",
+    "卡通图2",
+    "卡通图3",
+    "卡通图4",
+    "卡通图5",
+    "黑色",
+    "蓝色",
+    "灰白",
+    "纯白",
+    "紫色",
+    "玫红",
+    "红色",
+    "天蓝",
+    "粉色",
+    "军绿"
+   ]
+  },
+  {
+   "属性": "容量",
+   "值": [
+    "32oz",
+    "24oz",
+    "19oz"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "蓝色&gt;24oz",
+   "价格": "15.68",
+   "库存": 68542
+  },
+  {
+   "规格": "黑色&gt;24oz",
+   "价格": "15.68",
+   "库存": 68486
+  },
+  {
+   "规格": "玫红&gt;32oz",
+   "价格": "16.15",
+   "库存": 68543
+  },
+  {
+   "规格": "蓝色shi努比&gt;32oz",
+   "价格": "17.58",
+   "库存": 68440
+  },
+  {
+   "规格": "彩蝴蝶&gt;32oz",
+   "价格": "17.58",
+   "库存": 68542
+  },
+  {
+   "规格": "紫色&gt;19oz",
+   "价格": "15.20",
+   "库存": 68543
+  },
+  {
+   "规格": "纯白&gt;19oz",
+   "价格": "15.20",
+   "库存": 68543
+  },
+  {
+   "规格": "紫色shi努比&gt;32oz",
+   "价格": "17.58",
+   "库存": 68542
+  },
+  {
+   "规格": "灰白&gt;24oz",
+   "价格": "15.68",
+   "库存": 68543
+  },
+  {
+   "规格": "粉色格子&gt;32oz",
+   "价格": "17.58",
+   "库存": 68536
+  },
+  {
+   "规格": "蝴蝶结粉色&gt;32oz",
+   "价格": "17.58",
+   "库存": 68522
+  },
+  {
+   "规格": "我的世界&gt;32oz",
+   "价格": "17.58",
+   "库存": 68289
+  },
+  {
+   "规格": "蓝色小熊&gt;32oz",
+   "价格": "17.58",
+   "库存": 68537
+  },
+  {
+   "规格": "海洋风暴&gt;32oz",
+   "价格": "17.58",
+   "库存": 68540
+  },
+  {
+   "规格": "纯白&gt;32oz",
+   "价格": "16.15",
+   "库存": 68543
+  },
+  {
+   "规格": "粉色shi努比&gt;32oz",
+   "价格": "17.58",
+   "库存": 68509
+  },
+  {
+   "规格": "天蓝&gt;19oz",
+   "价格": "15.20",
+   "库存": 68543
+  },
+  {
+   "规格": "红色&gt;24oz",
+   "价格": "15.68",
+   "库存": 68522
+  },
+  {
+   "规格": "灰白&gt;32oz",
+   "价格": "16.15",
+   "库存": 68543
+  },
+  {
+   "规格": "玫红&gt;19oz",
+   "价格": "15.20",
+   "库存": 68543
+  },
+  {
+   "规格": "卡通图2&gt;32oz",
+   "价格": "17.58",
+   "库存": 68497
+  },
+  {
+   "规格": "天蓝&gt;32oz",
+   "价格": "16.15",
+   "库存": 68543
+  },
+  {
+   "规格": "卡通图1&gt;32oz",
+   "价格": "17.58",
+   "库存": 68498
+  },
+  {
+   "规格": "紫色&gt;24oz",
+   "价格": "15.68",
+   "库存": 68482
+  },
+  {
+   "规格": "军绿&gt;24oz",
+   "价格": "15.68",
+   "库存": 68542
+  },
+  {
+   "规格": "灰白&gt;19oz",
+   "价格": "15.20",
+   "库存": 68543
+  },
+  {
+   "规格": "粉色蕾丝&gt;32oz",
+   "价格": "17.58",
+   "库存": 68525
+  },
+  {
+   "规格": "黑色&gt;32oz",
+   "价格": "16.15",
+   "库存": 68543
+  },
+  {
+   "规格": "绿色猫&gt;32oz",
+   "价格": "17.58",
+   "库存": 68541
+  },
+  {
+   "规格": "黑色扑克&gt;32oz",
+   "价格": "17.58",
+   "库存": 68540
+  },
+  {
+   "规格": "黑色&gt;19oz",
+   "价格": "15.20",
+   "库存": 68543
+  },
+  {
+   "规格": "玫红&gt;24oz",
+   "价格": "15.68",
+   "库存": 68539
+  },
+  {
+   "规格": "卡通图3&gt;32oz",
+   "价格": "17.58",
+   "库存": 68487
+  },
+  {
+   "规格": "蓝色&gt;32oz",
+   "价格": "16.15",
+   "库存": 68543
+  },
+  {
+   "规格": "纯白&gt;24oz",
+   "价格": "15.68",
+   "库存": 68509
+  },
+  {
+   "规格": "卡通图4&gt;32oz",
+   "价格": "17.58",
+   "库存": 68491
+  },
+  {
+   "规格": "红玫瑰&gt;32oz",
+   "价格": "17.58",
+   "库存": 68541
+  },
+  {
+   "规格": "红色&gt;32oz",
+   "价格": "16.15",
+   "库存": 68543
+  },
+  {
+   "规格": "粉色&gt;24oz",
+   "价格": "15.68",
+   "库存": 68469
+  },
+  {
+   "规格": "天蓝&gt;24oz",
+   "价格": "15.68",
+   "库存": 68493
+  },
+  {
+   "规格": "卡通图5&gt;32oz",
+   "价格": "17.58",
+   "库存": 68495
+  },
+  {
+   "规格": "蝴蝶结白色&gt;32oz",
+   "价格": "17.58",
+   "库存": 68495
+  },
+  {
+   "规格": "白色shi努比&gt;32oz",
+   "价格": "17.58",
+   "库存": 68538
+  },
+  {
+   "规格": "蓝色&gt;19oz",
+   "价格": "15.20",
+   "库存": 68543
+  },
+  {
+   "规格": "紫色&gt;32oz",
+   "价格": "16.15",
+   "库存": 68543
+  },
+  {
+   "规格": "红色&gt;19oz",
+   "价格": "15.20",
+   "库存": 68543
+  }
+ ],
+ "规格图": [
+  [
+   "绿色猫",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01zaECxA1sUiPnhfyrF_!!2220706895770-0-cib.jpg"
+  ],
+  [
+   "红玫瑰",
+   "https://cbu01.alicdn.com/img/ibank/O1CN014YmGog1sUiOqmZckk_!!2220706895770-0-cib.jpg"
+  ],
+  [
+   "海洋风暴",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01OHVfVy1sUiPjUDqXs_!!2220706895770-0-cib.jpg"
+  ],
+  [
+   "彩蝴蝶",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01zrFabo1sUiQPqFD3T_!!2220706895770-0-cib.jpg"
+  ],
+  [
+   "黑色扑克",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01UeYKYs1sUiOqmcqRY_!!2220706895770-0-cib.jpg"
+  ],
+  [
+   "蝴蝶结白色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01QkTZ6B1sUiOCNZEO6_!!2220706895770-0-cib.jpg"
+  ],
+  [
+   "蝴蝶结粉色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01pEhXVI1sUiP9IMBDI_!!2220706895770-0-cib.jpg"
+  ],
+  [
+   "我的世界",
+   "https://cbu01.alicdn.com/img/ibank/O1CN016O0Qme1sUiPhUBmty_!!2220706895770-0-cib.jpg"
+  ],
+  [
+   "粉色蕾丝",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01MfTK1d1sUiPhvrcGj_!!2220706895770-0-cib.jpg"
+  ],
+  [
+   "蓝色小熊",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01jI8Oes1sUiPgxrjzL_!!2220706895770-0-cib.jpg"
+  ],
+  [
+   "粉色格子",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01aFysKu1sUiPh5snFJ_!!2220706895770-0-cib.jpg"
+  ],
+  [
+   "白色shi努比",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01W1oQIa1sUiQXgdWbt_!!2220706895770-0-cib.jpg"
+  ],
+  [
+   "蓝色shi努比",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01i3bkn21sUiQXZJ52c_!!2220706895770-0-cib.jpg"
+  ],
+  [
+   "粉色shi努比",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01BdgiGk1sUiQWiGvj8_!!2220706895770-0-cib.jpg"
+  ],
+  [
+   "紫色shi努比",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01gAdsNn1sUiQXZJYBp_!!2220706895770-0-cib.jpg"
+  ],
+  [
+   "卡通图1",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01WNGdPk1sUiOCVRCuY_!!2220706895770-0-cib.jpg"
+  ],
+  [
+   "卡通图2",
+   "https://cbu01.alicdn.com/img/ibank/O1CN013YZkl01sUiOBJvxSy_!!2220706895770-0-cib.jpg"
+  ],
+  [
+   "卡通图3",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01fhJxQ31sUiOAeoVpN_!!2220706895770-0-cib.jpg"
+  ],
+  [
+   "卡通图4",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01ei6kyW1sUiOC5HtP9_!!2220706895770-0-cib.jpg"
+  ],
+  [
+   "卡通图5",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01Xag7Ln1sUiOC5IdAe_!!2220706895770-0-cib.jpg"
+  ],
+  [
+   "黑色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01LWeT3EoFdKJ2R3rs_!!2220706895770-0-cib.jpg"
+  ],
+  [
+   "蓝色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN0143EuMnd7tzF2R3rs_!!2220706895770-0-cib.jpg"
+  ],
+  [
+   "灰白",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01qWBNe3WwlYB2R3rs_!!2220706895770-0-cib.jpg"
+  ],
+  [
+   "纯白",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01tFQgBgfoYkE2R3rs_!!2220706895770-0-cib.jpg"
+  ],
+  [
+   "紫色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01LTWCB2SLyPH2R3rs_!!2220706895770-0-cib.jpg"
+  ],
+  [
+   "玫红",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01CHqAtMmVMQJ2R3rs_!!2220706895770-0-cib.jpg"
+  ],
+  [
+   "红色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01XpDJdEsbPTD2R3rs_!!2220706895770-0-cib.jpg"
+  ],
+  [
+   "天蓝",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01YjCls2ubEKC2R3rs_!!2220706895770-0-cib.jpg"
+  ],
+  [
+   "粉色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN0159OABX1sUiOrUAbP0_!!2220706895770-0-cib.jpg"
+  ],
+  [
+   "军绿",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01aDyCOP1sUiOsHY5yx_!!2220706895770-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "skuPrice",
+ "价格区间": "16.00-18.50",
+ "阶梯价_登录后": [
+  {
+   "price": "15.20",
+   "beginAmount": 1
+  },
+  {
+   "price": "17.58",
+   "beginAmount": 1
+  }
+ ],
+ "到手价": {
+  "价": "13.2",
+  "说明": "新人价",
+  "件数": 1
+ },
+ "起订量": 1,
+ "单位": "个",
+ "可售总量": 3151920,
+ "已售": 13148,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN013YdUAK1sUiO5tvC8q_!!2220706895770-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01YrSyUj1sUiOBkZugX_!!2220706895770-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01WOGjxe1sUiOBkZuhb_!!2220706895770-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01oOoWJf1sUiODauLWt_!!2220706895770-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01hjDcSQ1sUiOClcJ5d_!!2220706895770-0-cib.jpg"
+ ],
+ "商品属性": [
+  "内胆材质:304不锈钢",
+  "品牌:XZ",
+  "功能:便携/保温/可定制/防摔",
+  "保温性能:6-12小时",
+  "外壳材质:201不锈钢",
+  "货号:XZ-007",
+  "样式:大容量/汽车杯/弹跳杯/带吸管/直身杯",
+  "材质:内304外201",
+  "风格:美式风",
+  "是否进口:否",
+  "是否有专利:否",
+  "是否跨境出口专供货源:否",
+  "版权:无",
+  "是否属于礼品:是，商务礼品",
+  "送礼用途:广告礼品/促销赠品/会议礼品/福利礼品/节庆礼品/嘉奖纪念/公关礼品/其他",
+  "适用节日:春节/父亲节/母亲节/教师节/元旦/七夕/万圣节/复活节/国庆节/妇女节/其他",
+  "适用送礼关系:晚辈/情侣/夫妻/同事/朋友/长辈/孩子/同学/恩师/其他",
+  "适用送礼场合:毕业/乔迁/派对聚会/探病慰问/其他",
+  "产品上市时间:2024",
+  "产品质量等级:一等品",
+  "适用人群:女士/男士/儿童/情侣/通用/学生",
+  "适用场景:运动/婚庆/商务/家居/车载/通用/圣诞节/春节/办公室/户外/旅行/送礼/学校/其他节日",
+  "是否有第三方检测报告:没有",
+  "定制工艺选择:激光雕刻/丝印/3D打印",
+  "包装规格:咨询客服",
+  "价格段:20-30元",
+  "加工定制:是",
+  "加印LOGO:可以",
+  "颜色:绿色猫/红玫瑰/海洋风暴/彩蝴蝶/黑色扑克/蝴蝶结白色/蝴蝶结粉色/我的世界/粉色蕾丝/蓝色小熊/粉色格子/白色shi努比/蓝色shi努比/粉色shi努比/紫色shi努比/卡通图1/卡通图2/卡通图3/卡通图4/卡通图5/黑色/蓝色/灰白/纯白/紫色/玫红/红色/天蓝/粉色/军绿",
+  "容量:32oz/24oz/19oz",
+  "全国工业生产许可证编号 :---",
+  "是否带茶隔:不带茶隔",
+  "杯子种类:保温杯",
+  "包装种类:基础包装",
+  "是否显示温度:不支持温度显示",
+  "杯盖材质:PP",
+  "是否IP授权:否",
+  "杯盖类型:弹盖"
+ ],
+ "包装信息": [
+  {
+   "sku2": "32oz",
+   "volume": 2227.5,
+   "sku1": "绿色猫",
+   "length": 9,
+   "width": 9,
+   "weight": 505,
+   "skuId": 6122907210983,
+   "height": 27.5
+  },
+  {
+   "sku2": "32oz",
+   "volume": 2227.5,
+   "sku1": "红玫瑰",
+   "length": 9,
+   "width": 9,
+   "weight": 505,
+   "skuId": 6122907210991,
+   "height": 27.5
+  },
+  {
+   "sku2": "32oz",
+   "volume": 2227.5,
+   "sku1": "海洋风暴",
+   "length": 9,
+   "width": 9,
+   "weight": 505,
+   "skuId": 6122907210985,
+   "height": 27.5
+  },
+  {
+   "sku2": "32oz",
+   "volume": 2227.5,
+   "sku1": "彩蝴蝶",
+   "length": 9,
+   "width": 9,
+   "weight": 505,
+   "skuId": 6122907210997,
+   "height": 27.5
+  },
+  {
+   "sku2": "32oz",
+   "volume": 2227.5,
+   "sku1": "黑色扑克",
+   "length": 9,
+   "width": 9,
+   "weight": 505,
+   "skuId": 6122907210984,
+   "height": 27.5
+  },
+  {
+   "sku2": "32oz",
+   "volume": 2227.5,
+   "sku1": "蝴蝶结白色",
+   "length": 9,
+   "width": 9,
+   "weight": 505,
+   "skuId": 5973451256103,
+   "height": 27.5
+  },
+  {
+   "sku2": "32oz",
+   "volume": 2227.5,
+   "sku1": "蝴蝶结粉色",
+   "length": 9,
+   "width": 9,
+   "weight": 505,
+   "skuId": 5973451256102,
+   "height": 27.5
+  },
+  {
+   "sku2": "32oz",
+   "volume": 2227.5,
+   "sku1": "我的世界",
+   "length": 9,
+   "width": 9,
+   "weight": 505,
+   "skuId": 6004398033529,
+   "height": 27.5
+  },
+  {
+   "sku2": "32oz",
+   "volume": 2227.5,
+   "sku1": "粉色蕾丝",
+   "length": 9,
+   "width": 9,
+   "weight": 505,
+   "skuId": 6004398033528,
+   "height": 27.5
+  },
+  {
+   "sku2": "32oz",
+   "volume": 2227.5,
+   "sku1": "蓝色小熊",
+   "length": 9,
+   "width": 9,
+   "weight": 505,
+   "skuId": 6004398033531,
+   "height": 27.5
+  },
+  {
+   "sku2": "32oz",
+   "volume": 2227.5,
+   "sku1": "粉色格子",
+   "length": 9,
+   "width": 9,
+   "weight": 505,
+   "skuId": 6004398033530,
+   "height": 27.5
+  },
+  {
+   "sku2": "32oz",
+   "volume": 2227.5,
+   "sku1": "白色shi努比",
+   "length": 9,
+   "width": 9,
+   "weight": 505,
+   "skuId": 6209321503566,
+   "height": 27.5
+  },
+  {
+   "sku2": "32oz",
+   "volume": 2227.5,
+   "sku1": "蓝色shi努比",
+   "length": 9,
+   "width": 9,
+   "weight": 505,
+   "skuId": 6209321503567,
+   "height": 27.5
+  },
+  {
+   "sku2": "32oz",
+   "volume": 2227.5,
+   "sku1": "粉色shi努比",
+   "length": 9,
+   "width": 9,
+   "weight": 505,
+   "skuId": 6209321503564,
+   "height": 27.5
+  },
+  {
+   "sku2": "32oz",
+   "volume": 2227.5,
+   "sku1": "紫色shi努比",
+   "length": 9,
+   "width": 9,
+   "weight": 505,
+   "skuId": 6209321503565,
+   "height": 27.5
+  },
+  {
+   "sku2": "32oz",
+   "volume": 2227.5,
+   "sku1": "卡通图1",
+   "length": 9,
+   "width": 9,
+   "weight": 505,
+   "skuId": 6094499142667,
+   "height": 27.5
+  },
+  {
+   "sku2": "32oz",
+   "volume": 2227.5,
+   "sku1": "卡通图2",
+   "length": 9,
+   "width": 9,
+   "weight": 505,
+   "skuId": 6094499142668,
+   "height": 27.5
+  },
+  {
+   "sku2": "32oz",
+   "volume": 2227.5,
+   "sku1": "卡通图3",
+   "length": 9,
+   "width": 9,
+   "weight": 505,
+   "skuId": 6094499142669,
+   "height": 27.5
+  },
+  {
+   "sku2": "32oz",
+   "volume": 2227.5,
+   "sku1": "卡通图4",
+   "length": 9,
+   "width": 9,
+   "weight": 505,
+   "skuId": 6094499142670,
+   "height": 27.5
+  },
+  {
+   "sku2": "32oz",
+   "volume": 2227.5,
+   "sku1": "卡通图5",
+   "length": 9,
+   "width": 9,
+   "weight": 505,
+   "skuId": 6094499142671,
+   "height": 27.5
+  },
+  {
+   "sku2": "32oz",
+   "volume": 2227.5,
+   "sku1": "黑色",
+   "length": 9,
+   "width": 9,
+   "weight": 505,
+   "skuId": 6122907210990,
+   "height": 27.5
+  },
+  {
+   "sku2": "24oz",
+   "volume": 2023,
+   "sku1": "黑色",
+   "length": 8.5,
+   "width": 8.5,
+   "weight": 500,
+   "skuId": 6122907210943,
+   "height": 28
+  },
+  {
+   "sku2": "19oz",
+   "volume": 1632,
+   "sku1": "黑色",
+   "length": 8,
+   "width": 8,
+   "weight": 450,
+   "skuId": 6122907210968,
+   "height": 25.5
+  },
+  {
+   "sku2": "32oz",
+   "volume": 2227.5,
+   "sku1": "蓝色",
+   "length": 9,
+   "width": 9,
+   "weight": 505,
+   "skuId": 6122907210989,
+   "height": 27.5
+  },
+  {
+   "sku2": "24oz",
+   "volume": 2023,
+   "sku1": "蓝色",
+   "length": 8.5,
+   "width": 8.5,
+   "weight": 500,
+   "skuId": 6122907210942,
+   "height": 28
+  },
+  {
+   "sku2": "19oz",
+   "volume": 1632,
+   "sku1": "蓝色",
+   "length": 8,
+   "width": 8,
+   "weight": 450,
+   "skuId": 6122907210967,
+   "height": 25.5
+  },
+  {
+   "sku2": "32oz",
+   "volume": 2227.5,
+   "sku1": "灰白",
+   "length": 9,
+   "width": 9,
+   "weight": 505,
+   "skuId": 6122907210992,
+   "height": 27.5
+  },
+  {
+   "sku2": "24oz",
+   "volume": 2023,
+   "sku1": "灰白",
+   "length": 8.5,
+   "width": 8.5,
+   "weight": 500,
+   "skuId": 6122907210945,
+   "height": 28
+  },
+  {
+   "sku2": "19oz",
+   "volume": 1632,
+   "sku1": "灰白",
+   "length": 8,
+   "width": 8,
+   "weight": 450,
+   "skuId": 6122907210970,
+   "height": 25.5
+  },
+  {
+   "sku2": "32oz",
+   "volume": 2227.5,
+   "sku1": "纯白",
+   "length": 9,
+   "width": 9,
+   "weight": 505,
+   "skuId": 6122907210994,
+   "height": 27.5
+  },
+  {
+   "sku2": "24oz",
+   "volume": 2023,
+   "sku1": "纯白",
+   "length": 8.5,
+   "width": 8.5,
+   "weight": 500,
+   "skuId": 6122907210947,
+   "height": 28
+  },
+  {
+   "sku2": "19oz",
+   "volume": 1632,
+   "sku1": "纯白",
+   "length": 8,
+   "width": 8,
+   "weight": 450,
+   "skuId": 6122907210972,
+   "height": 25.5
+  },
+  {
+   "sku2": "32oz",
+   "volume": 2227.5,
+   "sku1": "紫色",
+   "length": 9,
+   "width": 9,
+   "weight": 505,
+   "skuId": 6122907210988,
+   "height": 27.5
+  },
+  {
+   "sku2": "24oz",
+   "volume": 2023,
+   "sku1": "紫色",
+   "length": 8.5,
+   "width": 8.5,
+   "weight": 500,
+   "skuId": 6122907210941,
+   "height": 28
+  },
+  {
+   "sku2": "19oz",
+   "volume": 1632,
+   "sku1": "紫色",
+   "length": 8,
+   "width": 8,
+   "weight": 450,
+   "skuId": 6122907210966,
+   "height": 25.5
+  },
+  {
+   "sku2": "32oz",
+   "volume": 2227.5,
+   "sku1": "玫红",
+   "length": 9,
+   "width": 9,
+   "weight": 505,
+   "skuId": 6122907210993,
+   "height": 27.5
+  },
+  {
+   "sku2": "24oz",
+   "volume": 2023,
+   "sku1": "玫红",
+   "length": 8.5,
+   "width": 8.5,
+   "weight": 500,
+   "skuId": 6122907210946,
+   "height": 28
+  },
+  {
+   "sku2": "19oz",
+   "volume": 1632,
+   "sku1": "玫红",
+   "length": 8,
+   "width": 8,
+   "weight": 450,
+   "skuId": 6122907210971,
+   "height": 25.5
+  },
+  {
+   "sku2": "32oz",
+   "volume": 2227.5,
+   "sku1": "红色",
+   "length": 9,
+   "width": 9,
+   "weight": 505,
+   "skuId": 6122907210987,
+   "height": 27.5
+  },
+  {
+   "sku2": "24oz",
+   "volume": 2023,
+   "sku1": "红色",
+   "length": 8.5,
+   "width": 8.5,
+   "weight": 500,
+   "skuId": 6122907210940,
+   "height": 28
+  },
+  {
+   "sku2": "19oz",
+   "volume": 1632,
+   "sku1": "红色",
+   "length": 8,
+   "width": 8,
+   "weight": 450,
+   "skuId": 6122907210965,
+   "height": 25.5
+  },
+  {
+   "sku2": "32oz",
+   "volume": 2227.5,
+   "sku1": "天蓝",
+   "length": 9,
+   "width": 9,
+   "weight": 505,
+   "skuId": 6122907210996,
+   "height": 27.5
+  },
+  {
+   "sku2": "24oz",
+   "volume": 2023,
+   "sku1": "天蓝",
+   "length": 8.5,
+   "width": 8.5,
+   "weight": 500,
+   "skuId": 6122907210950,
+   "height": 28
+  },
+  {
+   "sku2": "19oz",
+   "volume": 1632,
+   "sku1": "天蓝",
+   "length": 8,
+   "width": 8,
+   "weight": 450,
+   "skuId": 6122907210975,
+   "height": 25.5
+  },
+  {
+   "sku2": "24oz",
+   "volume": 2023,
+   "sku1": "粉色",
+   "length": 8.5,
+   "width": 8.5,
+   "weight": 500,
+   "skuId": 6122907210939,
+   "height": 28
+  },
+  {
+   "sku2": "24oz",
+   "volume": 2023,
+   "sku1": "军绿",
+   "length": 8.5,
+   "width": 8.5,
+   "weight": 500,
+   "skuId": 6122907210949,
+   "height": 28
+  }
+ ],
+ "url": "https://detail.1688.com/offer/976545612683.html",
+ "核页时间": "2026-10-06T16:19:40.179Z"
+}

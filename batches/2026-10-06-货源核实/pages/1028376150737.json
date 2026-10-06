@@ -1,0 +1,134 @@
+{
+ "offerId": "1028376150737",
+ "条目": "H0948",
+ "block": false,
+ "卖家公司": "揭阳市榕城区广营不锈钢制品厂",
+ "旺旺名": "广营不锈钢制品厂",
+ "标题": "304不锈钢咖啡量勺长柄烘焙刻度计量勺奶粉茶叶调料勺多功能家用",
+ "状态": "PUBLISHED",
+ "类目": "烘焙量勺量杯",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "规格",
+   "值": [
+    "5ml量勺",
+    "10ml量勺",
+    "15ml量勺",
+    "20ml量勺",
+    "25ml量勺",
+    "30ml量勺"
+   ]
+  },
+  {
+   "属性": "颜色",
+   "值": [
+    "304不锈钢"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "10ml量勺&gt;304不锈钢",
+   "价格": "1.70",
+   "库存": 89033
+  },
+  {
+   "规格": "25ml量勺&gt;304不锈钢",
+   "价格": "2.00",
+   "库存": 97977
+  },
+  {
+   "规格": "30ml量勺&gt;304不锈钢",
+   "价格": "2.10",
+   "库存": 97152
+  },
+  {
+   "规格": "5ml量勺&gt;304不锈钢",
+   "价格": "1.60",
+   "库存": 87660
+  },
+  {
+   "规格": "15ml量勺&gt;304不锈钢",
+   "价格": "1.80",
+   "库存": 94905
+  },
+  {
+   "规格": "20ml量勺&gt;304不锈钢",
+   "价格": "1.90",
+   "库存": 95926
+  }
+ ],
+ "规格图": [
+  [
+   "5ml量勺",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01qK6QaF1I16eYHtVel_!!2208048100832-0-cib.jpg"
+  ],
+  [
+   "10ml量勺",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01qSLc4h1I16eYs0DIA_!!2208048100832-0-cib.jpg"
+  ],
+  [
+   "15ml量勺",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01Srcf0C1I16eYfczSD_!!2208048100832-0-cib.jpg"
+  ],
+  [
+   "20ml量勺",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01IXxsyR1I16eZ4V1FR_!!2208048100832-0-cib.jpg"
+  ],
+  [
+   "25ml量勺",
+   "https://cbu01.alicdn.com/img/ibank/O1CN012wjLJm1I16eZOq9Fx_!!2208048100832-0-cib.jpg"
+  ],
+  [
+   "30ml量勺",
+   "https://cbu01.alicdn.com/img/ibank/O1CN017fd74d1I16eYx8M46_!!2208048100832-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "skuPrice",
+ "价格区间": null,
+ "阶梯价_登录后": [
+  {
+   "price": "1.60",
+   "beginAmount": 1
+  },
+  {
+   "price": "2.10",
+   "beginAmount": 1
+  }
+ ],
+ "到手价": null,
+ "起订量": 1,
+ "单位": "件",
+ "可售总量": 562653,
+ "已售": 37159,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01XATl2M1I16eaBfao4_!!2208048100832-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01DzMXGC1I16eYzCVNp_!!2208048100832-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01TvXQzI1I16eZFVhR8_!!2208048100832-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01uGbAwP1I16eZHsjrD_!!2208048100832-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01TekQIF1I16eYfGu4U_!!2208048100832-0-cib.jpg"
+ ],
+ "商品属性": [
+  "材质:304不锈钢",
+  "品牌:无",
+  "风格:其它",
+  "是否进口:否",
+  "产地:中国大陆",
+  "类别:烘焙量勺量杯",
+  "规格:5ml量勺/10ml量勺/15ml量勺/20ml量勺/25ml量勺/30ml量勺",
+  "是否有专利:否",
+  "颜色:304不锈钢"
+ ],
+ "包装信息": [
+  {
+   "volume": 220.05,
+   "length": 16.3,
+   "width": 4.5,
+   "weight": 55,
+   "height": 3
+  }
+ ],
+ "url": "https://detail.1688.com/offer/1028376150737.html",
+ "核页时间": "2026-10-06T19:13:57.634Z"
+}

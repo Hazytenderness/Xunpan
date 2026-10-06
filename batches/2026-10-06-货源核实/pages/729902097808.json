@@ -1,0 +1,98 @@
+{
+ "offerId": "729902097808",
+ "条目": "H0714",
+ "block": false,
+ "卖家公司": "东莞市迎真科技有限公司",
+ "旺旺名": "迎真科技有限公司",
+ "标题": "毛绒玩具大刷子小 刷子塑料刷 4排齿 10排齿玩具刷 宠物刷手柄刷",
+ "状态": "PUBLISHED",
+ "类目": "工具刷",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "规格型号",
+   "值": [
+    "图片色;黑色大毛刷 10排齿;塑料",
+    "图片色;黄色小毛刷 4排齿;塑料"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "图片色;黄色小毛刷 4排齿;塑料",
+   "价格": "1.95",
+   "库存": 9186
+  },
+  {
+   "规格": "图片色;黑色大毛刷 10排齿;塑料",
+   "价格": "2.10",
+   "库存": 8947
+  }
+ ],
+ "规格图": [
+  [
+   "图片色;黑色大毛刷 10排齿;塑料",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01fStqnC1UGvSgCQI5t_!!2216116742491-0-cib.jpg"
+  ],
+  [
+   "图片色;黄色小毛刷 4排齿;塑料",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01YrhEHk1UGvSgczlrR_!!2216116742491-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "skuPrice",
+ "价格区间": null,
+ "阶梯价_登录后": [
+  {
+   "price": "1.95",
+   "beginAmount": 1
+  },
+  {
+   "price": "2.10",
+   "beginAmount": 1
+  }
+ ],
+ "到手价": null,
+ "起订量": 1,
+ "单位": "个",
+ "可售总量": 18133,
+ "已售": 1185,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01RRRAg61UGvSbTmivA_!!2216116742491-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01fStqnC1UGvSgCQI5t_!!2216116742491-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01r26U2Z1UGvShe0WlG_!!2216116742491-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01mkpgQB1UGvShdyNgS_!!2216116742491-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01YrhEHk1UGvSgczlrR_!!2216116742491-0-cib.jpg"
+ ],
+ "商品属性": [
+  "种类:毛刷",
+  "undefined:",
+  "undefined:",
+  "undefined:",
+  "产地:广东",
+  "订货号:0",
+  "品牌:美意",
+  "货号:0",
+  "形状:平形",
+  "功能:修边",
+  "用途:纺织皮革",
+  "全长:12",
+  "刷子用途:毛刷",
+  "是否跨境出口专供货源:否",
+  "净重:0.2",
+  "类型:毛刷",
+  "毛长度:5",
+  "厚度:2",
+  "刷柄材质:塑料"
+ ],
+ "包装信息": [
+  {
+   "volume": 0,
+   "length": 0,
+   "width": 0,
+   "weight": 500,
+   "height": 0
+  }
+ ],
+ "url": "https://detail.1688.com/offer/729902097808.html",
+ "核页时间": "2026-10-06T18:06:28.932Z"
+}

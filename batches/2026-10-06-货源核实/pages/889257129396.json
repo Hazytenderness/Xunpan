@@ -1,0 +1,627 @@
+{
+ "offerId": "889257129396",
+ "条目": "H0435",
+ "block": false,
+ "卖家公司": "南京嬉皮狗宠物有限公司",
+ "旺旺名": "xipigoucom",
+ "标题": "狗狗玩具咬咬鞋发声磨牙耐咬鞋子棉绳结训练泰迪小型犬宠物狗玩具",
+ "状态": "PUBLISHED",
+ "类目": "狗狗玩具",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "颜色",
+   "值": [
+    "小鳄鱼（约45cm*9cm）",
+    "火烈鸟（约28cm*9cm）",
+    "长颈鹿（约30cm*18cm）",
+    "大象（约35cm*11cm）",
+    "恐龙小号",
+    "恐龙大号",
+    "洛克黄",
+    "邦迪蓝",
+    "蒂安绿",
+    "蓝色大象",
+    "黄色狮子",
+    "萌萌牛",
+    "网红嘎嘎鸭-小号",
+    "网红嘎嘎鸭-中号",
+    "网红嘎嘎鸭-大号",
+    "蓝色怪怪熊",
+    "黄色怪怪熊",
+    "双色拔河球",
+    "单色提篮球",
+    "三色糖果结",
+    "三色手提绳骨头",
+    "双色玉米棒",
+    "双色糖果结",
+    "双色8字球蓝色",
+    "双色8字球绿色",
+    "双色拔河球蓝色",
+    "双色拔河球绿色",
+    "双色提篮球蓝色",
+    "双色提篮球绿色",
+    "双糖果吊球蓝色",
+    "双糖果吊球绿色",
+    "8字三通网球",
+    "三色哑铃蓝绿",
+    "双色棉球绿色",
+    "双色棉球蓝色",
+    "黄蓝条纹拖",
+    "8字型穿手雷",
+    "黄棕条纹拖鞋",
+    "粉条纹拖鞋",
+    "橄榄球大号",
+    "橄榄球小号",
+    "蓝足球大号",
+    "蓝足球小号",
+    "排球大号",
+    "排球小号",
+    "鹿角小号",
+    "鹿角大号",
+    "骨头小号",
+    "骨头大号",
+    "玉米圈",
+    "蓝色带刺骨头",
+    "粉色刺球",
+    "蓝色星星",
+    "发光七彩球"
+   ]
+  },
+  {
+   "属性": "规格",
+   "值": [
+    "乐趣无限"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "黄色怪怪熊&gt;乐趣无限",
+   "价格": "7.50",
+   "库存": 96
+  },
+  {
+   "规格": "双糖果吊球蓝色&gt;乐趣无限",
+   "价格": "6.80",
+   "库存": 16
+  },
+  {
+   "规格": "双色8字球绿色&gt;乐趣无限",
+   "价格": "1.80",
+   "库存": 50
+  },
+  {
+   "规格": "双色8字球蓝色&gt;乐趣无限",
+   "价格": "1.80",
+   "库存": 60
+  },
+  {
+   "规格": "恐龙小号&gt;乐趣无限",
+   "价格": "6.50",
+   "库存": 236
+  },
+  {
+   "规格": "骨头大号&gt;乐趣无限",
+   "价格": "5.00",
+   "库存": 13
+  },
+  {
+   "规格": "双色糖果结&gt;乐趣无限",
+   "价格": "2.80",
+   "库存": 0
+  },
+  {
+   "规格": "双色棉球蓝色&gt;乐趣无限",
+   "价格": "1.50",
+   "库存": 90
+  },
+  {
+   "规格": "双色玉米棒&gt;乐趣无限",
+   "价格": "2.80",
+   "库存": 499
+  },
+  {
+   "规格": "蒂安绿&gt;乐趣无限",
+   "价格": "7.50",
+   "库存": 159
+  },
+  {
+   "规格": "橄榄球小号&gt;乐趣无限",
+   "价格": "5.80",
+   "库存": 124
+  },
+  {
+   "规格": "大象（约35cm*11cm）&gt;乐趣无限",
+   "价格": "10.00",
+   "库存": 27
+  },
+  {
+   "规格": "三色糖果结&gt;乐趣无限",
+   "价格": "1.80",
+   "库存": 127
+  },
+  {
+   "规格": "双糖果吊球绿色&gt;乐趣无限",
+   "价格": "3.50",
+   "库存": 32
+  },
+  {
+   "规格": "双色提篮球蓝色&gt;乐趣无限",
+   "价格": "1.80",
+   "库存": 144
+  },
+  {
+   "规格": "小鳄鱼（约45cm*9cm）&gt;乐趣无限",
+   "价格": "10.00",
+   "库存": 210
+  },
+  {
+   "规格": "发光七彩球&gt;乐趣无限",
+   "价格": "5.80",
+   "库存": 894
+  },
+  {
+   "规格": "长颈鹿（约30cm*18cm）&gt;乐趣无限",
+   "价格": "10.00",
+   "库存": 60
+  },
+  {
+   "规格": "三色哑铃蓝绿&gt;乐趣无限",
+   "价格": "3.80",
+   "库存": 59
+  },
+  {
+   "规格": "网红嘎嘎鸭-大号&gt;乐趣无限",
+   "价格": "12.80",
+   "库存": 241
+  },
+  {
+   "规格": "蓝足球大号&gt;乐趣无限",
+   "价格": "6.80",
+   "库存": 68
+  },
+  {
+   "规格": "双色棉球绿色&gt;乐趣无限",
+   "价格": "1.50",
+   "库存": 523
+  },
+  {
+   "规格": "黄棕条纹拖鞋&gt;乐趣无限",
+   "价格": "3.50",
+   "库存": 183
+  },
+  {
+   "规格": "萌萌牛&gt;乐趣无限",
+   "价格": "5.80",
+   "库存": 10
+  },
+  {
+   "规格": "粉色刺球&gt;乐趣无限",
+   "价格": "2.80",
+   "库存": 375
+  },
+  {
+   "规格": "8字三通网球&gt;乐趣无限",
+   "价格": "2.50",
+   "库存": 0
+  },
+  {
+   "规格": "火烈鸟（约28cm*9cm）&gt;乐趣无限",
+   "价格": "10.00",
+   "库存": 88
+  },
+  {
+   "规格": "鹿角小号&gt;乐趣无限",
+   "价格": "3.50",
+   "库存": 82
+  },
+  {
+   "规格": "网红嘎嘎鸭-中号&gt;乐趣无限",
+   "价格": "8.50",
+   "库存": 309
+  },
+  {
+   "规格": "粉条纹拖鞋&gt;乐趣无限",
+   "价格": "3.50",
+   "库存": 0
+  },
+  {
+   "规格": "蓝色带刺骨头&gt;乐趣无限",
+   "价格": "1.80",
+   "库存": 782
+  },
+  {
+   "规格": "排球大号&gt;乐趣无限",
+   "价格": "6.80",
+   "库存": 58
+  },
+  {
+   "规格": "黄蓝条纹拖&gt;乐趣无限",
+   "价格": "3.50",
+   "库存": 342
+  },
+  {
+   "规格": "蓝色星星&gt;乐趣无限",
+   "价格": "2.80",
+   "库存": 582
+  },
+  {
+   "规格": "排球小号&gt;乐趣无限",
+   "价格": "5.80",
+   "库存": 90
+  },
+  {
+   "规格": "蓝色大象&gt;乐趣无限",
+   "价格": "5.80",
+   "库存": 301
+  },
+  {
+   "规格": "双色拔河球蓝色&gt;乐趣无限",
+   "价格": "1.80",
+   "库存": 28
+  },
+  {
+   "规格": "橄榄球大号&gt;乐趣无限",
+   "价格": "6.80",
+   "库存": 73
+  },
+  {
+   "规格": "鹿角大号&gt;乐趣无限",
+   "价格": "5.00",
+   "库存": 72
+  },
+  {
+   "规格": "骨头小号&gt;乐趣无限",
+   "价格": "3.50",
+   "库存": 67
+  },
+  {
+   "规格": "三色手提绳骨头&gt;乐趣无限",
+   "价格": "3.80",
+   "库存": 32
+  },
+  {
+   "规格": "邦迪蓝&gt;乐趣无限",
+   "价格": "7.50",
+   "库存": 129
+  },
+  {
+   "规格": "双色拔河球绿色&gt;乐趣无限",
+   "价格": "1.80",
+   "库存": 0
+  },
+  {
+   "规格": "洛克黄&gt;乐趣无限",
+   "价格": "7.50",
+   "库存": 536
+  },
+  {
+   "规格": "恐龙大号&gt;乐趣无限",
+   "价格": "8.00",
+   "库存": 63
+  },
+  {
+   "规格": "蓝足球小号&gt;乐趣无限",
+   "价格": "5.80",
+   "库存": 189
+  },
+  {
+   "规格": "单色提篮球&gt;乐趣无限",
+   "价格": "2.80",
+   "库存": 138
+  },
+  {
+   "规格": "网红嘎嘎鸭-小号&gt;乐趣无限",
+   "价格": "6.50",
+   "库存": 1053
+  },
+  {
+   "规格": "双色提篮球绿色&gt;乐趣无限",
+   "价格": "1.80",
+   "库存": 401
+  },
+  {
+   "规格": "玉米圈&gt;乐趣无限",
+   "价格": "6.80",
+   "库存": 47
+  },
+  {
+   "规格": "双色拔河球&gt;乐趣无限",
+   "价格": "2.50",
+   "库存": 132
+  },
+  {
+   "规格": "蓝色怪怪熊&gt;乐趣无限",
+   "价格": "7.50",
+   "库存": 103
+  },
+  {
+   "规格": "8字型穿手雷&gt;乐趣无限",
+   "价格": "6.50",
+   "库存": 0
+  },
+  {
+   "规格": "黄色狮子&gt;乐趣无限",
+   "价格": "5.80",
+   "库存": 86
+  }
+ ],
+ "规格图": [
+  [
+   "小鳄鱼（约45cm*9cm）",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01lV2NOz2APMqbsKnEz_!!2743028195-0-cib.jpg"
+  ],
+  [
+   "火烈鸟（约28cm*9cm）",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01zN1eHx2APMqbsNTm1_!!2743028195-0-cib.jpg"
+  ],
+  [
+   "长颈鹿（约30cm*18cm）",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01ZTnThB2APMqbReFbS_!!2743028195-0-cib.jpg"
+  ],
+  [
+   "大象（约35cm*11cm）",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01sdu4kN2APMqaqq0Jr_!!2743028195-0-cib.jpg"
+  ],
+  [
+   "恐龙小号",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01Brv3rY2APMqUZuNtI_!!2743028195-0-cib.jpg"
+  ],
+  [
+   "恐龙大号",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01MBrVPw2APMqZNjAau_!!2743028195-0-cib.jpg"
+  ],
+  [
+   "洛克黄",
+   "https://cbu01.alicdn.com/img/ibank/O1CN015dThNP2APMnGWsYmU_!!2743028195-0-cib.jpg"
+  ],
+  [
+   "邦迪蓝",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01RdcXS92APMnG1JOKQ_!!2743028195-0-cib.jpg"
+  ],
+  [
+   "蒂安绿",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01MEL8wW2APMnD5kmwN_!!2743028195-0-cib.jpg"
+  ],
+  [
+   "蓝色大象",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01NuYpTh2APMqfn060V_!!2743028195-0-cib.jpg"
+  ],
+  [
+   "黄色狮子",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01TU6SmH2APMqb2K4SZ_!!2743028195-0-cib.jpg"
+  ],
+  [
+   "萌萌牛",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01WKKY352APMqhDM1Xt_!!2743028195-0-cib.jpg"
+  ],
+  [
+   "网红嘎嘎鸭-小号",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01fYzkUd2APMqhWlFMk_!!2743028195-0-cib.jpg"
+  ],
+  [
+   "网红嘎嘎鸭-中号",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01zZy46p2APMqgtS63t_!!2743028195-0-cib.jpg"
+  ],
+  [
+   "网红嘎嘎鸭-大号",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01y2PQz82APMqb3H9FS_!!2743028195-0-cib.jpg"
+  ],
+  [
+   "蓝色怪怪熊",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01u0TxQt2APMrR8jQ7j_!!2743028195-0-cib.jpg"
+  ],
+  [
+   "黄色怪怪熊",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01AbN4Yp2APMrQQtfkF_!!2743028195-0-cib.jpg"
+  ],
+  [
+   "双色拔河球",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01QlbgeZ2APMqhWQ6Km_!!2743028195-0-cib.jpg"
+  ],
+  [
+   "单色提篮球",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01fOV1NS2APMqb2w4TY_!!2743028195-0-cib.jpg"
+  ],
+  [
+   "三色糖果结",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01vLrzL62APMqfnmEBX_!!2743028195-0-cib.jpg"
+  ],
+  [
+   "三色手提绳骨头",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01UEP6GC2APMqgooQ0Z_!!2743028195-0-cib.jpg"
+  ],
+  [
+   "双色玉米棒",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01uojLr52APMsYdTMrc_!!2743028195-0-cib.jpg"
+  ],
+  [
+   "双色糖果结",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01xtFkr92APMqgSZSwU_!!2743028195-0-cib.jpg"
+  ],
+  [
+   "双色8字球蓝色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN012WWraF2APMoTU8eGe_!!2743028195-0-cib.jpg"
+  ],
+  [
+   "双色8字球绿色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01bewiNe2APMoRtc48X_!!2743028195-0-cib.jpg"
+  ],
+  [
+   "双色拔河球蓝色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN0178HS3O2APMoSn2t3z_!!2743028195-0-cib.jpg"
+  ],
+  [
+   "双色拔河球绿色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01tToLU92APMoMykuVU_!!2743028195-0-cib.jpg"
+  ],
+  [
+   "双色提篮球蓝色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN010kOUDz2APMoRoTuWZ_!!2743028195-0-cib.jpg"
+  ],
+  [
+   "双色提篮球绿色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01GF8MfX2APMoTUFlNM_!!2743028195-0-cib.jpg"
+  ],
+  [
+   "双糖果吊球蓝色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01xrAle02APMoTd53Be_!!2743028195-0-cib.jpg"
+  ],
+  [
+   "双糖果吊球绿色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01NqIl4X2APMoSnEIbm_!!2743028195-0-cib.jpg"
+  ],
+  [
+   "8字三通网球",
+   "https://cbu01.alicdn.com/img/ibank/O1CN011DbJvc2APMoUEtWmD_!!2743028195-0-cib.jpg"
+  ],
+  [
+   "三色哑铃蓝绿",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01dd6tQn2APMoUiKqR2_!!2743028195-0-cib.jpg"
+  ],
+  [
+   "双色棉球绿色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01bhStfl2APMoMyspRV_!!2743028195-0-cib.jpg"
+  ],
+  [
+   "双色棉球蓝色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01H5JjpJ2APMoT1tppB_!!2743028195-0-cib.jpg"
+  ],
+  [
+   "黄蓝条纹拖",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01D6GaYY2APMoNkynMM_!!2743028195-0-cib.jpg"
+  ],
+  [
+   "8字型穿手雷",
+   "https://cbu01.alicdn.com/img/ibank/O1CN014zgq1s2APMoRojtHi_!!2743028195-0-cib.jpg"
+  ],
+  [
+   "黄棕条纹拖鞋",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01c36jCb2APMoM8SDCR_!!2743028195-0-cib.jpg"
+  ],
+  [
+   "粉条纹拖鞋",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01c5Kl9c2APMoKmSeCe_!!2743028195-0-cib.jpg"
+  ],
+  [
+   "橄榄球大号",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01ZkoAl82APMoRFe3hg_!!2743028195-0-cib.jpg"
+  ],
+  [
+   "橄榄球小号",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01nNjrMr2APMoTt9iwq_!!2743028195-0-cib.jpg"
+  ],
+  [
+   "蓝足球大号",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01EmjzUl2APMoTf4sy0_!!2743028195-0-cib.jpg"
+  ],
+  [
+   "蓝足球小号",
+   "https://cbu01.alicdn.com/img/ibank/O1CN0150i5NE2APMoTcWTeQ_!!2743028195-0-cib.jpg"
+  ],
+  [
+   "排球大号",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01PBujua2APMoTtBffH_!!2743028195-0-cib.jpg"
+  ],
+  [
+   "排球小号",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01p8peP32APMoRo48En_!!2743028195-0-cib.jpg"
+  ],
+  [
+   "鹿角小号",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01qZAS8M2APMoUEZ7SZ_!!2743028195-0-cib.jpg"
+  ],
+  [
+   "鹿角大号",
+   "https://cbu01.alicdn.com/img/ibank/O1CN0119FEhw2APMoUi3OST_!!2743028195-0-cib.jpg"
+  ],
+  [
+   "骨头小号",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01qKPjpq2APMoTtPIgv_!!2743028195-0-cib.jpg"
+  ],
+  [
+   "骨头大号",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01Q1ZYuF2APMoRtXQq6_!!2743028195-0-cib.jpg"
+  ],
+  [
+   "玉米圈",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01LqUvsr2APMqfnvDty_!!2743028195-0-cib.jpg"
+  ],
+  [
+   "蓝色带刺骨头",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01USS5SF2APMqgpu5ip_!!2743028195-0-cib.jpg"
+  ],
+  [
+   "粉色刺球",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01x9VLx72APMqgl5rY0_!!2743028195-0-cib.jpg"
+  ],
+  [
+   "蓝色星星",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01UwjGxn2APMqhFHerz_!!2743028195-0-cib.jpg"
+  ],
+  [
+   "发光七彩球",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01cutsW42APMqgOQcLo_!!2743028195-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "skuPrice",
+ "价格区间": null,
+ "阶梯价_登录后": [
+  {
+   "price": "1.50",
+   "beginAmount": 1
+  },
+  {
+   "price": "12.80",
+   "beginAmount": 1
+  }
+ ],
+ "到手价": null,
+ "起订量": 1,
+ "单位": "只",
+ "可售总量": 10079,
+ "已售": 22116,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01ovbyJJ2APMpqVh4Fi_!!2743028195-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01Je03JU2APMprK46oM_!!2743028195-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01vnzk0n2APMppWoU7s_!!2743028195-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01AjWVDr2APMpBmwuQ8_!!2743028195-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01GBDA0J2APMpqopkeR_!!2743028195-0-cib.jpg"
+ ],
+ "商品属性": [
+  "材质:牛津布",
+  "产品类别:绳结玩具",
+  "品牌:嬉皮狗",
+  "是否进口:否",
+  "重量:100",
+  "货号:2503MJDJ0342-GP",
+  "产地:江苏",
+  "箱装数量:暂无",
+  "是否专利货源:否",
+  "颜色:小鳄鱼（约45cm*9cm）/火烈鸟（约28cm*9cm）/长颈鹿（约30cm*18cm）/大象（约35cm*11cm）/恐龙小号/恐龙大号/洛克黄/邦迪蓝/蒂安绿/蓝色大象/黄色狮子/萌萌牛/网红嘎嘎鸭-小号/网红嘎嘎鸭-中号/网红嘎嘎鸭-大号/蓝色怪怪熊/黄色怪怪熊/双色拔河球/单色提篮球/三色糖果结/三色手提绳骨头/双色玉米棒/双色糖果结/双色8字球蓝色/双色8字球绿色/双色拔河球蓝色/双色拔河球绿色/双色提篮球蓝色/双色提篮球绿色/双糖果吊球蓝色/双糖果吊球绿色/8字三通网球/三色哑铃蓝绿/双色棉球绿色/双色棉球蓝色/黄蓝条纹拖/8字型穿手雷/黄棕条纹拖鞋/粉条纹拖鞋/橄榄球大号/橄榄球小号/蓝足球大号/蓝足球小号/排球大号/排球小号/鹿角小号/鹿角大号/骨头小号/骨头大号/玉米圈/蓝色带刺骨头/粉色刺球/蓝色星星/发光七彩球",
+  "主要下游平台:ebay/亚马逊/wish/速卖通/独立站/LAZADA",
+  "主要销售地区:欧洲/南美/东南亚/北美/东北亚/中东",
+  "有可授权的自有品牌:是",
+  "是否跨境出口专供货源:是",
+  "规格:乐趣无限",
+  "是否属于礼品:否",
+  "是否IP授权:否",
+  "造型:卡通",
+  "适用年龄阶段:全阶段",
+  "附加功能:安抚/磨牙/清洁牙齿/智力开发/漏食/互动性",
+  "适用体重:小型犬（小于10kg）/中型犬（10-25kg）/大型犬（25-40kg）/巨型犬（大于40kg）",
+  "玩具构造类型:绳结"
+ ],
+ "包装信息": [
+  {
+   "volume": 500,
+   "length": 10,
+   "width": 5,
+   "weight": 100,
+   "height": 10
+  }
+ ],
+ "url": "https://detail.1688.com/offer/889257129396.html",
+ "核页时间": "2026-10-06T16:48:33.736Z"
+}

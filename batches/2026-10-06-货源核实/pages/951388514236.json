@@ -1,0 +1,102 @@
+{
+ "offerId": "951388514236",
+ "条目": "H0553",
+ "block": false,
+ "卖家公司": "揭阳市揭东经济开发区小家米品电器厂",
+ "旺旺名": "小家米品电器厂",
+ "标题": "毛球修剪器衣服去毛球便携式毛衣剃毛器家用充电式去毛器现货批发",
+ "状态": "PUBLISHED",
+ "类目": "毛球修剪器",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "颜色",
+   "值": [
+    "奶黄色",
+    "灰色",
+    "修剪器-无手柄"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "奶黄色",
+   "价格": "6.50",
+   "库存": 53404
+  },
+  {
+   "规格": "灰色",
+   "价格": "6.50",
+   "库存": 46085
+  },
+  {
+   "规格": "修剪器-无手柄",
+   "价格": "5.90",
+   "库存": 64876
+  }
+ ],
+ "规格图": [
+  [
+   "奶黄色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01t0FNIn1oLJmTekEZX_!!2217949745208-0-cib.jpg"
+  ],
+  [
+   "灰色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01tKnEbQ2LGd4Ahr4Dg_!!2220228439665-0-cib.jpg"
+  ],
+  [
+   "修剪器-无手柄",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01lX4EVX2LGd49pIcdE_!!2220228439665-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "skuPrice",
+ "价格区间": "5.90-6.50",
+ "阶梯价_登录后": [
+  {
+   "price": "5.90",
+   "beginAmount": 1
+  },
+  {
+   "price": "6.50",
+   "beginAmount": 1
+  }
+ ],
+ "到手价": {
+  "价": "3.9",
+  "说明": "新人价",
+  "件数": 1
+ },
+ "起订量": 1,
+ "单位": "件",
+ "可售总量": 164365,
+ "已售": 3572,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01pUUxTI1oLJmM8grxV_!!2217949745208-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01zv9a982LGd3C0Yksx_!!2220228439665-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01a6cZGZ2LGd4Ad3O72_!!2220228439665-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01LBYN701oLJmS4Zn4Q_!!2217949745208-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01bLFYdH1oLJmSMHzg1_!!2217949745208-0-cib.jpg"
+ ],
+ "商品属性": [
+  "品牌:小家米品",
+  "产品类型:充电型",
+  "材质:PP",
+  "货号:毛球修剪器",
+  "产地:揭阳市",
+  "箱装数量:详情询问客服",
+  "贸易属性:内贸",
+  "颜色:奶黄色/灰色/修剪器-无手柄",
+  "是否跨境出口专供货源:否"
+ ],
+ "包装信息": [
+  {
+   "volume": 0,
+   "length": 0,
+   "width": 0,
+   "weight": 300,
+   "height": 0
+  }
+ ],
+ "url": "https://detail.1688.com/offer/951388514236.html",
+ "核页时间": "2026-10-06T17:22:23.497Z"
+}

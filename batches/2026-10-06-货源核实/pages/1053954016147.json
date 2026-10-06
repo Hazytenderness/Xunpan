@@ -1,0 +1,189 @@
+{
+ "offerId": "1053954016147",
+ "条目": "H0893",
+ "block": false,
+ "卖家公司": "义乌市胖丫饰品厂",
+ "旺旺名": "义乌市胖丫饰品厂",
+ "标题": "12-14mm33颗跨境念珠阿拉伯手串手工串珠纯色流苏手串念珠工厂",
+ "状态": "PUBLISHED",
+ "类目": "佛珠/念珠",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "颜色",
+   "值": [
+    "黑色",
+    "酒红色",
+    "橙红色",
+    "棕黑色",
+    "深红色",
+    "桔色"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "黑色",
+   "价格": null,
+   "库存": 172
+  },
+  {
+   "规格": "酒红色",
+   "价格": null,
+   "库存": 251
+  },
+  {
+   "规格": "棕黑色",
+   "价格": null,
+   "库存": 223
+  },
+  {
+   "规格": "桔色",
+   "价格": null,
+   "库存": 239
+  },
+  {
+   "规格": "深红色",
+   "价格": null,
+   "库存": 237
+  },
+  {
+   "规格": "橙红色",
+   "价格": null,
+   "库存": 249
+  }
+ ],
+ "规格图": [
+  [
+   "黑色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01l5WgmU1TIvrBsnVBR_!!2217721852360-0-cib.jpg"
+  ],
+  [
+   "酒红色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01RciOkG1TIvrC0yiD3_!!2217721852360-0-cib.jpg"
+  ],
+  [
+   "橙红色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01Hxmxod1TIvrBVwvAE_!!2217721852360-0-cib.jpg"
+  ],
+  [
+   "棕黑色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01JZO9yU1TIvrC8NtQJ_!!2217721852360-0-cib.jpg"
+  ],
+  [
+   "深红色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01v2CG1K1TIvrDK3Yg9_!!2217721852360-0-cib.jpg"
+  ],
+  [
+   "桔色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN0104tJJa1TIvrBnusyK_!!2217721852360-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "rangePrice",
+ "价格区间": null,
+ "阶梯价_登录后": [
+  {
+   "price": "4.75",
+   "beginAmount": 1
+  },
+  {
+   "price": "4.50",
+   "beginAmount": 300
+  },
+  {
+   "price": "4.35",
+   "beginAmount": 600
+  }
+ ],
+ "到手价": null,
+ "起订量": 1,
+ "单位": "件",
+ "可售总量": 1371,
+ "已售": 30,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01FTakDO1TIvrBr4OoL_!!2217721852360-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01Geu6cv1TIvrBr7DVk_!!2217721852360-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01dvgmSV1TIvrBseN8q_!!2217721852360-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01LwGiN21TIvrBrBf0F_!!2217721852360-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN0186LZbN1TIvrBrBKGW_!!2217721852360-0-cib.jpg"
+ ],
+ "商品属性": [
+  "材质:亚克力",
+  "工艺:其它/手工/铸造",
+  "品牌:other/其他",
+  "风格:现代简约风",
+  "有可授权的自有品牌:无",
+  "颜色:黑色/酒红色/橙红色/棕黑色/深红色/桔色",
+  "是否专利货源:否",
+  "货号:B7-33E4-1",
+  "专利号:无",
+  "是否属于礼品:否",
+  "是否跨境出口专供货源:是",
+  "主要销售地区:欧洲/南美/东南亚/北美/东北亚",
+  "主要下游平台:ebay/亚马逊/wish/速卖通/LAZADA",
+  "上市年份/季节:2026年春季",
+  "品类:其他",
+  "珠型:其他",
+  "变色特性:其他",
+  "包装:OPP袋",
+  "是否IP授权:否"
+ ],
+ "包装信息": [
+  {
+   "volume": 0,
+   "sku1": "黑色",
+   "length": 0,
+   "width": 0,
+   "weight": 37,
+   "skuId": 6254417295018,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "酒红色",
+   "length": 0,
+   "width": 0,
+   "weight": 37,
+   "skuId": 6254417295019,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "橙红色",
+   "length": 0,
+   "width": 0,
+   "weight": 37,
+   "skuId": 6254417295021,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "棕黑色",
+   "length": 0,
+   "width": 0,
+   "weight": 37,
+   "skuId": 6254417295022,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "深红色",
+   "length": 0,
+   "width": 0,
+   "weight": 37,
+   "skuId": 6254417295023,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "桔色",
+   "length": 0,
+   "width": 0,
+   "weight": 37,
+   "skuId": 6254417295024,
+   "height": 0
+  }
+ ],
+ "url": "https://detail.1688.com/offer/1053954016147.html",
+ "核页时间": "2026-10-06T18:56:23.577Z"
+}

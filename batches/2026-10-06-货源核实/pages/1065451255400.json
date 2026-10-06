@@ -1,0 +1,301 @@
+{
+ "offerId": "1065451255400",
+ "条目": "H0305",
+ "block": false,
+ "卖家公司": "揭阳市宏悦科技有限公司",
+ "旺旺名": "宏悦塑胶实业",
+ "标题": "跨境新品厨房冰箱沥水篮保鲜盒食品级水果保鲜盒微波密封盒收纳盒",
+ "状态": "PUBLISHED",
+ "类目": "保鲜盒、饭盒",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "规格",
+   "值": [
+    "三件套",
+    "五件套",
+    "380ml",
+    "800ml",
+    "1.7L",
+    "3.15L",
+    "4.15L",
+    "6.2L",
+    "四件套",
+    "六件套",
+    "七件套"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "380ml",
+   "价格": "1.88",
+   "库存": 533
+  },
+  {
+   "规格": "四件套",
+   "价格": "22.40",
+   "库存": 950
+  },
+  {
+   "规格": "三件套",
+   "价格": "14.80",
+   "库存": 990
+  },
+  {
+   "规格": "1.7L",
+   "价格": "5.50",
+   "库存": 907
+  },
+  {
+   "规格": "五件套",
+   "价格": "32.70",
+   "库存": 869
+  },
+  {
+   "规格": "六件套",
+   "价格": "48.10",
+   "库存": 999
+  },
+  {
+   "规格": "3.15L",
+   "价格": "8.30",
+   "库存": 992
+  },
+  {
+   "规格": "七件套",
+   "价格": "65.60",
+   "库存": 998
+  },
+  {
+   "规格": "6.2L",
+   "价格": "15.10",
+   "库存": 999
+  },
+  {
+   "规格": "800ml",
+   "价格": "3.70",
+   "库存": 822
+  },
+  {
+   "规格": "4.15L",
+   "价格": "11.50",
+   "库存": 993
+  }
+ ],
+ "规格图": [
+  [
+   "三件套",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01px34SO1ejuyjZWAMY_!!2215865013908-0-cib.jpg"
+  ],
+  [
+   "五件套",
+   "https://cbu01.alicdn.com/img/ibank/O1CN016E4OxB1ejuyjUYAn0_!!2215865013908-0-cib.jpg"
+  ],
+  [
+   "380ml",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01FMjg9q1ejuyjqJsdw_!!2215865013908-0-cib.jpg"
+  ],
+  [
+   "800ml",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01DkDyGF1ejuyjWpAAy_!!2215865013908-0-cib.jpg"
+  ],
+  [
+   "1.7L",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01FIpEtn1ejuyjb5ABJ_!!2215865013908-0-cib.jpg"
+  ],
+  [
+   "3.15L",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01dKcuPn1ejuyjlIMjp_!!2215865013908-0-cib.jpg"
+  ],
+  [
+   "4.15L",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01DdhQIn1ejuyjizpjv_!!2215865013908-0-cib.jpg"
+  ],
+  [
+   "6.2L",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01aoDmgp1ejuyjj0q7E_!!2215865013908-0-cib.jpg"
+  ],
+  [
+   "四件套",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01jc0OQq1ejuylDARGv_!!2215865013908-0-cib.jpg"
+  ],
+  [
+   "六件套",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01MFBY6P1ejuyjZngch_!!2215865013908-0-cib.jpg"
+  ],
+  [
+   "七件套",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01DFdLzf1ejuyjZnYLQ_!!2215865013908-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "skuPrice",
+ "价格区间": "1.88-65.60",
+ "阶梯价_登录后": [
+  {
+   "price": "1.88",
+   "beginAmount": 1
+  },
+  {
+   "price": "65.60",
+   "beginAmount": 1
+  }
+ ],
+ "到手价": {
+  "价": "0.88",
+  "说明": "新人价",
+  "件数": 1
+ },
+ "起订量": 1,
+ "单位": "件",
+ "可售总量": 10052,
+ "已售": 857,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01biNPjL1ejuyjaA7Li_!!2215865013908-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01BHSz0A1ejuyjZD6F1_!!2215865013908-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN010UL42o1ejuyjN0oZt_!!2215865013908-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN019rxgEc1ejuyjQBL2H_!!2215865013908-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN010Pm0me1ejuyjZEJC7_!!2215865013908-0-cib.jpg"
+ ],
+ "商品属性": [
+  "材质:塑料",
+  "容量:1-2L",
+  "功能:轻便/冷藏/整理/密封保鲜/储存物品/储存食物/收纳分类/可冷藏",
+  "是否保温:否",
+  "盒子层数:双层",
+  "品牌:其他",
+  "产品类别:保鲜盒",
+  "是否进口:否",
+  "货号:3065-3067",
+  "形状:长方形",
+  "微波炉:可用",
+  "风格:现代简约",
+  "图案:纯色",
+  "适用人群:成人",
+  "贸易属性:内贸",
+  "箱装数量:36",
+  "适用送礼场合:节日",
+  "加印LOGO:不可以",
+  "加工定制:是",
+  "产品上市时间:2026年春",
+  "价格段:5-10元",
+  "是否一次性:否",
+  "是否有专利:无",
+  "规格:三件套/五件套/380ml/800ml/1.7L/3.15L/4.15L/6.2L/四件套/六件套/七件套",
+  "主要下游平台:ebay/亚马逊/wish/速卖通/独立站/LAZADA/其他",
+  "主要销售地区:非洲/欧洲/南美/东南亚/北美/东北亚/中东/其他",
+  "有可授权的自有品牌:否",
+  "产品质量等级:一等品",
+  "是否跨境出口专供货源:是",
+  "是否电动:否",
+  "版权:无",
+  "场景:厨房",
+  "款式:方形",
+  "品类:收纳盒",
+  "风格类型:简约格调",
+  "分格设计:无分隔"
+ ],
+ "包装信息": [
+  {
+   "volume": 0,
+   "sku1": "三件套",
+   "length": 0,
+   "width": 0,
+   "weight": 458,
+   "skuId": 6114880460874,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "五件套",
+   "length": 0,
+   "width": 0,
+   "weight": 1308,
+   "skuId": 6114880460875,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "380ml",
+   "length": 0,
+   "width": 0,
+   "weight": 77,
+   "skuId": 6114880460876,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "800ml",
+   "length": 0,
+   "width": 0,
+   "weight": 143,
+   "skuId": 6114880460877,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "1.7L",
+   "length": 0,
+   "width": 0,
+   "weight": 238,
+   "skuId": 6114880460878,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "3.15L",
+   "length": 0,
+   "width": 0,
+   "weight": 359,
+   "skuId": 6114880460879,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "4.15L",
+   "length": 0,
+   "width": 0,
+   "weight": 493,
+   "skuId": 6114880460880,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "6.2L",
+   "length": 0,
+   "width": 0,
+   "weight": 640,
+   "skuId": 6114880460881,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "四件套",
+   "length": 0,
+   "width": 0,
+   "weight": 818,
+   "skuId": 6114880460882,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "六件套",
+   "length": 0,
+   "width": 0,
+   "weight": 1949,
+   "skuId": 6114880460883,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "七件套",
+   "length": 0,
+   "width": 0,
+   "weight": 2784,
+   "skuId": 6114880460884,
+   "height": 0
+  }
+ ],
+ "url": "https://detail.1688.com/offer/1065451255400.html",
+ "核页时间": "2026-10-06T16:12:50.422Z"
+}

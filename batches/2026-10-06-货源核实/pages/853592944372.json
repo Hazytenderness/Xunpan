@@ -1,0 +1,239 @@
+{
+ "offerId": "853592944372",
+ "条目": "H0927",
+ "block": false,
+ "卖家公司": "永康市大赢炊具有限公司",
+ "旺旺名": "永康市大赢炊具有限公司",
+ "标题": "代发麦饭石平底煎锅家用麦饭石不粘锅通用炉灶牛排煎锅烙饼锅批发",
+ "状态": "PUBLISHED",
+ "类目": "煎锅、平底锅",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "规格",
+   "值": [
+    "22cm无盖煎锅",
+    "22cm带盖煎锅",
+    "24cm煎锅无盖",
+    "24cm煎锅带盖",
+    "26cm煎锅无盖",
+    "26cm煎锅带盖",
+    "28cm煎锅无盖",
+    "28cm煎锅带盖"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "26cm煎锅带盖",
+   "价格": "20.10",
+   "库存": 327
+  },
+  {
+   "规格": "26cm煎锅无盖",
+   "价格": "15.30",
+   "库存": 563
+  },
+  {
+   "规格": "28cm煎锅带盖",
+   "价格": "21.20",
+   "库存": 29
+  },
+  {
+   "规格": "24cm煎锅无盖",
+   "价格": "13.80",
+   "库存": 620
+  },
+  {
+   "规格": "28cm煎锅无盖",
+   "价格": "15.80",
+   "库存": 589
+  },
+  {
+   "规格": "24cm煎锅带盖",
+   "价格": "18.60",
+   "库存": 1478
+  },
+  {
+   "规格": "22cm无盖煎锅",
+   "价格": "13.00",
+   "库存": 534
+  },
+  {
+   "规格": "22cm带盖煎锅",
+   "价格": "16.70",
+   "库存": 551
+  }
+ ],
+ "规格图": [
+  [
+   "22cm无盖煎锅",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01XuiBX01nsSlfg6QqQ_!!2218890645145-0-cib.jpg"
+  ],
+  [
+   "22cm带盖煎锅",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01SWqF1H1nsSsHYKb5g_!!2218890645145-0-cib.jpg"
+  ],
+  [
+   "24cm煎锅无盖",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01u6utNx1nsSlhCx9lM_!!2218890645145-0-cib.jpg"
+  ],
+  [
+   "24cm煎锅带盖",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01vR2Cge1nsSlgFA7D0_!!2218890645145-0-cib.jpg"
+  ],
+  [
+   "26cm煎锅无盖",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01ykrxgy1nsSlhzWPMA_!!2218890645145-0-cib.jpg"
+  ],
+  [
+   "26cm煎锅带盖",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01ALJdYK1nsSleWnUJE_!!2218890645145-0-cib.jpg"
+  ],
+  [
+   "28cm煎锅无盖",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01VjMXSD1nsSlhCTDC8_!!2218890645145-0-cib.jpg"
+  ],
+  [
+   "28cm煎锅带盖",
+   "https://cbu01.alicdn.com/img/ibank/O1CN016Ykzdy1nsSlfnJg9X_!!2218890645145-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "skuPrice",
+ "价格区间": "13.00-21.20",
+ "阶梯价_登录后": [
+  {
+   "price": "13.00",
+   "beginAmount": 1
+  },
+  {
+   "price": "21.20",
+   "beginAmount": 1
+  }
+ ],
+ "到手价": {
+  "价": "12",
+  "说明": "新人价",
+  "件数": 1
+ },
+ "起订量": 1,
+ "单位": "个",
+ "可售总量": 4691,
+ "已售": 5084,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01Fwxeoo1nsSozVl2kO_!!2218890645145-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01CIEofJ1nsSlfZgjDv_!!2218890645145-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01eT4dBK1nsSliRUQZl_!!2218890645145-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN015zcfo71nsSleQHwUD_!!2218890645145-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01o50Zjp1nsSlgjfQjp_!!2218890645145-0-cib.jpg"
+ ],
+ "商品属性": [
+  "锅底材质:铸铁",
+  "功能:易清洗/少油烟/导热迅速",
+  "适用炉灶:通用",
+  "品牌:其他",
+  "产品质量等级:合格品",
+  "锅体材质:熟铁",
+  "货号:NH-2",
+  "是否进口:否",
+  "风格:现代简约",
+  "特色:不粘锅",
+  "外箱规格:其他",
+  "型号:NH-2",
+  "重量:其他",
+  "贸易属性:其他",
+  "适用送礼场合:其他",
+  "包装:纸盒",
+  "产品上市时间:2024",
+  "价格段:10-20元",
+  "加工定制:是",
+  "是否有专利:无",
+  "加印LOGO:可以",
+  "锅盖类型:玻璃盖",
+  "深度:多规格链接",
+  "规格:22cm无盖煎锅/22cm带盖煎锅/24cm煎锅无盖/24cm煎锅带盖/26cm煎锅无盖/26cm煎锅带盖/28cm煎锅无盖/28cm煎锅带盖",
+  "主要下游平台:ebay/亚马逊/wish/速卖通/独立站/LAZADA",
+  "主要销售地区:非洲/欧洲/南美/东南亚/北美/东北亚/中东",
+  "有可授权的自有品牌:否",
+  "是否跨境出口专供货源:是",
+  "是否电动:否",
+  "版权:无",
+  "锅底结构:单层"
+ ],
+ "包装信息": [
+  {
+   "volume": 3243,
+   "sku1": "22cm无盖煎锅",
+   "length": 23.5,
+   "width": 6,
+   "weight": 560,
+   "skuId": 5724497249628,
+   "height": 23
+  },
+  {
+   "volume": 3243,
+   "sku1": "22cm带盖煎锅",
+   "length": 23.5,
+   "width": 6,
+   "weight": 800,
+   "skuId": 6180286670166,
+   "height": 23
+  },
+  {
+   "volume": 3901.5,
+   "sku1": "24cm煎锅无盖",
+   "length": 25.5,
+   "width": 6,
+   "weight": 730,
+   "skuId": 5724497249623,
+   "height": 25.5
+  },
+  {
+   "volume": 5852.25,
+   "sku1": "24cm煎锅带盖",
+   "length": 25.5,
+   "width": 9,
+   "weight": 1050,
+   "skuId": 5724497249625,
+   "height": 25.5
+  },
+  {
+   "volume": 4374,
+   "sku1": "26cm煎锅无盖",
+   "length": 27,
+   "width": 6,
+   "weight": 830,
+   "skuId": 5724497249622,
+   "height": 27
+  },
+  {
+   "volume": 6196.5,
+   "sku1": "26cm煎锅带盖",
+   "length": 27,
+   "width": 8.5,
+   "weight": 1400,
+   "skuId": 5724497249626,
+   "height": 27
+  },
+  {
+   "volume": 5221.5,
+   "sku1": "28cm煎锅无盖",
+   "length": 29.5,
+   "width": 6,
+   "weight": 930,
+   "skuId": 5724497249621,
+   "height": 29.5
+  },
+  {
+   "volume": 7397.125,
+   "sku1": "28cm煎锅带盖",
+   "length": 29.5,
+   "width": 8.5,
+   "weight": 1600,
+   "skuId": 5724497249627,
+   "height": 29.5
+  }
+ ],
+ "url": "https://detail.1688.com/offer/853592944372.html",
+ "核页时间": "2026-10-06T19:05:43.754Z"
+}

@@ -1,0 +1,108 @@
+{
+ "offerId": "1069141745351",
+ "条目": "H0225",
+ "block": false,
+ "卖家公司": "即墨区凯嘉盛服装商行",
+ "旺旺名": "百美特箱包家居",
+ "标题": "日本Kusuguru正品刺绣爬猫围裙家务防油防污花艺烘焙布艺卡通601",
+ "状态": "PUBLISHED",
+ "类目": "家务围裙、袖套",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "颜色",
+   "值": [
+    "爬猫芥黄色9615-1",
+    "爬猫湖蓝色9615-2"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "爬猫湖蓝色9615-2",
+   "价格": null,
+   "库存": 154
+  },
+  {
+   "规格": "爬猫芥黄色9615-1",
+   "价格": null,
+   "库存": 151
+  }
+ ],
+ "规格图": [
+  [
+   "爬猫芥黄色9615-1",
+   "https://cbu01.alicdn.com/img/ibank/O1CN014ZWvup2By0U3r4euV_!!3535858406-0-cib.jpg"
+  ],
+  [
+   "爬猫湖蓝色9615-2",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01PGfivz2By0U47bwz5_!!3535858406-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "rangePrice",
+ "价格区间": null,
+ "阶梯价_登录后": [
+  {
+   "price": "49.00",
+   "beginAmount": 3
+  },
+  {
+   "price": "48.00",
+   "beginAmount": 10
+  }
+ ],
+ "到手价": null,
+ "起订量": 3,
+ "单位": "件",
+ "可售总量": 305,
+ "已售": 15,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01CvD6cp2By0U4Fvdjk_!!3535858406-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01rNrGXS2By0U3vPoBt_!!3535858406-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN0154WfeT2By0U44pIcY_!!3535858406-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN010KSNOr2By0U47DFOu_!!3535858406-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01HLwADs2By0U4IYNH0_!!3535858406-0-cib.jpg"
+ ],
+ "商品属性": [
+  "材质:帆布",
+  "产品类别:围裙",
+  "用途:防油污",
+  "品牌:Kusuguru",
+  "围裙分类:无袖围裙",
+  "是否进口:否",
+  "尺码:均码",
+  "风格:卡通",
+  "花色:黄色 蓝色",
+  "图案:卡通/动漫",
+  "专利:否",
+  "货号:601-9615",
+  "颜色:爬猫芥黄色9615-1/爬猫湖蓝色9615-2",
+  "是否跨境出口专供货源:否",
+  "人群:大众",
+  "版权:无",
+  "适用季节:四季通用",
+  "是否一次性:否"
+ ],
+ "包装信息": [
+  {
+   "volume": 0,
+   "sku1": "爬猫芥黄色9615-1",
+   "length": 0,
+   "width": 0,
+   "weight": 160,
+   "skuId": 6282259458922,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "爬猫湖蓝色9615-2",
+   "length": 0,
+   "width": 0,
+   "weight": 160,
+   "skuId": 6282259458923,
+   "height": 0
+  }
+ ],
+ "url": "https://detail.1688.com/offer/1069141745351.html",
+ "核页时间": "2026-10-06T15:46:34.052Z"
+}

@@ -1,0 +1,126 @@
+{
+ "offerId": "833251893540",
+ "条目": "H0977",
+ "block": false,
+ "卖家公司": "永康市玖丽工贸有限公司",
+ "旺旺名": "永康市玖丽工贸有限公司",
+ "标题": "厂家可加印logo水杯套斜挎便携保温杯杯套隔热防烫保温杯套批发",
+ "状态": "PUBLISHED",
+ "类目": "杯套/壶套/保温套",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "颜色",
+   "值": [
+    "6.8*15cm黑色",
+    "6.8*18cm黑色",
+    "8*19cm黑色",
+    "8*21cm黑色",
+    "8*23黑色"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "6.8*18cm黑色",
+   "价格": "2.10",
+   "库存": 61229
+  },
+  {
+   "规格": "8*21cm黑色",
+   "价格": "2.30",
+   "库存": 87630
+  },
+  {
+   "规格": "6.8*15cm黑色",
+   "价格": "2.00",
+   "库存": 99092
+  },
+  {
+   "规格": "8*23黑色",
+   "价格": "2.40",
+   "库存": 91524
+  },
+  {
+   "规格": "8*19cm黑色",
+   "价格": "2.20",
+   "库存": 87849
+  }
+ ],
+ "规格图": [
+  [
+   "6.8*15cm黑色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN017dd4x9gTp1F3thOC_!!2217944969499-0-cib.jpg"
+  ],
+  [
+   "6.8*18cm黑色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01tZj0x12K2bKk4y6Fx_!!2217944969499-0-cib.jpg"
+  ],
+  [
+   "8*19cm黑色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN015ImJsO2K2bDRsgrCx_!!2217944969499-0-cib.jpg"
+  ],
+  [
+   "8*21cm黑色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01ApKBs72K2bDX76KAY_!!2217944969499-0-cib.jpg"
+  ],
+  [
+   "8*23黑色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01EnfVgq2K2bEXfEUCC_!!2217944969499-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "skuPrice",
+ "价格区间": null,
+ "阶梯价_登录后": [
+  {
+   "price": "2.00",
+   "beginAmount": 1
+  },
+  {
+   "price": "2.40",
+   "beginAmount": 1
+  }
+ ],
+ "到手价": null,
+ "起订量": 1,
+ "单位": "个",
+ "可售总量": 427324,
+ "已售": 40014,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN010C8qZF2K2bEUcwM0j_!!2217944969499-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01zE31092K2bEUcx5lQ_!!2217944969499-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01Uow3F82K2bEUcxYrM_!!2217944969499-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN019sfh2T2K2bEYzg99m_!!2217944969499-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01OVaJYD2K2bEPX77yo_!!2217944969499-0-cib.jpg"
+ ],
+ "商品属性": [
+  "材质:布",
+  "品牌:jl",
+  "产品质量等级:优等品",
+  "风格:简约",
+  "颜色:6.8*15cm黑色/6.8*18cm黑色/8*19cm黑色/8*21cm黑色/8*23黑色",
+  "货号:202499-2",
+  "是否进口:否",
+  "加印LOGO:可以",
+  "加工定制:是",
+  "价格段:5元以内",
+  "是否有专利:否",
+  "包装规格:咨询客服",
+  "主要下游平台:其他",
+  "主要销售地区:其他",
+  "有可授权的自有品牌:否",
+  "是否跨境出口专供货源:否",
+  "图案:纯色"
+ ],
+ "包装信息": [
+  {
+   "volume": 102,
+   "length": 6.8,
+   "width": 1,
+   "weight": 50,
+   "height": 15
+  }
+ ],
+ "url": "https://detail.1688.com/offer/833251893540.html",
+ "核页时间": "2026-10-06T19:22:54.095Z"
+}

@@ -1,0 +1,114 @@
+{
+ "offerId": "1079373192826",
+ "条目": "H0619",
+ "block": false,
+ "卖家公司": "义乌市甲图文化传媒有限公司",
+ "旺旺名": "甲图商务",
+ "标题": "跨境水族鱼缸造景装饰小沉木天然树桩爬宠微景观枯木根雕摆件批发",
+ "状态": "PUBLISHED",
+ "类目": "造景/装饰",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "规格",
+   "值": [
+    "5-10cm（超迷你）",
+    "10-15cm（迷你款）",
+    "15-20cm",
+    "20-25cm",
+    "25-30cm"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "5-10cm（超迷你）",
+   "价格": "0.80",
+   "库存": 148
+  },
+  {
+   "规格": "15-20cm",
+   "价格": "5.80",
+   "库存": 958
+  },
+  {
+   "规格": "25-30cm",
+   "价格": "14.90",
+   "库存": 997
+  },
+  {
+   "规格": "20-25cm",
+   "价格": "9.80",
+   "库存": 978
+  },
+  {
+   "规格": "10-15cm（迷你款）",
+   "价格": "2.60",
+   "库存": 437
+  }
+ ],
+ "规格图": [
+  [
+   "10-15cm（迷你款）",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01AtoIinyIz0D2vH2e_!!2214102780322-0-cib.jpg"
+  ],
+  [
+   "15-20cm",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01eFZC7rPGYFD2vH2e_!!2214102780322-0-cib.jpg"
+  ],
+  [
+   "20-25cm",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01OJJk59xkNAC2vH2e_!!2214102780322-0-cib.jpg"
+  ],
+  [
+   "25-30cm",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01NKEVt5eUybK2vH2e_!!2214102780322-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "skuPrice",
+ "价格区间": null,
+ "阶梯价_登录后": [
+  {
+   "price": "0.80",
+   "beginAmount": 1
+  },
+  {
+   "price": "14.90",
+   "beginAmount": 1
+  }
+ ],
+ "到手价": null,
+ "起订量": 1,
+ "单位": "个",
+ "可售总量": 3518,
+ "已售": 1597,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01g0GYLNRt4jH2vH2e_!!2214102780322-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01a6WjgW8mIqK2vH2e_!!2214102780322-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01bVUnshw8IDC2vH2e_!!2214102780322-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01vEOrjZwRsSG2vH2e_!!2214102780322-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01qHKn3VBExaI2vH2e_!!2214102780322-0-cib.jpg"
+ ],
+ "商品属性": [
+  "材质:沉木",
+  "品牌:甲图",
+  "功能:装饰/造景/鱼缸造景",
+  "款式:鱼缸造景款",
+  "产品类别:沉木",
+  "主要用途:鱼缸造景装饰装",
+  "是否进口:否",
+  "规格:5-10cm（超迷你）/10-15cm（迷你款）/15-20cm/20-25cm/25-30cm",
+  "是否跨境出口专供货源:否"
+ ],
+ "包装信息": [
+  {
+   "volume": 60,
+   "length": 10,
+   "width": 3,
+   "weight": 20,
+   "height": 2
+  }
+ ],
+ "url": "https://detail.1688.com/offer/1079373192826.html",
+ "核页时间": "2026-10-06T17:40:06.102Z"
+}

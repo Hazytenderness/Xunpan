@@ -1,0 +1,350 @@
+{
+ "offerId": "902981888403",
+ "条目": "H0818",
+ "block": false,
+ "卖家公司": "永康市金卓工贸有限公司",
+ "旺旺名": "浙江省金卓杯业",
+ "标题": "跨境12oz手柄鸡蛋保温杯304双层不锈钢简约咖啡杯家用水杯喷塑",
+ "状态": "PUBLISHED",
+ "类目": "保温杯",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "颜色",
+   "值": [
+    "白色",
+    "灰色",
+    "黑色",
+    "红色",
+    "粉红色",
+    "玫红色",
+    "黄色",
+    "橙色",
+    "军绿色",
+    "蓝色",
+    "天蓝色",
+    "藏青色",
+    "紫色"
+   ]
+  },
+  {
+   "属性": "容量",
+   "值": [
+    "12oz（360ML)"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "红色&gt;12oz（360ML)",
+   "价格": "16.50",
+   "库存": 15841
+  },
+  {
+   "规格": "黑色&gt;12oz（360ML)",
+   "价格": "16.50",
+   "库存": 15730
+  },
+  {
+   "规格": "天蓝色&gt;12oz（360ML)",
+   "价格": "16.50",
+   "库存": 15839
+  },
+  {
+   "规格": "藏青色&gt;12oz（360ML)",
+   "价格": "16.50",
+   "库存": 15841
+  },
+  {
+   "规格": "白色&gt;12oz（360ML)",
+   "价格": "16.50",
+   "库存": 15670
+  },
+  {
+   "规格": "灰色&gt;12oz（360ML)",
+   "价格": "16.50",
+   "库存": 15749
+  },
+  {
+   "规格": "玫红色&gt;12oz（360ML)",
+   "价格": "16.50",
+   "库存": 15839
+  },
+  {
+   "规格": "橙色&gt;12oz（360ML)",
+   "价格": "16.50",
+   "库存": 15840
+  },
+  {
+   "规格": "黄色&gt;12oz（360ML)",
+   "价格": "16.50",
+   "库存": 15837
+  },
+  {
+   "规格": "粉红色&gt;12oz（360ML)",
+   "价格": "16.50",
+   "库存": 15804
+  },
+  {
+   "规格": "军绿色&gt;12oz（360ML)",
+   "价格": "16.50",
+   "库存": 15841
+  },
+  {
+   "规格": "蓝色&gt;12oz（360ML)",
+   "价格": "16.50",
+   "库存": 15840
+  },
+  {
+   "规格": "紫色&gt;12oz（360ML)",
+   "价格": "16.50",
+   "库存": 15841
+  }
+ ],
+ "规格图": [
+  [
+   "白色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01yHFken1vxyUZagZyF_!!3592986240-0-cib.jpg"
+  ],
+  [
+   "灰色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01fFk33M1vxyUhBPt5x_!!3592986240-0-cib.jpg"
+  ],
+  [
+   "黑色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01NBPkGf1vxyUeUFhoN_!!3592986240-0-cib.jpg"
+  ],
+  [
+   "红色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01UN0oth1vxyUfXoqMT_!!3592986240-0-cib.jpg"
+  ],
+  [
+   "粉红色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01asXBp81vxyUgPaSWt_!!3592986240-0-cib.jpg"
+  ],
+  [
+   "玫红色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01t3d3Za1vxyUhBQ9sR_!!3592986240-0-cib.jpg"
+  ],
+  [
+   "黄色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01jTwthD1vxyUhBRhY8_!!3592986240-0-cib.jpg"
+  ],
+  [
+   "橙色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01A1tj721vxyUi4NMsw_!!3592986240-0-cib.jpg"
+  ],
+  [
+   "军绿色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN016wbEde1vxyUfwDFcI_!!3592986240-0-cib.jpg"
+  ],
+  [
+   "蓝色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01JUDaeW1vxyUZaoV0j_!!3592986240-0-cib.jpg"
+  ],
+  [
+   "天蓝色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01e1Ur5N1vxyUfkDGAG_!!3592986240-0-cib.jpg"
+  ],
+  [
+   "藏青色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01C8yYlK1vxyUhBSZpW_!!3592986240-0-cib.jpg"
+  ],
+  [
+   "紫色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN014k0T6b1vxyUi4PJfs_!!3592986240-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "skuPrice",
+ "价格区间": "16.50",
+ "阶梯价_登录后": [
+  {
+   "price": "16.50",
+   "beginAmount": 1
+  }
+ ],
+ "到手价": null,
+ "起订量": 1,
+ "单位": "个",
+ "可售总量": 205512,
+ "已售": 321,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01ffDXU51vxyUdsFYXI_!!3592986240-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01VAkyQl1vxyUfXYjVU_!!3592986240-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01sNjVlx1vxyUfgwWhi_!!3592986240-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01Yapa8Z1vxyUh8lClU_!!3592986240-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01aZTaOp1vxyUebvtWa_!!3592986240-0-cib.jpg"
+ ],
+ "商品属性": [
+  "内胆材质:304不锈钢",
+  "品牌:熹度",
+  "功能:加厚/常规/家用/便携/真空/保温/可定制/防摔",
+  "保温性能:12-24小时",
+  "外壳材质:201不锈钢",
+  "货号:12oz手柄鸡蛋杯",
+  "样式:有手柄/大肚杯/带吸管",
+  "材质:内304外201",
+  "风格:运动",
+  "是否进口:否",
+  "是否有专利:否",
+  "是否跨境出口专供货源:否",
+  "版权:无",
+  "是否属于礼品:是，商务礼品",
+  "送礼用途:商务礼品/广告礼品/促销赠品/会议礼品/福利礼品/节庆礼品/嘉奖纪念/公关礼品",
+  "适用节日:圣诞节/情人节/春节/父亲节/母亲节/教师节/万圣节/复活节/儿童节/妇女节",
+  "适用送礼关系:晚辈/情侣/夫妻/同事/朋友/长辈/孩子/同学/恩师",
+  "适用送礼场合:生日/满月/旅游纪念/毕业/乔迁/派对聚会/探病慰问",
+  "产品上市时间:2025",
+  "产品质量等级:一等品",
+  "适用人群:女士/男士/儿童/情侣/老年/学生",
+  "适用场景:运动/婚庆/商务/家居/车载/圣诞节/春节/办公室/户外/旅行/送礼/学校",
+  "是否有第三方检测报告:没有",
+  "定制工艺选择:热转印/激光雕刻/丝印/水转印/水贴膜/3D打印",
+  "包装规格:50pcs",
+  "价格段:10-20元",
+  "加工定制:是",
+  "加印LOGO:可以",
+  "颜色:白色/灰色/黑色/红色/粉红色/玫红色/黄色/橙色/军绿色/蓝色/天蓝色/藏青色/紫色",
+  "容量:12oz（360ML)",
+  "是否带茶隔:不带茶隔",
+  "杯子种类:保温杯",
+  "包装种类:基础包装",
+  "是否显示温度:不支持温度显示",
+  "杯盖材质:塑料",
+  "杯盖类型:推盖"
+ ],
+ "包装信息": [
+  {
+   "sku2": "12oz（360ML)",
+   "volume": 0,
+   "sku1": "白色",
+   "length": 0,
+   "width": 0,
+   "weight": 232,
+   "skuId": 5926344394655,
+   "height": 0
+  },
+  {
+   "sku2": "12oz（360ML)",
+   "volume": 0,
+   "sku1": "灰色",
+   "length": 0,
+   "width": 0,
+   "weight": 232,
+   "skuId": 5926344394656,
+   "height": 0
+  },
+  {
+   "sku2": "12oz（360ML)",
+   "volume": 0,
+   "sku1": "黑色",
+   "length": 0,
+   "width": 0,
+   "weight": 232,
+   "skuId": 5926344394657,
+   "height": 0
+  },
+  {
+   "sku2": "12oz（360ML)",
+   "volume": 0,
+   "sku1": "红色",
+   "length": 0,
+   "width": 0,
+   "weight": 232,
+   "skuId": 5926344394658,
+   "height": 0
+  },
+  {
+   "sku2": "12oz（360ML)",
+   "volume": 0,
+   "sku1": "粉红色",
+   "length": 0,
+   "width": 0,
+   "weight": 232,
+   "skuId": 5926344394659,
+   "height": 0
+  },
+  {
+   "sku2": "12oz（360ML)",
+   "volume": 0,
+   "sku1": "玫红色",
+   "length": 0,
+   "width": 0,
+   "weight": 232,
+   "skuId": 5926344394660,
+   "height": 0
+  },
+  {
+   "sku2": "12oz（360ML)",
+   "volume": 0,
+   "sku1": "黄色",
+   "length": 0,
+   "width": 0,
+   "weight": 232,
+   "skuId": 5926344394661,
+   "height": 0
+  },
+  {
+   "sku2": "12oz（360ML)",
+   "volume": 0,
+   "sku1": "橙色",
+   "length": 0,
+   "width": 0,
+   "weight": 232,
+   "skuId": 5926344394662,
+   "height": 0
+  },
+  {
+   "sku2": "12oz（360ML)",
+   "volume": 0,
+   "sku1": "军绿色",
+   "length": 0,
+   "width": 0,
+   "weight": 232,
+   "skuId": 5926344394663,
+   "height": 0
+  },
+  {
+   "sku2": "12oz（360ML)",
+   "volume": 0,
+   "sku1": "蓝色",
+   "length": 0,
+   "width": 0,
+   "weight": 232,
+   "skuId": 5926344394664,
+   "height": 0
+  },
+  {
+   "sku2": "12oz（360ML)",
+   "volume": 0,
+   "sku1": "天蓝色",
+   "length": 0,
+   "width": 0,
+   "weight": 232,
+   "skuId": 5926344394665,
+   "height": 0
+  },
+  {
+   "sku2": "12oz（360ML)",
+   "volume": 0,
+   "sku1": "藏青色",
+   "length": 0,
+   "width": 0,
+   "weight": 232,
+   "skuId": 5926344394666,
+   "height": 0
+  },
+  {
+   "sku2": "12oz（360ML)",
+   "volume": 0,
+   "sku1": "紫色",
+   "length": 0,
+   "width": 0,
+   "weight": 232,
+   "skuId": 5926344394667,
+   "height": 0
+  }
+ ],
+ "url": "https://detail.1688.com/offer/902981888403.html",
+ "核页时间": "2026-10-06T18:34:42.503Z"
+}

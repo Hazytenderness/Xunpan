@@ -1,0 +1,627 @@
+{
+ "offerId": "561802196694",
+ "条目": "H0284",
+ "block": false,
+ "卖家公司": "邢台市优布服饰有限公司",
+ "旺旺名": "邢台市优布服饰有限公司",
+ "标题": "厨师围裙半截挂脖酒店咖啡中西餐厅服务员男工作围裙一件代发定制",
+ "状态": "PUBLISHED",
+ "类目": "家务围裙、袖套",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "颜色",
+   "值": [
+    "【黑色】半身",
+    "【白色】半身",
+    "【黑色红带】半身",
+    "【红色黑带】半身",
+    "【白色红带】半身",
+    "【黑白条】半身",
+    "【咖啡白条】半身",
+    "【黑红白条】半身",
+    "【红白条】半身",
+    "【黑白格】半身",
+    "【小辣椒】半身",
+    "【刀叉勺】半身",
+    "【厨具】半身",
+    "【冰激凌】半身",
+    "【蓝白条】半身",
+    "【黑白条带卡】挂脖",
+    "【咖啡白条带卡】挂脖",
+    "【黑红白条带卡】挂脖",
+    "【红白条带卡】挂脖",
+    "【蓝白条带卡】挂脖",
+    "【黑白格带卡】挂脖",
+    "【小辣椒带卡】挂脖",
+    "【刀叉勺带卡】挂脖",
+    "【厨具带卡】挂脖",
+    "【冰激凌带卡】挂脖",
+    "【黑色】挂脖",
+    "【咖啡色】挂脖",
+    "【酒红色】挂脖",
+    "【白色】挂脖"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "【白色】半身",
+   "价格": null,
+   "库存": 76955
+  },
+  {
+   "规格": "【红白条带卡】挂脖",
+   "价格": null,
+   "库存": 82691
+  },
+  {
+   "规格": "【蓝白条】半身",
+   "价格": null,
+   "库存": 99220
+  },
+  {
+   "规格": "【黑红白条】半身",
+   "价格": null,
+   "库存": 98511
+  },
+  {
+   "规格": "【黑白条】半身",
+   "价格": null,
+   "库存": 61678
+  },
+  {
+   "规格": "【咖啡白条】半身",
+   "价格": null,
+   "库存": 98167
+  },
+  {
+   "规格": "【冰激凌】半身",
+   "价格": null,
+   "库存": 99911
+  },
+  {
+   "规格": "【黑白条带卡】挂脖",
+   "价格": null,
+   "库存": 66360
+  },
+  {
+   "规格": "【厨具带卡】挂脖",
+   "价格": null,
+   "库存": 99008
+  },
+  {
+   "规格": "【黑色】挂脖",
+   "价格": null,
+   "库存": 85043
+  },
+  {
+   "规格": "【白色】挂脖",
+   "价格": null,
+   "库存": 92056
+  },
+  {
+   "规格": "【红色黑带】半身",
+   "价格": null,
+   "库存": 90675
+  },
+  {
+   "规格": "【刀叉勺】半身",
+   "价格": null,
+   "库存": 97543
+  },
+  {
+   "规格": "【咖啡白条带卡】挂脖",
+   "价格": null,
+   "库存": 98459
+  },
+  {
+   "规格": "【红白条】半身",
+   "价格": null,
+   "库存": 98867
+  },
+  {
+   "规格": "【白色红带】半身",
+   "价格": null,
+   "库存": 98265
+  },
+  {
+   "规格": "【厨具】半身",
+   "价格": null,
+   "库存": 99847
+  },
+  {
+   "规格": "【冰激凌带卡】挂脖",
+   "价格": null,
+   "库存": 99623
+  },
+  {
+   "规格": "【黑色红带】半身",
+   "价格": null,
+   "库存": 62694
+  },
+  {
+   "规格": "【小辣椒】半身",
+   "价格": null,
+   "库存": 98475
+  },
+  {
+   "规格": "【黑红白条带卡】挂脖",
+   "价格": null,
+   "库存": 97537
+  },
+  {
+   "规格": "【咖啡色】挂脖",
+   "价格": null,
+   "库存": 96907
+  },
+  {
+   "规格": "【黑白格带卡】挂脖",
+   "价格": null,
+   "库存": 94950
+  },
+  {
+   "规格": "【小辣椒带卡】挂脖",
+   "价格": null,
+   "库存": 88158
+  },
+  {
+   "规格": "【黑色】半身",
+   "价格": null,
+   "库存": 51457
+  },
+  {
+   "规格": "【刀叉勺带卡】挂脖",
+   "价格": null,
+   "库存": 86465
+  },
+  {
+   "规格": "【酒红色】挂脖",
+   "价格": null,
+   "库存": 99020
+  },
+  {
+   "规格": "【黑白格】半身",
+   "价格": null,
+   "库存": 98441
+  },
+  {
+   "规格": "【蓝白条带卡】挂脖",
+   "价格": null,
+   "库存": 97034
+  }
+ ],
+ "规格图": [
+  [
+   "【黑色】半身",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01scbbLO1pDokKOcIre_!!3447885327-0-cib.jpg"
+  ],
+  [
+   "【白色】半身",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01kJASxZ1pDouT6nKpV_!!3447885327-0-cib.jpg"
+  ],
+  [
+   "【黑色红带】半身",
+   "https://cbu01.alicdn.com/img/ibank/O1CN014RZbkG1pDouTXGqWF_!!3447885327-0-cib.jpg"
+  ],
+  [
+   "【红色黑带】半身",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01wkoQEj1pDouT58gxs_!!3447885327-0-cib.jpg"
+  ],
+  [
+   "【白色红带】半身",
+   "https://cbu01.alicdn.com/img/ibank/O1CN010xtlsi1pDouR5sTaV_!!3447885327-0-cib.jpg"
+  ],
+  [
+   "【黑白条】半身",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01Ymvaom1pDoWS2T8wv_!!3447885327-0-cib.jpg"
+  ],
+  [
+   "【咖啡白条】半身",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01m2qQ5c1pDoWXXxsHo_!!3447885327-0-cib.jpg"
+  ],
+  [
+   "【黑红白条】半身",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01OGKVqi1pDoWRUgTns_!!3447885327-0-cib.jpg"
+  ],
+  [
+   "【红白条】半身",
+   "https://cbu01.alicdn.com/img/ibank/O1CN019VVAFh1pDoWU3S467_!!3447885327-0-cib.jpg"
+  ],
+  [
+   "【黑白格】半身",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01ggahcC1pDoWQ4or1D_!!3447885327-0-cib.jpg"
+  ],
+  [
+   "【小辣椒】半身",
+   "https://cbu01.alicdn.com/img/ibank/O1CN015YwoGb1pDoWXY4aTO_!!3447885327-0-cib.jpg"
+  ],
+  [
+   "【刀叉勺】半身",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01VMMnCi1pDoWVIATlq_!!3447885327-0-cib.jpg"
+  ],
+  [
+   "【厨具】半身",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01ioCUzT1pDouZhB1ix_!!3447885327-0-cib.jpg"
+  ],
+  [
+   "【冰激凌】半身",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01OhNJSA1pDoWXY9Luh_!!3447885327-0-cib.jpg"
+  ],
+  [
+   "【蓝白条】半身",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01H7VQ7m1pDoWXY1QuW_!!3447885327-0-cib.jpg"
+  ],
+  [
+   "【黑白条带卡】挂脖",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01vmZbSD1pDoaQ8wbJa_!!3447885327-0-cib.jpg"
+  ],
+  [
+   "【咖啡白条带卡】挂脖",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01NBChGW1pDoaLR4JKF_!!3447885327-0-cib.jpg"
+  ],
+  [
+   "【黑红白条带卡】挂脖",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01d8mXG31pDoaWdRHVC_!!3447885327-0-cib.jpg"
+  ],
+  [
+   "【红白条带卡】挂脖",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01CUnQZT1pDoaLR7KUo_!!3447885327-0-cib.jpg"
+  ],
+  [
+   "【蓝白条带卡】挂脖",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01LsAU7d1pDoaRssYxO_!!3447885327-0-cib.jpg"
+  ],
+  [
+   "【黑白格带卡】挂脖",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01I2j6EG1pDoaQ91ATI_!!3447885327-0-cib.jpg"
+  ],
+  [
+   "【小辣椒带卡】挂脖",
+   "https://cbu01.alicdn.com/img/ibank/O1CN019teWvY1pDoaF4wneN_!!3447885327-0-cib.jpg"
+  ],
+  [
+   "【刀叉勺带卡】挂脖",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01730kAh1pDoaQaMzHa_!!3447885327-0-cib.jpg"
+  ],
+  [
+   "【厨具带卡】挂脖",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01z6miLh1pDoaQ9332R_!!3447885327-0-cib.jpg"
+  ],
+  [
+   "【冰激凌带卡】挂脖",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01cyaK2k1pDoaVU6rwu_!!3447885327-0-cib.jpg"
+  ],
+  [
+   "【黑色】挂脖",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01CZHfo11pDocm9cgn9_!!3447885327-0-cib.jpg"
+  ],
+  [
+   "【咖啡色】挂脖",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01NwEzSg1pDockXSxD5_!!3447885327-0-cib.jpg"
+  ],
+  [
+   "【酒红色】挂脖",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01g02wW21pDocoqtkpP_!!3447885327-0-cib.jpg"
+  ],
+  [
+   "【白色】挂脖",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01PgI9Ct1pDocnw2zXu_!!3447885327-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "rangePrice",
+ "价格区间": null,
+ "阶梯价_登录后": [
+  {
+   "price": "3.90",
+   "beginAmount": 1
+  },
+  {
+   "price": "3.80",
+   "beginAmount": 30
+  },
+  {
+   "price": "3.68",
+   "beginAmount": 100
+  }
+ ],
+ "到手价": null,
+ "起订量": 2,
+ "单位": "件",
+ "可售总量": 2614017,
+ "已售": 118883,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01wQBCNw1pDoWVHjl5L_!!3447885327-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01ySC73d1pDopEFl8st_!!3447885327-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/7457355895_1531416846.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN010EjeYV1pDoWS1YPlz_!!3447885327-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/9543881212_1531416846.jpg"
+ ],
+ "商品属性": [
+  "材质:涤纶",
+  "产品类别:围裙",
+  "用途:防污",
+  "品牌:优布服饰",
+  "围裙分类:无袖围裙",
+  "是否进口:否",
+  "尺码:均码",
+  "风格:现代简约",
+  "花色:小辣椒 黑白格 条纹款等等",
+  "图案:条纹/格子",
+  "专利:否",
+  "货号:厨师围裙",
+  "颜色:【黑色】半身/【白色】半身/【黑色红带】半身/【红色黑带】半身/【白色红带】半身/【黑白条】半身/【咖啡白条】半身/【黑红白条】半身/【红白条】半身/【黑白格】半身/【小辣椒】半身/【刀叉勺】半身/【厨具】半身/【冰激凌】半身/【蓝白条】半身/【黑白条带卡】挂脖/【咖啡白条带卡】挂脖/【黑红白条带卡】挂脖/【红白条带卡】挂脖/【蓝白条带卡】挂脖/【黑白格带卡】挂脖/【小辣椒带卡】挂脖/【刀叉勺带卡】挂脖/【厨具带卡】挂脖/【冰激凌带卡】挂脖/【黑色】挂脖/【咖啡色】挂脖/【酒红色】挂脖/【白色】挂脖",
+  "主要下游平台:ebay/亚马逊/wish/速卖通/独立站/LAZADA/其他",
+  "主要销售地区:非洲/欧洲/南美/东南亚/北美/东北亚/中东/其他",
+  "有可授权的自有品牌:是",
+  "是否跨境出口专供货源:是",
+  "人群:成人",
+  "适用季节:四季通用",
+  "是否一次性:否"
+ ],
+ "包装信息": [
+  {
+   "volume": 900,
+   "sku1": "【黑色】半身",
+   "length": 36,
+   "width": 25,
+   "weight": 150,
+   "skuId": 4820658410397,
+   "height": 1
+  },
+  {
+   "volume": 900,
+   "sku1": "【白色】半身",
+   "length": 36,
+   "width": 25,
+   "weight": 150,
+   "skuId": 4820658410394,
+   "height": 1
+  },
+  {
+   "volume": 900,
+   "sku1": "【黑色红带】半身",
+   "length": 36,
+   "width": 25,
+   "weight": 150,
+   "skuId": 4820658410398,
+   "height": 1
+  },
+  {
+   "volume": 900,
+   "sku1": "【红色黑带】半身",
+   "length": 36,
+   "width": 25,
+   "weight": 150,
+   "skuId": 4820658410396,
+   "height": 1
+  },
+  {
+   "volume": 900,
+   "sku1": "【白色红带】半身",
+   "length": 36,
+   "width": 25,
+   "weight": 150,
+   "skuId": 4820658410395,
+   "height": 1
+  },
+  {
+   "volume": 900,
+   "sku1": "【黑白条】半身",
+   "length": 36,
+   "width": 25,
+   "weight": 110,
+   "skuId": 4820658410399,
+   "height": 1
+  },
+  {
+   "volume": 900,
+   "sku1": "【咖啡白条】半身",
+   "length": 36,
+   "width": 25,
+   "weight": 110,
+   "skuId": 4820658410388,
+   "height": 1
+  },
+  {
+   "volume": 900,
+   "sku1": "【黑红白条】半身",
+   "length": 36,
+   "width": 25,
+   "weight": 110,
+   "skuId": 4820658410387,
+   "height": 1
+  },
+  {
+   "volume": 900,
+   "sku1": "【红白条】半身",
+   "length": 36,
+   "width": 25,
+   "weight": 110,
+   "skuId": 4820658410391,
+   "height": 1
+  },
+  {
+   "volume": 900,
+   "sku1": "【黑白格】半身",
+   "length": 36,
+   "width": 25,
+   "weight": 110,
+   "skuId": 4820658410400,
+   "height": 1
+  },
+  {
+   "volume": 900,
+   "sku1": "【小辣椒】半身",
+   "length": 36,
+   "width": 25,
+   "weight": 110,
+   "skuId": 4820658410393,
+   "height": 1
+  },
+  {
+   "volume": 900,
+   "sku1": "【刀叉勺】半身",
+   "length": 36,
+   "width": 25,
+   "weight": 110,
+   "skuId": 4820658410390,
+   "height": 1
+  },
+  {
+   "volume": 900,
+   "sku1": "【厨具】半身",
+   "length": 36,
+   "width": 25,
+   "weight": 110,
+   "skuId": 4820658410392,
+   "height": 1
+  },
+  {
+   "volume": 900,
+   "sku1": "【冰激凌】半身",
+   "length": 36,
+   "width": 25,
+   "weight": 110,
+   "skuId": 4820658410389,
+   "height": 1
+  },
+  {
+   "volume": 900,
+   "sku1": "【蓝白条】半身",
+   "length": 36,
+   "width": 25,
+   "weight": 110,
+   "skuId": 4820658410386,
+   "height": 1
+  },
+  {
+   "volume": 900,
+   "sku1": "【黑白条带卡】挂脖",
+   "length": 36,
+   "width": 25,
+   "weight": 90,
+   "skuId": 5598774358527,
+   "height": 1
+  },
+  {
+   "volume": 900,
+   "sku1": "【咖啡白条带卡】挂脖",
+   "length": 36,
+   "width": 25,
+   "weight": 90,
+   "skuId": 5598774358525,
+   "height": 1
+  },
+  {
+   "volume": 900,
+   "sku1": "【黑红白条带卡】挂脖",
+   "length": 36,
+   "width": 25,
+   "weight": 90,
+   "skuId": 5598774358528,
+   "height": 1
+  },
+  {
+   "volume": 900,
+   "sku1": "【红白条带卡】挂脖",
+   "length": 36,
+   "width": 25,
+   "weight": 90,
+   "skuId": 5598774358530,
+   "height": 1
+  },
+  {
+   "volume": 900,
+   "sku1": "【蓝白条带卡】挂脖",
+   "length": 36,
+   "width": 25,
+   "weight": 90,
+   "skuId": 5598774358532,
+   "height": 1
+  },
+  {
+   "volume": 900,
+   "sku1": "【黑白格带卡】挂脖",
+   "length": 36,
+   "width": 25,
+   "weight": 90,
+   "skuId": 5598774358526,
+   "height": 1
+  },
+  {
+   "volume": 900,
+   "sku1": "【小辣椒带卡】挂脖",
+   "length": 36,
+   "width": 25,
+   "weight": 90,
+   "skuId": 5598774358531,
+   "height": 1
+  },
+  {
+   "volume": 900,
+   "sku1": "【刀叉勺带卡】挂脖",
+   "length": 36,
+   "width": 25,
+   "weight": 90,
+   "skuId": 5598774358524,
+   "height": 1
+  },
+  {
+   "volume": 900,
+   "sku1": "【厨具带卡】挂脖",
+   "length": 36,
+   "width": 25,
+   "weight": 90,
+   "skuId": 5598774358533,
+   "height": 1
+  },
+  {
+   "volume": 900,
+   "sku1": "【冰激凌带卡】挂脖",
+   "length": 36,
+   "width": 25,
+   "weight": 90,
+   "skuId": 5598774358529,
+   "height": 1
+  },
+  {
+   "volume": 900,
+   "sku1": "【黑色】挂脖",
+   "length": 36,
+   "width": 25,
+   "weight": 90,
+   "skuId": 4999792863417,
+   "height": 1
+  },
+  {
+   "volume": 900,
+   "sku1": "【咖啡色】挂脖",
+   "length": 36,
+   "width": 25,
+   "weight": 90,
+   "skuId": 4999792863416,
+   "height": 1
+  },
+  {
+   "volume": 900,
+   "sku1": "【酒红色】挂脖",
+   "length": 36,
+   "width": 25,
+   "weight": 90,
+   "skuId": 4999792863415,
+   "height": 1
+  },
+  {
+   "volume": 900,
+   "sku1": "【白色】挂脖",
+   "length": 36,
+   "width": 25,
+   "weight": 90,
+   "skuId": 4999792863418,
+   "height": 1
+  }
+ ],
+ "url": "https://detail.1688.com/offer/561802196694.html",
+ "核页时间": "2026-10-06T16:06:51.305Z"
+}

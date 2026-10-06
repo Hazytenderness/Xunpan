@@ -1,0 +1,821 @@
+{
+ "offerId": "961215832103",
+ "条目": "H0064",
+ "block": false,
+ "卖家公司": "义乌市舜雨科技有限公司",
+ "旺旺名": "霁飞贸易有限公司",
+ "标题": "批发夏季冰垫日本蜂窝凝胶坐垫办公室久坐硅胶屁垫汽车冰凉座垫",
+ "状态": "PUBLISHED",
+ "类目": "冰垫",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "颜色",
+   "值": [
+    "单独布套定制款",
+    "24*17*2裸垫",
+    "38*32*1.2裸垫",
+    "40*35*2裸垫",
+    "方形30*25+布",
+    "方形40*35*1.8+布",
+    "方形37*32*3+布",
+    "方形40*35*2.4+布",
+    "方形42*36*2.6+布",
+    "方形42*36*3+布",
+    "三代方形42*36*3.5+布",
+    "方形42*36*4.5+布",
+    "方形42*36*6+布",
+    "方形45*45*3.5+布",
+    "方形50*50*4.5+布",
+    "方形50*50*6+布",
+    "空心圆形+布",
+    "蓝色小凹槽43*41+布",
+    "浅蓝小凹槽43*41+布",
+    "蓝色大凹槽46*43+布",
+    "浅蓝大凹槽46*43+布",
+    "五代蓝色42*36+布",
+    "五代绿色42*36+布",
+    "五代黑色42*36+布",
+    "五代紫色42*36+布",
+    "五代红色42*36+布",
+    "五代橙色42*36+布",
+    "大腰靠+布",
+    "小腰靠+布",
+    "电动车款+布",
+    "一代600g弧形",
+    "一代700g弧形",
+    "一代800g弧形",
+    "一代900g弧形",
+    "一代1000g弧形",
+    "六代U型+布",
+    "人字交叉款",
+    "40*35*2+布套",
+    "小圆形+布",
+    "大圆形+布"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "五代黑色42*36+布",
+   "价格": "14.50",
+   "库存": 5127
+  },
+  {
+   "规格": "六代U型+布",
+   "价格": "22.00",
+   "库存": 9104
+  },
+  {
+   "规格": "空心圆形+布",
+   "价格": "20.00",
+   "库存": 9964
+  },
+  {
+   "规格": "浅蓝小凹槽43*41+布",
+   "价格": "16.50",
+   "库存": 8986
+  },
+  {
+   "规格": "方形50*50*4.5+布",
+   "价格": "28.00",
+   "库存": 7920
+  },
+  {
+   "规格": "五代红色42*36+布",
+   "价格": "16.00",
+   "库存": 8258
+  },
+  {
+   "规格": "一代700g弧形",
+   "价格": "11.00",
+   "库存": 9782
+  },
+  {
+   "规格": "方形50*50*6+布",
+   "价格": "38.00",
+   "库存": 8423
+  },
+  {
+   "规格": "方形45*45*3.5+布",
+   "价格": "21.00",
+   "库存": 3180
+  },
+  {
+   "规格": "五代紫色42*36+布",
+   "价格": "14.50",
+   "库存": 4545
+  },
+  {
+   "规格": "小圆形+布",
+   "价格": "13.00",
+   "库存": 4365
+  },
+  {
+   "规格": "电动车款+布",
+   "价格": "27.00",
+   "库存": 9876
+  },
+  {
+   "规格": "一代800g弧形",
+   "价格": "12.50",
+   "库存": 9873
+  },
+  {
+   "规格": "蓝色大凹槽46*43+布",
+   "价格": "18.30",
+   "库存": 9378
+  },
+  {
+   "规格": "方形42*36*4.5+布",
+   "价格": "21.00",
+   "库存": 5179
+  },
+  {
+   "规格": "24*17*2裸垫",
+   "价格": "4.00",
+   "库存": 7749
+  },
+  {
+   "规格": "五代蓝色42*36+布",
+   "价格": "14.50",
+   "库存": 290364
+  },
+  {
+   "规格": "一代900g弧形",
+   "价格": "14.50",
+   "库存": 9620
+  },
+  {
+   "规格": "人字交叉款",
+   "价格": "18.00",
+   "库存": 6800
+  },
+  {
+   "规格": "小腰靠+布",
+   "价格": "24.00",
+   "库存": 9791
+  },
+  {
+   "规格": "一代600g弧形",
+   "价格": "9.80",
+   "库存": 8437
+  },
+  {
+   "规格": "蓝色小凹槽43*41+布",
+   "价格": "16.50",
+   "库存": 9779
+  },
+  {
+   "规格": "三代方形42*36*3.5+布",
+   "价格": "14.00",
+   "库存": 11197
+  },
+  {
+   "规格": "一代1000g弧形",
+   "价格": "16.00",
+   "库存": 9255
+  },
+  {
+   "规格": "五代橙色42*36+布",
+   "价格": "16.00",
+   "库存": 9630
+  },
+  {
+   "规格": "大腰靠+布",
+   "价格": "28.00",
+   "库存": 8697
+  },
+  {
+   "规格": "38*32*1.2裸垫",
+   "价格": "5.00",
+   "库存": 8078
+  },
+  {
+   "规格": "40*35*2裸垫",
+   "价格": "6.50",
+   "库存": 5581
+  },
+  {
+   "规格": "方形40*35*2.4+布",
+   "价格": "9.50",
+   "库存": 4639
+  },
+  {
+   "规格": "方形42*36*6+布",
+   "价格": "26.00",
+   "库存": 8549
+  },
+  {
+   "规格": "40*35*2+布套",
+   "价格": "8.00",
+   "库存": 5272
+  },
+  {
+   "规格": "单独布套定制款",
+   "价格": "3.00",
+   "库存": 9382
+  },
+  {
+   "规格": "浅蓝大凹槽46*43+布",
+   "价格": "18.30",
+   "库存": 9844
+  },
+  {
+   "规格": "方形30*25+布",
+   "价格": "6.50",
+   "库存": 5679
+  },
+  {
+   "规格": "方形42*36*3+布",
+   "价格": "13.50",
+   "库存": 5473
+  },
+  {
+   "规格": "方形37*32*3+布",
+   "价格": "9.50",
+   "库存": 4933
+  },
+  {
+   "规格": "五代绿色42*36+布",
+   "价格": "16.00",
+   "库存": 9118
+  },
+  {
+   "规格": "方形42*36*2.6+布",
+   "价格": "12.00",
+   "库存": 8855
+  },
+  {
+   "规格": "大圆形+布",
+   "价格": "16.00",
+   "库存": 4613
+  },
+  {
+   "规格": "方形40*35*1.8+布",
+   "价格": "8.00",
+   "库存": 8916
+  }
+ ],
+ "规格图": [
+  [
+   "单独布套定制款",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01iOHDsH1JbZUzOpdlD_!!2215456221047-0-cib.jpg"
+  ],
+  [
+   "24*17*2裸垫",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01STDqMF1JbZlBVhWkh_!!2215456221047-0-cib.jpg"
+  ],
+  [
+   "38*32*1.2裸垫",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01f2i5ve1JbZlC9EmeG_!!2215456221047-0-cib.jpg"
+  ],
+  [
+   "40*35*2裸垫",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01jFsIAW1JbZlAlcYw0_!!2215456221047-0-cib.jpg"
+  ],
+  [
+   "方形30*25+布",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01yAm0JZ1JbZnRjQr7M_!!2215456221047-0-cib.jpg"
+  ],
+  [
+   "方形40*35*1.8+布",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01gUqGiA1JbZlAVJzWs_!!2215456221047-0-cib.jpg"
+  ],
+  [
+   "方形37*32*3+布",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01tbPvka1JbZlC9IsaC_!!2215456221047-0-cib.jpg"
+  ],
+  [
+   "方形40*35*2.4+布",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01qs92hp1JbZlAyKfc8_!!2215456221047-0-cib.jpg"
+  ],
+  [
+   "方形42*36*2.6+布",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01AloUiQ1JbZlAVMsY9_!!2215456221047-0-cib.jpg"
+  ],
+  [
+   "方形42*36*3+布",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01oVTvzG1JbZl9lAi7k_!!2215456221047-0-cib.jpg"
+  ],
+  [
+   "三代方形42*36*3.5+布",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01aGEqcu1JbZlAyQi7H_!!2215456221047-0-cib.jpg"
+  ],
+  [
+   "方形42*36*4.5+布",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01Gi1Qz31JbZlBUYo7t_!!2215456221047-0-cib.jpg"
+  ],
+  [
+   "方形42*36*6+布",
+   "https://cbu01.alicdn.com/img/ibank/O1CN018XiUvO1JbZlBNSBu5_!!2215456221047-0-cib.jpg"
+  ],
+  [
+   "方形45*45*3.5+布",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01LJ81p31JbZlBVwdFN_!!2215456221047-0-cib.jpg"
+  ],
+  [
+   "方形50*50*4.5+布",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01akYWX81JbZlBWRTu6_!!2215456221047-0-cib.jpg"
+  ],
+  [
+   "方形50*50*6+布",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01iBwMUH1JbZl9pWj6Q_!!2215456221047-0-cib.jpg"
+  ],
+  [
+   "空心圆形+布",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01gGT8Ga1JbZUfsc5j7_!!2215456221047-0-cib.jpg"
+  ],
+  [
+   "蓝色小凹槽43*41+布",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01ZuWMyV1JbZlBUlhNW_!!2215456221047-0-cib.jpg"
+  ],
+  [
+   "浅蓝小凹槽43*41+布",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01Ywqa4A1JbZV4Zj5Jm_!!2215456221047-0-cib.jpg"
+  ],
+  [
+   "蓝色大凹槽46*43+布",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01uGc7BI1JbZlAkYVhU_!!2215456221047-0-cib.jpg"
+  ],
+  [
+   "浅蓝大凹槽46*43+布",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01LRyQ0g1JbZUv11Xl6_!!2215456221047-0-cib.jpg"
+  ],
+  [
+   "五代蓝色42*36+布",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01wEYmGd1JbZV1QnGmi_!!2215456221047-0-cib.jpg"
+  ],
+  [
+   "五代绿色42*36+布",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01wEYmGd1JbZV1QnGmi_!!2215456221047-0-cib.jpg"
+  ],
+  [
+   "五代黑色42*36+布",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01wEYmGd1JbZV1QnGmi_!!2215456221047-0-cib.jpg"
+  ],
+  [
+   "五代紫色42*36+布",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01wEYmGd1JbZV1QnGmi_!!2215456221047-0-cib.jpg"
+  ],
+  [
+   "五代红色42*36+布",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01wEYmGd1JbZV1QnGmi_!!2215456221047-0-cib.jpg"
+  ],
+  [
+   "五代橙色42*36+布",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01wEYmGd1JbZV1QnGmi_!!2215456221047-0-cib.jpg"
+  ],
+  [
+   "大腰靠+布",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01lNR0fB1JbZV2CG6w7_!!2215456221047-0-cib.jpg"
+  ],
+  [
+   "小腰靠+布",
+   "https://cbu01.alicdn.com/img/ibank/O1CN010NeHyY1JbZUwDPIXL_!!2215456221047-0-cib.jpg"
+  ],
+  [
+   "电动车款+布",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01WENqGi1JbZlBUyBOT_!!2215456221047-0-cib.jpg"
+  ],
+  [
+   "一代600g弧形",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01BSoqgLyQ6oG1KpcK_!!2215456221047-0-cib.jpg"
+  ],
+  [
+   "一代700g弧形",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01uUo6G3bbx6L1KpcK_!!2215456221047-0-cib.jpg"
+  ],
+  [
+   "一代800g弧形",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01U3J65uniEcI1KpcK_!!2215456221047-0-cib.jpg"
+  ],
+  [
+   "一代900g弧形",
+   "https://cbu01.alicdn.com/img/ibank/O1CN019eZpcT1JbZlATUscV_!!2215456221047-0-cib.jpg"
+  ],
+  [
+   "一代1000g弧形",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01yQmdPQ1JbZlBWNp0L_!!2215456221047-0-cib.jpg"
+  ],
+  [
+   "六代U型+布",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01T3pVS11JbZUrs8kUq_!!2215456221047-0-cib.jpg"
+  ],
+  [
+   "人字交叉款",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01M7HUgY1JbZlE3nJTB_!!2215456221047-0-cib.jpg"
+  ],
+  [
+   "40*35*2+布套",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01KFp5zZ1JbZkF3Fp5H_!!2215456221047-0-cib.jpg"
+  ],
+  [
+   "小圆形+布",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01nnkhRH1JbZZSQ9iHk_!!2215456221047-0-cib.jpg"
+  ],
+  [
+   "大圆形+布",
+   "https://cbu01.alicdn.com/img/ibank/O1CN0157oipb1JbZZYWH8dC_!!2215456221047-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "skuPrice",
+ "价格区间": null,
+ "阶梯价_登录后": [
+  {
+   "price": "3.00",
+   "beginAmount": 1
+  },
+  {
+   "price": "38.00",
+   "beginAmount": 1
+  }
+ ],
+ "到手价": null,
+ "起订量": 1,
+ "单位": "个",
+ "可售总量": 594211,
+ "已售": 122190,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01i6GkGZ1JbZVAB609h_!!2215456221047-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01fygLpP1JbZlBwDpCl_!!2215456221047-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN017stCSE1JbZl9r0ljJ_!!2215456221047-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01k82wb71JbZlBWB2LE_!!2215456221047-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01h1Ijb31JbZlCB1p9X_!!2215456221047-0-cib.jpg"
+ ],
+ "商品属性": [
+  "产品类别:凝胶坐垫",
+  "填充物材质:TPE",
+  "面料材质:聚酰胺纤维(锦纶)",
+  "品牌:姣雨",
+  "风格:其它",
+  "是否进口:否",
+  "尺寸:42",
+  "重量:200-2000g",
+  "颜色:单独布套定制款/24*17*2裸垫/38*32*1.2裸垫/40*35*2裸垫/方形30*25+布/方形40*35*1.8+布/方形37*32*3+布/方形40*35*2.4+布/方形42*36*2.6+布/方形42*36*3+布/三代方形42*36*3.5+布/方形42*36*4.5+布/方形42*36*6+布/方形45*45*3.5+布/方形50*50*4.5+布/方形50*50*6+布/空心圆形+布/蓝色小凹槽43*41+布/浅蓝小凹槽43*41+布/蓝色大凹槽46*43+布/浅蓝大凹槽46*43+布/五代蓝色42*36+布/五代绿色42*36+布/五代黑色42*36+布/五代紫色42*36+布/五代红色42*36+布/五代橙色42*36+布/大腰靠+布/小腰靠+布/电动车款+布/一代600g弧形/一代700g弧形/一代800g弧形/一代900g弧形/一代1000g弧形/六代U型+布/人字交叉款/40*35*2+布套/小圆形+布/大圆形+布"
+ ],
+ "包装信息": [
+  {
+   "volume": 0,
+   "sku1": "单独布套定制款",
+   "length": 0,
+   "width": 0,
+   "weight": 100,
+   "skuId": 6057720767845,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "24*17*2裸垫",
+   "length": 0,
+   "width": 0,
+   "weight": 200,
+   "skuId": 6057720767846,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "38*32*1.2裸垫",
+   "length": 0,
+   "width": 0,
+   "weight": 300,
+   "skuId": 6057720767847,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "40*35*2裸垫",
+   "length": 0,
+   "width": 0,
+   "weight": 500,
+   "skuId": 5890422272241,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "方形30*25+布",
+   "length": 0,
+   "width": 0,
+   "weight": 400,
+   "skuId": 6057720767849,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "方形40*35*1.8+布",
+   "length": 0,
+   "width": 0,
+   "weight": 500,
+   "skuId": 6057720767850,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "方形37*32*3+布",
+   "length": 0,
+   "width": 0,
+   "weight": 600,
+   "skuId": 6057720767851,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "方形40*35*2.4+布",
+   "length": 0,
+   "width": 0,
+   "weight": 600,
+   "skuId": 6057720767852,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "方形42*36*2.6+布",
+   "length": 0,
+   "width": 0,
+   "weight": 800,
+   "skuId": 6057720767853,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "方形42*36*3+布",
+   "length": 0,
+   "width": 0,
+   "weight": 900,
+   "skuId": 6057720767854,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "三代方形42*36*3.5+布",
+   "length": 0,
+   "width": 0,
+   "weight": 950,
+   "skuId": 6063030466959,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "方形42*36*4.5+布",
+   "length": 0,
+   "width": 0,
+   "weight": 1200,
+   "skuId": 6057720767856,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "方形42*36*6+布",
+   "length": 0,
+   "width": 0,
+   "weight": 1500,
+   "skuId": 6057720767857,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "方形45*45*3.5+布",
+   "length": 0,
+   "width": 0,
+   "weight": 1200,
+   "skuId": 6057720767858,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "方形50*50*4.5+布",
+   "length": 0,
+   "width": 0,
+   "weight": 1600,
+   "skuId": 6057720767859,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "方形50*50*6+布",
+   "length": 0,
+   "width": 0,
+   "weight": 2100,
+   "skuId": 6057720767860,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "空心圆形+布",
+   "length": 0,
+   "width": 0,
+   "weight": 1200,
+   "skuId": 6057720767861,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "蓝色小凹槽43*41+布",
+   "length": 0,
+   "width": 0,
+   "weight": 900,
+   "skuId": 6057720767862,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "浅蓝小凹槽43*41+布",
+   "length": 0,
+   "width": 0,
+   "weight": 900,
+   "skuId": 6057720767863,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "蓝色大凹槽46*43+布",
+   "length": 0,
+   "width": 0,
+   "weight": 1100,
+   "skuId": 6057720767864,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "浅蓝大凹槽46*43+布",
+   "length": 0,
+   "width": 0,
+   "weight": 1100,
+   "skuId": 6057720767865,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "五代蓝色42*36+布",
+   "length": 0,
+   "width": 0,
+   "weight": 950,
+   "skuId": 6063030466953,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "五代绿色42*36+布",
+   "length": 0,
+   "width": 0,
+   "weight": 950,
+   "skuId": 6063030466954,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "五代黑色42*36+布",
+   "length": 0,
+   "width": 0,
+   "weight": 950,
+   "skuId": 6063030466955,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "五代紫色42*36+布",
+   "length": 0,
+   "width": 0,
+   "weight": 950,
+   "skuId": 6063030466956,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "五代红色42*36+布",
+   "length": 0,
+   "width": 0,
+   "weight": 950,
+   "skuId": 6063030466957,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "五代橙色42*36+布",
+   "length": 0,
+   "width": 0,
+   "weight": 950,
+   "skuId": 6063030466958,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "大腰靠+布",
+   "length": 0,
+   "width": 0,
+   "weight": 1200,
+   "skuId": 6057720767872,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "小腰靠+布",
+   "length": 0,
+   "width": 0,
+   "weight": 1000,
+   "skuId": 6057720767873,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "电动车款+布",
+   "length": 0,
+   "width": 0,
+   "weight": 1100,
+   "skuId": 6057720767874,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "一代600g弧形",
+   "length": 0,
+   "width": 0,
+   "weight": 600,
+   "skuId": 6057720767875,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "一代700g弧形",
+   "length": 0,
+   "width": 0,
+   "weight": 700,
+   "skuId": 6057720767876,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "一代800g弧形",
+   "length": 0,
+   "width": 0,
+   "weight": 800,
+   "skuId": 6057720767877,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "一代900g弧形",
+   "length": 0,
+   "width": 0,
+   "weight": 900,
+   "skuId": 6057720767878,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "一代1000g弧形",
+   "length": 0,
+   "width": 0,
+   "weight": 1000,
+   "skuId": 6057720767879,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "六代U型+布",
+   "length": 0,
+   "width": 0,
+   "weight": 1200,
+   "skuId": 6057720767880,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "人字交叉款",
+   "length": 0,
+   "width": 0,
+   "weight": 1000,
+   "skuId": 5892881668542,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "40*35*2+布套",
+   "length": 0,
+   "width": 0,
+   "weight": 400,
+   "skuId": 6069433350773,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "小圆形+布",
+   "length": 0,
+   "width": 0,
+   "weight": 500,
+   "skuId": 6237254107793,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "大圆形+布",
+   "length": 0,
+   "width": 0,
+   "weight": 800,
+   "skuId": 6237254107794,
+   "height": 0
+  }
+ ],
+ "url": "https://detail.1688.com/offer/961215832103.html",
+ "核页时间": "2026-10-06T14:56:28.077Z"
+}

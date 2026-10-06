@@ -1,0 +1,107 @@
+{
+ "offerId": "1040010561938",
+ "条目": "H0889",
+ "block": false,
+ "卖家公司": "江西嘉盛花卉有限公司",
+ "旺旺名": "江西嘉盛花卉",
+ "标题": "母亲节 情人节新款仿真九朵玫瑰香皂假花花束 公司活动伴手礼礼物",
+ "状态": "PUBLISHED",
+ "类目": "仿真花",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "颜色",
+   "值": [
+    "大红色",
+    "粉色"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "粉色",
+   "价格": "5.93",
+   "库存": 6666
+  },
+  {
+   "规格": "大红色",
+   "价格": "5.93",
+   "库存": 6665
+  }
+ ],
+ "规格图": [
+  [
+   "大红色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01OfrfPj2BaBrhh1niD_!!2217687098354-0-cib.jpg"
+  ],
+  [
+   "粉色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01YH0pg92BaBrdJ8l40_!!2217687098354-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "rangePrice",
+ "价格区间": "5.47-5.93",
+ "阶梯价_登录后": [
+  {
+   "price": "5.93",
+   "beginAmount": 1
+  },
+  {
+   "price": "5.70",
+   "beginAmount": 500
+  },
+  {
+   "price": "5.47",
+   "beginAmount": 2000
+  }
+ ],
+ "到手价": {
+  "价": "4.93",
+  "说明": "新人价",
+  "件数": 1
+ },
+ "起订量": 1,
+ "单位": "束",
+ "可售总量": 13331,
+ "已售": 1,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01xJYY4R2BaBri5brH3_!!2217687098354-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01FMtSDk2BaBrdIhlrV_!!2217687098354-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01Z1H0es2BaBriIPOZO_!!2217687098354-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01byzdG12BaBrhvhIdI_!!2217687098354-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN016dSel22BaBrhzmAZq_!!2217687098354-0-cib.jpg"
+ ],
+ "商品属性": [
+  "材质:香皂花",
+  "工艺:其它",
+  "品种:玫瑰",
+  "用途:其他",
+  "品牌:嘉盛",
+  "货号:25-HS013",
+  "是否专利货源:否",
+  "颜色:大红色/粉色",
+  "产品形态:花束"
+ ],
+ "包装信息": [
+  {
+   "volume": 0,
+   "sku1": "大红色",
+   "length": 0,
+   "width": 0,
+   "weight": 170,
+   "skuId": 6057964788015,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "粉色",
+   "length": 0,
+   "width": 0,
+   "weight": 170,
+   "skuId": 6057964788016,
+   "height": 0
+  }
+ ],
+ "url": "https://detail.1688.com/offer/1040010561938.html",
+ "核页时间": "2026-10-06T18:55:27.127Z"
+}

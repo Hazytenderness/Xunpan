@@ -1,0 +1,88 @@
+{
+ "offerId": "1054347377444",
+ "条目": "H1031",
+ "block": false,
+ "卖家公司": "义乌市柠本供应链管理有限公司",
+ "旺旺名": "智美优品掌柜",
+ "标题": "浴室铁艺收纳篮置物架咖啡角厨房卫生间洗漱台面化妆品整理收纳筐",
+ "状态": "PUBLISHED",
+ "类目": "收纳篮、置物篮、收纳筐",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "颜色",
+   "值": [
+    "方形铁艺收纳篮"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "方形铁艺收纳篮",
+   "价格": "7.80",
+   "库存": 500
+  }
+ ],
+ "规格图": [
+  [
+   "方形铁艺收纳篮",
+   "https://cbu01.alicdn.com/img/ibank/O1CN012iXhlJ1lYeXK1SSSn_!!2210552394831-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "rangePrice",
+ "价格区间": "7.60-7.80",
+ "阶梯价_登录后": [
+  {
+   "price": "7.80",
+   "beginAmount": 1
+  },
+  {
+   "price": "7.70",
+   "beginAmount": 3
+  },
+  {
+   "price": "7.60",
+   "beginAmount": 6
+  }
+ ],
+ "到手价": null,
+ "起订量": 1,
+ "单位": "件",
+ "可售总量": 500,
+ "已售": 184,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01IJiTTB1lYeXKlXq5X_!!2210552394831-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN012iXhlJ1lYeXK1SSSn_!!2210552394831-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01MKF3bp1lYeXKRcChN_!!2210552394831-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01fLCMVw1lYeXKlZiVY_!!2210552394831-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN014EaTrl1lYeXKYGvVT_!!2210552394831-0-cib.jpg"
+ ],
+ "商品属性": [
+  "材质:铁",
+  "品牌:柠本",
+  "产品类别:收纳筐",
+  "适用范围:杂物",
+  "风格:现代简约风",
+  "是否进口:否",
+  "型号:I012",
+  "产地:其他",
+  "箱装数量:~",
+  "产品上市时间:2026年春",
+  "专利:否",
+  "贸易属性:内贸+外贸",
+  "货号:I012",
+  "颜色:方形铁艺收纳篮",
+  "是否跨境出口专供货源:否"
+ ],
+ "包装信息": [
+  {
+   "volume": 0,
+   "length": 0,
+   "width": 0,
+   "weight": 600,
+   "height": 0
+  }
+ ],
+ "url": "https://detail.1688.com/offer/1054347377444.html",
+ "核页时间": "2026-10-06T19:38:41.022Z"
+}

@@ -1,0 +1,135 @@
+{
+ "offerId": "899352834008",
+ "条目": "H1018",
+ "block": false,
+ "卖家公司": "金华市文霞工艺品有限公司",
+ "旺旺名": "文霞工艺家居摆件",
+ "标题": "苔藓微景观创意绿植礼物zakka树脂 害羞猫头鹰 装饰摆件",
+ "状态": "PUBLISHED",
+ "类目": "树脂工艺品",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "颜色",
+   "值": [
+    "A款",
+    "B款",
+    "C款",
+    "D款"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "D款",
+   "价格": "1.20",
+   "库存": 7738
+  },
+  {
+   "规格": "C款",
+   "价格": "1.20",
+   "库存": 7589
+  },
+  {
+   "规格": "B款",
+   "价格": "1.20",
+   "库存": 7805
+  },
+  {
+   "规格": "A款",
+   "价格": "1.20",
+   "库存": 7661
+  }
+ ],
+ "规格图": [
+  [
+   "A款",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01NpshwN2LZPFvZhYCT_!!2521039706-0-cib.jpg"
+  ],
+  [
+   "B款",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01IAGtry2LZPFvya6mk_!!2521039706-0-cib.jpg"
+  ],
+  [
+   "C款",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01lGqGTb2LZPFtGQ6A5_!!2521039706-0-cib.jpg"
+  ],
+  [
+   "D款",
+   "https://cbu01.alicdn.com/img/ibank/O1CN0186HFCx2LZPFuM79ag_!!2521039706-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "skuPrice",
+ "价格区间": null,
+ "阶梯价_登录后": [
+  {
+   "price": "1.20",
+   "beginAmount": 1
+  }
+ ],
+ "到手价": null,
+ "起订量": 1,
+ "单位": "件",
+ "可售总量": 30793,
+ "已售": 1865,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01Ln3g112LZPFwuwOWE_!!2521039706-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01eP51Jr2LZPFvZ8ZoT_!!2521039706-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01i7foSC2LZPFvNf9pM_!!2521039706-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01MmWfG82LZPFtFrOHC_!!2521039706-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01MCgYu72LZPFuLZmsk_!!2521039706-0-cib.jpg"
+ ],
+ "商品属性": [
+  "材质:合成树脂",
+  "类别:树脂工艺品",
+  "品牌:文霞",
+  "风格:中式",
+  "货号:WX-20250317",
+  "包装:普通包装",
+  "是否专利货源:否",
+  "颜色:A款/B款/C款/D款",
+  "是否属于礼品:否",
+  "是否IP授权:否",
+  "新微景观:新树脂工艺品摆件"
+ ],
+ "包装信息": [
+  {
+   "volume": 0,
+   "sku1": "A款",
+   "length": 0,
+   "width": 0,
+   "weight": 10,
+   "skuId": 5755989013674,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "B款",
+   "length": 0,
+   "width": 0,
+   "weight": 10,
+   "skuId": 5755989013675,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "C款",
+   "length": 0,
+   "width": 0,
+   "weight": 10,
+   "skuId": 5755989013676,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "D款",
+   "length": 0,
+   "width": 0,
+   "weight": 10,
+   "skuId": 5755989013677,
+   "height": 0
+  }
+ ],
+ "url": "https://detail.1688.com/offer/899352834008.html",
+ "核页时间": "2026-10-06T19:35:00.162Z"
+}

@@ -1,0 +1,396 @@
+{
+ "offerId": "1020910771749",
+ "条目": "H0089",
+ "block": false,
+ "卖家公司": "高阳县青鸟纺织品制造有限公司",
+ "旺旺名": "高阳青鸟纺织品",
+ "标题": "纯棉方巾幼儿园擦手巾吸水不掉毛纱布小方巾a类口水巾儿童小毛巾",
+ "状态": "PUBLISHED",
+ "类目": "方巾、中巾",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "颜色",
+   "值": [
+    "款式随机",
+    "小熊猫",
+    "小狗",
+    "小羊",
+    "长颈鹿",
+    "小刺猬",
+    "线团猫",
+    "耳机狗",
+    "云朵猫",
+    "萝卜兔",
+    "小松鼠",
+    "浇花狗",
+    "小象",
+    "快乐花园",
+    "小男孩",
+    "小女孩"
+   ]
+  },
+  {
+   "属性": "规格（长*宽cm）",
+   "值": [
+    "26*26"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "小象&gt;26*26",
+   "价格": "2.11",
+   "库存": 648
+  },
+  {
+   "规格": "萝卜兔&gt;26*26",
+   "价格": "2.11",
+   "库存": 709
+  },
+  {
+   "规格": "浇花狗&gt;26*26",
+   "价格": "2.11",
+   "库存": 871
+  },
+  {
+   "规格": "耳机狗&gt;26*26",
+   "价格": "2.11",
+   "库存": 845
+  },
+  {
+   "规格": "小松鼠&gt;26*26",
+   "价格": "2.11",
+   "库存": 794
+  },
+  {
+   "规格": "云朵猫&gt;26*26",
+   "价格": "2.11",
+   "库存": 727
+  },
+  {
+   "规格": "小羊&gt;26*26",
+   "价格": "2.11",
+   "库存": 578
+  },
+  {
+   "规格": "长颈鹿&gt;26*26",
+   "价格": "2.11",
+   "库存": 567
+  },
+  {
+   "规格": "小刺猬&gt;26*26",
+   "价格": "2.11",
+   "库存": 662
+  },
+  {
+   "规格": "小女孩&gt;26*26",
+   "价格": "2.11",
+   "库存": 898
+  },
+  {
+   "规格": "快乐花园&gt;26*26",
+   "价格": "2.11",
+   "库存": 960
+  },
+  {
+   "规格": "小狗&gt;26*26",
+   "价格": "2.11",
+   "库存": 626
+  },
+  {
+   "规格": "小熊猫&gt;26*26",
+   "价格": "2.11",
+   "库存": 883
+  },
+  {
+   "规格": "款式随机&gt;26*26",
+   "价格": "2.11",
+   "库存": 4606
+  },
+  {
+   "规格": "小男孩&gt;26*26",
+   "价格": "2.11",
+   "库存": 771
+  },
+  {
+   "规格": "线团猫&gt;26*26",
+   "价格": "2.11",
+   "库存": 596
+  }
+ ],
+ "规格图": [
+  [
+   "款式随机",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01eTxzTz1ooAmn4TmoQ_!!2200735455271-0-cib.jpg"
+  ],
+  [
+   "小熊猫",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01CLxccx1ooAmp9wKz0_!!2200735455271-0-cib.jpg"
+  ],
+  [
+   "小狗",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01P8IB5Z1ooAmoLn459_!!2200735455271-0-cib.jpg"
+  ],
+  [
+   "小羊",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01WXhqbH1ooAmon4ot1_!!2200735455271-0-cib.jpg"
+  ],
+  [
+   "长颈鹿",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01XRXiMx1ooAmoa4O8R_!!2200735455271-0-cib.jpg"
+  ],
+  [
+   "小刺猬",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01gsPWSz1ooAmpBiFwF_!!2200735455271-0-cib.jpg"
+  ],
+  [
+   "线团猫",
+   "https://cbu01.alicdn.com/img/ibank/O1CN012hMo9A1ooAmon8VhP_!!2200735455271-0-cib.jpg"
+  ],
+  [
+   "耳机狗",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01PRgEbS1ooAmo7hqEV_!!2200735455271-0-cib.jpg"
+  ],
+  [
+   "云朵猫",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01L0IdD51ooAmp7CNkY_!!2200735455271-0-cib.jpg"
+  ],
+  [
+   "萝卜兔",
+   "https://cbu01.alicdn.com/img/ibank/O1CN0142xYA01ooAmoLoCxE_!!2200735455271-0-cib.jpg"
+  ],
+  [
+   "小松鼠",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01p13TER1ooAmon9eSS_!!2200735455271-0-cib.jpg"
+  ],
+  [
+   "浇花狗",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01rdZhQe1ooAmoa68O0_!!2200735455271-0-cib.jpg"
+  ],
+  [
+   "小象",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01NUsnSG1ooAmotpinF_!!2200735455271-0-cib.jpg"
+  ],
+  [
+   "快乐花园",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01QRONr51ooAmpFhvs8_!!2200735455271-0-cib.jpg"
+  ],
+  [
+   "小男孩",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01q0yCmA1ooAmonAesi_!!2200735455271-0-cib.jpg"
+  ],
+  [
+   "小女孩",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01FVNLDD1ooAmokecUU_!!2200735455271-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "skuPrice",
+ "价格区间": "2.22",
+ "阶梯价_登录后": [
+  {
+   "price": "2.11",
+   "beginAmount": 2
+  }
+ ],
+ "到手价": {
+  "价": "1.61",
+  "说明": "新人价",
+  "件数": 2
+ },
+ "起订量": 2,
+ "单位": "条",
+ "可售总量": 15741,
+ "已售": 11322,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01eTxzTz1ooAmn4TmoQ_!!2200735455271-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01DUUY841ooAmnQ88wv_!!2200735455271-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01yY6Ltn1ooAmmdYXBc_!!2200735455271-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01NtOmfi1ooAmmWxnHI_!!2200735455271-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01lpqeds1ooAmmoAdyu_!!2200735455271-0-cib.jpg"
+ ],
+ "商品属性": [
+  "材质:纯棉",
+  "制作工艺:提花",
+  "品牌:卡洛塔",
+  "吸水性:5s-10s",
+  "货号:纱布方巾",
+  "纱线规格:32股",
+  "毛巾、巾类细分:儿童巾，小方巾纱布巾",
+  "纱线工艺:股纱",
+  "是否支持一件代发:支持",
+  "克重:25g",
+  "适用人群:通用",
+  "加工定制:是",
+  "加印LOGO:可以",
+  "系列:卡通系列",
+  "形象:无",
+  "颜色:款式随机/小熊猫/小狗/小羊/长颈鹿/小刺猬/线团猫/耳机狗/云朵猫/萝卜兔/小松鼠/浇花狗/小象/快乐花园/小男孩/小女孩",
+  "规格（长*宽cm）:26*26",
+  "是否跨境出口专供货源:否"
+ ],
+ "包装信息": [
+  {
+   "sku2": "26*26",
+   "volume": 0,
+   "sku1": "款式随机",
+   "length": 0,
+   "width": 0,
+   "weight": 25,
+   "skuId": 6032763240536,
+   "height": 0
+  },
+  {
+   "sku2": "26*26",
+   "volume": 0,
+   "sku1": "小熊猫",
+   "length": 0,
+   "width": 0,
+   "weight": 25,
+   "skuId": 6033474688701,
+   "height": 0
+  },
+  {
+   "sku2": "26*26",
+   "volume": 0,
+   "sku1": "小狗",
+   "length": 0,
+   "width": 0,
+   "weight": 25,
+   "skuId": 6033474688702,
+   "height": 0
+  },
+  {
+   "sku2": "26*26",
+   "volume": 0,
+   "sku1": "小羊",
+   "length": 0,
+   "width": 0,
+   "weight": 25,
+   "skuId": 6033474688698,
+   "height": 0
+  },
+  {
+   "sku2": "26*26",
+   "volume": 0,
+   "sku1": "长颈鹿",
+   "length": 0,
+   "width": 0,
+   "weight": 25,
+   "skuId": 6033474688694,
+   "height": 0
+  },
+  {
+   "sku2": "26*26",
+   "volume": 0,
+   "sku1": "小刺猬",
+   "length": 0,
+   "width": 0,
+   "weight": 25,
+   "skuId": 6033474688707,
+   "height": 0
+  },
+  {
+   "sku2": "26*26",
+   "volume": 0,
+   "sku1": "线团猫",
+   "length": 0,
+   "width": 0,
+   "weight": 25,
+   "skuId": 6033474688703,
+   "height": 0
+  },
+  {
+   "sku2": "26*26",
+   "volume": 0,
+   "sku1": "耳机狗",
+   "length": 0,
+   "width": 0,
+   "weight": 25,
+   "skuId": 6033474688708,
+   "height": 0
+  },
+  {
+   "sku2": "26*26",
+   "volume": 0,
+   "sku1": "云朵猫",
+   "length": 0,
+   "width": 0,
+   "weight": 25,
+   "skuId": 6033474688706,
+   "height": 0
+  },
+  {
+   "sku2": "26*26",
+   "volume": 0,
+   "sku1": "萝卜兔",
+   "length": 0,
+   "width": 0,
+   "weight": 25,
+   "skuId": 6033474688705,
+   "height": 0
+  },
+  {
+   "sku2": "26*26",
+   "volume": 0,
+   "sku1": "小松鼠",
+   "length": 0,
+   "width": 0,
+   "weight": 25,
+   "skuId": 6033474688699,
+   "height": 0
+  },
+  {
+   "sku2": "26*26",
+   "volume": 0,
+   "sku1": "浇花狗",
+   "length": 0,
+   "width": 0,
+   "weight": 25,
+   "skuId": 6033474688695,
+   "height": 0
+  },
+  {
+   "sku2": "26*26",
+   "volume": 0,
+   "sku1": "小象",
+   "length": 0,
+   "width": 0,
+   "weight": 25,
+   "skuId": 6033474688700,
+   "height": 0
+  },
+  {
+   "sku2": "26*26",
+   "volume": 0,
+   "sku1": "快乐花园",
+   "length": 0,
+   "width": 0,
+   "weight": 25,
+   "skuId": 6033474688696,
+   "height": 0
+  },
+  {
+   "sku2": "26*26",
+   "volume": 0,
+   "sku1": "小男孩",
+   "length": 0,
+   "width": 0,
+   "weight": 25,
+   "skuId": 6033474688704,
+   "height": 0
+  },
+  {
+   "sku2": "26*26",
+   "volume": 0,
+   "sku1": "小女孩",
+   "length": 0,
+   "width": 0,
+   "weight": 25,
+   "skuId": 6033474688697,
+   "height": 0
+  }
+ ],
+ "url": "https://detail.1688.com/offer/1020910771749.html",
+ "核页时间": "2026-10-06T15:03:45.377Z"
+}

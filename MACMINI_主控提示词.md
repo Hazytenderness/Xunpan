@@ -117,6 +117,7 @@
 | 盯回复 | `python3 tools/watch.py [分钟=10] [间隔秒=60]` | 只报已发询盘的店、对方新内容；到点自动停 |
 | 记报价 | `python3 tools/quote.py <id> '{"字段":[值,"原话","时间"]}'` | 合并写进 `quotes.jsonl` |
 | 推复核 | `python3 tools/build_review_feed.py batches/<批次>` → `python3 tools/push_review_feed.py batches/<批次>` | 见第 4 节 |
+| 批量核页＋核 SKU（不询盘） | `tools/核SKU/` 依次：`取款.mjs`（在 ataous-site 目录跑，取待核对且有候选的款）→ `建批次.py` → `hepage.py` → `prep.py <块> <序,…>` 出对照图，按 `匹配说明.md` 逐块判 → `merge.py` → 推复核 | 环境变量 `XUNPAN_WORK`（工作目录，放 purchase.json / products.json / 各块）、`XUNPAN_BATCH`（批次目录）。⛔ merge 要在 hepage 全部跑完后再跑一次：hepage 结束时会用启动时读到的 queue.json 整份覆盖。推送超过 2MB 时按款拆开推。首次实跑：2026-10-06-货源核实 |
 
 **结果怎么处理**：
 - 任何工具输出「停止」「验证」「收件人对不上」：不重试，先检查页面；有滑块或验证就 handOff 给用户（`ego-browser nodejs` 里 `await (await taskSpace(<spaceId>)).handOff()`），等用户说「继续」后用 `takeOverTaskSpace(<spaceId>)` 收回。

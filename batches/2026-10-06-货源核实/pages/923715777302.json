@@ -1,0 +1,255 @@
+{
+ "offerId": "923715777302",
+ "条目": "H0480",
+ "block": false,
+ "卖家公司": "金华市简洁日用品有限公司",
+ "旺旺名": "金华简洁日用品源头厂家",
+ "标题": "鱼缸吸黄纸水源净化去腥去污过滤纸净水吸附污渍除臭黄水净水纸",
+ "状态": "PUBLISHED",
+ "类目": "鱼缸清洁用具",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "规格",
+   "值": [
+    "9*13-50张【opp袋装】",
+    "9*13-100张【opp袋装】",
+    "9*13-200张【opp袋装】",
+    "9*13-300张【opp袋装】",
+    "折叠9*28-50张【opp袋装】",
+    "折叠9*28-100张【opp袋装】",
+    "鱼缸吸黄纸10*14cmX80片盒装",
+    "OUHEY鱼缸吸黄纸10*14cmX100片一盒【中文版】",
+    "OUHEY鱼缸吸黄纸10*14cmX100片一盒【英文版】",
+    "鱼缸吸黄纸20*20*100片/袋"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "9*13-300张【opp袋装】",
+   "价格": "4.70",
+   "库存": 80257
+  },
+  {
+   "规格": "鱼缸吸黄纸10*14cmX80片盒装",
+   "价格": "2.04",
+   "库存": 4924
+  },
+  {
+   "规格": "鱼缸吸黄纸20*20*100片/袋",
+   "价格": "4.79",
+   "库存": 8887
+  },
+  {
+   "规格": "折叠9*28-100张【opp袋装】",
+   "价格": "3.02",
+   "库存": 88669
+  },
+  {
+   "规格": "OUHEY鱼缸吸黄纸10*14cmX100片一盒【英文版】",
+   "价格": "2.22",
+   "库存": 4981
+  },
+  {
+   "规格": "9*13-100张【opp袋装】",
+   "价格": "1.74",
+   "库存": 28570
+  },
+  {
+   "规格": "9*13-50张【opp袋装】",
+   "价格": "0.98",
+   "库存": 79374
+  },
+  {
+   "规格": "9*13-200张【opp袋装】",
+   "价格": "3.19",
+   "库存": 76737
+  },
+  {
+   "规格": "折叠9*28-50张【opp袋装】",
+   "价格": "1.59",
+   "库存": 88799
+  },
+  {
+   "规格": "OUHEY鱼缸吸黄纸10*14cmX100片一盒【中文版】",
+   "价格": "2.22",
+   "库存": 4627
+  }
+ ],
+ "规格图": [
+  [
+   "9*13-50张【opp袋装】",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01YyeZW02IrmJBOnroO_!!2215010899340-0-cib.jpg"
+  ],
+  [
+   "9*13-100张【opp袋装】",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01OLemNo2IrmJHK5kNR_!!2215010899340-0-cib.jpg"
+  ],
+  [
+   "9*13-200张【opp袋装】",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01cMQWO22IrmJIcSY2r_!!2215010899340-0-cib.jpg"
+  ],
+  [
+   "9*13-300张【opp袋装】",
+   "https://cbu01.alicdn.com/img/ibank/O1CN018w0XyA2IrmJIcTLyl_!!2215010899340-0-cib.jpg"
+  ],
+  [
+   "折叠9*28-50张【opp袋装】",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01J37g8l2IrmJHK6YNT_!!2215010899340-0-cib.jpg"
+  ],
+  [
+   "折叠9*28-100张【opp袋装】",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01fZ6pVr2IrmJHK7QRG_!!2215010899340-0-cib.jpg"
+  ],
+  [
+   "鱼缸吸黄纸10*14cmX80片盒装",
+   "https://cbu01.alicdn.com/img/ibank/O1CN0158oAFs2IrmMXRNmR1_!!2215010899340-0-cib.jpg"
+  ],
+  [
+   "OUHEY鱼缸吸黄纸10*14cmX100片一盒【中文版】",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01ihA8Wc2IrmMjc6im2_!!2215010899340-0-cib.jpg"
+  ],
+  [
+   "OUHEY鱼缸吸黄纸10*14cmX100片一盒【英文版】",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01rAOBql2IrmMoYvXxJ_!!2215010899340-0-cib.jpg"
+  ],
+  [
+   "鱼缸吸黄纸20*20*100片/袋",
+   "https://cbu01.alicdn.com/img/ibank/O1CN014X8oskcpYOF2XrKe_!!2215010899340-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "skuPrice",
+ "价格区间": "1.22-5.99",
+ "阶梯价_登录后": [
+  {
+   "price": "0.98",
+   "beginAmount": 1
+  },
+  {
+   "price": "4.79",
+   "beginAmount": 1
+  }
+ ],
+ "到手价": null,
+ "起订量": 1,
+ "单位": "张",
+ "可售总量": 465825,
+ "已售": 141114,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN015CkPw82IrmML8NdeQ_!!2215010899340-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01p5GNXz2IrmJFgf2Lw_!!2215010899340-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01NiCXGJ2IrmJI4NnBk_!!2215010899340-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01Kqt1H12IrmJHCmmYV_!!2215010899340-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN0187EdHF2IrmOCabBjl_!!2215010899340-0-cib.jpg"
+ ],
+ "商品属性": [
+  "品牌:自主品牌",
+  "产地:浙江",
+  "货号:鱼缸吸黄纸",
+  "是否进口:否",
+  "箱装数量:200",
+  "是否专利货源:否",
+  "规格:9*13-50张【opp袋装】/9*13-100张【opp袋装】/9*13-200张【opp袋装】/9*13-300张【opp袋装】/折叠9*28-50张【opp袋装】/折叠9*28-100张【opp袋装】/鱼缸吸黄纸10*14cmX80片盒装/OUHEY鱼缸吸黄纸10*14cmX100片一盒【中文版】/OUHEY鱼缸吸黄纸10*14cmX100片一盒【英文版】/鱼缸吸黄纸20*20*100片/袋",
+  "主要下游平台:ebay/亚马逊/wish/速卖通/独立站/LAZADA",
+  "主要销售地区:非洲/欧洲/南美/东南亚/北美/东北亚/中东",
+  "有可授权的自有品牌:否",
+  "是否跨境出口专供货源:是",
+  "电源类型:无",
+  "材质:无纺布"
+ ],
+ "包装信息": [
+  {
+   "volume": 370.5,
+   "sku1": "9*13-50张【opp袋装】",
+   "length": 13,
+   "width": 9.5,
+   "weight": 100,
+   "skuId": 5969025523986,
+   "height": 3
+  },
+  {
+   "volume": 679.25,
+   "sku1": "9*13-100张【opp袋装】",
+   "length": 13,
+   "width": 9.5,
+   "weight": 100,
+   "skuId": 5969025523987,
+   "height": 5.5
+  },
+  {
+   "volume": 1202.5,
+   "sku1": "9*13-200张【opp袋装】",
+   "length": 18.5,
+   "width": 13,
+   "weight": 130,
+   "skuId": 5969025523988,
+   "height": 5
+  },
+  {
+   "volume": 2073.5,
+   "sku1": "9*13-300张【opp袋装】",
+   "length": 29,
+   "width": 13,
+   "weight": 190,
+   "skuId": 5969025523989,
+   "height": 5.5
+  },
+  {
+   "volume": 957.125,
+   "sku1": "折叠9*28-50张【opp袋装】",
+   "length": 15.5,
+   "width": 9.5,
+   "weight": 100,
+   "skuId": 5969025523990,
+   "height": 6.5
+  },
+  {
+   "volume": 1620,
+   "sku1": "折叠9*28-100张【opp袋装】",
+   "length": 30,
+   "width": 9,
+   "weight": 150,
+   "skuId": 5969025523991,
+   "height": 6
+  },
+  {
+   "volume": 987.5,
+   "sku1": "鱼缸吸黄纸10*14cmX80片盒装",
+   "length": 12.5,
+   "width": 5,
+   "weight": 100,
+   "skuId": 6148543190534,
+   "height": 15.8
+  },
+  {
+   "volume": 968.75,
+   "sku1": "OUHEY鱼缸吸黄纸10*14cmX100片一盒【中文版】",
+   "length": 12.5,
+   "width": 5,
+   "weight": 100,
+   "skuId": 5999793757542,
+   "height": 15.5
+  },
+  {
+   "volume": 968.75,
+   "sku1": "OUHEY鱼缸吸黄纸10*14cmX100片一盒【英文版】",
+   "length": 12.5,
+   "width": 5,
+   "weight": 100,
+   "skuId": 5999793757543,
+   "height": 15.5
+  },
+  {
+   "volume": 1700,
+   "sku1": "鱼缸吸黄纸20*20*100片/袋",
+   "length": 10,
+   "width": 20,
+   "weight": 180,
+   "skuId": 6139741345409,
+   "height": 8.5
+  }
+ ],
+ "url": "https://detail.1688.com/offer/923715777302.html",
+ "核页时间": "2026-10-06T17:01:07.947Z"
+}

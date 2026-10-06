@@ -1,0 +1,550 @@
+{
+ "offerId": "743587299089",
+ "条目": "H0978",
+ "block": false,
+ "卖家公司": "义乌市舒美箱包有限公司",
+ "旺旺名": "义乌市舒美箱包有限公司",
+ "标题": "跨境厂家牛津布冰包保冷水杯套户外隔热圆形保温杯套奶瓶套水壶袋",
+ "状态": "PUBLISHED",
+ "类目": "杯套/壶套/保温套",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "颜色",
+   "值": [
+    "藏青色(10*31CM)",
+    "红色(10*31CM)",
+    "藏青1.5L(10*30CM)",
+    "灰色1.5L(10*30CM)",
+    "藏青2L(12*32CM)",
+    "灰色2L(12*32CM)",
+    "小雪花：黑色1.5L(10*29CM)",
+    "小雪花：蓝色1.5L(10*29CM)",
+    "小雪花：红色1.5L(10*29CM)",
+    "迷彩1.5L(10*30CM)",
+    "白迷彩1.5L(10*30CM)",
+    "蓝盖藏青（11*34CM)",
+    "红盖藏青（11*34CM)",
+    "红色轮船1.5L(10*31CM)",
+    "红色轮船2L(12*33CM)",
+    "荧光绿拉链款1.5L(10*30CM)",
+    "灰色拉链款1.5L(10*30CM)",
+    "0.5L红色小雪花（8*20CM）",
+    "0.5L黑色小雪花（8*20CM）",
+    "0.5L蓝色小雪花（8*20CM）",
+    "雪花宝蓝色束口款1.5L(10*30CM)",
+    "雪花宝浅蓝色束口款1.5L(10*30CM)",
+    "雪花红色束口款1.5L(10*30CM)",
+    "纯色藏青",
+    "纯色灰色"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "藏青色(10*31CM)",
+   "价格": "7.88",
+   "库存": 991377
+  },
+  {
+   "规格": "雪花红色束口款1.5L(10*30CM)",
+   "价格": "7.80",
+   "库存": 99930
+  },
+  {
+   "规格": "灰色1.5L(10*30CM)",
+   "价格": "7.80",
+   "库存": 98769
+  },
+  {
+   "规格": "灰色拉链款1.5L(10*30CM)",
+   "价格": "8.90",
+   "库存": 5
+  },
+  {
+   "规格": "小雪花：黑色1.5L(10*29CM)",
+   "价格": "5.50",
+   "库存": 64576
+  },
+  {
+   "规格": "雪花宝浅蓝色束口款1.5L(10*30CM)",
+   "价格": "7.80",
+   "库存": 8834
+  },
+  {
+   "规格": "藏青1.5L(10*30CM)",
+   "价格": "7.80",
+   "库存": 99063
+  },
+  {
+   "规格": "灰色2L(12*32CM)",
+   "价格": "8.70",
+   "库存": 99999
+  },
+  {
+   "规格": "红色(10*31CM)",
+   "价格": "7.88",
+   "库存": 98445
+  },
+  {
+   "规格": "藏青2L(12*32CM)",
+   "价格": "8.70",
+   "库存": 100000
+  },
+  {
+   "规格": "红盖藏青（11*34CM)",
+   "价格": "10.70",
+   "库存": 99847
+  },
+  {
+   "规格": "纯色藏青",
+   "价格": "9.80",
+   "库存": 100000
+  },
+  {
+   "规格": "红色轮船1.5L(10*31CM)",
+   "价格": "5.20",
+   "库存": 99989
+  },
+  {
+   "规格": "白迷彩1.5L(10*30CM)",
+   "价格": "9.20",
+   "库存": 99996
+  },
+  {
+   "规格": "0.5L蓝色小雪花（8*20CM）",
+   "价格": "4.00",
+   "库存": 99997
+  },
+  {
+   "规格": "小雪花：红色1.5L(10*29CM)",
+   "价格": "5.50",
+   "库存": 98927
+  },
+  {
+   "规格": "纯色灰色",
+   "价格": "9.80",
+   "库存": 99997
+  },
+  {
+   "规格": "荧光绿拉链款1.5L(10*30CM)",
+   "价格": "8.90",
+   "库存": 10
+  },
+  {
+   "规格": "蓝盖藏青（11*34CM)",
+   "价格": "10.70",
+   "库存": 99775
+  },
+  {
+   "规格": "0.5L黑色小雪花（8*20CM）",
+   "价格": "4.00",
+   "库存": 99997
+  },
+  {
+   "规格": "雪花宝蓝色束口款1.5L(10*30CM)",
+   "价格": "7.80",
+   "库存": 99380
+  },
+  {
+   "规格": "0.5L红色小雪花（8*20CM）",
+   "价格": "4.00",
+   "库存": 100000
+  },
+  {
+   "规格": "红色轮船2L(12*33CM)",
+   "价格": "5.70",
+   "库存": 99998
+  },
+  {
+   "规格": "小雪花：蓝色1.5L(10*29CM)",
+   "价格": "5.50",
+   "库存": 99921
+  },
+  {
+   "规格": "迷彩1.5L(10*30CM)",
+   "价格": "9.20",
+   "库存": 100000
+  }
+ ],
+ "规格图": [
+  [
+   "藏青色(10*31CM)",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01MlX2ET1ixtGKGlfkQ_!!2214458364480-0-cib.jpg"
+  ],
+  [
+   "红色(10*31CM)",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01eezKy41ixtGOTOgMA_!!2214458364480-0-cib.jpg"
+  ],
+  [
+   "藏青1.5L(10*30CM)",
+   "https://cbu01.alicdn.com/img/ibank/O1CN014sxFfT1ixtGOcYiUo_!!2214458364480-0-cib.jpg"
+  ],
+  [
+   "灰色1.5L(10*30CM)",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01BhQnfw1ixtGA3D4FK_!!2214458364480-0-cib.jpg"
+  ],
+  [
+   "藏青2L(12*32CM)",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01tKhhiC1ixt94G6LB9_!!2214458364480-0-cib.jpg"
+  ],
+  [
+   "灰色2L(12*32CM)",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01HtP39N1ixt8vlNf7L_!!2214458364480-0-cib.jpg"
+  ],
+  [
+   "小雪花：黑色1.5L(10*29CM)",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01GYWgif1ixt96LWhWU_!!2214458364480-0-cib.jpg"
+  ],
+  [
+   "小雪花：蓝色1.5L(10*29CM)",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01HtD9mQ1ixt95qLE91_!!2214458364480-0-cib.jpg"
+  ],
+  [
+   "小雪花：红色1.5L(10*29CM)",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01f2rOUj1ixt8uZmw02_!!2214458364480-0-cib.jpg"
+  ],
+  [
+   "迷彩1.5L(10*30CM)",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01sHgo8f1ixtVt5fd9K_!!2214458364480-0-cib.jpg"
+  ],
+  [
+   "白迷彩1.5L(10*30CM)",
+   "https://cbu01.alicdn.com/img/ibank/O1CN018zuYYJ1ixtVt9qPfR_!!2214458364480-0-cib.jpg"
+  ],
+  [
+   "蓝盖藏青（11*34CM)",
+   "https://cbu01.alicdn.com/img/ibank/O1CN0186L2YW1ixtVstfu2n_!!2214458364480-0-cib.jpg"
+  ],
+  [
+   "红盖藏青（11*34CM)",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01zLFcWP1ixtVshHgDP_!!2214458364480-0-cib.jpg"
+  ],
+  [
+   "红色轮船1.5L(10*31CM)",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01tTc3pG1ixtVsRvbb3_!!2214458364480-0-cib.jpg"
+  ],
+  [
+   "红色轮船2L(12*33CM)",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01D8veB51ixtVsYHxfL_!!2214458364480-0-cib.jpg"
+  ],
+  [
+   "荧光绿拉链款1.5L(10*30CM)",
+   "https://cbu01.alicdn.com/img/ibank/O1CN012hKnRE1ixtGMzg8Qe_!!2214458364480-0-cib.jpg"
+  ],
+  [
+   "灰色拉链款1.5L(10*30CM)",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01uFnCsg1ixtGIOsUFD_!!2214458364480-0-cib.jpg"
+  ],
+  [
+   "0.5L红色小雪花（8*20CM）",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01HMH50P1ixtVsr9CNe_!!2214458364480-0-cib.jpg"
+  ],
+  [
+   "0.5L黑色小雪花（8*20CM）",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01Y4EmxL1ixtVsYSdY8_!!2214458364480-0-cib.jpg"
+  ],
+  [
+   "0.5L蓝色小雪花（8*20CM）",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01mKZTXT1ixtVsxuB3y_!!2214458364480-0-cib.jpg"
+  ],
+  [
+   "雪花宝蓝色束口款1.5L(10*30CM)",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01jqx02j1ixtGLDCL3H_!!2214458364480-0-cib.jpg"
+  ],
+  [
+   "雪花宝浅蓝色束口款1.5L(10*30CM)",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01I0FFOG1ixtGLYGhvs_!!2214458364480-0-cib.jpg"
+  ],
+  [
+   "雪花红色束口款1.5L(10*30CM)",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01w3y5Zf1ixtGIOqXbF_!!2214458364480-0-cib.jpg"
+  ],
+  [
+   "纯色藏青",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01JByEFOCGQBD2b8G8_!!2214458364480-0-cib.jpg"
+  ],
+  [
+   "纯色灰色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN012dGUfaOE03I2R3rs_!!2214458364480-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "skuPrice",
+ "价格区间": "4.00-10.70",
+ "阶梯价_登录后": [
+  {
+   "price": "4.00",
+   "beginAmount": 3
+  },
+  {
+   "price": "10.70",
+   "beginAmount": 3
+  }
+ ],
+ "到手价": {
+  "价": "3",
+  "说明": "新人价",
+  "件数": 3
+ },
+ "起订量": 3,
+ "单位": "个",
+ "可售总量": 3058832,
+ "已售": 9388,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01DkVqu11ixtGOquAg5_!!2214458364480-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01dNqdgK1ixtGKaJwF2_!!2214458364480-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01YU83w51ixtGKaGS3R_!!2214458364480-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN0186L2YW1ixtVstfu2n_!!2214458364480-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01SU7c5D1ixtVsakLlT_!!2214458364480-0-cib.jpg"
+ ],
+ "商品属性": [
+  "材质:布",
+  "品牌:轮船",
+  "产品质量等级:合格品",
+  "风格:现代简约",
+  "颜色:藏青色(10*31CM)/红色(10*31CM)/藏青1.5L(10*30CM)/灰色1.5L(10*30CM)/藏青2L(12*32CM)/灰色2L(12*32CM)/小雪花：黑色1.5L(10*29CM)/小雪花：蓝色1.5L(10*29CM)/小雪花：红色1.5L(10*29CM)/迷彩1.5L(10*30CM)/白迷彩1.5L(10*30CM)/蓝盖藏青（11*34CM)/红盖藏青（11*34CM)/红色轮船1.5L(10*31CM)/红色轮船2L(12*33CM)/荧光绿拉链款1.5L(10*30CM)/灰色拉链款1.5L(10*30CM)/0.5L红色小雪花（8*20CM）/0.5L黑色小雪花（8*20CM）/0.5L蓝色小雪花（8*20CM）/雪花宝蓝色束口款1.5L(10*30CM)/雪花宝浅蓝色束口款1.5L(10*30CM)/雪花红色束口款1.5L(10*30CM)/纯色藏青/纯色灰色",
+  "货号:水壶袋",
+  "是否进口:否",
+  "加印LOGO:可以",
+  "加工定制:是",
+  "价格段:1-59元",
+  "是否有专利:否",
+  "包装规格:单个opp袋",
+  "主要下游平台:wish/速卖通/独立站/LAZADA/其他",
+  "主要销售地区:欧洲/南美/北美/中东",
+  "有可授权的自有品牌:否",
+  "是否跨境出口专供货源:是",
+  "3:奶瓶杯套",
+  "2:水壶袋",
+  "1:保温杯套"
+ ],
+ "包装信息": [
+  {
+   "volume": 900,
+   "sku1": "藏青色(10*31CM)",
+   "length": 30,
+   "width": 10,
+   "weight": 1000,
+   "skuId": 6077965040728,
+   "height": 3
+  },
+  {
+   "volume": 900,
+   "sku1": "红色(10*31CM)",
+   "length": 30,
+   "width": 10,
+   "weight": 1000,
+   "skuId": 6077965040729,
+   "height": 3
+  },
+  {
+   "volume": 900,
+   "sku1": "藏青1.5L(10*30CM)",
+   "length": 30,
+   "width": 10,
+   "weight": 1000,
+   "skuId": 6077965040731,
+   "height": 3
+  },
+  {
+   "volume": 900,
+   "sku1": "灰色1.5L(10*30CM)",
+   "length": 30,
+   "width": 10,
+   "weight": 1000,
+   "skuId": 6077965040732,
+   "height": 3
+  },
+  {
+   "volume": 900,
+   "sku1": "藏青2L(12*32CM)",
+   "length": 30,
+   "width": 10,
+   "weight": 1000,
+   "skuId": 6243450355921,
+   "height": 3
+  },
+  {
+   "volume": 900,
+   "sku1": "灰色2L(12*32CM)",
+   "length": 30,
+   "width": 10,
+   "weight": 1000,
+   "skuId": 6243450355922,
+   "height": 3
+  },
+  {
+   "volume": 900,
+   "sku1": "小雪花：黑色1.5L(10*29CM)",
+   "length": 30,
+   "width": 10,
+   "weight": 1000,
+   "skuId": 6077965040724,
+   "height": 3
+  },
+  {
+   "volume": 900,
+   "sku1": "小雪花：蓝色1.5L(10*29CM)",
+   "length": 30,
+   "width": 10,
+   "weight": 1000,
+   "skuId": 6077965040725,
+   "height": 3
+  },
+  {
+   "volume": 900,
+   "sku1": "小雪花：红色1.5L(10*29CM)",
+   "length": 30,
+   "width": 10,
+   "weight": 1000,
+   "skuId": 6077965040735,
+   "height": 3
+  },
+  {
+   "volume": 900,
+   "sku1": "迷彩1.5L(10*30CM)",
+   "length": 30,
+   "width": 10,
+   "weight": 1000,
+   "skuId": 6077965040736,
+   "height": 3
+  },
+  {
+   "volume": 900,
+   "sku1": "白迷彩1.5L(10*30CM)",
+   "length": 30,
+   "width": 10,
+   "weight": 1000,
+   "skuId": 6077965040723,
+   "height": 3
+  },
+  {
+   "volume": 900,
+   "sku1": "蓝盖藏青（11*34CM)",
+   "length": 30,
+   "width": 10,
+   "weight": 1000,
+   "skuId": 6077965040737,
+   "height": 3
+  },
+  {
+   "volume": 900,
+   "sku1": "红盖藏青（11*34CM)",
+   "length": 30,
+   "width": 10,
+   "weight": 1000,
+   "skuId": 6077965040730,
+   "height": 3
+  },
+  {
+   "volume": 900,
+   "sku1": "红色轮船1.5L(10*31CM)",
+   "length": 30,
+   "width": 10,
+   "weight": 1000,
+   "skuId": 6077965040738,
+   "height": 3
+  },
+  {
+   "volume": 900,
+   "sku1": "红色轮船2L(12*33CM)",
+   "length": 30,
+   "width": 10,
+   "weight": 1000,
+   "skuId": 6077965040727,
+   "height": 3
+  },
+  {
+   "volume": 900,
+   "sku1": "荧光绿拉链款1.5L(10*30CM)",
+   "length": 30,
+   "width": 10,
+   "weight": 1000,
+   "skuId": 6077965040722,
+   "height": 3
+  },
+  {
+   "volume": 900,
+   "sku1": "灰色拉链款1.5L(10*30CM)",
+   "length": 30,
+   "width": 10,
+   "weight": 1000,
+   "skuId": 6077965040726,
+   "height": 3
+  },
+  {
+   "volume": 900,
+   "sku1": "0.5L红色小雪花（8*20CM）",
+   "length": 30,
+   "width": 10,
+   "weight": 1000,
+   "skuId": 6243804451951,
+   "height": 3
+  },
+  {
+   "volume": 900,
+   "sku1": "0.5L黑色小雪花（8*20CM）",
+   "length": 30,
+   "width": 10,
+   "weight": 1000,
+   "skuId": 6243804451952,
+   "height": 3
+  },
+  {
+   "volume": 900,
+   "sku1": "0.5L蓝色小雪花（8*20CM）",
+   "length": 30,
+   "width": 10,
+   "weight": 1000,
+   "skuId": 6243804451953,
+   "height": 3
+  },
+  {
+   "volume": 900,
+   "sku1": "雪花宝蓝色束口款1.5L(10*30CM)",
+   "length": 30,
+   "width": 10,
+   "weight": 1000,
+   "skuId": 6077965040719,
+   "height": 3
+  },
+  {
+   "volume": 900,
+   "sku1": "雪花宝浅蓝色束口款1.5L(10*30CM)",
+   "length": 30,
+   "width": 10,
+   "weight": 1000,
+   "skuId": 6077965040720,
+   "height": 3
+  },
+  {
+   "volume": 900,
+   "sku1": "雪花红色束口款1.5L(10*30CM)",
+   "length": 30,
+   "width": 10,
+   "weight": 1000,
+   "skuId": 6077965040721,
+   "height": 3
+  },
+  {
+   "volume": 1536,
+   "sku1": "纯色藏青",
+   "length": 32,
+   "width": 16,
+   "weight": 1000,
+   "skuId": 6135635536079,
+   "height": 3
+  },
+  {
+   "volume": 1536,
+   "sku1": "纯色灰色",
+   "length": 32,
+   "width": 16,
+   "weight": 1000,
+   "skuId": 6135635536080,
+   "height": 3
+  }
+ ],
+ "url": "https://detail.1688.com/offer/743587299089.html",
+ "核页时间": "2026-10-06T19:23:32.502Z"
+}

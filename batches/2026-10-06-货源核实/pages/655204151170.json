@@ -1,0 +1,1023 @@
+{
+ "offerId": "655204151170",
+ "条目": "H0166",
+ "block": false,
+ "卖家公司": "凤阳丰逸玻璃制品有限公司",
+ "旺旺名": "cgl1618",
+ "标题": "玻璃保鲜盒可微波食品密封盒午餐盒耐高温玻璃碗大容量饭盒便当盒",
+ "状态": "PUBLISHED",
+ "类目": "保鲜盒、饭盒",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "规格",
+   "值": [
+    "【玻璃饭盒 可免费设计 可印logo 烤花】",
+    "【出口 走柜】可联系 大客户销售经理",
+    "【FCM检测资质 品质保证】",
+    "岩蓝小长410ML",
+    "抹茶绿小长410ML",
+    "岩粉小长410ML",
+    "透明白小长410ml",
+    "岩粉中长两隔650ML",
+    "岩蓝中长两隔650ML",
+    "抹茶绿中长两隔650ML",
+    "岩粉中长680ML",
+    "岩蓝中长680ML",
+    "抹茶绿中长680ML",
+    "岩粉大长三隔960ML",
+    "岩蓝大长三隔960ML",
+    "透明白中长680ml",
+    "抹茶绿大长三隔960ML",
+    "奶白大长三隔960ML",
+    "岩粉大长两隔1000ML",
+    "透明白大长三隔1040ml",
+    "岩蓝大长两隔1000ML",
+    "抹茶绿大长两隔1000ML",
+    "透明白大长二隔1000ml",
+    "奶白大长两隔1000ML",
+    "岩粉大长1040ML",
+    "岩蓝大长1040ML",
+    "抹茶绿大长1040ML",
+    "奶白大长1040ML",
+    "透明白大长1040ml",
+    "岩粉特大长1520",
+    "岩蓝特大长1520",
+    "抹茶绿特大长1520",
+    "岩粉小圆420ML",
+    "岩蓝小圆420ML",
+    "抹茶绿小圆420ML",
+    "岩粉中圆660ML",
+    "岩蓝中圆660ML",
+    "抹茶绿中圆660ML",
+    "奶白中圆660ML",
+    "岩粉大圆950ML",
+    "岩蓝大圆950ML",
+    "抹茶绿大圆950ML",
+    "岩粉汤碗750ML",
+    "岩蓝汤碗750ML",
+    "抹茶绿汤碗750ML",
+    "星海蓝汤碗750ML",
+    "青山黛汤碗750ML",
+    "方形岩蓝汤碗800ML",
+    "保温餐包（默认火烈鸟包）"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "奶白大长1040ML",
+   "价格": "9.99",
+   "库存": 99973
+  },
+  {
+   "规格": "抹茶绿中圆660ML",
+   "价格": "5.20",
+   "库存": 92749
+  },
+  {
+   "规格": "岩粉大长三隔960ML",
+   "价格": "10.80",
+   "库存": 95433
+  },
+  {
+   "规格": "【玻璃饭盒 可免费设计 可印logo 烤花】",
+   "价格": "8.80",
+   "库存": 5000
+  },
+  {
+   "规格": "透明白大长三隔1040ml",
+   "价格": "10.80",
+   "库存": 99501
+  },
+  {
+   "规格": "岩粉大长1040ML",
+   "价格": "7.80",
+   "库存": 78089
+  },
+  {
+   "规格": "【FCM检测资质 品质保证】",
+   "价格": "8.80",
+   "库存": 5000
+  },
+  {
+   "规格": "岩蓝特大长1520",
+   "价格": "11.80",
+   "库存": 94644
+  },
+  {
+   "规格": "保温餐包（默认火烈鸟包）",
+   "价格": "8.80",
+   "库存": 4983
+  },
+  {
+   "规格": "岩蓝大长三隔960ML",
+   "价格": "10.80",
+   "库存": 94097
+  },
+  {
+   "规格": "抹茶绿大长1040ML",
+   "价格": "7.80",
+   "库存": 91974
+  },
+  {
+   "规格": "抹茶绿大长三隔960ML",
+   "价格": "10.80",
+   "库存": 98678
+  },
+  {
+   "规格": "岩蓝中长两隔650ML",
+   "价格": "7.10",
+   "库存": 90759
+  },
+  {
+   "规格": "岩粉大长两隔1000ML",
+   "价格": "9.90",
+   "库存": 97282
+  },
+  {
+   "规格": "抹茶绿小长410ML",
+   "价格": "4.20",
+   "库存": 76659
+  },
+  {
+   "规格": "抹茶绿中长两隔650ML",
+   "价格": "7.10",
+   "库存": 96035
+  },
+  {
+   "规格": "岩蓝小长410ML",
+   "价格": "4.20",
+   "库存": 75098
+  },
+  {
+   "规格": "岩蓝大长1040ML",
+   "价格": "7.80",
+   "库存": 78203
+  },
+  {
+   "规格": "岩粉中长680ML",
+   "价格": "5.80",
+   "库存": 85463
+  },
+  {
+   "规格": "透明白中长680ml",
+   "价格": "5.80",
+   "库存": 6385
+  },
+  {
+   "规格": "岩粉小长410ML",
+   "价格": "4.20",
+   "库存": 80893
+  },
+  {
+   "规格": "透明白小长410ml",
+   "价格": "4.20",
+   "库存": 6598
+  },
+  {
+   "规格": "奶白中圆660ML",
+   "价格": "6.20",
+   "库存": 99991
+  },
+  {
+   "规格": "岩蓝中长680ML",
+   "价格": "5.80",
+   "库存": 88132
+  },
+  {
+   "规格": "抹茶绿中长680ML",
+   "价格": "5.80",
+   "库存": 78452
+  },
+  {
+   "规格": "抹茶绿特大长1520",
+   "价格": "11.80",
+   "库存": 91240
+  },
+  {
+   "规格": "岩粉大圆950ML",
+   "价格": "6.80",
+   "库存": 92769
+  },
+  {
+   "规格": "抹茶绿大长两隔1000ML",
+   "价格": "9.80",
+   "库存": 86296
+  },
+  {
+   "规格": "方形岩蓝汤碗800ML",
+   "价格": "6.50",
+   "库存": 4519
+  },
+  {
+   "规格": "星海蓝汤碗750ML",
+   "价格": "5.49",
+   "库存": 4836
+  },
+  {
+   "规格": "岩粉汤碗750ML",
+   "价格": "5.49",
+   "库存": 4447
+  },
+  {
+   "规格": "抹茶绿小圆420ML",
+   "价格": "4.00",
+   "库存": 92687
+  },
+  {
+   "规格": "抹茶绿大圆950ML",
+   "价格": "6.80",
+   "库存": 93088
+  },
+  {
+   "规格": "岩蓝汤碗750ML",
+   "价格": "5.49",
+   "库存": 4086
+  },
+  {
+   "规格": "岩蓝大长两隔1000ML",
+   "价格": "9.80",
+   "库存": 89429
+  },
+  {
+   "规格": "岩蓝大圆950ML",
+   "价格": "6.80",
+   "库存": 93152
+  },
+  {
+   "规格": "抹茶绿汤碗750ML",
+   "价格": "5.49",
+   "库存": 4112
+  },
+  {
+   "规格": "透明白大长1040ml",
+   "价格": "7.80",
+   "库存": 6553
+  },
+  {
+   "规格": "岩蓝中圆660ML",
+   "价格": "5.20",
+   "库存": 91257
+  },
+  {
+   "规格": "奶白大长两隔1000ML",
+   "价格": "11.60",
+   "库存": 6658
+  },
+  {
+   "规格": "奶白大长三隔960ML",
+   "价格": "11.20",
+   "库存": 6651
+  },
+  {
+   "规格": "岩粉特大长1520",
+   "价格": "11.80",
+   "库存": 94219
+  },
+  {
+   "规格": "青山黛汤碗750ML",
+   "价格": "5.49",
+   "库存": 4703
+  },
+  {
+   "规格": "透明白大长二隔1000ml",
+   "价格": "10.60",
+   "库存": 99484
+  },
+  {
+   "规格": "岩粉中圆660ML",
+   "价格": "5.20",
+   "库存": 90757
+  },
+  {
+   "规格": "岩蓝小圆420ML",
+   "价格": "4.00",
+   "库存": 82104
+  },
+  {
+   "规格": "岩粉中长两隔650ML",
+   "价格": "7.10",
+   "库存": 94119
+  },
+  {
+   "规格": "【出口 走柜】可联系 大客户销售经理",
+   "价格": "8.80",
+   "库存": 5000
+  },
+  {
+   "规格": "岩粉小圆420ML",
+   "价格": "4.00",
+   "库存": 77228
+  }
+ ],
+ "规格图": [
+  [
+   "【玻璃饭盒 可免费设计 可印logo 烤花】",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01WG0u6A1qwXGDuYWrU_!!1785365560-0-cib.jpg"
+  ],
+  [
+   "【出口 走柜】可联系 大客户销售经理",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01pgdx3j1qwXGE4KmM5_!!1785365560-0-cib.jpg"
+  ],
+  [
+   "【FCM检测资质 品质保证】",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01pgdx3j1qwXGE4KmM5_!!1785365560-0-cib.jpg"
+  ],
+  [
+   "岩蓝小长410ML",
+   "https://cbu01.alicdn.com/img/ibank/O1CN011wyE0s1qwWpVrVejw_!!1785365560-0-cib.jpg"
+  ],
+  [
+   "抹茶绿小长410ML",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01gMjcma1qwWpRf1OCi_!!1785365560-0-cib.jpg"
+  ],
+  [
+   "岩粉小长410ML",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01OUnps91qwWpKaI3M3_!!1785365560-0-cib.jpg"
+  ],
+  [
+   "透明白小长410ml",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01zf9p0O1qwXBe596Hz_!!1785365560-0-cib.jpg"
+  ],
+  [
+   "岩粉中长两隔650ML",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01J8O8TD1qwWpMdQEum_!!1785365560-0-cib.jpg"
+  ],
+  [
+   "岩蓝中长两隔650ML",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01deyi1i1qwWpKaKKmp_!!1785365560-0-cib.jpg"
+  ],
+  [
+   "抹茶绿中长两隔650ML",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01zV91001qwWpOlXqRR_!!1785365560-0-cib.jpg"
+  ],
+  [
+   "岩粉中长680ML",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01PF4NG71qwWpT8DaWn_!!1785365560-0-cib.jpg"
+  ],
+  [
+   "岩蓝中长680ML",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01u12kcZ1qwWpOlZBZU_!!1785365560-0-cib.jpg"
+  ],
+  [
+   "抹茶绿中长680ML",
+   "https://cbu01.alicdn.com/img/ibank/O1CN011wvxcg1qwWpQWVSXD_!!1785365560-0-cib.jpg"
+  ],
+  [
+   "岩粉大长三隔960ML",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01U80d3e1qwWpM4oHqX_!!1785365560-0-cib.jpg"
+  ],
+  [
+   "岩蓝大长三隔960ML",
+   "https://cbu01.alicdn.com/img/ibank/O1CN013WAJf91qwWpVrWC1a_!!1785365560-0-cib.jpg"
+  ],
+  [
+   "透明白中长680ml",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01wiJHGX1qwXBdhbBCC_!!1785365560-0-cib.jpg"
+  ],
+  [
+   "抹茶绿大长三隔960ML",
+   "https://cbu01.alicdn.com/img/ibank/O1CN014z90s11qwWpVrW3hl_!!1785365560-0-cib.jpg"
+  ],
+  [
+   "奶白大长三隔960ML",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01HDJUjy1qwXBeV196m_!!1785365560-0-cib.jpg"
+  ],
+  [
+   "岩粉大长两隔1000ML",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01tEvTFI1qwWpSfV2rU_!!1785365560-0-cib.jpg"
+  ],
+  [
+   "透明白大长三隔1040ml",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01tIANt51qwXBekFCNy_!!1785365560-0-cib.jpg"
+  ],
+  [
+   "岩蓝大长两隔1000ML",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01XagWt51qwWpMdPEXK_!!1785365560-0-cib.jpg"
+  ],
+  [
+   "抹茶绿大长两隔1000ML",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01GyvEkN1qwWpQWU7OE_!!1785365560-0-cib.jpg"
+  ],
+  [
+   "透明白大长二隔1000ml",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01W0JqNd1qwXBXeCcDU_!!1785365560-0-cib.jpg"
+  ],
+  [
+   "奶白大长两隔1000ML",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01kspjEI1qwXBeLWl0j_!!1785365560-0-cib.jpg"
+  ],
+  [
+   "岩粉大长1040ML",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01FTXmC91qwWpPLmRIY_!!1785365560-0-cib.jpg"
+  ],
+  [
+   "岩蓝大长1040ML",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01x1zBOI1qwWpOlX2ZG_!!1785365560-0-cib.jpg"
+  ],
+  [
+   "抹茶绿大长1040ML",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01uqvkw21qwWpVrYoC6_!!1785365560-0-cib.jpg"
+  ],
+  [
+   "奶白大长1040ML",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01jzaBIk1qwXBfVn5E5_!!1785365560-0-cib.jpg"
+  ],
+  [
+   "透明白大长1040ml",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01i77pQ51qwXBdkLNMq_!!1785365560-0-cib.jpg"
+  ],
+  [
+   "岩粉特大长1520",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01papMru1qwWpUEHSFe_!!1785365560-0-cib.jpg"
+  ],
+  [
+   "岩蓝特大长1520",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01yejc8c1qwWpKaKfbe_!!1785365560-0-cib.jpg"
+  ],
+  [
+   "抹茶绿特大长1520",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01fs2Uqh1qwWpRf595H_!!1785365560-0-cib.jpg"
+  ],
+  [
+   "岩粉小圆420ML",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01aRrhZj1qwWpXLFYMd_!!1785365560-0-cib.jpg"
+  ],
+  [
+   "岩蓝小圆420ML",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01ryxPcl1qwWpWc0jsh_!!1785365560-0-cib.jpg"
+  ],
+  [
+   "抹茶绿小圆420ML",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01dDS6On1qwWpNNfY3e_!!1785365560-0-cib.jpg"
+  ],
+  [
+   "岩粉中圆660ML",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01yFGo8O1qwWpXLHy56_!!1785365560-0-cib.jpg"
+  ],
+  [
+   "岩蓝中圆660ML",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01OBIfgm1qwWpWc1HAK_!!1785365560-0-cib.jpg"
+  ],
+  [
+   "抹茶绿中圆660ML",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01amOmcQ1qwWpPa2KDP_!!1785365560-0-cib.jpg"
+  ],
+  [
+   "奶白中圆660ML",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01SsWK9M1qwXBcbCE4u_!!1785365560-0-cib.jpg"
+  ],
+  [
+   "岩粉大圆950ML",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01ZLlzd71qwWpPVotu1_!!1785365560-0-cib.jpg"
+  ],
+  [
+   "岩蓝大圆950ML",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01Fzpizl1qwWpLKgQGD_!!1785365560-0-cib.jpg"
+  ],
+  [
+   "抹茶绿大圆950ML",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01cDs4y21qwWpXLEgHs_!!1785365560-0-cib.jpg"
+  ],
+  [
+   "岩粉汤碗750ML",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01tFEQUE1qwWq25MAFo_!!1785365560-0-cib.jpg"
+  ],
+  [
+   "岩蓝汤碗750ML",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01nxD8Ge1qwWq2P92xS_!!1785365560-0-cib.jpg"
+  ],
+  [
+   "抹茶绿汤碗750ML",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01h4xZ3t1qwWq6BlwTa_!!1785365560-0-cib.jpg"
+  ],
+  [
+   "星海蓝汤碗750ML",
+   "https://cbu01.alicdn.com/img/ibank/O1CN013fnl401qwWq6vTHfK_!!1785365560-0-cib.jpg"
+  ],
+  [
+   "青山黛汤碗750ML",
+   "https://cbu01.alicdn.com/img/ibank/O1CN012LM3TU1qwWq0Y5On4_!!1785365560-0-cib.jpg"
+  ],
+  [
+   "方形岩蓝汤碗800ML",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01JeazFN1qwWxp8wD3a_!!1785365560-0-cib.jpg"
+  ],
+  [
+   "保温餐包（默认火烈鸟包）",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01PtdNy21qwXFaGt1fE_!!1785365560-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "skuPrice",
+ "价格区间": "4.00-11.80",
+ "阶梯价_登录后": [
+  {
+   "price": "4.00",
+   "beginAmount": 1
+  },
+  {
+   "price": "11.80",
+   "beginAmount": 1
+  }
+ ],
+ "到手价": {
+  "价": "2",
+  "说明": "新人价",
+  "件数": 1
+ },
+ "起订量": 1,
+ "单位": "件",
+ "可售总量": 3139465,
+ "已售": 13525,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN0199f5VC1qwWpUwgyTp_!!1785365560-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN015tGNFD1qwWpM4plN9_!!1785365560-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01fpuEAl1qwWpUEF6im_!!1785365560-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01ZEqRL01qwXCGp1jIr_!!1785365560-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01AGONGF1qwXA6xfD2X_!!1785365560-0-cib.jpg"
+ ],
+ "商品属性": [
+  "材质:耐热玻璃+PP塑料+食用级硅胶",
+  "容量:800-1000ml/301-500ML/501-800ML/300mL及以下",
+  "功能:家用/大容量/密封/耐低温/耐高温/分格",
+  "是否保温:否",
+  "盒子层数:单层/双层",
+  "品牌:欣美雅",
+  "产品类别:饭盒",
+  "是否进口:否",
+  "货号:严选-24-4-6-玻璃碗",
+  "形状:圆形 方形",
+  "微波炉:可用",
+  "风格:现代简约",
+  "图案:纯色  可印图案",
+  "适用人群:成人",
+  "贸易属性:内贸+外贸",
+  "箱装数量:36",
+  "适用送礼场合:婚庆/生日/节日/乔迁/展销会/广告促销/员工福利/周年庆典/商务馈赠/开业典礼/颁奖纪念/公关策划",
+  "加印LOGO:可以",
+  "加工定制:是",
+  "产品上市时间:2021年春",
+  "价格段:5-10元",
+  "是否一次性:否",
+  "是否有专利:无",
+  "规格:【玻璃饭盒 可免费设计 可印logo 烤花】/【出口 走柜】可联系 大客户销售经理/【FCM检测资质 品质保证】/岩蓝小长410ML/抹茶绿小长410ML/岩粉小长410ML/透明白小长410ml/岩粉中长两隔650ML/岩蓝中长两隔650ML/抹茶绿中长两隔650ML/岩粉中长680ML/岩蓝中长680ML/抹茶绿中长680ML/岩粉大长三隔960ML/岩蓝大长三隔960ML/透明白中长680ml/抹茶绿大长三隔960ML/奶白大长三隔960ML/岩粉大长两隔1000ML/透明白大长三隔1040ml/岩蓝大长两隔1000ML/抹茶绿大长两隔1000ML/透明白大长二隔1000ml/奶白大长两隔1000ML/岩粉大长1040ML/岩蓝大长1040ML/抹茶绿大长1040ML/奶白大长1040ML/透明白大长1040ml/岩粉特大长1520/岩蓝特大长1520/抹茶绿特大长1520/岩粉小圆420ML/岩蓝小圆420ML/抹茶绿小圆420ML/岩粉中圆660ML/岩蓝中圆660ML/抹茶绿中圆660ML/奶白中圆660ML/岩粉大圆950ML/岩蓝大圆950ML/抹茶绿大圆950ML/岩粉汤碗750ML/岩蓝汤碗750ML/抹茶绿汤碗750ML/星海蓝汤碗750ML/青山黛汤碗750ML/方形岩蓝汤碗800ML/保温餐包（默认火烈鸟包）",
+  "产品质量等级:一等品",
+  "是否跨境出口专供货源:否",
+  "是否电动:否",
+  "版权:无",
+  "场景:学生上班族带饭带水果",
+  "款式:市场流行款",
+  "品类:家居厨房用品",
+  "饭盒可进微波炉:便当盒",
+  "风格类型:简约格调",
+  "密封盒:微波炉加热碗",
+  "分格设计:无分隔",
+  "饭盒上班族专用:保鲜盒食品级"
+ ],
+ "包装信息": [
+  {
+   "volume": 0,
+   "sku1": "【玻璃饭盒 可免费设计 可印logo 烤花】",
+   "length": 0,
+   "width": 0,
+   "weight": 1,
+   "skuId": 6067329524551,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "【出口 走柜】可联系 大客户销售经理",
+   "length": 0,
+   "width": 0,
+   "weight": 1,
+   "skuId": 6067329524552,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "【FCM检测资质 品质保证】",
+   "length": 0,
+   "width": 0,
+   "weight": 1,
+   "skuId": 6067329524553,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "岩蓝小长410ML",
+   "length": 0,
+   "width": 0,
+   "weight": 350,
+   "skuId": 4720297372852,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "抹茶绿小长410ML",
+   "length": 0,
+   "width": 0,
+   "weight": 350,
+   "skuId": 4720297372853,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "岩粉小长410ML",
+   "length": 0,
+   "width": 0,
+   "weight": 350,
+   "skuId": 4720297372851,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "透明白小长410ml",
+   "length": 0,
+   "width": 0,
+   "weight": 350,
+   "skuId": 5988764494119,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "岩粉中长两隔650ML",
+   "length": 0,
+   "width": 0,
+   "weight": 530,
+   "skuId": 4720297372854,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "岩蓝中长两隔650ML",
+   "length": 0,
+   "width": 0,
+   "weight": 530,
+   "skuId": 4720297372855,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "抹茶绿中长两隔650ML",
+   "length": 0,
+   "width": 0,
+   "weight": 530,
+   "skuId": 4720297372856,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "岩粉中长680ML",
+   "length": 0,
+   "width": 0,
+   "weight": 480,
+   "skuId": 4720297372857,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "岩蓝中长680ML",
+   "length": 0,
+   "width": 0,
+   "weight": 480,
+   "skuId": 4720297372858,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "抹茶绿中长680ML",
+   "length": 0,
+   "width": 0,
+   "weight": 480,
+   "skuId": 4720297372859,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "岩粉大长三隔960ML",
+   "length": 0,
+   "width": 0,
+   "weight": 810,
+   "skuId": 4720297372860,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "岩蓝大长三隔960ML",
+   "length": 0,
+   "width": 0,
+   "weight": 810,
+   "skuId": 4720297372861,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "透明白中长680ml",
+   "length": 0,
+   "width": 0,
+   "weight": 480,
+   "skuId": 5988764494120,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "抹茶绿大长三隔960ML",
+   "length": 0,
+   "width": 0,
+   "weight": 810,
+   "skuId": 4842625960013,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "奶白大长三隔960ML",
+   "length": 0,
+   "width": 0,
+   "weight": 810,
+   "skuId": 5988764494124,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "岩粉大长两隔1000ML",
+   "length": 0,
+   "width": 0,
+   "weight": 750,
+   "skuId": 4720297372863,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "透明白大长三隔1040ml",
+   "length": 0,
+   "width": 0,
+   "weight": 810,
+   "skuId": 5988764494125,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "岩蓝大长两隔1000ML",
+   "length": 0,
+   "width": 0,
+   "weight": 750,
+   "skuId": 4720297372864,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "抹茶绿大长两隔1000ML",
+   "length": 0,
+   "width": 0,
+   "weight": 750,
+   "skuId": 4720297372865,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "透明白大长二隔1000ml",
+   "length": 0,
+   "width": 0,
+   "weight": 750,
+   "skuId": 5988764494126,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "奶白大长两隔1000ML",
+   "length": 0,
+   "width": 0,
+   "weight": 750,
+   "skuId": 5988764494123,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "岩粉大长1040ML",
+   "length": 0,
+   "width": 0,
+   "weight": 689,
+   "skuId": 4720297372866,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "岩蓝大长1040ML",
+   "length": 0,
+   "width": 0,
+   "weight": 689,
+   "skuId": 4720297372867,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "抹茶绿大长1040ML",
+   "length": 0,
+   "width": 0,
+   "weight": 689,
+   "skuId": 4720297372868,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "奶白大长1040ML",
+   "length": 0,
+   "width": 0,
+   "weight": 689,
+   "skuId": 5988764494122,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "透明白大长1040ml",
+   "length": 0,
+   "width": 0,
+   "weight": 689,
+   "skuId": 5988764494118,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "岩粉特大长1520",
+   "length": 0,
+   "width": 0,
+   "weight": 900,
+   "skuId": 4720297372869,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "岩蓝特大长1520",
+   "length": 0,
+   "width": 0,
+   "weight": 900,
+   "skuId": 4720297372870,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "抹茶绿特大长1520",
+   "length": 0,
+   "width": 0,
+   "weight": 900,
+   "skuId": 4720297372871,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "岩粉小圆420ML",
+   "length": 0,
+   "width": 0,
+   "weight": 310,
+   "skuId": 4918714671264,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "岩蓝小圆420ML",
+   "length": 0,
+   "width": 0,
+   "weight": 310,
+   "skuId": 4918714671265,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "抹茶绿小圆420ML",
+   "length": 0,
+   "width": 0,
+   "weight": 310,
+   "skuId": 4918714671266,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "岩粉中圆660ML",
+   "length": 0,
+   "width": 0,
+   "weight": 420,
+   "skuId": 4918714671267,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "岩蓝中圆660ML",
+   "length": 0,
+   "width": 0,
+   "weight": 420,
+   "skuId": 4918714671269,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "抹茶绿中圆660ML",
+   "length": 0,
+   "width": 0,
+   "weight": 420,
+   "skuId": 4918714671271,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "奶白中圆660ML",
+   "length": 0,
+   "width": 0,
+   "weight": 420,
+   "skuId": 5988764494121,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "岩粉大圆950ML",
+   "length": 0,
+   "width": 0,
+   "weight": 580,
+   "skuId": 4918714671268,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "岩蓝大圆950ML",
+   "length": 0,
+   "width": 0,
+   "weight": 580,
+   "skuId": 4918714671270,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "抹茶绿大圆950ML",
+   "length": 0,
+   "width": 0,
+   "weight": 580,
+   "skuId": 4918714671272,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "岩粉汤碗750ML",
+   "length": 0,
+   "width": 0,
+   "weight": 500,
+   "skuId": 4843406872239,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "岩蓝汤碗750ML",
+   "length": 0,
+   "width": 0,
+   "weight": 500,
+   "skuId": 4843406872236,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "抹茶绿汤碗750ML",
+   "length": 0,
+   "width": 0,
+   "weight": 500,
+   "skuId": 4843406872237,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "星海蓝汤碗750ML",
+   "length": 0,
+   "width": 0,
+   "weight": 500,
+   "skuId": 4843406872240,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "青山黛汤碗750ML",
+   "length": 0,
+   "width": 0,
+   "weight": 500,
+   "skuId": 4843406872238,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "方形岩蓝汤碗800ML",
+   "length": 0,
+   "width": 0,
+   "weight": 500,
+   "skuId": 5186816127818,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "保温餐包（默认火烈鸟包）",
+   "length": 0,
+   "width": 0,
+   "weight": 150,
+   "skuId": 6035678500789,
+   "height": 0
+  }
+ ],
+ "url": "https://detail.1688.com/offer/655204151170.html",
+ "核页时间": "2026-10-06T15:27:53.376Z"
+}

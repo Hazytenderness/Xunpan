@@ -1,0 +1,109 @@
+{
+ "offerId": "1034609432190",
+ "条目": "H0515",
+ "block": false,
+ "卖家公司": "广州科宠信息科技有限公司",
+ "旺旺名": "佩贝乐01",
+ "标题": "宠物猫抓板猫窝白卡椭圆形猫抓板耐磨不掉屑猫咪抓板耐抓玩具",
+ "状态": "PUBLISHED",
+ "类目": "猫抓板",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "颜色",
+   "值": [
+    "双层大号猫抓板窝(64*31*31)CM",
+    "绿色"
+   ]
+  },
+  {
+   "属性": "规格",
+   "值": [
+    "白色"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "双层大号猫抓板窝(64*31*31)CM&gt;白色",
+   "价格": "80.00",
+   "库存": 4224
+  },
+  {
+   "规格": "绿色&gt;白色",
+   "价格": "60.00",
+   "库存": 3953
+  }
+ ],
+ "规格图": [
+  [
+   "双层大号猫抓板窝(64*31*31)CM",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01abUl822MSpGbvHuo1_!!2212738429827-0-cib.jpg"
+  ],
+  [
+   "绿色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01SN7gXu2MSorR9Aaiy_!!2212738429827-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "skuPrice",
+ "价格区间": null,
+ "阶梯价_登录后": [
+  {
+   "price": "60.00",
+   "beginAmount": 5
+  },
+  {
+   "price": "80.00",
+   "beginAmount": 5
+  }
+ ],
+ "到手价": null,
+ "起订量": 5,
+ "单位": "个",
+ "可售总量": 8177,
+ "已售": 1323,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01ed7a6x2MSpHitOFEW_!!2212738429827-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN011XKMiF2MSpGc5RudN_!!2212738429827-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01F5RzDC2MSpGcx6XOY_!!2212738429827-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01Ev9Dak2MSpGcqQdO1_!!2212738429827-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01DqvUG01z5FjoRbrN0_!!6000000006662-0-cib.jpg"
+ ],
+ "商品属性": [
+  "材质:瓦楞纸",
+  "品牌:佩贝来",
+  "风格:简约",
+  "是否专利货源:是",
+  "专利类型:外观设计专利",
+  "是否跨境出口专供货源:否",
+  "货号:其他",
+  "颜色:双层大号猫抓板窝(64*31*31)CM/绿色",
+  "专利号:需要在发",
+  "箱装数量:1",
+  "规格:白色"
+ ],
+ "包装信息": [
+  {
+   "sku2": "白色",
+   "volume": 61504,
+   "sku1": "双层大号猫抓板窝(64*31*31)CM",
+   "length": 64,
+   "width": 31,
+   "weight": 4000,
+   "skuId": 6048295025276,
+   "height": 31
+  },
+  {
+   "sku2": "白色",
+   "volume": 61504,
+   "sku1": "绿色",
+   "length": 64,
+   "width": 31,
+   "weight": 40000,
+   "skuId": 6260906698929,
+   "height": 31
+  }
+ ],
+ "url": "https://detail.1688.com/offer/1034609432190.html",
+ "核页时间": "2026-10-06T17:11:46.700Z"
+}

@@ -1,0 +1,155 @@
+{
+ "offerId": "988083305482",
+ "条目": "H0884",
+ "block": false,
+ "卖家公司": "高阳县朴希纺织品有限公司",
+ "旺旺名": "朴希纺织品",
+ "标题": "朴希纯棉提花猫咪浴巾新疆长绒棉柔软吸水加厚家用a类抗菌大浴巾",
+ "状态": "PUBLISHED",
+ "类目": "浴巾、沙滩巾",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "颜色",
+   "值": [
+    "粉紫色",
+    "白蓝色",
+    "棕色",
+    "绿色"
+   ]
+  },
+  {
+   "属性": "规格（长*宽cm）",
+   "值": [
+    "浴巾：70cm*140cm"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "白蓝色&gt;浴巾：70cm*140cm",
+   "价格": "28.50",
+   "库存": 9898
+  },
+  {
+   "规格": "绿色&gt;浴巾：70cm*140cm",
+   "价格": "28.50",
+   "库存": 9943
+  },
+  {
+   "规格": "棕色&gt;浴巾：70cm*140cm",
+   "价格": "28.50",
+   "库存": 9971
+  },
+  {
+   "规格": "粉紫色&gt;浴巾：70cm*140cm",
+   "价格": "28.50",
+   "库存": 9950
+  }
+ ],
+ "规格图": [
+  [
+   "粉紫色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN0106yXaF26b2UJ3jxni_!!2220905947679-0-cib.jpg"
+  ],
+  [
+   "白蓝色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01iTPZ1126b2UH7RcCD_!!2220905947679-0-cib.jpg"
+  ],
+  [
+   "棕色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01sOddoh26b2UIL0tIO_!!2220905947679-0-cib.jpg"
+  ],
+  [
+   "绿色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01g8mqKj26b2UI3rKmo_!!2220905947679-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "rangePrice",
+ "价格区间": "27.00-28.50",
+ "阶梯价_登录后": [
+  {
+   "price": "28.50",
+   "beginAmount": 1
+  },
+  {
+   "price": "28.00",
+   "beginAmount": 200
+  },
+  {
+   "price": "27.00",
+   "beginAmount": 500
+  }
+ ],
+ "到手价": {
+  "价": "26.5",
+  "说明": "新人价",
+  "件数": 1
+ },
+ "起订量": 1,
+ "单位": "条",
+ "可售总量": 39762,
+ "已售": 223,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01S4xG3226b2UIm5GIJ_!!2220905947679-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01Rcyfxm26b2UCnWtH2_!!2220905947679-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01k3Ne3T26b2UIDnlY1_!!2220905947679-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01noXJji26b2UI2QeQl_!!2220905947679-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01v8ifMh26b2UHVQzHE_!!2220905947679-0-cib.jpg"
+ ],
+ "商品属性": [
+  "材质:纯棉",
+  "品牌:朴希",
+  "克重:300g（含）-400g（不含）",
+  "制作工艺:包边/提花/平织",
+  "货号:叠叠猫浴巾",
+  "加工定制:是",
+  "颜色:粉紫色/白蓝色/棕色/绿色",
+  "规格（长*宽cm）:浴巾：70cm*140cm",
+  "纱线规格:32股"
+ ],
+ "包装信息": [
+  {
+   "sku2": "浴巾：70cm*140cm",
+   "volume": 0,
+   "sku1": "粉紫色",
+   "length": 0,
+   "width": 0,
+   "weight": 380,
+   "skuId": 5951862740473,
+   "height": 0
+  },
+  {
+   "sku2": "浴巾：70cm*140cm",
+   "volume": 0,
+   "sku1": "白蓝色",
+   "length": 0,
+   "width": 0,
+   "weight": 380,
+   "skuId": 5951862740474,
+   "height": 0
+  },
+  {
+   "sku2": "浴巾：70cm*140cm",
+   "volume": 0,
+   "sku1": "棕色",
+   "length": 0,
+   "width": 0,
+   "weight": 380,
+   "skuId": 5951862740475,
+   "height": 0
+  },
+  {
+   "sku2": "浴巾：70cm*140cm",
+   "volume": 0,
+   "sku1": "绿色",
+   "length": 0,
+   "width": 0,
+   "weight": 380,
+   "skuId": 5951862740476,
+   "height": 0
+  }
+ ],
+ "url": "https://detail.1688.com/offer/988083305482.html",
+ "核页时间": "2026-10-06T18:53:58.539Z"
+}

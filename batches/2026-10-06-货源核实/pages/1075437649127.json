@@ -1,0 +1,72 @@
+{
+ "offerId": "1075437649127",
+ "条目": "H0756",
+ "block": false,
+ "卖家公司": "武汉市豆包喵宠物用品厂(个人独资)",
+ "旺旺名": "豆包猫喵",
+ "标题": "天然原木鹦鹉秋千中小型鸟解闷吊站架虎皮牡丹玄凤鸟笼栖息玩耍",
+ "状态": "PUBLISHED",
+ "类目": "鸟类",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "规格",
+   "值": [
+    "木排秋千站架"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "木排秋千站架",
+   "价格": "5.80",
+   "库存": 2997
+  }
+ ],
+ "规格图": [
+  [
+   "木排秋千站架",
+   "https://cbu01.alicdn.com/img/ibank/O1CN014IXw0PUpgqE1chua_!!2219678930879-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "skuPrice",
+ "价格区间": "5.80",
+ "阶梯价_登录后": [
+  {
+   "price": "5.80",
+   "beginAmount": 1
+  }
+ ],
+ "到手价": null,
+ "起订量": 1,
+ "单位": "个",
+ "可售总量": 2997,
+ "已售": 3,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01a8B5l25EfVC1chua_!!2219678930879-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01UdxsmHpgRXH1chua_!!2219678930879-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01D9yF9xrjRsD1chua_!!2219678930879-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01zMwyyEBlfUF1chua_!!2219678930879-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01Jbmw24oEvzJ1chua_!!2219678930879-0-cib.jpg"
+ ],
+ "商品属性": [
+  "体型:小型",
+  "年龄:成年",
+  "是否进口:否",
+  "货号:天然花椒木",
+  "规格:木排秋千站架"
+ ],
+ "包装信息": [
+  {
+   "volume": 0,
+   "sku1": "木排秋千站架",
+   "length": 0,
+   "width": 0,
+   "weight": 10,
+   "skuId": 6125566900507,
+   "height": 0
+  }
+ ],
+ "url": "https://detail.1688.com/offer/1075437649127.html",
+ "核页时间": "2026-10-06T18:18:17.592Z"
+}

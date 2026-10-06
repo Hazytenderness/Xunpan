@@ -1,0 +1,245 @@
+{
+ "offerId": "935517999342",
+ "条目": "H0940",
+ "block": false,
+ "卖家公司": "河间合鑫日用玻璃制品厂",
+ "旺旺名": "合鑫日用玻璃制品厂",
+ "标题": "家用待客凉水壶竹盖直身壶高硼硅花茶壶果汁冷饮壶耐高温泡茶壶",
+ "状态": "PUBLISHED",
+ "类目": "冷水壶",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "容量",
+   "值": [
+    "1L竹木盖",
+    "1.2L竹木盖",
+    "1.5L竹木盖",
+    "1L竹包钢盖",
+    "1.2L竹包钢盖",
+    "1.5L竹包钢盖",
+    "1L不锈钢双向出口盖",
+    "1.2L不锈钢双向出口盖",
+    "1.5L不锈钢双向出口盖"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "1L竹木盖",
+   "价格": "8.00",
+   "库存": 4566
+  },
+  {
+   "规格": "1.5L不锈钢双向出口盖",
+   "价格": "10.00",
+   "库存": 98670
+  },
+  {
+   "规格": "1L竹包钢盖",
+   "价格": "8.50",
+   "库存": 99651
+  },
+  {
+   "规格": "1L不锈钢双向出口盖",
+   "价格": "8.50",
+   "库存": 99566
+  },
+  {
+   "规格": "1.5L竹木盖",
+   "价格": "9.50",
+   "库存": 99793
+  },
+  {
+   "规格": "1.5L竹包钢盖",
+   "价格": "10.00",
+   "库存": 99332
+  },
+  {
+   "规格": "1.2L竹包钢盖",
+   "价格": "9.00",
+   "库存": 99893
+  },
+  {
+   "规格": "1.2L竹木盖",
+   "价格": "9.00",
+   "库存": 99922
+  },
+  {
+   "规格": "1.2L不锈钢双向出口盖",
+   "价格": "9.00",
+   "库存": 98747
+  }
+ ],
+ "规格图": [
+  [
+   "1L竹木盖",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01qRe1Dw1fFyc3EUyDm_!!2211971243978-0-cib.jpg"
+  ],
+  [
+   "1.2L竹木盖",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01qRe1Dw1fFyc3EUyDm_!!2211971243978-0-cib.jpg"
+  ],
+  [
+   "1.5L竹木盖",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01qRe1Dw1fFyc3EUyDm_!!2211971243978-0-cib.jpg"
+  ],
+  [
+   "1L竹包钢盖",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01eSbT3W1fFyc181i5i_!!2211971243978-0-cib.jpg"
+  ],
+  [
+   "1.2L竹包钢盖",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01eSbT3W1fFyc181i5i_!!2211971243978-0-cib.jpg"
+  ],
+  [
+   "1.5L竹包钢盖",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01eSbT3W1fFyc181i5i_!!2211971243978-0-cib.jpg"
+  ],
+  [
+   "1L不锈钢双向出口盖",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01f2XUyy1fFyc2IT8oW_!!2211971243978-0-cib.jpg"
+  ],
+  [
+   "1.2L不锈钢双向出口盖",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01HhfkOb1fFyc2kSFur_!!2211971243978-0-cib.jpg"
+  ],
+  [
+   "1.5L不锈钢双向出口盖",
+   "https://cbu01.alicdn.com/img/ibank/O1CN012LNl3k1fFyc3IccRn_!!2211971243978-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "skuPrice",
+ "价格区间": "8.00-10.00",
+ "阶梯价_登录后": [
+  {
+   "price": "8.00",
+   "beginAmount": 1
+  },
+  {
+   "price": "10.00",
+   "beginAmount": 2
+  }
+ ],
+ "到手价": {
+  "价": "7",
+  "说明": "新人价",
+  "件数": 1
+ },
+ "起订量": 2,
+ "单位": "件",
+ "可售总量": 800140,
+ "已售": 4053,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01xtV1kM1fFyc2Xh1Md_!!2211971243978-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01Vg9pUT1fFyc1qTXSJ_!!2211971243978-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01IOnePZ1fFyc1jQwAm_!!2211971243978-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01oZSNAE1fFybv1rgv7_!!2211971243978-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN019wXu1Y1fFyc2cgM8m_!!2211971243978-0-cib.jpg"
+ ],
+ "商品属性": [
+  "材质:高硼硅玻璃",
+  "工艺:锤目纹理",
+  "品牌:自主",
+  "产品质量等级:合格品",
+  "适用范围:果汁/牛奶/饮料/花茶/冷水",
+  "是否进口:否",
+  "货号:030",
+  "加工定制:是",
+  "产品上市时间:2021年夏",
+  "价格段:5-10元",
+  "产地:沧州",
+  "是否有专利:否",
+  "加印LOGO:可以",
+  "容量:1L竹木盖/1.2L竹木盖/1.5L竹木盖/1L竹包钢盖/1.2L竹包钢盖/1.5L竹包钢盖/1L不锈钢双向出口盖/1.2L不锈钢双向出口盖/1.5L不锈钢双向出口盖",
+  "是否跨境出口专供货源:是",
+  "风格:现代简约",
+  "是否属于礼品:否",
+  "版权:无"
+ ],
+ "包装信息": [
+  {
+   "volume": 0,
+   "sku1": "1L竹木盖",
+   "length": 0,
+   "width": 0,
+   "weight": 100,
+   "skuId": 5827740520328,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "1.2L竹木盖",
+   "length": 0,
+   "width": 0,
+   "weight": 100,
+   "skuId": 5827740520324,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "1.5L竹木盖",
+   "length": 0,
+   "width": 0,
+   "weight": 100,
+   "skuId": 5827740520323,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "1L竹包钢盖",
+   "length": 0,
+   "width": 0,
+   "weight": 100,
+   "skuId": 5827740520326,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "1.2L竹包钢盖",
+   "length": 0,
+   "width": 0,
+   "weight": 100,
+   "skuId": 5827740520327,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "1.5L竹包钢盖",
+   "length": 0,
+   "width": 0,
+   "weight": 100,
+   "skuId": 5827740520325,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "1L不锈钢双向出口盖",
+   "length": 0,
+   "width": 0,
+   "weight": 100,
+   "skuId": 5827740520329,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "1.2L不锈钢双向出口盖",
+   "length": 0,
+   "width": 0,
+   "weight": 100,
+   "skuId": 5827740520330,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "1.5L不锈钢双向出口盖",
+   "length": 0,
+   "width": 0,
+   "weight": 100,
+   "skuId": 5827740520331,
+   "height": 0
+  }
+ ],
+ "url": "https://detail.1688.com/offer/935517999342.html",
+ "核页时间": "2026-10-06T19:10:59.126Z"
+}

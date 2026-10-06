@@ -1,0 +1,1349 @@
+{
+ "offerId": "850460967679",
+ "条目": "H0742",
+ "block": false,
+ "卖家公司": "汕头市澄海区双晟玩具厂(个体工商户)",
+ "旺旺名": "汕头市双晟玩具厂",
+ "标题": "仿真昆虫模型蝴蝶七星瓢虫独角仙蜜蜂蝴蝶蚂蚱儿童玩具认知教具",
+ "状态": "PUBLISHED",
+ "类目": "动物/植物仿真模型",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "颜色",
+   "值": [
+    "中号6只甲虫",
+    "中号6款昆虫螳胡蝴蜘蜈蜻",
+    "中号6款昆虫七禅蚱屎黄独",
+    "迷你实心昆虫12只",
+    "小号12款昆虫",
+    "中号12款昆虫",
+    "17只昆虫",
+    "59只昆虫套装+收纳桶",
+    "蜘蛛家族",
+    "12只亲子大号昆虫套装",
+    "24只亲子大小昆虫套装+收纳桶",
+    "24只大号昆虫+收纳桶",
+    "七星瓢虫",
+    "大蝴蝶",
+    "独角仙",
+    "天牛",
+    "黄蜂",
+    "胡蜂",
+    "蚂蚁",
+    "钳虫",
+    "蝉",
+    "金龟子",
+    "木蜂",
+    "蜻蜓",
+    "蚂蚱",
+    "大兜虫",
+    "苍蝇",
+    "蝴蝶",
+    "蟋蟀",
+    "屎壳郎",
+    "蝎子",
+    "青蛙",
+    "蜈蚣",
+    "毛毛虫",
+    "螳螂",
+    "蜘蛛",
+    "黄蜂+胡蜂",
+    "钳虫+蚂蚁",
+    "禅+天牛",
+    "金龟子+七星瓢虫",
+    "蚂蚱+大兜虫",
+    "木蜂+蜻蜓",
+    "苍蝇+蜘蛛",
+    "蟋蟀+屎壳郎",
+    "蝎子+独角仙",
+    "青蛙+蜈蚣+毛毛虫+螳螂",
+    "大蝴蝶+蝴蝶",
+    "图中大号随机4只或备注4只",
+    "图中大号随机6只或备注6只",
+    "图中大号随机8只或备注8只",
+    "图中大号随机12只或备注12只",
+    "22只昆虫",
+    "中号12只仿真昆虫",
+    "树蟒",
+    "蟒蛇",
+    "眼睛王蛇",
+    "响尾蛇",
+    "黄金巨蟒",
+    "鼓腹巨蝰",
+    "6款蛇",
+    "迷你昆虫（12只）",
+    "12款小号海洋动物",
+    "B12款小号海洋动物",
+    "12款中号海洋动物",
+    "A6款中号海洋动物",
+    "B6款中号海洋动物",
+    "新A12款两栖动物"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "蝎子+独角仙",
+   "价格": "3.70",
+   "库存": 9491
+  },
+  {
+   "规格": "新A12款两栖动物",
+   "价格": "5.20",
+   "库存": 998
+  },
+  {
+   "规格": "图中大号随机12只或备注12只",
+   "价格": "24.00",
+   "库存": 7416
+  },
+  {
+   "规格": "钳虫",
+   "价格": "2.00",
+   "库存": 9364
+  },
+  {
+   "规格": "苍蝇",
+   "价格": "2.00",
+   "库存": 9436
+  },
+  {
+   "规格": "蜈蚣",
+   "价格": "1.80",
+   "库存": 6813
+  },
+  {
+   "规格": "钳虫+蚂蚁",
+   "价格": "3.70",
+   "库存": 7298
+  },
+  {
+   "规格": "鼓腹巨蝰",
+   "价格": "1.50",
+   "库存": 1000
+  },
+  {
+   "规格": "木蜂+蜻蜓",
+   "价格": "3.70",
+   "库存": 9498
+  },
+  {
+   "规格": "蝴蝶",
+   "价格": "1.80",
+   "库存": 5930
+  },
+  {
+   "规格": "迷你昆虫（12只）",
+   "价格": "15.50",
+   "库存": 997
+  },
+  {
+   "规格": "黄蜂+胡蜂",
+   "价格": "4.50",
+   "库存": 7283
+  },
+  {
+   "规格": "金龟子",
+   "价格": "2.00",
+   "库存": 9227
+  },
+  {
+   "规格": "迷你实心昆虫12只",
+   "价格": "3.00",
+   "库存": 4997
+  },
+  {
+   "规格": "59只昆虫套装+收纳桶",
+   "价格": "34.70",
+   "库存": 7416
+  },
+  {
+   "规格": "响尾蛇",
+   "价格": "1.50",
+   "库存": 1000
+  },
+  {
+   "规格": "苍蝇+蜘蛛",
+   "价格": "3.70",
+   "库存": 9492
+  },
+  {
+   "规格": "12款中号海洋动物",
+   "价格": "5.70",
+   "库存": 992
+  },
+  {
+   "规格": "图中大号随机6只或备注6只",
+   "价格": "12.00",
+   "库存": 7750
+  },
+  {
+   "规格": "蟒蛇",
+   "价格": "1.50",
+   "库存": 1000
+  },
+  {
+   "规格": "中号12只仿真昆虫",
+   "价格": "4.20",
+   "库存": 909
+  },
+  {
+   "规格": "蜻蜓",
+   "价格": "2.00",
+   "库存": 9214
+  },
+  {
+   "规格": "毛毛虫",
+   "价格": "1.80",
+   "库存": 8820
+  },
+  {
+   "规格": "大蝴蝶+蝴蝶",
+   "价格": "3.90",
+   "库存": 9465
+  },
+  {
+   "规格": "黄蜂",
+   "价格": "2.00",
+   "库存": 9054
+  },
+  {
+   "规格": "蚂蚁",
+   "价格": "2.00",
+   "库存": 9319
+  },
+  {
+   "规格": "大兜虫",
+   "价格": "2.00",
+   "库存": 9240
+  },
+  {
+   "规格": "小号12款昆虫",
+   "价格": "3.00",
+   "库存": 6657
+  },
+  {
+   "规格": "蜘蛛家族",
+   "价格": "4.50",
+   "库存": 8549
+  },
+  {
+   "规格": "中号6只甲虫",
+   "价格": "5.40",
+   "库存": 7181
+  },
+  {
+   "规格": "24只亲子大小昆虫套装+收纳桶",
+   "价格": "42.00",
+   "库存": 7255
+  },
+  {
+   "规格": "24只大号昆虫+收纳桶",
+   "价格": "47.00",
+   "库存": 7696
+  },
+  {
+   "规格": "大蝴蝶",
+   "价格": "2.50",
+   "库存": 9153
+  },
+  {
+   "规格": "17只昆虫",
+   "价格": "6.00",
+   "库存": 8281
+  },
+  {
+   "规格": "图中大号随机8只或备注8只",
+   "价格": "16.00",
+   "库存": 7757
+  },
+  {
+   "规格": "B6款中号海洋动物",
+   "价格": "3.00",
+   "库存": 1000
+  },
+  {
+   "规格": "螳螂",
+   "价格": "1.80",
+   "库存": 8356
+  },
+  {
+   "规格": "蟋蟀+屎壳郎",
+   "价格": "3.70",
+   "库存": 9496
+  },
+  {
+   "规格": "七星瓢虫",
+   "价格": "2.00",
+   "库存": 8005
+  },
+  {
+   "规格": "蟋蟀",
+   "价格": "2.00",
+   "库存": 9222
+  },
+  {
+   "规格": "蝉",
+   "价格": "2.00",
+   "库存": 9388
+  },
+  {
+   "规格": "12只亲子大号昆虫套装",
+   "价格": "24.00",
+   "库存": 7683
+  },
+  {
+   "规格": "图中大号随机4只或备注4只",
+   "价格": "8.00",
+   "库存": 7714
+  },
+  {
+   "规格": "12款小号海洋动物",
+   "价格": "3.00",
+   "库存": 965
+  },
+  {
+   "规格": "22只昆虫",
+   "价格": "8.00",
+   "库存": 839
+  },
+  {
+   "规格": "禅+天牛",
+   "价格": "3.70",
+   "库存": 7494
+  },
+  {
+   "规格": "胡蜂",
+   "价格": "2.00",
+   "库存": 9412
+  },
+  {
+   "规格": "中号6款昆虫七禅蚱屎黄独",
+   "价格": "5.60",
+   "库存": 8555
+  },
+  {
+   "规格": "蝎子",
+   "价格": "2.00",
+   "库存": 8311
+  },
+  {
+   "规格": "蜘蛛",
+   "价格": "2.00",
+   "库存": 9136
+  },
+  {
+   "规格": "青蛙",
+   "价格": "3.00",
+   "库存": 9269
+  },
+  {
+   "规格": "木蜂",
+   "价格": "2.00",
+   "库存": 9472
+  },
+  {
+   "规格": "天牛",
+   "价格": "2.00",
+   "库存": 9178
+  },
+  {
+   "规格": "中号12款昆虫",
+   "价格": "11.20",
+   "库存": 7314
+  },
+  {
+   "规格": "B12款小号海洋动物",
+   "价格": "3.00",
+   "库存": 968
+  },
+  {
+   "规格": "A6款中号海洋动物",
+   "价格": "3.00",
+   "库存": 1000
+  },
+  {
+   "规格": "蚂蚱+大兜虫",
+   "价格": "3.70",
+   "库存": 9493
+  },
+  {
+   "规格": "黄金巨蟒",
+   "价格": "1.50",
+   "库存": 1000
+  },
+  {
+   "规格": "树蟒",
+   "价格": "1.50",
+   "库存": 997
+  },
+  {
+   "规格": "屎壳郎",
+   "价格": "2.00",
+   "库存": 9461
+  },
+  {
+   "规格": "青蛙+蜈蚣+毛毛虫+螳螂",
+   "价格": "7.80",
+   "库存": 9487
+  },
+  {
+   "规格": "6款蛇",
+   "价格": "8.00",
+   "库存": 996
+  },
+  {
+   "规格": "独角仙",
+   "价格": "2.00",
+   "库存": 9082
+  },
+  {
+   "规格": "中号6款昆虫螳胡蝴蜘蜈蜻",
+   "价格": "5.30",
+   "库存": 9092
+  },
+  {
+   "规格": "眼睛王蛇",
+   "价格": "1.50",
+   "库存": 1000
+  },
+  {
+   "规格": "金龟子+七星瓢虫",
+   "价格": "3.70",
+   "库存": 8272
+  },
+  {
+   "规格": "蚂蚱",
+   "价格": "2.00",
+   "库存": 9345
+  }
+ ],
+ "规格图": [
+  [
+   "中号6只甲虫",
+   "https://cbu01.alicdn.com/img/ibank/O1CN019WKCen1wRkCYn0TEi_!!2218684446305-0-cib.jpg"
+  ],
+  [
+   "中号6款昆虫螳胡蝴蜘蜈蜻",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01qZHLNC1wRkCaYwdrr_!!2218684446305-0-cib.jpg"
+  ],
+  [
+   "中号6款昆虫七禅蚱屎黄独",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01nsIaHc1wRkCaYvpuz_!!2218684446305-0-cib.jpg"
+  ],
+  [
+   "迷你实心昆虫12只",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01uN9keA1wRkCZSqPfP_!!2218684446305-0-cib.jpg"
+  ],
+  [
+   "小号12款昆虫",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01Baiv6q1wRkCZpN51q_!!2218684446305-0-cib.jpg"
+  ],
+  [
+   "中号12款昆虫",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01z1wp3k1wRkCZqKZJy_!!2218684446305-0-cib.jpg"
+  ],
+  [
+   "17只昆虫",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01imRXoV1wRkCWtZagS_!!2218684446305-0-cib.jpg"
+  ],
+  [
+   "59只昆虫套装+收纳桶",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01ezKD171wRkCYsmQVc_!!2218684446305-0-cib.jpg"
+  ],
+  [
+   "蜘蛛家族",
+   "https://cbu01.alicdn.com/img/ibank/O1CN018A49sY1wRkCW9o9Sw_!!2218684446305-0-cib.jpg"
+  ],
+  [
+   "12只亲子大号昆虫套装",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01IHt3xt1wRkCaYupYZ_!!2218684446305-0-cib.jpg"
+  ],
+  [
+   "24只亲子大小昆虫套装+收纳桶",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01NBjp0S1wRkCbCstp1_!!2218684446305-0-cib.jpg"
+  ],
+  [
+   "24只大号昆虫+收纳桶",
+   "https://cbu01.alicdn.com/img/ibank/O1CN012AucHZ1wRkCRnbVEx_!!2218684446305-0-cib.jpg"
+  ],
+  [
+   "七星瓢虫",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01RJCdrZ1wRkCZSnKMS_!!2218684446305-0-cib.jpg"
+  ],
+  [
+   "大蝴蝶",
+   "https://cbu01.alicdn.com/img/ibank/O1CN011j6hIm1wRkCZqKIas_!!2218684446305-0-cib.jpg"
+  ],
+  [
+   "独角仙",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01zOP2mm1wRkCW9o1CR_!!2218684446305-0-cib.jpg"
+  ],
+  [
+   "天牛",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01li756k1wRkCYmyrR2_!!2218684446305-0-cib.jpg"
+  ],
+  [
+   "黄蜂",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01RIJNrB1wRkCYmwyyR_!!2218684446305-0-cib.jpg"
+  ],
+  [
+   "胡蜂",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01u3LmhP1wRkCYHnW6M_!!2218684446305-0-cib.jpg"
+  ],
+  [
+   "蚂蚁",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01RwuYVP1wRkCX6pS7w_!!2218684446305-0-cib.jpg"
+  ],
+  [
+   "钳虫",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01SE8lMg1wRkCZSqXwj_!!2218684446305-0-cib.jpg"
+  ],
+  [
+   "蝉",
+   "https://cbu01.alicdn.com/img/ibank/O1CN016TSXup1wRkCYHnFRs_!!2218684446305-0-cib.jpg"
+  ],
+  [
+   "金龟子",
+   "https://cbu01.alicdn.com/img/ibank/O1CN011mWWYs1wRkCaYulMm_!!2218684446305-0-cib.jpg"
+  ],
+  [
+   "木蜂",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01rfApE61wRkCX6ltgw_!!2218684446305-0-cib.jpg"
+  ],
+  [
+   "蜻蜓",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01y4mMqp1wRkCag91S3_!!2218684446305-0-cib.jpg"
+  ],
+  [
+   "蚂蚱",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01zWs3sw1wRkCYmynGS_!!2218684446305-0-cib.jpg"
+  ],
+  [
+   "大兜虫",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01jfZAMe1wRkCYHn2xk_!!2218684446305-0-cib.jpg"
+  ],
+  [
+   "苍蝇",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01fbJtl01wRkCW9oQ5K_!!2218684446305-0-cib.jpg"
+  ],
+  [
+   "蝴蝶",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01QwR3j11wRkCYO7NPf_!!2218684446305-0-cib.jpg"
+  ],
+  [
+   "蟋蟀",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01I2iNYR1wRkCYyzEM7_!!2218684446305-0-cib.jpg"
+  ],
+  [
+   "屎壳郎",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01vY9ecR1wRkCW9mg21_!!2218684446305-0-cib.jpg"
+  ],
+  [
+   "蝎子",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01MC5p6R1wRkCZqKERA_!!2218684446305-0-cib.jpg"
+  ],
+  [
+   "青蛙",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01IZX0my1wRkCYO5dHG_!!2218684446305-0-cib.jpg"
+  ],
+  [
+   "蜈蚣",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01RN1OQY1wRkCZpKb7B_!!2218684446305-0-cib.jpg"
+  ],
+  [
+   "毛毛虫",
+   "https://cbu01.alicdn.com/img/ibank/O1CN011ZibP71wRkCYz0ZdC_!!2218684446305-0-cib.jpg"
+  ],
+  [
+   "螳螂",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01B8r4ba1wRkCaYwuRG_!!2218684446305-0-cib.jpg"
+  ],
+  [
+   "蜘蛛",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01YeqnwN1wRkCYHo3Kt_!!2218684446305-0-cib.jpg"
+  ],
+  [
+   "黄蜂+胡蜂",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01NMXY2f1wRkCag9cvn_!!2218684446305-0-cib.jpg"
+  ],
+  [
+   "钳虫+蚂蚁",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01ojz0g21wRkCYO6Eii_!!2218684446305-0-cib.jpg"
+  ],
+  [
+   "禅+天牛",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01nQmyxF1wRkCYskY23_!!2218684446305-0-cib.jpg"
+  ],
+  [
+   "金龟子+七星瓢虫",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01NgIFIy1wRkCX6rOke_!!2218684446305-0-cib.jpg"
+  ],
+  [
+   "蚂蚱+大兜虫",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01enXWDx1wRkCYO9zeD_!!2218684446305-0-cib.jpg"
+  ],
+  [
+   "木蜂+蜻蜓",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01AuALHW1wRkCRnZDrZ_!!2218684446305-0-cib.jpg"
+  ],
+  [
+   "苍蝇+蜘蛛",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01gHucYf1wRkCbCtq73_!!2218684446305-0-cib.jpg"
+  ],
+  [
+   "蟋蟀+屎壳郎",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01Op4s391wRkCbCspic_!!2218684446305-0-cib.jpg"
+  ],
+  [
+   "蝎子+独角仙",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01hGEEvJ1wRkCYyyQRW_!!2218684446305-0-cib.jpg"
+  ],
+  [
+   "青蛙+蜈蚣+毛毛虫+螳螂",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01FJ6pMy1wRkCYsnZFK_!!2218684446305-0-cib.jpg"
+  ],
+  [
+   "大蝴蝶+蝴蝶",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01EtMqeq1wRkCZSpsP3_!!2218684446305-0-cib.jpg"
+  ],
+  [
+   "图中大号随机4只或备注4只",
+   "https://cbu01.alicdn.com/img/ibank/O1CN016dOa0e1wRkCbiFJhG_!!2218684446305-0-cib.jpg"
+  ],
+  [
+   "图中大号随机6只或备注6只",
+   "https://cbu01.alicdn.com/img/ibank/O1CN016dOa0e1wRkCbiFJhG_!!2218684446305-0-cib.jpg"
+  ],
+  [
+   "图中大号随机8只或备注8只",
+   "https://cbu01.alicdn.com/img/ibank/O1CN016dOa0e1wRkCbiFJhG_!!2218684446305-0-cib.jpg"
+  ],
+  [
+   "图中大号随机12只或备注12只",
+   "https://cbu01.alicdn.com/img/ibank/O1CN016dOa0e1wRkCbiFJhG_!!2218684446305-0-cib.jpg"
+  ],
+  [
+   "22只昆虫",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01s8bq2d1wRkGLu2D2R_!!2218684446305-0-cib.jpg"
+  ],
+  [
+   "中号12只仿真昆虫",
+   "https://cbu01.alicdn.com/img/ibank/O1CN014VgXzE1wRkHHpkh14_!!2218684446305-0-cib.jpg"
+  ],
+  [
+   "树蟒",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01Jwxer01wRkHZnj843_!!2218684446305-0-cib.jpg"
+  ],
+  [
+   "蟒蛇",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01fvyJRK1wRkHYNxFsN_!!2218684446305-0-cib.jpg"
+  ],
+  [
+   "眼睛王蛇",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01e3magX1wRkHZNmaLO_!!2218684446305-0-cib.jpg"
+  ],
+  [
+   "响尾蛇",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01zoFoCz1wRkHZngeCK_!!2218684446305-0-cib.jpg"
+  ],
+  [
+   "黄金巨蟒",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01silIqV1wRkHYvraWG_!!2218684446305-0-cib.jpg"
+  ],
+  [
+   "鼓腹巨蝰",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01a6MT8s1wRkHTZkN3Z_!!2218684446305-0-cib.jpg"
+  ],
+  [
+   "6款蛇",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01MidvQG1wRkHPbGL66_!!2218684446305-0-cib.jpg"
+  ],
+  [
+   "迷你昆虫（12只）",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01dSidQr1wRkKSLqujR_!!2218684446305-0-cib.jpg"
+  ],
+  [
+   "12款小号海洋动物",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01CoqmAt1wRkHOZjfkq_!!2218684446305-0-cib.jpg"
+  ],
+  [
+   "B12款小号海洋动物",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01tgzDP01wRkGkkwtSA_!!2218684446305-0-cib.jpg"
+  ],
+  [
+   "12款中号海洋动物",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01BiG7V71wRkHOzjEmW_!!2218684446305-0-cib.jpg"
+  ],
+  [
+   "A6款中号海洋动物",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01blZQhg1wRkKYHJ1eN_!!2218684446305-0-cib.jpg"
+  ],
+  [
+   "B6款中号海洋动物",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01MzHOvU1wRkKd5XHMu_!!2218684446305-0-cib.jpg"
+  ],
+  [
+   "新A12款两栖动物",
+   "https://cbu01.alicdn.com/img/ibank/O1CN0138fSI71wRkKdALAPz_!!2218684446305-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "skuPrice",
+ "价格区间": "1.50-47.00",
+ "阶梯价_登录后": [
+  {
+   "price": "1.50",
+   "beginAmount": 1
+  },
+  {
+   "price": "47.00",
+   "beginAmount": 1
+  }
+ ],
+ "到手价": {
+  "价": "0.5",
+  "说明": "新人价",
+  "件数": 1
+ },
+ "起订量": 1,
+ "单位": "件",
+ "可售总量": 446950,
+ "已售": 4798,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01FaRxu91wRkCZSpTKf_!!2218684446305-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN016dOa0e1wRkCbiFJhG_!!2218684446305-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01ruJNk21wRkCZqKhYY_!!2218684446305-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01mBdhwt1wRkCW9ph8Z_!!2218684446305-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01VI5tVt7lx0E3FPpA_!!6000000003697-0-cib.jpg"
+ ],
+ "商品属性": [
+  "材质:塑料/塑胶",
+  "包装方式:PE袋",
+  "品牌:否",
+  "是否有动漫形象:否",
+  "是否静态模型:是",
+  "产地:澄海",
+  "规格:如图详情",
+  "货号:24款昆虫",
+  "是否有导购视频:是",
+  "仿真模型类别:动植物",
+  "是否拼装:否",
+  "是否专供外贸:是(本商品仅供外贸用途，可能不符合境内产品标准。请境内买家谨慎购入)",
+  "3C配置类别:14岁以上的玩具",
+  "商品3C认证码:2024152202053177",
+  "颜色:中号6只甲虫/中号6款昆虫螳胡蝴蜘蜈蜻/中号6款昆虫七禅蚱屎黄独/迷你实心昆虫12只/小号12款昆虫/中号12款昆虫/17只昆虫/59只昆虫套装+收纳桶/蜘蛛家族/12只亲子大号昆虫套装/24只亲子大小昆虫套装+收纳桶/24只大号昆虫+收纳桶/七星瓢虫/大蝴蝶/独角仙/天牛/黄蜂/胡蜂/蚂蚁/钳虫/蝉/金龟子/木蜂/蜻蜓/蚂蚱/大兜虫/苍蝇/蝴蝶/蟋蟀/屎壳郎/蝎子/青蛙/蜈蚣/毛毛虫/螳螂/蜘蛛/黄蜂+胡蜂/钳虫+蚂蚁/禅+天牛/金龟子+七星瓢虫/蚂蚱+大兜虫/木蜂+蜻蜓/苍蝇+蜘蛛/蟋蟀+屎壳郎/蝎子+独角仙/青蛙+蜈蚣+毛毛虫+螳螂/大蝴蝶+蝴蝶/图中大号随机4只或备注4只/图中大号随机6只或备注6只/图中大号随机8只或备注8只/图中大号随机12只或备注12只/22只昆虫/中号12只仿真昆虫/树蟒/蟒蛇/眼睛王蛇/响尾蛇/黄金巨蟒/鼓腹巨蝰/6款蛇/迷你昆虫（12只）/12款小号海洋动物/B12款小号海洋动物/12款中号海洋动物/A6款中号海洋动物/B6款中号海洋动物/新A12款两栖动物",
+  "主要下游平台:ebay/亚马逊/wish/速卖通/独立站/LAZADA",
+  "主要销售地区:非洲/欧洲/南美/东南亚/北美/东北亚/中东",
+  "是否跨境出口专供货源:是",
+  "适用年龄:儿童（4-6岁）",
+  "是否IP授权:否"
+ ],
+ "包装信息": [
+  {
+   "volume": 0,
+   "sku1": "中号6只甲虫",
+   "length": 0,
+   "width": 0,
+   "weight": 66,
+   "skuId": 5642091980321,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "中号6款昆虫螳胡蝴蜘蜈蜻",
+   "length": 0,
+   "width": 0,
+   "weight": 73,
+   "skuId": 5642091980322,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "中号6款昆虫七禅蚱屎黄独",
+   "length": 0,
+   "width": 0,
+   "weight": 88,
+   "skuId": 5642091980323,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "迷你实心昆虫12只",
+   "length": 0,
+   "width": 0,
+   "weight": 29,
+   "skuId": 5642091980324,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "小号12款昆虫",
+   "length": 0,
+   "width": 0,
+   "weight": 42,
+   "skuId": 5642091980325,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "中号12款昆虫",
+   "length": 0,
+   "width": 0,
+   "weight": 162,
+   "skuId": 5642091980326,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "17只昆虫",
+   "length": 0,
+   "width": 0,
+   "weight": 131,
+   "skuId": 5642091980327,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "59只昆虫套装+收纳桶",
+   "length": 0,
+   "width": 0,
+   "weight": 586,
+   "skuId": 5642091980328,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "蜘蛛家族",
+   "length": 0,
+   "width": 0,
+   "weight": 57,
+   "skuId": 5642091980329,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "12只亲子大号昆虫套装",
+   "length": 0,
+   "width": 0,
+   "weight": 384,
+   "skuId": 5642091980330,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "24只亲子大小昆虫套装+收纳桶",
+   "length": 0,
+   "width": 0,
+   "weight": 750,
+   "skuId": 5642091980331,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "24只大号昆虫+收纳桶",
+   "length": 0,
+   "width": 0,
+   "weight": 780,
+   "skuId": 5642091980332,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "七星瓢虫",
+   "length": 0,
+   "width": 0,
+   "weight": 40,
+   "skuId": 5642091980333,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "大蝴蝶",
+   "length": 0,
+   "width": 0,
+   "weight": 36,
+   "skuId": 5642091980334,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "独角仙",
+   "length": 0,
+   "width": 0,
+   "weight": 35,
+   "skuId": 5642091980335,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "天牛",
+   "length": 0,
+   "width": 0,
+   "weight": 32,
+   "skuId": 5642091980336,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "黄蜂",
+   "length": 0,
+   "width": 0,
+   "weight": 33,
+   "skuId": 5642091980337,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "胡蜂",
+   "length": 0,
+   "width": 0,
+   "weight": 25,
+   "skuId": 5642091980338,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "蚂蚁",
+   "length": 0,
+   "width": 0,
+   "weight": 32,
+   "skuId": 5642091980339,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "钳虫",
+   "length": 0,
+   "width": 0,
+   "weight": 24,
+   "skuId": 5642091980340,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "蝉",
+   "length": 0,
+   "width": 0,
+   "weight": 30,
+   "skuId": 5642091980341,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "金龟子",
+   "length": 0,
+   "width": 0,
+   "weight": 30,
+   "skuId": 5642091980342,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "木蜂",
+   "length": 0,
+   "width": 0,
+   "weight": 29,
+   "skuId": 5642091980343,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "蜻蜓",
+   "length": 0,
+   "width": 0,
+   "weight": 24,
+   "skuId": 5642091980344,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "蚂蚱",
+   "length": 0,
+   "width": 0,
+   "weight": 34,
+   "skuId": 5642091980345,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "大兜虫",
+   "length": 0,
+   "width": 0,
+   "weight": 37,
+   "skuId": 5642091980346,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "苍蝇",
+   "length": 0,
+   "width": 0,
+   "weight": 31,
+   "skuId": 5642091980347,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "蝴蝶",
+   "length": 0,
+   "width": 0,
+   "weight": 16,
+   "skuId": 5642091980348,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "蟋蟀",
+   "length": 0,
+   "width": 0,
+   "weight": 29,
+   "skuId": 5642091980349,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "屎壳郎",
+   "length": 0,
+   "width": 0,
+   "weight": 41,
+   "skuId": 5642091980350,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "蝎子",
+   "length": 0,
+   "width": 0,
+   "weight": 36,
+   "skuId": 5642091980351,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "青蛙",
+   "length": 0,
+   "width": 0,
+   "weight": 56,
+   "skuId": 5642091980352,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "蜈蚣",
+   "length": 0,
+   "width": 0,
+   "weight": 19,
+   "skuId": 5642091980353,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "毛毛虫",
+   "length": 0,
+   "width": 0,
+   "weight": 19,
+   "skuId": 5642091980354,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "螳螂",
+   "length": 0,
+   "width": 0,
+   "weight": 23,
+   "skuId": 5642091980355,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "蜘蛛",
+   "length": 0,
+   "width": 0,
+   "weight": 41,
+   "skuId": 5642091980356,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "黄蜂+胡蜂",
+   "length": 0,
+   "width": 0,
+   "weight": 60,
+   "skuId": 5642091980369,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "钳虫+蚂蚁",
+   "length": 0,
+   "width": 0,
+   "weight": 60,
+   "skuId": 5642091980370,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "禅+天牛",
+   "length": 0,
+   "width": 0,
+   "weight": 60,
+   "skuId": 5642091980371,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "金龟子+七星瓢虫",
+   "length": 0,
+   "width": 0,
+   "weight": 60,
+   "skuId": 5642091980372,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "蚂蚱+大兜虫",
+   "length": 0,
+   "width": 0,
+   "weight": 60,
+   "skuId": 5642091980373,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "木蜂+蜻蜓",
+   "length": 0,
+   "width": 0,
+   "weight": 60,
+   "skuId": 5642091980374,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "苍蝇+蜘蛛",
+   "length": 0,
+   "width": 0,
+   "weight": 60,
+   "skuId": 5642091980375,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "蟋蟀+屎壳郎",
+   "length": 0,
+   "width": 0,
+   "weight": 60,
+   "skuId": 5642091980376,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "蝎子+独角仙",
+   "length": 0,
+   "width": 0,
+   "weight": 60,
+   "skuId": 5642091980377,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "青蛙+蜈蚣+毛毛虫+螳螂",
+   "length": 0,
+   "width": 0,
+   "weight": 120,
+   "skuId": 5642091980378,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "大蝴蝶+蝴蝶",
+   "length": 0,
+   "width": 0,
+   "weight": 60,
+   "skuId": 5642091980379,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "图中大号随机4只或备注4只",
+   "length": 0,
+   "width": 0,
+   "weight": 120,
+   "skuId": 5642091980380,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "图中大号随机6只或备注6只",
+   "length": 0,
+   "width": 0,
+   "weight": 150,
+   "skuId": 5642091980381,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "图中大号随机8只或备注8只",
+   "length": 0,
+   "width": 0,
+   "weight": 250,
+   "skuId": 5642091980382,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "图中大号随机12只或备注12只",
+   "length": 0,
+   "width": 0,
+   "weight": 360,
+   "skuId": 5642091980383,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "22只昆虫",
+   "length": 0,
+   "width": 0,
+   "weight": 97,
+   "skuId": 6021407474783,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "中号12只仿真昆虫",
+   "length": 0,
+   "width": 0,
+   "weight": 54,
+   "skuId": 5907802180841,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "树蟒",
+   "length": 0,
+   "width": 0,
+   "weight": 19,
+   "skuId": 5924003145974,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "蟒蛇",
+   "length": 0,
+   "width": 0,
+   "weight": 19,
+   "skuId": 5924003145979,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "眼睛王蛇",
+   "length": 0,
+   "width": 0,
+   "weight": 19,
+   "skuId": 5924003145977,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "响尾蛇",
+   "length": 0,
+   "width": 0,
+   "weight": 19,
+   "skuId": 5924003145978,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "黄金巨蟒",
+   "length": 0,
+   "width": 0,
+   "weight": 19,
+   "skuId": 5924003145973,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "鼓腹巨蝰",
+   "length": 0,
+   "width": 0,
+   "weight": 19,
+   "skuId": 5924003145975,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "6款蛇",
+   "length": 0,
+   "width": 0,
+   "weight": 114,
+   "skuId": 5924003145976,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "迷你昆虫（12只）",
+   "length": 0,
+   "width": 0,
+   "weight": 29,
+   "skuId": 6066166493870,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "12款小号海洋动物",
+   "length": 0,
+   "width": 0,
+   "weight": 40,
+   "skuId": 6239215283811,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "B12款小号海洋动物",
+   "length": 0,
+   "width": 0,
+   "weight": 76,
+   "skuId": 6239215283815,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "12款中号海洋动物",
+   "length": 0,
+   "width": 0,
+   "weight": 189,
+   "skuId": 6239215283812,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "A6款中号海洋动物",
+   "length": 0,
+   "width": 0,
+   "weight": 93,
+   "skuId": 6239215283813,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "B6款中号海洋动物",
+   "length": 0,
+   "width": 0,
+   "weight": 96,
+   "skuId": 6239215283814,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "新A12款两栖动物",
+   "length": 0,
+   "width": 0,
+   "weight": 53,
+   "skuId": 6239215283816,
+   "height": 0
+  }
+ ],
+ "url": "https://detail.1688.com/offer/850460967679.html",
+ "核页时间": "2026-10-06T18:14:24.031Z"
+}

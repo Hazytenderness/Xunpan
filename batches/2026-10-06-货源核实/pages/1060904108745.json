@@ -1,0 +1,79 @@
+{
+ "offerId": "1060904108745",
+ "条目": "H0950",
+ "block": false,
+ "卖家公司": "义乌市佳信饰品有限公司",
+ "旺旺名": "dijub",
+ "标题": "新品万圣节树脂摆件氛围装饰可爱幽灵与南瓜礼物跨境树脂工艺品",
+ "状态": "PUBLISHED",
+ "类目": "树脂工艺品",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "颜色",
+   "值": [
+    "可爱幽灵"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "可爱幽灵",
+   "价格": "8.00",
+   "库存": 9580
+  }
+ ],
+ "规格图": [
+  [
+   "可爱幽灵",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01izZpqq22jxn3vSRrt_!!1012457157-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "rangePrice",
+ "价格区间": "8.00",
+ "阶梯价_登录后": [
+  {
+   "price": "8.00",
+   "beginAmount": 1
+  }
+ ],
+ "到手价": null,
+ "起订量": 1,
+ "单位": "件",
+ "可售总量": 9580,
+ "已售": 408,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01IjUcPC22jxn4DeSEP_!!1012457157-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01XO00zv22jxn48w79r_!!1012457157-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01Jfo1sY22jxmzY0r8z_!!1012457157-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01H1l3uI22jxn4BD6Mb_!!1012457157-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01X0tRrV22jxn48uZar_!!1012457157-0-cib.jpg"
+ ],
+ "商品属性": [
+  "材质:树脂",
+  "类别:摆件",
+  "品牌:佳信",
+  "风格:卡通动漫风",
+  "适用节日:通用/万圣节/其他",
+  "货号:kayl-001",
+  "包装:盒装",
+  "是否专利货源:否",
+  "颜色:可爱幽灵",
+  "是否属于礼品:否",
+  "是否IP授权:否",
+  "外观造型:几何"
+ ],
+ "包装信息": [
+  {
+   "volume": 1080,
+   "sku1": "可爱幽灵",
+   "length": 12,
+   "width": 10,
+   "weight": 160,
+   "skuId": 6104154817065,
+   "height": 9
+  }
+ ],
+ "url": "https://detail.1688.com/offer/1060904108745.html",
+ "核页时间": "2026-10-06T19:14:32.142Z"
+}

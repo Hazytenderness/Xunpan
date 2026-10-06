@@ -1,0 +1,980 @@
+{
+ "offerId": "539777615352",
+ "条目": "H0944",
+ "block": false,
+ "卖家公司": "永康市鉴雨贸易有限公司",
+ "旺旺名": "永康市鉴雨贸易有限公司",
+ "标题": "批发潜水料杯套 加厚杯子保护套 玻璃水杯套 创意便携保温杯杯套",
+ "状态": "PUBLISHED",
+ "类目": "杯套/壶套/保温套",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "颜色",
+   "值": [
+    "550ml玫红色",
+    "550ml蕉黄色",
+    "550ml果绿色",
+    "550ml浅粉色",
+    "550ml灰色",
+    "550ml湖蓝色",
+    "550ml臧青色",
+    "550ml浅蓝色",
+    "550ml大红色",
+    "550ml咖啡色",
+    "550ml浅紫色",
+    "550ml墨绿色",
+    "550ml酒红色",
+    "550ml黑色",
+    "420ml玫红",
+    "420ml黄色",
+    "420ml绿色",
+    "420ml粉色",
+    "420ml灰色",
+    "420ml蓝色",
+    "420ml藏青色",
+    "420ml浅蓝色",
+    "420ml大红色",
+    "420ml咖啡色",
+    "420ml浅紫色",
+    "420ml墨绿色",
+    "420ml酒红色",
+    "420ml黑色",
+    "360ml枚红色",
+    "360ml黄色",
+    "360ml绿色",
+    "360ml粉色",
+    "360ml灰色",
+    "360ml蓝色",
+    "360ml藏青色",
+    "360ml浅蓝色",
+    "360ml大红色",
+    "360ml咖啡色",
+    "360ml浅紫色",
+    "360ml墨绿色",
+    "360ml酒红色",
+    "360ml黑色",
+    "280ml：5.5*13",
+    "8*19黑色",
+    "8*21黑色",
+    "8*23黑色",
+    "480ml外贸尾货",
+    "打样定制"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "550ml酒红色",
+   "价格": "1.10",
+   "库存": 9989156
+  },
+  {
+   "规格": "420ml咖啡色",
+   "价格": "1.00",
+   "库存": 9985392
+  },
+  {
+   "规格": "550ml蕉黄色",
+   "价格": "1.10",
+   "库存": 9964291
+  },
+  {
+   "规格": "420ml浅紫色",
+   "价格": "1.00",
+   "库存": 9987189
+  },
+  {
+   "规格": "360ml枚红色",
+   "价格": "0.90",
+   "库存": 9993413
+  },
+  {
+   "规格": "550ml玫红色",
+   "价格": "1.10",
+   "库存": 9729268
+  },
+  {
+   "规格": "360ml墨绿色",
+   "价格": "0.90",
+   "库存": 9996058
+  },
+  {
+   "规格": "420ml酒红色",
+   "价格": "1.00",
+   "库存": 9992615
+  },
+  {
+   "规格": "360ml大红色",
+   "价格": "0.90",
+   "库存": 9998629
+  },
+  {
+   "规格": "360ml浅紫色",
+   "价格": "0.90",
+   "库存": 9995362
+  },
+  {
+   "规格": "550ml浅紫色",
+   "价格": "1.10",
+   "库存": 9981190
+  },
+  {
+   "规格": "8*19黑色",
+   "价格": "1.20",
+   "库存": 902658
+  },
+  {
+   "规格": "550ml咖啡色",
+   "价格": "1.10",
+   "库存": 9963571
+  },
+  {
+   "规格": "550ml墨绿色",
+   "价格": "1.10",
+   "库存": 9987525
+  },
+  {
+   "规格": "420ml黑色",
+   "价格": "1.00",
+   "库存": 9629365
+  },
+  {
+   "规格": "420ml玫红",
+   "价格": "1.00",
+   "库存": 9969307
+  },
+  {
+   "规格": "360ml黄色",
+   "价格": "0.90",
+   "库存": 9995014
+  },
+  {
+   "规格": "550ml果绿色",
+   "价格": "1.10",
+   "库存": 9960136
+  },
+  {
+   "规格": "420ml绿色",
+   "价格": "1.00",
+   "库存": 9991138
+  },
+  {
+   "规格": "280ml：5.5*13",
+   "价格": "0.90",
+   "库存": 9960845
+  },
+  {
+   "规格": "360ml浅蓝色",
+   "价格": "0.90",
+   "库存": 9995041
+  },
+  {
+   "规格": "420ml墨绿色",
+   "价格": "1.00",
+   "库存": 9992129
+  },
+  {
+   "规格": "360ml酒红色",
+   "价格": "0.90",
+   "库存": 9996865
+  },
+  {
+   "规格": "360ml黑色",
+   "价格": "0.90",
+   "库存": 9927245
+  },
+  {
+   "规格": "550ml臧青色",
+   "价格": "1.10",
+   "库存": 9868224
+  },
+  {
+   "规格": "打样定制",
+   "价格": "1.00",
+   "库存": 9999999
+  },
+  {
+   "规格": "550ml浅蓝色",
+   "价格": "1.10",
+   "库存": 9978587
+  },
+  {
+   "规格": "420ml粉色",
+   "价格": "1.00",
+   "库存": 9981276
+  },
+  {
+   "规格": "360ml灰色",
+   "价格": "0.90",
+   "库存": 9931831
+  },
+  {
+   "规格": "550ml大红色",
+   "价格": "1.10",
+   "库存": 9983136
+  },
+  {
+   "规格": "420ml藏青色",
+   "价格": "1.00",
+   "库存": 9942665
+  },
+  {
+   "规格": "420ml大红色",
+   "价格": "1.00",
+   "库存": 9989170
+  },
+  {
+   "规格": "360ml蓝色",
+   "价格": "0.90",
+   "库存": 9993050
+  },
+  {
+   "规格": "360ml藏青色",
+   "价格": "0.90",
+   "库存": 9981034
+  },
+  {
+   "规格": "550ml湖蓝色",
+   "价格": "1.10",
+   "库存": 9900300
+  },
+  {
+   "规格": "420ml灰色",
+   "价格": "1.10",
+   "库存": 9973543
+  },
+  {
+   "规格": "420ml浅蓝色",
+   "价格": "1.00",
+   "库存": 9984942
+  },
+  {
+   "规格": "550ml灰色",
+   "价格": "1.19",
+   "库存": 9711108
+  },
+  {
+   "规格": "550ml浅粉色",
+   "价格": "1.10",
+   "库存": 9981350
+  },
+  {
+   "规格": "480ml外贸尾货",
+   "价格": "0.50",
+   "库存": 7999
+  },
+  {
+   "规格": "360ml绿色",
+   "价格": "0.90",
+   "库存": 9993931
+  },
+  {
+   "规格": "360ml咖啡色",
+   "价格": "0.90",
+   "库存": 9994638
+  },
+  {
+   "规格": "550ml黑色",
+   "价格": "0.93",
+   "库存": 9481421
+  },
+  {
+   "规格": "420ml蓝色",
+   "价格": "1.00",
+   "库存": 9948388
+  },
+  {
+   "规格": "8*21黑色",
+   "价格": "1.25",
+   "库存": 911964
+  },
+  {
+   "规格": "420ml黄色",
+   "价格": "1.00",
+   "库存": 9984084
+  },
+  {
+   "规格": "8*23黑色",
+   "价格": "1.24",
+   "库存": 921805
+  },
+  {
+   "规格": "360ml粉色",
+   "价格": "0.90",
+   "库存": 9992558
+  }
+ ],
+ "规格图": [
+  [
+   "550ml玫红色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01qEAVOl25Pl76ag1QP_!!2655337519-0-cib.jpg"
+  ],
+  [
+   "550ml蕉黄色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01J6AaiH25Pl76SyHbn_!!2655337519-0-cib.jpg"
+  ],
+  [
+   "550ml果绿色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01LpuwLX25Pl76b04r8_!!2655337519-0-cib.jpg"
+  ],
+  [
+   "550ml浅粉色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN011hkimg25Pl77YBgNm_!!2655337519-0-cib.jpg"
+  ],
+  [
+   "550ml灰色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01Nq3O5q25Pl75jPFs7_!!2655337519-0-cib.jpg"
+  ],
+  [
+   "550ml湖蓝色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01YdTPLq25Pl76T0Iag_!!2655337519-0-cib.jpg"
+  ],
+  [
+   "550ml臧青色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01fbZM8L25Pl76HqH2w_!!2655337519-0-cib.jpg"
+  ],
+  [
+   "550ml浅蓝色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01FJXJk625Pl772Y8i6_!!2655337519-0-cib.jpg"
+  ],
+  [
+   "550ml大红色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01usYMVi25Pl76T33CS_!!2655337519-0-cib.jpg"
+  ],
+  [
+   "550ml咖啡色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01yAzcnt25Pl76b7OQi_!!2655337519-0-cib.jpg"
+  ],
+  [
+   "550ml浅紫色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01OYNnxR25Pl76anfxV_!!2655337519-0-cib.jpg"
+  ],
+  [
+   "550ml墨绿色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01kt1jub25Pl76x67aV_!!2655337519-0-cib.jpg"
+  ],
+  [
+   "550ml酒红色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN018d4AYd25Pl77OxFRU_!!2655337519-0-cib.jpg"
+  ],
+  [
+   "550ml黑色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01Ct3UmZ25Pl76IGWVo_!!2655337519-0-cib.jpg"
+  ],
+  [
+   "420ml玫红",
+   "https://cbu01.alicdn.com/img/ibank/O1CN015W0Rfw25Pl75jeMA7_!!2655337519-0-cib.jpg"
+  ],
+  [
+   "420ml黄色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01RzVdBc25Pl77N4sj4_!!2655337519-0-cib.jpg"
+  ],
+  [
+   "420ml绿色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01e1EDnc25Pl77OyBla_!!2655337519-0-cib.jpg"
+  ],
+  [
+   "420ml粉色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01A3mWhC25Pl75HQh9s_!!2655337519-0-cib.jpg"
+  ],
+  [
+   "420ml灰色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01nKgrGA25Pl76bG7Ym_!!2655337519-0-cib.jpg"
+  ],
+  [
+   "420ml蓝色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN010dnlVe25Pl76I2gyj_!!2655337519-0-cib.jpg"
+  ],
+  [
+   "420ml藏青色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01Wf5yRV25Pl76bGrMU_!!2655337519-0-cib.jpg"
+  ],
+  [
+   "420ml浅蓝色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01i9QLiW25Pl76bHfIV_!!2655337519-0-cib.jpg"
+  ],
+  [
+   "420ml大红色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01WW8zjF25Pl76b1AUh_!!2655337519-0-cib.jpg"
+  ],
+  [
+   "420ml咖啡色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN0108hJOC25Pl77YRatK_!!2655337519-0-cib.jpg"
+  ],
+  [
+   "420ml浅紫色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01YPdFeG25Pl77YT0Em_!!2655337519-0-cib.jpg"
+  ],
+  [
+   "420ml墨绿色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01ZRPFE125Pl76TGD5q_!!2655337519-0-cib.jpg"
+  ],
+  [
+   "420ml酒红色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01EvG6m625Pl76bKLlJ_!!2655337519-0-cib.jpg"
+  ],
+  [
+   "420ml黑色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01IY9D5K25Pl76AsbkT_!!2655337519-0-cib.jpg"
+  ],
+  [
+   "360ml枚红色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01L1S6dN25Pl76I5RjO_!!2655337519-0-cib.jpg"
+  ],
+  [
+   "360ml黄色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN010Wh8gD25Pl77N9z8V_!!2655337519-0-cib.jpg"
+  ],
+  [
+   "360ml绿色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01CxlU5A25Pl76xDi2Q_!!2655337519-0-cib.jpg"
+  ],
+  [
+   "360ml粉色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01e8kMsT25Pl76bKQ6D_!!2655337519-0-cib.jpg"
+  ],
+  [
+   "360ml灰色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01aqSx2925Pl772sHIY_!!2655337519-0-cib.jpg"
+  ],
+  [
+   "360ml蓝色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01CHe0oy25Pl70yahWn_!!2655337519-0-cib.jpg"
+  ],
+  [
+   "360ml藏青色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01w5BN7d25Pl77YY2Sr_!!2655337519-0-cib.jpg"
+  ],
+  [
+   "360ml浅蓝色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01a3aCqC25Pl76b6PCS_!!2655337519-0-cib.jpg"
+  ],
+  [
+   "360ml大红色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01Ab87bj25Pl77NFDmj_!!2655337519-0-cib.jpg"
+  ],
+  [
+   "360ml咖啡色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01aAgPcJ25Pl76xJLWR_!!2655337519-0-cib.jpg"
+  ],
+  [
+   "360ml浅紫色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01gE5REq25Pl771Gyn2_!!2655337519-0-cib.jpg"
+  ],
+  [
+   "360ml墨绿色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN0160tuXx25Pl76TPXaG_!!2655337519-0-cib.jpg"
+  ],
+  [
+   "360ml酒红色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01fvrawO25Pl70yeSde_!!2655337519-0-cib.jpg"
+  ],
+  [
+   "360ml黑色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01PeG0Qv25Pl76bF8CL_!!2655337519-0-cib.jpg"
+  ],
+  [
+   "280ml：5.5*13",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01bm4A4k25Pl77YrAgc_!!2655337519-0-cib.jpg"
+  ],
+  [
+   "8*19黑色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01x293Pa25Pl76TYXFH_!!2655337519-0-cib.jpg"
+  ],
+  [
+   "8*21黑色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01YjZwzb25Pl77PFNTa_!!2655337519-0-cib.jpg"
+  ],
+  [
+   "8*23黑色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01pqLqvY25Pl76IIXQW_!!2655337519-0-cib.jpg"
+  ],
+  [
+   "480ml外贸尾货",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01eSqDm125PkuwcugH1_!!2655337519-0-cib.jpg"
+  ],
+  [
+   "打样定制",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01wsGhdn172dD1chua_!!2655337519-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "skuPrice",
+ "价格区间": null,
+ "阶梯价_登录后": [
+  {
+   "price": "0.50",
+   "beginAmount": 2
+  },
+  {
+   "price": "1.25",
+   "beginAmount": 2
+  }
+ ],
+ "到手价": null,
+ "起订量": 2,
+ "单位": "个",
+ "可售总量": 440320405,
+ "已售": 281875,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01gTSNzm25PklSiSUR0_!!2655337519-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01JHPxjj25Pl75GvLFZ_!!2655337519-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN018djnw225Pl75hiBQ2_!!2655337519-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01YVxeN325Pl76aU8Wb_!!2655337519-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01q41TwY25Pl76HXkGH_!!2655337519-0-cib.jpg"
+ ],
+ "商品属性": [
+  "材质:布",
+  "品牌:鉴雨",
+  "产品质量等级:优等品",
+  "风格:创意",
+  "颜色:550ml玫红色/550ml蕉黄色/550ml果绿色/550ml浅粉色/550ml灰色/550ml湖蓝色/550ml臧青色/550ml浅蓝色/550ml大红色/550ml咖啡色/550ml浅紫色/550ml墨绿色/550ml酒红色/550ml黑色/420ml玫红/420ml黄色/420ml绿色/420ml粉色/420ml灰色/420ml蓝色/420ml藏青色/420ml浅蓝色/420ml大红色/420ml咖啡色/420ml浅紫色/420ml墨绿色/420ml酒红色/420ml黑色/360ml枚红色/360ml黄色/360ml绿色/360ml粉色/360ml灰色/360ml蓝色/360ml藏青色/360ml浅蓝色/360ml大红色/360ml咖啡色/360ml浅紫色/360ml墨绿色/360ml酒红色/360ml黑色/280ml：5.5*13/8*19黑色/8*21黑色/8*23黑色/480ml外贸尾货/打样定制",
+  "货号:PTST",
+  "是否进口:否",
+  "加印LOGO:可以",
+  "加工定制:是",
+  "价格段:1-2元",
+  "是否有专利:否",
+  "包装规格:600个/件",
+  "主要下游平台:wish/速卖通/独立站/LAZADA/其他",
+  "主要销售地区:南美/东南亚/北美/东北亚/中东/其他",
+  "有可授权的自有品牌:否",
+  "是否跨境出口专供货源:否"
+ ],
+ "包装信息": [
+  {
+   "volume": 0,
+   "sku1": "550ml玫红色",
+   "length": 0,
+   "width": 0,
+   "weight": 20,
+   "skuId": 4996022186636,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "550ml蕉黄色",
+   "length": 0,
+   "width": 0,
+   "weight": 20,
+   "skuId": 4996022186623,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "550ml果绿色",
+   "length": 0,
+   "width": 0,
+   "weight": 20,
+   "skuId": 4996022186613,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "550ml浅粉色",
+   "length": 0,
+   "width": 0,
+   "weight": 20,
+   "skuId": 4996022186616,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "550ml灰色",
+   "length": 0,
+   "width": 0,
+   "weight": 20,
+   "skuId": 4996022186648,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "550ml湖蓝色",
+   "length": 0,
+   "width": 0,
+   "weight": 20,
+   "skuId": 4996022186614,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "550ml臧青色",
+   "length": 0,
+   "width": 0,
+   "weight": 20,
+   "skuId": 4996022186620,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "550ml浅蓝色",
+   "length": 0,
+   "width": 0,
+   "weight": 20,
+   "skuId": 4996022186637,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "550ml大红色",
+   "length": 0,
+   "width": 0,
+   "weight": 20,
+   "skuId": 4996022186635,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "550ml咖啡色",
+   "length": 0,
+   "width": 0,
+   "weight": 20,
+   "skuId": 4996022186612,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "550ml浅紫色",
+   "length": 0,
+   "width": 0,
+   "weight": 20,
+   "skuId": 4996022186625,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "550ml墨绿色",
+   "length": 0,
+   "width": 0,
+   "weight": 20,
+   "skuId": 4996022186621,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "550ml酒红色",
+   "length": 0,
+   "width": 0,
+   "weight": 20,
+   "skuId": 4996022186643,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "550ml黑色",
+   "length": 0,
+   "width": 0,
+   "weight": 20,
+   "skuId": 4996022186632,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "420ml玫红",
+   "length": 0,
+   "width": 0,
+   "weight": 20,
+   "skuId": 4996022186615,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "420ml黄色",
+   "length": 0,
+   "width": 0,
+   "weight": 20,
+   "skuId": 4996022186646,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "420ml绿色",
+   "length": 0,
+   "width": 0,
+   "weight": 20,
+   "skuId": 4996022186639,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "420ml粉色",
+   "length": 0,
+   "width": 0,
+   "weight": 20,
+   "skuId": 4996022186638,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "420ml灰色",
+   "length": 0,
+   "width": 0,
+   "weight": 20,
+   "skuId": 4996022186647,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "420ml蓝色",
+   "length": 0,
+   "width": 0,
+   "weight": 20,
+   "skuId": 4996022186641,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "420ml藏青色",
+   "length": 0,
+   "width": 0,
+   "weight": 20,
+   "skuId": 4996022186650,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "420ml浅蓝色",
+   "length": 0,
+   "width": 0,
+   "weight": 20,
+   "skuId": 4996022186653,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "420ml大红色",
+   "length": 0,
+   "width": 0,
+   "weight": 20,
+   "skuId": 4996022186622,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "420ml咖啡色",
+   "length": 0,
+   "width": 0,
+   "weight": 20,
+   "skuId": 4996022186627,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "420ml浅紫色",
+   "length": 0,
+   "width": 0,
+   "weight": 20,
+   "skuId": 4996022186619,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "420ml墨绿色",
+   "length": 0,
+   "width": 0,
+   "weight": 20,
+   "skuId": 4996022186618,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "420ml酒红色",
+   "length": 0,
+   "width": 0,
+   "weight": 20,
+   "skuId": 4996022186609,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "420ml黑色",
+   "length": 0,
+   "width": 0,
+   "weight": 20,
+   "skuId": 4996022186645,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "360ml枚红色",
+   "length": 0,
+   "width": 0,
+   "weight": 20,
+   "skuId": 4996022186611,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "360ml黄色",
+   "length": 0,
+   "width": 0,
+   "weight": 20,
+   "skuId": 4996022186644,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "360ml绿色",
+   "length": 0,
+   "width": 0,
+   "weight": 20,
+   "skuId": 4996022186631,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "360ml粉色",
+   "length": 0,
+   "width": 0,
+   "weight": 20,
+   "skuId": 4996022186624,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "360ml灰色",
+   "length": 0,
+   "width": 0,
+   "weight": 20,
+   "skuId": 4996022186628,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "360ml蓝色",
+   "length": 0,
+   "width": 0,
+   "weight": 20,
+   "skuId": 4996022186629,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "360ml藏青色",
+   "length": 0,
+   "width": 0,
+   "weight": 20,
+   "skuId": 4996022186652,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "360ml浅蓝色",
+   "length": 0,
+   "width": 0,
+   "weight": 20,
+   "skuId": 4996022186651,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "360ml大红色",
+   "length": 0,
+   "width": 0,
+   "weight": 20,
+   "skuId": 4996022186649,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "360ml咖啡色",
+   "length": 0,
+   "width": 0,
+   "weight": 20,
+   "skuId": 4996022186626,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "360ml浅紫色",
+   "length": 0,
+   "width": 0,
+   "weight": 20,
+   "skuId": 4996022186610,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "360ml墨绿色",
+   "length": 0,
+   "width": 0,
+   "weight": 20,
+   "skuId": 4996022186617,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "360ml酒红色",
+   "length": 0,
+   "width": 0,
+   "weight": 20,
+   "skuId": 4996022186640,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "360ml黑色",
+   "length": 0,
+   "width": 0,
+   "weight": 20,
+   "skuId": 4996022186630,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "280ml：5.5*13",
+   "length": 0,
+   "width": 0,
+   "weight": 20,
+   "skuId": 6109177798286,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "8*19黑色",
+   "length": 0,
+   "width": 0,
+   "weight": 20,
+   "skuId": 4822580312192,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "8*21黑色",
+   "length": 0,
+   "width": 0,
+   "weight": 20,
+   "skuId": 4822580312193,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "8*23黑色",
+   "length": 0,
+   "width": 0,
+   "weight": 20,
+   "skuId": 4822580312191,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "480ml外贸尾货",
+   "length": 0,
+   "width": 0,
+   "weight": 20,
+   "skuId": 6139883328716,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "打样定制",
+   "length": 0,
+   "width": 0,
+   "weight": 20,
+   "skuId": 6139883328717,
+   "height": 0
+  }
+ ],
+ "url": "https://detail.1688.com/offer/539777615352.html",
+ "核页时间": "2026-10-06T19:12:28.524Z"
+}

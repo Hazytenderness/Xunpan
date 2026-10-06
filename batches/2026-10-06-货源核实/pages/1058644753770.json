@@ -1,0 +1,176 @@
+{
+ "offerId": "1058644753770",
+ "条目": "H0429",
+ "block": false,
+ "卖家公司": "义乌市俏轩贸易有限公司",
+ "旺旺名": "义乌温零贸易有限公司",
+ "标题": "宠物梳子打薄去浮毛开结梳猫咪狗狗底绒梳宠物除毛神器宠物用品",
+ "状态": "PUBLISHED",
+ "类目": "宠物梳子",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "规格",
+   "值": [
+    "底绒梳【蓝色】",
+    "底绒梳【黄色】",
+    "宠物打薄梳【白色】",
+    "宠物打薄梳【黄色】",
+    "跳蚤梳【小号】",
+    "跳蚤梳【大号】"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "跳蚤梳【大号】",
+   "价格": "1.23",
+   "库存": 651041
+  },
+  {
+   "规格": "宠物打薄梳【白色】",
+   "价格": "8.08",
+   "库存": 650512
+  },
+  {
+   "规格": "跳蚤梳【小号】",
+   "价格": "0.94",
+   "库存": 651094
+  },
+  {
+   "规格": "底绒梳【蓝色】",
+   "价格": "8.18",
+   "库存": 649459
+  },
+  {
+   "规格": "底绒梳【黄色】",
+   "价格": "8.18",
+   "库存": 653007
+  },
+  {
+   "规格": "宠物打薄梳【黄色】",
+   "价格": "8.08",
+   "库存": 651332
+  }
+ ],
+ "规格图": [
+  [
+   "底绒梳【蓝色】",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01KwlcoM1KUXM5Ihyaq_!!2215560381167-0-cib.jpg"
+  ],
+  [
+   "底绒梳【黄色】",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01RavNbi1KUXM5CWSE8_!!2215560381167-0-cib.jpg"
+  ],
+  [
+   "宠物打薄梳【白色】",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01iF1zTd1KUXM53xgV5_!!2215560381167-0-cib.jpg"
+  ],
+  [
+   "宠物打薄梳【黄色】",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01hrs8kN1KUXM0j4hMT_!!2215560381167-0-cib.jpg"
+  ],
+  [
+   "跳蚤梳【小号】",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01j5WVY41KUXM5YD4pO_!!2215560381167-0-cib.jpg"
+  ],
+  [
+   "跳蚤梳【大号】",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01MeAuS71KUXM5CVeU3_!!2215560381167-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "skuPrice",
+ "价格区间": null,
+ "阶梯价_登录后": [
+  {
+   "price": "0.94",
+   "beginAmount": 1
+  },
+  {
+   "price": "8.18",
+   "beginAmount": 1
+  }
+ ],
+ "到手价": null,
+ "起订量": 1,
+ "单位": "把",
+ "可售总量": 3906445,
+ "已售": 4281,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN019ibV8e1KUXM5pFTyk_!!2215560381167-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01oFSAjF1KUXM5MrYlI_!!2215560381167-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01ubOrEu1KUXM5NVCZv_!!2215560381167-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01cM2KJb1KUXM5pDTH5_!!2215560381167-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01j1pyFq1KUXM51ik1F_!!2215560381167-0-cib.jpg"
+ ],
+ "商品属性": [
+  "材质:塑料/ABS/不锈铁",
+  "品牌:其他",
+  "是否专利货源:否",
+  "货号:宠物梳子",
+  "是否跨境出口专供货源:是",
+  "主要销售地区:全平台",
+  "有可授权的自有品牌:否",
+  "主要下游平台:全平台",
+  "规格:底绒梳【蓝色】/底绒梳【黄色】/宠物打薄梳【白色】/宠物打薄梳【黄色】/跳蚤梳【小号】/跳蚤梳【大号】",
+  "适用对象:通用"
+ ],
+ "包装信息": [
+  {
+   "volume": 0,
+   "sku1": "底绒梳【蓝色】",
+   "length": 0,
+   "width": 0,
+   "weight": 200,
+   "skuId": 6265845706614,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "底绒梳【黄色】",
+   "length": 0,
+   "width": 0,
+   "weight": 200,
+   "skuId": 6265845706615,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "宠物打薄梳【白色】",
+   "length": 0,
+   "width": 0,
+   "weight": 200,
+   "skuId": 6265845706616,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "宠物打薄梳【黄色】",
+   "length": 0,
+   "width": 0,
+   "weight": 200,
+   "skuId": 6265845706617,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "跳蚤梳【小号】",
+   "length": 0,
+   "width": 0,
+   "weight": 100,
+   "skuId": 6265845706620,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "跳蚤梳【大号】",
+   "length": 0,
+   "width": 0,
+   "weight": 100,
+   "skuId": 6265845706621,
+   "height": 0
+  }
+ ],
+ "url": "https://detail.1688.com/offer/1058644753770.html",
+ "核页时间": "2026-10-06T16:46:53.497Z"
+}

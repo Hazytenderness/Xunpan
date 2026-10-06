@@ -1,0 +1,153 @@
+{
+ "offerId": "1069207524742",
+ "条目": "H0766",
+ "block": false,
+ "卖家公司": "义乌喵隅宠物用品有限公司",
+ "旺旺名": "义乌喵隅宠物",
+ "标题": "仙人掌猫爬架瓦楞纸不掉屑猫抓板三层猫窝观景台猫咪玩具",
+ "状态": "PUBLISHED",
+ "类目": "猫猫窝/笼/垫",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "规格",
+   "值": [
+    "A",
+    "B",
+    "C",
+    "D"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "A",
+   "价格": "66.00",
+   "库存": 199
+  },
+  {
+   "规格": "B",
+   "价格": "66.00",
+   "库存": 197
+  },
+  {
+   "规格": "C",
+   "价格": "66.00",
+   "库存": 199
+  },
+  {
+   "规格": "D",
+   "价格": "66.00",
+   "库存": 197
+  }
+ ],
+ "规格图": [
+  [
+   "A",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01cIhLKimRBWF1chua_!!2222571306431-0-cib.jpg"
+  ],
+  [
+   "B",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01rDHhJkIPvHG1chua_!!2222571306431-0-cib.jpg"
+  ],
+  [
+   "C",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01DkA6H3nnlJC1chua_!!2222571306431-0-cib.jpg"
+  ],
+  [
+   "D",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01WtHkfBhrFvJ1chua_!!2222571306431-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "rangePrice",
+ "价格区间": "54.00-66.00",
+ "阶梯价_登录后": [
+  {
+   "price": "66.00",
+   "beginAmount": 1
+  },
+  {
+   "price": "56.00",
+   "beginAmount": 300
+  },
+  {
+   "price": "54.00",
+   "beginAmount": 500
+  }
+ ],
+ "到手价": {
+  "价": "65",
+  "说明": "新人价",
+  "件数": 1
+ },
+ "起订量": 1,
+ "单位": "套",
+ "可售总量": 792,
+ "已售": 6,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01yJKvS01xNSFm7I9Lx_!!2222571306431-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01cnv2yW1xNSFm7J1Yj_!!2222571306431-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01mXdFHt1xNSFm2htPb_!!2222571306431-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01ZY8dNh1xNSFhVCjoF_!!2222571306431-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN015oCGss1xNSFlzl59D_!!2222571306431-0-cib.jpg"
+ ],
+ "商品属性": [
+  "材质:瓦楞纸",
+  "品牌:喵卡屋",
+  "产品类别:宠物窝",
+  "产地:江苏",
+  "是否进口:否",
+  "货号:mzb2901",
+  "是否专利货源:否",
+  "规格:A/B/C/D",
+  "是否跨境出口专供货源:是",
+  "是否属于礼品:否",
+  "是否IP授权:否",
+  "适用季节:四季通用",
+  "功能:透气",
+  "包装尺寸:55*19*51cm",
+  "重量:4.18kg",
+  "推荐体型:通用",
+  "尺寸:46*28*70cm"
+ ],
+ "包装信息": [
+  {
+   "volume": 90160,
+   "sku1": "A",
+   "length": 46,
+   "width": 28,
+   "weight": 4180,
+   "skuId": 6281287695827,
+   "height": 70
+  },
+  {
+   "volume": 90160,
+   "sku1": "B",
+   "length": 46,
+   "width": 28,
+   "weight": 4180,
+   "skuId": 6281287695828,
+   "height": 70
+  },
+  {
+   "volume": 90160,
+   "sku1": "C",
+   "length": 46,
+   "width": 28,
+   "weight": 4180,
+   "skuId": 6281287695829,
+   "height": 70
+  },
+  {
+   "volume": 90160,
+   "sku1": "D",
+   "length": 46,
+   "width": 28,
+   "weight": 4180,
+   "skuId": 6281287695830,
+   "height": 70
+  }
+ ],
+ "url": "https://detail.1688.com/offer/1069207524742.html",
+ "核页时间": "2026-10-06T18:20:58.975Z"
+}

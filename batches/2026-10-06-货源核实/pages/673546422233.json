@@ -1,0 +1,511 @@
+{
+ "offerId": "673546422233",
+ "条目": "H1063",
+ "block": false,
+ "卖家公司": "博白县中翔工艺品有限公司",
+ "旺旺名": "博白县中翔工艺品有限公司",
+ "标题": "仿藤编水果篮零食面包果蔬盘桌面置物整理收纳花篮手工编织收纳筐",
+ "状态": "PUBLISHED",
+ "类目": "收纳篮、置物篮、收纳筐",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "颜色",
+   "值": [
+    "茶色",
+    "双色",
+    "深咖色",
+    "米色"
+   ]
+  },
+  {
+   "属性": "规格",
+   "值": [
+    "30cm*20cm*7cm",
+    "35cm*25cm*7cm",
+    "40cm*30cm*7",
+    "45cm*35cm*8cm",
+    "加硬款30cm*20cm*7cm",
+    "加硬款35cm*25cm*7cm",
+    "加硬款40cm*30cm*7cm",
+    "加硬款45cm*35cm*8cm",
+    "直身加硬30cm*20cm*4.5cm",
+    "直身加硬35cm*25cm*4.5cm",
+    "直身加硬40cm*30cm*4.5cm",
+    "直身加硬45cm*35cm*4.5cm",
+    "小长23cm*16cm*6cm"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "深咖色&gt;35cm*25cm*7cm",
+   "价格": "9.50",
+   "库存": 45
+  },
+  {
+   "规格": "茶色&gt;40cm*30cm*7",
+   "价格": "12.50",
+   "库存": 587
+  },
+  {
+   "规格": "深咖色&gt;45cm*35cm*8cm",
+   "价格": "16.50",
+   "库存": 96
+  },
+  {
+   "规格": "深咖色&gt;小长23cm*16cm*6cm",
+   "价格": "6.50",
+   "库存": 0
+  },
+  {
+   "规格": "茶色&gt;加硬款30cm*20cm*7cm",
+   "价格": "11.50",
+   "库存": 69
+  },
+  {
+   "规格": "茶色&gt;30cm*20cm*7cm",
+   "价格": "7.50",
+   "库存": 447
+  },
+  {
+   "规格": "双色&gt;30cm*20cm*7cm",
+   "价格": "7.50",
+   "库存": 120
+  },
+  {
+   "规格": "茶色&gt;直身加硬30cm*20cm*4.5cm",
+   "价格": "11.50",
+   "库存": 97
+  },
+  {
+   "规格": "茶色&gt;直身加硬40cm*30cm*4.5cm",
+   "价格": "16.50",
+   "库存": 100
+  },
+  {
+   "规格": "米色&gt;40cm*30cm*7",
+   "价格": "12.50",
+   "库存": 112
+  },
+  {
+   "规格": "米色&gt;30cm*20cm*7cm",
+   "价格": "7.50",
+   "库存": 127
+  },
+  {
+   "规格": "双色&gt;35cm*25cm*7cm",
+   "价格": "9.50",
+   "库存": 93
+  },
+  {
+   "规格": "深咖色&gt;40cm*30cm*7",
+   "价格": "12.50",
+   "库存": 137
+  },
+  {
+   "规格": "茶色&gt;直身加硬35cm*25cm*4.5cm",
+   "价格": "13.50",
+   "库存": 96
+  },
+  {
+   "规格": "茶色&gt;加硬款35cm*25cm*7cm",
+   "价格": "13.50",
+   "库存": 73
+  },
+  {
+   "规格": "茶色&gt;小长23cm*16cm*6cm",
+   "价格": "6.50",
+   "库存": 83
+  },
+  {
+   "规格": "双色&gt;45cm*35cm*8cm",
+   "价格": "16.50",
+   "库存": 138
+  },
+  {
+   "规格": "茶色&gt;加硬款45cm*35cm*8cm",
+   "价格": "19.50",
+   "库存": 66
+  },
+  {
+   "规格": "茶色&gt;35cm*25cm*7cm",
+   "价格": "9.50",
+   "库存": 294
+  },
+  {
+   "规格": "茶色&gt;直身加硬45cm*35cm*4.5cm",
+   "价格": "19.50",
+   "库存": 89
+  },
+  {
+   "规格": "深咖色&gt;30cm*20cm*7cm",
+   "价格": "7.50",
+   "库存": 0
+  },
+  {
+   "规格": "茶色&gt;45cm*35cm*8cm",
+   "价格": "16.50",
+   "库存": 998
+  },
+  {
+   "规格": "茶色&gt;加硬款40cm*30cm*7cm",
+   "价格": "16.50",
+   "库存": 81
+  },
+  {
+   "规格": "双色&gt;40cm*30cm*7",
+   "价格": "12.50",
+   "库存": 134
+  },
+  {
+   "规格": "米色&gt;35cm*25cm*7cm",
+   "价格": "9.50",
+   "库存": 49
+  },
+  {
+   "规格": "米色&gt;45cm*35cm*8cm",
+   "价格": "16.50",
+   "库存": 140
+  },
+  {
+   "规格": "米色&gt;小长23cm*16cm*6cm",
+   "价格": "6.50",
+   "库存": 120
+  }
+ ],
+ "规格图": [
+  [
+   "茶色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01WQ5YCc2CRJQdbekW2_!!2212525958470-0-cib.jpg"
+  ],
+  [
+   "双色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01zBF0wL2CRJQl1NxFH_!!2212525958470-0-cib.jpg"
+  ],
+  [
+   "深咖色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01YY6nEo2CRJQcZqid8_!!2212525958470-0-cib.jpg"
+  ],
+  [
+   "米色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN011YiFn32CRJQSLCAHQ_!!2212525958470-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "skuPrice",
+ "价格区间": null,
+ "阶梯价_登录后": [
+  {
+   "price": "6.50",
+   "beginAmount": 2
+  },
+  {
+   "price": "19.50",
+   "beginAmount": 2
+  }
+ ],
+ "到手价": null,
+ "起订量": 2,
+ "单位": "件",
+ "可售总量": 4391,
+ "已售": 926,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01Tyznel2CRJQiHMRBk_!!2212525958470-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01rmacXc2CRJQj1FC2T_!!2212525958470-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01Mr8jRX2CRJQkCnEZv_!!2212525958470-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01LMzuGy2CRJQXDSjDF_!!2212525958470-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01be4scW2CRJQdb0bUe_!!2212525958470-0-cib.jpg"
+ ],
+ "商品属性": [
+  "材质:PP",
+  "品牌:其他",
+  "产品类别:其他",
+  "适用范围:内衣/CD/遥控器/文具/水果/蔬菜/磁卡/化妆用品/首饰/书籍杂志/耳机线/电线/换洗衣物",
+  "风格:田园风",
+  "是否进口:否",
+  "型号:联系客服",
+  "产地:null",
+  "箱装数量:联系客服",
+  "产品上市时间:2016年秋",
+  "专利:否",
+  "价格段:10-20元",
+  "贸易属性:内贸+外贸",
+  "颜色:茶色/双色/深咖色/米色",
+  "规格:30cm*20cm*7cm/35cm*25cm*7cm/40cm*30cm*7/45cm*35cm*8cm/加硬款30cm*20cm*7cm/加硬款35cm*25cm*7cm/加硬款40cm*30cm*7cm/加硬款45cm*35cm*8cm/直身加硬30cm*20cm*4.5cm/直身加硬35cm*25cm*4.5cm/直身加硬40cm*30cm*4.5cm/直身加硬45cm*35cm*4.5cm/小长23cm*16cm*6cm",
+  "是否跨境出口专供货源:否"
+ ],
+ "包装信息": [
+  {
+   "sku2": "30cm*20cm*7cm",
+   "volume": 0,
+   "sku1": "茶色",
+   "length": 0,
+   "width": 0,
+   "weight": 300,
+   "skuId": 5017527986362,
+   "height": 0
+  },
+  {
+   "sku2": "35cm*25cm*7cm",
+   "volume": 0,
+   "sku1": "茶色",
+   "length": 0,
+   "width": 0,
+   "weight": 300,
+   "skuId": 5017527986363,
+   "height": 0
+  },
+  {
+   "sku2": "40cm*30cm*7",
+   "volume": 0,
+   "sku1": "茶色",
+   "length": 0,
+   "width": 0,
+   "weight": 300,
+   "skuId": 5017527986364,
+   "height": 0
+  },
+  {
+   "sku2": "45cm*35cm*8cm",
+   "volume": 0,
+   "sku1": "茶色",
+   "length": 0,
+   "width": 0,
+   "weight": 300,
+   "skuId": 5017527986365,
+   "height": 0
+  },
+  {
+   "sku2": "加硬款30cm*20cm*7cm",
+   "volume": 0,
+   "sku1": "茶色",
+   "length": 0,
+   "width": 0,
+   "weight": 300,
+   "skuId": 5321166234638,
+   "height": 0
+  },
+  {
+   "sku2": "加硬款35cm*25cm*7cm",
+   "volume": 0,
+   "sku1": "茶色",
+   "length": 0,
+   "width": 0,
+   "weight": 300,
+   "skuId": 5321166234630,
+   "height": 0
+  },
+  {
+   "sku2": "加硬款40cm*30cm*7cm",
+   "volume": 0,
+   "sku1": "茶色",
+   "length": 0,
+   "width": 0,
+   "weight": 300,
+   "skuId": 5321166234642,
+   "height": 0
+  },
+  {
+   "sku2": "加硬款45cm*35cm*8cm",
+   "volume": 0,
+   "sku1": "茶色",
+   "length": 0,
+   "width": 0,
+   "weight": 300,
+   "skuId": 5321166234634,
+   "height": 0
+  },
+  {
+   "sku2": "直身加硬30cm*20cm*4.5cm",
+   "volume": 0,
+   "sku1": "茶色",
+   "length": 0,
+   "width": 0,
+   "weight": 300,
+   "skuId": 5321166234646,
+   "height": 0
+  },
+  {
+   "sku2": "直身加硬35cm*25cm*4.5cm",
+   "volume": 0,
+   "sku1": "茶色",
+   "length": 0,
+   "width": 0,
+   "weight": 300,
+   "skuId": 5321166234650,
+   "height": 0
+  },
+  {
+   "sku2": "直身加硬40cm*30cm*4.5cm",
+   "volume": 0,
+   "sku1": "茶色",
+   "length": 0,
+   "width": 0,
+   "weight": 300,
+   "skuId": 5321166234658,
+   "height": 0
+  },
+  {
+   "sku2": "直身加硬45cm*35cm*4.5cm",
+   "volume": 0,
+   "sku1": "茶色",
+   "length": 0,
+   "width": 0,
+   "weight": 300,
+   "skuId": 5321166234654,
+   "height": 0
+  },
+  {
+   "sku2": "小长23cm*16cm*6cm",
+   "volume": 0,
+   "sku1": "茶色",
+   "length": 0,
+   "width": 0,
+   "weight": 300,
+   "skuId": 6161189535230,
+   "height": 0
+  },
+  {
+   "sku2": "30cm*20cm*7cm",
+   "volume": 0,
+   "sku1": "双色",
+   "length": 0,
+   "width": 0,
+   "weight": 300,
+   "skuId": 5017527986366,
+   "height": 0
+  },
+  {
+   "sku2": "35cm*25cm*7cm",
+   "volume": 0,
+   "sku1": "双色",
+   "length": 0,
+   "width": 0,
+   "weight": 300,
+   "skuId": 5017527986367,
+   "height": 0
+  },
+  {
+   "sku2": "40cm*30cm*7",
+   "volume": 0,
+   "sku1": "双色",
+   "length": 0,
+   "width": 0,
+   "weight": 300,
+   "skuId": 5017527986368,
+   "height": 0
+  },
+  {
+   "sku2": "45cm*35cm*8cm",
+   "volume": 0,
+   "sku1": "双色",
+   "length": 0,
+   "width": 0,
+   "weight": 300,
+   "skuId": 5017527986369,
+   "height": 0
+  },
+  {
+   "sku2": "30cm*20cm*7cm",
+   "volume": 0,
+   "sku1": "深咖色",
+   "length": 0,
+   "width": 0,
+   "weight": 300,
+   "skuId": 5017527986370,
+   "height": 0
+  },
+  {
+   "sku2": "35cm*25cm*7cm",
+   "volume": 0,
+   "sku1": "深咖色",
+   "length": 0,
+   "width": 0,
+   "weight": 300,
+   "skuId": 5017527986371,
+   "height": 0
+  },
+  {
+   "sku2": "40cm*30cm*7",
+   "volume": 0,
+   "sku1": "深咖色",
+   "length": 0,
+   "width": 0,
+   "weight": 300,
+   "skuId": 5017527986372,
+   "height": 0
+  },
+  {
+   "sku2": "45cm*35cm*8cm",
+   "volume": 0,
+   "sku1": "深咖色",
+   "length": 0,
+   "width": 0,
+   "weight": 300,
+   "skuId": 5017527986373,
+   "height": 0
+  },
+  {
+   "sku2": "小长23cm*16cm*6cm",
+   "volume": 0,
+   "sku1": "深咖色",
+   "length": 0,
+   "width": 0,
+   "weight": 300,
+   "skuId": 6161189535232,
+   "height": 0
+  },
+  {
+   "sku2": "30cm*20cm*7cm",
+   "volume": 0,
+   "sku1": "米色",
+   "length": 0,
+   "width": 0,
+   "weight": 300,
+   "skuId": 5017527986374,
+   "height": 0
+  },
+  {
+   "sku2": "35cm*25cm*7cm",
+   "volume": 0,
+   "sku1": "米色",
+   "length": 0,
+   "width": 0,
+   "weight": 300,
+   "skuId": 5017527986375,
+   "height": 0
+  },
+  {
+   "sku2": "40cm*30cm*7",
+   "volume": 0,
+   "sku1": "米色",
+   "length": 0,
+   "width": 0,
+   "weight": 300,
+   "skuId": 5017527986376,
+   "height": 0
+  },
+  {
+   "sku2": "45cm*35cm*8cm",
+   "volume": 0,
+   "sku1": "米色",
+   "length": 0,
+   "width": 0,
+   "weight": 300,
+   "skuId": 5017527986377,
+   "height": 0
+  },
+  {
+   "sku2": "小长23cm*16cm*6cm",
+   "volume": 0,
+   "sku1": "米色",
+   "length": 0,
+   "width": 0,
+   "weight": 300,
+   "skuId": 6161189535229,
+   "height": 0
+  }
+ ],
+ "url": "https://detail.1688.com/offer/673546422233.html",
+ "核页时间": "2026-10-06T19:47:01.786Z"
+}

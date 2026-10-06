@@ -1,0 +1,228 @@
+{
+ "offerId": "935851514273",
+ "条目": "H0844",
+ "block": false,
+ "卖家公司": "普宁市意发工艺品有限公司",
+ "旺旺名": "普宁市意发工艺品有限公司",
+ "标题": "仿真花28头小雏菊跳兰菊人造假花园林家居装饰绢花户外工程小野菊",
+ "状态": "PUBLISHED",
+ "类目": "仿真花",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "颜色",
+   "值": [
+    "白色",
+    "莲色",
+    "新色紫",
+    "蓝色",
+    "黄色",
+    "夕红",
+    "粉色",
+    "紫色",
+    "大红"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "莲色",
+   "价格": null,
+   "库存": 41608
+  },
+  {
+   "规格": "大红",
+   "价格": null,
+   "库存": 3681
+  },
+  {
+   "规格": "蓝色",
+   "价格": null,
+   "库存": 43117
+  },
+  {
+   "规格": "夕红",
+   "价格": null,
+   "库存": 29100
+  },
+  {
+   "规格": "粉色",
+   "价格": null,
+   "库存": 5980
+  },
+  {
+   "规格": "新色紫",
+   "价格": null,
+   "库存": 1369
+  },
+  {
+   "规格": "紫色",
+   "价格": null,
+   "库存": 25956
+  },
+  {
+   "规格": "白色",
+   "价格": null,
+   "库存": 30591
+  },
+  {
+   "规格": "黄色",
+   "价格": null,
+   "库存": 44409
+  }
+ ],
+ "规格图": [
+  [
+   "白色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN016WTwhT1WqJUcbo3WB_!!2217913682839-0-cib.jpg"
+  ],
+  [
+   "莲色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01SDZpeA1WqJUfThTdR_!!2217913682839-0-cib.jpg"
+  ],
+  [
+   "新色紫",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01wW0snB1WqJUfAaY4U_!!2217913682839-0-cib.jpg"
+  ],
+  [
+   "蓝色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01tu7hr71WqJUeMNtBH_!!2217913682839-0-cib.jpg"
+  ],
+  [
+   "黄色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01Pdf3Gg1WqJUc1aXIK_!!2217913682839-0-cib.jpg"
+  ],
+  [
+   "夕红",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01tn1EuK1WqJUeiu341_!!2217913682839-0-cib.jpg"
+  ],
+  [
+   "粉色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01tcqOuQ1WqJUdRDoBh_!!2217913682839-0-cib.jpg"
+  ],
+  [
+   "紫色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01g1HspS1WqJUeiwfqB_!!2217913682839-0-cib.jpg"
+  ],
+  [
+   "大红",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01606Xic1WqJUfAYKry_!!2217913682839-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "rangePrice",
+ "价格区间": null,
+ "阶梯价_登录后": [
+  {
+   "price": "1.55",
+   "beginAmount": 1
+  }
+ ],
+ "到手价": null,
+ "起订量": 1,
+ "单位": "支",
+ "可售总量": 225811,
+ "已售": 108431,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01pQmDML1WqJUcW6Fml_!!2217913682839-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01rxNj2u1WqJUeMM4uK_!!2217913682839-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01g1HspS1WqJUeiwfqB_!!2217913682839-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01606Xic1WqJUfAYKry_!!2217913682839-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01Wfbpbh1WqJUdSkKmA_!!2217913682839-0-cib.jpg"
+ ],
+ "商品属性": [
+  "材质:绢花",
+  "工艺:定型/注塑/射骨",
+  "品种:雏菊",
+  "用途:婚庆/户外/摄影道具/家居装扮",
+  "品牌:小语花艺",
+  "货号:跳兰菊",
+  "是否专利货源:否",
+  "颜色:白色/莲色/新色紫/蓝色/黄色/夕红/粉色/紫色/大红",
+  "产品形态:花束"
+ ],
+ "包装信息": [
+  {
+   "volume": 0,
+   "sku1": "白色",
+   "length": 0,
+   "width": 0,
+   "weight": 38,
+   "skuId": 5829147993345,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "莲色",
+   "length": 0,
+   "width": 0,
+   "weight": 38,
+   "skuId": 5829147993346,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "新色紫",
+   "length": 0,
+   "width": 0,
+   "weight": 38,
+   "skuId": 5829147993347,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "蓝色",
+   "length": 0,
+   "width": 0,
+   "weight": 38,
+   "skuId": 5829147993348,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "黄色",
+   "length": 0,
+   "width": 0,
+   "weight": 38,
+   "skuId": 5829147993349,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "夕红",
+   "length": 0,
+   "width": 0,
+   "weight": 38,
+   "skuId": 5829147993350,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "粉色",
+   "length": 0,
+   "width": 0,
+   "weight": 38,
+   "skuId": 5829147993351,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "紫色",
+   "length": 0,
+   "width": 0,
+   "weight": 38,
+   "skuId": 5829147993352,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "大红",
+   "length": 0,
+   "width": 0,
+   "weight": 38,
+   "skuId": 5829147993353,
+   "height": 0
+  }
+ ],
+ "url": "https://detail.1688.com/offer/935851514273.html",
+ "核页时间": "2026-10-06T18:41:51.401Z"
+}

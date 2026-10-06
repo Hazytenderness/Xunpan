@@ -1,0 +1,667 @@
+{
+ "offerId": "777769327796",
+ "条目": "H0191",
+ "block": false,
+ "卖家公司": "丽水一咚家居有限公司",
+ "旺旺名": "卓品商贸有限公司",
+ "标题": "跨境专供全透明收纳袋棉被装衣物搬家袋大容量防水防潮被子整理袋",
+ "状态": "PUBLISHED",
+ "类目": "收纳袋、收纳包",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "颜色",
+   "值": [
+    "透明S码【72L】",
+    "透明M码【88L】",
+    "透明L码【95L】",
+    "红色S码【72L】",
+    "红色M码【88L】",
+    "红色L码【95L】",
+    "蓝色S码【72L】",
+    "蓝色M码【88L】",
+    "蓝色L码【95L】",
+    "白色XL码【100L】",
+    "黄色M码【88L】",
+    "黑色M码【88L】",
+    "圣诞花环袋小号",
+    "圣诞花环袋中号",
+    "圣诞花环袋大号",
+    "方形圣诞袋大号",
+    "方形圣诞袋特大号",
+    "透明花环袋白边小号",
+    "透明花环袋白边大号",
+    "透明花环袋黑边小号",
+    "透明花环袋黑边大号",
+    "小狗中号(50*30*25cm)",
+    "小狗大号(60*40*25)",
+    "小狗特大号(70*50*25cm)",
+    "花朵中号(50*30*25cm)",
+    "花朵大号(60*40*25)",
+    "花朵特大号(70*50*25cm)",
+    "花朵巨无霸(80*50*25cm)",
+    "QC棉被袋红色波点",
+    "井天鱼-100L",
+    "恐龙-100L"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "圣诞花环袋中号",
+   "价格": "10.70",
+   "库存": 7578
+  },
+  {
+   "规格": "透明M码【88L】",
+   "价格": "7.10",
+   "库存": 81053
+  },
+  {
+   "规格": "方形圣诞袋特大号",
+   "价格": "24.20",
+   "库存": 9723
+  },
+  {
+   "规格": "黄色M码【88L】",
+   "价格": "7.80",
+   "库存": 9967
+  },
+  {
+   "规格": "白色XL码【100L】",
+   "价格": "8.40",
+   "库存": 9997
+  },
+  {
+   "规格": "透明S码【72L】",
+   "价格": "6.99",
+   "库存": 14054
+  },
+  {
+   "规格": "小狗中号(50*30*25cm)",
+   "价格": "4.00",
+   "库存": 19584
+  },
+  {
+   "规格": "小狗大号(60*40*25)",
+   "价格": "4.72",
+   "库存": 19399
+  },
+  {
+   "规格": "透明花环袋白边小号",
+   "价格": "9.30",
+   "库存": 9349
+  },
+  {
+   "规格": "红色M码【88L】",
+   "价格": "7.40",
+   "库存": 18883
+  },
+  {
+   "规格": "花朵特大号(70*50*25cm)",
+   "价格": "5.36",
+   "库存": 19855
+  },
+  {
+   "规格": "蓝色L码【95L】",
+   "价格": "8.10",
+   "库存": 18868
+  },
+  {
+   "规格": "红色S码【72L】",
+   "价格": "7.30",
+   "库存": 18839
+  },
+  {
+   "规格": "恐龙-100L",
+   "价格": "2.99",
+   "库存": 500
+  },
+  {
+   "规格": "圣诞花环袋小号",
+   "价格": "9.70",
+   "库存": 8477
+  },
+  {
+   "规格": "QC棉被袋红色波点",
+   "价格": "3.20",
+   "库存": 200
+  },
+  {
+   "规格": "蓝色S码【72L】",
+   "价格": "7.30",
+   "库存": 18876
+  },
+  {
+   "规格": "透明花环袋黑边小号",
+   "价格": "9.30",
+   "库存": 9999
+  },
+  {
+   "规格": "蓝色M码【88L】",
+   "价格": "7.40",
+   "库存": 18640
+  },
+  {
+   "规格": "花朵中号(50*30*25cm)",
+   "价格": "4.00",
+   "库存": 19898
+  },
+  {
+   "规格": "红色L码【95L】",
+   "价格": "8.10",
+   "库存": 18881
+  },
+  {
+   "规格": "黑色M码【88L】",
+   "价格": "7.80",
+   "库存": 9955
+  },
+  {
+   "规格": "透明花环袋黑边大号",
+   "价格": "10.99",
+   "库存": 9999
+  },
+  {
+   "规格": "花朵大号(60*40*25)",
+   "价格": "4.72",
+   "库存": 19913
+  },
+  {
+   "规格": "花朵巨无霸(80*50*25cm)",
+   "价格": "5.78",
+   "库存": 19825
+  },
+  {
+   "规格": "透明花环袋白边大号",
+   "价格": "10.99",
+   "库存": 9612
+  },
+  {
+   "规格": "小狗特大号(70*50*25cm)",
+   "价格": "5.36",
+   "库存": 19360
+  },
+  {
+   "规格": "透明L码【95L】",
+   "价格": "7.80",
+   "库存": 14611
+  },
+  {
+   "规格": "圣诞花环袋大号",
+   "价格": "11.70",
+   "库存": 6929
+  },
+  {
+   "规格": "方形圣诞袋大号",
+   "价格": "17.20",
+   "库存": 9505
+  },
+  {
+   "规格": "井天鱼-100L",
+   "价格": "2.99",
+   "库存": 500
+  }
+ ],
+ "规格图": [
+  [
+   "透明S码【72L】",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01o4P2mG1EGRGZxCsBd_!!1107440324-0-cib.jpg"
+  ],
+  [
+   "透明M码【88L】",
+   "https://cbu01.alicdn.com/img/ibank/O1CN018pqDFF1EGRGYG2Mwp_!!1107440324-0-cib.jpg"
+  ],
+  [
+   "透明L码【95L】",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01GXw3H01EGRGa1RMZP_!!1107440324-0-cib.jpg"
+  ],
+  [
+   "红色S码【72L】",
+   "https://cbu01.alicdn.com/img/ibank/O1CN012MS51X1EGRKmNxoKT_!!1107440324-0-cib.jpg"
+  ],
+  [
+   "红色M码【88L】",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01DudZNI1EGRKmOHxH5_!!1107440324-0-cib.jpg"
+  ],
+  [
+   "红色L码【95L】",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01wd1fyl1EGRKkrhD7V_!!1107440324-0-cib.jpg"
+  ],
+  [
+   "蓝色S码【72L】",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01P3KOfu1EGRKky1L5t_!!1107440324-0-cib.jpg"
+  ],
+  [
+   "蓝色M码【88L】",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01OXsg0u1EGRKlZIIkl_!!1107440324-0-cib.jpg"
+  ],
+  [
+   "蓝色L码【95L】",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01TFI2Vm1EGRKmNy0w3_!!1107440324-0-cib.jpg"
+  ],
+  [
+   "白色XL码【100L】",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01a57X1Kh7KIH1chua_!!1107440324-0-cib.jpg"
+  ],
+  [
+   "黄色M码【88L】",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01FYEcuC6s1HH1chua_!!1107440324-0-cib.jpg"
+  ],
+  [
+   "黑色M码【88L】",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01kcifcLm1mXL1chua_!!1107440324-0-cib.jpg"
+  ],
+  [
+   "圣诞花环袋小号",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01KgbVof1EGRPCnq80R_!!1107440324-0-cib.jpg"
+  ],
+  [
+   "圣诞花环袋中号",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01wH3Z2g1EGRPCqRVdw_!!1107440324-0-cib.jpg"
+  ],
+  [
+   "圣诞花环袋大号",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01pPMShV1EGRPDR3gAo_!!1107440324-0-cib.jpg"
+  ],
+  [
+   "方形圣诞袋大号",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01BNKslE1EGRP7EUjzr_!!1107440324-0-cib.jpg"
+  ],
+  [
+   "方形圣诞袋特大号",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01ycvgjy1EGRP8qYvfX_!!1107440324-0-cib.jpg"
+  ],
+  [
+   "透明花环袋白边小号",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01BMR6v7eGvdH1chua_!!1107440324-0-cib.jpg"
+  ],
+  [
+   "透明花环袋白边大号",
+   "https://cbu01.alicdn.com/img/ibank/O1CN014O2kD0H6TfB1chua_!!1107440324-0-cib.jpg"
+  ],
+  [
+   "透明花环袋黑边小号",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01QVqrfB1MUcK1chua_!!1107440324-0-cib.jpg"
+  ],
+  [
+   "透明花环袋黑边大号",
+   "https://cbu01.alicdn.com/img/ibank/O1CN011r5wE8lkevJ1chua_!!1107440324-0-cib.jpg"
+  ],
+  [
+   "小狗中号(50*30*25cm)",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01c1dkIj1EGRPlyQKme_!!1107440324-0-cib.jpg"
+  ],
+  [
+   "小狗大号(60*40*25)",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01P8mCoT1EGRPloBVDT_!!1107440324-0-cib.jpg"
+  ],
+  [
+   "小狗特大号(70*50*25cm)",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01f2aO0i1EGRPkwMdTX_!!1107440324-0-cib.jpg"
+  ],
+  [
+   "花朵中号(50*30*25cm)",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01dKRl4b1EGRPkwL1lY_!!1107440324-0-cib.jpg"
+  ],
+  [
+   "花朵大号(60*40*25)",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01bYiIW31EGRPmMEMzQ_!!1107440324-0-cib.jpg"
+  ],
+  [
+   "花朵特大号(70*50*25cm)",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01y0BPlF1EGRPlySgVI_!!1107440324-0-cib.jpg"
+  ],
+  [
+   "花朵巨无霸(80*50*25cm)",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01RuTgBc1EGRPmfQUJc_!!1107440324-0-cib.jpg"
+  ],
+  [
+   "QC棉被袋红色波点",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01MTer3bm7YpC0nivm_!!1107440324-0-cib.jpg"
+  ],
+  [
+   "井天鱼-100L",
+   "https://cbu01.alicdn.com/img/ibank/O1CN018AcOyPoc08G1chua_!!1107440324-0-cib.jpg"
+  ],
+  [
+   "恐龙-100L",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01CfaAXaQB6sF1chua_!!1107440324-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "skuPrice",
+ "价格区间": "3.78-30.63",
+ "阶梯价_登录后": [
+  {
+   "price": "2.99",
+   "beginAmount": 1
+  },
+  {
+   "price": "24.20",
+   "beginAmount": 1
+  }
+ ],
+ "到手价": null,
+ "起订量": 1,
+ "单位": "件",
+ "可售总量": 472829,
+ "已售": 105994,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01lrEbSc1EGRKstdTSj_!!1107440324-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01dC5GEQ1EGRKvWp3ih_!!1107440324-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01SrmJWB1EGRKwFdHrN_!!1107440324-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN012jJr3J1EGRKu21lIY_!!1107440324-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN018M48Kx1EGRKub4hcO_!!1107440324-0-cib.jpg"
+ ],
+ "商品属性": [
+  "材质:聚乙烯（PE）",
+  "功能:多用途",
+  "品牌:其他",
+  "产品类别:被子收纳袋",
+  "是否进口:否",
+  "型号:01B1446",
+  "形状:立方体式",
+  "适用场景:卧室",
+  "收纳场景:旅行收纳/卧室收纳",
+  "适用范围:内衣/棉被/杂物/衣物",
+  "风格:现代简约",
+  "颜色:透明S码【72L】/透明M码【88L】/透明L码【95L】/红色S码【72L】/红色M码【88L】/红色L码【95L】/蓝色S码【72L】/蓝色M码【88L】/蓝色L码【95L】/白色XL码【100L】/黄色M码【88L】/黑色M码【88L】/圣诞花环袋小号/圣诞花环袋中号/圣诞花环袋大号/方形圣诞袋大号/方形圣诞袋特大号/透明花环袋白边小号/透明花环袋白边大号/透明花环袋黑边小号/透明花环袋黑边大号/小狗中号(50*30*25cm)/小狗大号(60*40*25)/小狗特大号(70*50*25cm)/花朵中号(50*30*25cm)/花朵大号(60*40*25)/花朵特大号(70*50*25cm)/花朵巨无霸(80*50*25cm)/QC棉被袋红色波点/井天鱼-100L/恐龙-100L",
+  "产地:义乌",
+  "箱装数量:100",
+  "产品上市时间:2024",
+  "价格段:5-10元",
+  "贸易属性:内贸+外贸",
+  "专利:否",
+  "货号:01B1446PP编织袋",
+  "主要下游平台:ebay/亚马逊/wish/速卖通/独立站/LAZADA",
+  "主要销售地区:欧洲/南美/北美",
+  "有可授权的自有品牌:是",
+  "是否跨境出口专供货源:是",
+  "版权:无",
+  "厚度:3cm",
+  "印刷工艺:热转印"
+ ],
+ "包装信息": [
+  {
+   "volume": 782,
+   "sku1": "透明S码【72L】",
+   "length": 34,
+   "width": 23,
+   "weight": 191,
+   "skuId": 6124076684493,
+   "height": 1
+  },
+  {
+   "volume": 3024,
+   "sku1": "透明M码【88L】",
+   "length": 36,
+   "width": 21,
+   "weight": 200,
+   "skuId": 6124076684485,
+   "height": 4
+  },
+  {
+   "volume": 2331,
+   "sku1": "透明L码【95L】",
+   "length": 37,
+   "width": 21,
+   "weight": 250,
+   "skuId": 6124076684486,
+   "height": 3
+  },
+  {
+   "volume": 782,
+   "sku1": "红色S码【72L】",
+   "length": 34,
+   "width": 23,
+   "weight": 191,
+   "skuId": 6124076684487,
+   "height": 1
+  },
+  {
+   "volume": 3024,
+   "sku1": "红色M码【88L】",
+   "length": 36,
+   "width": 21,
+   "weight": 200,
+   "skuId": 6124076684488,
+   "height": 4
+  },
+  {
+   "volume": 2331,
+   "sku1": "红色L码【95L】",
+   "length": 37,
+   "width": 21,
+   "weight": 250,
+   "skuId": 6124076684489,
+   "height": 3
+  },
+  {
+   "volume": 782,
+   "sku1": "蓝色S码【72L】",
+   "length": 34,
+   "width": 23,
+   "weight": 191,
+   "skuId": 6124076684490,
+   "height": 1
+  },
+  {
+   "volume": 3024,
+   "sku1": "蓝色M码【88L】",
+   "length": 36,
+   "width": 21,
+   "weight": 200,
+   "skuId": 6124076684491,
+   "height": 4
+  },
+  {
+   "volume": 2331,
+   "sku1": "蓝色L码【95L】",
+   "length": 37,
+   "width": 21,
+   "weight": 250,
+   "skuId": 6124076684492,
+   "height": 3
+  },
+  {
+   "volume": 2331,
+   "sku1": "白色XL码【100L】",
+   "length": 37,
+   "width": 21,
+   "weight": 300,
+   "skuId": 6126844905749,
+   "height": 3
+  },
+  {
+   "volume": 2268,
+   "sku1": "黄色M码【88L】",
+   "length": 36,
+   "width": 21,
+   "weight": 300,
+   "skuId": 6126844905747,
+   "height": 3
+  },
+  {
+   "volume": 2268,
+   "sku1": "黑色M码【88L】",
+   "length": 36,
+   "width": 21,
+   "weight": 300,
+   "skuId": 6126844905748,
+   "height": 3
+  },
+  {
+   "volume": 1518,
+   "sku1": "圣诞花环袋小号",
+   "length": 22,
+   "width": 23,
+   "weight": 150,
+   "skuId": 6073547223856,
+   "height": 3
+  },
+  {
+   "volume": 1764,
+   "sku1": "圣诞花环袋中号",
+   "length": 21,
+   "width": 21,
+   "weight": 250,
+   "skuId": 6073547223854,
+   "height": 4
+  },
+  {
+   "volume": 2304,
+   "sku1": "圣诞花环袋大号",
+   "length": 24,
+   "width": 24,
+   "weight": 300,
+   "skuId": 6073547223855,
+   "height": 4
+  },
+  {
+   "volume": 2916,
+   "sku1": "方形圣诞袋大号",
+   "length": 27,
+   "width": 27,
+   "weight": 350,
+   "skuId": 6073547223857,
+   "height": 4
+  },
+  {
+   "volume": 6000,
+   "sku1": "方形圣诞袋特大号",
+   "length": 30,
+   "width": 40,
+   "weight": 650,
+   "skuId": 6073547223858,
+   "height": 5
+  },
+  {
+   "volume": 1610,
+   "sku1": "透明花环袋白边小号",
+   "length": 23,
+   "width": 20,
+   "weight": 258,
+   "skuId": 6140395749505,
+   "height": 3.5
+  },
+  {
+   "volume": 2184,
+   "sku1": "透明花环袋白边大号",
+   "length": 28,
+   "width": 26,
+   "weight": 375,
+   "skuId": 6140395749506,
+   "height": 3
+  },
+  {
+   "volume": 1610,
+   "sku1": "透明花环袋黑边小号",
+   "length": 23,
+   "width": 20,
+   "weight": 258,
+   "skuId": 6140395749503,
+   "height": 3.5
+  },
+  {
+   "volume": 2184,
+   "sku1": "透明花环袋黑边大号",
+   "length": 28,
+   "width": 26,
+   "weight": 375,
+   "skuId": 6140395749504,
+   "height": 3
+  },
+  {
+   "volume": 1050,
+   "sku1": "小狗中号(50*30*25cm)",
+   "length": 25,
+   "width": 21,
+   "weight": 90,
+   "skuId": 5929176265521,
+   "height": 2
+  },
+  {
+   "volume": 1590,
+   "sku1": "小狗大号(60*40*25)",
+   "length": 30,
+   "width": 26.5,
+   "weight": 120,
+   "skuId": 5929176265524,
+   "height": 2
+  },
+  {
+   "volume": 2822.25,
+   "sku1": "小狗特大号(70*50*25cm)",
+   "length": 35.5,
+   "width": 26.5,
+   "weight": 150,
+   "skuId": 5929176265518,
+   "height": 3
+  },
+  {
+   "volume": 1050,
+   "sku1": "花朵中号(50*30*25cm)",
+   "length": 25,
+   "width": 21,
+   "weight": 90,
+   "skuId": 5929176265520,
+   "height": 2
+  },
+  {
+   "volume": 1590,
+   "sku1": "花朵大号(60*40*25)",
+   "length": 30,
+   "width": 26.5,
+   "weight": 120,
+   "skuId": 5929176265525,
+   "height": 2
+  },
+  {
+   "volume": 2822.25,
+   "sku1": "花朵特大号(70*50*25cm)",
+   "length": 35.5,
+   "width": 26.5,
+   "weight": 150,
+   "skuId": 5929176265519,
+   "height": 3
+  },
+  {
+   "volume": 4698,
+   "sku1": "花朵巨无霸(80*50*25cm)",
+   "length": 40.5,
+   "width": 29,
+   "weight": 170,
+   "skuId": 5929176265523,
+   "height": 4
+  },
+  {
+   "volume": 1548,
+   "sku1": "QC棉被袋红色波点",
+   "length": 43,
+   "width": 18,
+   "weight": 200,
+   "skuId": 6302081943282,
+   "height": 2
+  },
+  {
+   "volume": 2000,
+   "sku1": "井天鱼-100L",
+   "length": 50,
+   "width": 40,
+   "weight": 180,
+   "skuId": 6306503690620,
+   "height": 1
+  },
+  {
+   "volume": 2000,
+   "sku1": "恐龙-100L",
+   "length": 50,
+   "width": 40,
+   "weight": 180,
+   "skuId": 6306503690621,
+   "height": 1
+  }
+ ],
+ "url": "https://detail.1688.com/offer/777769327796.html",
+ "核页时间": "2026-10-06T15:35:45.173Z"
+}

@@ -1,0 +1,131 @@
+{
+ "offerId": "1062948725711",
+ "条目": "H0826",
+ "block": false,
+ "卖家公司": "义乌市哇诚电子商务商行（个体工商户）",
+ "旺旺名": "义乌市哇诚电子商务商行",
+ "标题": "适配碧然德滤水壶滤芯净水器家用Maxtra新版滤芯批发官方专家版",
+ "状态": "PUBLISHED",
+ "类目": "净水器配件、附件",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "颜色",
+   "值": [
+    "一盒装英文版（6只装）",
+    "标准版滤芯（6只装）",
+    "专家版滤芯（6只装）",
+    "PRO版深蓝滤芯（6只装）",
+    "PRO版浅蓝滤芯（6只装）",
+    "普通版1只装"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "PRO版浅蓝滤芯（6只装）",
+   "价格": "30.00",
+   "库存": 97569
+  },
+  {
+   "规格": "PRO版深蓝滤芯（6只装）",
+   "价格": "30.00",
+   "库存": 97427
+  },
+  {
+   "规格": "普通版1只装",
+   "价格": "7.00",
+   "库存": 97277
+  },
+  {
+   "规格": "专家版滤芯（6只装）",
+   "价格": "30.00",
+   "库存": 97980
+  },
+  {
+   "规格": "标准版滤芯（6只装）",
+   "价格": "30.00",
+   "库存": 97850
+  },
+  {
+   "规格": "一盒装英文版（6只装）",
+   "价格": "30.00",
+   "库存": 64653
+  }
+ ],
+ "规格图": [
+  [
+   "一盒装英文版（6只装）",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01UZlLSZ1HRNmuJFHMT_!!2222544900754-0-cib.jpg"
+  ],
+  [
+   "标准版滤芯（6只装）",
+   "https://cbu01.alicdn.com/img/ibank/O1CN016zKMwc1HRNmeZZ8A1_!!2222544900754-0-cib.jpg"
+  ],
+  [
+   "专家版滤芯（6只装）",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01eOniMo1HRNmeQ2yE8_!!2222544900754-0-cib.jpg"
+  ],
+  [
+   "PRO版深蓝滤芯（6只装）",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01W0Zvzz1HRNmep4u3j_!!2222544900754-0-cib.jpg"
+  ],
+  [
+   "PRO版浅蓝滤芯（6只装）",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01GUjrRY1HRNmeLEbMm_!!2222544900754-0-cib.jpg"
+  ],
+  [
+   "普通版1只装",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01w5iXFk1HRNmecErEp_!!2222544900754-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "skuPrice",
+ "价格区间": "7.00-30.00",
+ "阶梯价_登录后": [
+  {
+   "price": "7.00",
+   "beginAmount": 1
+  },
+  {
+   "price": "30.00",
+   "beginAmount": 1
+  }
+ ],
+ "到手价": null,
+ "起订量": 1,
+ "单位": "个",
+ "可售总量": 552756,
+ "已售": 2315,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN015kxI471HRNmeJA3Ub_!!2222544900754-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01ksqCjM1HRNmeO6PWh_!!2222544900754-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01VKLV6a1HRNma604HM_!!2222544900754-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01pUIpZg1HRNmebxs5B_!!2222544900754-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN010PSfkR1HRNmeonmhI_!!2222544900754-0-cib.jpg"
+ ],
+ "商品属性": [
+  "品牌:other",
+  "配件种类:净水器滤芯",
+  "功能:净化水质",
+  "材质:活性炭",
+  "容量:50",
+  "使用位置:净水器前置",
+  "货号:0001",
+  "型号:Maxtra三代滤芯",
+  "包装:正装",
+  "价格段:30-40元",
+  "颜色:一盒装英文版（6只装）/标准版滤芯（6只装）/专家版滤芯（6只装）/PRO版深蓝滤芯（6只装）/PRO版浅蓝滤芯（6只装）/普通版1只装",
+  "是否跨境出口专供货源:否"
+ ],
+ "包装信息": [
+  {
+   "volume": 0,
+   "length": 0,
+   "width": 0,
+   "weight": 1500,
+   "height": 0
+  }
+ ],
+ "url": "https://detail.1688.com/offer/1062948725711.html",
+ "核页时间": "2026-10-06T18:36:54.591Z"
+}

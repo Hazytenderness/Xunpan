@@ -1,0 +1,89 @@
+{
+ "offerId": "1053123139425",
+ "条目": "H0774",
+ "block": false,
+ "卖家公司": "曹县艺源通工艺品贸易有限公司",
+ "旺旺名": "曹县艺源通木制工艺品",
+ "标题": "跨境热销现货木质宠物爬梯小型宠物狗爬架可折叠拼接宠物坡道台阶",
+ "状态": "PUBLISHED",
+ "类目": "狗狗玩具",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "颜色",
+   "值": [
+    "原木色"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "原木色",
+   "价格": "21.30",
+   "库存": 3342
+  }
+ ],
+ "规格图": [
+  [
+   "原木色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN0108dw5f1zAkUDF3eZf_!!2222383106674-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "rangePrice",
+ "价格区间": "21.30",
+ "阶梯价_登录后": [
+  {
+   "price": "21.30",
+   "beginAmount": 1
+  }
+ ],
+ "到手价": null,
+ "起订量": 1,
+ "单位": "个",
+ "可售总量": 3342,
+ "已售": 1219,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01M6SXqs1zAkUCYFWEH_!!2222383106674-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01xMUJhE1zAkUCYFBQy_!!2222383106674-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01ju3pGP1zAkUCQkRKU_!!2222383106674-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01ihVV6q1zAkUDF4K9A_!!2222383106674-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01DrlYOT1zAkUCYK9P9_!!2222383106674-0-cib.jpg"
+ ],
+ "商品属性": [
+  "材质:木质",
+  "产品类别:其它",
+  "品牌:艺源通",
+  "是否进口:否",
+  "重量:1014",
+  "货号:猫狗楼梯",
+  "产地:山东",
+  "箱装数量:20",
+  "是否专利货源:否",
+  "颜色:原木色",
+  "是否跨境出口专供货源:否",
+  "是否属于礼品:否",
+  "是否IP授权:否"
+ ],
+ "包装信息": [
+  {
+   "volume": 2496,
+   "sku1": "原木色",
+   "features": {
+    "boxSpec": [
+     [
+      "外箱:57*42*32cm",
+      "数量:20 件/箱",
+      "净重:23 kg"
+     ]
+    ]
+   },
+   "length": 30,
+   "width": 26,
+   "weight": 1014,
+   "skuId": 6095061261431,
+   "height": 3.2
+  }
+ ],
+ "url": "https://detail.1688.com/offer/1053123139425.html",
+ "核页时间": "2026-10-06T18:23:22.516Z"
+}

@@ -1,0 +1,371 @@
+{
+ "offerId": "679914616367",
+ "条目": "H0701",
+ "block": false,
+ "卖家公司": "山东诺鲜包装材料有限公司",
+ "旺旺名": "诺鲜包装",
+ "标题": "一次性猫食碗猫咪餐具宠物鲜食碗可降解纸碗流浪猫狗饭碗加厚",
+ "状态": "PUBLISHED",
+ "类目": "猫猫食具",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "规格",
+   "值": [
+    "220ml本色碗无盖",
+    "220ml白碗无盖",
+    "200ml纸浆三角碗",
+    "350ml本色碗无盖",
+    "350ml白碗无盖",
+    "480ml本碗无盖",
+    "480ml白碗无盖",
+    "500ml本碗无盖",
+    "500ml白碗无盖",
+    "680ml本碗无盖",
+    "680ml白碗无盖",
+    "4寸方碟",
+    "1000ml本色大敞口无盖",
+    "700ml水粮一体碗",
+    "850ml水粮一体碗无盖",
+    "敞口1000ml水粮一体碗无盖",
+    "1000ml水粮一体碗无盖",
+    "500ml单碗无盖",
+    "700ml单碗无盖",
+    "850ml单碗无盖",
+    "1000ml单碗无盖",
+    "敞口版1000ml单碗无盖",
+    "500ml新超厚vip碗",
+    "750ml新超厚vip碗",
+    "12安士碗白色",
+    "12安士碗本色",
+    "16安士碗白色",
+    "16安士碗本色",
+    "350ml特厚直筒碗",
+    "800ml本色方形碗"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "680ml白碗无盖",
+   "价格": "0.23",
+   "库存": 92878
+  },
+  {
+   "规格": "200ml纸浆三角碗",
+   "价格": "0.22",
+   "库存": 99550
+  },
+  {
+   "规格": "750ml新超厚vip碗",
+   "价格": "0.46",
+   "库存": 99200
+  },
+  {
+   "规格": "480ml白碗无盖",
+   "价格": "0.20",
+   "库存": 91681
+  },
+  {
+   "规格": "500ml本碗无盖",
+   "价格": "0.19",
+   "库存": 65450
+  },
+  {
+   "规格": "350ml特厚直筒碗",
+   "价格": "0.19",
+   "库存": 99588
+  },
+  {
+   "规格": "16安士碗本色",
+   "价格": "0.24",
+   "库存": 99134
+  },
+  {
+   "规格": "敞口版1000ml单碗无盖",
+   "价格": "0.55",
+   "库存": 99640
+  },
+  {
+   "规格": "480ml本碗无盖",
+   "价格": "0.20",
+   "库存": 67962
+  },
+  {
+   "规格": "1000ml本色大敞口无盖",
+   "价格": "0.40",
+   "库存": 98344
+  },
+  {
+   "规格": "700ml单碗无盖",
+   "价格": "0.31",
+   "库存": 91800
+  },
+  {
+   "规格": "350ml白碗无盖",
+   "价格": "0.13",
+   "库存": 75021
+  },
+  {
+   "规格": "800ml本色方形碗",
+   "价格": "0.49",
+   "库存": 98450
+  },
+  {
+   "规格": "220ml白碗无盖",
+   "价格": "0.10",
+   "库存": 96350
+  },
+  {
+   "规格": "12安士碗本色",
+   "价格": "0.20",
+   "库存": 98604
+  },
+  {
+   "规格": "700ml水粮一体碗",
+   "价格": "0.33",
+   "库存": 71804
+  },
+  {
+   "规格": "500ml单碗无盖",
+   "价格": "0.29",
+   "库存": 69828
+  },
+  {
+   "规格": "12安士碗白色",
+   "价格": "0.20",
+   "库存": 99293
+  },
+  {
+   "规格": "500ml新超厚vip碗",
+   "价格": "0.35",
+   "库存": 98750
+  },
+  {
+   "规格": "220ml本色碗无盖",
+   "价格": "0.10",
+   "库存": 80901
+  },
+  {
+   "规格": "680ml本碗无盖",
+   "价格": "0.26",
+   "库存": 96640
+  },
+  {
+   "规格": "500ml白碗无盖",
+   "价格": "0.19",
+   "库存": 93725
+  },
+  {
+   "规格": "敞口1000ml水粮一体碗无盖",
+   "价格": "0.56",
+   "库存": 99600
+  },
+  {
+   "规格": "350ml本色碗无盖",
+   "价格": "0.13",
+   "库存": 2047
+  },
+  {
+   "规格": "850ml水粮一体碗无盖",
+   "价格": "0.40",
+   "库存": 13322
+  },
+  {
+   "规格": "850ml单碗无盖",
+   "价格": "0.38",
+   "库存": 96434
+  },
+  {
+   "规格": "1000ml水粮一体碗无盖",
+   "价格": "0.39",
+   "库存": 57291
+  },
+  {
+   "规格": "4寸方碟",
+   "价格": "0.12",
+   "库存": 89792
+  },
+  {
+   "规格": "1000ml单碗无盖",
+   "价格": "0.41",
+   "库存": 92838
+  },
+  {
+   "规格": "16安士碗白色",
+   "价格": "0.24",
+   "库存": 99945
+  }
+ ],
+ "规格图": [
+  [
+   "220ml本色碗无盖",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01VbVURc22zWxoNF5HH_!!2213285107191-0-cib.jpg"
+  ],
+  [
+   "220ml白碗无盖",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01zohH2k22zWxl2l97t_!!2213285107191-0-cib.jpg"
+  ],
+  [
+   "200ml纸浆三角碗",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01E8wPja22zXGEItQDH_!!2213285107191-0-cib.jpg"
+  ],
+  [
+   "350ml本色碗无盖",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01JESiB322zWxat2BHU_!!2213285107191-0-cib.jpg"
+  ],
+  [
+   "350ml白碗无盖",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01UPTqed22zWxat54Bl_!!2213285107191-0-cib.jpg"
+  ],
+  [
+   "480ml本碗无盖",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01XoUJHk22zWxzauv90_!!2213285107191-0-cib.jpg"
+  ],
+  [
+   "480ml白碗无盖",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01M6X1Yn22zWy0nyoah_!!2213285107191-0-cib.jpg"
+  ],
+  [
+   "500ml本碗无盖",
+   "https://cbu01.alicdn.com/img/ibank/O1CN019awqwO22zWxjUfcvB_!!2213285107191-0-cib.jpg"
+  ],
+  [
+   "500ml白碗无盖",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01ev2aA322zWxfYcruF_!!2213285107191-0-cib.jpg"
+  ],
+  [
+   "680ml本碗无盖",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01VXwaH322zWy3iXUBc_!!2213285107191-0-cib.jpg"
+  ],
+  [
+   "680ml白碗无盖",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01y0Pda522zWxzav7ix_!!2213285107191-0-cib.jpg"
+  ],
+  [
+   "4寸方碟",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01ZaJOpL22zWxnK0R06_!!2213285107191-0-cib.jpg"
+  ],
+  [
+   "1000ml本色大敞口无盖",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01YLlYXx22zX47kIj0U_!!2213285107191-0-cib.jpg"
+  ],
+  [
+   "700ml水粮一体碗",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01IA2gdq22zX43CCGrA_!!2213285107191-0-cib.jpg"
+  ],
+  [
+   "850ml水粮一体碗无盖",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01HCtejB22zX43CCXYb_!!2213285107191-0-cib.jpg"
+  ],
+  [
+   "敞口1000ml水粮一体碗无盖",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01niS8jl22zWy7vVVqs_!!2213285107191-0-cib.jpg"
+  ],
+  [
+   "1000ml水粮一体碗无盖",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01Sshkid22zX4BMUW7O_!!2213285107191-0-cib.jpg"
+  ],
+  [
+   "500ml单碗无盖",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01vGnzbq22zX490Muy9_!!2213285107191-0-cib.jpg"
+  ],
+  [
+   "700ml单碗无盖",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01bvKbAv22zX490NemL_!!2213285107191-0-cib.jpg"
+  ],
+  [
+   "850ml单碗无盖",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01P7Ldbj22zX47kR7OP_!!2213285107191-0-cib.jpg"
+  ],
+  [
+   "1000ml单碗无盖",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01abCNNC22zX43CL8GA_!!2213285107191-0-cib.jpg"
+  ],
+  [
+   "敞口版1000ml单碗无盖",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01P55XMy22zWy5eJFMZ_!!2213285107191-0-cib.jpg"
+  ],
+  [
+   "500ml新超厚vip碗",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01ni7SUZ22zXA0FsNpd_!!2213285107191-0-cib.jpg"
+  ],
+  [
+   "750ml新超厚vip碗",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01Vma1Yq22zX9cGQGpI_!!2213285107191-0-cib.jpg"
+  ],
+  [
+   "12安士碗白色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01sr68e522zX9bWL3o4_!!2213285107191-0-cib.jpg"
+  ],
+  [
+   "12安士碗本色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01exYVtE22zX9asXDZV_!!2213285107191-0-cib.jpg"
+  ],
+  [
+   "16安士碗白色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01vzzxHg22zX9b2t1Hg_!!2213285107191-0-cib.jpg"
+  ],
+  [
+   "16安士碗本色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN014zZmE122zX9acz1e4_!!2213285107191-0-cib.jpg"
+  ],
+  [
+   "350ml特厚直筒碗",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01bANS7M22zXDX47J4g_!!2213285107191-0-cib.jpg"
+  ],
+  [
+   "800ml本色方形碗",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01d7wQJw22zX9bdPD1P_!!2213285107191-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "skuPrice",
+ "价格区间": null,
+ "阶梯价_登录后": [
+  {
+   "price": "0.10",
+   "beginAmount": 100
+  },
+  {
+   "price": "0.56",
+   "beginAmount": 100
+  }
+ ],
+ "到手价": null,
+ "起订量": 100,
+ "单位": "个",
+ "可售总量": 2535862,
+ "已售": 675653,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01n5r43q22zX98Dh9Zt_!!2213285107191-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01enpMAF22zX94Tnl0N_!!2213285107191-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01eEPpWq22zX97CliNk_!!2213285107191-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01mk28Ro22zX93h73Sj_!!2213285107191-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01yhuLdU22zWy2J4269_!!2213285107191-0-cib.jpg"
+ ],
+ "商品属性": [
+  "材质:其它",
+  "品牌:诺鲜",
+  "成套自动喂食:否",
+  "产地:山东",
+  "是否进口:否",
+  "货号:nxcwy",
+  "箱装数量:1000",
+  "是否专利货源:否",
+  "规格:220ml本色碗无盖/220ml白碗无盖/200ml纸浆三角碗/350ml本色碗无盖/350ml白碗无盖/480ml本碗无盖/480ml白碗无盖/500ml本碗无盖/500ml白碗无盖/680ml本碗无盖/680ml白碗无盖/4寸方碟/1000ml本色大敞口无盖/700ml水粮一体碗/850ml水粮一体碗无盖/敞口1000ml水粮一体碗无盖/1000ml水粮一体碗无盖/500ml单碗无盖/700ml单碗无盖/850ml单碗无盖/1000ml单碗无盖/敞口版1000ml单碗无盖/500ml新超厚vip碗/750ml新超厚vip碗/12安士碗白色/12安士碗本色/16安士碗白色/16安士碗本色/350ml特厚直筒碗/800ml本色方形碗",
+  "是否跨境出口专供货源:否",
+  "是否属于礼品:否",
+  "是否IP授权:否"
+ ],
+ "包装信息": [
+  {
+   "volume": 34656,
+   "length": 38,
+   "width": 38,
+   "weight": 10,
+   "height": 24
+  }
+ ],
+ "url": "https://detail.1688.com/offer/679914616367.html",
+ "核页时间": "2026-10-06T18:02:54.041Z"
+}

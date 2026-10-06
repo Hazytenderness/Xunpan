@@ -1,0 +1,1094 @@
+{
+ "offerId": "1034672283097",
+ "条目": "H0239",
+ "block": false,
+ "卖家公司": "永康市仕森工贸有限公司",
+ "旺旺名": "永康市仕森工贸有限公司",
+ "标题": "创意304不锈钢直身水杯迷你便携渐变保温杯可爱学生男女口袋水杯",
+ "状态": "PUBLISHED",
+ "类目": "保温杯",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "颜色",
+   "值": [
+    "白色【120ml】",
+    "黑色【120ml】",
+    "红色【120ml】",
+    "本色【120ml】",
+    "玫瑰金【120ml】",
+    "渐变本黄【120ml】",
+    "渐变本蓝【120ml】",
+    "渐变本粉【120ml】",
+    "渐变白蓝【120ml】",
+    "渐变白紫【120ml】",
+    "渐变粉黄【120ml】",
+    "渐变紫粉【120ml】",
+    "黑色【仿木纹】",
+    "白色【仿木纹】",
+    "西瓜红【仿木纹】",
+    "红褐色【仿木纹】",
+    "白色【150ml】",
+    "黑色【150ml】",
+    "酒红色【150ml】",
+    "咖啡色【150ml】",
+    "蓝色【150ml】",
+    "白色【280ml】",
+    "黑色【280ml】",
+    "灰色【280ml】",
+    "酒红色【280ml】",
+    "蓝色【280ml】",
+    "白色",
+    "黑色",
+    "蓝色",
+    "绿色",
+    "红色",
+    "浅绿色",
+    "浅紫色",
+    "粉红色",
+    "藏青色",
+    "象牙白【230ml】",
+    "土豪金【230ml】",
+    "淡青色【230ml】",
+    "岩石灰【230ml】",
+    "奶茶杏【230ml】",
+    "天空蓝【230ml】",
+    "玫瑰金【230ml】",
+    "活力橙【230ml】"
+   ]
+  },
+  {
+   "属性": "容量",
+   "值": [
+    "120ml",
+    "150ml",
+    "280ml",
+    "200ml",
+    "300ml",
+    "230ml"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "渐变粉黄【120ml】&gt;120ml",
+   "价格": "9.50",
+   "库存": 4996
+  },
+  {
+   "规格": "白色&gt;300ml",
+   "价格": "9.00",
+   "库存": 4999
+  },
+  {
+   "规格": "酒红色【150ml】&gt;150ml",
+   "价格": "11.50",
+   "库存": 4999
+  },
+  {
+   "规格": "黑色【280ml】&gt;280ml",
+   "价格": "12.00",
+   "库存": 5000
+  },
+  {
+   "规格": "玫瑰金【230ml】&gt;230ml",
+   "价格": "12.50",
+   "库存": 4998
+  },
+  {
+   "规格": "白色【280ml】&gt;280ml",
+   "价格": "12.00",
+   "库存": 4998
+  },
+  {
+   "规格": "粉红色&gt;200ml",
+   "价格": "8.50",
+   "库存": 5000
+  },
+  {
+   "规格": "本色【120ml】&gt;120ml",
+   "价格": "9.50",
+   "库存": 4998
+  },
+  {
+   "规格": "天空蓝【230ml】&gt;230ml",
+   "价格": "12.50",
+   "库存": 4998
+  },
+  {
+   "规格": "浅绿色&gt;300ml",
+   "价格": "9.00",
+   "库存": 4999
+  },
+  {
+   "规格": "玫瑰金【120ml】&gt;120ml",
+   "价格": "9.50",
+   "库存": 4998
+  },
+  {
+   "规格": "白色【120ml】&gt;120ml",
+   "价格": "9.50",
+   "库存": 4998
+  },
+  {
+   "规格": "白色&gt;200ml",
+   "价格": "8.50",
+   "库存": 5000
+  },
+  {
+   "规格": "蓝色【280ml】&gt;280ml",
+   "价格": "12.00",
+   "库存": 5000
+  },
+  {
+   "规格": "蓝色【150ml】&gt;150ml",
+   "价格": "11.50",
+   "库存": 4999
+  },
+  {
+   "规格": "浅紫色&gt;200ml",
+   "价格": "8.50",
+   "库存": 5000
+  },
+  {
+   "规格": "浅绿色&gt;200ml",
+   "价格": "8.50",
+   "库存": 5000
+  },
+  {
+   "规格": "土豪金【230ml】&gt;230ml",
+   "价格": "12.50",
+   "库存": 4998
+  },
+  {
+   "规格": "淡青色【230ml】&gt;230ml",
+   "价格": "12.50",
+   "库存": 5000
+  },
+  {
+   "规格": "活力橙【230ml】&gt;230ml",
+   "价格": "12.50",
+   "库存": 5000
+  },
+  {
+   "规格": "黑色【150ml】&gt;150ml",
+   "价格": "11.50",
+   "库存": 4998
+  },
+  {
+   "规格": "黑色【120ml】&gt;120ml",
+   "价格": "9.50",
+   "库存": 4997
+  },
+  {
+   "规格": "藏青色&gt;300ml",
+   "价格": "9.00",
+   "库存": 5000
+  },
+  {
+   "规格": "红色&gt;300ml",
+   "价格": "9.00",
+   "库存": 5000
+  },
+  {
+   "规格": "粉红色&gt;300ml",
+   "价格": "9.00",
+   "库存": 4999
+  },
+  {
+   "规格": "渐变本粉【120ml】&gt;120ml",
+   "价格": "9.50",
+   "库存": 4996
+  },
+  {
+   "规格": "渐变本蓝【120ml】&gt;120ml",
+   "价格": "9.50",
+   "库存": 4995
+  },
+  {
+   "规格": "绿色&gt;300ml",
+   "价格": "9.00",
+   "库存": 5000
+  },
+  {
+   "规格": "酒红色【280ml】&gt;280ml",
+   "价格": "12.00",
+   "库存": 5000
+  },
+  {
+   "规格": "西瓜红【仿木纹】&gt;150ml",
+   "价格": "12.50",
+   "库存": 5000
+  },
+  {
+   "规格": "奶茶杏【230ml】&gt;230ml",
+   "价格": "12.50",
+   "库存": 5000
+  },
+  {
+   "规格": "渐变白紫【120ml】&gt;120ml",
+   "价格": "9.50",
+   "库存": 4999
+  },
+  {
+   "规格": "藏青色&gt;200ml",
+   "价格": "8.50",
+   "库存": 5000
+  },
+  {
+   "规格": "白色【仿木纹】&gt;150ml",
+   "价格": "12.50",
+   "库存": 5000
+  },
+  {
+   "规格": "渐变白蓝【120ml】&gt;120ml",
+   "价格": "9.50",
+   "库存": 4999
+  },
+  {
+   "规格": "红色&gt;200ml",
+   "价格": "8.50",
+   "库存": 5000
+  },
+  {
+   "规格": "咖啡色【150ml】&gt;150ml",
+   "价格": "11.50",
+   "库存": 4995
+  },
+  {
+   "规格": "灰色【280ml】&gt;280ml",
+   "价格": "12.00",
+   "库存": 4998
+  },
+  {
+   "规格": "蓝色&gt;300ml",
+   "价格": "9.00",
+   "库存": 5000
+  },
+  {
+   "规格": "浅紫色&gt;300ml",
+   "价格": "9.00",
+   "库存": 5000
+  },
+  {
+   "规格": "渐变本黄【120ml】&gt;120ml",
+   "价格": "9.50",
+   "库存": 4998
+  },
+  {
+   "规格": "绿色&gt;200ml",
+   "价格": "8.50",
+   "库存": 4999
+  },
+  {
+   "规格": "岩石灰【230ml】&gt;230ml",
+   "价格": "12.50",
+   "库存": 5000
+  },
+  {
+   "规格": "黑色&gt;200ml",
+   "价格": "8.50",
+   "库存": 5000
+  },
+  {
+   "规格": "红褐色【仿木纹】&gt;150ml",
+   "价格": "12.50",
+   "库存": 4999
+  },
+  {
+   "规格": "蓝色&gt;200ml",
+   "价格": "8.50",
+   "库存": 5000
+  },
+  {
+   "规格": "白色【150ml】&gt;150ml",
+   "价格": "11.50",
+   "库存": 4997
+  },
+  {
+   "规格": "象牙白【230ml】&gt;230ml",
+   "价格": "12.50",
+   "库存": 4999
+  },
+  {
+   "规格": "渐变紫粉【120ml】&gt;120ml",
+   "价格": "9.50",
+   "库存": 4995
+  },
+  {
+   "规格": "黑色【仿木纹】&gt;150ml",
+   "价格": "12.50",
+   "库存": 5000
+  },
+  {
+   "规格": "红色【120ml】&gt;120ml",
+   "价格": "9.50",
+   "库存": 4994
+  },
+  {
+   "规格": "黑色&gt;300ml",
+   "价格": "9.00",
+   "库存": 5000
+  }
+ ],
+ "规格图": [
+  [
+   "白色【120ml】",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01oRkDXU1fKYdlvy675_!!2215542963988-0-cib.jpg"
+  ],
+  [
+   "黑色【120ml】",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01sHVK1E1fKYdl0GNZ9_!!2215542963988-0-cib.jpg"
+  ],
+  [
+   "红色【120ml】",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01j8sqrQ1fKYdkerDXV_!!2215542963988-0-cib.jpg"
+  ],
+  [
+   "本色【120ml】",
+   "https://cbu01.alicdn.com/img/ibank/O1CN019qD7wp1fKYdl0HFcS_!!2215542963988-0-cib.jpg"
+  ],
+  [
+   "玫瑰金【120ml】",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01Nof8Uv1fKYdl0F2Pb_!!2215542963988-0-cib.jpg"
+  ],
+  [
+   "渐变本黄【120ml】",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01qWwBx81fKYdl0HJmU_!!2215542963988-0-cib.jpg"
+  ],
+  [
+   "渐变本蓝【120ml】",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01FlhMDp1fKYdl0FRMe_!!2215542963988-0-cib.jpg"
+  ],
+  [
+   "渐变本粉【120ml】",
+   "https://cbu01.alicdn.com/img/ibank/O1CN010NLPYw1fKYdkwRDFY_!!2215542963988-0-cib.jpg"
+  ],
+  [
+   "渐变白蓝【120ml】",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01xPz1Cl1fKYdkNEIwZ_!!2215542963988-0-cib.jpg"
+  ],
+  [
+   "渐变白紫【120ml】",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01h5p0pR1fKYdkwRcCZ_!!2215542963988-0-cib.jpg"
+  ],
+  [
+   "渐变粉黄【120ml】",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01BGeBmz1fKYdl1xHpv_!!2215542963988-0-cib.jpg"
+  ],
+  [
+   "渐变紫粉【120ml】",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01mOfgtQ1fKYdkj1y9Y_!!2215542963988-0-cib.jpg"
+  ],
+  [
+   "黑色【仿木纹】",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01Cfhfw51fKYdkCVgHX_!!2215542963988-0-cib.jpg"
+  ],
+  [
+   "白色【仿木纹】",
+   "https://cbu01.alicdn.com/img/ibank/O1CN011b7Rd71fKYdkwb57f_!!2215542963988-0-cib.jpg"
+  ],
+  [
+   "西瓜红【仿木纹】",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01n4WiUp1fKYdl2BaAT_!!2215542963988-0-cib.jpg"
+  ],
+  [
+   "红褐色【仿木纹】",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01XDY91e1fKYdkCXxfY_!!2215542963988-0-cib.jpg"
+  ],
+  [
+   "白色【150ml】",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01ygBKsH1fKYdkWcfUO_!!2215542963988-0-cib.jpg"
+  ],
+  [
+   "黑色【150ml】",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01sLLZBS1fKYdkfIKwC_!!2215542963988-0-cib.jpg"
+  ],
+  [
+   "酒红色【150ml】",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01Ldx3ug1fKYdkwm5jK_!!2215542963988-0-cib.jpg"
+  ],
+  [
+   "咖啡色【150ml】",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01vvk1q91fKYdkNf9t5_!!2215542963988-0-cib.jpg"
+  ],
+  [
+   "蓝色【150ml】",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01cvPqei1fKYdkWd0JU_!!2215542963988-0-cib.jpg"
+  ],
+  [
+   "白色【280ml】",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01uEyPfx1fKYdkZJPN1_!!2215542963988-0-cib.jpg"
+  ],
+  [
+   "黑色【280ml】",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01IE9xiV1fKYdkgC82m_!!2215542963988-0-cib.jpg"
+  ],
+  [
+   "灰色【280ml】",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01sTUWfd1fKYdkDeRM9_!!2215542963988-0-cib.jpg"
+  ],
+  [
+   "酒红色【280ml】",
+   "https://cbu01.alicdn.com/img/ibank/O1CN019UQGsj1fKYdkXVBET_!!2215542963988-0-cib.jpg"
+  ],
+  [
+   "蓝色【280ml】",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01MOAAxe1fKYdl3Kbv8_!!2215542963988-0-cib.jpg"
+  ],
+  [
+   "白色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN014st5SX1fKYdkjndJa_!!2215542963988-0-cib.jpg"
+  ],
+  [
+   "黑色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01pQ6j771fKYdlwjxxi_!!2215542963988-0-cib.jpg"
+  ],
+  [
+   "蓝色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01MC2FtD1fKYdk439Va_!!2215542963988-0-cib.jpg"
+  ],
+  [
+   "绿色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01WWGBEf1fKYdkoozwk_!!2215542963988-0-cib.jpg"
+  ],
+  [
+   "红色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01nV7Ok21fKYdl17kUi_!!2215542963988-0-cib.jpg"
+  ],
+  [
+   "浅绿色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01YWhSSQ1fKYdkjoN3n_!!2215542963988-0-cib.jpg"
+  ],
+  [
+   "浅紫色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01ilaFsp1fKYdfgRhH0_!!2215542963988-0-cib.jpg"
+  ],
+  [
+   "粉红色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01g8wN6F1fKYdkjo6Qp_!!2215542963988-0-cib.jpg"
+  ],
+  [
+   "藏青色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01d84VmI1fKYdk44pRV_!!2215542963988-0-cib.jpg"
+  ],
+  [
+   "象牙白【230ml】",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01R9RPwO1fKYdkj7OM8_!!2215542963988-0-cib.jpg"
+  ],
+  [
+   "土豪金【230ml】",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01sM9c3u1fKYdkGcO4m_!!2215542963988-0-cib.jpg"
+  ],
+  [
+   "淡青色【230ml】",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01wEzIO81fKYdkPyaOR_!!2215542963988-0-cib.jpg"
+  ],
+  [
+   "岩石灰【230ml】",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01frzBqf1fKYdl6J1s0_!!2215542963988-0-cib.jpg"
+  ],
+  [
+   "奶茶杏【230ml】",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01W0Sir51fKYdkRQ7Eq_!!2215542963988-0-cib.jpg"
+  ],
+  [
+   "天空蓝【230ml】",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01yaa0Fi1fKYdm06ksW_!!2215542963988-0-cib.jpg"
+  ],
+  [
+   "玫瑰金【230ml】",
+   "https://cbu01.alicdn.com/img/ibank/O1CN014pEa231fKYdl0edRb_!!2215542963988-0-cib.jpg"
+  ],
+  [
+   "活力橙【230ml】",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01ntdysR1fKYdkGbJcG_!!2215542963988-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "skuPrice",
+ "价格区间": "8.50-12.50",
+ "阶梯价_登录后": [
+  {
+   "price": "8.50",
+   "beginAmount": 1
+  },
+  {
+   "price": "12.50",
+   "beginAmount": 1
+  }
+ ],
+ "到手价": null,
+ "起订量": 1,
+ "单位": "个",
+ "可售总量": 259935,
+ "已售": 63,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01QgQ0BF1fKYdfevqa3_!!2215542963988-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01C7F0dL1fKYdkVYXh9_!!2215542963988-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01TTxGns1fKYdkh8j8V_!!2215542963988-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01M2Ru7a1fKYdkuv6ki_!!2215542963988-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01hMazdF1fKYdkzezAe_!!2215542963988-0-cib.jpg"
+ ],
+ "商品属性": [
+  "内胆材质:304不锈钢",
+  "品牌:无",
+  "功能:家用",
+  "保温性能:6-12小时",
+  "外壳材质:201不锈钢",
+  "货号:口袋杯集合加工",
+  "样式:直身杯",
+  "材质:内304外201",
+  "风格:户外",
+  "是否进口:否",
+  "是否有专利:否",
+  "是否跨境出口专供货源:否",
+  "版权:无",
+  "是否属于礼品:是，商务礼品",
+  "送礼用途:积分换购礼品/商务礼品/广告礼品/促销赠品/会议礼品/福利礼品/节庆礼品/嘉奖纪念/公关礼品/其他",
+  "适用节日:圣诞节/情人节/春节/父亲节/母亲节/教师节/元旦/七夕/万圣节/复活节/国庆节/儿童节/妇女节/其他",
+  "适用送礼关系:晚辈/情侣/夫妻/同事/朋友/长辈/孩子/同学/恩师/其他",
+  "适用送礼场合:生日/满月/旅游纪念/毕业/乔迁/派对聚会/探病慰问/其他",
+  "产品上市时间:2018",
+  "产品质量等级:优等品",
+  "适用人群:通用",
+  "适用场景:通用",
+  "是否有第三方检测报告:没有",
+  "定制工艺选择:热转印/激光雕刻/丝印/水转印/水贴膜/3D打印/5d打印/漆转印/内喷陶瓷/其他",
+  "包装规格:单个",
+  "价格段:10-20元",
+  "加工定制:是",
+  "加印LOGO:可以",
+  "颜色:白色【120ml】/黑色【120ml】/红色【120ml】/本色【120ml】/玫瑰金【120ml】/渐变本黄【120ml】/渐变本蓝【120ml】/渐变本粉【120ml】/渐变白蓝【120ml】/渐变白紫【120ml】/渐变粉黄【120ml】/渐变紫粉【120ml】/黑色【仿木纹】/白色【仿木纹】/西瓜红【仿木纹】/红褐色【仿木纹】/白色【150ml】/黑色【150ml】/酒红色【150ml】/咖啡色【150ml】/蓝色【150ml】/白色【280ml】/黑色【280ml】/灰色【280ml】/酒红色【280ml】/蓝色【280ml】/白色/黑色/蓝色/绿色/红色/浅绿色/浅紫色/粉红色/藏青色/象牙白【230ml】/土豪金【230ml】/淡青色【230ml】/岩石灰【230ml】/奶茶杏【230ml】/天空蓝【230ml】/玫瑰金【230ml】/活力橙【230ml】",
+  "容量:120ml/150ml/280ml/200ml/300ml/230ml",
+  "是否带茶隔:带茶隔",
+  "杯子种类:保温杯",
+  "包装种类:基础包装",
+  "是否显示温度:不支持温度显示",
+  "杯盖材质:304不锈钢",
+  "杯盖类型:旋盖"
+ ],
+ "包装信息": [
+  {
+   "sku2": "120ml",
+   "volume": 460.868,
+   "sku1": "白色【120ml】",
+   "length": 13.7,
+   "width": 5.8,
+   "weight": 180,
+   "skuId": 6216744646912,
+   "height": 5.8
+  },
+  {
+   "sku2": "120ml",
+   "volume": 460.868,
+   "sku1": "黑色【120ml】",
+   "length": 13.7,
+   "width": 5.8,
+   "weight": 180,
+   "skuId": 6216744646917,
+   "height": 5.8
+  },
+  {
+   "sku2": "120ml",
+   "volume": 460.868,
+   "sku1": "红色【120ml】",
+   "length": 13.7,
+   "width": 5.8,
+   "weight": 180,
+   "skuId": 6216744646922,
+   "height": 5.8
+  },
+  {
+   "sku2": "120ml",
+   "volume": 460.868,
+   "sku1": "本色【120ml】",
+   "length": 13.7,
+   "width": 5.8,
+   "weight": 180,
+   "skuId": 6216744646927,
+   "height": 5.8
+  },
+  {
+   "sku2": "120ml",
+   "volume": 460.868,
+   "sku1": "玫瑰金【120ml】",
+   "length": 13.7,
+   "width": 5.8,
+   "weight": 180,
+   "skuId": 6216744646932,
+   "height": 5.8
+  },
+  {
+   "sku2": "120ml",
+   "volume": 460.868,
+   "sku1": "渐变本黄【120ml】",
+   "length": 13.7,
+   "width": 5.8,
+   "weight": 180,
+   "skuId": 6216744646937,
+   "height": 5.8
+  },
+  {
+   "sku2": "120ml",
+   "volume": 460.868,
+   "sku1": "渐变本蓝【120ml】",
+   "length": 13.7,
+   "width": 5.8,
+   "weight": 180,
+   "skuId": 6216744646942,
+   "height": 5.8
+  },
+  {
+   "sku2": "120ml",
+   "volume": 460.868,
+   "sku1": "渐变本粉【120ml】",
+   "length": 13.7,
+   "width": 5.8,
+   "weight": 180,
+   "skuId": 6216744646947,
+   "height": 5.8
+  },
+  {
+   "sku2": "120ml",
+   "volume": 460.868,
+   "sku1": "渐变白蓝【120ml】",
+   "length": 13.7,
+   "width": 5.8,
+   "weight": 180,
+   "skuId": 6216744646952,
+   "height": 5.8
+  },
+  {
+   "sku2": "120ml",
+   "volume": 460.868,
+   "sku1": "渐变白紫【120ml】",
+   "length": 13.7,
+   "width": 5.8,
+   "weight": 180,
+   "skuId": 6216744646957,
+   "height": 5.8
+  },
+  {
+   "sku2": "120ml",
+   "volume": 460.868,
+   "sku1": "渐变粉黄【120ml】",
+   "length": 13.7,
+   "width": 5.8,
+   "weight": 180,
+   "skuId": 6216744646962,
+   "height": 5.8
+  },
+  {
+   "sku2": "120ml",
+   "volume": 460.868,
+   "sku1": "渐变紫粉【120ml】",
+   "length": 13.7,
+   "width": 5.8,
+   "weight": 180,
+   "skuId": 6216744646967,
+   "height": 5.8
+  },
+  {
+   "sku2": "150ml",
+   "volume": 460.868,
+   "sku1": "黑色【仿木纹】",
+   "length": 13.7,
+   "width": 5.8,
+   "weight": 180,
+   "skuId": 6216744646973,
+   "height": 5.8
+  },
+  {
+   "sku2": "150ml",
+   "volume": 460.868,
+   "sku1": "白色【仿木纹】",
+   "length": 13.7,
+   "width": 5.8,
+   "weight": 180,
+   "skuId": 6216744646978,
+   "height": 5.8
+  },
+  {
+   "sku2": "150ml",
+   "volume": 460.868,
+   "sku1": "西瓜红【仿木纹】",
+   "length": 13.7,
+   "width": 5.8,
+   "weight": 180,
+   "skuId": 6216744646983,
+   "height": 5.8
+  },
+  {
+   "sku2": "150ml",
+   "volume": 460.868,
+   "sku1": "红褐色【仿木纹】",
+   "length": 13.7,
+   "width": 5.8,
+   "weight": 180,
+   "skuId": 6216744646988,
+   "height": 5.8
+  },
+  {
+   "sku2": "150ml",
+   "volume": 460.868,
+   "sku1": "白色【150ml】",
+   "length": 13.7,
+   "width": 5.8,
+   "weight": 180,
+   "skuId": 6216744646993,
+   "height": 5.8
+  },
+  {
+   "sku2": "150ml",
+   "volume": 460.868,
+   "sku1": "黑色【150ml】",
+   "length": 13.7,
+   "width": 5.8,
+   "weight": 180,
+   "skuId": 6216744646998,
+   "height": 5.8
+  },
+  {
+   "sku2": "150ml",
+   "volume": 460.868,
+   "sku1": "酒红色【150ml】",
+   "length": 13.7,
+   "width": 5.8,
+   "weight": 180,
+   "skuId": 6052464285003,
+   "height": 5.8
+  },
+  {
+   "sku2": "150ml",
+   "volume": 460.868,
+   "sku1": "咖啡色【150ml】",
+   "length": 13.7,
+   "width": 5.8,
+   "weight": 180,
+   "skuId": 6052464285008,
+   "height": 5.8
+  },
+  {
+   "sku2": "150ml",
+   "volume": 460.868,
+   "sku1": "蓝色【150ml】",
+   "length": 13.7,
+   "width": 5.8,
+   "weight": 180,
+   "skuId": 6052464285013,
+   "height": 5.8
+  },
+  {
+   "sku2": "280ml",
+   "volume": 460.868,
+   "sku1": "白色【280ml】",
+   "length": 13.7,
+   "width": 5.8,
+   "weight": 180,
+   "skuId": 6052464285020,
+   "height": 5.8
+  },
+  {
+   "sku2": "280ml",
+   "volume": 460.868,
+   "sku1": "黑色【280ml】",
+   "length": 13.7,
+   "width": 5.8,
+   "weight": 180,
+   "skuId": 6052464285025,
+   "height": 5.8
+  },
+  {
+   "sku2": "280ml",
+   "volume": 460.868,
+   "sku1": "灰色【280ml】",
+   "length": 13.7,
+   "width": 5.8,
+   "weight": 180,
+   "skuId": 6052464285030,
+   "height": 5.8
+  },
+  {
+   "sku2": "280ml",
+   "volume": 460.868,
+   "sku1": "酒红色【280ml】",
+   "length": 13.7,
+   "width": 5.8,
+   "weight": 180,
+   "skuId": 6052464285035,
+   "height": 5.8
+  },
+  {
+   "sku2": "280ml",
+   "volume": 460.868,
+   "sku1": "蓝色【280ml】",
+   "length": 13.7,
+   "width": 5.8,
+   "weight": 180,
+   "skuId": 6052464285040,
+   "height": 5.8
+  },
+  {
+   "sku2": "200ml",
+   "volume": 460.868,
+   "sku1": "白色",
+   "length": 13.7,
+   "width": 5.8,
+   "weight": 180,
+   "skuId": 6052464285044,
+   "height": 5.8
+  },
+  {
+   "sku2": "300ml",
+   "volume": 460.868,
+   "sku1": "白色",
+   "length": 13.7,
+   "width": 5.8,
+   "weight": 180,
+   "skuId": 6052464285046,
+   "height": 5.8
+  },
+  {
+   "sku2": "200ml",
+   "volume": 460.868,
+   "sku1": "黑色",
+   "length": 13.7,
+   "width": 5.8,
+   "weight": 180,
+   "skuId": 6052464285049,
+   "height": 5.8
+  },
+  {
+   "sku2": "300ml",
+   "volume": 460.868,
+   "sku1": "黑色",
+   "length": 13.7,
+   "width": 5.8,
+   "weight": 180,
+   "skuId": 6052464285051,
+   "height": 5.8
+  },
+  {
+   "sku2": "200ml",
+   "volume": 460.868,
+   "sku1": "蓝色",
+   "length": 13.7,
+   "width": 5.8,
+   "weight": 180,
+   "skuId": 6052464285054,
+   "height": 5.8
+  },
+  {
+   "sku2": "300ml",
+   "volume": 460.868,
+   "sku1": "蓝色",
+   "length": 13.7,
+   "width": 5.8,
+   "weight": 180,
+   "skuId": 6052464285056,
+   "height": 5.8
+  },
+  {
+   "sku2": "200ml",
+   "volume": 460.868,
+   "sku1": "绿色",
+   "length": 13.7,
+   "width": 5.8,
+   "weight": 180,
+   "skuId": 6052464285059,
+   "height": 5.8
+  },
+  {
+   "sku2": "300ml",
+   "volume": 460.868,
+   "sku1": "绿色",
+   "length": 13.7,
+   "width": 5.8,
+   "weight": 180,
+   "skuId": 6052464285061,
+   "height": 5.8
+  },
+  {
+   "sku2": "200ml",
+   "volume": 460.868,
+   "sku1": "红色",
+   "length": 13.7,
+   "width": 5.8,
+   "weight": 180,
+   "skuId": 6052464285064,
+   "height": 5.8
+  },
+  {
+   "sku2": "300ml",
+   "volume": 460.868,
+   "sku1": "红色",
+   "length": 13.7,
+   "width": 5.8,
+   "weight": 180,
+   "skuId": 6052464285066,
+   "height": 5.8
+  },
+  {
+   "sku2": "200ml",
+   "volume": 460.868,
+   "sku1": "浅绿色",
+   "length": 13.7,
+   "width": 5.8,
+   "weight": 180,
+   "skuId": 6052464285069,
+   "height": 5.8
+  },
+  {
+   "sku2": "300ml",
+   "volume": 460.868,
+   "sku1": "浅绿色",
+   "length": 13.7,
+   "width": 5.8,
+   "weight": 180,
+   "skuId": 6052464285071,
+   "height": 5.8
+  },
+  {
+   "sku2": "200ml",
+   "volume": 460.868,
+   "sku1": "浅紫色",
+   "length": 13.7,
+   "width": 5.8,
+   "weight": 180,
+   "skuId": 6052464285074,
+   "height": 5.8
+  },
+  {
+   "sku2": "300ml",
+   "volume": 460.868,
+   "sku1": "浅紫色",
+   "length": 13.7,
+   "width": 5.8,
+   "weight": 180,
+   "skuId": 6052464285076,
+   "height": 5.8
+  },
+  {
+   "sku2": "200ml",
+   "volume": 460.868,
+   "sku1": "粉红色",
+   "length": 13.7,
+   "width": 5.8,
+   "weight": 180,
+   "skuId": 6052464285079,
+   "height": 5.8
+  },
+  {
+   "sku2": "300ml",
+   "volume": 460.868,
+   "sku1": "粉红色",
+   "length": 13.7,
+   "width": 5.8,
+   "weight": 180,
+   "skuId": 6052464285081,
+   "height": 5.8
+  },
+  {
+   "sku2": "200ml",
+   "volume": 460.868,
+   "sku1": "藏青色",
+   "length": 13.7,
+   "width": 5.8,
+   "weight": 180,
+   "skuId": 6052464285084,
+   "height": 5.8
+  },
+  {
+   "sku2": "300ml",
+   "volume": 460.868,
+   "sku1": "藏青色",
+   "length": 13.7,
+   "width": 5.8,
+   "weight": 180,
+   "skuId": 6052464285086,
+   "height": 5.8
+  },
+  {
+   "sku2": "230ml",
+   "volume": 0,
+   "sku1": "象牙白【230ml】",
+   "length": 0,
+   "width": 0,
+   "weight": 180,
+   "skuId": 6052491321056,
+   "height": 0
+  },
+  {
+   "sku2": "230ml",
+   "volume": 0,
+   "sku1": "土豪金【230ml】",
+   "length": 0,
+   "width": 0,
+   "weight": 180,
+   "skuId": 6052491321050,
+   "height": 0
+  },
+  {
+   "sku2": "230ml",
+   "volume": 0,
+   "sku1": "淡青色【230ml】",
+   "length": 0,
+   "width": 0,
+   "weight": 180,
+   "skuId": 6052491321051,
+   "height": 0
+  },
+  {
+   "sku2": "230ml",
+   "volume": 0,
+   "sku1": "岩石灰【230ml】",
+   "length": 0,
+   "width": 0,
+   "weight": 180,
+   "skuId": 6052491321049,
+   "height": 0
+  },
+  {
+   "sku2": "230ml",
+   "volume": 0,
+   "sku1": "奶茶杏【230ml】",
+   "length": 0,
+   "width": 0,
+   "weight": 180,
+   "skuId": 6052491321048,
+   "height": 0
+  },
+  {
+   "sku2": "230ml",
+   "volume": 0,
+   "sku1": "天空蓝【230ml】",
+   "length": 0,
+   "width": 0,
+   "weight": 180,
+   "skuId": 6052491321021,
+   "height": 0
+  },
+  {
+   "sku2": "230ml",
+   "volume": 0,
+   "sku1": "玫瑰金【230ml】",
+   "length": 0,
+   "width": 0,
+   "weight": 180,
+   "skuId": 6052491321017,
+   "height": 0
+  },
+  {
+   "sku2": "230ml",
+   "volume": 0,
+   "sku1": "活力橙【230ml】",
+   "length": 0,
+   "width": 0,
+   "weight": 180,
+   "skuId": 6052491321052,
+   "height": 0
+  }
+ ],
+ "url": "https://detail.1688.com/offer/1034672283097.html",
+ "核页时间": "2026-10-06T15:51:17.918Z"
+}

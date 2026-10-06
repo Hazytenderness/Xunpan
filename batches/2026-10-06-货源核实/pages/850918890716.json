@@ -1,0 +1,151 @@
+{
+ "offerId": "850918890716",
+ "条目": "H0956",
+ "block": false,
+ "卖家公司": "台州市黄岩经纬塑业有限公司",
+ "旺旺名": "benhomes",
+ "标题": "家用双层简约加厚垃圾桶卫生间客厅厨房卧室厕所桌面收纳桶清洁",
+ "状态": "PUBLISHED",
+ "类目": "垃圾桶",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "颜色",
+   "值": [
+    "奶油色",
+    "白色",
+    "浅灰",
+    "黑色"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "奶油色",
+   "价格": null,
+   "库存": 87945
+  },
+  {
+   "规格": "黑色",
+   "价格": null,
+   "库存": 88307
+  },
+  {
+   "规格": "白色",
+   "价格": null,
+   "库存": 88246
+  },
+  {
+   "规格": "浅灰",
+   "价格": null,
+   "库存": 88626
+  }
+ ],
+ "规格图": [
+  [
+   "奶油色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01DTnSYT1oJ1jm89HvV_!!1011525203-0-cib.jpg"
+  ],
+  [
+   "白色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01CnJ5W51oJ1jk0sMYL_!!1011525203-0-cib.jpg"
+  ],
+  [
+   "浅灰",
+   "https://cbu01.alicdn.com/img/ibank/O1CN018vcpmg1oJ1jnIuvju_!!1011525203-0-cib.jpg"
+  ],
+  [
+   "黑色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01BHsrC71oJ1jp2vwIe_!!1011525203-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "rangePrice",
+ "价格区间": null,
+ "阶梯价_登录后": [
+  {
+   "price": "6.80",
+   "beginAmount": 2
+  },
+  {
+   "price": "6.60",
+   "beginAmount": 36
+  },
+  {
+   "price": "6.20",
+   "beginAmount": 360
+  }
+ ],
+ "到手价": null,
+ "起订量": 2,
+ "单位": "个",
+ "可售总量": 353124,
+ "已售": 1197,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01liHEOO1oJ1joWL3Wl_!!1011525203-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN016aNoNX1oJ1jmpHdwY_!!1011525203-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01G8Pd0V1oJ1jmEHObh_!!1011525203-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01cKcDwT1oJ1jkjucen_!!1011525203-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01xflibb1oJ1jnKNhLP_!!1011525203-0-cib.jpg"
+ ],
+ "商品属性": [
+  "材质:塑料",
+  "品牌:乐艺佳",
+  "功能:收纳桶",
+  "容量:4L以下",
+  "开合方式:无盖",
+  "形状:圆桶形",
+  "是否进口:否",
+  "产地:浙江台州",
+  "箱装数量:36",
+  "贸易属性:内贸+外贸",
+  "价格段:5元以内",
+  "产品上市时间:2023",
+  "专利:否",
+  "塑料新料占比:80%—99%新料",
+  "货号:JW-6005",
+  "颜色:奶油色/白色/浅灰/黑色",
+  "使用场景:家用",
+  "出口检测机构:其他",
+  "毛重:0.4"
+ ],
+ "包装信息": [
+  {
+   "volume": 3825,
+   "sku1": "奶油色",
+   "length": 15,
+   "width": 15,
+   "weight": 350,
+   "skuId": 5812979679627,
+   "height": 17
+  },
+  {
+   "volume": 3825,
+   "sku1": "白色",
+   "length": 15,
+   "width": 15,
+   "weight": 350,
+   "skuId": 5812979679628,
+   "height": 17
+  },
+  {
+   "volume": 3825,
+   "sku1": "浅灰",
+   "length": 15,
+   "width": 15,
+   "weight": 350,
+   "skuId": 5812979679629,
+   "height": 17
+  },
+  {
+   "volume": 3825,
+   "sku1": "黑色",
+   "length": 15,
+   "width": 15,
+   "weight": 350,
+   "skuId": 5812979679630,
+   "height": 17
+  }
+ ],
+ "url": "https://detail.1688.com/offer/850918890716.html",
+ "核页时间": "2026-10-06T19:16:11.238Z"
+}

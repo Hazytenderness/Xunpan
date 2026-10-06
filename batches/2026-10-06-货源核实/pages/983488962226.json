@@ -1,0 +1,159 @@
+{
+ "offerId": "983488962226",
+ "条目": "H0392",
+ "block": false,
+ "卖家公司": "深圳市智通网络有限公司",
+ "旺旺名": "ztwl智通",
+ "标题": "跨境现货厨房防滑水槽垫 pvc水槽垫碗筷排水垫30*40cm",
+ "状态": "PUBLISHED",
+ "类目": "餐垫、杯垫",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "颜色",
+   "值": [
+    "黑色",
+    "棕色",
+    "透明",
+    "透墨绿",
+    "透古铜",
+    "米灰色",
+    "深灰色"
+   ]
+  },
+  {
+   "属性": "规格",
+   "值": [
+    "30*40CM"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "深灰色&gt;30*40CM",
+   "价格": "7.00",
+   "库存": 38
+  },
+  {
+   "规格": "透古铜&gt;30*40CM",
+   "价格": "7.00",
+   "库存": 18
+  },
+  {
+   "规格": "米灰色&gt;30*40CM",
+   "价格": "7.00",
+   "库存": 24
+  },
+  {
+   "规格": "棕色&gt;30*40CM",
+   "价格": "7.00",
+   "库存": 1702
+  },
+  {
+   "规格": "透明&gt;30*40CM",
+   "价格": "7.00",
+   "库存": 1512
+  },
+  {
+   "规格": "透墨绿&gt;30*40CM",
+   "价格": "7.00",
+   "库存": 222
+  },
+  {
+   "规格": "黑色&gt;30*40CM",
+   "价格": "7.00",
+   "库存": 1505
+  }
+ ],
+ "规格图": [
+  [
+   "黑色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01lI2z1S1tTAfywWZcm_!!2220926465902-0-cib.jpg"
+  ],
+  [
+   "棕色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01ZBIBie1tTAfx4sqIp_!!2220926465902-0-cib.jpg"
+  ],
+  [
+   "透明",
+   "https://cbu01.alicdn.com/img/ibank/O1CN0134QexJ1tTAfxVR3x7_!!2220926465902-0-cib.jpg"
+  ],
+  [
+   "透墨绿",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01ImdbPW1tTAfsOtqDK_!!2220926465902-0-cib.jpg"
+  ],
+  [
+   "透古铜",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01Kiu8A21tTAizD5L44_!!2220926465902-0-cib.jpg"
+  ],
+  [
+   "米灰色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01iNZOaZ1tTAj5xfQ1d_!!2220926465902-0-cib.jpg"
+  ],
+  [
+   "深灰色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01zE7mW91tTAj66hsPa_!!2220926465902-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "rangePrice",
+ "价格区间": "6.00-7.00",
+ "阶梯价_登录后": [
+  {
+   "price": "7.00",
+   "beginAmount": 1
+  },
+  {
+   "price": "6.80",
+   "beginAmount": 1000
+  },
+  {
+   "price": "6.00",
+   "beginAmount": 10000
+  }
+ ],
+ "到手价": null,
+ "起订量": 1,
+ "单位": "个",
+ "可售总量": 5021,
+ "已售": 5948,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01AnvPF51tTAfxvRxDZ_!!2220926465902-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01HXqNba1tTAfsJMFT4_!!2220926465902-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01Vp2PZm1tTAfxnNg57_!!2220926465902-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01lUtIlA1tTAfyHKEdz_!!2220926465902-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01AWhqTw1tTAfyNawSN_!!2220926465902-0-cib.jpg"
+ ],
+ "商品属性": [
+  "材质:PVC",
+  "品牌:ZT",
+  "形状:方形",
+  "产品质量等级:一等品",
+  "风格:现代简约风",
+  "是否进口:否",
+  "货号:01",
+  "图案:纯色",
+  "产品上市时间:2020年秋",
+  "价格段:5-10元",
+  "产地:深圳",
+  "是否有专利:无",
+  "颜色:黑色/棕色/透明/透墨绿/透古铜/米灰色/深灰色",
+  "主要下游平台:亚马逊",
+  "主要销售地区:欧洲",
+  "有可授权的自有品牌:否",
+  "是否跨境出口专供货源:是",
+  "规格:30*40CM",
+  "是否插电:否",
+  "是否可降解:是"
+ ],
+ "包装信息": [
+  {
+   "volume": 360,
+   "length": 40,
+   "width": 30,
+   "weight": 260,
+   "height": 0.3
+  }
+ ],
+ "url": "https://detail.1688.com/offer/983488962226.html",
+ "核页时间": "2026-10-06T16:36:37.864Z"
+}

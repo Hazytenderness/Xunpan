@@ -1,0 +1,895 @@
+{
+ "offerId": "646821635046",
+ "条目": "H1002",
+ "block": false,
+ "卖家公司": "永康市锦川杯业有限公司",
+ "旺旺名": "永康市锦川杯业有限公司",
+ "标题": "跨境蛋壳杯双层不锈钢红酒杯大肚水杯真空U型鸡蛋杯保温杯蛋壳杯",
+ "状态": "PUBLISHED",
+ "类目": "保温杯",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "颜色",
+   "值": [
+    "本色不喷漆杯体",
+    "白桦木",
+    "白木纹",
+    "卡巴娜",
+    "柚木",
+    "黄家木",
+    "黑森林",
+    "百合木",
+    "绿桦木",
+    "蓝水滴",
+    "圣托里尼",
+    "木纹新款S1",
+    "木纹新款S2",
+    "木纹新款S3",
+    "木纹新款S4",
+    "木纹新款S5",
+    "芭蕉叶",
+    "白晶石",
+    "白色繁花",
+    "黑晶石",
+    "金丝卡拉",
+    "蓝色梦幻",
+    "蓝色火烈鸟",
+    "玛瑙绿",
+    "梦幻白",
+    "魔幻紫",
+    "山峰",
+    "珊瑚蓝",
+    "小碎花",
+    "星空粉",
+    "星空黑",
+    "星空蓝",
+    "星空紫",
+    "星系旋涡",
+    "珍珠母",
+    "几何-蓝色",
+    "几何-粉色",
+    "几何-黄色",
+    "几何-红色",
+    "几何-青色"
+   ]
+  },
+  {
+   "属性": "容量",
+   "值": [
+    "12oz"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "黄家木&gt;12oz",
+   "价格": "17.00",
+   "库存": 19951
+  },
+  {
+   "规格": "木纹新款S5&gt;12oz",
+   "价格": "17.00",
+   "库存": 19823
+  },
+  {
+   "规格": "星空黑&gt;12oz",
+   "价格": "17.00",
+   "库存": 19724
+  },
+  {
+   "规格": "珍珠母&gt;12oz",
+   "价格": "17.00",
+   "库存": 19989
+  },
+  {
+   "规格": "木纹新款S4&gt;12oz",
+   "价格": "17.00",
+   "库存": 19712
+  },
+  {
+   "规格": "玛瑙绿&gt;12oz",
+   "价格": "17.00",
+   "库存": 19987
+  },
+  {
+   "规格": "山峰&gt;12oz",
+   "价格": "17.00",
+   "库存": 19842
+  },
+  {
+   "规格": "几何-粉色&gt;12oz",
+   "价格": "17.00",
+   "库存": 19648
+  },
+  {
+   "规格": "星空粉&gt;12oz",
+   "价格": "17.00",
+   "库存": 19975
+  },
+  {
+   "规格": "木纹新款S1&gt;12oz",
+   "价格": "17.00",
+   "库存": 19108
+  },
+  {
+   "规格": "卡巴娜&gt;12oz",
+   "价格": "17.00",
+   "库存": 19989
+  },
+  {
+   "规格": "蓝色梦幻&gt;12oz",
+   "价格": "17.00",
+   "库存": 19990
+  },
+  {
+   "规格": "几何-青色&gt;12oz",
+   "价格": "17.00",
+   "库存": 18638
+  },
+  {
+   "规格": "白色繁花&gt;12oz",
+   "价格": "17.00",
+   "库存": 19695
+  },
+  {
+   "规格": "蓝色火烈鸟&gt;12oz",
+   "价格": "17.00",
+   "库存": 19667
+  },
+  {
+   "规格": "白木纹&gt;12oz",
+   "价格": "17.00",
+   "库存": 19826
+  },
+  {
+   "规格": "魔幻紫&gt;12oz",
+   "价格": "17.00",
+   "库存": 19139
+  },
+  {
+   "规格": "木纹新款S2&gt;12oz",
+   "价格": "17.00",
+   "库存": 19726
+  },
+  {
+   "规格": "珊瑚蓝&gt;12oz",
+   "价格": "17.00",
+   "库存": 19998
+  },
+  {
+   "规格": "柚木&gt;12oz",
+   "价格": "17.00",
+   "库存": 19291
+  },
+  {
+   "规格": "木纹新款S3&gt;12oz",
+   "价格": "17.00",
+   "库存": 19622
+  },
+  {
+   "规格": "百合木&gt;12oz",
+   "价格": "17.00",
+   "库存": 19997
+  },
+  {
+   "规格": "绿桦木&gt;12oz",
+   "价格": "17.00",
+   "库存": 19994
+  },
+  {
+   "规格": "本色不喷漆杯体&gt;12oz",
+   "价格": "10.00",
+   "库存": 18499
+  },
+  {
+   "规格": "白桦木&gt;12oz",
+   "价格": "17.00",
+   "库存": 13844
+  },
+  {
+   "规格": "金丝卡拉&gt;12oz",
+   "价格": "17.00",
+   "库存": 19919
+  },
+  {
+   "规格": "小碎花&gt;12oz",
+   "价格": "17.00",
+   "库存": 19992
+  },
+  {
+   "规格": "黑森林&gt;12oz",
+   "价格": "17.00",
+   "库存": 19917
+  },
+  {
+   "规格": "白晶石&gt;12oz",
+   "价格": "17.00",
+   "库存": 19859
+  },
+  {
+   "规格": "星空蓝&gt;12oz",
+   "价格": "17.00",
+   "库存": 18674
+  },
+  {
+   "规格": "芭蕉叶&gt;12oz",
+   "价格": "17.00",
+   "库存": 19318
+  },
+  {
+   "规格": "蓝水滴&gt;12oz",
+   "价格": "17.00",
+   "库存": 19993
+  },
+  {
+   "规格": "梦幻白&gt;12oz",
+   "价格": "17.00",
+   "库存": 19570
+  },
+  {
+   "规格": "几何-蓝色&gt;12oz",
+   "价格": "17.00",
+   "库存": 18442
+  },
+  {
+   "规格": "星空紫&gt;12oz",
+   "价格": "17.00",
+   "库存": 18082
+  },
+  {
+   "规格": "黑晶石&gt;12oz",
+   "价格": "17.00",
+   "库存": 19855
+  },
+  {
+   "规格": "几何-黄色&gt;12oz",
+   "价格": "17.00",
+   "库存": 19675
+  },
+  {
+   "规格": "几何-红色&gt;12oz",
+   "价格": "17.00",
+   "库存": 19668
+  },
+  {
+   "规格": "圣托里尼&gt;12oz",
+   "价格": "17.00",
+   "库存": 19980
+  },
+  {
+   "规格": "星系旋涡&gt;12oz",
+   "价格": "17.00",
+   "库存": 19987
+  }
+ ],
+ "规格图": [
+  [
+   "本色不喷漆杯体",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01N5UAng2Ela7AzsFXE_!!3012148785-0-cib.jpg"
+  ],
+  [
+   "白桦木",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01LTDSS72Ela7NHCWZ3_!!3012148785-0-cib.jpg"
+  ],
+  [
+   "白木纹",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01aTtNVs2Ela7QLNY4b_!!3012148785-0-cib.jpg"
+  ],
+  [
+   "卡巴娜",
+   "https://cbu01.alicdn.com/img/ibank/O1CN018gwYga2Ela7R4xJAq_!!3012148785-0-cib.jpg"
+  ],
+  [
+   "柚木",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01ZTyca42Ela7Pp68Bd_!!3012148785-0-cib.jpg"
+  ],
+  [
+   "黄家木",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01h8aNRt2Ela7QLM4ch_!!3012148785-0-cib.jpg"
+  ],
+  [
+   "黑森林",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01W2ET2Z2Ela7X0lXhC_!!3012148785-0-cib.jpg"
+  ],
+  [
+   "百合木",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01dUBp4l2Ela7R5146o_!!3012148785-0-cib.jpg"
+  ],
+  [
+   "绿桦木",
+   "https://cbu01.alicdn.com/img/ibank/O1CN015YRd1T2Ela7WMXUp6_!!3012148785-0-cib.jpg"
+  ],
+  [
+   "蓝水滴",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01Lfxcio2Ela7WMWDrS_!!3012148785-0-cib.jpg"
+  ],
+  [
+   "圣托里尼",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01rJWduu2Ela7VXktQ8_!!3012148785-0-cib.jpg"
+  ],
+  [
+   "木纹新款S1",
+   "https://cbu01.alicdn.com/img/ibank/O1CN018vZeoG2Ela7X0lg1S_!!3012148785-0-cib.jpg"
+  ],
+  [
+   "木纹新款S2",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01RbQb6b2Ela7UrY3WJ_!!3012148785-0-cib.jpg"
+  ],
+  [
+   "木纹新款S3",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01fmRMnI2Ela7Pq2oRu_!!3012148785-0-cib.jpg"
+  ],
+  [
+   "木纹新款S4",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01iRSKvJ2Ela7QLNkYy_!!3012148785-0-cib.jpg"
+  ],
+  [
+   "木纹新款S5",
+   "https://cbu01.alicdn.com/img/ibank/O1CN016It1Ng2Ela7RL9qMk_!!3012148785-0-cib.jpg"
+  ],
+  [
+   "芭蕉叶",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01qCfWVh2Ela7Pp6s2C_!!3012148785-0-cib.jpg"
+  ],
+  [
+   "白晶石",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01R8Vv2y2Ela7SUX0jE_!!3012148785-0-cib.jpg"
+  ],
+  [
+   "白色繁花",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01sOiYxx2Ela7QLPQdt_!!3012148785-0-cib.jpg"
+  ],
+  [
+   "黑晶石",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01xoWt2C2Ela7VXmAWc_!!3012148785-0-cib.jpg"
+  ],
+  [
+   "金丝卡拉",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01FzZnhX2Ela7RLDGYo_!!3012148785-0-cib.jpg"
+  ],
+  [
+   "蓝色梦幻",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01U2eFZN2Ela7VXpaZ9_!!3012148785-0-cib.jpg"
+  ],
+  [
+   "蓝色火烈鸟",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01ZBs2Cd2Ela7R51bUm_!!3012148785-0-cib.jpg"
+  ],
+  [
+   "玛瑙绿",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01ikydKb2Ela7X0lPVo_!!3012148785-0-cib.jpg"
+  ],
+  [
+   "梦幻白",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01VS2DP52Ela7R530pl_!!3012148785-0-cib.jpg"
+  ],
+  [
+   "魔幻紫",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01yjnDeX2Ela7Toj3MR_!!3012148785-0-cib.jpg"
+  ],
+  [
+   "山峰",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01NV9t6L2Ela7R52H5Q_!!3012148785-0-cib.jpg"
+  ],
+  [
+   "珊瑚蓝",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01jZ79QI2Ela7QLPUoH_!!3012148785-0-cib.jpg"
+  ],
+  [
+   "小碎花",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01ohalc62Ela7UrYf3W_!!3012148785-0-cib.jpg"
+  ],
+  [
+   "星空粉",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01oxa8LS2Ela7WMXdHu_!!3012148785-0-cib.jpg"
+  ],
+  [
+   "星空黑",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01LUS4T02Ela7TL77t5_!!3012148785-0-cib.jpg"
+  ],
+  [
+   "星空蓝",
+   "https://cbu01.alicdn.com/img/ibank/O1CN018xsFhL2Ela7NpKCOE_!!3012148785-0-cib.jpg"
+  ],
+  [
+   "星空紫",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01arDDMv2Ela7Pp6wDK_!!3012148785-0-cib.jpg"
+  ],
+  [
+   "星系旋涡",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01FkEy8T2Ela7Pp917V_!!3012148785-0-cib.jpg"
+  ],
+  [
+   "珍珠母",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01Q3C5uc2Ela7WMa2xa_!!3012148785-0-cib.jpg"
+  ],
+  [
+   "几何-蓝色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01KXGMnD2Ela7X0l4i0_!!3012148785-0-cib.jpg"
+  ],
+  [
+   "几何-粉色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01GYDl042Ela7TL6SJY_!!3012148785-0-cib.jpg"
+  ],
+  [
+   "几何-黄色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01QOHPYk2Ela7Toh2ai_!!3012148785-0-cib.jpg"
+  ],
+  [
+   "几何-红色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01rTJFWN2Ela7R50Som_!!3012148785-0-cib.jpg"
+  ],
+  [
+   "几何-青色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN015dR09A2Ela7R4zOF7_!!3012148785-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "skuPrice",
+ "价格区间": "10.00-17.00",
+ "阶梯价_登录后": [
+  {
+   "price": "10.00",
+   "beginAmount": 1
+  },
+  {
+   "price": "17.00",
+   "beginAmount": 1
+  }
+ ],
+ "到手价": {
+  "价": "7",
+  "说明": "新人价",
+  "件数": 1
+ },
+ "起订量": 1,
+ "单位": "个",
+ "可售总量": 778605,
+ "已售": 3271,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01uil9zg2ElaYbNlwfX_!!3012148785-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN018IL8572ElaLUG0An3_!!3012148785-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01VZ3zsO2ElaBvMu8Cr_!!3012148785-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01kFRgUa2ElaBtdzTXb_!!3012148785-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01HDvywD2ElaLTQaDv2_!!3012148785-0-cib.jpg"
+ ],
+ "商品属性": [
+  "内胆材质:304不锈钢",
+  "品牌:锦川",
+  "功能:常规/便携/真空/可定制",
+  "保温性能:6-12小时",
+  "外壳材质:201不锈钢",
+  "货号:鸡蛋杯",
+  "样式:大肚杯",
+  "材质:内304外201",
+  "风格:美式风",
+  "是否进口:否",
+  "是否有专利:否",
+  "是否跨境出口专供货源:是",
+  "版权:无",
+  "是否属于礼品:是，商务礼品",
+  "送礼用途:积分换购礼品/商务礼品/广告礼品/促销赠品/会议礼品/福利礼品/节庆礼品/嘉奖纪念/公关礼品",
+  "适用节日:圣诞节/情人节/春节/父亲节/母亲节/教师节/元旦/七夕/万圣节/复活节/国庆节/儿童节/妇女节",
+  "适用送礼关系:晚辈/情侣/夫妻/同事/朋友/长辈/孩子/同学/恩师/其他",
+  "适用送礼场合:生日/满月/旅游纪念/毕业/乔迁/派对聚会/探病慰问",
+  "产品上市时间:2021年春",
+  "产品质量等级:一等品",
+  "适用人群:女士/男士/儿童/情侣/通用/老年/学生",
+  "适用场景:运动/婚庆/商务/家居/车载/通用/圣诞节/春节/办公室/户外/旅行/送礼/学校/其他节日",
+  "是否有第三方检测报告:没有",
+  "定制工艺选择:热转印/激光雕刻/丝印/水转印/水贴膜/3D打印/漆转印",
+  "包装规格:8.5*12",
+  "价格段:10-20元",
+  "加工定制:是",
+  "加印LOGO:可以",
+  "颜色:本色不喷漆杯体/白桦木/白木纹/卡巴娜/柚木/黄家木/黑森林/百合木/绿桦木/蓝水滴/圣托里尼/木纹新款S1/木纹新款S2/木纹新款S3/木纹新款S4/木纹新款S5/芭蕉叶/白晶石/白色繁花/黑晶石/金丝卡拉/蓝色梦幻/蓝色火烈鸟/玛瑙绿/梦幻白/魔幻紫/山峰/珊瑚蓝/小碎花/星空粉/星空黑/星空蓝/星空紫/星系旋涡/珍珠母/几何-蓝色/几何-粉色/几何-黄色/几何-红色/几何-青色",
+  "容量:12oz",
+  "是否带茶隔:不带茶隔",
+  "是否显示温度:不支持温度显示",
+  "杯盖类型:旋盖"
+ ],
+ "包装信息": [
+  {
+   "sku2": "12oz",
+   "volume": 1053,
+   "sku1": "本色不喷漆杯体",
+   "length": 9,
+   "width": 9,
+   "weight": 200,
+   "skuId": 6215848058301,
+   "height": 13
+  },
+  {
+   "sku2": "12oz",
+   "volume": 1053,
+   "sku1": "白桦木",
+   "length": 9,
+   "width": 9,
+   "weight": 200,
+   "skuId": 4654001492579,
+   "height": 13
+  },
+  {
+   "sku2": "12oz",
+   "volume": 1053,
+   "sku1": "白木纹",
+   "length": 9,
+   "width": 9,
+   "weight": 200,
+   "skuId": 4654001492580,
+   "height": 13
+  },
+  {
+   "sku2": "12oz",
+   "volume": 1053,
+   "sku1": "卡巴娜",
+   "length": 9,
+   "width": 9,
+   "weight": 200,
+   "skuId": 4654001492581,
+   "height": 13
+  },
+  {
+   "sku2": "12oz",
+   "volume": 1053,
+   "sku1": "柚木",
+   "length": 9,
+   "width": 9,
+   "weight": 200,
+   "skuId": 4654001492582,
+   "height": 13
+  },
+  {
+   "sku2": "12oz",
+   "volume": 1053,
+   "sku1": "黄家木",
+   "length": 9,
+   "width": 9,
+   "weight": 200,
+   "skuId": 4654001492583,
+   "height": 13
+  },
+  {
+   "sku2": "12oz",
+   "volume": 1053,
+   "sku1": "黑森林",
+   "length": 9,
+   "width": 9,
+   "weight": 200,
+   "skuId": 4654001492584,
+   "height": 13
+  },
+  {
+   "sku2": "12oz",
+   "volume": 1053,
+   "sku1": "百合木",
+   "length": 9,
+   "width": 9,
+   "weight": 200,
+   "skuId": 4654001492585,
+   "height": 13
+  },
+  {
+   "sku2": "12oz",
+   "volume": 1053,
+   "sku1": "绿桦木",
+   "length": 9,
+   "width": 9,
+   "weight": 200,
+   "skuId": 4654001492586,
+   "height": 13
+  },
+  {
+   "sku2": "12oz",
+   "volume": 1053,
+   "sku1": "蓝水滴",
+   "length": 9,
+   "width": 9,
+   "weight": 200,
+   "skuId": 4654001492587,
+   "height": 13
+  },
+  {
+   "sku2": "12oz",
+   "volume": 1053,
+   "sku1": "圣托里尼",
+   "length": 9,
+   "width": 9,
+   "weight": 200,
+   "skuId": 4654001492588,
+   "height": 13
+  },
+  {
+   "sku2": "12oz",
+   "volume": 1053,
+   "sku1": "木纹新款S1",
+   "length": 9,
+   "width": 9,
+   "weight": 200,
+   "skuId": 4654001492589,
+   "height": 13
+  },
+  {
+   "sku2": "12oz",
+   "volume": 1053,
+   "sku1": "木纹新款S2",
+   "length": 9,
+   "width": 9,
+   "weight": 200,
+   "skuId": 4654001492590,
+   "height": 13
+  },
+  {
+   "sku2": "12oz",
+   "volume": 1053,
+   "sku1": "木纹新款S3",
+   "length": 9,
+   "width": 9,
+   "weight": 200,
+   "skuId": 4654001492591,
+   "height": 13
+  },
+  {
+   "sku2": "12oz",
+   "volume": 1053,
+   "sku1": "木纹新款S4",
+   "length": 9,
+   "width": 9,
+   "weight": 200,
+   "skuId": 4654001492592,
+   "height": 13
+  },
+  {
+   "sku2": "12oz",
+   "volume": 1053,
+   "sku1": "木纹新款S5",
+   "length": 9,
+   "width": 9,
+   "weight": 200,
+   "skuId": 4654001492593,
+   "height": 13
+  },
+  {
+   "sku2": "12oz",
+   "volume": 1053,
+   "sku1": "芭蕉叶",
+   "length": 9,
+   "width": 9,
+   "weight": 200,
+   "skuId": 4654001492594,
+   "height": 13
+  },
+  {
+   "sku2": "12oz",
+   "volume": 1053,
+   "sku1": "白晶石",
+   "length": 9,
+   "width": 9,
+   "weight": 200,
+   "skuId": 4654001492595,
+   "height": 13
+  },
+  {
+   "sku2": "12oz",
+   "volume": 1053,
+   "sku1": "白色繁花",
+   "length": 9,
+   "width": 9,
+   "weight": 200,
+   "skuId": 4654001492596,
+   "height": 13
+  },
+  {
+   "sku2": "12oz",
+   "volume": 1053,
+   "sku1": "黑晶石",
+   "length": 9,
+   "width": 9,
+   "weight": 200,
+   "skuId": 4654001492597,
+   "height": 13
+  },
+  {
+   "sku2": "12oz",
+   "volume": 1053,
+   "sku1": "金丝卡拉",
+   "length": 9,
+   "width": 9,
+   "weight": 200,
+   "skuId": 4654001492598,
+   "height": 13
+  },
+  {
+   "sku2": "12oz",
+   "volume": 1053,
+   "sku1": "蓝色梦幻",
+   "length": 9,
+   "width": 9,
+   "weight": 200,
+   "skuId": 4654001492599,
+   "height": 13
+  },
+  {
+   "sku2": "12oz",
+   "volume": 1053,
+   "sku1": "蓝色火烈鸟",
+   "length": 9,
+   "width": 9,
+   "weight": 200,
+   "skuId": 4654001492600,
+   "height": 13
+  },
+  {
+   "sku2": "12oz",
+   "volume": 1053,
+   "sku1": "玛瑙绿",
+   "length": 9,
+   "width": 9,
+   "weight": 200,
+   "skuId": 4654001492601,
+   "height": 13
+  },
+  {
+   "sku2": "12oz",
+   "volume": 1053,
+   "sku1": "梦幻白",
+   "length": 9,
+   "width": 9,
+   "weight": 200,
+   "skuId": 4654001492602,
+   "height": 13
+  },
+  {
+   "sku2": "12oz",
+   "volume": 1053,
+   "sku1": "魔幻紫",
+   "length": 9,
+   "width": 9,
+   "weight": 200,
+   "skuId": 4654001492603,
+   "height": 13
+  },
+  {
+   "sku2": "12oz",
+   "volume": 1053,
+   "sku1": "山峰",
+   "length": 9,
+   "width": 9,
+   "weight": 200,
+   "skuId": 4654001492604,
+   "height": 13
+  },
+  {
+   "sku2": "12oz",
+   "volume": 1053,
+   "sku1": "珊瑚蓝",
+   "length": 9,
+   "width": 9,
+   "weight": 200,
+   "skuId": 4654001492605,
+   "height": 13
+  },
+  {
+   "sku2": "12oz",
+   "volume": 1053,
+   "sku1": "小碎花",
+   "length": 9,
+   "width": 9,
+   "weight": 200,
+   "skuId": 4654001492606,
+   "height": 13
+  },
+  {
+   "sku2": "12oz",
+   "volume": 1053,
+   "sku1": "星空粉",
+   "length": 9,
+   "width": 9,
+   "weight": 200,
+   "skuId": 4654001492607,
+   "height": 13
+  },
+  {
+   "sku2": "12oz",
+   "volume": 1053,
+   "sku1": "星空黑",
+   "length": 9,
+   "width": 9,
+   "weight": 200,
+   "skuId": 4654001492608,
+   "height": 13
+  },
+  {
+   "sku2": "12oz",
+   "volume": 1053,
+   "sku1": "星空蓝",
+   "length": 9,
+   "width": 9,
+   "weight": 200,
+   "skuId": 4654001492609,
+   "height": 13
+  },
+  {
+   "sku2": "12oz",
+   "volume": 1053,
+   "sku1": "星空紫",
+   "length": 9,
+   "width": 9,
+   "weight": 200,
+   "skuId": 4654001492610,
+   "height": 13
+  },
+  {
+   "sku2": "12oz",
+   "volume": 1053,
+   "sku1": "星系旋涡",
+   "length": 9,
+   "width": 9,
+   "weight": 200,
+   "skuId": 4654001492611,
+   "height": 13
+  },
+  {
+   "sku2": "12oz",
+   "volume": 1053,
+   "sku1": "珍珠母",
+   "length": 9,
+   "width": 9,
+   "weight": 200,
+   "skuId": 4654001492612,
+   "height": 13
+  },
+  {
+   "sku2": "12oz",
+   "volume": 1053,
+   "sku1": "几何-蓝色",
+   "length": 9,
+   "width": 9,
+   "weight": 200,
+   "skuId": 4898325248820,
+   "height": 13
+  },
+  {
+   "sku2": "12oz",
+   "volume": 1053,
+   "sku1": "几何-粉色",
+   "length": 9,
+   "width": 9,
+   "weight": 200,
+   "skuId": 4898325248822,
+   "height": 13
+  },
+  {
+   "sku2": "12oz",
+   "volume": 1053,
+   "sku1": "几何-黄色",
+   "length": 9,
+   "width": 9,
+   "weight": 200,
+   "skuId": 4898325248821,
+   "height": 13
+  },
+  {
+   "sku2": "12oz",
+   "volume": 1053,
+   "sku1": "几何-红色",
+   "length": 9,
+   "width": 9,
+   "weight": 200,
+   "skuId": 4898325248819,
+   "height": 13
+  },
+  {
+   "sku2": "12oz",
+   "volume": 1053,
+   "sku1": "几何-青色",
+   "length": 9,
+   "width": 9,
+   "weight": 200,
+   "skuId": 4898325248818,
+   "height": 13
+  }
+ ],
+ "url": "https://detail.1688.com/offer/646821635046.html",
+ "核页时间": "2026-10-06T19:30:15.670Z"
+}

@@ -1,0 +1,799 @@
+{
+ "offerId": "970522446133",
+ "条目": "H0426",
+ "block": false,
+ "卖家公司": "义乌市硕喵宠物用品有限公司",
+ "旺旺名": "佳逸宠物用品厂",
+ "标题": "逗猫棒替换头铃铛羽毛猫咪自嗨玩具逗猫棒配件猫玩具宠物用品批发",
+ "状态": "PUBLISHED",
+ "类目": "猫猫玩具",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "颜色",
+   "值": [
+    "薄荷鸵鸟毛替换头【白色】",
+    "薄荷鸵鸟毛替换头【黑色】",
+    "薄荷紫色替换头",
+    "薄荷黄绿替换头",
+    "薄荷橙蓝替换头",
+    "黄橙粉替换头",
+    "白粉蓝替换头",
+    "马卡龙色替换头",
+    "蓬松羽毛替换头",
+    "波点羽毛替换头",
+    "小鱼替换头",
+    "双色羽毛替换头",
+    "白色羽毛替换头",
+    "黑色羽毛替换头",
+    "粉色羽毛替换头",
+    "旋转羽毛替换头原色",
+    "旋转羽毛替换头白色",
+    "旋转羽毛替换头黑色",
+    "旋转羽毛替换头粉色",
+    "五彩羽毛【5根一包】",
+    "炫彩羽毛【四根一包】",
+    "蝴蝶蓝色",
+    "蝴蝶绿色",
+    "蝴蝶黄色",
+    "小木球芦花替换头",
+    "兔子不倒翁替换头薄荷款",
+    "兔子不倒翁替换头普通款",
+    "大眼睛替换头",
+    "粉色毛球替换头",
+    "蓝色毛球替换头",
+    "七羽款羽毛替换头",
+    "三球羽毛替换头蓝色",
+    "三球羽毛替换头粉色",
+    "毛毛虫蓝色",
+    "毛毛虫绿色",
+    "毛毛虫橙色",
+    "毛毛虫玫红",
+    "毛毛虫黄色"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "薄荷鸵鸟毛替换头【白色】",
+   "价格": "1.50",
+   "库存": 55711
+  },
+  {
+   "规格": "波点羽毛替换头",
+   "价格": "0.60",
+   "库存": 55583
+  },
+  {
+   "规格": "七羽款羽毛替换头",
+   "价格": "2.80",
+   "库存": 35
+  },
+  {
+   "规格": "马卡龙色替换头",
+   "价格": "0.70",
+   "库存": 56493
+  },
+  {
+   "规格": "五彩羽毛【5根一包】",
+   "价格": "3.50",
+   "库存": 58493
+  },
+  {
+   "规格": "薄荷鸵鸟毛替换头【黑色】",
+   "价格": "1.50",
+   "库存": 58257
+  },
+  {
+   "规格": "三球羽毛替换头粉色",
+   "价格": "0.60",
+   "库存": 58611
+  },
+  {
+   "规格": "旋转羽毛替换头黑色",
+   "价格": "0.90",
+   "库存": 58747
+  },
+  {
+   "规格": "白粉蓝替换头",
+   "价格": "0.70",
+   "库存": 54657
+  },
+  {
+   "规格": "黄橙粉替换头",
+   "价格": "0.70",
+   "库存": 55857
+  },
+  {
+   "规格": "蝴蝶绿色",
+   "价格": "0.90",
+   "库存": 58185
+  },
+  {
+   "规格": "黑色羽毛替换头",
+   "价格": "0.60",
+   "库存": 57427
+  },
+  {
+   "规格": "旋转羽毛替换头粉色",
+   "价格": "0.90",
+   "库存": 58783
+  },
+  {
+   "规格": "炫彩羽毛【四根一包】",
+   "价格": "3.00",
+   "库存": 57988
+  },
+  {
+   "规格": "毛毛虫玫红",
+   "价格": "0.70",
+   "库存": 58872
+  },
+  {
+   "规格": "毛毛虫黄色",
+   "价格": "0.70",
+   "库存": 58860
+  },
+  {
+   "规格": "兔子不倒翁替换头普通款",
+   "价格": "1.00",
+   "库存": 16825
+  },
+  {
+   "规格": "旋转羽毛替换头原色",
+   "价格": "1.20",
+   "库存": 58546
+  },
+  {
+   "规格": "小木球芦花替换头",
+   "价格": "0.80",
+   "库存": 56957
+  },
+  {
+   "规格": "蝴蝶黄色",
+   "价格": "0.90",
+   "库存": 57811
+  },
+  {
+   "规格": "小鱼替换头",
+   "价格": "1.20",
+   "库存": 57295
+  },
+  {
+   "规格": "兔子不倒翁替换头薄荷款",
+   "价格": "1.50",
+   "库存": 16789
+  },
+  {
+   "规格": "蓬松羽毛替换头",
+   "价格": "2.00",
+   "库存": 57362
+  },
+  {
+   "规格": "薄荷黄绿替换头",
+   "价格": "0.80",
+   "库存": 53049
+  },
+  {
+   "规格": "薄荷橙蓝替换头",
+   "价格": "0.80",
+   "库存": 57962
+  },
+  {
+   "规格": "蝴蝶蓝色",
+   "价格": "0.90",
+   "库存": 55043
+  },
+  {
+   "规格": "旋转羽毛替换头白色",
+   "价格": "0.90",
+   "库存": 58562
+  },
+  {
+   "规格": "毛毛虫橙色",
+   "价格": "0.70",
+   "库存": 58864
+  },
+  {
+   "规格": "三球羽毛替换头蓝色",
+   "价格": "0.60",
+   "库存": 58605
+  },
+  {
+   "规格": "薄荷紫色替换头",
+   "价格": "0.80",
+   "库存": 58140
+  },
+  {
+   "规格": "大眼睛替换头",
+   "价格": "2.50",
+   "库存": 46
+  },
+  {
+   "规格": "毛毛虫绿色",
+   "价格": "0.70",
+   "库存": 88868
+  },
+  {
+   "规格": "蓝色毛球替换头",
+   "价格": "2.80",
+   "库存": 65
+  },
+  {
+   "规格": "双色羽毛替换头",
+   "价格": "0.60",
+   "库存": 56832
+  },
+  {
+   "规格": "毛毛虫蓝色",
+   "价格": "0.70",
+   "库存": 88864
+  },
+  {
+   "规格": "粉色羽毛替换头",
+   "价格": "0.60",
+   "库存": 57878
+  },
+  {
+   "规格": "白色羽毛替换头",
+   "价格": "0.60",
+   "库存": 56966
+  },
+  {
+   "规格": "粉色毛球替换头",
+   "价格": "2.80",
+   "库存": 111
+  }
+ ],
+ "规格图": [
+  [
+   "薄荷鸵鸟毛替换头【白色】",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01UuV74z1FtCXx6a2ys_!!2212844110544-0-cib.jpg"
+  ],
+  [
+   "薄荷鸵鸟毛替换头【黑色】",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01NoMHlF1FtCXvc9g5H_!!2212844110544-0-cib.jpg"
+  ],
+  [
+   "薄荷紫色替换头",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01aaseFg1FtCXwazZEE_!!2212844110544-0-cib.jpg"
+  ],
+  [
+   "薄荷黄绿替换头",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01TsXJwv1FtCXvcJDEA_!!2212844110544-0-cib.jpg"
+  ],
+  [
+   "薄荷橙蓝替换头",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01oWXvFp1FtCXwleKXt_!!2212844110544-0-cib.jpg"
+  ],
+  [
+   "黄橙粉替换头",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01p4v15j1FtCXx6eoL2_!!2212844110544-0-cib.jpg"
+  ],
+  [
+   "白粉蓝替换头",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01sK0CTt1FtCXvCjpSn_!!2212844110544-0-cib.jpg"
+  ],
+  [
+   "马卡龙色替换头",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01Jwr7wU1FtCXwJI7qZ_!!2212844110544-0-cib.jpg"
+  ],
+  [
+   "蓬松羽毛替换头",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01gBD3H01FtCXwVhI4q_!!2212844110544-0-cib.jpg"
+  ],
+  [
+   "波点羽毛替换头",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01PXbk2O1FtCXx6wSGo_!!2212844110544-0-cib.jpg"
+  ],
+  [
+   "小鱼替换头",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01z9I13e1FtCXvfxzkV_!!2212844110544-0-cib.jpg"
+  ],
+  [
+   "双色羽毛替换头",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01uC3J6C1FtCXx7098e_!!2212844110544-0-cib.jpg"
+  ],
+  [
+   "白色羽毛替换头",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01WxOtI51FtCXxCi1Wd_!!2212844110544-0-cib.jpg"
+  ],
+  [
+   "黑色羽毛替换头",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01Shwggo1FtCXqsFS8F_!!2212844110544-0-cib.jpg"
+  ],
+  [
+   "粉色羽毛替换头",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01Th8xt51FtCXqsFBX9_!!2212844110544-0-cib.jpg"
+  ],
+  [
+   "旋转羽毛替换头原色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01LqB9Lv1FtCUycH3jU_!!2212844110544-0-cib.jpg"
+  ],
+  [
+   "旋转羽毛替换头白色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01sPsUe91FtCUv9sP6e_!!2212844110544-0-cib.jpg"
+  ],
+  [
+   "旋转羽毛替换头黑色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01nV5TPA1FtCUx8n7qU_!!2212844110544-0-cib.jpg"
+  ],
+  [
+   "旋转羽毛替换头粉色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01f9nQlg1FtCUqq6sRv_!!2212844110544-0-cib.jpg"
+  ],
+  [
+   "五彩羽毛【5根一包】",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01WZc3me1FtCXxDUtdX_!!2212844110544-0-cib.jpg"
+  ],
+  [
+   "炫彩羽毛【四根一包】",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01M0w9cY1FtCXx7rNyT_!!2212844110544-0-cib.jpg"
+  ],
+  [
+   "蝴蝶蓝色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01MPCNdQ1FtCYZB5YmC_!!2212844110544-0-cib.jpg"
+  ],
+  [
+   "蝴蝶绿色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01TU9C1T1FtCYY0NNeu_!!2212844110544-0-cib.jpg"
+  ],
+  [
+   "蝴蝶黄色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01t8AqRn1FtCYZFVrOY_!!2212844110544-0-cib.jpg"
+  ],
+  [
+   "小木球芦花替换头",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01Dw5B2D1FtCZiqBeAx_!!2212844110544-0-cib.jpg"
+  ],
+  [
+   "兔子不倒翁替换头薄荷款",
+   "https://cbu01.alicdn.com/img/ibank/O1CN010h9iBg1FtCboAH0oA_!!2212844110544-0-cib.jpg"
+  ],
+  [
+   "兔子不倒翁替换头普通款",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01juCzhs1FtCbnu5tee_!!2212844110544-0-cib.jpg"
+  ],
+  [
+   "大眼睛替换头",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01tvOUXX5WlfJ1chua_!!2212844110544-0-cib.jpg"
+  ],
+  [
+   "粉色毛球替换头",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01Xz0iVGvYxXH1chua_!!2212844110544-0-cib.jpg"
+  ],
+  [
+   "蓝色毛球替换头",
+   "https://cbu01.alicdn.com/img/ibank/O1CN014MwlZ98xyBG1chua_!!2212844110544-0-cib.jpg"
+  ],
+  [
+   "七羽款羽毛替换头",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01pYbTEtDkdSF1chua_!!2212844110544-0-cib.jpg"
+  ],
+  [
+   "三球羽毛替换头蓝色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01UndEiqyuK9H1chua_!!2212844110544-0-cib.jpg"
+  ],
+  [
+   "三球羽毛替换头粉色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN018egWOdUpqcG1chua_!!2212844110544-0-cib.jpg"
+  ],
+  [
+   "毛毛虫蓝色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01xYEmZ9ho9WK1chua_!!2212844110544-0-cib.jpg"
+  ],
+  [
+   "毛毛虫绿色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN019V9R40zCiVI1chua_!!2212844110544-0-cib.jpg"
+  ],
+  [
+   "毛毛虫橙色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN0103LaK1i3D4K1chua_!!2212844110544-0-cib.jpg"
+  ],
+  [
+   "毛毛虫玫红",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01BWZDJUVEKiI1chua_!!2212844110544-0-cib.jpg"
+  ],
+  [
+   "毛毛虫黄色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01MJFlbs80uwB1chua_!!2212844110544-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "skuPrice",
+ "价格区间": "0.60-3.50",
+ "阶梯价_登录后": [
+  {
+   "price": "0.60",
+   "beginAmount": 5
+  },
+  {
+   "price": "3.50",
+   "beginAmount": 5
+  }
+ ],
+ "到手价": {
+  "价": "0.4",
+  "说明": "新人价",
+  "件数": 5
+ },
+ "起订量": 5,
+ "单位": "个",
+ "可售总量": 1933999,
+ "已售": 95648,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01612wK51FtCXwkuwiO_!!2212844110544-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01WgLkwb1FtCXvC7xsk_!!2212844110544-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01nAgiWo1FtCXwg36Vt_!!2212844110544-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01TUHHTb1FtCXvbbNGX_!!2212844110544-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01iNUjyr1FtCXxLlyBa_!!2212844110544-0-cib.jpg"
+ ],
+ "商品属性": [
+  "材质:猫薄荷",
+  "品牌:佳汪逸喵",
+  "产品类别:薄荷球玩具",
+  "产地:浙江",
+  "是否进口:否",
+  "货号:JY-THT-2508291",
+  "箱装数量:5000",
+  "重量:20g",
+  "是否专利货源:否",
+  "颜色:薄荷鸵鸟毛替换头【白色】/薄荷鸵鸟毛替换头【黑色】/薄荷紫色替换头/薄荷黄绿替换头/薄荷橙蓝替换头/黄橙粉替换头/白粉蓝替换头/马卡龙色替换头/蓬松羽毛替换头/波点羽毛替换头/小鱼替换头/双色羽毛替换头/白色羽毛替换头/黑色羽毛替换头/粉色羽毛替换头/旋转羽毛替换头原色/旋转羽毛替换头白色/旋转羽毛替换头黑色/旋转羽毛替换头粉色/五彩羽毛【5根一包】/炫彩羽毛【四根一包】/蝴蝶蓝色/蝴蝶绿色/蝴蝶黄色/小木球芦花替换头/兔子不倒翁替换头薄荷款/兔子不倒翁替换头普通款/大眼睛替换头/粉色毛球替换头/蓝色毛球替换头/七羽款羽毛替换头/三球羽毛替换头蓝色/三球羽毛替换头粉色/毛毛虫蓝色/毛毛虫绿色/毛毛虫橙色/毛毛虫玫红/毛毛虫黄色",
+  "主要下游平台:ebay/亚马逊/wish/速卖通/独立站/LAZADA/其他",
+  "主要销售地区:非洲/欧洲/南美/东南亚/北美/东北亚/中东/其他",
+  "有可授权的自有品牌:是",
+  "是否跨境出口专供货源:是",
+  "是否属于礼品:否",
+  "是否IP授权:否",
+  "是否智能:否",
+  "安装方式:无",
+  "供电方式:无",
+  "附加功能:互动性",
+  "使用场景:互动游戏"
+ ],
+ "包装信息": [
+  {
+   "volume": 400,
+   "sku1": "薄荷鸵鸟毛替换头【白色】",
+   "length": 20,
+   "width": 10,
+   "weight": 26,
+   "skuId": 6087047483098,
+   "height": 2
+  },
+  {
+   "volume": 400,
+   "sku1": "薄荷鸵鸟毛替换头【黑色】",
+   "length": 20,
+   "width": 10,
+   "weight": 26,
+   "skuId": 6087047483099,
+   "height": 2
+  },
+  {
+   "volume": 400,
+   "sku1": "薄荷紫色替换头",
+   "length": 20,
+   "width": 10,
+   "weight": 26,
+   "skuId": 6087047483107,
+   "height": 2
+  },
+  {
+   "volume": 400,
+   "sku1": "薄荷黄绿替换头",
+   "length": 20,
+   "width": 10,
+   "weight": 26,
+   "skuId": 6087047483108,
+   "height": 2
+  },
+  {
+   "volume": 400,
+   "sku1": "薄荷橙蓝替换头",
+   "length": 20,
+   "width": 10,
+   "weight": 26,
+   "skuId": 6087047483109,
+   "height": 2
+  },
+  {
+   "volume": 400,
+   "sku1": "黄橙粉替换头",
+   "length": 20,
+   "width": 10,
+   "weight": 26,
+   "skuId": 6087047483100,
+   "height": 2
+  },
+  {
+   "volume": 400,
+   "sku1": "白粉蓝替换头",
+   "length": 20,
+   "width": 10,
+   "weight": 26,
+   "skuId": 6087047483101,
+   "height": 2
+  },
+  {
+   "volume": 400,
+   "sku1": "马卡龙色替换头",
+   "length": 20,
+   "width": 10,
+   "weight": 26,
+   "skuId": 6087047483102,
+   "height": 2
+  },
+  {
+   "volume": 400,
+   "sku1": "蓬松羽毛替换头",
+   "length": 20,
+   "width": 10,
+   "weight": 26,
+   "skuId": 6087047483103,
+   "height": 2
+  },
+  {
+   "volume": 400,
+   "sku1": "波点羽毛替换头",
+   "length": 20,
+   "width": 10,
+   "weight": 26,
+   "skuId": 6087047483104,
+   "height": 2
+  },
+  {
+   "volume": 400,
+   "sku1": "小鱼替换头",
+   "length": 20,
+   "width": 10,
+   "weight": 26,
+   "skuId": 6087047483105,
+   "height": 2
+  },
+  {
+   "volume": 400,
+   "sku1": "双色羽毛替换头",
+   "length": 20,
+   "width": 10,
+   "weight": 26,
+   "skuId": 6087047483106,
+   "height": 2
+  },
+  {
+   "volume": 400,
+   "sku1": "白色羽毛替换头",
+   "length": 20,
+   "width": 10,
+   "weight": 26,
+   "skuId": 6087047483110,
+   "height": 2
+  },
+  {
+   "volume": 400,
+   "sku1": "黑色羽毛替换头",
+   "length": 20,
+   "width": 10,
+   "weight": 26,
+   "skuId": 6087047483111,
+   "height": 2
+  },
+  {
+   "volume": 400,
+   "sku1": "粉色羽毛替换头",
+   "length": 20,
+   "width": 10,
+   "weight": 26,
+   "skuId": 6087047483112,
+   "height": 2
+  },
+  {
+   "volume": 400,
+   "sku1": "旋转羽毛替换头原色",
+   "length": 20,
+   "width": 10,
+   "weight": 26,
+   "skuId": 6087047483113,
+   "height": 2
+  },
+  {
+   "volume": 400,
+   "sku1": "旋转羽毛替换头白色",
+   "length": 20,
+   "width": 10,
+   "weight": 26,
+   "skuId": 6087047483114,
+   "height": 2
+  },
+  {
+   "volume": 400,
+   "sku1": "旋转羽毛替换头黑色",
+   "length": 20,
+   "width": 10,
+   "weight": 26,
+   "skuId": 6087047483115,
+   "height": 2
+  },
+  {
+   "volume": 400,
+   "sku1": "旋转羽毛替换头粉色",
+   "length": 20,
+   "width": 10,
+   "weight": 26,
+   "skuId": 6087047483116,
+   "height": 2
+  },
+  {
+   "volume": 400,
+   "sku1": "五彩羽毛【5根一包】",
+   "length": 20,
+   "width": 10,
+   "weight": 26,
+   "skuId": 6087047483117,
+   "height": 2
+  },
+  {
+   "volume": 400,
+   "sku1": "炫彩羽毛【四根一包】",
+   "length": 20,
+   "width": 10,
+   "weight": 26,
+   "skuId": 6087047483118,
+   "height": 2
+  },
+  {
+   "volume": 400,
+   "sku1": "蝴蝶蓝色",
+   "length": 20,
+   "width": 10,
+   "weight": 26,
+   "skuId": 5947359876302,
+   "height": 2
+  },
+  {
+   "volume": 400,
+   "sku1": "蝴蝶绿色",
+   "length": 20,
+   "width": 10,
+   "weight": 26,
+   "skuId": 5947359876303,
+   "height": 2
+  },
+  {
+   "volume": 400,
+   "sku1": "蝴蝶黄色",
+   "length": 20,
+   "width": 10,
+   "weight": 26,
+   "skuId": 5947359876301,
+   "height": 2
+  },
+  {
+   "volume": 400,
+   "sku1": "小木球芦花替换头",
+   "length": 20,
+   "width": 10,
+   "weight": 26,
+   "skuId": 6172710562756,
+   "height": 2
+  },
+  {
+   "volume": 400,
+   "sku1": "兔子不倒翁替换头薄荷款",
+   "length": 20,
+   "width": 10,
+   "weight": 26,
+   "skuId": 6271076402018,
+   "height": 2
+  },
+  {
+   "volume": 400,
+   "sku1": "兔子不倒翁替换头普通款",
+   "length": 20,
+   "width": 10,
+   "weight": 26,
+   "skuId": 6271076402019,
+   "height": 2
+  },
+  {
+   "volume": 400,
+   "sku1": "大眼睛替换头",
+   "length": 20,
+   "width": 10,
+   "weight": 26,
+   "skuId": 6133324337673,
+   "height": 2
+  },
+  {
+   "volume": 400,
+   "sku1": "粉色毛球替换头",
+   "length": 20,
+   "width": 10,
+   "weight": 26,
+   "skuId": 6133324337671,
+   "height": 2
+  },
+  {
+   "volume": 400,
+   "sku1": "蓝色毛球替换头",
+   "length": 20,
+   "width": 10,
+   "weight": 26,
+   "skuId": 6133324337670,
+   "height": 2
+  },
+  {
+   "volume": 400,
+   "sku1": "七羽款羽毛替换头",
+   "length": 20,
+   "width": 10,
+   "weight": 26,
+   "skuId": 6133324337672,
+   "height": 2
+  },
+  {
+   "volume": 400,
+   "sku1": "三球羽毛替换头蓝色",
+   "length": 20,
+   "width": 10,
+   "weight": 26,
+   "skuId": 6302044142629,
+   "height": 2
+  },
+  {
+   "volume": 400,
+   "sku1": "三球羽毛替换头粉色",
+   "length": 20,
+   "width": 10,
+   "weight": 26,
+   "skuId": 6302044142628,
+   "height": 2
+  },
+  {
+   "volume": 400,
+   "sku1": "毛毛虫蓝色",
+   "length": 20,
+   "width": 10,
+   "weight": 26,
+   "skuId": 6302044142624,
+   "height": 2
+  },
+  {
+   "volume": 400,
+   "sku1": "毛毛虫绿色",
+   "length": 20,
+   "width": 10,
+   "weight": 26,
+   "skuId": 6302044142627,
+   "height": 2
+  },
+  {
+   "volume": 400,
+   "sku1": "毛毛虫橙色",
+   "length": 20,
+   "width": 10,
+   "weight": 26,
+   "skuId": 6302044142625,
+   "height": 2
+  },
+  {
+   "volume": 400,
+   "sku1": "毛毛虫玫红",
+   "length": 20,
+   "width": 10,
+   "weight": 26,
+   "skuId": 6302044142626,
+   "height": 2
+  },
+  {
+   "volume": 400,
+   "sku1": "毛毛虫黄色",
+   "length": 20,
+   "width": 10,
+   "weight": 26,
+   "skuId": 6302044142630,
+   "height": 2
+  }
+ ],
+ "url": "https://detail.1688.com/offer/970522446133.html",
+ "核页时间": "2026-10-06T16:46:11.867Z"
+}

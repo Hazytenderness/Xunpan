@@ -1,0 +1,146 @@
+{
+ "offerId": "946713631000",
+ "条目": "H0119",
+ "block": false,
+ "卖家公司": "金华市西汇日用品有限公司",
+ "旺旺名": "西汇文化用品厂",
+ "标题": "面条收纳盒长方形长方形冰箱厨房食品级密封保鲜盒带盖杂粮挂面盒",
+ "状态": "PUBLISHED",
+ "类目": "食物收纳盒",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "颜色",
+   "值": [
+    "透明色",
+    "灰色",
+    "蓝色",
+    "绿色"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "蓝色",
+   "价格": "1.90",
+   "库存": 9808
+  },
+  {
+   "规格": "透明色",
+   "价格": "1.90",
+   "库存": 9181
+  },
+  {
+   "规格": "灰色",
+   "价格": "1.90",
+   "库存": 9853
+  },
+  {
+   "规格": "绿色",
+   "价格": "1.90",
+   "库存": 9672
+  }
+ ],
+ "规格图": [
+  [
+   "透明色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01ZPSe1A25It9C88VVF_!!2219499547504-0-cib.jpg"
+  ],
+  [
+   "灰色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN012AQ1pc25It9CqX68Y_!!2219499547504-0-cib.jpg"
+  ],
+  [
+   "蓝色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01RTo9lu25It9ABJPto_!!2219499547504-0-cib.jpg"
+  ],
+  [
+   "绿色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01SZZhu125It9B0jFDK_!!2219499547504-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "rangePrice",
+ "价格区间": "1.80-1.90",
+ "阶梯价_登录后": [
+  {
+   "price": "1.90",
+   "beginAmount": 2
+  },
+  {
+   "price": "1.80",
+   "beginAmount": 500
+  }
+ ],
+ "到手价": {
+  "价": "1.4",
+  "说明": "新人价",
+  "件数": 2
+ },
+ "起订量": 2,
+ "单位": "个",
+ "可售总量": 38514,
+ "已售": 1180,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01KikIwI25It9C7uXoI_!!2219499547504-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01jHm0Hl25It95JqWTT_!!2219499547504-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01FdeNUJ25It9C7tfke_!!2219499547504-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01D6Bejn25It9BweeDo_!!2219499547504-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01Yz1moL25It9B0W1GO_!!2219499547504-0-cib.jpg"
+ ],
+ "商品属性": [
+  "材质:塑料",
+  "款式:长方形",
+  "品牌:奥熙",
+  "是否有专利:否",
+  "货号:5545",
+  "加印LOGO:不可以",
+  "加工定制:不可以",
+  "价格段:5-10元",
+  "颜色:透明色/灰色/蓝色/绿色",
+  "产地:东阳",
+  "风格:现代简约",
+  "主要下游平台:淘宝/ebay/亚马逊/wish/快手/LINIO/SHEIN/速卖通/天猫/独立站/LAZADA/拼多多/shopee/抖音/垂类电商/其他",
+  "有可授权的自有品牌:是",
+  "是否进口:国产"
+ ],
+ "包装信息": [
+  {
+   "volume": 1944.375,
+   "sku1": "透明色",
+   "length": 30.5,
+   "width": 8.5,
+   "weight": 103,
+   "skuId": 5855982385403,
+   "height": 7.5
+  },
+  {
+   "volume": 1944.375,
+   "sku1": "灰色",
+   "length": 30.5,
+   "width": 8.5,
+   "weight": 103,
+   "skuId": 5855982385404,
+   "height": 7.5
+  },
+  {
+   "volume": 1944.375,
+   "sku1": "蓝色",
+   "length": 30.5,
+   "width": 8.5,
+   "weight": 103,
+   "skuId": 5855982385405,
+   "height": 7.5
+  },
+  {
+   "volume": 1944.375,
+   "sku1": "绿色",
+   "length": 30.5,
+   "width": 8.5,
+   "weight": 103,
+   "skuId": 5855982385406,
+   "height": 7.5
+  }
+ ],
+ "url": "https://detail.1688.com/offer/946713631000.html",
+ "核页时间": "2026-10-06T15:12:20.629Z"
+}

@@ -1,0 +1,990 @@
+{
+ "offerId": "1077286000422",
+ "条目": "H0490",
+ "block": false,
+ "卖家公司": "义乌市恒策宠物用品有限公司",
+ "旺旺名": "恒策宠物用品",
+ "标题": "跨境宠物梳子梳毛器猫毛梳针梳开结梳排梳宠物梳毛狗梳子猫咪梳子",
+ "状态": "PUBLISHED",
+ "类目": "狗狗清洁美容工具",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "规格",
+   "值": [
+    "灰色针梳【OPP袋】",
+    "蓝色针梳【OPP袋】",
+    "粉色针梳【OPP袋】",
+    "灰色针梳【泡壳纸卡】",
+    "蓝色针梳【泡壳纸卡】",
+    "粉色针梳【泡壳纸卡】",
+    "灰色针梳【TPR】OPP袋",
+    "蓝色针梳【TPR】OPP袋",
+    "粉色针梳【TPR】OPP袋",
+    "灰色针梳【TPR】泡壳纸卡",
+    "蓝色针梳【TPR】泡壳纸卡",
+    "粉色针梳【TPR】泡壳纸卡",
+    "方形【灰色】针梳",
+    "方形【蓝色】针梳",
+    "方形【粉色】针梳",
+    "猫爪款针梳【灰色】",
+    "猫爪款针梳【蓝色】",
+    "猫爪款针梳【粉色】",
+    "兔耳朵【黄色】针梳",
+    "兔耳朵【白色】针梳",
+    "兔耳朵【粉色】针梳",
+    "兔耳朵【绿色】针梳",
+    "兔耳朵【蓝色】针梳",
+    "猫耳【绿色】针梳",
+    "猫耳【粉色】针梳",
+    "熊耳【橙色】针梳",
+    "熊耳【绿色】针梳",
+    "开结梳（蓝色大号）",
+    "开结梳（粉色大号）",
+    "开结梳（蓝色小号）",
+    "开结梳（粉色小号）",
+    "旋转款排梳—绿色",
+    "旋转款排梳—黄色",
+    "长短齿排梳（黄色）",
+    "长短齿排梳（绿色）",
+    "平齿排梳（黄色）",
+    "平齿排梳（绿色）",
+    "钉耙梳（黄色）",
+    "钉耙梳（蓝色）",
+    "钉耙梳（粉色）",
+    "木质梳齿款",
+    "木质密齿款",
+    "木质长短质",
+    "跳蚤梳大号",
+    "跳蚤梳小号",
+    "黑红跳蚤梳",
+    "洛克黄-不锈钢刀头【去底绒不剃毛】",
+    "海雾蓝-不锈钢刀头【去底绒不剃毛】"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "灰色针梳【OPP袋】",
+   "价格": "0.95",
+   "库存": 644897
+  },
+  {
+   "规格": "猫爪款针梳【粉色】",
+   "价格": "1.17",
+   "库存": 575062
+  },
+  {
+   "规格": "开结梳（粉色大号）",
+   "价格": "1.67",
+   "库存": 575381
+  },
+  {
+   "规格": "洛克黄-不锈钢刀头【去底绒不剃毛】",
+   "价格": "2.48",
+   "库存": 575427
+  },
+  {
+   "规格": "黑红跳蚤梳",
+   "价格": "0.54",
+   "库存": 575439
+  },
+  {
+   "规格": "木质长短质",
+   "价格": "0.68",
+   "库存": 575454
+  },
+  {
+   "规格": "平齿排梳（绿色）",
+   "价格": "0.81",
+   "库存": 575452
+  },
+  {
+   "规格": "方形【灰色】针梳",
+   "价格": "1.17",
+   "库存": 575407
+  },
+  {
+   "规格": "蓝色针梳【TPR】OPP袋",
+   "价格": "1.08",
+   "库存": 456454
+  },
+  {
+   "规格": "猫耳【粉色】针梳",
+   "价格": "1.08",
+   "库存": 575453
+  },
+  {
+   "规格": "灰色针梳【泡壳纸卡】",
+   "价格": "1.26",
+   "库存": 212121
+  },
+  {
+   "规格": "粉色针梳【OPP袋】",
+   "价格": "0.95",
+   "库存": 454218
+  },
+  {
+   "规格": "跳蚤梳小号",
+   "价格": "0.27",
+   "库存": 575361
+  },
+  {
+   "规格": "兔耳朵【绿色】针梳",
+   "价格": "0.77",
+   "库存": 575433
+  },
+  {
+   "规格": "蓝色针梳【泡壳纸卡】",
+   "价格": "1.26",
+   "库存": 242423
+  },
+  {
+   "规格": "木质密齿款",
+   "价格": "0.68",
+   "库存": 575453
+  },
+  {
+   "规格": "旋转款排梳—黄色",
+   "价格": "1.13",
+   "库存": 575449
+  },
+  {
+   "规格": "兔耳朵【黄色】针梳",
+   "价格": "0.77",
+   "库存": 575443
+  },
+  {
+   "规格": "粉色针梳【TPR】OPP袋",
+   "价格": "1.08",
+   "库存": 542424
+  },
+  {
+   "规格": "粉色针梳【泡壳纸卡】",
+   "价格": "1.26",
+   "库存": 542423
+  },
+  {
+   "规格": "灰色针梳【TPR】OPP袋",
+   "价格": "1.08",
+   "库存": 542421
+  },
+  {
+   "规格": "开结梳（粉色小号）",
+   "价格": "1.49",
+   "库存": 575453
+  },
+  {
+   "规格": "钉耙梳（蓝色）",
+   "价格": "1.26",
+   "库存": 575415
+  },
+  {
+   "规格": "平齿排梳（黄色）",
+   "价格": "0.81",
+   "库存": 575454
+  },
+  {
+   "规格": "跳蚤梳大号",
+   "价格": "0.36",
+   "库存": 575444
+  },
+  {
+   "规格": "蓝色针梳【OPP袋】",
+   "价格": "0.95",
+   "库存": 454525
+  },
+  {
+   "规格": "灰色针梳【TPR】泡壳纸卡",
+   "价格": "1.35",
+   "库存": 545244
+  },
+  {
+   "规格": "兔耳朵【蓝色】针梳",
+   "价格": "0.77",
+   "库存": 575451
+  },
+  {
+   "规格": "熊耳【绿色】针梳",
+   "价格": "1.08",
+   "库存": 575454
+  },
+  {
+   "规格": "长短齿排梳（黄色）",
+   "价格": "0.81",
+   "库存": 575441
+  },
+  {
+   "规格": "长短齿排梳（绿色）",
+   "价格": "0.81",
+   "库存": 575448
+  },
+  {
+   "规格": "兔耳朵【粉色】针梳",
+   "价格": "0.77",
+   "库存": 575442
+  },
+  {
+   "规格": "熊耳【橙色】针梳",
+   "价格": "1.08",
+   "库存": 575450
+  },
+  {
+   "规格": "钉耙梳（粉色）",
+   "价格": "1.26",
+   "库存": 575451
+  },
+  {
+   "规格": "猫耳【绿色】针梳",
+   "价格": "1.08",
+   "库存": 575443
+  },
+  {
+   "规格": "方形【粉色】针梳",
+   "价格": "1.17",
+   "库存": 575450
+  },
+  {
+   "规格": "方形【蓝色】针梳",
+   "价格": "1.17",
+   "库存": 575443
+  },
+  {
+   "规格": "开结梳（蓝色大号）",
+   "价格": "1.67",
+   "库存": 575347
+  },
+  {
+   "规格": "海雾蓝-不锈钢刀头【去底绒不剃毛】",
+   "价格": "2.48",
+   "库存": 575446
+  },
+  {
+   "规格": "猫爪款针梳【蓝色】",
+   "价格": "1.17",
+   "库存": 575451
+  },
+  {
+   "规格": "开结梳（蓝色小号）",
+   "价格": "1.49",
+   "库存": 575452
+  },
+  {
+   "规格": "兔耳朵【白色】针梳",
+   "价格": "0.77",
+   "库存": 575443
+  },
+  {
+   "规格": "蓝色针梳【TPR】泡壳纸卡",
+   "价格": "1.35",
+   "库存": 575454
+  },
+  {
+   "规格": "猫爪款针梳【灰色】",
+   "价格": "1.17",
+   "库存": 575445
+  },
+  {
+   "规格": "旋转款排梳—绿色",
+   "价格": "1.13",
+   "库存": 575453
+  },
+  {
+   "规格": "木质梳齿款",
+   "价格": "0.68",
+   "库存": 575453
+  },
+  {
+   "规格": "粉色针梳【TPR】泡壳纸卡",
+   "价格": "1.35",
+   "库存": 575454
+  },
+  {
+   "规格": "钉耙梳（黄色）",
+   "价格": "1.26",
+   "库存": 575445
+  }
+ ],
+ "规格图": [
+  [
+   "灰色针梳【OPP袋】",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01ERgf0lMS8lB1chua_!!2222849049373-0-cib.jpg"
+  ],
+  [
+   "蓝色针梳【OPP袋】",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01LOrT8YYYqzK1chua_!!2222849049373-0-cib.jpg"
+  ],
+  [
+   "粉色针梳【OPP袋】",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01wXI1UzM4KNI1chua_!!2222849049373-0-cib.jpg"
+  ],
+  [
+   "灰色针梳【泡壳纸卡】",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01zmaFzBUw77L0slA9_!!2222849049373-0-cib.jpg"
+  ],
+  [
+   "蓝色针梳【泡壳纸卡】",
+   "https://cbu01.alicdn.com/img/ibank/O1CN012i8I9RMrhTH0tGNb_!!2222849049373-0-cib.jpg"
+  ],
+  [
+   "粉色针梳【泡壳纸卡】",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01leYw5IiQ08J0sVYQ_!!2222849049373-0-cib.jpg"
+  ],
+  [
+   "灰色针梳【TPR】OPP袋",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01WDNicbjzLhH3FPpA_!!2222849049373-0-cib.jpg"
+  ],
+  [
+   "蓝色针梳【TPR】OPP袋",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01H3hF3xVi5JL3thOC_!!2222849049373-0-cib.jpg"
+  ],
+  [
+   "粉色针梳【TPR】OPP袋",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01sxuwsfsXioH3FPpA_!!2222849049373-0-cib.jpg"
+  ],
+  [
+   "灰色针梳【TPR】泡壳纸卡",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01BT1phuczG7B0slA9_!!2222849049373-0-cib.jpg"
+  ],
+  [
+   "蓝色针梳【TPR】泡壳纸卡",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01pr23jyJ0UJD0tGNb_!!2222849049373-0-cib.jpg"
+  ],
+  [
+   "粉色针梳【TPR】泡壳纸卡",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01ColYVQLqcvH0sVYQ_!!2222849049373-0-cib.jpg"
+  ],
+  [
+   "方形【灰色】针梳",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01T0t7CgBM0iL21stE_!!2222849049373-0-cib.jpg"
+  ],
+  [
+   "方形【蓝色】针梳",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01whiR8r88EvD21stE_!!2222849049373-0-cib.jpg"
+  ],
+  [
+   "方形【粉色】针梳",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01URDxvkI3YBB21stE_!!2222849049373-0-cib.jpg"
+  ],
+  [
+   "猫爪款针梳【灰色】",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01we2t6y7IXhC1chua_!!2222849049373-0-cib.jpg"
+  ],
+  [
+   "猫爪款针梳【蓝色】",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01qOd3V58MjjC1chua_!!2222849049373-0-cib.jpg"
+  ],
+  [
+   "猫爪款针梳【粉色】",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01DQF9Rzsb9PG1chua_!!2222849049373-0-cib.jpg"
+  ],
+  [
+   "兔耳朵【黄色】针梳",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01h4aQ1SFlOkH1chua_!!2222849049373-0-cib.jpg"
+  ],
+  [
+   "兔耳朵【白色】针梳",
+   "https://cbu01.alicdn.com/img/ibank/O1CN017vbsV5G9ayF1chua_!!2222849049373-0-cib.jpg"
+  ],
+  [
+   "兔耳朵【粉色】针梳",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01xjqgQkU6OGL1chua_!!2222849049373-0-cib.jpg"
+  ],
+  [
+   "兔耳朵【绿色】针梳",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01kg8fZLFVrMF1chua_!!2222849049373-0-cib.jpg"
+  ],
+  [
+   "兔耳朵【蓝色】针梳",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01wu1hHLg39nG1chua_!!2222849049373-0-cib.jpg"
+  ],
+  [
+   "猫耳【绿色】针梳",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01ELQcvT8sjFJ1chua_!!2222849049373-0-cib.jpg"
+  ],
+  [
+   "猫耳【粉色】针梳",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01AQPtVPoTaJG1chua_!!2222849049373-0-cib.jpg"
+  ],
+  [
+   "熊耳【橙色】针梳",
+   "https://cbu01.alicdn.com/img/ibank/O1CN010FItm61qRFG1chua_!!2222849049373-0-cib.jpg"
+  ],
+  [
+   "熊耳【绿色】针梳",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01w5ygK5cv6QJ1chua_!!2222849049373-0-cib.jpg"
+  ],
+  [
+   "开结梳（蓝色大号）",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01RRs9Bg3uRWF1chua_!!2222849049373-0-cib.jpg"
+  ],
+  [
+   "开结梳（粉色大号）",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01EdupOAMNSeC1chua_!!2222849049373-0-cib.jpg"
+  ],
+  [
+   "开结梳（蓝色小号）",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01i38fxMZrtfB1chua_!!2222849049373-0-cib.jpg"
+  ],
+  [
+   "开结梳（粉色小号）",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01Ev7XDmP944J1chua_!!2222849049373-0-cib.jpg"
+  ],
+  [
+   "旋转款排梳—绿色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01RDdnfe3xroH21stE_!!2222849049373-0-cib.jpg"
+  ],
+  [
+   "旋转款排梳—黄色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01gFCXiq77ebK21stE_!!2222849049373-0-cib.jpg"
+  ],
+  [
+   "长短齿排梳（黄色）",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01MVfSHKRhJPD1chua_!!2222849049373-0-cib.jpg"
+  ],
+  [
+   "长短齿排梳（绿色）",
+   "https://cbu01.alicdn.com/img/ibank/O1CN015BYSggc0QZF1chua_!!2222849049373-0-cib.jpg"
+  ],
+  [
+   "平齿排梳（黄色）",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01Dv2DxoxZdOL1chua_!!2222849049373-0-cib.jpg"
+  ],
+  [
+   "平齿排梳（绿色）",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01agiWjAPXDXE1chua_!!2222849049373-0-cib.jpg"
+  ],
+  [
+   "钉耙梳（黄色）",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01XDAOSHwvpcK1chua_!!2222849049373-0-cib.jpg"
+  ],
+  [
+   "钉耙梳（蓝色）",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01Ex6lpuM5nkF1WPfQ_!!2222849049373-0-cib.jpg"
+  ],
+  [
+   "钉耙梳（粉色）",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01ox68i9ELQ4C1chua_!!2222849049373-0-cib.jpg"
+  ],
+  [
+   "木质梳齿款",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01HODHvruTj1B1chua_!!2222849049373-0-cib.jpg"
+  ],
+  [
+   "木质密齿款",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01zuuEMXqSocD1chua_!!2222849049373-0-cib.jpg"
+  ],
+  [
+   "木质长短质",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01LK9KT99iMmC1chua_!!2222849049373-0-cib.jpg"
+  ],
+  [
+   "跳蚤梳大号",
+   "https://cbu01.alicdn.com/img/ibank/O1CN017kjGakPLhhD1WPfQ_!!2222849049373-0-cib.jpg"
+  ],
+  [
+   "跳蚤梳小号",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01m4lsgc1uNcF1chua_!!2222849049373-0-cib.jpg"
+  ],
+  [
+   "黑红跳蚤梳",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01LWh0W75hguF1chua_!!2222849049373-0-cib.jpg"
+  ],
+  [
+   "洛克黄-不锈钢刀头【去底绒不剃毛】",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01gigWLeoOA3G1chua_!!2222849049373-0-cib.jpg"
+  ],
+  [
+   "海雾蓝-不锈钢刀头【去底绒不剃毛】",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01ZtUq2GczWxL3thOC_!!2222849049373-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "skuPrice",
+ "价格区间": "0.60-5.50",
+ "阶梯价_登录后": [
+  {
+   "price": "0.27",
+   "beginAmount": 2
+  },
+  {
+   "price": "2.48",
+   "beginAmount": 2
+  }
+ ],
+ "到手价": {
+  "价": "0.27",
+  "说明": "限时价",
+  "件数": 2
+ },
+ "起订量": 2,
+ "单位": "个",
+ "可售总量": 26503446,
+ "已售": 1375,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01Oc4ToRRpHdB1chua_!!2222849049373-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01KSxoRZ0WUSF21stE_!!2222849049373-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01ZohYb1MC0SH0rcsm_!!2222849049373-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01350YaiyslIK2vH2e_!!2222849049373-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01nSVhhZfvTQF1chua_!!2222849049373-0-cib.jpg"
+ ],
+ "商品属性": [
+  "材质:PP",
+  "品牌:恒策",
+  "产品分类:宠物祛毛梳",
+  "是否进口:否",
+  "箱装数量:100",
+  "是否专利货源:否",
+  "规格:灰色针梳【OPP袋】/蓝色针梳【OPP袋】/粉色针梳【OPP袋】/灰色针梳【泡壳纸卡】/蓝色针梳【泡壳纸卡】/粉色针梳【泡壳纸卡】/灰色针梳【TPR】OPP袋/蓝色针梳【TPR】OPP袋/粉色针梳【TPR】OPP袋/灰色针梳【TPR】泡壳纸卡/蓝色针梳【TPR】泡壳纸卡/粉色针梳【TPR】泡壳纸卡/方形【灰色】针梳/方形【蓝色】针梳/方形【粉色】针梳/猫爪款针梳【灰色】/猫爪款针梳【蓝色】/猫爪款针梳【粉色】/兔耳朵【黄色】针梳/兔耳朵【白色】针梳/兔耳朵【粉色】针梳/兔耳朵【绿色】针梳/兔耳朵【蓝色】针梳/猫耳【绿色】针梳/猫耳【粉色】针梳/熊耳【橙色】针梳/熊耳【绿色】针梳/开结梳（蓝色大号）/开结梳（粉色大号）/开结梳（蓝色小号）/开结梳（粉色小号）/旋转款排梳—绿色/旋转款排梳—黄色/长短齿排梳（黄色）/长短齿排梳（绿色）/平齿排梳（黄色）/平齿排梳（绿色）/钉耙梳（黄色）/钉耙梳（蓝色）/钉耙梳（粉色）/木质梳齿款/木质密齿款/木质长短质/跳蚤梳大号/跳蚤梳小号/黑红跳蚤梳/洛克黄-不锈钢刀头【去底绒不剃毛】/海雾蓝-不锈钢刀头【去底绒不剃毛】",
+  "主要下游平台:ebay/亚马逊/wish/速卖通/独立站/LAZADA/其他",
+  "主要销售地区:非洲/欧洲/南美/东南亚/北美/东北亚/中东/其他",
+  "有可授权的自有品牌:否",
+  "是否跨境出口专供货源:是",
+  "适用送礼场合:婚庆/派对聚会/其他",
+  "适用送礼关系:情侣/夫妻/同事/朋友/孩子/同学/其他",
+  "适用节日:圣诞节/情人节/春节/元旦/七夕/万圣节/复活节/国庆节/儿童节/其他",
+  "是否属于礼品:是，个人礼品",
+  "宠物梳子:宠物梳子一键按压去浮毛褪毛梳狗狗猫咪除毛梳专用猫梳子宠物用品",
+  "使用部位:全身",
+  "核心功能:去浮毛",
+  "猫梳子:猫梳子一键按压去浮毛梳针梳开结梳宠物梳毛神器猫咪狗狗专用除毛",
+  "使用方式:手动",
+  "是否IP授权:否",
+  "狗狗梳子:跨境宠物梳子开结梳狗狗梳毛器脱毛梳美容梳狗梳子宠物用品猫梳子"
+ ],
+ "包装信息": [
+  {
+   "volume": 0,
+   "sku1": "灰色针梳【OPP袋】",
+   "length": 0,
+   "width": 0,
+   "weight": 150,
+   "skuId": 6291580982490,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "蓝色针梳【OPP袋】",
+   "length": 0,
+   "width": 0,
+   "weight": 150,
+   "skuId": 6291580982491,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "粉色针梳【OPP袋】",
+   "length": 0,
+   "width": 0,
+   "weight": 150,
+   "skuId": 6291580982492,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "灰色针梳【泡壳纸卡】",
+   "length": 0,
+   "width": 0,
+   "weight": 150,
+   "skuId": 6291580982493,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "蓝色针梳【泡壳纸卡】",
+   "length": 0,
+   "width": 0,
+   "weight": 150,
+   "skuId": 6291580982494,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "粉色针梳【泡壳纸卡】",
+   "length": 0,
+   "width": 0,
+   "weight": 150,
+   "skuId": 6291580982495,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "灰色针梳【TPR】OPP袋",
+   "length": 0,
+   "width": 0,
+   "weight": 150,
+   "skuId": 6291580982496,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "蓝色针梳【TPR】OPP袋",
+   "length": 0,
+   "width": 0,
+   "weight": 150,
+   "skuId": 6291580982497,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "粉色针梳【TPR】OPP袋",
+   "length": 0,
+   "width": 0,
+   "weight": 150,
+   "skuId": 6291580982498,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "灰色针梳【TPR】泡壳纸卡",
+   "length": 0,
+   "width": 0,
+   "weight": 150,
+   "skuId": 6291580982499,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "蓝色针梳【TPR】泡壳纸卡",
+   "length": 0,
+   "width": 0,
+   "weight": 150,
+   "skuId": 6291580982500,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "粉色针梳【TPR】泡壳纸卡",
+   "length": 0,
+   "width": 0,
+   "weight": 150,
+   "skuId": 6291580982501,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "方形【灰色】针梳",
+   "length": 0,
+   "width": 0,
+   "weight": 150,
+   "skuId": 6291580982502,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "方形【蓝色】针梳",
+   "length": 0,
+   "width": 0,
+   "weight": 150,
+   "skuId": 6291580982503,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "方形【粉色】针梳",
+   "length": 0,
+   "width": 0,
+   "weight": 150,
+   "skuId": 6291580982504,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "猫爪款针梳【灰色】",
+   "length": 0,
+   "width": 0,
+   "weight": 150,
+   "skuId": 6291580982505,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "猫爪款针梳【蓝色】",
+   "length": 0,
+   "width": 0,
+   "weight": 150,
+   "skuId": 6291580982506,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "猫爪款针梳【粉色】",
+   "length": 0,
+   "width": 0,
+   "weight": 150,
+   "skuId": 6291580982507,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "兔耳朵【黄色】针梳",
+   "length": 0,
+   "width": 0,
+   "weight": 150,
+   "skuId": 6291580982508,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "兔耳朵【白色】针梳",
+   "length": 0,
+   "width": 0,
+   "weight": 150,
+   "skuId": 6291580982509,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "兔耳朵【粉色】针梳",
+   "length": 0,
+   "width": 0,
+   "weight": 150,
+   "skuId": 6291580982510,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "兔耳朵【绿色】针梳",
+   "length": 0,
+   "width": 0,
+   "weight": 150,
+   "skuId": 6291580982511,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "兔耳朵【蓝色】针梳",
+   "length": 0,
+   "width": 0,
+   "weight": 150,
+   "skuId": 6291580982512,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "猫耳【绿色】针梳",
+   "length": 0,
+   "width": 0,
+   "weight": 150,
+   "skuId": 6291580982513,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "猫耳【粉色】针梳",
+   "length": 0,
+   "width": 0,
+   "weight": 150,
+   "skuId": 6291580982514,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "熊耳【橙色】针梳",
+   "length": 0,
+   "width": 0,
+   "weight": 150,
+   "skuId": 6291580982515,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "熊耳【绿色】针梳",
+   "length": 0,
+   "width": 0,
+   "weight": 150,
+   "skuId": 6291580982516,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "开结梳（蓝色大号）",
+   "length": 0,
+   "width": 0,
+   "weight": 150,
+   "skuId": 6291580982517,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "开结梳（粉色大号）",
+   "length": 0,
+   "width": 0,
+   "weight": 150,
+   "skuId": 6291580982518,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "开结梳（蓝色小号）",
+   "length": 0,
+   "width": 0,
+   "weight": 150,
+   "skuId": 6291580982519,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "开结梳（粉色小号）",
+   "length": 0,
+   "width": 0,
+   "weight": 150,
+   "skuId": 6291580982520,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "旋转款排梳—绿色",
+   "length": 0,
+   "width": 0,
+   "weight": 150,
+   "skuId": 6291580982521,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "旋转款排梳—黄色",
+   "length": 0,
+   "width": 0,
+   "weight": 150,
+   "skuId": 6291580982522,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "长短齿排梳（黄色）",
+   "length": 0,
+   "width": 0,
+   "weight": 150,
+   "skuId": 6291580982523,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "长短齿排梳（绿色）",
+   "length": 0,
+   "width": 0,
+   "weight": 150,
+   "skuId": 6291580982524,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "平齿排梳（黄色）",
+   "length": 0,
+   "width": 0,
+   "weight": 150,
+   "skuId": 6291580982525,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "平齿排梳（绿色）",
+   "length": 0,
+   "width": 0,
+   "weight": 150,
+   "skuId": 6291580982526,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "钉耙梳（黄色）",
+   "length": 0,
+   "width": 0,
+   "weight": 150,
+   "skuId": 6291580982527,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "钉耙梳（蓝色）",
+   "length": 0,
+   "width": 0,
+   "weight": 150,
+   "skuId": 6291580982528,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "钉耙梳（粉色）",
+   "length": 0,
+   "width": 0,
+   "weight": 150,
+   "skuId": 6291580982529,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "木质梳齿款",
+   "length": 0,
+   "width": 0,
+   "weight": 150,
+   "skuId": 6291580982530,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "木质密齿款",
+   "length": 0,
+   "width": 0,
+   "weight": 150,
+   "skuId": 6291580982531,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "木质长短质",
+   "length": 0,
+   "width": 0,
+   "weight": 150,
+   "skuId": 6291580982532,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "跳蚤梳大号",
+   "length": 0,
+   "width": 0,
+   "weight": 150,
+   "skuId": 6291580982533,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "跳蚤梳小号",
+   "length": 0,
+   "width": 0,
+   "weight": 150,
+   "skuId": 6291580982534,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "黑红跳蚤梳",
+   "length": 0,
+   "width": 0,
+   "weight": 150,
+   "skuId": 6291580982535,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "洛克黄-不锈钢刀头【去底绒不剃毛】",
+   "length": 0,
+   "width": 0,
+   "weight": 150,
+   "skuId": 6291580982536,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "海雾蓝-不锈钢刀头【去底绒不剃毛】",
+   "length": 0,
+   "width": 0,
+   "weight": 150,
+   "skuId": 6291580982537,
+   "height": 0
+  }
+ ],
+ "url": "https://detail.1688.com/offer/1077286000422.html",
+ "核页时间": "2026-10-06T17:04:18.147Z"
+}

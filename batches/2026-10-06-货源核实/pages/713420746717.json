@@ -1,0 +1,136 @@
+{
+ "offerId": "713420746717",
+ "条目": "H0976",
+ "block": false,
+ "卖家公司": "湖北中宝防护用品有限公司",
+ "旺旺名": "a104519795",
+ "标题": "厂家批发一次性U型马桶地垫四季防水防滑垫无纺布脚垫跨境电商",
+ "状态": "PUBLISHED",
+ "类目": "马桶清洁贴、垫、套",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "颜色",
+   "值": [
+    "蓝色",
+    "五角星印花",
+    "蓝色圆圈印花"
+   ]
+  },
+  {
+   "属性": "尺寸",
+   "值": [
+    "60X60"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "五角星印花&gt;60X60",
+   "价格": "1.10",
+   "库存": 9975333
+  },
+  {
+   "规格": "蓝色圆圈印花&gt;60X60",
+   "价格": "0.85",
+   "库存": 9995728
+  },
+  {
+   "规格": "蓝色&gt;60X60",
+   "价格": "1.10",
+   "库存": 9948869
+  }
+ ],
+ "规格图": [
+  [
+   "蓝色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01LZgS6e1fLvWdpTRbN_!!958893991-0-cib.jpg"
+  ],
+  [
+   "五角星印花",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01spxLk71fLvWbyquxg_!!958893991-0-cib.jpg"
+  ],
+  [
+   "蓝色圆圈印花",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01vwcFWk1fLvWhNelWD_!!958893991-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "skuPrice",
+ "价格区间": null,
+ "阶梯价_登录后": [
+  {
+   "price": "0.85",
+   "beginAmount": 2
+  },
+  {
+   "price": "1.10",
+   "beginAmount": 2
+  }
+ ],
+ "到手价": null,
+ "起订量": 2,
+ "单位": "个",
+ "可售总量": 29919930,
+ "已售": 68774,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01SepVfp1fLvfmzKCR3_!!958893991-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01FHQCUK1fLvW61z5Vw_!!958893991-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN019zHoer1fLvW2sEqwK_!!958893991-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01RCwweK1fLvVvXzHOh_!!958893991-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01q3Xuef1Bs2omvtne2_!!0-0-cib.jpg"
+ ],
+ "商品属性": [
+  "品牌:其他",
+  "产品类别:马桶垫",
+  "材质:无纺布",
+  "只数:50",
+  "使用方式:粘扣",
+  "适用季节:四季",
+  "产地:湖北仙桃",
+  "是否进口:否",
+  "是否加工定制:是",
+  "外箱规格:49*32*58",
+  "货号:20240302",
+  "专利:否",
+  "颜色:蓝色/五角星印花/蓝色圆圈印花",
+  "尺寸:60X60",
+  "主要下游平台:ebay/亚马逊/wish/速卖通/独立站/LAZADA",
+  "主要销售地区:欧洲/南美/东南亚/北美/中东",
+  "有可授权的自有品牌:是",
+  "是否跨境出口专供货源:是"
+ ],
+ "包装信息": [
+  {
+   "sku2": "60X60",
+   "volume": 88,
+   "sku1": "蓝色",
+   "length": 11,
+   "width": 8,
+   "weight": 18,
+   "skuId": 5163905414271,
+   "height": 1
+  },
+  {
+   "sku2": "60X60",
+   "volume": 88,
+   "sku1": "五角星印花",
+   "length": 11,
+   "width": 8,
+   "weight": 18,
+   "skuId": 5163905414273,
+   "height": 1
+  },
+  {
+   "sku2": "60X60",
+   "volume": 88,
+   "sku1": "蓝色圆圈印花",
+   "length": 11,
+   "width": 8,
+   "weight": 18,
+   "skuId": 5163905414274,
+   "height": 1
+  }
+ ],
+ "url": "https://detail.1688.com/offer/713420746717.html",
+ "核页时间": "2026-10-06T19:22:08.623Z"
+}

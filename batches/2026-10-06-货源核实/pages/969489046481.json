@@ -1,0 +1,124 @@
+{
+ "offerId": "969489046481",
+ "条目": "H1108",
+ "block": false,
+ "卖家公司": "滕州市玻诚玻璃制品有限公司",
+ "旺旺名": "玻诚玻璃制品",
+ "标题": "新款简约大号透明花纹花瓶水养富贵竹桌面客厅卧室插花摆件批发",
+ "状态": "PUBLISHED",
+ "类目": "装饰花瓶",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "尺寸",
+   "值": [
+    "锥桶坚条20cm",
+    "锥桶树皮20cm",
+    "锥桶光面22cm"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "锥桶坚条20cm",
+   "价格": "2.00",
+   "库存": 99167
+  },
+  {
+   "规格": "锥桶树皮20cm",
+   "价格": "2.00",
+   "库存": 96169
+  },
+  {
+   "规格": "锥桶光面22cm",
+   "价格": "2.00",
+   "库存": 88876
+  }
+ ],
+ "规格图": [
+  [
+   "锥桶坚条20cm",
+   "https://cbu01.alicdn.com/img/ibank/O1CN011f6dLy1cJEbbGAeGF_!!2220444503579-0-cib.jpg"
+  ],
+  [
+   "锥桶树皮20cm",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01tsc00s1cJEbZlorB5_!!2220444503579-0-cib.jpg"
+  ],
+  [
+   "锥桶光面22cm",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01M9lRPW1cJEfsi3FlC_!!2220444503579-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "skuPrice",
+ "价格区间": null,
+ "阶梯价_登录后": [
+  {
+   "price": "2.00",
+   "beginAmount": 1
+  }
+ ],
+ "到手价": null,
+ "起订量": 1,
+ "单位": "件",
+ "可售总量": 284212,
+ "已售": 4398,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01V1Qcw31cJEbasMPkS_!!2220444503579-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01LgTYhl1cJEbbmc4ZX_!!2220444503579-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN011XMutN1cJEbVQYkUS_!!2220444503579-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01W8uVPs1cJEbZlkpNV_!!2220444503579-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01pKc6hy1cJEbanFHYQ_!!2220444503579-0-cib.jpg"
+ ],
+ "商品属性": [
+  "材质:玻璃",
+  "工艺:彩绘",
+  "品牌:玻诚玻璃制品有限公司",
+  "表面工艺:彩绘",
+  "风格:轻奢风",
+  "货号:花瓶#4",
+  "加工定制:否",
+  "包装:纸盒包装",
+  "是否专利货源:否",
+  "尺寸:锥桶坚条20cm/锥桶树皮20cm/锥桶光面22cm",
+  "是否进口:否",
+  "是否跨境出口专供货源:是",
+  "主要销售地区:非洲/欧洲/南美/东南亚/北美/东北亚/中东/其他",
+  "主要下游平台:ebay/亚马逊/wish/速卖通/独立站/LAZADA/其他",
+  "有可授权的自有品牌:否",
+  "是否属于礼品:否",
+  "是否IP授权:否",
+  "适用对象:花卉",
+  "形状分类:椭圆形花瓶"
+ ],
+ "包装信息": [
+  {
+   "volume": 0,
+   "sku1": "锥桶坚条20cm",
+   "length": 0,
+   "width": 0,
+   "weight": 500,
+   "skuId": 6094192639349,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "锥桶树皮20cm",
+   "length": 0,
+   "width": 0,
+   "weight": 500,
+   "skuId": 6094192639350,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "锥桶光面22cm",
+   "length": 0,
+   "width": 0,
+   "weight": 500,
+   "skuId": 6282708831424,
+   "height": 0
+  }
+ ],
+ "url": "https://detail.1688.com/offer/969489046481.html",
+ "核页时间": "2026-10-06T19:59:37.796Z"
+}

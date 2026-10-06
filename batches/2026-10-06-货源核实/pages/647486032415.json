@@ -1,0 +1,604 @@
+{
+ "offerId": "647486032415",
+ "条目": "H0706",
+ "block": false,
+ "卖家公司": "浦江县赞吉宠物用品厂(个体工商户)",
+ "旺旺名": "义乌市赞吉宠物用品厂",
+ "标题": "宠物挂笼饮水器悬挂式自动滚珠兔子喂水器宠物用品喝水狗狗食具",
+ "状态": "PUBLISHED",
+ "类目": "狗狗食具",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "规格",
+   "值": [
+    "蓝色150ML",
+    "黄色150ML",
+    "粉色150ML",
+    "蓝色 250ML",
+    "黄色 250ML",
+    "粉色 250ML",
+    "蓝色500ML",
+    "黄色500ML",
+    "粉色500ML",
+    "蓝色400ML",
+    "粉色400ML",
+    "黄色400ML",
+    "绿色400ML",
+    "挂笼 饮水头红色",
+    "挂笼 饮水头黄色",
+    "挂笼 饮水头蓝色",
+    "挂笼 饮水头粉色",
+    "爵士蓝 500ML",
+    "爵士蓝 700ML",
+    "天蓝 500ML",
+    "天蓝 700ML",
+    "粉色 500ML",
+    "粉色 700ML",
+    "象牙白 500ML",
+    "象牙白 700ML",
+    "托盘 绿色 500ML",
+    "托盘 蓝色 500ML",
+    "托盘 粉色 500ML",
+    "托盘 白色 500ML",
+    "Q萌 粉色 700ML",
+    "Q萌 粉色 500ML",
+    "Q萌 白色 700ML",
+    "Q萌白色 500ML",
+    "Q萌 靛蓝 700ML",
+    "Q萌 靛蓝 500ML",
+    "Q萌 绿色 700ML",
+    "Q萌 绿色 500ML",
+    "粉色-500ML",
+    "蓝色-500ML",
+    "绿色-500ML",
+    "蓝色-350ML",
+    "黄色-350ML",
+    "绿色-350ML",
+    "活力黄 700ML",
+    "烟灰紫 700ML",
+    "果冻绿 700ML",
+    "海军蓝 700ML",
+    "芥末绿 600ml",
+    "静亦兰 600ml",
+    "珊瑚粉 600ml",
+    "随机色 500ml",
+    "黄色-500ML",
+    "粉色-350ML"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "象牙白 700ML",
+   "价格": "19.00",
+   "库存": 5105
+  },
+  {
+   "规格": "绿色-350ML",
+   "价格": "6.70",
+   "库存": 59
+  },
+  {
+   "规格": "黄色500ML",
+   "价格": "10.50",
+   "库存": 5106
+  },
+  {
+   "规格": "Q萌 粉色 500ML",
+   "价格": "14.00",
+   "库存": 5296
+  },
+  {
+   "规格": "Q萌 靛蓝 700ML",
+   "价格": "17.00",
+   "库存": 5354
+  },
+  {
+   "规格": "Q萌 绿色 700ML",
+   "价格": "17.00",
+   "库存": 5174
+  },
+  {
+   "规格": "粉色 500ML",
+   "价格": "15.00",
+   "库存": 5196
+  },
+  {
+   "规格": "芥末绿 600ml",
+   "价格": "13.50",
+   "库存": 59
+  },
+  {
+   "规格": "粉色400ML",
+   "价格": "3.00",
+   "库存": 7094
+  },
+  {
+   "规格": "静亦兰 600ml",
+   "价格": "13.50",
+   "库存": 1
+  },
+  {
+   "规格": "绿色-500ML",
+   "价格": "8.50",
+   "库存": 49
+  },
+  {
+   "规格": "黄色150ML",
+   "价格": "7.80",
+   "库存": 5098
+  },
+  {
+   "规格": "黄色 250ML",
+   "价格": "9.40",
+   "库存": 4962
+  },
+  {
+   "规格": "挂笼 饮水头红色",
+   "价格": "4.00",
+   "库存": 5022
+  },
+  {
+   "规格": "Q萌 白色 700ML",
+   "价格": "17.00",
+   "库存": 5163
+  },
+  {
+   "规格": "粉色500ML",
+   "价格": "10.50",
+   "库存": 5077
+  },
+  {
+   "规格": "蓝色 250ML",
+   "价格": "9.40",
+   "库存": 5089
+  },
+  {
+   "规格": "粉色 250ML",
+   "价格": "9.40",
+   "库存": 5147
+  },
+  {
+   "规格": "绿色400ML",
+   "价格": "3.00",
+   "库存": 6411
+  },
+  {
+   "规格": "天蓝 500ML",
+   "价格": "15.00",
+   "库存": 5279
+  },
+  {
+   "规格": "爵士蓝 500ML",
+   "价格": "15.00",
+   "库存": 5078
+  },
+  {
+   "规格": "挂笼 饮水头粉色",
+   "价格": "4.00",
+   "库存": 5166
+  },
+  {
+   "规格": "挂笼 饮水头黄色",
+   "价格": "4.00",
+   "库存": 5181
+  },
+  {
+   "规格": "Q萌 靛蓝 500ML",
+   "价格": "14.00",
+   "库存": 5224
+  },
+  {
+   "规格": "Q萌 绿色 500ML",
+   "价格": "14.00",
+   "库存": 5102
+  },
+  {
+   "规格": "黄色-350ML",
+   "价格": "6.70",
+   "库存": 59
+  },
+  {
+   "规格": "随机色 500ml",
+   "价格": "4.50",
+   "库存": 0
+  },
+  {
+   "规格": "黄色400ML",
+   "价格": "3.00",
+   "库存": 7066
+  },
+  {
+   "规格": "挂笼 饮水头蓝色",
+   "价格": "4.00",
+   "库存": 5308
+  },
+  {
+   "规格": "蓝色150ML",
+   "价格": "7.80",
+   "库存": 5155
+  },
+  {
+   "规格": "粉色-500ML",
+   "价格": "8.50",
+   "库存": 41
+  },
+  {
+   "规格": "烟灰紫 700ML",
+   "价格": "20.00",
+   "库存": 34
+  },
+  {
+   "规格": "果冻绿 700ML",
+   "价格": "20.00",
+   "库存": 221
+  },
+  {
+   "规格": "托盘 粉色 500ML",
+   "价格": "6.50",
+   "库存": 5502
+  },
+  {
+   "规格": "托盘 绿色 500ML",
+   "价格": "6.50",
+   "库存": 5538
+  },
+  {
+   "规格": "托盘 白色 500ML",
+   "价格": "6.50",
+   "库存": 5550
+  },
+  {
+   "规格": "天蓝 700ML",
+   "价格": "19.00",
+   "库存": 5196
+  },
+  {
+   "规格": "托盘 蓝色 500ML",
+   "价格": "6.50",
+   "库存": 5186
+  },
+  {
+   "规格": "蓝色-350ML",
+   "价格": "6.70",
+   "库存": 49
+  },
+  {
+   "规格": "珊瑚粉 600ml",
+   "价格": "13.50",
+   "库存": 195
+  },
+  {
+   "规格": "蓝色-500ML",
+   "价格": "8.50",
+   "库存": 10
+  },
+  {
+   "规格": "象牙白 500ML",
+   "价格": "15.00",
+   "库存": 4759
+  },
+  {
+   "规格": "粉色-350ML",
+   "价格": "6.70",
+   "库存": 0
+  },
+  {
+   "规格": "蓝色500ML",
+   "价格": "10.50",
+   "库存": 5104
+  },
+  {
+   "规格": "Q萌 粉色 700ML",
+   "价格": "17.00",
+   "库存": 5317
+  },
+  {
+   "规格": "粉色 700ML",
+   "价格": "19.00",
+   "库存": 5304
+  },
+  {
+   "规格": "海军蓝 700ML",
+   "价格": "20.00",
+   "库存": 5133
+  },
+  {
+   "规格": "Q萌白色 500ML",
+   "价格": "14.00",
+   "库存": 5379
+  },
+  {
+   "规格": "活力黄 700ML",
+   "价格": "20.00",
+   "库存": 210
+  },
+  {
+   "规格": "蓝色400ML",
+   "价格": "3.00",
+   "库存": 6288
+  },
+  {
+   "规格": "黄色-500ML",
+   "价格": "8.50",
+   "库存": 0
+  },
+  {
+   "规格": "爵士蓝 700ML",
+   "价格": "19.00",
+   "库存": 5140
+  },
+  {
+   "规格": "粉色150ML",
+   "价格": "7.80",
+   "库存": 5257
+  }
+ ],
+ "规格图": [
+  [
+   "蓝色150ML",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01Jn4t4d1sTnd700v2l_!!2548185768-0-cib.jpg"
+  ],
+  [
+   "黄色150ML",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01bVGYhE1sTnd6NacOX_!!2548185768-0-cib.jpg"
+  ],
+  [
+   "粉色150ML",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01A4Ills1sTnd6NYwUm_!!2548185768-0-cib.jpg"
+  ],
+  [
+   "蓝色 250ML",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01CFdydl1sTnd1PHUY5_!!2548185768-0-cib.jpg"
+  ],
+  [
+   "黄色 250ML",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01BsUczR1sTnd5kNSfE_!!2548185768-0-cib.jpg"
+  ],
+  [
+   "粉色 250ML",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01Y9Hg9e1sTnd6lmhDQ_!!2548185768-0-cib.jpg"
+  ],
+  [
+   "蓝色500ML",
+   "https://cbu01.alicdn.com/img/ibank/O1CN017NzlA21sTnd6R6M8A_!!2548185768-0-cib.jpg"
+  ],
+  [
+   "黄色500ML",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01xFy2Zm1sTnd1PBS0O_!!2548185768-0-cib.jpg"
+  ],
+  [
+   "粉色500ML",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01nCxTYl1sTnd6R3be6_!!2548185768-0-cib.jpg"
+  ],
+  [
+   "蓝色400ML",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01bGZ1KU1sTnd6NZTfz_!!2548185768-0-cib.jpg"
+  ],
+  [
+   "粉色400ML",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01Q4l4CR1sTnd6VBiJq_!!2548185768-0-cib.jpg"
+  ],
+  [
+   "黄色400ML",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01KR6Rej1sTnd6DUbCQ_!!2548185768-0-cib.jpg"
+  ],
+  [
+   "绿色400ML",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01utgcaL1sTnd6WKfMZ_!!2548185768-0-cib.jpg"
+  ],
+  [
+   "挂笼 饮水头红色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN015dzxhH1sTnUJloFqC_!!2548185768-0-cib.jpg"
+  ],
+  [
+   "挂笼 饮水头黄色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01rPtF2t1sTnUJsRJNu_!!2548185768-0-cib.jpg"
+  ],
+  [
+   "挂笼 饮水头蓝色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01fcBnQO1sTnUIBPjl8_!!2548185768-0-cib.jpg"
+  ],
+  [
+   "挂笼 饮水头粉色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01k0Tah51sTnUMgnvdH_!!2548185768-0-cib.jpg"
+  ],
+  [
+   "爵士蓝 500ML",
+   "https://cbu01.alicdn.com/img/ibank/O1CN011rcTc91sTnd70D0FL_!!2548185768-0-cib.jpg"
+  ],
+  [
+   "爵士蓝 700ML",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01CoIkcE1sTnd6Wa2U4_!!2548185768-0-cib.jpg"
+  ],
+  [
+   "天蓝 500ML",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01v7oDX81sTnd6psFoo_!!2548185768-0-cib.jpg"
+  ],
+  [
+   "天蓝 700ML",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01vNgdCC1sTnd6RKvWs_!!2548185768-0-cib.jpg"
+  ],
+  [
+   "粉色 500ML",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01GQKA1z1sTnd6m0nCA_!!2548185768-0-cib.jpg"
+  ],
+  [
+   "粉色 700ML",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01N5yQJm1sTnd65jUZr_!!2548185768-0-cib.jpg"
+  ],
+  [
+   "象牙白 500ML",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01rJbhzn1sTnd6WbFZR_!!2548185768-0-cib.jpg"
+  ],
+  [
+   "象牙白 700ML",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01rmCnWj1sTnd6uSJm9_!!2548185768-0-cib.jpg"
+  ],
+  [
+   "托盘 绿色 500ML",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01ThlMK51sTnd6ehN60_!!2548185768-0-cib.jpg"
+  ],
+  [
+   "托盘 蓝色 500ML",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01gM9rD81sTnd6o2hsW_!!2548185768-0-cib.jpg"
+  ],
+  [
+   "托盘 粉色 500ML",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01uh8WCg1sTnd6DilYl_!!2548185768-0-cib.jpg"
+  ],
+  [
+   "托盘 白色 500ML",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01W6SkkO1sTnd5kdm7z_!!2548185768-0-cib.jpg"
+  ],
+  [
+   "Q萌 粉色 700ML",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01kPlrEi1sTnd1PWrtc_!!2548185768-0-cib.jpg"
+  ],
+  [
+   "Q萌 粉色 500ML",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01CzNKgW1sTnd7hNXQh_!!2548185768-0-cib.jpg"
+  ],
+  [
+   "Q萌 白色 700ML",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01u05XwC1sTnd6pwLnZ_!!2548185768-0-cib.jpg"
+  ],
+  [
+   "Q萌白色 500ML",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01YKgM5d1sTnd6m2L87_!!2548185768-0-cib.jpg"
+  ],
+  [
+   "Q萌 靛蓝 700ML",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01nPLhL31sTnd6RRVMN_!!2548185768-0-cib.jpg"
+  ],
+  [
+   "Q萌 靛蓝 500ML",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01IWgP2V1sTnd5kg3du_!!2548185768-0-cib.jpg"
+  ],
+  [
+   "Q萌 绿色 700ML",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01wCjPde1sTnd7jtpOp_!!2548185768-0-cib.jpg"
+  ],
+  [
+   "Q萌 绿色 500ML",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01p1W69d1sTnd6GJLt1_!!2548185768-0-cib.jpg"
+  ],
+  [
+   "粉色-500ML",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01C0kPaJ1sTnd1S08JT_!!2548185768-0-cib.jpg"
+  ],
+  [
+   "蓝色-500ML",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01TGiTmP1sTnd6qUy38_!!2548185768-0-cib.jpg"
+  ],
+  [
+   "绿色-500ML",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01HfYdkr1sTnd6Y7NXd_!!2548185768-0-cib.jpg"
+  ],
+  [
+   "蓝色-350ML",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01pA5sSs1sTnd6hBa8h_!!2548185768-0-cib.jpg"
+  ],
+  [
+   "黄色-350ML",
+   "https://cbu01.alicdn.com/img/ibank/O1CN010mMRoX1sTnd6ocmsP_!!2548185768-0-cib.jpg"
+  ],
+  [
+   "绿色-350ML",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01W2tiAY1sTnd6U5Zzv_!!2548185768-0-cib.jpg"
+  ],
+  [
+   "活力黄 700ML",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01n0QdFO1sTnd5nGi73_!!2548185768-0-cib.jpg"
+  ],
+  [
+   "烟灰紫 700ML",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01T92eqt1sTnd6qdcye_!!2548185768-0-cib.jpg"
+  ],
+  [
+   "果冻绿 700ML",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01QafZWz1sTnd6ZD71C_!!2548185768-0-cib.jpg"
+  ],
+  [
+   "海军蓝 700ML",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01IRjgkG1sTnd615xOo_!!2548185768-0-cib.jpg"
+  ],
+  [
+   "芥末绿 600ml",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01eofPs61sTnd6orck3_!!2548185768-0-cib.jpg"
+  ],
+  [
+   "静亦兰 600ml",
+   "https://cbu01.alicdn.com/img/ibank/O1CN016liV611sTnd6sldW2_!!2548185768-0-cib.jpg"
+  ],
+  [
+   "珊瑚粉 600ml",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01z8fC561sTnd7kFJDj_!!2548185768-0-cib.jpg"
+  ],
+  [
+   "随机色 500ml",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01cHCX9Q1sTnd6uB829_!!2548185768-0-cib.jpg"
+  ],
+  [
+   "黄色-500ML",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01ml9JRw1sTnd72dvD4_!!2548185768-0-cib.jpg"
+  ],
+  [
+   "粉色-350ML",
+   "https://cbu01.alicdn.com/img/ibank/O1CN010F4vTg1sTnd1S3lGK_!!2548185768-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "skuPrice",
+ "价格区间": null,
+ "阶梯价_登录后": [
+  {
+   "price": "3.00",
+   "beginAmount": 1
+  },
+  {
+   "price": "20.00",
+   "beginAmount": 1
+  }
+ ],
+ "到手价": null,
+ "起订量": 1,
+ "单位": "个",
+ "可售总量": 204493,
+ "已售": 12297,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01yxFhCT1sTnBtprZXT_!!2548185768-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01iuX3wt1sTnC6cKNIO_!!2548185768-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01thR6yP1sTnC3osZh1_!!2548185768-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01nG1Dqc1sTnC9B0G29_!!2548185768-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN013Vr0E51sTnC8LLCoC_!!2548185768-0-cib.jpg"
+ ],
+ "商品属性": [
+  "材质:塑料",
+  "品牌:哒哒熊（宠物）",
+  "成套自动喂食:是",
+  "产地:浙江",
+  "是否进口:否",
+  "货号:40022",
+  "箱装数量:60",
+  "是否专利货源:否",
+  "规格:蓝色150ML/黄色150ML/粉色150ML/蓝色 250ML/黄色 250ML/粉色 250ML/蓝色500ML/黄色500ML/粉色500ML/蓝色400ML/粉色400ML/黄色400ML/绿色400ML/随机色 500ml/挂笼 饮水头红色/挂笼 饮水头黄色/挂笼 饮水头蓝色/挂笼 饮水头粉色/爵士蓝 500ML/爵士蓝 700ML/天蓝 500ML/天蓝 700ML/粉色 500ML/粉色 700ML/象牙白 500ML/象牙白 700ML/托盘 绿色 500ML/托盘 蓝色 500ML/托盘 粉色 500ML/托盘 白色 500ML/Q萌 粉色 700ML/Q萌 粉色 500ML/Q萌 白色 700ML/Q萌白色 500ML/Q萌 靛蓝 700ML/Q萌 靛蓝 500ML/Q萌 绿色 700ML/Q萌 绿色 500ML/粉色-500ML/蓝色-500ML/黄色-500ML/绿色-500ML/粉色-350ML/蓝色-350ML/黄色-350ML/绿色-350ML/活力黄 700ML/烟灰紫 700ML/果冻绿 700ML/海军蓝 700ML/芥末绿 600ml/静亦兰 600ml/珊瑚粉 600ml",
+  "主要下游平台:ebay/亚马逊/wish/速卖通/独立站/LAZADA",
+  "主要销售地区:欧洲/南美/东南亚/北美/东北亚/中东",
+  "有可授权的自有品牌:否",
+  "是否跨境出口专供货源:是",
+  "是否属于礼品:否",
+  "是否IP授权:否"
+ ],
+ "包装信息": [
+  {
+   "volume": 0,
+   "length": 0,
+   "width": 0,
+   "weight": 90,
+   "height": 0
+  }
+ ],
+ "url": "https://detail.1688.com/offer/647486032415.html",
+ "核页时间": "2026-10-06T18:04:29.828Z"
+}

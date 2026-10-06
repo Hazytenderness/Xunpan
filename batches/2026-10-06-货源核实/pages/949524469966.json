@@ -1,0 +1,609 @@
+{
+ "offerId": "949524469966",
+ "条目": "H0205",
+ "block": false,
+ "卖家公司": "永康市兆康工贸有限公司",
+ "旺旺名": "永康市兆康工贸有限公司",
+ "标题": "跨境内锁式打孔安装伸缩杆衣柜挂衣晒衣晾衣杆可伸缩罗马杆窗帘杆",
+ "状态": "PUBLISHED",
+ "类目": "窗帘杆/罗马杆",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "颜色",
+   "值": [
+    "黑色",
+    "白色",
+    "银灰色",
+    "金色"
+   ]
+  },
+  {
+   "属性": "规格",
+   "值": [
+    "43cm—73cm（28inch）",
+    "43cm—103cm（40inch）",
+    "43cm—133cm（52inch）",
+    "43cm—163cm（64inch）",
+    "43cm—193cm（76inch）",
+    "43cm—223cm（87inch）",
+    "43cm—108cm（43inch）",
+    "43cm—143cm（57inch）",
+    "43cm—178cm（70inch）",
+    "43cm—213cm（84inch）",
+    "43cm—248cm（99inch）"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "银灰色&gt;43cm—108cm（43inch）",
+   "价格": "22.50",
+   "库存": 49999
+  },
+  {
+   "规格": "白色&gt;43cm—163cm（64inch）",
+   "价格": "27.50",
+   "库存": 49970
+  },
+  {
+   "规格": "白色&gt;43cm—133cm（52inch）",
+   "价格": "24.50",
+   "库存": 49782
+  },
+  {
+   "规格": "白色&gt;43cm—223cm（87inch）",
+   "价格": "33.50",
+   "库存": 49995
+  },
+  {
+   "规格": "黑色&gt;43cm—193cm（76inch）",
+   "价格": "30.50",
+   "库存": 49997
+  },
+  {
+   "规格": "银灰色&gt;43cm—178cm（70inch）",
+   "价格": "28.50",
+   "库存": 49996
+  },
+  {
+   "规格": "金色&gt;43cm—178cm（70inch）",
+   "价格": "28.50",
+   "库存": 49986
+  },
+  {
+   "规格": "黑色&gt;43cm—178cm（70inch）",
+   "价格": "28.50",
+   "库存": 49567
+  },
+  {
+   "规格": "银灰色&gt;43cm—213cm（84inch）",
+   "价格": "31.50",
+   "库存": 50000
+  },
+  {
+   "规格": "黑色&gt;43cm—223cm（87inch）",
+   "价格": "33.50",
+   "库存": 49869
+  },
+  {
+   "规格": "银灰色&gt;43cm—248cm（99inch）",
+   "价格": "34.50",
+   "库存": 50000
+  },
+  {
+   "规格": "银灰色&gt;43cm—143cm（57inch）",
+   "价格": "25.50",
+   "库存": 49998
+  },
+  {
+   "规格": "金色&gt;43cm—143cm（57inch）",
+   "价格": "25.50",
+   "库存": 49971
+  },
+  {
+   "规格": "黑色&gt;43cm—133cm（52inch）",
+   "价格": "24.50",
+   "库存": 48644
+  },
+  {
+   "规格": "黑色&gt;43cm—213cm（84inch）",
+   "价格": "31.50",
+   "库存": 49544
+  },
+  {
+   "规格": "金色&gt;43cm—213cm（84inch）",
+   "价格": "31.50",
+   "库存": 49992
+  },
+  {
+   "规格": "黑色&gt;43cm—103cm（40inch）",
+   "价格": "21.50",
+   "库存": 49033
+  },
+  {
+   "规格": "黑色&gt;43cm—73cm（28inch）",
+   "价格": "18.50",
+   "库存": 49974
+  },
+  {
+   "规格": "白色&gt;43cm—178cm（70inch）",
+   "价格": "28.50",
+   "库存": 49958
+  },
+  {
+   "规格": "白色&gt;43cm—103cm（40inch）",
+   "价格": "21.50",
+   "库存": 49605
+  },
+  {
+   "规格": "金色&gt;43cm—73cm（28inch）",
+   "价格": "18.50",
+   "库存": 49984
+  },
+  {
+   "规格": "黑色&gt;43cm—163cm（64inch）",
+   "价格": "27.50",
+   "库存": 49725
+  },
+  {
+   "规格": "白色&gt;43cm—193cm（76inch）",
+   "价格": "30.50",
+   "库存": 49998
+  },
+  {
+   "规格": "银灰色&gt;43cm—73cm（28inch）",
+   "价格": "18.50",
+   "库存": 49991
+  },
+  {
+   "规格": "白色&gt;43cm—213cm（84inch）",
+   "价格": "31.50",
+   "库存": 49859
+  },
+  {
+   "规格": "黑色&gt;43cm—248cm（99inch）",
+   "价格": "34.50",
+   "库存": 49964
+  },
+  {
+   "规格": "金色&gt;43cm—248cm（99inch）",
+   "价格": "34.50",
+   "库存": 49998
+  },
+  {
+   "规格": "白色&gt;43cm—143cm（57inch）",
+   "价格": "25.50",
+   "库存": 49923
+  },
+  {
+   "规格": "黑色&gt;43cm—143cm（57inch）",
+   "价格": "25.50",
+   "库存": 49616
+  },
+  {
+   "规格": "黑色&gt;43cm—108cm（43inch）",
+   "价格": "22.50",
+   "库存": 49925
+  },
+  {
+   "规格": "白色&gt;43cm—73cm（28inch）",
+   "价格": "18.50",
+   "库存": 49930
+  },
+  {
+   "规格": "白色&gt;43cm—248cm（99inch）",
+   "价格": "34.50",
+   "库存": 49987
+  },
+  {
+   "规格": "白色&gt;43cm—108cm（43inch）",
+   "价格": "22.50",
+   "库存": 49980
+  },
+  {
+   "规格": "金色&gt;43cm—108cm（43inch）",
+   "价格": "22.50",
+   "库存": 49948
+  }
+ ],
+ "规格图": [
+  [
+   "黑色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01WX9yyT1OOMREGYOzu_!!2218557551695-0-cib.jpg"
+  ],
+  [
+   "白色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN019cSFQf1OOMRK1JGvW_!!2218557551695-0-cib.jpg"
+  ],
+  [
+   "银灰色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01lAIpC21OOMP006kP5_!!2218557551695-0-cib.jpg"
+  ],
+  [
+   "金色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01m6iEAA1OOMREGWesj_!!2218557551695-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "skuPrice",
+ "价格区间": "18.50-34.50",
+ "阶梯价_登录后": [
+  {
+   "price": "18.50",
+   "beginAmount": 1
+  },
+  {
+   "price": "34.50",
+   "beginAmount": 1
+  }
+ ],
+ "到手价": null,
+ "起订量": 1,
+ "单位": "个",
+ "可售总量": 1694708,
+ "已售": 6408,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN011ROZCF1OOMRJckrt9_!!2218557551695-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01jhEs911OOMREG9pWy_!!2218557551695-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01goZ2CE1OOMRIZGoBO_!!2218557551695-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01OPurV61OOMRKa58Fe_!!2218557551695-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01DlTcL91OOMP1YD0QI_!!2218557551695-0-cib.jpg"
+ ],
+ "商品属性": [
+  "材质:铁",
+  "品牌:other/其他",
+  "风格:其它",
+  "货号:其他",
+  "主要销售地区:非洲/欧洲/南美/东南亚/北美/东北亚/中东",
+  "是否可定制:是",
+  "主要下游平台:ebay/亚马逊/wish/速卖通/独立站/LAZADA/其他",
+  "颜色:黑色/白色/银灰色/金色",
+  "规格:43cm—73cm（28inch）/43cm—103cm（40inch）/43cm—133cm（52inch）/43cm—163cm（64inch）/43cm—193cm（76inch）/43cm—223cm（87inch）/43cm—108cm（43inch）/43cm—143cm（57inch）/43cm—178cm（70inch）/43cm—213cm（84inch）/43cm—248cm（99inch）",
+  "是否跨境出口专供货源:是",
+  "有可授权的自有品牌:是"
+ ],
+ "包装信息": [
+  {
+   "sku2": "43cm—73cm（28inch）",
+   "volume": 0,
+   "sku1": "黑色",
+   "length": 0,
+   "width": 0,
+   "weight": 1,
+   "skuId": 6014402133081,
+   "height": 0
+  },
+  {
+   "sku2": "43cm—103cm（40inch）",
+   "volume": 0,
+   "sku1": "黑色",
+   "length": 0,
+   "width": 0,
+   "weight": 1,
+   "skuId": 6014402133085,
+   "height": 0
+  },
+  {
+   "sku2": "43cm—133cm（52inch）",
+   "volume": 0,
+   "sku1": "黑色",
+   "length": 0,
+   "width": 0,
+   "weight": 1,
+   "skuId": 6014402133105,
+   "height": 0
+  },
+  {
+   "sku2": "43cm—163cm（64inch）",
+   "volume": 0,
+   "sku1": "黑色",
+   "length": 0,
+   "width": 0,
+   "weight": 2,
+   "skuId": 6014402133093,
+   "height": 0
+  },
+  {
+   "sku2": "43cm—193cm（76inch）",
+   "volume": 0,
+   "sku1": "黑色",
+   "length": 0,
+   "width": 0,
+   "weight": 2,
+   "skuId": 6014402133101,
+   "height": 0
+  },
+  {
+   "sku2": "43cm—223cm（87inch）",
+   "volume": 0,
+   "sku1": "黑色",
+   "length": 0,
+   "width": 0,
+   "weight": 2,
+   "skuId": 6014402133109,
+   "height": 0
+  },
+  {
+   "sku2": "43cm—108cm（43inch）",
+   "volume": 0,
+   "sku1": "黑色",
+   "length": 0,
+   "width": 0,
+   "weight": 1,
+   "skuId": 6014402133097,
+   "height": 0
+  },
+  {
+   "sku2": "43cm—143cm（57inch）",
+   "volume": 0,
+   "sku1": "黑色",
+   "length": 0,
+   "width": 0,
+   "weight": 1,
+   "skuId": 6014402133073,
+   "height": 0
+  },
+  {
+   "sku2": "43cm—178cm（70inch）",
+   "volume": 0,
+   "sku1": "黑色",
+   "length": 0,
+   "width": 0,
+   "weight": 2,
+   "skuId": 6014402133089,
+   "height": 0
+  },
+  {
+   "sku2": "43cm—213cm（84inch）",
+   "volume": 0,
+   "sku1": "黑色",
+   "length": 0,
+   "width": 0,
+   "weight": 2,
+   "skuId": 6014402133077,
+   "height": 0
+  },
+  {
+   "sku2": "43cm—248cm（99inch）",
+   "volume": 0,
+   "sku1": "黑色",
+   "length": 0,
+   "width": 0,
+   "weight": 2,
+   "skuId": 6014402133069,
+   "height": 0
+  },
+  {
+   "sku2": "43cm—73cm（28inch）",
+   "volume": 0,
+   "sku1": "白色",
+   "length": 0,
+   "width": 0,
+   "weight": 1,
+   "skuId": 6014402133079,
+   "height": 0
+  },
+  {
+   "sku2": "43cm—103cm（40inch）",
+   "volume": 0,
+   "sku1": "白色",
+   "length": 0,
+   "width": 0,
+   "weight": 1,
+   "skuId": 6014402133083,
+   "height": 0
+  },
+  {
+   "sku2": "43cm—133cm（52inch）",
+   "volume": 0,
+   "sku1": "白色",
+   "length": 0,
+   "width": 0,
+   "weight": 1,
+   "skuId": 6014402133103,
+   "height": 0
+  },
+  {
+   "sku2": "43cm—163cm（64inch）",
+   "volume": 0,
+   "sku1": "白色",
+   "length": 0,
+   "width": 0,
+   "weight": 2,
+   "skuId": 6014402133091,
+   "height": 0
+  },
+  {
+   "sku2": "43cm—193cm（76inch）",
+   "volume": 0,
+   "sku1": "白色",
+   "length": 0,
+   "width": 0,
+   "weight": 2,
+   "skuId": 6014402133099,
+   "height": 0
+  },
+  {
+   "sku2": "43cm—223cm（87inch）",
+   "volume": 0,
+   "sku1": "白色",
+   "length": 0,
+   "width": 0,
+   "weight": 2,
+   "skuId": 6014402133107,
+   "height": 0
+  },
+  {
+   "sku2": "43cm—108cm（43inch）",
+   "volume": 0,
+   "sku1": "白色",
+   "length": 0,
+   "width": 0,
+   "weight": 1,
+   "skuId": 6014402133095,
+   "height": 0
+  },
+  {
+   "sku2": "43cm—143cm（57inch）",
+   "volume": 0,
+   "sku1": "白色",
+   "length": 0,
+   "width": 0,
+   "weight": 1,
+   "skuId": 6014402133071,
+   "height": 0
+  },
+  {
+   "sku2": "43cm—178cm（70inch）",
+   "volume": 0,
+   "sku1": "白色",
+   "length": 0,
+   "width": 0,
+   "weight": 2,
+   "skuId": 6014402133087,
+   "height": 0
+  },
+  {
+   "sku2": "43cm—213cm（84inch）",
+   "volume": 0,
+   "sku1": "白色",
+   "length": 0,
+   "width": 0,
+   "weight": 2,
+   "skuId": 6014402133075,
+   "height": 0
+  },
+  {
+   "sku2": "43cm—248cm（99inch）",
+   "volume": 0,
+   "sku1": "白色",
+   "length": 0,
+   "width": 0,
+   "weight": 2,
+   "skuId": 6014402133067,
+   "height": 0
+  },
+  {
+   "sku2": "43cm—73cm（28inch）",
+   "volume": 0,
+   "sku1": "银灰色",
+   "length": 0,
+   "width": 0,
+   "weight": 1,
+   "skuId": 6014402133082,
+   "height": 0
+  },
+  {
+   "sku2": "43cm—108cm（43inch）",
+   "volume": 0,
+   "sku1": "银灰色",
+   "length": 0,
+   "width": 0,
+   "weight": 1,
+   "skuId": 6014402133098,
+   "height": 0
+  },
+  {
+   "sku2": "43cm—143cm（57inch）",
+   "volume": 0,
+   "sku1": "银灰色",
+   "length": 0,
+   "width": 0,
+   "weight": 1,
+   "skuId": 6014402133074,
+   "height": 0
+  },
+  {
+   "sku2": "43cm—178cm（70inch）",
+   "volume": 0,
+   "sku1": "银灰色",
+   "length": 0,
+   "width": 0,
+   "weight": 2,
+   "skuId": 6014402133090,
+   "height": 0
+  },
+  {
+   "sku2": "43cm—213cm（84inch）",
+   "volume": 0,
+   "sku1": "银灰色",
+   "length": 0,
+   "width": 0,
+   "weight": 2,
+   "skuId": 6014402133078,
+   "height": 0
+  },
+  {
+   "sku2": "43cm—248cm（99inch）",
+   "volume": 0,
+   "sku1": "银灰色",
+   "length": 0,
+   "width": 0,
+   "weight": 2,
+   "skuId": 6014402133070,
+   "height": 0
+  },
+  {
+   "sku2": "43cm—73cm（28inch）",
+   "volume": 0,
+   "sku1": "金色",
+   "length": 0,
+   "width": 0,
+   "weight": 1,
+   "skuId": 6014402133080,
+   "height": 0
+  },
+  {
+   "sku2": "43cm—108cm（43inch）",
+   "volume": 0,
+   "sku1": "金色",
+   "length": 0,
+   "width": 0,
+   "weight": 1,
+   "skuId": 6014402133096,
+   "height": 0
+  },
+  {
+   "sku2": "43cm—143cm（57inch）",
+   "volume": 0,
+   "sku1": "金色",
+   "length": 0,
+   "width": 0,
+   "weight": 1,
+   "skuId": 6014402133072,
+   "height": 0
+  },
+  {
+   "sku2": "43cm—178cm（70inch）",
+   "volume": 0,
+   "sku1": "金色",
+   "length": 0,
+   "width": 0,
+   "weight": 2,
+   "skuId": 6014402133088,
+   "height": 0
+  },
+  {
+   "sku2": "43cm—213cm（84inch）",
+   "volume": 0,
+   "sku1": "金色",
+   "length": 0,
+   "width": 0,
+   "weight": 2,
+   "skuId": 6014402133076,
+   "height": 0
+  },
+  {
+   "sku2": "43cm—248cm（99inch）",
+   "volume": 0,
+   "sku1": "金色",
+   "length": 0,
+   "width": 0,
+   "weight": 2,
+   "skuId": 6014402133068,
+   "height": 0
+  }
+ ],
+ "url": "https://detail.1688.com/offer/949524469966.html",
+ "核页时间": "2026-10-06T15:40:48.010Z"
+}

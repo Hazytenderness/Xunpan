@@ -1,0 +1,136 @@
+{
+ "offerId": "985074880517",
+ "条目": "H0182",
+ "block": false,
+ "卖家公司": "南通芊朵娜纺织品有限公司",
+ "旺旺名": "芊朵娜家纺",
+ "标题": "新品床上趴睡枕记忆枕床头躺睡枕记忆棉趴床阅读枕垫高玩手机俯卧",
+ "状态": "PUBLISHED",
+ "类目": "记忆枕",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "颜色",
+   "值": [
+    "深蓝色",
+    "天蓝色",
+    "气质灰",
+    "冰青绿"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "天蓝色",
+   "价格": "28.00",
+   "库存": 998647
+  },
+  {
+   "规格": "冰青绿",
+   "价格": "28.00",
+   "库存": 999549
+  },
+  {
+   "规格": "深蓝色",
+   "价格": "28.00",
+   "库存": 998808
+  },
+  {
+   "规格": "气质灰",
+   "价格": "28.00",
+   "库存": 999036
+  }
+ ],
+ "规格图": [
+  [
+   "深蓝色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN015wWMCS1tQQIeFdHvF_!!2219740685896-0-cib.jpg"
+  ],
+  [
+   "天蓝色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01eOZOsZ1tQQIdUdHVO_!!2219740685896-0-cib.jpg"
+  ],
+  [
+   "气质灰",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01jMjUQF1tQQIeQHM4F_!!2219740685896-0-cib.jpg"
+  ],
+  [
+   "冰青绿",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01r3zceD1tQQJoO3rnl_!!2219740685896-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "skuPrice",
+ "价格区间": "28.00",
+ "阶梯价_登录后": [
+  {
+   "price": "28.00",
+   "beginAmount": 1
+  }
+ ],
+ "到手价": null,
+ "起订量": 1,
+ "单位": "个",
+ "可售总量": 3996040,
+ "已售": 3548,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01RKQiBF1tQQIh7B70p_!!2219740685896-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01fd9jjA1tQQIu9a4zc_!!2219740685896-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01eOZOsZ1tQQIdUdHVO_!!2219740685896-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN015wWMCS1tQQIeFdHvF_!!2219740685896-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01FSqwKD1tQQIdUbjup_!!2219740685896-0-cib.jpg"
+ ],
+ "商品属性": [
+  "品牌:--",
+  "材质:记忆棉",
+  "枕芯面料:涤棉",
+  "枕芯重量:3斤（含）-4斤（不含）",
+  "枕芯形状:异形",
+  "枕芯高度:20cm（含）-25cm（不含）",
+  "货号:记忆枕",
+  "加工定制:是",
+  "适用对象:通用",
+  "颜色:深蓝色/天蓝色/气质灰/冰青绿",
+  "是否有专利:否",
+  "是否一般纳税人:否"
+ ],
+ "包装信息": [
+  {
+   "volume": 19200,
+   "sku1": "深蓝色",
+   "length": 60,
+   "width": 40,
+   "weight": 1200,
+   "skuId": 5946308465178,
+   "height": 8
+  },
+  {
+   "volume": 19200,
+   "sku1": "天蓝色",
+   "length": 60,
+   "width": 40,
+   "weight": 1200,
+   "skuId": 5946308465179,
+   "height": 8
+  },
+  {
+   "volume": 19200,
+   "sku1": "气质灰",
+   "length": 60,
+   "width": 40,
+   "weight": 1200,
+   "skuId": 5946308465180,
+   "height": 8
+  },
+  {
+   "volume": 19200,
+   "sku1": "冰青绿",
+   "length": 60,
+   "width": 40,
+   "weight": 1200,
+   "skuId": 6006856105097,
+   "height": 8
+  }
+ ],
+ "url": "https://detail.1688.com/offer/985074880517.html",
+ "核页时间": "2026-10-06T15:32:48.922Z"
+}

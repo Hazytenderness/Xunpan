@@ -1,0 +1,782 @@
+{
+ "offerId": "679481235503",
+ "条目": "H0108",
+ "block": false,
+ "卖家公司": "高阳县效信纺织品制造有限公司",
+ "旺旺名": "效信纺织品",
+ "标题": "吉祥格珊瑚绒小熊毛巾两条结婚伴手礼礼盒装可爱日系礼品造型",
+ "状态": "PUBLISHED",
+ "类目": "蛋糕毛巾、造型毛巾",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "颜色",
+   "值": [
+    "PVC双条装 吉祥格小熊粉+蓝",
+    "PVC双条装 吉祥格小熊粉+瓦红",
+    "PVC双条装 吉祥格小熊蓝+卡其",
+    "PVC双条装 吉祥格小熊紫+灰蓝",
+    "PVC双条装 吉祥格小熊绿+蓝",
+    "PVC双条装 吉祥格小熊蓝+灰蓝",
+    "PVC单条装吉祥格小熊蓝",
+    "PVC单条装 吉祥格小熊绿",
+    "PVC单条装 吉祥格小熊粉",
+    "PVC单条装 吉祥格小熊瓦红",
+    "PVC单条装 吉祥格小熊卡其",
+    "PVC单条装 吉祥格小熊紫",
+    "PVC单条装吉祥格小熊灰蓝",
+    "PVC单条装满月之喜定制展示",
+    "PVC单条装喜结良缘定制展示",
+    "单条树叶礼盒 吉祥格小熊蓝",
+    "单条树叶礼盒吉祥格小熊绿",
+    "单条树叶礼盒 吉祥格小熊粉",
+    "单条树叶礼盒吉祥格熊卡其",
+    "单条树叶礼盒 吉祥格小熊瓦红",
+    "单条树叶礼盒吉祥格小熊灰蓝",
+    "单条树叶礼盒吉祥格小熊紫",
+    "单条莲花礼盒 吉祥格小熊卡其",
+    "单条蝴蝶结礼盒吉祥格小熊瓦红",
+    "单条郁金香礼盒 吉祥格小熊粉",
+    "单条棉字礼盒 吉祥格小熊蓝",
+    "单条绿经典礼盒 吉祥格小熊绿",
+    "单条灰经典礼盒 吉祥格小熊灰蓝",
+    "吉祥格小熊粉",
+    "吉祥格小熊蓝",
+    "吉祥格小熊绿",
+    "吉祥格小熊卡其",
+    "吉祥格小熊瓦红",
+    "吉祥格小熊紫",
+    "吉祥格小熊灰蓝"
+   ]
+  },
+  {
+   "属性": "规格（长*宽cm）",
+   "值": [
+    "35*75cm"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "单条绿经典礼盒 吉祥格小熊绿&gt;35*75cm",
+   "价格": "3.20",
+   "库存": 18120
+  },
+  {
+   "规格": "PVC单条装 吉祥格小熊绿&gt;35*75cm",
+   "价格": "3.20",
+   "库存": 71330
+  },
+  {
+   "规格": "PVC双条装 吉祥格小熊蓝+灰蓝&gt;35*75cm",
+   "价格": "6.50",
+   "库存": 19810
+  },
+  {
+   "规格": "PVC双条装 吉祥格小熊绿+蓝&gt;35*75cm",
+   "价格": "6.50",
+   "库存": 19666
+  },
+  {
+   "规格": "单条树叶礼盒吉祥格小熊灰蓝&gt;35*75cm",
+   "价格": "3.20",
+   "库存": 11979
+  },
+  {
+   "规格": "单条棉字礼盒 吉祥格小熊蓝&gt;35*75cm",
+   "价格": "3.20",
+   "库存": 19600
+  },
+  {
+   "规格": "单条树叶礼盒吉祥格小熊绿&gt;35*75cm",
+   "价格": "3.20",
+   "库存": 17403
+  },
+  {
+   "规格": "单条莲花礼盒 吉祥格小熊卡其&gt;35*75cm",
+   "价格": "3.20",
+   "库存": 18407
+  },
+  {
+   "规格": "PVC双条装 吉祥格小熊粉+蓝&gt;35*75cm",
+   "价格": "6.50",
+   "库存": 11453
+  },
+  {
+   "规格": "PVC双条装 吉祥格小熊紫+灰蓝&gt;35*75cm",
+   "价格": "6.50",
+   "库存": 19519
+  },
+  {
+   "规格": "单条树叶礼盒吉祥格熊卡其&gt;35*75cm",
+   "价格": "3.20",
+   "库存": 67714
+  },
+  {
+   "规格": "PVC双条装 吉祥格小熊蓝+卡其&gt;35*75cm",
+   "价格": "6.50",
+   "库存": 19810
+  },
+  {
+   "规格": "单条树叶礼盒 吉祥格小熊粉&gt;35*75cm",
+   "价格": "3.20",
+   "库存": 13831
+  },
+  {
+   "规格": "PVC单条装喜结良缘定制展示&gt;35*75cm",
+   "价格": "3.20",
+   "库存": 0
+  },
+  {
+   "规格": "吉祥格小熊瓦红&gt;35*75cm",
+   "价格": "2.70",
+   "库存": 11061
+  },
+  {
+   "规格": "吉祥格小熊灰蓝&gt;35*75cm",
+   "价格": "2.70",
+   "库存": 66042
+  },
+  {
+   "规格": "PVC单条装 吉祥格小熊卡其&gt;35*75cm",
+   "价格": "3.20",
+   "库存": 9894
+  },
+  {
+   "规格": "吉祥格小熊蓝&gt;35*75cm",
+   "价格": "2.70",
+   "库存": 4712
+  },
+  {
+   "规格": "PVC单条装 吉祥格小熊粉&gt;35*75cm",
+   "价格": "3.20",
+   "库存": 15396
+  },
+  {
+   "规格": "单条树叶礼盒 吉祥格小熊蓝&gt;35*75cm",
+   "价格": "3.20",
+   "库存": 156587
+  },
+  {
+   "规格": "吉祥格小熊紫&gt;35*75cm",
+   "价格": "2.70",
+   "库存": 36087
+  },
+  {
+   "规格": "单条树叶礼盒 吉祥格小熊瓦红&gt;35*75cm",
+   "价格": "3.20",
+   "库存": 89412
+  },
+  {
+   "规格": "吉祥格小熊粉&gt;35*75cm",
+   "价格": "2.70",
+   "库存": 3537
+  },
+  {
+   "规格": "单条树叶礼盒吉祥格小熊紫&gt;35*75cm",
+   "价格": "3.20",
+   "库存": 45836
+  },
+  {
+   "规格": "PVC单条装吉祥格小熊蓝&gt;35*75cm",
+   "价格": "3.20",
+   "库存": 16878
+  },
+  {
+   "规格": "PVC单条装 吉祥格小熊紫&gt;35*75cm",
+   "价格": "3.20",
+   "库存": 10616
+  },
+  {
+   "规格": "单条灰经典礼盒 吉祥格小熊灰蓝&gt;35*75cm",
+   "价格": "3.20",
+   "库存": 15485
+  },
+  {
+   "规格": "PVC双条装 吉祥格小熊粉+瓦红&gt;35*75cm",
+   "价格": "6.50",
+   "库存": 19710
+  },
+  {
+   "规格": "PVC单条装 吉祥格小熊瓦红&gt;35*75cm",
+   "价格": "3.20",
+   "库存": 93826
+  },
+  {
+   "规格": "PVC单条装满月之喜定制展示&gt;35*75cm",
+   "价格": "3.20",
+   "库存": 0
+  },
+  {
+   "规格": "单条郁金香礼盒 吉祥格小熊粉&gt;35*75cm",
+   "价格": "3.20",
+   "库存": 18089
+  },
+  {
+   "规格": "吉祥格小熊绿&gt;35*75cm",
+   "价格": "2.70",
+   "库存": 36656
+  },
+  {
+   "规格": "单条蝴蝶结礼盒吉祥格小熊瓦红&gt;35*75cm",
+   "价格": "3.20",
+   "库存": 12828
+  },
+  {
+   "规格": "PVC单条装吉祥格小熊灰蓝&gt;35*75cm",
+   "价格": "3.20",
+   "库存": 14363
+  },
+  {
+   "规格": "吉祥格小熊卡其&gt;35*75cm",
+   "价格": "2.70",
+   "库存": 59427
+  }
+ ],
+ "规格图": [
+  [
+   "PVC双条装 吉祥格小熊粉+蓝",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01O4bIMLDkPaI3thOC_!!2844759182-0-cib.jpg"
+  ],
+  [
+   "PVC双条装 吉祥格小熊粉+瓦红",
+   "https://cbu01.alicdn.com/img/ibank/O1CN016X3wkONqamK3thOC_!!2844759182-0-cib.jpg"
+  ],
+  [
+   "PVC双条装 吉祥格小熊蓝+卡其",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01ekbVDsW0SHH3HB5o_!!2844759182-0-cib.jpg"
+  ],
+  [
+   "PVC双条装 吉祥格小熊紫+灰蓝",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01mxWnrg2HhPRYuDqUJ_!!2844759182-0-cib.jpg"
+  ],
+  [
+   "PVC双条装 吉祥格小熊绿+蓝",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01F5rpv0UPZmH3thOC_!!2844759182-0-cib.jpg"
+  ],
+  [
+   "PVC双条装 吉祥格小熊蓝+灰蓝",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01wizJbZ2HhPZgWSVBE_!!2844759182-0-cib.jpg"
+  ],
+  [
+   "PVC单条装吉祥格小熊蓝",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01ZamUtL2HhPZe135lF_!!2844759182-0-cib.jpg"
+  ],
+  [
+   "PVC单条装 吉祥格小熊绿",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01fK2Vak8oynJ3SdL0_!!2844759182-0-cib.jpg"
+  ],
+  [
+   "PVC单条装 吉祥格小熊粉",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01tqglEn2HhPROdkJ73_!!2844759182-0-cib.jpg"
+  ],
+  [
+   "PVC单条装 吉祥格小熊瓦红",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01rSvuaH2HhPRdYPPeB_!!2844759182-0-cib.jpg"
+  ],
+  [
+   "PVC单条装 吉祥格小熊卡其",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01oGZcKl2HhPRZzcE4F_!!2844759182-0-cib.jpg"
+  ],
+  [
+   "PVC单条装 吉祥格小熊紫",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01ekoiyJ2HhPZjVhX4b_!!2844759182-0-cib.jpg"
+  ],
+  [
+   "PVC单条装吉祥格小熊灰蓝",
+   "https://cbu01.alicdn.com/img/ibank/O1CN012YmbXj2HhPZYJgWA0_!!2844759182-0-cib.jpg"
+  ],
+  [
+   "PVC单条装满月之喜定制展示",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01uZUXVh2HhPRdYWSUH_!!2844759182-0-cib.jpg"
+  ],
+  [
+   "PVC单条装喜结良缘定制展示",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01tbw03K2HhPRblc9Fr_!!2844759182-0-cib.jpg"
+  ],
+  [
+   "单条树叶礼盒 吉祥格小熊蓝",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01hKwtca2HhPZgY9xmD_!!2844759182-0-cib.jpg"
+  ],
+  [
+   "单条树叶礼盒吉祥格小熊绿",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01bjowTS62csI1chua_!!2844759182-0-cib.jpg"
+  ],
+  [
+   "单条树叶礼盒 吉祥格小熊粉",
+   "https://cbu01.alicdn.com/img/ibank/O1CN015RLSglu0nVF1chua_!!2844759182-0-cib.jpg"
+  ],
+  [
+   "单条树叶礼盒吉祥格熊卡其",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01ENAhGBPYAZG1chua_!!2844759182-0-cib.jpg"
+  ],
+  [
+   "单条树叶礼盒 吉祥格小熊瓦红",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01WqzKxy2HhPRTW1Cek_!!2844759182-0-cib.jpg"
+  ],
+  [
+   "单条树叶礼盒吉祥格小熊灰蓝",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01cLrqyz2HhPRaTWsl5_!!2844759182-0-cib.jpg"
+  ],
+  [
+   "单条树叶礼盒吉祥格小熊紫",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01vS9Knx2HhPZcvZoI5_!!2844759182-0-cib.jpg"
+  ],
+  [
+   "单条莲花礼盒 吉祥格小熊卡其",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01ntgPKHPr8ZJ1chua_!!2844759182-0-cib.jpg"
+  ],
+  [
+   "单条蝴蝶结礼盒吉祥格小熊瓦红",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01aWg4yg2HhPRTWKTS3_!!2844759182-0-cib.jpg"
+  ],
+  [
+   "单条郁金香礼盒 吉祥格小熊粉",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01uz2DVcjiRFB1chua_!!2844759182-0-cib.jpg"
+  ],
+  [
+   "单条棉字礼盒 吉祥格小熊蓝",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01MWQDeQ2HhPZksgqvk_!!2844759182-0-cib.jpg"
+  ],
+  [
+   "单条绿经典礼盒 吉祥格小熊绿",
+   "https://cbu01.alicdn.com/img/ibank/O1CN015QrkKTmN1wK3thOC_!!2844759182-0-cib.jpg"
+  ],
+  [
+   "单条灰经典礼盒 吉祥格小熊灰蓝",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01Xgxcyo2HhPRVo6WDX_!!2844759182-0-cib.jpg"
+  ],
+  [
+   "吉祥格小熊粉",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01XpTMpxQMAxK1chua_!!2844759182-0-cib.jpg"
+  ],
+  [
+   "吉祥格小熊蓝",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01Q9fMpc2HhPZgZGuiP_!!2844759182-0-cib.jpg"
+  ],
+  [
+   "吉祥格小熊绿",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01rW2uAIC9fcL3thOC_!!2844759182-0-cib.jpg"
+  ],
+  [
+   "吉祥格小熊卡其",
+   "https://cbu01.alicdn.com/img/ibank/O1CN011QPwrVrjTXH1chua_!!2844759182-0-cib.jpg"
+  ],
+  [
+   "吉祥格小熊瓦红",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01JfaoP62HhPRhbuzhr_!!2844759182-0-cib.jpg"
+  ],
+  [
+   "吉祥格小熊紫",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01ZymaNt2HhPZktNssM_!!2844759182-0-cib.jpg"
+  ],
+  [
+   "吉祥格小熊灰蓝",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01CeLr3W2HhPZmWS59z_!!2844759182-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "skuPrice",
+ "价格区间": "2.70-6.50",
+ "阶梯价_登录后": [
+  {
+   "price": "2.70",
+   "beginAmount": 1
+  },
+  {
+   "price": "6.50",
+   "beginAmount": 2
+  }
+ ],
+ "到手价": {
+  "价": "1.7",
+  "说明": "新人价",
+  "件数": 1
+ },
+ "起订量": 2,
+ "单位": "个",
+ "可售总量": 1065084,
+ "已售": 22090,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01Pu4kNtQVL5F3thOC_!!2844759182-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01EDmgRyQypfE1chua_!!2844759182-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01jzl6P0hQLrD1chua_!!2844759182-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01ZXN8lZ3vLvF3thOC_!!2844759182-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01EkvAMU2HhPSEQ4RqX_!!2844759182-0-cib.jpg"
+ ],
+ "商品属性": [
+  "材质:珊瑚绒",
+  "产品类别:面巾",
+  "克重:78g",
+  "制作工艺:包边",
+  "吸水性:0-5s",
+  "品牌:效信",
+  "货号:xxxx",
+  "加工定制:是",
+  "加印LOGO:可以",
+  "纱线工艺:其他",
+  "是否定制:是",
+  "是否支持一件代发:支持",
+  "主成分:聚酯纤维（涤纶）",
+  "主成分含量:80",
+  "适用人群:通用",
+  "颜色:PVC双条装 吉祥格小熊粉+蓝/PVC双条装 吉祥格小熊粉+瓦红/PVC双条装 吉祥格小熊蓝+卡其/PVC双条装 吉祥格小熊紫+灰蓝/PVC双条装 吉祥格小熊绿+蓝/PVC双条装 吉祥格小熊蓝+灰蓝/PVC单条装吉祥格小熊蓝/PVC单条装 吉祥格小熊绿/PVC单条装 吉祥格小熊粉/PVC单条装 吉祥格小熊瓦红/PVC单条装 吉祥格小熊卡其/PVC单条装 吉祥格小熊紫/PVC单条装吉祥格小熊灰蓝/PVC单条装满月之喜定制展示/PVC单条装喜结良缘定制展示/单条树叶礼盒 吉祥格小熊蓝/单条树叶礼盒吉祥格小熊绿/单条树叶礼盒 吉祥格小熊粉/单条树叶礼盒吉祥格熊卡其/单条树叶礼盒 吉祥格小熊瓦红/单条树叶礼盒吉祥格小熊灰蓝/单条树叶礼盒吉祥格小熊紫/单条莲花礼盒 吉祥格小熊卡其/单条蝴蝶结礼盒吉祥格小熊瓦红/单条郁金香礼盒 吉祥格小熊粉/单条棉字礼盒 吉祥格小熊蓝/单条绿经典礼盒 吉祥格小熊绿/单条灰经典礼盒 吉祥格小熊灰蓝/吉祥格小熊粉/吉祥格小熊蓝/吉祥格小熊绿/吉祥格小熊卡其/吉祥格小熊瓦红/吉祥格小熊紫/吉祥格小熊灰蓝",
+  "规格（长*宽cm）:35*75cm",
+  "主要下游平台:其他",
+  "主要销售地区:其他",
+  "是否跨境出口专供货源:是"
+ ],
+ "包装信息": [
+  {
+   "sku2": "35*75cm",
+   "volume": 3500,
+   "sku1": "PVC双条装 吉祥格小熊粉+蓝",
+   "length": 25,
+   "width": 20,
+   "weight": 184,
+   "skuId": 5047405347599,
+   "height": 7
+  },
+  {
+   "sku2": "35*75cm",
+   "volume": 3500,
+   "sku1": "PVC双条装 吉祥格小熊粉+瓦红",
+   "length": 25,
+   "width": 20,
+   "weight": 184,
+   "skuId": 5047405347600,
+   "height": 7
+  },
+  {
+   "sku2": "35*75cm",
+   "volume": 3500,
+   "sku1": "PVC双条装 吉祥格小熊蓝+卡其",
+   "length": 25,
+   "width": 20,
+   "weight": 184,
+   "skuId": 5047405347601,
+   "height": 7
+  },
+  {
+   "sku2": "35*75cm",
+   "volume": 3500,
+   "sku1": "PVC双条装 吉祥格小熊紫+灰蓝",
+   "length": 25,
+   "width": 20,
+   "weight": 184,
+   "skuId": 5047405347602,
+   "height": 7
+  },
+  {
+   "sku2": "35*75cm",
+   "volume": 3500,
+   "sku1": "PVC双条装 吉祥格小熊绿+蓝",
+   "length": 25,
+   "width": 20,
+   "weight": 184,
+   "skuId": 5047405347603,
+   "height": 7
+  },
+  {
+   "sku2": "35*75cm",
+   "volume": 3500,
+   "sku1": "PVC双条装 吉祥格小熊蓝+灰蓝",
+   "length": 25,
+   "width": 20,
+   "weight": 184,
+   "skuId": 5047405347604,
+   "height": 7
+  },
+  {
+   "sku2": "35*75cm",
+   "volume": 1820,
+   "sku1": "PVC单条装吉祥格小熊蓝",
+   "length": 20,
+   "width": 13,
+   "weight": 93,
+   "skuId": 5047405347605,
+   "height": 7
+  },
+  {
+   "sku2": "35*75cm",
+   "volume": 1820,
+   "sku1": "PVC单条装 吉祥格小熊绿",
+   "length": 20,
+   "width": 13,
+   "weight": 93,
+   "skuId": 5047405347606,
+   "height": 7
+  },
+  {
+   "sku2": "35*75cm",
+   "volume": 1820,
+   "sku1": "PVC单条装 吉祥格小熊粉",
+   "length": 20,
+   "width": 13,
+   "weight": 93,
+   "skuId": 5047405347607,
+   "height": 7
+  },
+  {
+   "sku2": "35*75cm",
+   "volume": 1820,
+   "sku1": "PVC单条装 吉祥格小熊瓦红",
+   "length": 20,
+   "width": 13,
+   "weight": 93,
+   "skuId": 5047405347608,
+   "height": 7
+  },
+  {
+   "sku2": "35*75cm",
+   "volume": 1820,
+   "sku1": "PVC单条装 吉祥格小熊卡其",
+   "length": 20,
+   "width": 13,
+   "weight": 93,
+   "skuId": 5047405347609,
+   "height": 7
+  },
+  {
+   "sku2": "35*75cm",
+   "volume": 1820,
+   "sku1": "PVC单条装 吉祥格小熊紫",
+   "length": 20,
+   "width": 13,
+   "weight": 93,
+   "skuId": 5047405347610,
+   "height": 7
+  },
+  {
+   "sku2": "35*75cm",
+   "volume": 1820,
+   "sku1": "PVC单条装吉祥格小熊灰蓝",
+   "length": 20,
+   "width": 13,
+   "weight": 93,
+   "skuId": 5047405347587,
+   "height": 7
+  },
+  {
+   "sku2": "35*75cm",
+   "volume": 1820,
+   "sku1": "PVC单条装满月之喜定制展示",
+   "length": 20,
+   "width": 13,
+   "weight": 93,
+   "skuId": 5045952919650,
+   "height": 7
+  },
+  {
+   "sku2": "35*75cm",
+   "volume": 1820,
+   "sku1": "PVC单条装喜结良缘定制展示",
+   "length": 20,
+   "width": 13,
+   "weight": 93,
+   "skuId": 5045952919651,
+   "height": 7
+  },
+  {
+   "sku2": "35*75cm",
+   "volume": 1170,
+   "sku1": "单条树叶礼盒 吉祥格小熊蓝",
+   "length": 20,
+   "width": 13,
+   "weight": 98,
+   "skuId": 5047405347588,
+   "height": 4.5
+  },
+  {
+   "sku2": "35*75cm",
+   "volume": 1170,
+   "sku1": "单条树叶礼盒吉祥格小熊绿",
+   "length": 20,
+   "width": 13,
+   "weight": 98,
+   "skuId": 5047405347589,
+   "height": 4.5
+  },
+  {
+   "sku2": "35*75cm",
+   "volume": 1170,
+   "sku1": "单条树叶礼盒 吉祥格小熊粉",
+   "length": 20,
+   "width": 13,
+   "weight": 98,
+   "skuId": 5047405347590,
+   "height": 4.5
+  },
+  {
+   "sku2": "35*75cm",
+   "volume": 1170,
+   "sku1": "单条树叶礼盒吉祥格熊卡其",
+   "length": 20,
+   "width": 13,
+   "weight": 98,
+   "skuId": 5047405347591,
+   "height": 4.5
+  },
+  {
+   "sku2": "35*75cm",
+   "volume": 1170,
+   "sku1": "单条树叶礼盒 吉祥格小熊瓦红",
+   "length": 20,
+   "width": 13,
+   "weight": 98,
+   "skuId": 5047405347592,
+   "height": 4.5
+  },
+  {
+   "sku2": "35*75cm",
+   "volume": 1170,
+   "sku1": "单条树叶礼盒吉祥格小熊灰蓝",
+   "length": 20,
+   "width": 13,
+   "weight": 98,
+   "skuId": 5047405347593,
+   "height": 4.5
+  },
+  {
+   "sku2": "35*75cm",
+   "volume": 1170,
+   "sku1": "单条树叶礼盒吉祥格小熊紫",
+   "length": 20,
+   "width": 13,
+   "weight": 98,
+   "skuId": 5047405347594,
+   "height": 4.5
+  },
+  {
+   "sku2": "35*75cm",
+   "volume": 1170,
+   "sku1": "单条莲花礼盒 吉祥格小熊卡其",
+   "length": 20,
+   "width": 13,
+   "weight": 98,
+   "skuId": 5047405347595,
+   "height": 4.5
+  },
+  {
+   "sku2": "35*75cm",
+   "volume": 1170,
+   "sku1": "单条蝴蝶结礼盒吉祥格小熊瓦红",
+   "length": 20,
+   "width": 13,
+   "weight": 98,
+   "skuId": 5047405347596,
+   "height": 4.5
+  },
+  {
+   "sku2": "35*75cm",
+   "volume": 1170,
+   "sku1": "单条郁金香礼盒 吉祥格小熊粉",
+   "length": 20,
+   "width": 13,
+   "weight": 98,
+   "skuId": 5047405347597,
+   "height": 4.5
+  },
+  {
+   "sku2": "35*75cm",
+   "volume": 1170,
+   "sku1": "单条棉字礼盒 吉祥格小熊蓝",
+   "length": 20,
+   "width": 13,
+   "weight": 98,
+   "skuId": 5047405347598,
+   "height": 4.5
+  },
+  {
+   "sku2": "35*75cm",
+   "volume": 1170,
+   "sku1": "单条绿经典礼盒 吉祥格小熊绿",
+   "length": 20,
+   "width": 13,
+   "weight": 98,
+   "skuId": 5047405347611,
+   "height": 4.5
+  },
+  {
+   "sku2": "35*75cm",
+   "volume": 1170,
+   "sku1": "单条灰经典礼盒 吉祥格小熊灰蓝",
+   "length": 20,
+   "width": 13,
+   "weight": 98,
+   "skuId": 5047405347612,
+   "height": 4.5
+  },
+  {
+   "sku2": "35*75cm",
+   "volume": 1170,
+   "sku1": "吉祥格小熊粉",
+   "length": 20,
+   "width": 13,
+   "weight": 98,
+   "skuId": 5047405347613,
+   "height": 4.5
+  },
+  {
+   "sku2": "35*75cm",
+   "volume": 1170,
+   "sku1": "吉祥格小熊蓝",
+   "length": 18,
+   "width": 13,
+   "weight": 78,
+   "skuId": 5047405347614,
+   "height": 5
+  },
+  {
+   "sku2": "35*75cm",
+   "volume": 1170,
+   "sku1": "吉祥格小熊绿",
+   "length": 18,
+   "width": 13,
+   "weight": 78,
+   "skuId": 5047405347615,
+   "height": 5
+  },
+  {
+   "sku2": "35*75cm",
+   "volume": 1170,
+   "sku1": "吉祥格小熊卡其",
+   "length": 18,
+   "width": 13,
+   "weight": 78,
+   "skuId": 5047405347616,
+   "height": 5
+  },
+  {
+   "sku2": "35*75cm",
+   "volume": 1170,
+   "sku1": "吉祥格小熊瓦红",
+   "length": 18,
+   "width": 13,
+   "weight": 78,
+   "skuId": 5047405347617,
+   "height": 5
+  },
+  {
+   "sku2": "35*75cm",
+   "volume": 1170,
+   "sku1": "吉祥格小熊紫",
+   "length": 18,
+   "width": 13,
+   "weight": 78,
+   "skuId": 5047405347618,
+   "height": 5
+  },
+  {
+   "sku2": "35*75cm",
+   "volume": 1170,
+   "sku1": "吉祥格小熊灰蓝",
+   "length": 18,
+   "width": 13,
+   "weight": 78,
+   "skuId": 5047405347619,
+   "height": 5
+  }
+ ],
+ "url": "https://detail.1688.com/offer/679481235503.html",
+ "核页时间": "2026-10-06T15:09:11.821Z"
+}

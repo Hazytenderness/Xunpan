@@ -1,0 +1,116 @@
+{
+ "offerId": "617380738549",
+ "条目": "H0894",
+ "block": false,
+ "卖家公司": "广州精翠工艺品有限公司",
+ "旺旺名": "aster7995",
+ "标题": "日式念珠佛珠 女性用红水晶8mm念珠数珠 日式佛珠8mm黑檀",
+ "状态": "PUBLISHED",
+ "类目": "手链",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "颜色",
+   "值": [
+    "粉红色玛瑙",
+    "黑色玛瑙",
+    "紫色玛瑙"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "粉红色玛瑙",
+   "价格": null,
+   "库存": 2491
+  },
+  {
+   "规格": "黑色玛瑙",
+   "价格": null,
+   "库存": 3445
+  },
+  {
+   "规格": "紫色玛瑙",
+   "价格": null,
+   "库存": 34115
+  }
+ ],
+ "规格图": [],
+ "价格展示": "rangePrice",
+ "价格区间": null,
+ "阶梯价_登录后": [
+  {
+   "price": "27.00",
+   "beginAmount": 10
+  },
+  {
+   "price": "26.00",
+   "beginAmount": 50
+  },
+  {
+   "price": "25.00",
+   "beginAmount": 500
+  }
+ ],
+ "到手价": null,
+ "起订量": 10,
+ "单位": "件",
+ "可售总量": 40051,
+ "已售": 6770,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01Tim3wv1KEVFKJ0IAM_!!1008511132-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01ZXr2Pz1KEVFShQGOM_!!1008511132-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN012xXNRa1KEVFMptfNj_!!1008511132-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01trf2ML1KEVFMnm1DM_!!1008511132-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01vRZnxA1KEVFMpuTM8_!!1008511132-0-cib.jpg"
+ ],
+ "商品属性": [
+  "材质:水晶",
+  "处理工艺:手工",
+  "水晶种类:红水晶",
+  "风格:民族风",
+  "适用人群:女式",
+  "样式:男女通用",
+  "造型:几何型",
+  "货号:GJF02002",
+  "产地:广州",
+  "颜色:粉红色玛瑙/黑色玛瑙/紫色玛瑙",
+  "流行元素:null",
+  "上市年份/季节:2021年夏季",
+  "生产编号:GJF02002",
+  "销售序列号:GJF02002",
+  "风格分类:文艺复古",
+  "流行元素分类:民族/国风"
+ ],
+ "包装信息": [
+  {
+   "volume": 0,
+   "sku1": "粉红色玛瑙",
+   "length": 0,
+   "width": 0,
+   "weight": 15,
+   "skuId": 4355488973169,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "黑色玛瑙",
+   "length": 0,
+   "width": 0,
+   "weight": 15,
+   "skuId": 4355488973170,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "紫色玛瑙",
+   "length": 0,
+   "width": 0,
+   "weight": 15,
+   "skuId": 4355488973171,
+   "height": 0
+  }
+ ],
+ "url": "https://detail.1688.com/offer/617380738549.html",
+ "核页时间": "2026-10-06T18:56:34.968Z"
+}

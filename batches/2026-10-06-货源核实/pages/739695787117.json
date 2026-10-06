@@ -1,0 +1,707 @@
+{
+ "offerId": "739695787117",
+ "条目": "H0568",
+ "block": false,
+ "卖家公司": "中山市珑鳝科技有限公司",
+ "旺旺名": "阿克掌柜",
+ "标题": "超亮LED鱼缸灯防水照明灯支架灯照明水草灯增艳全光谱专用",
+ "状态": "PUBLISHED",
+ "类目": "水族照明设备",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "规格",
+   "值": [
+    "宽压110-240灌胶水草灯18cm",
+    "宽压110-240灌胶水草灯28cm",
+    "宽压110-240灌胶水草灯38cm",
+    "宽压110-240灌胶水草灯48cm",
+    "宽压110-240灌胶水草灯58cm",
+    "升级四排纯白光20cm",
+    "升级四排纯白光30cm",
+    "升级四排纯白光40cm",
+    "升级四排纯白光50cm",
+    "升级四排纯白光60cm",
+    "升级四排三变色20cm",
+    "升级四排三变色30cm",
+    "升级四排三变色40cm",
+    "升级四排三变色50cm",
+    "升级四排三变色60cm",
+    "升级四排白蓝光20cm",
+    "升级四排白蓝光30cm",
+    "升级四排白蓝光40cm",
+    "升级四排白蓝光50cm",
+    "升级四排白蓝光60cm",
+    "四排纯白光20cm可调亮度",
+    "四排纯白光30cm可调亮度",
+    "四排纯白光40cm可调亮度",
+    "四排纯白光50cm可调亮度",
+    "四排纯白光60cm可调亮度",
+    "四排白蓝光20cm可调亮度",
+    "四排白蓝光30cm可调亮度",
+    "四排白蓝光40cm可调亮度",
+    "四排白蓝光50cm可调亮度",
+    "四排白蓝光60cm可调亮度",
+    "四排三变色30cm可调亮度",
+    "四排三变色40cm可调亮度",
+    "四排三变色50cm可调亮度",
+    "四排三变色60cm可调亮度"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "宽压110-240灌胶水草灯28cm",
+   "价格": "18.80",
+   "库存": 437
+  },
+  {
+   "规格": "宽压110-240灌胶水草灯48cm",
+   "价格": "25.80",
+   "库存": 465
+  },
+  {
+   "规格": "升级四排三变色60cm",
+   "价格": "42.80",
+   "库存": 491
+  },
+  {
+   "规格": "升级四排三变色40cm",
+   "价格": "30.80",
+   "库存": 495
+  },
+  {
+   "规格": "升级四排三变色20cm",
+   "价格": "19.80",
+   "库存": 500
+  },
+  {
+   "规格": "升级四排白蓝光20cm",
+   "价格": "18.80",
+   "库存": 500
+  },
+  {
+   "规格": "升级四排白蓝光40cm",
+   "价格": "24.80",
+   "库存": 494
+  },
+  {
+   "规格": "升级四排纯白光40cm",
+   "价格": "24.80",
+   "库存": 486
+  },
+  {
+   "规格": "升级四排白蓝光60cm",
+   "价格": "32.80",
+   "库存": 492
+  },
+  {
+   "规格": "升级四排纯白光60cm",
+   "价格": "32.80",
+   "库存": 490
+  },
+  {
+   "规格": "四排三变色60cm可调亮度",
+   "价格": "66.60",
+   "库存": 494
+  },
+  {
+   "规格": "升级四排纯白光20cm",
+   "价格": "18.80",
+   "库存": 490
+  },
+  {
+   "规格": "四排三变色40cm可调亮度",
+   "价格": "46.60",
+   "库存": 497
+  },
+  {
+   "规格": "宽压110-240灌胶水草灯38cm",
+   "价格": "22.80",
+   "库存": 408
+  },
+  {
+   "规格": "四排三变色30cm可调亮度",
+   "价格": "36.60",
+   "库存": 499
+  },
+  {
+   "规格": "四排三变色50cm可调亮度",
+   "价格": "56.60",
+   "库存": 498
+  },
+  {
+   "规格": "四排纯白光30cm可调亮度",
+   "价格": "32.80",
+   "库存": 500
+  },
+  {
+   "规格": "四排纯白光60cm可调亮度",
+   "价格": "48.80",
+   "库存": 499
+  },
+  {
+   "规格": "四排纯白光40cm可调亮度",
+   "价格": "36.80",
+   "库存": 500
+  },
+  {
+   "规格": "四排纯白光50cm可调亮度",
+   "价格": "42.80",
+   "库存": 500
+  },
+  {
+   "规格": "宽压110-240灌胶水草灯18cm",
+   "价格": "15.80",
+   "库存": 365
+  },
+  {
+   "规格": "宽压110-240灌胶水草灯58cm",
+   "价格": "30.80",
+   "库存": 441
+  },
+  {
+   "规格": "四排白蓝光30cm可调亮度",
+   "价格": "32.80",
+   "库存": 500
+  },
+  {
+   "规格": "升级四排三变色30cm",
+   "价格": "24.80",
+   "库存": 489
+  },
+  {
+   "规格": "四排白蓝光40cm可调亮度",
+   "价格": "36.80",
+   "库存": 499
+  },
+  {
+   "规格": "四排白蓝光20cm可调亮度",
+   "价格": "28.80",
+   "库存": 499
+  },
+  {
+   "规格": "升级四排三变色50cm",
+   "价格": "36.80",
+   "库存": 494
+  },
+  {
+   "规格": "四排纯白光20cm可调亮度",
+   "价格": "28.80",
+   "库存": 499
+  },
+  {
+   "规格": "四排白蓝光50cm可调亮度",
+   "价格": "42.80",
+   "库存": 499
+  },
+  {
+   "规格": "升级四排白蓝光30cm",
+   "价格": "21.80",
+   "库存": 498
+  },
+  {
+   "规格": "四排白蓝光60cm可调亮度",
+   "价格": "48.80",
+   "库存": 499
+  },
+  {
+   "规格": "升级四排纯白光30cm",
+   "价格": "21.80",
+   "库存": 489
+  },
+  {
+   "规格": "升级四排白蓝光50cm",
+   "价格": "28.80",
+   "库存": 496
+  },
+  {
+   "规格": "升级四排纯白光50cm",
+   "价格": "28.80",
+   "库存": 492
+  }
+ ],
+ "规格图": [
+  [
+   "宽压110-240灌胶水草灯18cm",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01PuPehQ1SAqztHiM8V_!!2208747602207-0-cib.jpg"
+  ],
+  [
+   "宽压110-240灌胶水草灯28cm",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01gh6uAL1SAqzuFpnom_!!2208747602207-0-cib.jpg"
+  ],
+  [
+   "宽压110-240灌胶水草灯38cm",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01ZktL1M1SAqziaxmuM_!!2208747602207-0-cib.jpg"
+  ],
+  [
+   "宽压110-240灌胶水草灯48cm",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01EOrmYK1SAqztHgshn_!!2208747602207-0-cib.jpg"
+  ],
+  [
+   "宽压110-240灌胶水草灯58cm",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01A4HgWI1SAqzvkMqUM_!!2208747602207-0-cib.jpg"
+  ],
+  [
+   "升级四排纯白光20cm",
+   "https://cbu01.alicdn.com/img/ibank/O1CN013buvdd1SArDRtgQAc_!!2208747602207-0-cib.jpg"
+  ],
+  [
+   "升级四排纯白光30cm",
+   "https://cbu01.alicdn.com/img/ibank/O1CN013LswSA1SArDSbsOTl_!!2208747602207-0-cib.jpg"
+  ],
+  [
+   "升级四排纯白光40cm",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01ChltPb1SArDRtekDf_!!2208747602207-0-cib.jpg"
+  ],
+  [
+   "升级四排纯白光50cm",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01fWW2IS1SArDSKUM4U_!!2208747602207-0-cib.jpg"
+  ],
+  [
+   "升级四排纯白光60cm",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01A8GeHI1SArDTaGCEU_!!2208747602207-0-cib.jpg"
+  ],
+  [
+   "升级四排三变色20cm",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01aTrzn51SArDT8xYtd_!!2208747602207-0-cib.jpg"
+  ],
+  [
+   "升级四排三变色30cm",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01n1Z0cq1SArDSklcrG_!!2208747602207-0-cib.jpg"
+  ],
+  [
+   "升级四排三变色40cm",
+   "https://cbu01.alicdn.com/img/ibank/O1CN017ixn9D1SArDRUy0Gv_!!2208747602207-0-cib.jpg"
+  ],
+  [
+   "升级四排三变色50cm",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01D5mEWV1SArDSbuk4u_!!2208747602207-0-cib.jpg"
+  ],
+  [
+   "升级四排三变色60cm",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01zo6FIP1SArDSkoRUL_!!2208747602207-0-cib.jpg"
+  ],
+  [
+   "升级四排白蓝光20cm",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01zTJFTj1SArDSlKlCS_!!2208747602207-0-cib.jpg"
+  ],
+  [
+   "升级四排白蓝光30cm",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01RELdPF1SArDT2LFRz_!!2208747602207-0-cib.jpg"
+  ],
+  [
+   "升级四排白蓝光40cm",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01HhnFEu1SArDNBuNkH_!!2208747602207-0-cib.jpg"
+  ],
+  [
+   "升级四排白蓝光50cm",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01RCYDzj1SArDTPq8XN_!!2208747602207-0-cib.jpg"
+  ],
+  [
+   "升级四排白蓝光60cm",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01g2JPE11SArDTbK2DH_!!2208747602207-0-cib.jpg"
+  ],
+  [
+   "四排纯白光20cm可调亮度",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01t5syro1SArDc2MTvh_!!2208747602207-0-cib.jpg"
+  ],
+  [
+   "四排纯白光30cm可调亮度",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01lnlIXt1SArDblCnEb_!!2208747602207-0-cib.jpg"
+  ],
+  [
+   "四排纯白光40cm可调亮度",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01qD7fK21SArDVs9fLS_!!2208747602207-0-cib.jpg"
+  ],
+  [
+   "四排纯白光50cm可调亮度",
+   "https://cbu01.alicdn.com/img/ibank/O1CN0182I6fJ1SArDaZTe4g_!!2208747602207-0-cib.jpg"
+  ],
+  [
+   "四排纯白光60cm可调亮度",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01IcQadd1SArDbezqp3_!!2208747602207-0-cib.jpg"
+  ],
+  [
+   "四排白蓝光20cm可调亮度",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01HZgtcM1SArDb6659Y_!!2208747602207-0-cib.jpg"
+  ],
+  [
+   "四排白蓝光30cm可调亮度",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01pxWclM1SArDb66DV8_!!2208747602207-0-cib.jpg"
+  ],
+  [
+   "四排白蓝光40cm可调亮度",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01muVC6Z1SArDc2MgOP_!!2208747602207-0-cib.jpg"
+  ],
+  [
+   "四排白蓝光50cm可调亮度",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01L62xNv1SArDaY9sCq_!!2208747602207-0-cib.jpg"
+  ],
+  [
+   "四排白蓝光60cm可调亮度",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01JyXLaG1SArDaz7k34_!!2208747602207-0-cib.jpg"
+  ],
+  [
+   "四排三变色30cm可调亮度",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01jC476k1SArDbQQK5o_!!2208747602207-0-cib.jpg"
+  ],
+  [
+   "四排三变色40cm可调亮度",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01MNh6yv1SArDcFEbBY_!!2208747602207-0-cib.jpg"
+  ],
+  [
+   "四排三变色50cm可调亮度",
+   "https://cbu01.alicdn.com/img/ibank/O1CN012QTTpj1SArDblBRhO_!!2208747602207-0-cib.jpg"
+  ],
+  [
+   "四排三变色60cm可调亮度",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01GSzxx71SArDblBBTX_!!2208747602207-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "skuPrice",
+ "价格区间": "15.80-66.60",
+ "阶梯价_登录后": [
+  {
+   "price": "15.80",
+   "beginAmount": 1
+  },
+  {
+   "price": "66.60",
+   "beginAmount": 1
+  }
+ ],
+ "到手价": null,
+ "起订量": 1,
+ "单位": "支",
+ "可售总量": 16494,
+ "已售": 503,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01mgOmTl1SAqztI3Iti_!!2208747602207-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01G5Azx91SAqzoTlKvi_!!2208747602207-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01qaTCbQ1SAqzpWkc5g_!!2208747602207-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01YFqq7F1SAqzhOjCDf_!!2208747602207-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01R7jNGz1SAqzcnBzct_!!2208747602207-0-cib.jpg"
+ ],
+ "商品属性": [
+  "功能:照明",
+  "材质:PVC",
+  "品牌:瑶睿",
+  "产地:CN",
+  "是否进口:否",
+  "货号:AK230901",
+  "重量:0.5KG",
+  "规格:宽压110-240灌胶水草灯18cm/宽压110-240灌胶水草灯28cm/宽压110-240灌胶水草灯38cm/宽压110-240灌胶水草灯48cm/宽压110-240灌胶水草灯58cm/升级四排纯白光20cm/升级四排纯白光30cm/升级四排纯白光40cm/升级四排纯白光50cm/升级四排纯白光60cm/升级四排三变色20cm/升级四排三变色30cm/升级四排三变色40cm/升级四排三变色50cm/升级四排三变色60cm/升级四排白蓝光20cm/升级四排白蓝光30cm/升级四排白蓝光40cm/升级四排白蓝光50cm/升级四排白蓝光60cm/四排纯白光20cm可调亮度/四排纯白光30cm可调亮度/四排纯白光40cm可调亮度/四排纯白光50cm可调亮度/四排纯白光60cm可调亮度/四排白蓝光20cm可调亮度/四排白蓝光30cm可调亮度/四排白蓝光40cm可调亮度/四排白蓝光50cm可调亮度/四排白蓝光60cm可调亮度/四排三变色30cm可调亮度/四排三变色40cm可调亮度/四排三变色50cm可调亮度/四排三变色60cm可调亮度",
+  "是否跨境出口专供货源:否"
+ ],
+ "包装信息": [
+  {
+   "volume": 0,
+   "sku1": "宽压110-240灌胶水草灯18cm",
+   "length": 0,
+   "width": 0,
+   "weight": 200,
+   "skuId": 5375012351272,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "宽压110-240灌胶水草灯28cm",
+   "length": 0,
+   "width": 0,
+   "weight": 250,
+   "skuId": 5375012351271,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "宽压110-240灌胶水草灯38cm",
+   "length": 0,
+   "width": 0,
+   "weight": 300,
+   "skuId": 5375012351274,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "宽压110-240灌胶水草灯48cm",
+   "length": 0,
+   "width": 0,
+   "weight": 350,
+   "skuId": 5375012351270,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "宽压110-240灌胶水草灯58cm",
+   "length": 0,
+   "width": 0,
+   "weight": 500,
+   "skuId": 5375012351273,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "升级四排纯白光20cm",
+   "length": 0,
+   "width": 0,
+   "weight": 250,
+   "skuId": 5963217024023,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "升级四排纯白光30cm",
+   "length": 0,
+   "width": 0,
+   "weight": 300,
+   "skuId": 5963217024014,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "升级四排纯白光40cm",
+   "length": 0,
+   "width": 0,
+   "weight": 350,
+   "skuId": 5963217024015,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "升级四排纯白光50cm",
+   "length": 0,
+   "width": 0,
+   "weight": 400,
+   "skuId": 5963217024016,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "升级四排纯白光60cm",
+   "length": 0,
+   "width": 0,
+   "weight": 500,
+   "skuId": 5963217024017,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "升级四排三变色20cm",
+   "length": 0,
+   "width": 0,
+   "weight": 250,
+   "skuId": 5963217024024,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "升级四排三变色30cm",
+   "length": 0,
+   "width": 0,
+   "weight": 300,
+   "skuId": 5963217024025,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "升级四排三变色40cm",
+   "length": 0,
+   "width": 0,
+   "weight": 350,
+   "skuId": 5963217024026,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "升级四排三变色50cm",
+   "length": 0,
+   "width": 0,
+   "weight": 400,
+   "skuId": 5963217024027,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "升级四排三变色60cm",
+   "length": 0,
+   "width": 0,
+   "weight": 500,
+   "skuId": 5963217024028,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "升级四排白蓝光20cm",
+   "length": 0,
+   "width": 0,
+   "weight": 250,
+   "skuId": 5963217024018,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "升级四排白蓝光30cm",
+   "length": 0,
+   "width": 0,
+   "weight": 300,
+   "skuId": 5963217024019,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "升级四排白蓝光40cm",
+   "length": 0,
+   "width": 0,
+   "weight": 350,
+   "skuId": 5963217024020,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "升级四排白蓝光50cm",
+   "length": 0,
+   "width": 0,
+   "weight": 400,
+   "skuId": 5963217024021,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "升级四排白蓝光60cm",
+   "length": 0,
+   "width": 0,
+   "weight": 500,
+   "skuId": 5963217024022,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "四排纯白光20cm可调亮度",
+   "length": 0,
+   "width": 0,
+   "weight": 250,
+   "skuId": 5963217024038,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "四排纯白光30cm可调亮度",
+   "length": 0,
+   "width": 0,
+   "weight": 300,
+   "skuId": 5963217024039,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "四排纯白光40cm可调亮度",
+   "length": 0,
+   "width": 0,
+   "weight": 350,
+   "skuId": 5963217024040,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "四排纯白光50cm可调亮度",
+   "length": 0,
+   "width": 0,
+   "weight": 400,
+   "skuId": 5963217024041,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "四排纯白光60cm可调亮度",
+   "length": 0,
+   "width": 0,
+   "weight": 500,
+   "skuId": 5963217024042,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "四排白蓝光20cm可调亮度",
+   "length": 0,
+   "width": 0,
+   "weight": 250,
+   "skuId": 5963217024029,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "四排白蓝光30cm可调亮度",
+   "length": 0,
+   "width": 0,
+   "weight": 300,
+   "skuId": 5963217024030,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "四排白蓝光40cm可调亮度",
+   "length": 0,
+   "width": 0,
+   "weight": 350,
+   "skuId": 5963217024031,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "四排白蓝光50cm可调亮度",
+   "length": 0,
+   "width": 0,
+   "weight": 400,
+   "skuId": 5963217024032,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "四排白蓝光60cm可调亮度",
+   "length": 0,
+   "width": 0,
+   "weight": 500,
+   "skuId": 5963217024033,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "四排三变色30cm可调亮度",
+   "length": 0,
+   "width": 0,
+   "weight": 300,
+   "skuId": 5963217024034,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "四排三变色40cm可调亮度",
+   "length": 0,
+   "width": 0,
+   "weight": 400,
+   "skuId": 5963217024035,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "四排三变色50cm可调亮度",
+   "length": 0,
+   "width": 0,
+   "weight": 500,
+   "skuId": 5963217024036,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "四排三变色60cm可调亮度",
+   "length": 0,
+   "width": 0,
+   "weight": 500,
+   "skuId": 5963217024037,
+   "height": 0
+  }
+ ],
+ "url": "https://detail.1688.com/offer/739695787117.html",
+ "核页时间": "2026-10-06T17:26:38.551Z"
+}

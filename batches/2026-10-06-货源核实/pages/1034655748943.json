@@ -1,0 +1,116 @@
+{
+ "offerId": "1034655748943",
+ "条目": "H0105",
+ "block": false,
+ "卖家公司": "南通好事成纺织科技有限公司",
+ "旺旺名": "th555511118888",
+ "标题": "爆款人体工学记忆棉护颈枕冰丝趴趴睡办公室四季午睡枕学生神器",
+ "状态": "PUBLISHED",
+ "类目": "午睡枕",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "颜色",
+   "值": [
+    "深灰色",
+    "粉红色",
+    "浅灰色",
+    "冰丝外套"
+   ]
+  },
+  {
+   "属性": "尺寸",
+   "值": [
+    "60*40*12cm"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "浅灰色&gt;60*40*12cm",
+   "价格": "45.00",
+   "库存": 860
+  },
+  {
+   "规格": "粉红色&gt;60*40*12cm",
+   "价格": "45.00",
+   "库存": 1760
+  },
+  {
+   "规格": "深灰色&gt;60*40*12cm",
+   "价格": "45.00",
+   "库存": 8867
+  },
+  {
+   "规格": "冰丝外套&gt;60*40*12cm",
+   "价格": "13.00",
+   "库存": 515
+  }
+ ],
+ "规格图": [
+  [
+   "深灰色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01MGexMT1k2Ivzd3SsV_!!2578294625-0-cib.jpg"
+  ],
+  [
+   "粉红色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01DXzkLx1k2IvtnpKwi_!!2578294625-0-cib.jpg"
+  ],
+  [
+   "浅灰色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN017gNEmc1k2Ivtp5lsC_!!2578294625-0-cib.jpg"
+  ],
+  [
+   "冰丝外套",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01ZqPQJq1k2IvtfFhVd_!!2578294625-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "skuPrice",
+ "价格区间": "13.00-45.00",
+ "阶梯价_登录后": [
+  {
+   "price": "13.00",
+   "beginAmount": 1
+  },
+  {
+   "price": "45.00",
+   "beginAmount": 1
+  }
+ ],
+ "到手价": null,
+ "起订量": 1,
+ "单位": "个",
+ "可售总量": 12002,
+ "已售": 5746,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01Q2Ruf41k2IvtjeKsr_!!2578294625-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01WPaD501k2Ivu12BwZ_!!2578294625-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01DN6BtE1k2Ivp77tk8_!!2578294625-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01DdmoSU1k2IvteDiyJ_!!2578294625-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN015npVZV1k2IwHwjguH_!!2578294625-0-cib.jpg"
+ ],
+ "商品属性": [
+  "材质:记忆棉",
+  "类别:头枕",
+  "品牌:叠洋",
+  "加工定制:是",
+  "是否支持一件代发:是",
+  "颜色:深灰色/粉红色/浅灰色/冰丝外套",
+  "尺寸:60*40*12cm",
+  "主要销售地区:欧美",
+  "主要下游平台:temu shein 亚马逊 tk",
+  "是否有版权或专利:否",
+  "面料材质:锦纶"
+ ],
+ "包装信息": [
+  {
+   "volume": 28800,
+   "length": 60,
+   "width": 40,
+   "weight": 1000,
+   "height": 12
+  }
+ ],
+ "url": "https://detail.1688.com/offer/1034655748943.html",
+ "核页时间": "2026-10-06T15:08:14.020Z"
+}

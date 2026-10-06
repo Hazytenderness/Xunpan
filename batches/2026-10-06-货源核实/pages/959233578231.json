@@ -1,0 +1,1407 @@
+{
+ "offerId": "959233578231",
+ "条目": "H1000",
+ "block": false,
+ "卖家公司": "广州市美尔惠餐具有限公司",
+ "旺旺名": "浪享作密胺餐具工厂",
+ "标题": "黑色磨砂密胺拉面碗商用米线碗塑料螺蛳粉碗汤碗日式面碗面馆专用",
+ "状态": "PUBLISHED",
+ "类目": "碗",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "颜色",
+   "值": [
+    "花色33465（4.5英寸）",
+    "透明33565（5.5英寸）",
+    "337（7英寸）",
+    "33765（7.5英寸）",
+    "3386（8.5英寸）",
+    "黑色1006L（6英寸）",
+    "1007L（7英寸）",
+    "1008L（8英寸）",
+    "1009L（9英寸）",
+    "LJB007（7英寸）",
+    "LJB008（8英寸）",
+    "LJB009（9英寸）",
+    "185（8.5英寸）",
+    "195（9.5英寸）",
+    "1105（10.5英寸）",
+    "CT-058(内黑外咖色)浅碗",
+    "CT-059(内黑外咖色)浅碗",
+    "CT-060(内黑外咖色)浅碗",
+    "CZB6251浅咖（6.2英寸）",
+    "CZB7252浅咖（7.2英寸）",
+    "CZB8253浅咖（8.2英寸）",
+    "CZB9254浅咖（9.5英寸）",
+    "CZV531浅咖(5.3英寸)",
+    "CZV61浅咖（6英寸）",
+    "CZV72浅咖（7英寸）",
+    "CZV83浅咖（8英寸）",
+    "CZV90浅咖（9英寸）",
+    "CZ425浅（4.5英寸）",
+    "CZB61浅咖（6英寸）",
+    "CZB652浅咖（6.5英寸）",
+    "CZB753浅咖（7.5英寸）",
+    "CZB853浅咖（8.3英寸）",
+    "CZB-43102浅咖（10.2英寸）",
+    "CZB6251深咖（6.2英寸）",
+    "CZB7252深咖（7.2英寸）",
+    "CZB8253深咖（8.2英寸）",
+    "CZB9254深咖（9.5英寸）",
+    "CZV531深咖(5.3英寸)",
+    "CZV61深咖（6英寸）",
+    "CZV72深咖（7英寸）",
+    "CZV83深咖（8英寸）",
+    "CZV90深咖（9英寸）",
+    "CZ425深咖（4.5英寸）",
+    "CZB61深咖（6英寸）",
+    "CZB652深咖（6.5英寸）",
+    "CZB753深咖（7.5英寸）",
+    "CZB853深咖（8.3英寸）",
+    "CZB-43102深咖（10.2英寸）",
+    "7038-5浅咖",
+    "7038-6浅咖",
+    "7038-7浅咖",
+    "7038-8浅咖",
+    "7038-9浅咖",
+    "7038-5墨绿白",
+    "7038-6墨绿白",
+    "7038-7墨绿白",
+    "乳白色7038-8墨绿白",
+    "白色7038-9墨绿白",
+    "浅灰色7038-5橙灰",
+    "深灰色7038-6橙灰",
+    "灰色7038-7橙灰",
+    "银色7038-8橙灰",
+    "米白色7038-9橙灰",
+    "25-089（6英寸）",
+    "25-090（7英寸）",
+    "25-091（8英寸）"
+   ]
+  },
+  {
+   "属性": "规格",
+   "值": [
+    "标准"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "CZB6251深咖（6.2英寸）&gt;标准",
+   "价格": "8.72",
+   "库存": 21051
+  },
+  {
+   "规格": "米白色7038-9橙灰&gt;标准",
+   "价格": "27.91",
+   "库存": 21051
+  },
+  {
+   "规格": "25-091（8英寸）&gt;标准",
+   "价格": "17.11",
+   "库存": 21050
+  },
+  {
+   "规格": "CT-060(内黑外咖色)浅碗&gt;标准",
+   "价格": "14.69",
+   "库存": 21050
+  },
+  {
+   "规格": "CZV83深咖（8英寸）&gt;标准",
+   "价格": "14.32",
+   "库存": 20903
+  },
+  {
+   "规格": "CZV61深咖（6英寸）&gt;标准",
+   "价格": "9.84",
+   "库存": 21048
+  },
+  {
+   "规格": "透明33565（5.5英寸）&gt;标准",
+   "价格": "3.74",
+   "库存": 20901
+  },
+  {
+   "规格": "CZV72深咖（7英寸）&gt;标准",
+   "价格": "11.92",
+   "库存": 20947
+  },
+  {
+   "规格": "1105（10.5英寸）&gt;标准",
+   "价格": "13.20",
+   "库存": 21049
+  },
+  {
+   "规格": "CZB853深咖（8.3英寸）&gt;标准",
+   "价格": "19.84",
+   "库存": 21051
+  },
+  {
+   "规格": "CZB-43102深咖（10.2英寸）&gt;标准",
+   "价格": "24.96",
+   "库存": 21040
+  },
+  {
+   "规格": "1009L（9英寸）&gt;标准",
+   "价格": "7.84",
+   "库存": 21047
+  },
+  {
+   "规格": "白色7038-9墨绿白&gt;标准",
+   "价格": "27.91",
+   "库存": 21051
+  },
+  {
+   "规格": "7038-6浅咖&gt;标准",
+   "价格": "10.94",
+   "库存": 21050
+  },
+  {
+   "规格": "7038-7墨绿白&gt;标准",
+   "价格": "15.31",
+   "库存": 21051
+  },
+  {
+   "规格": "3386（8.5英寸）&gt;标准",
+   "价格": "7.92",
+   "库存": 20999
+  },
+  {
+   "规格": "CZB61深咖（6英寸）&gt;标准",
+   "价格": "9.44",
+   "库存": 21050
+  },
+  {
+   "规格": "33765（7.5英寸）&gt;标准",
+   "价格": "6.56",
+   "库存": 20749
+  },
+  {
+   "规格": "CZB8253浅咖（8.2英寸）&gt;标准",
+   "价格": "13.52",
+   "库存": 20927
+  },
+  {
+   "规格": "CZB652浅咖（6.5英寸）&gt;标准",
+   "价格": "11.01",
+   "库存": 20983
+  },
+  {
+   "规格": "CZB61浅咖（6英寸）&gt;标准",
+   "价格": "9.44",
+   "库存": 21014
+  },
+  {
+   "规格": "CZB753深咖（7.5英寸）&gt;标准",
+   "价格": "15.20",
+   "库存": 21051
+  },
+  {
+   "规格": "CZB8253深咖（8.2英寸）&gt;标准",
+   "价格": "13.52",
+   "库存": 20941
+  },
+  {
+   "规格": "195（9.5英寸）&gt;标准",
+   "价格": "9.52",
+   "库存": 21038
+  },
+  {
+   "规格": "7038-7浅咖&gt;标准",
+   "价格": "15.31",
+   "库存": 21001
+  },
+  {
+   "规格": "CZV531浅咖(5.3英寸)&gt;标准",
+   "价格": "8.00",
+   "库存": 21026
+  },
+  {
+   "规格": "7038-9浅咖&gt;标准",
+   "价格": "27.91",
+   "库存": 21051
+  },
+  {
+   "规格": "LJB009（9英寸）&gt;标准",
+   "价格": "7.84",
+   "库存": 20888
+  },
+  {
+   "规格": "CZB7252深咖（7.2英寸）&gt;标准",
+   "价格": "10.80",
+   "库存": 21049
+  },
+  {
+   "规格": "7038-6墨绿白&gt;标准",
+   "价格": "11.08",
+   "库存": 21051
+  },
+  {
+   "规格": "LJB008（8英寸）&gt;标准",
+   "价格": "5.44",
+   "库存": 20638
+  },
+  {
+   "规格": "CZB7252浅咖（7.2英寸）&gt;标准",
+   "价格": "10.80",
+   "库存": 21023
+  },
+  {
+   "规格": "CZB9254浅咖（9.5英寸）&gt;标准",
+   "价格": "20.48",
+   "库存": 21048
+  },
+  {
+   "规格": "LJB007（7英寸）&gt;标准",
+   "价格": "4.64",
+   "库存": 21033
+  },
+  {
+   "规格": "CZV90深咖（9英寸）&gt;标准",
+   "价格": "20.64",
+   "库存": 21049
+  },
+  {
+   "规格": "CZB6251浅咖（6.2英寸）&gt;标准",
+   "价格": "8.72",
+   "库存": 20914
+  },
+  {
+   "规格": "1008L（8英寸）&gt;标准",
+   "价格": "5.44",
+   "库存": 20928
+  },
+  {
+   "规格": "25-089（6英寸）&gt;标准",
+   "价格": "10.49",
+   "库存": 21049
+  },
+  {
+   "规格": "CZB-43102浅咖（10.2英寸）&gt;标准",
+   "价格": "24.96",
+   "库存": 21051
+  },
+  {
+   "规格": "7038-5墨绿白&gt;标准",
+   "价格": "7.25",
+   "库存": 21045
+  },
+  {
+   "规格": "黑色1006L（6英寸）&gt;标准",
+   "价格": "3.96",
+   "库存": 20979
+  },
+  {
+   "规格": "CZV531深咖(5.3英寸)&gt;标准",
+   "价格": "8.00",
+   "库存": 21051
+  },
+  {
+   "规格": "浅灰色7038-5橙灰&gt;标准",
+   "价格": "7.25",
+   "库存": 21050
+  },
+  {
+   "规格": "337（7英寸）&gt;标准",
+   "价格": "5.20",
+   "库存": 20570
+  },
+  {
+   "规格": "CZB9254深咖（9.5英寸）&gt;标准",
+   "价格": "20.48",
+   "库存": 21051
+  },
+  {
+   "规格": "灰色7038-7橙灰&gt;标准",
+   "价格": "15.31",
+   "库存": 21051
+  },
+  {
+   "规格": "7038-5浅咖&gt;标准",
+   "价格": "7.25",
+   "库存": 21051
+  },
+  {
+   "规格": "CZB753浅咖（7.5英寸）&gt;标准",
+   "价格": "15.20",
+   "库存": 20997
+  },
+  {
+   "规格": "CZV83浅咖（8英寸）&gt;标准",
+   "价格": "14.32",
+   "库存": 21044
+  },
+  {
+   "规格": "CZV72浅咖（7英寸）&gt;标准",
+   "价格": "11.92",
+   "库存": 21049
+  },
+  {
+   "规格": "银色7038-8橙灰&gt;标准",
+   "价格": "22.49",
+   "库存": 21051
+  },
+  {
+   "规格": "CT-059(内黑外咖色)浅碗&gt;标准",
+   "价格": "10.88",
+   "库存": 21036
+  },
+  {
+   "规格": "乳白色7038-8墨绿白&gt;标准",
+   "价格": "22.49",
+   "库存": 21051
+  },
+  {
+   "规格": "CZB652深咖（6.5英寸）&gt;标准",
+   "价格": "10.88",
+   "库存": 20950
+  },
+  {
+   "规格": "CZV90浅咖（9英寸）&gt;标准",
+   "价格": "20.64",
+   "库存": 21050
+  },
+  {
+   "规格": "7038-8浅咖&gt;标准",
+   "价格": "22.49",
+   "库存": 21051
+  },
+  {
+   "规格": "CZB853浅咖（8.3英寸）&gt;标准",
+   "价格": "19.84",
+   "库存": 21049
+  },
+  {
+   "规格": "185（8.5英寸）&gt;标准",
+   "价格": "6.88",
+   "库存": 21049
+  },
+  {
+   "规格": "CT-058(内黑外咖色)浅碗&gt;标准",
+   "价格": "9.11",
+   "库存": 21041
+  },
+  {
+   "规格": "CZ425深咖（4.5英寸）&gt;标准",
+   "价格": "5.44",
+   "库存": 20875
+  },
+  {
+   "规格": "CZ425浅（4.5英寸）&gt;标准",
+   "价格": "5.44",
+   "库存": 21003
+  },
+  {
+   "规格": "25-090（7英寸）&gt;标准",
+   "价格": "12.72",
+   "库存": 21051
+  },
+  {
+   "规格": "深灰色7038-6橙灰&gt;标准",
+   "价格": "11.08",
+   "库存": 20900
+  },
+  {
+   "规格": "CZV61浅咖（6英寸）&gt;标准",
+   "价格": "9.84",
+   "库存": 20982
+  },
+  {
+   "规格": "1007L（7英寸）&gt;标准",
+   "价格": "4.40",
+   "库存": 20789
+  },
+  {
+   "规格": "花色33465（4.5英寸）&gt;标准",
+   "价格": "2.28",
+   "库存": 20495
+  }
+ ],
+ "规格图": [
+  [
+   "花色33465（4.5英寸）",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01qzqCrn1NAn3jbWj6B_!!2220312831530-0-cib.jpg"
+  ],
+  [
+   "透明33565（5.5英寸）",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01pDRk2o1NAn3jbY4Fu_!!2220312831530-0-cib.jpg"
+  ],
+  [
+   "337（7英寸）",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01gUhnuf1NAn3k54UbC_!!2220312831530-0-cib.jpg"
+  ],
+  [
+   "33765（7.5英寸）",
+   "https://cbu01.alicdn.com/img/ibank/O1CN014yeG9k1NAn3k3Gsad_!!2220312831530-0-cib.jpg"
+  ],
+  [
+   "3386（8.5英寸）",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01Zp5BDM1NAn3iIjFqd_!!2220312831530-0-cib.jpg"
+  ],
+  [
+   "黑色1006L（6英寸）",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01fRFmg11NAn3j1aBbd_!!2220312831530-0-cib.jpg"
+  ],
+  [
+   "1007L（7英寸）",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01F2LoNW1NAn3jKU8oR_!!2220312831530-0-cib.jpg"
+  ],
+  [
+   "1008L（8英寸）",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01DvycVq1NAn3jIple2_!!2220312831530-0-cib.jpg"
+  ],
+  [
+   "1009L（9英寸）",
+   "https://cbu01.alicdn.com/img/ibank/O1CN0144xivf1NAn3k38KCH_!!2220312831530-0-cib.jpg"
+  ],
+  [
+   "LJB007（7英寸）",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01o1kD2X1NAn3kiDwl8_!!2220312831530-0-cib.jpg"
+  ],
+  [
+   "LJB008（8英寸）",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01nvU1i71NAn3jKWQAp_!!2220312831530-0-cib.jpg"
+  ],
+  [
+   "LJB009（9英寸）",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01Bmfwoe1NAn3jKUHAX_!!2220312831530-0-cib.jpg"
+  ],
+  [
+   "185（8.5英寸）",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01MfF2hQ1NAn3j1ZW5I_!!2220312831530-0-cib.jpg"
+  ],
+  [
+   "195（9.5英寸）",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01F5LheW1NAn3jIplgg_!!2220312831530-0-cib.jpg"
+  ],
+  [
+   "1105（10.5英寸）",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01ljh8kA1NAn3dW8XYG_!!2220312831530-0-cib.jpg"
+  ],
+  [
+   "CT-058(内黑外咖色)浅碗",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01vUvO8v1NAn3hrVpQX_!!2220312831530-0-cib.jpg"
+  ],
+  [
+   "CT-059(内黑外咖色)浅碗",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01fF71Dh1NAn3iNOg3R_!!2220312831530-0-cib.jpg"
+  ],
+  [
+   "CT-060(内黑外咖色)浅碗",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01EPXtgn1NAn3iIkC8w_!!2220312831530-0-cib.jpg"
+  ],
+  [
+   "CZB6251浅咖（6.2英寸）",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01kwHWRW1NAn3dWB9k2_!!2220312831530-0-cib.jpg"
+  ],
+  [
+   "CZB7252浅咖（7.2英寸）",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01wAGSZT1NAn3jbXbIc_!!2220312831530-0-cib.jpg"
+  ],
+  [
+   "CZB8253浅咖（8.2英寸）",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01PQF1dM1NAn3jbYGrj_!!2220312831530-0-cib.jpg"
+  ],
+  [
+   "CZB9254浅咖（9.5英寸）",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01BwA3RF1NAn3jbXnnz_!!2220312831530-0-cib.jpg"
+  ],
+  [
+   "CZV531浅咖(5.3英寸)",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01hB8Sm31NAn3jKUseT_!!2220312831530-0-cib.jpg"
+  ],
+  [
+   "CZV61浅咖（6英寸）",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01OtQouO1NAn3iIjamM_!!2220312831530-0-cib.jpg"
+  ],
+  [
+   "CZV72浅咖（7英寸）",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01HBRjV01NAn3kTZotO_!!2220312831530-0-cib.jpg"
+  ],
+  [
+   "CZV83浅咖（8英寸）",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01u0lNpZ1NAn3j3syWu_!!2220312831530-0-cib.jpg"
+  ],
+  [
+   "CZV90浅咖（9英寸）",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01ZUYPXt1NAn3k58WBG_!!2220312831530-0-cib.jpg"
+  ],
+  [
+   "CZ425浅（4.5英寸）",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01A2C2DS1NAn3k58v8W_!!2220312831530-0-cib.jpg"
+  ],
+  [
+   "CZB61浅咖（6英寸）",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01edoQIT1NAn3kTbpe8_!!2220312831530-0-cib.jpg"
+  ],
+  [
+   "CZB652浅咖（6.5英寸）",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01qKqhoF1NAn3jKVcSP_!!2220312831530-0-cib.jpg"
+  ],
+  [
+   "CZB753浅咖（7.5英寸）",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01g2Lqc31NAn3jXEX0J_!!2220312831530-0-cib.jpg"
+  ],
+  [
+   "CZB853浅咖（8.3英寸）",
+   "https://cbu01.alicdn.com/img/ibank/O1CN012sGlTc1NAn3hrUgqH_!!2220312831530-0-cib.jpg"
+  ],
+  [
+   "CZB-43102浅咖（10.2英寸）",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01VNIRlC1NAn3iIlTFV_!!2220312831530-0-cib.jpg"
+  ],
+  [
+   "CZB6251深咖（6.2英寸）",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01aNf5fs1NAn3kTcIlL_!!2220312831530-0-cib.jpg"
+  ],
+  [
+   "CZB7252深咖（7.2英寸）",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01AbweWk1NAn3j1cwKI_!!2220312831530-0-cib.jpg"
+  ],
+  [
+   "CZB8253深咖（8.2英寸）",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01Z8mFt81NAn3jIqmDW_!!2220312831530-0-cib.jpg"
+  ],
+  [
+   "CZB9254深咖（9.5英寸）",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01oNdpj81NAn3hrYB3X_!!2220312831530-0-cib.jpg"
+  ],
+  [
+   "CZV531深咖(5.3英寸)",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01MMu0By1NAn3jbZ4rP_!!2220312831530-0-cib.jpg"
+  ],
+  [
+   "CZV61深咖（6英寸）",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01EC8qIx1NAn3jIsNzf_!!2220312831530-0-cib.jpg"
+  ],
+  [
+   "CZV72深咖（7英寸）",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01Ttg8Fk1NAn3k3Hp0G_!!2220312831530-0-cib.jpg"
+  ],
+  [
+   "CZV83深咖（8英寸）",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01MEsBNc1NAn3jXGwkQ_!!2220312831530-0-cib.jpg"
+  ],
+  [
+   "CZV90深咖（9英寸）",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01inH0NA1NAn3iIngWJ_!!2220312831530-0-cib.jpg"
+  ],
+  [
+   "CZ425深咖（4.5英寸）",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01vosfCo1NAn3iNSyGq_!!2220312831530-0-cib.jpg"
+  ],
+  [
+   "CZB61深咖（6英寸）",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01J8LhfS1NAn3k59SVW_!!2220312831530-0-cib.jpg"
+  ],
+  [
+   "CZB652深咖（6.5英寸）",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01E7Yxya1NAn3jIsBYk_!!2220312831530-0-cib.jpg"
+  ],
+  [
+   "CZB753深咖（7.5英寸）",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01Ne8dI91NAn3iNQHyh_!!2220312831530-0-cib.jpg"
+  ],
+  [
+   "CZB853深咖（8.3英寸）",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01nN8Wnh1NAn3k3KN3v_!!2220312831530-0-cib.jpg"
+  ],
+  [
+   "CZB-43102深咖（10.2英寸）",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01jVNI1t1NAn3kTcyNF_!!2220312831530-0-cib.jpg"
+  ],
+  [
+   "7038-5浅咖",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01fWj1iw1NAn3kiH2JG_!!2220312831530-0-cib.jpg"
+  ],
+  [
+   "7038-6浅咖",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01qKMoXp1NAn3j3wOjF_!!2220312831530-0-cib.jpg"
+  ],
+  [
+   "7038-7浅咖",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01IrNJOx1NAn3iNR1lB_!!2220312831530-0-cib.jpg"
+  ],
+  [
+   "7038-8浅咖",
+   "https://cbu01.alicdn.com/img/ibank/O1CN013xHPI31NAn3kTdF2K_!!2220312831530-0-cib.jpg"
+  ],
+  [
+   "7038-9浅咖",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01rfZMGx1NAn3iNTyhZ_!!2220312831530-0-cib.jpg"
+  ],
+  [
+   "7038-5墨绿白",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01PQuRTj1NAn3jwMWR5_!!2220312831530-0-cib.jpg"
+  ],
+  [
+   "7038-6墨绿白",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01FtZP0F1NAn3iNRhMX_!!2220312831530-0-cib.jpg"
+  ],
+  [
+   "7038-7墨绿白",
+   "https://cbu01.alicdn.com/img/ibank/O1CN015PiTd71NAn3jIuX8l_!!2220312831530-0-cib.jpg"
+  ],
+  [
+   "乳白色7038-8墨绿白",
+   "https://cbu01.alicdn.com/img/ibank/O1CN011I9CSd1NAn3jbcpqQ_!!2220312831530-0-cib.jpg"
+  ],
+  [
+   "白色7038-9墨绿白",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01eDF50Q1NAn3hrZWLl_!!2220312831530-0-cib.jpg"
+  ],
+  [
+   "浅灰色7038-5橙灰",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01oLIDxK1NAn3k5BGqf_!!2220312831530-0-cib.jpg"
+  ],
+  [
+   "深灰色7038-6橙灰",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01NjgyP61NAn3j3ykK5_!!2220312831530-0-cib.jpg"
+  ],
+  [
+   "灰色7038-7橙灰",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01D8mPvz1NAn3kiIa1D_!!2220312831530-0-cib.jpg"
+  ],
+  [
+   "银色7038-8橙灰",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01oiBSZr1NAn3k3D5ke_!!2220312831530-0-cib.jpg"
+  ],
+  [
+   "米白色7038-9橙灰",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01Yg8bpd1NAn3iIo1Rq_!!2220312831530-0-cib.jpg"
+  ],
+  [
+   "25-089（6英寸）",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01S7MRIp1NAn3iIn5GG_!!2220312831530-0-cib.jpg"
+  ],
+  [
+   "25-090（7英寸）",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01aTIDt61NAn3k3MBP0_!!2220312831530-0-cib.jpg"
+  ],
+  [
+   "25-091（8英寸）",
+   "https://cbu01.alicdn.com/img/ibank/O1CN019Lj1IO1NAn3jbfvCD_!!2220312831530-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "skuPrice",
+ "价格区间": "2.28-27.91",
+ "阶梯价_登录后": [
+  {
+   "price": "2.28",
+   "beginAmount": 1
+  },
+  {
+   "price": "27.91",
+   "beginAmount": 1
+  }
+ ],
+ "到手价": {
+  "价": "1.28",
+  "说明": "券后价",
+  "件数": 1
+ },
+ "起订量": 1,
+ "单位": "件",
+ "可售总量": 1385252,
+ "已售": 3721,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01q1YP1b1NAn3iIsmsk_!!2220312831530-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01SXLgky1NAn3iIquUR_!!2220312831530-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01DOu9J01NAn3k3J477_!!2220312831530-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01iVaOIN1NAn3k3O47w_!!2220312831530-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN013ht6JR1NAn3jwSdDd_!!2220312831530-0-cib.jpg"
+ ],
+ "商品属性": [
+  "材质:密胺",
+  "产品类别:碗",
+  "表面工艺:釉上彩",
+  "品牌:美尔惠",
+  "产品质量等级:优等品",
+  "是否进口:否",
+  "货号:8253_ioy",
+  "适用人群:成人",
+  "图案:纯色",
+  "风格:现代简约",
+  "形状:圆形",
+  "微波炉:不可用",
+  "加印LOGO:可以",
+  "加工定制:否",
+  "价格段:5-10元",
+  "适用对象:成人",
+  "是否有专利:无",
+  "颜色:花色33465（4.5英寸）/透明33565（5.5英寸）/337（7英寸）/33765（7.5英寸）/3386（8.5英寸）/黑色1006L（6英寸）/1007L（7英寸）/1008L（8英寸）/1009L（9英寸）/LJB007（7英寸）/LJB008（8英寸）/LJB009（9英寸）/185（8.5英寸）/195（9.5英寸）/1105（10.5英寸）/CT-058(内黑外咖色)浅碗/CT-059(内黑外咖色)浅碗/CT-060(内黑外咖色)浅碗/CZB6251浅咖（6.2英寸）/CZB7252浅咖（7.2英寸）/CZB8253浅咖（8.2英寸）/CZB9254浅咖（9.5英寸）/CZV531浅咖(5.3英寸)/CZV61浅咖（6英寸）/CZV72浅咖（7英寸）/CZV83浅咖（8英寸）/CZV90浅咖（9英寸）/CZ425浅（4.5英寸）/CZB61浅咖（6英寸）/CZB652浅咖（6.5英寸）/CZB753浅咖（7.5英寸）/CZB853浅咖（8.3英寸）/CZB-43102浅咖（10.2英寸）/CZB6251深咖（6.2英寸）/CZB7252深咖（7.2英寸）/CZB8253深咖（8.2英寸）/CZB9254深咖（9.5英寸）/CZV531深咖(5.3英寸)/CZV61深咖（6英寸）/CZV72深咖（7英寸）/CZV83深咖（8英寸）/CZV90深咖（9英寸）/CZ425深咖（4.5英寸）/CZB61深咖（6英寸）/CZB652深咖（6.5英寸）/CZB753深咖（7.5英寸）/CZB853深咖（8.3英寸）/CZB-43102深咖（10.2英寸）/7038-5浅咖/7038-6浅咖/7038-7浅咖/7038-8浅咖/7038-9浅咖/7038-5墨绿白/7038-6墨绿白/7038-7墨绿白/乳白色7038-8墨绿白/白色7038-9墨绿白/浅灰色7038-5橙灰/深灰色7038-6橙灰/灰色7038-7橙灰/银色7038-8橙灰/米白色7038-9橙灰/25-089（6英寸）/25-090（7英寸）/25-091（8英寸）",
+  "直径:13-13.9cm",
+  "有可授权的自有品牌:是",
+  "是否跨境出口专供货源:是",
+  "规格:标准",
+  "是否属于礼品:否",
+  "适用节日:其它节日",
+  "风格类型:简约格调"
+ ],
+ "包装信息": [
+  {
+   "sku2": "标准",
+   "volume": 0,
+   "sku1": "花色33465（4.5英寸）",
+   "length": 0,
+   "width": 0,
+   "weight": 30,
+   "skuId": 6056028275619,
+   "height": 0
+  },
+  {
+   "sku2": "标准",
+   "volume": 0,
+   "sku1": "透明33565（5.5英寸）",
+   "length": 0,
+   "width": 0,
+   "weight": 30,
+   "skuId": 6056028275620,
+   "height": 0
+  },
+  {
+   "sku2": "标准",
+   "volume": 0,
+   "sku1": "337（7英寸）",
+   "length": 0,
+   "width": 0,
+   "weight": 30,
+   "skuId": 6056028275621,
+   "height": 0
+  },
+  {
+   "sku2": "标准",
+   "volume": 0,
+   "sku1": "33765（7.5英寸）",
+   "length": 0,
+   "width": 0,
+   "weight": 30,
+   "skuId": 6056028275622,
+   "height": 0
+  },
+  {
+   "sku2": "标准",
+   "volume": 0,
+   "sku1": "3386（8.5英寸）",
+   "length": 0,
+   "width": 0,
+   "weight": 30,
+   "skuId": 6056028275623,
+   "height": 0
+  },
+  {
+   "sku2": "标准",
+   "volume": 0,
+   "sku1": "黑色1006L（6英寸）",
+   "length": 0,
+   "width": 0,
+   "weight": 30,
+   "skuId": 6056028275624,
+   "height": 0
+  },
+  {
+   "sku2": "标准",
+   "volume": 0,
+   "sku1": "1007L（7英寸）",
+   "length": 0,
+   "width": 0,
+   "weight": 30,
+   "skuId": 6056028275625,
+   "height": 0
+  },
+  {
+   "sku2": "标准",
+   "volume": 0,
+   "sku1": "1008L（8英寸）",
+   "length": 0,
+   "width": 0,
+   "weight": 30,
+   "skuId": 6056028275626,
+   "height": 0
+  },
+  {
+   "sku2": "标准",
+   "volume": 0,
+   "sku1": "1009L（9英寸）",
+   "length": 0,
+   "width": 0,
+   "weight": 30,
+   "skuId": 6056028275627,
+   "height": 0
+  },
+  {
+   "sku2": "标准",
+   "volume": 0,
+   "sku1": "LJB007（7英寸）",
+   "length": 0,
+   "width": 0,
+   "weight": 30,
+   "skuId": 6056028275628,
+   "height": 0
+  },
+  {
+   "sku2": "标准",
+   "volume": 0,
+   "sku1": "LJB008（8英寸）",
+   "length": 0,
+   "width": 0,
+   "weight": 30,
+   "skuId": 6056028275629,
+   "height": 0
+  },
+  {
+   "sku2": "标准",
+   "volume": 0,
+   "sku1": "LJB009（9英寸）",
+   "length": 0,
+   "width": 0,
+   "weight": 30,
+   "skuId": 6056028275630,
+   "height": 0
+  },
+  {
+   "sku2": "标准",
+   "volume": 0,
+   "sku1": "185（8.5英寸）",
+   "length": 0,
+   "width": 0,
+   "weight": 30,
+   "skuId": 6056028275631,
+   "height": 0
+  },
+  {
+   "sku2": "标准",
+   "volume": 0,
+   "sku1": "195（9.5英寸）",
+   "length": 0,
+   "width": 0,
+   "weight": 30,
+   "skuId": 6056028275632,
+   "height": 0
+  },
+  {
+   "sku2": "标准",
+   "volume": 0,
+   "sku1": "1105（10.5英寸）",
+   "length": 0,
+   "width": 0,
+   "weight": 30,
+   "skuId": 6056028275633,
+   "height": 0
+  },
+  {
+   "sku2": "标准",
+   "volume": 0,
+   "sku1": "CT-058(内黑外咖色)浅碗",
+   "length": 0,
+   "width": 0,
+   "weight": 30,
+   "skuId": 6056028275634,
+   "height": 0
+  },
+  {
+   "sku2": "标准",
+   "volume": 0,
+   "sku1": "CT-059(内黑外咖色)浅碗",
+   "length": 0,
+   "width": 0,
+   "weight": 30,
+   "skuId": 6056028275635,
+   "height": 0
+  },
+  {
+   "sku2": "标准",
+   "volume": 0,
+   "sku1": "CT-060(内黑外咖色)浅碗",
+   "length": 0,
+   "width": 0,
+   "weight": 30,
+   "skuId": 6056028275636,
+   "height": 0
+  },
+  {
+   "sku2": "标准",
+   "volume": 0,
+   "sku1": "CZB6251浅咖（6.2英寸）",
+   "length": 0,
+   "width": 0,
+   "weight": 30,
+   "skuId": 6056028275637,
+   "height": 0
+  },
+  {
+   "sku2": "标准",
+   "volume": 0,
+   "sku1": "CZB7252浅咖（7.2英寸）",
+   "length": 0,
+   "width": 0,
+   "weight": 30,
+   "skuId": 6056028275638,
+   "height": 0
+  },
+  {
+   "sku2": "标准",
+   "volume": 0,
+   "sku1": "CZB8253浅咖（8.2英寸）",
+   "length": 0,
+   "width": 0,
+   "weight": 30,
+   "skuId": 6056028275639,
+   "height": 0
+  },
+  {
+   "sku2": "标准",
+   "volume": 0,
+   "sku1": "CZB9254浅咖（9.5英寸）",
+   "length": 0,
+   "width": 0,
+   "weight": 30,
+   "skuId": 6056028275640,
+   "height": 0
+  },
+  {
+   "sku2": "标准",
+   "volume": 0,
+   "sku1": "CZV531浅咖(5.3英寸)",
+   "length": 0,
+   "width": 0,
+   "weight": 30,
+   "skuId": 6056028275641,
+   "height": 0
+  },
+  {
+   "sku2": "标准",
+   "volume": 0,
+   "sku1": "CZV61浅咖（6英寸）",
+   "length": 0,
+   "width": 0,
+   "weight": 30,
+   "skuId": 6056028275642,
+   "height": 0
+  },
+  {
+   "sku2": "标准",
+   "volume": 0,
+   "sku1": "CZV72浅咖（7英寸）",
+   "length": 0,
+   "width": 0,
+   "weight": 30,
+   "skuId": 6056028275643,
+   "height": 0
+  },
+  {
+   "sku2": "标准",
+   "volume": 0,
+   "sku1": "CZV83浅咖（8英寸）",
+   "length": 0,
+   "width": 0,
+   "weight": 30,
+   "skuId": 6056028275644,
+   "height": 0
+  },
+  {
+   "sku2": "标准",
+   "volume": 0,
+   "sku1": "CZV90浅咖（9英寸）",
+   "length": 0,
+   "width": 0,
+   "weight": 30,
+   "skuId": 6056028275645,
+   "height": 0
+  },
+  {
+   "sku2": "标准",
+   "volume": 0,
+   "sku1": "CZ425浅（4.5英寸）",
+   "length": 0,
+   "width": 0,
+   "weight": 30,
+   "skuId": 6056028275646,
+   "height": 0
+  },
+  {
+   "sku2": "标准",
+   "volume": 0,
+   "sku1": "CZB61浅咖（6英寸）",
+   "length": 0,
+   "width": 0,
+   "weight": 30,
+   "skuId": 6056028275647,
+   "height": 0
+  },
+  {
+   "sku2": "标准",
+   "volume": 0,
+   "sku1": "CZB652浅咖（6.5英寸）",
+   "length": 0,
+   "width": 0,
+   "weight": 30,
+   "skuId": 6056028275648,
+   "height": 0
+  },
+  {
+   "sku2": "标准",
+   "volume": 0,
+   "sku1": "CZB753浅咖（7.5英寸）",
+   "length": 0,
+   "width": 0,
+   "weight": 30,
+   "skuId": 6056028275649,
+   "height": 0
+  },
+  {
+   "sku2": "标准",
+   "volume": 0,
+   "sku1": "CZB853浅咖（8.3英寸）",
+   "length": 0,
+   "width": 0,
+   "weight": 30,
+   "skuId": 6056028275650,
+   "height": 0
+  },
+  {
+   "sku2": "标准",
+   "volume": 0,
+   "sku1": "CZB-43102浅咖（10.2英寸）",
+   "length": 0,
+   "width": 0,
+   "weight": 30,
+   "skuId": 6056028275651,
+   "height": 0
+  },
+  {
+   "sku2": "标准",
+   "volume": 0,
+   "sku1": "CZB6251深咖（6.2英寸）",
+   "length": 0,
+   "width": 0,
+   "weight": 30,
+   "skuId": 6056028275652,
+   "height": 0
+  },
+  {
+   "sku2": "标准",
+   "volume": 0,
+   "sku1": "CZB7252深咖（7.2英寸）",
+   "length": 0,
+   "width": 0,
+   "weight": 30,
+   "skuId": 6056028275653,
+   "height": 0
+  },
+  {
+   "sku2": "标准",
+   "volume": 0,
+   "sku1": "CZB8253深咖（8.2英寸）",
+   "length": 0,
+   "width": 0,
+   "weight": 30,
+   "skuId": 6056028275654,
+   "height": 0
+  },
+  {
+   "sku2": "标准",
+   "volume": 0,
+   "sku1": "CZB9254深咖（9.5英寸）",
+   "length": 0,
+   "width": 0,
+   "weight": 30,
+   "skuId": 6056028275655,
+   "height": 0
+  },
+  {
+   "sku2": "标准",
+   "volume": 0,
+   "sku1": "CZV531深咖(5.3英寸)",
+   "length": 0,
+   "width": 0,
+   "weight": 30,
+   "skuId": 6056028275656,
+   "height": 0
+  },
+  {
+   "sku2": "标准",
+   "volume": 0,
+   "sku1": "CZV61深咖（6英寸）",
+   "length": 0,
+   "width": 0,
+   "weight": 30,
+   "skuId": 6056028275657,
+   "height": 0
+  },
+  {
+   "sku2": "标准",
+   "volume": 0,
+   "sku1": "CZV72深咖（7英寸）",
+   "length": 0,
+   "width": 0,
+   "weight": 30,
+   "skuId": 6056028275658,
+   "height": 0
+  },
+  {
+   "sku2": "标准",
+   "volume": 0,
+   "sku1": "CZV83深咖（8英寸）",
+   "length": 0,
+   "width": 0,
+   "weight": 30,
+   "skuId": 6056028275659,
+   "height": 0
+  },
+  {
+   "sku2": "标准",
+   "volume": 0,
+   "sku1": "CZV90深咖（9英寸）",
+   "length": 0,
+   "width": 0,
+   "weight": 30,
+   "skuId": 6056028275660,
+   "height": 0
+  },
+  {
+   "sku2": "标准",
+   "volume": 0,
+   "sku1": "CZ425深咖（4.5英寸）",
+   "length": 0,
+   "width": 0,
+   "weight": 30,
+   "skuId": 6056028275661,
+   "height": 0
+  },
+  {
+   "sku2": "标准",
+   "volume": 0,
+   "sku1": "CZB61深咖（6英寸）",
+   "length": 0,
+   "width": 0,
+   "weight": 30,
+   "skuId": 6056028275662,
+   "height": 0
+  },
+  {
+   "sku2": "标准",
+   "volume": 0,
+   "sku1": "CZB652深咖（6.5英寸）",
+   "length": 0,
+   "width": 0,
+   "weight": 30,
+   "skuId": 6056028275663,
+   "height": 0
+  },
+  {
+   "sku2": "标准",
+   "volume": 0,
+   "sku1": "CZB753深咖（7.5英寸）",
+   "length": 0,
+   "width": 0,
+   "weight": 30,
+   "skuId": 6056028275664,
+   "height": 0
+  },
+  {
+   "sku2": "标准",
+   "volume": 0,
+   "sku1": "CZB853深咖（8.3英寸）",
+   "length": 0,
+   "width": 0,
+   "weight": 30,
+   "skuId": 6056028275665,
+   "height": 0
+  },
+  {
+   "sku2": "标准",
+   "volume": 0,
+   "sku1": "CZB-43102深咖（10.2英寸）",
+   "length": 0,
+   "width": 0,
+   "weight": 30,
+   "skuId": 6056028275666,
+   "height": 0
+  },
+  {
+   "sku2": "标准",
+   "volume": 0,
+   "sku1": "7038-5浅咖",
+   "length": 0,
+   "width": 0,
+   "weight": 30,
+   "skuId": 6056028275667,
+   "height": 0
+  },
+  {
+   "sku2": "标准",
+   "volume": 0,
+   "sku1": "7038-6浅咖",
+   "length": 0,
+   "width": 0,
+   "weight": 30,
+   "skuId": 6056028275668,
+   "height": 0
+  },
+  {
+   "sku2": "标准",
+   "volume": 0,
+   "sku1": "7038-7浅咖",
+   "length": 0,
+   "width": 0,
+   "weight": 30,
+   "skuId": 6056028275669,
+   "height": 0
+  },
+  {
+   "sku2": "标准",
+   "volume": 0,
+   "sku1": "7038-8浅咖",
+   "length": 0,
+   "width": 0,
+   "weight": 30,
+   "skuId": 6056028275670,
+   "height": 0
+  },
+  {
+   "sku2": "标准",
+   "volume": 0,
+   "sku1": "7038-9浅咖",
+   "length": 0,
+   "width": 0,
+   "weight": 30,
+   "skuId": 6056028275671,
+   "height": 0
+  },
+  {
+   "sku2": "标准",
+   "volume": 0,
+   "sku1": "7038-5墨绿白",
+   "length": 0,
+   "width": 0,
+   "weight": 30,
+   "skuId": 6056028275672,
+   "height": 0
+  },
+  {
+   "sku2": "标准",
+   "volume": 0,
+   "sku1": "7038-6墨绿白",
+   "length": 0,
+   "width": 0,
+   "weight": 30,
+   "skuId": 6056028275673,
+   "height": 0
+  },
+  {
+   "sku2": "标准",
+   "volume": 0,
+   "sku1": "7038-7墨绿白",
+   "length": 0,
+   "width": 0,
+   "weight": 30,
+   "skuId": 6056028275674,
+   "height": 0
+  },
+  {
+   "sku2": "标准",
+   "volume": 0,
+   "sku1": "乳白色7038-8墨绿白",
+   "length": 0,
+   "width": 0,
+   "weight": 30,
+   "skuId": 6056028275675,
+   "height": 0
+  },
+  {
+   "sku2": "标准",
+   "volume": 0,
+   "sku1": "白色7038-9墨绿白",
+   "length": 0,
+   "width": 0,
+   "weight": 30,
+   "skuId": 6056028275676,
+   "height": 0
+  },
+  {
+   "sku2": "标准",
+   "volume": 0,
+   "sku1": "浅灰色7038-5橙灰",
+   "length": 0,
+   "width": 0,
+   "weight": 30,
+   "skuId": 6056028275677,
+   "height": 0
+  },
+  {
+   "sku2": "标准",
+   "volume": 0,
+   "sku1": "深灰色7038-6橙灰",
+   "length": 0,
+   "width": 0,
+   "weight": 30,
+   "skuId": 6056028275678,
+   "height": 0
+  },
+  {
+   "sku2": "标准",
+   "volume": 0,
+   "sku1": "灰色7038-7橙灰",
+   "length": 0,
+   "width": 0,
+   "weight": 30,
+   "skuId": 6056028275679,
+   "height": 0
+  },
+  {
+   "sku2": "标准",
+   "volume": 0,
+   "sku1": "银色7038-8橙灰",
+   "length": 0,
+   "width": 0,
+   "weight": 30,
+   "skuId": 6056028275680,
+   "height": 0
+  },
+  {
+   "sku2": "标准",
+   "volume": 0,
+   "sku1": "米白色7038-9橙灰",
+   "length": 0,
+   "width": 0,
+   "weight": 30,
+   "skuId": 6056028275681,
+   "height": 0
+  },
+  {
+   "sku2": "标准",
+   "volume": 0,
+   "sku1": "25-089（6英寸）",
+   "length": 0,
+   "width": 0,
+   "weight": 30,
+   "skuId": 6056028275682,
+   "height": 0
+  },
+  {
+   "sku2": "标准",
+   "volume": 0,
+   "sku1": "25-090（7英寸）",
+   "length": 0,
+   "width": 0,
+   "weight": 30,
+   "skuId": 6056028275683,
+   "height": 0
+  },
+  {
+   "sku2": "标准",
+   "volume": 0,
+   "sku1": "25-091（8英寸）",
+   "length": 0,
+   "width": 0,
+   "weight": 30,
+   "skuId": 6056028275684,
+   "height": 0
+  }
+ ],
+ "url": "https://detail.1688.com/offer/959233578231.html",
+ "核页时间": "2026-10-06T19:29:45.504Z"
+}

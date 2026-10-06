@@ -1,0 +1,288 @@
+{
+ "offerId": "1008855896392",
+ "条目": "H1072",
+ "block": false,
+ "卖家公司": "阳江市碧光刀具有限公司",
+ "旺旺名": "碧光刀具有限公司",
+ "标题": "彩木套装刀主厨刀厨师刀菜刀料理万用水果刀大马士革家用厨房跨境",
+ "状态": "PUBLISHED",
+ "类目": "不锈钢厨用刀",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "规格",
+   "值": [
+    "水果刀",
+    "牛扒刀",
+    "万用刀",
+    "小日式刀",
+    "剔骨刀",
+    "大日式刀",
+    "小菜刀",
+    "面包刀",
+    "切肉刀",
+    "切付刀",
+    "厨师刀"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "牛扒刀",
+   "价格": "14.70",
+   "库存": 19396
+  },
+  {
+   "规格": "切付刀",
+   "价格": "21.50",
+   "库存": 19989
+  },
+  {
+   "规格": "剔骨刀",
+   "价格": "20.00",
+   "库存": 19993
+  },
+  {
+   "规格": "小日式刀",
+   "价格": "14.70",
+   "库存": 19957
+  },
+  {
+   "规格": "厨师刀",
+   "价格": "21.00",
+   "库存": 4760
+  },
+  {
+   "规格": "小菜刀",
+   "价格": "21.50",
+   "库存": 19989
+  },
+  {
+   "规格": "水果刀",
+   "价格": "14.70",
+   "库存": 19386
+  },
+  {
+   "规格": "万用刀",
+   "价格": "14.70",
+   "库存": 19690
+  },
+  {
+   "规格": "切肉刀",
+   "价格": "20.50",
+   "库存": 19990
+  },
+  {
+   "规格": "大日式刀",
+   "价格": "21.00",
+   "库存": 19790
+  },
+  {
+   "规格": "面包刀",
+   "价格": "20.50",
+   "库存": 19994
+  }
+ ],
+ "规格图": [
+  [
+   "水果刀",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01jFUxHH2M0t5nqHKvK_!!2219375999766-0-cib.jpg"
+  ],
+  [
+   "牛扒刀",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01psRS5B2M0t5oSla2Z_!!2219375999766-0-cib.jpg"
+  ],
+  [
+   "万用刀",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01lWFIfF2M0t5oXEV0J_!!2219375999766-0-cib.jpg"
+  ],
+  [
+   "小日式刀",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01FjvH3I2M0t5nybzmx_!!2219375999766-0-cib.jpg"
+  ],
+  [
+   "剔骨刀",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01vKbqW22M0t5nVuBTy_!!2219375999766-0-cib.jpg"
+  ],
+  [
+   "大日式刀",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01YJz2Vm2M0t5oM1m0v_!!2219375999766-0-cib.jpg"
+  ],
+  [
+   "小菜刀",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01F3S9eC2M0t5nyfDTO_!!2219375999766-0-cib.jpg"
+  ],
+  [
+   "面包刀",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01uokCir2M0t5nqKcvP_!!2219375999766-0-cib.jpg"
+  ],
+  [
+   "切肉刀",
+   "https://cbu01.alicdn.com/img/ibank/O1CN015NDURo2M0t5onFRJz_!!2219375999766-0-cib.jpg"
+  ],
+  [
+   "切付刀",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01zBshYS2M0t5nasKAH_!!2219375999766-0-cib.jpg"
+  ],
+  [
+   "厨师刀",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01M3pz1j2M0t5nasOMN_!!2219375999766-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "skuPrice",
+ "价格区间": "14.70-21.50",
+ "阶梯价_登录后": [
+  {
+   "price": "14.70",
+   "beginAmount": 1
+  },
+  {
+   "price": "21.50",
+   "beginAmount": 1
+  }
+ ],
+ "到手价": {
+  "价": "12.7",
+  "说明": "新人价",
+  "件数": 1
+ },
+ "起订量": 1,
+ "单位": "把",
+ "可售总量": 202934,
+ "已售": 17064,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN012y9QYg2M0t5nZwOIh_!!2219375999766-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01g5dTTD2M0t5npSih4_!!2219375999766-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN011ZSK3H2M0t5oLfNo3_!!2219375999766-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01d1gDmY2M0t5nD6ijs_!!2219375999766-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01rJi7Ti2M0t5nD6O5m_!!2219375999766-0-cib.jpg"
+ ],
+ "商品属性": [
+  "刀身材质:4Cr系列钢",
+  "材质:4Cr13",
+  "工艺:镜面抛光",
+  "品牌:锻打之家",
+  "产品类别:多用刀",
+  "是否进口:否",
+  "货号:咨询客服",
+  "加印LOGO:可以",
+  "加工定制:是",
+  "产品上市时间:2024",
+  "价格段:10-20元",
+  "是否有专利:否",
+  "规格:水果刀/牛扒刀/万用刀/小日式刀/剔骨刀/大日式刀/小菜刀/面包刀/切肉刀/切付刀/厨师刀",
+  "主要下游平台:ebay/亚马逊/wish/速卖通/独立站/LAZADA/其他",
+  "主要销售地区:非洲/欧洲/南美/东南亚/北美/东北亚/中东/其他",
+  "有可授权的自有品牌:是",
+  "是否跨境出口专供货源:是",
+  "风格:现代简约",
+  "刀尖角度:60°以下",
+  "刃长:10",
+  "刀柄长:12",
+  "全刀长最大值:22",
+  "是否开刃:是"
+ ],
+ "包装信息": [
+  {
+   "volume": 0,
+   "sku1": "水果刀",
+   "length": 0,
+   "width": 0,
+   "weight": 500,
+   "skuId": 6170569287958,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "牛扒刀",
+   "length": 0,
+   "width": 0,
+   "weight": 500,
+   "skuId": 6170569287959,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "万用刀",
+   "length": 0,
+   "width": 0,
+   "weight": 500,
+   "skuId": 6170569287960,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "小日式刀",
+   "length": 0,
+   "width": 0,
+   "weight": 500,
+   "skuId": 6170569287961,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "剔骨刀",
+   "length": 0,
+   "width": 0,
+   "weight": 500,
+   "skuId": 6170569287962,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "大日式刀",
+   "length": 0,
+   "width": 0,
+   "weight": 500,
+   "skuId": 6170569287963,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "小菜刀",
+   "length": 0,
+   "width": 0,
+   "weight": 500,
+   "skuId": 6170569287964,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "面包刀",
+   "length": 0,
+   "width": 0,
+   "weight": 500,
+   "skuId": 6170569287965,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "切肉刀",
+   "length": 0,
+   "width": 0,
+   "weight": 500,
+   "skuId": 6170569287966,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "切付刀",
+   "length": 0,
+   "width": 0,
+   "weight": 500,
+   "skuId": 6170569287967,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "厨师刀",
+   "length": 0,
+   "width": 0,
+   "weight": 500,
+   "skuId": 6170569287968,
+   "height": 0
+  }
+ ],
+ "url": "https://detail.1688.com/offer/1008855896392.html",
+ "核页时间": "2026-10-06T19:49:30.604Z"
+}

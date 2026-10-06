@@ -1,0 +1,201 @@
+{
+ "offerId": "730055229319",
+ "条目": "H0708",
+ "block": false,
+ "卖家公司": "广州市高胜宠物用品有限公司",
+ "旺旺名": "gzgscw1",
+ "标题": "现货笑脸表情发声乳胶玩具耐咬磨牙卡通金毛狗狗专用宠物玩具批发",
+ "状态": "PUBLISHED",
+ "类目": "狗狗玩具",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "颜色",
+   "值": [
+    "绿色",
+    "蓝色",
+    "粉色",
+    "橙色",
+    "黄色",
+    "红色",
+    "套装"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "橙色",
+   "价格": "4.60",
+   "库存": 983282
+  },
+  {
+   "规格": "蓝色",
+   "价格": "4.60",
+   "库存": 983602
+  },
+  {
+   "规格": "套装",
+   "价格": "28.80",
+   "库存": 99999
+  },
+  {
+   "规格": "粉色",
+   "价格": "4.60",
+   "库存": 985998
+  },
+  {
+   "规格": "绿色",
+   "价格": "4.60",
+   "库存": 986189
+  },
+  {
+   "规格": "黄色",
+   "价格": "4.60",
+   "库存": 981031
+  },
+  {
+   "规格": "红色",
+   "价格": "4.60",
+   "库存": 984096
+  }
+ ],
+ "规格图": [
+  [
+   "绿色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01qCXgM628RzmMGedkJ_!!937247930-0-cib.jpg"
+  ],
+  [
+   "蓝色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01JjIHA128RzmPRSo86_!!937247930-0-cib.jpg"
+  ],
+  [
+   "粉色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01idotcM28RzmQAahpH_!!937247930-0-cib.jpg"
+  ],
+  [
+   "橙色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01JypeSW28RzmNO1gCH_!!937247930-0-cib.jpg"
+  ],
+  [
+   "黄色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN014PKZ0r28RzmPE8AZR_!!937247930-0-cib.jpg"
+  ],
+  [
+   "红色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01xe67fZ28RzmOfwsW5_!!937247930-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "skuPrice",
+ "价格区间": "4.60-28.80",
+ "阶梯价_登录后": [
+  {
+   "price": "4.60",
+   "beginAmount": 10
+  },
+  {
+   "price": "28.80",
+   "beginAmount": 10
+  }
+ ],
+ "到手价": {
+  "价": "4.4",
+  "说明": "新人价",
+  "件数": 10
+ },
+ "起订量": 10,
+ "单位": "个",
+ "可售总量": 6004197,
+ "已售": 8888,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01lP3Z7w28RzwZNPJyb_!!937247930-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01CmM5jZ28RzmKurTW5_!!937247930-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01F7JoIe28RzmOKUzBd_!!937247930-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01KTBfay28RzmMxYosw_!!937247930-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01RoBLMD28RzlkBFtKi_!!937247930-0-cib.jpg"
+ ],
+ "商品属性": [
+  "材质:乳胶",
+  "产品类别:发声玩具",
+  "品牌:高胜",
+  "是否进口:否",
+  "重量:20",
+  "货号:U10-220",
+  "产地:广东",
+  "箱装数量:600",
+  "是否专利货源:否",
+  "颜色:绿色/蓝色/粉色/橙色/黄色/红色/套装",
+  "是否跨境出口专供货源:否",
+  "适用送礼场合:其他",
+  "适用送礼关系:其他",
+  "适用节日:其他",
+  "是否属于礼品:是，个人礼品",
+  "是否IP授权:否"
+ ],
+ "包装信息": [
+  {
+   "volume": 89.578,
+   "sku1": "绿色",
+   "length": 5.25,
+   "width": 5.25,
+   "weight": 20,
+   "skuId": 5061949329455,
+   "height": 3.25
+  },
+  {
+   "volume": 89.578,
+   "sku1": "蓝色",
+   "length": 5.25,
+   "width": 5.25,
+   "weight": 20,
+   "skuId": 5061949329456,
+   "height": 3.25
+  },
+  {
+   "volume": 89.578,
+   "sku1": "粉色",
+   "length": 5.25,
+   "width": 5.25,
+   "weight": 20,
+   "skuId": 5061949329457,
+   "height": 3.25
+  },
+  {
+   "volume": 89.578,
+   "sku1": "橙色",
+   "length": 5.25,
+   "width": 5.25,
+   "weight": 20,
+   "skuId": 5061949329458,
+   "height": 3.25
+  },
+  {
+   "volume": 89.578,
+   "sku1": "黄色",
+   "length": 5.25,
+   "width": 5.25,
+   "weight": 20,
+   "skuId": 5061949329459,
+   "height": 3.25
+  },
+  {
+   "volume": 89.578,
+   "sku1": "红色",
+   "length": 5.25,
+   "width": 5.25,
+   "weight": 20,
+   "skuId": 5061949329460,
+   "height": 3.25
+  },
+  {
+   "volume": 93.844,
+   "sku1": "套装",
+   "length": 5.5,
+   "width": 5.25,
+   "weight": 20,
+   "skuId": 6135072857935,
+   "height": 3.25
+  }
+ ],
+ "url": "https://detail.1688.com/offer/730055229319.html",
+ "核页时间": "2026-10-06T18:05:05.073Z"
+}

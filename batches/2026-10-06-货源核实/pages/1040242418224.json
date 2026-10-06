@@ -1,0 +1,401 @@
+{
+ "offerId": "1040242418224",
+ "条目": "H0295",
+ "block": false,
+ "卖家公司": "义乌市湫晰电子商务商行（个体工商户）",
+ "旺旺名": "义乌市湫晰电子商务商行",
+ "标题": "钩织成品解压动物杯垫冰河世纪松鼠青蛙乌龟搞怪隔热垫钩针杯垫",
+ "状态": "PUBLISHED",
+ "类目": "餐垫、杯垫",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "颜色",
+   "值": [
+    "老鼠杯垫",
+    "青蛙",
+    "松鼠-大号（12cm直径）",
+    "松鼠常规款（10cm直径）",
+    "海龟杯垫",
+    "蜥蜴",
+    "青蛙杯垫-大号",
+    "鸭子杯垫",
+    "大鹅杯垫",
+    "蝴蝶结乌龟",
+    "粉红豹",
+    "咕咕鸡",
+    "躺平鸭",
+    "毛驴",
+    "蜥蜴绿色",
+    "蜥蜴卡其色",
+    "蜥蜴黄色"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "青蛙杯垫-大号",
+   "价格": "10.00",
+   "库存": 8156
+  },
+  {
+   "规格": "海龟杯垫",
+   "价格": "8.20",
+   "库存": 8813
+  },
+  {
+   "规格": "蜥蜴黄色",
+   "价格": "12.00",
+   "库存": 4975
+  },
+  {
+   "规格": "粉红豹",
+   "价格": "11.80",
+   "库存": 8576
+  },
+  {
+   "规格": "蝴蝶结乌龟",
+   "价格": "9.68",
+   "库存": 7531
+  },
+  {
+   "规格": "蜥蜴卡其色",
+   "价格": "12.00",
+   "库存": 4672
+  },
+  {
+   "规格": "老鼠杯垫",
+   "价格": "11.38",
+   "库存": 6236
+  },
+  {
+   "规格": "松鼠常规款（10cm直径）",
+   "价格": "8.68",
+   "库存": 8229
+  },
+  {
+   "规格": "咕咕鸡",
+   "价格": "11.80",
+   "库存": 8237
+  },
+  {
+   "规格": "松鼠-大号（12cm直径）",
+   "价格": "10.80",
+   "库存": 5063
+  },
+  {
+   "规格": "毛驴",
+   "价格": "14.85",
+   "库存": 926
+  },
+  {
+   "规格": "青蛙",
+   "价格": "8.48",
+   "库存": 5146
+  },
+  {
+   "规格": "鸭子杯垫",
+   "价格": "8.98",
+   "库存": 4511
+  },
+  {
+   "规格": "躺平鸭",
+   "价格": "9.20",
+   "库存": 8838
+  },
+  {
+   "规格": "蜥蜴绿色",
+   "价格": "12.00",
+   "库存": 979
+  },
+  {
+   "规格": "蜥蜴",
+   "价格": "10.88",
+   "库存": 3301
+  },
+  {
+   "规格": "大鹅杯垫",
+   "价格": "10.85",
+   "库存": 5251
+  }
+ ],
+ "规格图": [
+  [
+   "老鼠杯垫",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01fHenAg1lLN2fV2PhO_!!2220807464802-0-cib.jpg"
+  ],
+  [
+   "青蛙",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01oCxVwv1lLN31UUlmn_!!2220807464802-0-cib.jpg"
+  ],
+  [
+   "松鼠-大号（12cm直径）",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01Z1Srph1lLN2fPeLRh_!!2220807464802-0-cib.jpg"
+  ],
+  [
+   "松鼠常规款（10cm直径）",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01mpGGJc1lLN3KX9KuK_!!2220807464802-0-cib.jpg"
+  ],
+  [
+   "海龟杯垫",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01JYgyOxS9ICF2RBfm_!!2220807464802-0-cib.jpg"
+  ],
+  [
+   "蜥蜴",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01bRZBMi1lLN2ZjKxjE_!!2220807464802-0-cib.jpg"
+  ],
+  [
+   "青蛙杯垫-大号",
+   "https://cbu01.alicdn.com/img/ibank/O1CN010Iz4Ns1lLN31NzvCs_!!2220807464802-0-cib.jpg"
+  ],
+  [
+   "鸭子杯垫",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01sUR6TB1lLN2o4Ry96_!!2220807464802-0-cib.jpg"
+  ],
+  [
+   "大鹅杯垫",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01ERmU4T1lLN31UUyH2_!!2220807464802-0-cib.jpg"
+  ],
+  [
+   "蝴蝶结乌龟",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01QukFAYWDs1J2R3rs_!!2220807464802-0-cib.jpg"
+  ],
+  [
+   "粉红豹",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01q67gKb1lLN3l3xYwv_!!2220807464802-0-cib.jpg"
+  ],
+  [
+   "咕咕鸡",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01RiHaE71lLN3q2Y4cP_!!2220807464802-0-cib.jpg"
+  ],
+  [
+   "躺平鸭",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01TWGOX01lLN3lIbMrC_!!2220807464802-0-cib.jpg"
+  ],
+  [
+   "毛驴",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01CjvHll1lLN3kvPR1t_!!2220807464802-0-cib.jpg"
+  ],
+  [
+   "蜥蜴绿色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01Ets9ew1lLN3q5RPUY_!!2220807464802-0-cib.jpg"
+  ],
+  [
+   "蜥蜴卡其色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01j9M1N81lLN3lqxFMS_!!2220807464802-0-cib.jpg"
+  ],
+  [
+   "蜥蜴黄色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01RVfAkiW3uoK2R3rs_!!2220807464802-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "skuPrice",
+ "价格区间": "8.20-14.85",
+ "阶梯价_登录后": [
+  {
+   "price": "8.20",
+   "beginAmount": 2
+  },
+  {
+   "price": "14.85",
+   "beginAmount": 2
+  }
+ ],
+ "到手价": {
+  "价": "7.7",
+  "说明": "新人价",
+  "件数": 2
+ },
+ "起订量": 2,
+ "单位": "件",
+ "可售总量": 99440,
+ "已售": 24574,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01tUowPx1lLN2ZrAgd9_!!2220807464802-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01oJjVZb1lLN2ZCmzyc_!!2220807464802-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01sUR6TB1lLN2o4Ry96_!!2220807464802-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01QukFAYWDs1J2R3rs_!!2220807464802-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN018hnDQ41lLN2ZXjKGE_!!2220807464802-0-cib.jpg"
+ ],
+ "商品属性": [
+  "材质:毛线",
+  "品牌:其他",
+  "形状:不规则形",
+  "产品质量等级:优等品",
+  "风格:创意风",
+  "是否进口:否",
+  "货号:bd-2",
+  "图案:卡通",
+  "产品上市时间:2026年春",
+  "价格段:10-20元",
+  "产地:潮州",
+  "是否有专利:无",
+  "颜色:老鼠杯垫/青蛙/松鼠-大号（12cm直径）/松鼠常规款（10cm直径）/海龟杯垫/蜥蜴/青蛙杯垫-大号/鸭子杯垫/大鹅杯垫/蝴蝶结乌龟/粉红豹/咕咕鸡/躺平鸭/毛驴/蜥蜴绿色/蜥蜴卡其色/蜥蜴黄色",
+  "主要下游平台:ebay/亚马逊/wish/速卖通/独立站/LAZADA",
+  "主要销售地区:欧洲/南美/东南亚/北美/东北亚",
+  "有可授权的自有品牌:否",
+  "是否跨境出口专供货源:是",
+  "是否插电:否",
+  "是否可降解:是",
+  "厚度:0.5cm",
+  "适用场景:日常",
+  "适用器物类型:杯子"
+ ],
+ "包装信息": [
+  {
+   "volume": 546,
+   "sku1": "老鼠杯垫",
+   "length": 14,
+   "width": 13,
+   "weight": 32,
+   "skuId": 6246763886976,
+   "height": 3
+  },
+  {
+   "volume": 240,
+   "sku1": "青蛙",
+   "length": 12,
+   "width": 10,
+   "weight": 20,
+   "skuId": 6060218176932,
+   "height": 2
+  },
+  {
+   "volume": 308,
+   "sku1": "松鼠-大号（12cm直径）",
+   "length": 14,
+   "width": 11,
+   "weight": 28,
+   "skuId": 6135503369576,
+   "height": 2
+  },
+  {
+   "volume": 240,
+   "sku1": "松鼠常规款（10cm直径）",
+   "length": 12,
+   "width": 10,
+   "weight": 23,
+   "skuId": 6100643548870,
+   "height": 2
+  },
+  {
+   "volume": 200,
+   "sku1": "海龟杯垫",
+   "length": 10,
+   "width": 10,
+   "weight": 18,
+   "skuId": 6246763886973,
+   "height": 2
+  },
+  {
+   "volume": 240,
+   "sku1": "蜥蜴",
+   "length": 12,
+   "width": 10,
+   "weight": 20,
+   "skuId": 6060218176935,
+   "height": 2
+  },
+  {
+   "volume": 336,
+   "sku1": "青蛙杯垫-大号",
+   "length": 14,
+   "width": 12,
+   "weight": 25,
+   "skuId": 6246763886975,
+   "height": 2
+  },
+  {
+   "volume": 220,
+   "sku1": "鸭子杯垫",
+   "length": 11,
+   "width": 10,
+   "weight": 20,
+   "skuId": 6246763886972,
+   "height": 2
+  },
+  {
+   "volume": 240,
+   "sku1": "大鹅杯垫",
+   "length": 12,
+   "width": 10,
+   "weight": 20,
+   "skuId": 6246763886974,
+   "height": 2
+  },
+  {
+   "volume": 200,
+   "sku1": "蝴蝶结乌龟",
+   "length": 10,
+   "width": 10,
+   "weight": 20,
+   "skuId": 6100643548869,
+   "height": 2
+  },
+  {
+   "volume": 200,
+   "sku1": "粉红豹",
+   "length": 10,
+   "width": 10,
+   "weight": 20,
+   "skuId": 6114156976599,
+   "height": 2
+  },
+  {
+   "volume": 200,
+   "sku1": "咕咕鸡",
+   "length": 10,
+   "width": 10,
+   "weight": 20,
+   "skuId": 6114156976598,
+   "height": 2
+  },
+  {
+   "volume": 200,
+   "sku1": "躺平鸭",
+   "length": 10,
+   "width": 10,
+   "weight": 19,
+   "skuId": 6114156976597,
+   "height": 2
+  },
+  {
+   "volume": 240,
+   "sku1": "毛驴",
+   "length": 12,
+   "width": 10,
+   "weight": 28,
+   "skuId": 6114156976600,
+   "height": 2
+  },
+  {
+   "volume": 240,
+   "sku1": "蜥蜴绿色",
+   "length": 12,
+   "width": 10,
+   "weight": 20,
+   "skuId": 6280980614217,
+   "height": 2
+  },
+  {
+   "volume": 240,
+   "sku1": "蜥蜴卡其色",
+   "length": 12,
+   "width": 10,
+   "weight": 20,
+   "skuId": 6280980614216,
+   "height": 2
+  },
+  {
+   "volume": 240,
+   "sku1": "蜥蜴黄色",
+   "length": 12,
+   "width": 10,
+   "weight": 20,
+   "skuId": 6135503369577,
+   "height": 2
+  }
+ ],
+ "url": "https://detail.1688.com/offer/1040242418224.html",
+ "核页时间": "2026-10-06T16:10:15.774Z"
+}

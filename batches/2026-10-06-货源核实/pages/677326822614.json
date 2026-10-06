@@ -1,0 +1,853 @@
+{
+ "offerId": "677326822614",
+ "条目": "H0207",
+ "block": false,
+ "卖家公司": "深圳市睿泽轩国际商贸有限公司",
+ "旺旺名": "睿泽国际商贸",
+ "标题": "日本进口陶瓷饭碗面碗美浓烧日式和风大碗蔬菜碗可爱小碗红萝卜碗",
+ "状态": "PUBLISHED",
+ "类目": "碗",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "颜色",
+   "值": [
+    "紫茄子小饭碗",
+    "白萝卜小饭碗",
+    "黄色彩椒小饭碗",
+    "绿色南瓜小饭碗",
+    "鯛鱼小饭碗",
+    "红萝卜大面碗",
+    "紫茄子大面碗",
+    "白萝卜大面碗",
+    "黄色彩椒大面碗",
+    "绿色南瓜大面碗",
+    "鯛鱼大面碗",
+    "红萝卜小深盘",
+    "紫茄子小深盘",
+    "白萝卜小深盘",
+    "黄色彩椒小深盘",
+    "绿色南瓜小深盘",
+    "鯛鱼小深盘",
+    "红萝卜中深盘",
+    "紫茄子中深盘",
+    "白萝卜中深盘",
+    "黄色彩椒中深盘",
+    "绿色南瓜中深盘",
+    "鯛鱼中深盘",
+    "红萝卜大深盘",
+    "紫茄子大深盘",
+    "白萝卜大深盘",
+    "黄色彩椒大深盘",
+    "绿色南瓜大深盘",
+    "鯛鱼大深盘",
+    "红萝卜小面碗",
+    "紫茄子小面碗",
+    "白萝卜小面碗",
+    "黄色彩椒小面碗",
+    "绿色南瓜小面碗",
+    "鯛鱼小面碗",
+    "红萝卜味碟",
+    "紫茄子味碟",
+    "白萝卜味碟",
+    "黄色彩椒味碟",
+    "绿色南瓜味碟",
+    "红萝卜小饭碗"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "黄色彩椒大面碗",
+   "价格": "24.80",
+   "库存": 48
+  },
+  {
+   "规格": "红萝卜味碟",
+   "价格": "11.80",
+   "库存": 19
+  },
+  {
+   "规格": "紫茄子味碟",
+   "价格": "11.80",
+   "库存": 11
+  },
+  {
+   "规格": "紫茄子中深盘",
+   "价格": "19.80",
+   "库存": 33
+  },
+  {
+   "规格": "白萝卜小面碗",
+   "价格": "16.80",
+   "库存": 16
+  },
+  {
+   "规格": "黄色彩椒中深盘",
+   "价格": "19.80",
+   "库存": 38
+  },
+  {
+   "规格": "红萝卜大深盘",
+   "价格": "21.80",
+   "库存": 6
+  },
+  {
+   "规格": "鯛鱼大深盘",
+   "价格": "21.80",
+   "库存": 38
+  },
+  {
+   "规格": "紫茄子大面碗",
+   "价格": "24.80",
+   "库存": 25
+  },
+  {
+   "规格": "红萝卜中深盘",
+   "价格": "19.80",
+   "库存": 31
+  },
+  {
+   "规格": "鯛鱼中深盘",
+   "价格": "19.80",
+   "库存": 59
+  },
+  {
+   "规格": "白萝卜大深盘",
+   "价格": "21.80",
+   "库存": 15
+  },
+  {
+   "规格": "白萝卜小深盘",
+   "价格": "12.98",
+   "库存": 16
+  },
+  {
+   "规格": "黄色彩椒味碟",
+   "价格": "11.80",
+   "库存": 34
+  },
+  {
+   "规格": "白萝卜小饭碗",
+   "价格": "12.98",
+   "库存": 75
+  },
+  {
+   "规格": "黄色彩椒小饭碗",
+   "价格": "12.98",
+   "库存": 62
+  },
+  {
+   "规格": "紫茄子大深盘",
+   "价格": "21.80",
+   "库存": 42
+  },
+  {
+   "规格": "绿色南瓜大面碗",
+   "价格": "24.80",
+   "库存": 53
+  },
+  {
+   "规格": "紫茄子小饭碗",
+   "价格": "12.98",
+   "库存": 75
+  },
+  {
+   "规格": "黄色彩椒大深盘",
+   "价格": "21.80",
+   "库存": 71
+  },
+  {
+   "规格": "绿色南瓜大深盘",
+   "价格": "21.80",
+   "库存": 31
+  },
+  {
+   "规格": "绿色南瓜小饭碗",
+   "价格": "12.98",
+   "库存": 86
+  },
+  {
+   "规格": "绿色南瓜味碟",
+   "价格": "11.80",
+   "库存": 17
+  },
+  {
+   "规格": "鯛鱼小饭碗",
+   "价格": "12.98",
+   "库存": 45
+  },
+  {
+   "规格": "白萝卜味碟",
+   "价格": "11.80",
+   "库存": 25
+  },
+  {
+   "规格": "白萝卜大面碗",
+   "价格": "24.80",
+   "库存": 46
+  },
+  {
+   "规格": "红萝卜小深盘",
+   "价格": "12.98",
+   "库存": 34
+  },
+  {
+   "规格": "鯛鱼小深盘",
+   "价格": "12.98",
+   "库存": 66
+  },
+  {
+   "规格": "绿色南瓜小深盘",
+   "价格": "12.98",
+   "库存": 15
+  },
+  {
+   "规格": "白萝卜中深盘",
+   "价格": "19.80",
+   "库存": 46
+  },
+  {
+   "规格": "红萝卜小饭碗",
+   "价格": "12.98",
+   "库存": 0
+  },
+  {
+   "规格": "绿色南瓜小面碗",
+   "价格": "16.80",
+   "库存": 20
+  },
+  {
+   "规格": "紫茄子小深盘",
+   "价格": "12.98",
+   "库存": 29
+  },
+  {
+   "规格": "黄色彩椒小深盘",
+   "价格": "12.98",
+   "库存": 55
+  },
+  {
+   "规格": "红萝卜小面碗",
+   "价格": "16.80",
+   "库存": 17
+  },
+  {
+   "规格": "鯛鱼小面碗",
+   "价格": "16.80",
+   "库存": 19
+  },
+  {
+   "规格": "红萝卜大面碗",
+   "价格": "24.80",
+   "库存": 33
+  },
+  {
+   "规格": "鯛鱼大面碗",
+   "价格": "24.80",
+   "库存": 52
+  },
+  {
+   "规格": "黄色彩椒小面碗",
+   "价格": "16.80",
+   "库存": 28
+  },
+  {
+   "规格": "紫茄子小面碗",
+   "价格": "16.80",
+   "库存": 10
+  },
+  {
+   "规格": "绿色南瓜中深盘",
+   "价格": "19.80",
+   "库存": 52
+  }
+ ],
+ "规格图": [
+  [
+   "紫茄子小饭碗",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01xlvpa51wZWgzvQHHW_!!2213201856322-0-cib.jpg"
+  ],
+  [
+   "白萝卜小饭碗",
+   "https://cbu01.alicdn.com/img/ibank/O1CN0134fOtk1wZWgsGqBh2_!!2213201856322-0-cib.jpg"
+  ],
+  [
+   "黄色彩椒小饭碗",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01vb3nmE1wZWgnFfEAX_!!2213201856322-0-cib.jpg"
+  ],
+  [
+   "绿色南瓜小饭碗",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01yAomyO1wZWgz4YdgE_!!2213201856322-0-cib.jpg"
+  ],
+  [
+   "鯛鱼小饭碗",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01X1CELH1wZWgu2zRPd_!!2213201856322-0-cib.jpg"
+  ],
+  [
+   "红萝卜大面碗",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01eP8IXp1wZWgsGwV5h_!!2213201856322-0-cib.jpg"
+  ],
+  [
+   "紫茄子大面碗",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01N6PxhG1wZWgz4gMLI_!!2213201856322-0-cib.jpg"
+  ],
+  [
+   "白萝卜大面碗",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01Q1h9My1wZWgv1Q0xr_!!2213201856322-0-cib.jpg"
+  ],
+  [
+   "黄色彩椒大面碗",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01tkYjwo1wZWglgtQUD_!!2213201856322-0-cib.jpg"
+  ],
+  [
+   "绿色南瓜大面碗",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01GokU951wZWgu34LP9_!!2213201856322-0-cib.jpg"
+  ],
+  [
+   "鯛鱼大面碗",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01VR292p1wZWgz4iVRF_!!2213201856322-0-cib.jpg"
+  ],
+  [
+   "红萝卜小深盘",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01QNIisQ1wZWgvpuUhL_!!2213201856322-0-cib.jpg"
+  ],
+  [
+   "紫茄子小深盘",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01pkw6Zc1wZWgsjhrOI_!!2213201856322-0-cib.jpg"
+  ],
+  [
+   "白萝卜小深盘",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01XdHghQ1wZWgnzIsUl_!!2213201856322-0-cib.jpg"
+  ],
+  [
+   "黄色彩椒小深盘",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01hVM3ho1wZWgu3MSzh_!!2213201856322-0-cib.jpg"
+  ],
+  [
+   "绿色南瓜小深盘",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01qk9feu1wZWgsjj8b4_!!2213201856322-0-cib.jpg"
+  ],
+  [
+   "鯛鱼小深盘",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01xBtJRn1wZWgsjlcSe_!!2213201856322-0-cib.jpg"
+  ],
+  [
+   "红萝卜中深盘",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01fDZy4x1wZX2dpBwxM_!!2213201856322-0-cib.jpg"
+  ],
+  [
+   "紫茄子中深盘",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01LZekre1wZX2e8hRuY_!!2213201856322-0-cib.jpg"
+  ],
+  [
+   "白萝卜中深盘",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01SgQH7f1wZX2e8iK08_!!2213201856322-0-cib.jpg"
+  ],
+  [
+   "黄色彩椒中深盘",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01sTcHAo1wZX2e1b9K9_!!2213201856322-0-cib.jpg"
+  ],
+  [
+   "绿色南瓜中深盘",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01KESYTU1wZX2e1umrR_!!2213201856322-0-cib.jpg"
+  ],
+  [
+   "鯛鱼中深盘",
+   "https://cbu01.alicdn.com/img/ibank/O1CN014L6tvy1wZX2csunoe_!!2213201856322-0-cib.jpg"
+  ],
+  [
+   "红萝卜大深盘",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01pdR4r41wZX2dqVF4L_!!2213201856322-0-cib.jpg"
+  ],
+  [
+   "紫茄子大深盘",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01vyJ6XY1wZX2csxDeL_!!2213201856322-0-cib.jpg"
+  ],
+  [
+   "白萝卜大深盘",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01UavEAO1wZX2eTgOKd_!!2213201856322-0-cib.jpg"
+  ],
+  [
+   "黄色彩椒大深盘",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01VGsCrf1wZX2eDKhlj_!!2213201856322-0-cib.jpg"
+  ],
+  [
+   "绿色南瓜大深盘",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01PHwCig1wZX2eDLNOZ_!!2213201856322-0-cib.jpg"
+  ],
+  [
+   "鯛鱼大深盘",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01KyW2Fj1wZX2ddjqll_!!2213201856322-0-cib.jpg"
+  ],
+  [
+   "红萝卜小面碗",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01ktE5uT1wZX2euOkeh_!!2213201856322-0-cib.jpg"
+  ],
+  [
+   "紫茄子小面碗",
+   "https://cbu01.alicdn.com/img/ibank/O1CN0127VwMw1wZX2e8snGF_!!2213201856322-0-cib.jpg"
+  ],
+  [
+   "白萝卜小面碗",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01PsYiIK1wZX2dVXBGI_!!2213201856322-0-cib.jpg"
+  ],
+  [
+   "黄色彩椒小面碗",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01PQV4qm1wZX2e8v0Zo_!!2213201856322-0-cib.jpg"
+  ],
+  [
+   "绿色南瓜小面碗",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01gStG5x1wZX2ddoLYU_!!2213201856322-0-cib.jpg"
+  ],
+  [
+   "鯛鱼小面碗",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01Igx5Kj1wZX2dVXaK2_!!2213201856322-0-cib.jpg"
+  ],
+  [
+   "红萝卜味碟",
+   "https://cbu01.alicdn.com/img/ibank/O1CN016NfUyC1wZX2ddr6Fh_!!2213201856322-0-cib.jpg"
+  ],
+  [
+   "紫茄子味碟",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01J0ura01wZX2eTrnlc_!!2213201856322-0-cib.jpg"
+  ],
+  [
+   "白萝卜味碟",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01o9itPA1wZX2e8yZ4N_!!2213201856322-0-cib.jpg"
+  ],
+  [
+   "黄色彩椒味碟",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01frcJKq1wZX2eTr8GP_!!2213201856322-0-cib.jpg"
+  ],
+  [
+   "绿色南瓜味碟",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01uT7E8C1wZX2eOEEIH_!!2213201856322-0-cib.jpg"
+  ],
+  [
+   "红萝卜小饭碗",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01f2Uy1h1wZWgx4k13Z_!!2213201856322-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "skuPrice",
+ "价格区间": null,
+ "阶梯价_登录后": [
+  {
+   "price": "11.80",
+   "beginAmount": 20
+  },
+  {
+   "price": "24.80",
+   "beginAmount": 20
+  }
+ ],
+ "到手价": null,
+ "起订量": 20,
+ "单位": "件",
+ "可售总量": 1493,
+ "已售": 2198,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01d3Nz3r1wZWgz4OIcG_!!2213201856322-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01oQi4o51wZX2eUEMFU_!!2213201856322-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01RRJpKg1wZWglgZkq5_!!2213201856322-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01D0DFPt1wZWgxqznUt_!!2213201856322-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01B3KYPG1wZWgsj5C5O_!!2213201856322-0-cib.jpg"
+ ],
+ "商品属性": [
+  "材质:瓷",
+  "产品类别:碗、碟、盘套装",
+  "表面工艺:釉下彩",
+  "品牌:Mino Yaki/美浓烧",
+  "产品质量等级:合格品",
+  "是否进口:是",
+  "原产国/地区:日本",
+  "货号:蔬菜系列",
+  "适用人群:成人",
+  "图案:蔬菜",
+  "风格:清新风",
+  "微波炉:可用",
+  "产地:日本",
+  "加印LOGO:不可以",
+  "加工定制:否",
+  "适用对象:成人",
+  "是否有专利:无",
+  "颜色:红萝卜小饭碗/紫茄子小饭碗/白萝卜小饭碗/黄色彩椒小饭碗/绿色南瓜小饭碗/鯛鱼小饭碗/红萝卜大面碗/紫茄子大面碗/白萝卜大面碗/黄色彩椒大面碗/绿色南瓜大面碗/鯛鱼大面碗/红萝卜小深盘/紫茄子小深盘/白萝卜小深盘/黄色彩椒小深盘/绿色南瓜小深盘/鯛鱼小深盘/红萝卜中深盘/紫茄子中深盘/白萝卜中深盘/黄色彩椒中深盘/绿色南瓜中深盘/鯛鱼中深盘/红萝卜大深盘/紫茄子大深盘/白萝卜大深盘/黄色彩椒大深盘/绿色南瓜大深盘/鯛鱼大深盘/红萝卜小面碗/紫茄子小面碗/白萝卜小面碗/黄色彩椒小面碗/绿色南瓜小面碗/鯛鱼小面碗/红萝卜味碟/紫茄子味碟/白萝卜味碟/黄色彩椒味碟/绿色南瓜味碟",
+  "直径:16-16.9cm",
+  "是否属于礼品:否",
+  "适用节日:其它节日",
+  "风格类型:清新萌趣"
+ ],
+ "包装信息": [
+  {
+   "volume": 0,
+   "sku1": "红萝卜小饭碗",
+   "length": 0,
+   "width": 0,
+   "weight": 120,
+   "skuId": 5033807162125,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "紫茄子小饭碗",
+   "length": 0,
+   "width": 0,
+   "weight": 120,
+   "skuId": 5033807162126,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "白萝卜小饭碗",
+   "length": 0,
+   "width": 0,
+   "weight": 120,
+   "skuId": 5033807162127,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "黄色彩椒小饭碗",
+   "length": 0,
+   "width": 0,
+   "weight": 120,
+   "skuId": 5033807162128,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "绿色南瓜小饭碗",
+   "length": 0,
+   "width": 0,
+   "weight": 120,
+   "skuId": 5033807162129,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "鯛鱼小饭碗",
+   "length": 0,
+   "width": 0,
+   "weight": 120,
+   "skuId": 5033807162130,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "红萝卜大面碗",
+   "length": 0,
+   "width": 0,
+   "weight": 120,
+   "skuId": 5033807162131,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "紫茄子大面碗",
+   "length": 0,
+   "width": 0,
+   "weight": 120,
+   "skuId": 5033807162132,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "白萝卜大面碗",
+   "length": 0,
+   "width": 0,
+   "weight": 120,
+   "skuId": 5033807162133,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "黄色彩椒大面碗",
+   "length": 0,
+   "width": 0,
+   "weight": 120,
+   "skuId": 5033807162134,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "绿色南瓜大面碗",
+   "length": 0,
+   "width": 0,
+   "weight": 120,
+   "skuId": 5033807162135,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "鯛鱼大面碗",
+   "length": 0,
+   "width": 0,
+   "weight": 120,
+   "skuId": 5033807162136,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "红萝卜小深盘",
+   "length": 0,
+   "width": 0,
+   "weight": 120,
+   "skuId": 5033807162137,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "紫茄子小深盘",
+   "length": 0,
+   "width": 0,
+   "weight": 120,
+   "skuId": 5033807162138,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "白萝卜小深盘",
+   "length": 0,
+   "width": 0,
+   "weight": 120,
+   "skuId": 5033807162139,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "黄色彩椒小深盘",
+   "length": 0,
+   "width": 0,
+   "weight": 120,
+   "skuId": 5033807162140,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "绿色南瓜小深盘",
+   "length": 0,
+   "width": 0,
+   "weight": 120,
+   "skuId": 5033807162141,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "鯛鱼小深盘",
+   "length": 0,
+   "width": 0,
+   "weight": 120,
+   "skuId": 5033807162142,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "红萝卜中深盘",
+   "length": 0,
+   "width": 0,
+   "weight": 120,
+   "skuId": 6003843881976,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "紫茄子中深盘",
+   "length": 0,
+   "width": 0,
+   "weight": 120,
+   "skuId": 6003843881977,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "白萝卜中深盘",
+   "length": 0,
+   "width": 0,
+   "weight": 120,
+   "skuId": 6003843881978,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "黄色彩椒中深盘",
+   "length": 0,
+   "width": 0,
+   "weight": 120,
+   "skuId": 6003843881979,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "绿色南瓜中深盘",
+   "length": 0,
+   "width": 0,
+   "weight": 120,
+   "skuId": 6003843881980,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "鯛鱼中深盘",
+   "length": 0,
+   "width": 0,
+   "weight": 120,
+   "skuId": 6003843881981,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "红萝卜大深盘",
+   "length": 0,
+   "width": 0,
+   "weight": 120,
+   "skuId": 5033807162143,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "紫茄子大深盘",
+   "length": 0,
+   "width": 0,
+   "weight": 120,
+   "skuId": 5033807162144,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "白萝卜大深盘",
+   "length": 0,
+   "width": 0,
+   "weight": 120,
+   "skuId": 5033807162145,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "黄色彩椒大深盘",
+   "length": 0,
+   "width": 0,
+   "weight": 120,
+   "skuId": 5033807162146,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "绿色南瓜大深盘",
+   "length": 0,
+   "width": 0,
+   "weight": 120,
+   "skuId": 5033807162147,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "鯛鱼大深盘",
+   "length": 0,
+   "width": 0,
+   "weight": 120,
+   "skuId": 5033807162148,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "红萝卜小面碗",
+   "length": 0,
+   "width": 0,
+   "weight": 120,
+   "skuId": 6003843881982,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "紫茄子小面碗",
+   "length": 0,
+   "width": 0,
+   "weight": 120,
+   "skuId": 6003843881983,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "白萝卜小面碗",
+   "length": 0,
+   "width": 0,
+   "weight": 120,
+   "skuId": 6003843881984,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "黄色彩椒小面碗",
+   "length": 0,
+   "width": 0,
+   "weight": 120,
+   "skuId": 6003843881985,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "绿色南瓜小面碗",
+   "length": 0,
+   "width": 0,
+   "weight": 120,
+   "skuId": 6003843881986,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "鯛鱼小面碗",
+   "length": 0,
+   "width": 0,
+   "weight": 120,
+   "skuId": 6003843881987,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "红萝卜味碟",
+   "length": 0,
+   "width": 0,
+   "weight": 120,
+   "skuId": 6003843881975,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "紫茄子味碟",
+   "length": 0,
+   "width": 0,
+   "weight": 120,
+   "skuId": 6003843881988,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "白萝卜味碟",
+   "length": 0,
+   "width": 0,
+   "weight": 120,
+   "skuId": 6003843881991,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "黄色彩椒味碟",
+   "length": 0,
+   "width": 0,
+   "weight": 120,
+   "skuId": 6003843881989,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "绿色南瓜味碟",
+   "length": 0,
+   "width": 0,
+   "weight": 120,
+   "skuId": 6003843881990,
+   "height": 0
+  }
+ ],
+ "url": "https://detail.1688.com/offer/677326822614.html",
+ "核页时间": "2026-10-06T15:41:27.484Z"
+}

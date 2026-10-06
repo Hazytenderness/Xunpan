@@ -1,0 +1,184 @@
+{
+ "offerId": "1058642033666",
+ "条目": "H0250",
+ "block": false,
+ "卖家公司": "义乌市尚美日用百货有限公司",
+ "旺旺名": "尚美日用百货源头厂家",
+ "标题": "台面斜坡硅胶沥水垫子隔热垫防烫锅垫耐高温厨房水槽厨房收纳",
+ "状态": "PUBLISHED",
+ "类目": "沥水碗架",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "层数（规格）",
+   "值": [
+    "奶白【1个装】硅胶沥水垫",
+    "灰色【1个装】硅胶沥水垫",
+    "绿色26*32cm",
+    "绿色28*36cm",
+    "灰色26*32cm",
+    "灰色28*36cm"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "灰色28*36cm",
+   "价格": "3.33",
+   "库存": 1206
+  },
+  {
+   "规格": "奶白【1个装】硅胶沥水垫",
+   "价格": "5.56",
+   "库存": 1267
+  },
+  {
+   "规格": "绿色28*36cm",
+   "价格": "3.33",
+   "库存": 1781
+  },
+  {
+   "规格": "灰色【1个装】硅胶沥水垫",
+   "价格": "5.56",
+   "库存": 803
+  },
+  {
+   "规格": "灰色26*32cm",
+   "价格": "2.59",
+   "库存": 1843
+  },
+  {
+   "规格": "绿色26*32cm",
+   "价格": "2.59",
+   "库存": 1036
+  }
+ ],
+ "规格图": [
+  [
+   "奶白【1个装】硅胶沥水垫",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01cOU3yI1aPWsQtXDvP_!!2222158183322-0-cib.jpg"
+  ],
+  [
+   "灰色【1个装】硅胶沥水垫",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01FXeAjn1aPWsSOYv7Y_!!2222158183322-0-cib.jpg"
+  ],
+  [
+   "绿色26*32cm",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01B1OeUI1aPWsQd8qWc_!!2222158183322-0-cib.jpg"
+  ],
+  [
+   "绿色28*36cm",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01lBWj8X1aPWsQne22K_!!2222158183322-0-cib.jpg"
+  ],
+  [
+   "灰色26*32cm",
+   "https://cbu01.alicdn.com/img/ibank/O1CN010QqlmR1aPWsQtsqNo_!!2222158183322-0-cib.jpg"
+  ],
+  [
+   "灰色28*36cm",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01XJJvk91aPWsQdD4iV_!!2222158183322-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "skuPrice",
+ "价格区间": "2.73-5.85",
+ "阶梯价_登录后": [
+  {
+   "price": "2.59",
+   "beginAmount": 1
+  },
+  {
+   "price": "5.56",
+   "beginAmount": 1
+  }
+ ],
+ "到手价": {
+  "价": "0.59",
+  "说明": "新人价",
+  "件数": 1
+ },
+ "起订量": 1,
+ "单位": "个",
+ "可售总量": 7936,
+ "已售": 3902,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01KNLrKr1aPWsQtIbJd_!!2222158183322-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01rSroOk1aPWsQtH7sK_!!2222158183322-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01J2w4gd1aPWsQnFzuO_!!2222158183322-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01tRw46a1aPWsQe5HZA_!!2222158183322-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01oUNS7Z1aPWsQyXbpy_!!2222158183322-0-cib.jpg"
+ ],
+ "商品属性": [
+  "材质:不锈钢",
+  "置物架分类:其它",
+  "品牌:启旺",
+  "风格:现代简约",
+  "是否进口:否",
+  "货号:60110",
+  "产地:浙江",
+  "产品上市时间:2025",
+  "价格段:5元以内",
+  "是否有专利:无",
+  "层数（规格）:奶白【1个装】硅胶沥水垫/灰色【1个装】硅胶沥水垫/绿色26*32cm/绿色28*36cm/灰色26*32cm/灰色28*36cm",
+  "是否跨境出口专供货源:否",
+  "安装方式:台面式",
+  "置物用品类型:餐具/杯子/碗盘"
+ ],
+ "包装信息": [
+  {
+   "volume": 0,
+   "sku1": "奶白【1个装】硅胶沥水垫",
+   "length": 0,
+   "width": 0,
+   "weight": 700,
+   "skuId": 6266173895862,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "灰色【1个装】硅胶沥水垫",
+   "length": 0,
+   "width": 0,
+   "weight": 700,
+   "skuId": 6266173895863,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "绿色26*32cm",
+   "length": 0,
+   "width": 0,
+   "weight": 300,
+   "skuId": 6266179055223,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "绿色28*36cm",
+   "length": 0,
+   "width": 0,
+   "weight": 400,
+   "skuId": 6266179055221,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "灰色26*32cm",
+   "length": 0,
+   "width": 0,
+   "weight": 300,
+   "skuId": 6266179055222,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "灰色28*36cm",
+   "length": 0,
+   "width": 0,
+   "weight": 400,
+   "skuId": 6266179055224,
+   "height": 0
+  }
+ ],
+ "url": "https://detail.1688.com/offer/1058642033666.html",
+ "核页时间": "2026-10-06T15:54:23.586Z"
+}

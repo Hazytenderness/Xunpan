@@ -1,0 +1,186 @@
+{
+ "offerId": "740680716530",
+ "条目": "H0982",
+ "block": false,
+ "卖家公司": "珠海市勤星科技有限公司",
+ "旺旺名": "勤星科技",
+ "标题": "跨境专供10000目天然绿玉玛瑙磨刀石抛光磨石磨刀精磨硬木匠工具",
+ "状态": "PUBLISHED",
+ "类目": "磨石、油石",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "规格型号",
+   "值": [
+    "18*6*3cm（带一块黑色防滑垫）",
+    "20*5*2.5cm（不带防滑垫）",
+    "15*2（默认带底座）",
+    "15*3（默认带底座）",
+    "180*60*32（3件套）",
+    "18*6*3cm白色8000目（带一块黑色防滑垫）",
+    "18*6黑色防滑垫"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "180*60*32（3件套）",
+   "价格": "58.00",
+   "库存": 9982
+  },
+  {
+   "规格": "18*6*3cm（带一块黑色防滑垫）",
+   "价格": "35.00",
+   "库存": 9910
+  },
+  {
+   "规格": "18*6*3cm白色8000目（带一块黑色防滑垫）",
+   "价格": "35.00",
+   "库存": 9999
+  },
+  {
+   "规格": "20*5*2.5cm（不带防滑垫）",
+   "价格": "42.00",
+   "库存": 9899
+  },
+  {
+   "规格": "15*2（默认带底座）",
+   "价格": "4.80",
+   "库存": 9998
+  },
+  {
+   "规格": "18*6黑色防滑垫",
+   "价格": "1.50",
+   "库存": 9999
+  },
+  {
+   "规格": "15*3（默认带底座）",
+   "价格": "9.80",
+   "库存": 10000
+  }
+ ],
+ "规格图": [
+  [
+   "18*6*3cm（带一块黑色防滑垫）",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01munDJUV6c0K3thOC_!!2216439216412-0-cib.jpg"
+  ],
+  [
+   "20*5*2.5cm（不带防滑垫）",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01zzU5dcM6ELF3thOC_!!2216439216412-0-cib.jpg"
+  ],
+  [
+   "15*2（默认带底座）",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01iD8RPL1xEkcXX9AYS_!!2216439216412-0-cib.jpg"
+  ],
+  [
+   "15*3（默认带底座）",
+   "https://cbu01.alicdn.com/img/ibank/O1CN019NGncV1xEkcdcrTI9_!!2216439216412-0-cib.jpg"
+  ],
+  [
+   "180*60*32（3件套）",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01E3Usry1xEkhZ4u3m6_!!2216439216412-0-cib.jpg"
+  ],
+  [
+   "18*6*3cm白色8000目（带一块黑色防滑垫）",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01SRA6oNKn0AI3thOC_!!2216439216412-0-cib.jpg"
+  ],
+  [
+   "18*6黑色防滑垫",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01u0u5DjgCBOK2b8G8_!!2216439216412-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "skuPrice",
+ "价格区间": null,
+ "阶梯价_登录后": [
+  {
+   "price": "1.50",
+   "beginAmount": 1
+  },
+  {
+   "price": "58.00",
+   "beginAmount": 1
+  }
+ ],
+ "到手价": null,
+ "起订量": 1,
+ "单位": "块",
+ "可售总量": 69787,
+ "已售": 404,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN012DONAv1xEkceH0L60_!!2216439216412-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01DVda7k1xEkceH0oCn_!!2216439216412-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01qYkgrY1xEkceJwVJJ_!!2216439216412-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01Uorgvy1xEkSJPGMtk_!!2216439216412-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01E2Xf8k1xEkcdkUdus_!!2216439216412-0-cib.jpg"
+ ],
+ "商品属性": [
+  "材质:天然玛瑙"
+ ],
+ "包装信息": [
+  {
+   "volume": 1650,
+   "sku1": "18*6*3cm（带一块黑色防滑垫）",
+   "length": 25,
+   "width": 11,
+   "weight": 1000,
+   "skuId": 6239276831980,
+   "height": 6
+  },
+  {
+   "volume": 1650,
+   "sku1": "20*5*2.5cm（不带防滑垫）",
+   "length": 25,
+   "width": 11,
+   "weight": 1000,
+   "skuId": 6239276831981,
+   "height": 6
+  },
+  {
+   "volume": 270,
+   "sku1": "15*2（默认带底座）",
+   "length": 18,
+   "width": 5,
+   "weight": 100,
+   "skuId": 6239276831977,
+   "height": 3
+  },
+  {
+   "volume": 270,
+   "sku1": "15*3（默认带底座）",
+   "length": 18,
+   "width": 5,
+   "weight": 170,
+   "skuId": 6239276831979,
+   "height": 3
+  },
+  {
+   "volume": 1650,
+   "sku1": "180*60*32（3件套）",
+   "length": 25,
+   "width": 11,
+   "weight": 1000,
+   "skuId": 6239276831978,
+   "height": 6
+  },
+  {
+   "volume": 1650,
+   "sku1": "18*6*3cm白色8000目（带一块黑色防滑垫）",
+   "length": 25,
+   "width": 11,
+   "weight": 1000,
+   "skuId": 6129713081072,
+   "height": 6
+  },
+  {
+   "volume": 230,
+   "sku1": "18*6黑色防滑垫",
+   "length": 23,
+   "width": 5,
+   "weight": 100,
+   "skuId": 6129713081073,
+   "height": 2
+  }
+ ],
+ "url": "https://detail.1688.com/offer/740680716530.html",
+ "核页时间": "2026-10-06T19:24:33.108Z"
+}

@@ -1,0 +1,115 @@
+{
+ "offerId": "1075849115884",
+ "条目": "H0707",
+ "block": false,
+ "卖家公司": "霸州市易旺百货部",
+ "旺旺名": "时光宠伴",
+ "标题": "防飞溅猫喝水碗猫碗悬浮水碗饮水用具猫饮水器 狗狗饮水器",
+ "状态": "PUBLISHED",
+ "类目": "猫猫食具",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "规格",
+   "值": [
+    "青草绿600ml",
+    "奶酪黄600ml"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "奶酪黄600ml",
+   "价格": "5.50",
+   "库存": 100000
+  },
+  {
+   "规格": "青草绿600ml",
+   "价格": "5.50",
+   "库存": 99995
+  }
+ ],
+ "规格图": [
+  [
+   "青草绿600ml",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01f1l4H72Cw0MvstmBZ_!!2222391748537-0-cib.jpg"
+  ],
+  [
+   "奶酪黄600ml",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01Geki1S2Cw0Mw5wye4_!!2222391748537-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "skuPrice",
+ "价格区间": "5.50",
+ "阶梯价_登录后": [
+  {
+   "price": "5.50",
+   "beginAmount": 1
+  }
+ ],
+ "到手价": null,
+ "起订量": 1,
+ "单位": "个",
+ "可售总量": 199995,
+ "已售": 5,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01lA2QdzZ7CHJ3thOC_!!2222391748537-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01l835S6HwIJD3thOC_!!2222391748537-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01UNgt9H6jixB3thOC_!!2222391748537-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01zuWwQPZbNsK2B4eA_!!2222391748537-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01NNCRdn2Cw0MwFr064_!!2222391748537-0-cib.jpg"
+ ],
+ "商品属性": [
+  "材质:PP",
+  "品牌:其他",
+  "成套自动喂食:否",
+  "是否进口:否",
+  "货号:RRFF55",
+  "箱装数量:54",
+  "是否专利货源:否",
+  "规格:青草绿600ml/奶酪黄600ml",
+  "是否跨境出口专供货源:否",
+  "是否IP授权:否",
+  "是否智能:否"
+ ],
+ "包装信息": [
+  {
+   "volume": 2527,
+   "sku1": "青草绿600ml",
+   "features": {
+    "boxSpec": [
+     [
+      "外箱:60*60*50cm",
+      "数量:54 件/箱",
+      "净重:8.83 kg"
+     ]
+    ]
+   },
+   "length": 19,
+   "width": 19,
+   "weight": 145,
+   "skuId": 6293762515200,
+   "height": 7
+  },
+  {
+   "volume": 2527,
+   "sku1": "奶酪黄600ml",
+   "features": {
+    "boxSpec": [
+     [
+      "外箱:60*60*50cm",
+      "数量:54 件/箱",
+      "净重:8.83 kg"
+     ]
+    ]
+   },
+   "length": 19,
+   "width": 19,
+   "weight": 145,
+   "skuId": 6293762515201,
+   "height": 7
+  }
+ ],
+ "url": "https://detail.1688.com/offer/1075849115884.html",
+ "核页时间": "2026-10-06T18:04:48.782Z"
+}

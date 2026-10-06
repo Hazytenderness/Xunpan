@@ -1,0 +1,172 @@
+{
+ "offerId": "1052851610297",
+ "条目": "H0640",
+ "block": false,
+ "卖家公司": "宁海县龙跃电子厂",
+ "旺旺名": "nblydz",
+ "标题": "宠物LED狗狗发光牵引绳铆钉USB充电狗绳炫彩防爆冲防挣脱尼龙织带",
+ "状态": "PUBLISHED",
+ "类目": "宠物项圈",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "颜色",
+   "值": [
+    "黄色牵引绳",
+    "橙色牵引绳",
+    "粉色牵引绳",
+    "绿色牵引绳",
+    "灰色牵引绳"
+   ]
+  },
+  {
+   "属性": "规格",
+   "值": [
+    "Type-C充电款"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "黄色牵引绳&gt;Type-C充电款",
+   "价格": "19.00",
+   "库存": 95635
+  },
+  {
+   "规格": "橙色牵引绳&gt;Type-C充电款",
+   "价格": "19.00",
+   "库存": 96102
+  },
+  {
+   "规格": "粉色牵引绳&gt;Type-C充电款",
+   "价格": "19.00",
+   "库存": 96315
+  },
+  {
+   "规格": "灰色牵引绳&gt;Type-C充电款",
+   "价格": "19.00",
+   "库存": 97568
+  },
+  {
+   "规格": "绿色牵引绳&gt;Type-C充电款",
+   "价格": "19.00",
+   "库存": 98522
+  }
+ ],
+ "规格图": [
+  [
+   "黄色牵引绳",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01driq3P2Dgikqa387y_!!951878639-0-cib.jpg"
+  ],
+  [
+   "橙色牵引绳",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01QA1dh02Dgikqa5c4p_!!951878639-0-cib.jpg"
+  ],
+  [
+   "粉色牵引绳",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01WaiMvO2Dgikqx7geq_!!951878639-0-cib.jpg"
+  ],
+  [
+   "绿色牵引绳",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01D5255J2DgilQ701Zs_!!951878639-0-cib.jpg"
+  ],
+  [
+   "灰色牵引绳",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01VstBjr2DgikqDmMQn_!!951878639-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "skuPrice",
+ "价格区间": "19.00",
+ "阶梯价_登录后": [
+  {
+   "price": "19.00",
+   "beginAmount": 1
+  }
+ ],
+ "到手价": {
+  "价": "18",
+  "说明": "新人价",
+  "件数": 1
+ },
+ "起订量": 1,
+ "单位": "个",
+ "可售总量": 484142,
+ "已售": 62,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01uzU4js2DgikyZp0sZ_!!951878639-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01tjXys62DgikqGpmIY_!!951878639-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01I4wPMh2DgiklnSOOc_!!951878639-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01VnpcuF2Dgikqwx4r6_!!951878639-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01BrVNCg2DgikqddiLN_!!951878639-0-cib.jpg"
+ ],
+ "商品属性": [
+  "材质:PVC",
+  "品牌:其他",
+  "图案:单色",
+  "是否专利货源:否",
+  "颜色:黄色牵引绳/橙色牵引绳/粉色牵引绳/绿色牵引绳/灰色牵引绳",
+  "适用对象:通用",
+  "规格:Type-C充电款",
+  "适用节日:万圣节/鬼节/婚庆/生日/圣诞节/情人节/春节/中秋节/复活节/狂欢节/国庆节/愚人节/七夕节",
+  "适合季节:四季通用",
+  "是否跨境出口专供货源:否",
+  "风格:休闲",
+  "是否进口:否",
+  "有可授权的自有品牌:否",
+  "是否IP授权:否"
+ ],
+ "包装信息": [
+  {
+   "sku2": "Type-C充电款",
+   "volume": 600,
+   "sku1": "黄色牵引绳",
+   "length": 120,
+   "width": 2.5,
+   "weight": 148,
+   "skuId": 6260400683086,
+   "height": 2
+  },
+  {
+   "sku2": "Type-C充电款",
+   "volume": 600,
+   "sku1": "橙色牵引绳",
+   "length": 120,
+   "width": 2.5,
+   "weight": 148,
+   "skuId": 6260400683083,
+   "height": 2
+  },
+  {
+   "sku2": "Type-C充电款",
+   "volume": 600,
+   "sku1": "粉色牵引绳",
+   "length": 120,
+   "width": 2.5,
+   "weight": 148,
+   "skuId": 6260400683088,
+   "height": 2
+  },
+  {
+   "sku2": "Type-C充电款",
+   "volume": 600,
+   "sku1": "绿色牵引绳",
+   "length": 120,
+   "width": 2.5,
+   "weight": 148,
+   "skuId": 6260400683087,
+   "height": 2
+  },
+  {
+   "sku2": "Type-C充电款",
+   "volume": 600,
+   "sku1": "灰色牵引绳",
+   "length": 120,
+   "width": 2.5,
+   "weight": 148,
+   "skuId": 6260400683084,
+   "height": 2
+  }
+ ],
+ "url": "https://detail.1688.com/offer/1052851610297.html",
+ "核页时间": "2026-10-06T17:45:29.406Z"
+}

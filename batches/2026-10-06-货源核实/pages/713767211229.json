@@ -1,0 +1,102 @@
+{
+ "offerId": "713767211229",
+ "条目": "H0350",
+ "block": false,
+ "卖家公司": "义乌市学诗电子商务有限公司",
+ "旺旺名": "xueshi001",
+ "标题": "不锈钢门后挂钩门上挂架s挂钩衣柜免打孔Z型挂钩宿舍门后收纳单钩",
+ "状态": "PUBLISHED",
+ "类目": "门后挂钩",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "颜色",
+   "值": [
+    "不锈钢色-散装",
+    "磨砂黑-散装"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "不锈钢色-散装",
+   "价格": "0.23",
+   "库存": 49464364
+  },
+  {
+   "规格": "磨砂黑-散装",
+   "价格": "0.40",
+   "库存": 49960089
+  }
+ ],
+ "规格图": [
+  [
+   "不锈钢色-散装",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01HBnRBu1GCR4qL8FE6_!!2215094230586-0-cib.jpg"
+  ],
+  [
+   "磨砂黑-散装",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01ZB8SwC1GCR4lq8cxa_!!2215094230586-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "skuPrice",
+ "价格区间": "0.28-0.50",
+ "阶梯价_登录后": [
+  {
+   "price": "0.23",
+   "beginAmount": 2
+  },
+  {
+   "price": "0.40",
+   "beginAmount": 2
+  }
+ ],
+ "到手价": {
+  "价": "0.23",
+  "说明": "限时价",
+  "件数": 2
+ },
+ "起订量": 2,
+ "单位": "个",
+ "可售总量": 99424453,
+ "已售": 123457,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01oFjYlz1GCQvJBPUWF_!!2215094230586-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01BQ5x6v1GCQvRzGgSy_!!2215094230586-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01z05dvO1GCQvXIduxp_!!2215094230586-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01Fuo9ES1GCQvSMwFJN_!!2215094230586-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01OmC6ft1GCQvWDs8b0_!!2215094230586-0-cib.jpg"
+ ],
+ "商品属性": [
+  "材质:不锈钢",
+  "款式:Z型",
+  "悬挂方式:门背式",
+  "产品类别:无痕挂钩",
+  "是否进口:否",
+  "货号:Q27Zxmenhgg",
+  "专利:否",
+  "颜色:不锈钢色-散装/磨砂黑-散装"
+ ],
+ "包装信息": [
+  {
+   "volume": 100,
+   "sku1": "不锈钢色-散装",
+   "length": 10,
+   "width": 5,
+   "weight": 20,
+   "skuId": 5714633474456,
+   "height": 2
+  },
+  {
+   "volume": 100,
+   "sku1": "磨砂黑-散装",
+   "length": 10,
+   "width": 5,
+   "weight": 20,
+   "skuId": 5714633474457,
+   "height": 2
+  }
+ ],
+ "url": "https://detail.1688.com/offer/713767211229.html",
+ "核页时间": "2026-10-06T16:25:09.898Z"
+}

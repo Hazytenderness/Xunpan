@@ -1,0 +1,182 @@
+{
+ "offerId": "971483161103",
+ "条目": "H0868",
+ "block": false,
+ "卖家公司": "高阳县坤宁毛巾厂",
+ "旺旺名": "高阳县雨辰毛巾厂",
+ "标题": "波浪纹珊瑚绒洗脸毛巾浴巾纯棉柔软吸水加厚包边不掉毛家用成人批",
+ "状态": "PUBLISHED",
+ "类目": "毛巾",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "颜色",
+   "值": [
+    "蓝色",
+    "绿色",
+    "深灰色",
+    "粉色",
+    "紫粉色"
+   ]
+  },
+  {
+   "属性": "规格（长*宽cm）",
+   "值": [
+    "35*75cm"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "粉色&gt;35*75cm",
+   "价格": null,
+   "库存": 49945
+  },
+  {
+   "规格": "绿色&gt;35*75cm",
+   "价格": null,
+   "库存": 49938
+  },
+  {
+   "规格": "蓝色&gt;35*75cm",
+   "价格": null,
+   "库存": 49754
+  },
+  {
+   "规格": "深灰色&gt;35*75cm",
+   "价格": null,
+   "库存": 49906
+  },
+  {
+   "规格": "紫粉色&gt;35*75cm",
+   "价格": null,
+   "库存": 49916
+  }
+ ],
+ "规格图": [
+  [
+   "蓝色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01ESRwGt2Lu17kjuLda_!!2220491769751-0-cib.jpg"
+  ],
+  [
+   "绿色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01cbWG5u2Lu17mq2bfW_!!2220491769751-0-cib.jpg"
+  ],
+  [
+   "深灰色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN0176vSJl2Lu17lZj9GM_!!2220491769751-0-cib.jpg"
+  ],
+  [
+   "粉色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01DX7ujm2Lu17fw30qT_!!2220491769751-0-cib.jpg"
+  ],
+  [
+   "紫粉色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01AXKlzK2Lu17kgAC3T_!!2220491769751-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "rangePrice",
+ "价格区间": null,
+ "阶梯价_登录后": [
+  {
+   "price": "2.30",
+   "beginAmount": 1
+  },
+  {
+   "price": "2.10",
+   "beginAmount": 500
+  },
+  {
+   "price": "1.90",
+   "beginAmount": 2000
+  }
+ ],
+ "到手价": null,
+ "起订量": 1,
+ "单位": "条",
+ "可售总量": 249459,
+ "已售": 382,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN0135iB3W2Lu17mGNacw_!!2220491769751-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN018dLbWe2Lu17lkLXeD_!!2220491769751-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01q6DICh2Lu17mpsjw8_!!2220491769751-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01qxhyYe2Lu17mGNO9k_!!2220491769751-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01Kt7nDy2Lu17mc7agI_!!2220491769751-0-cib.jpg"
+ ],
+ "商品属性": [
+  "材质:珊瑚绒",
+  "品牌:雨辰",
+  "克重:100g（含）-120g（不含）",
+  "制作工艺:包边",
+  "纱线规格:150D",
+  "货号:波浪纹毛巾",
+  "加工定制:是",
+  "颜色:蓝色/绿色/深灰色/粉色/紫粉色",
+  "规格（长*宽cm）:35*75cm",
+  "层数:其他",
+  "安全类别:B类",
+  "吸水性等级:5s-10s",
+  "厚度等级:中厚款",
+  "抗菌处理:不抗菌处理",
+  "产地:中国",
+  "使用场景:家用/健身/洗脸",
+  "产品类型:毛巾",
+  "适用人群:通用",
+  "是否一次性:否",
+  "是否IP授权:否"
+ ],
+ "包装信息": [
+  {
+   "sku2": "35*75cm",
+   "volume": 0,
+   "sku1": "蓝色",
+   "length": 0,
+   "width": 0,
+   "weight": 80,
+   "skuId": 5921907149291,
+   "height": 0
+  },
+  {
+   "sku2": "35*75cm",
+   "volume": 0,
+   "sku1": "绿色",
+   "length": 0,
+   "width": 0,
+   "weight": 80,
+   "skuId": 5921907149292,
+   "height": 0
+  },
+  {
+   "sku2": "35*75cm",
+   "volume": 0,
+   "sku1": "深灰色",
+   "length": 0,
+   "width": 0,
+   "weight": 80,
+   "skuId": 5921907149293,
+   "height": 0
+  },
+  {
+   "sku2": "35*75cm",
+   "volume": 0,
+   "sku1": "粉色",
+   "length": 0,
+   "width": 0,
+   "weight": 80,
+   "skuId": 5921907149294,
+   "height": 0
+  },
+  {
+   "sku2": "35*75cm",
+   "volume": 0,
+   "sku1": "紫粉色",
+   "length": 0,
+   "width": 0,
+   "weight": 80,
+   "skuId": 5921907149295,
+   "height": 0
+  }
+ ],
+ "url": "https://detail.1688.com/offer/971483161103.html",
+ "核页时间": "2026-10-06T18:49:36.774Z"
+}

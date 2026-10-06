@@ -83,6 +83,8 @@ for x in queue:
                 add(序, offer, seller, '在售状态', '在售', f"商品页在售，标题「{page.get('标题', '')[:40]}」", link, when, '1688 核页')
             elif page.get('状态'):
                 add(序, offer, seller, '在售状态', '已下架', f"商品页状态 {page['状态']}，不在售", link, when, '1688 核页')
+            elif page.get('noContext'):
+                add(序, offer, seller or x.get('供应商_站点记录') or '', '在售状态', '已下架', '商品页显示已下架' if '已下架' in (page.get('textHead') or '') else '商品页打不开，跳转到 1688 搜索页', link, when, '1688 核页')
             m = match.get((x['id'], 序, offer))
             if page.get('起订量') and not (m and m.get('结论') == '款不对'):
                 add(序, offer, seller, '起订量', int(page['起订量']), f"页面起批量 {page['起订量']} {page.get('单位') or '件'}", link, when, '1688 核页', 首批=k.get('数量'))

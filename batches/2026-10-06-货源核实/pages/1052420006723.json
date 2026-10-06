@@ -1,0 +1,110 @@
+{
+ "offerId": "1052420006723",
+ "条目": "H0421",
+ "block": false,
+ "卖家公司": "义乌市卓媛日用品有限公司",
+ "旺旺名": "义乌市卓媛日用品有限公司",
+ "标题": "宠物用品猫碗猫盆陶瓷高脚保护颈椎防打翻狗碗宠物喝水粮猫碗跨境",
+ "状态": "PUBLISHED",
+ "类目": "猫猫食具",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "规格",
+   "值": [
+    "白色（OPP装）",
+    "黑色（OPP装）"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "白色（OPP装）",
+   "价格": "1.60",
+   "库存": 99793
+  },
+  {
+   "规格": "黑色（OPP装）",
+   "价格": "1.60",
+   "库存": 0
+  }
+ ],
+ "规格图": [
+  [
+   "白色（OPP装）",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01sSsKTV2KbrrnA2WF9_!!2222446509576-0-cib.jpg"
+  ],
+  [
+   "黑色（OPP装）",
+   "https://cbu01.alicdn.com/img/ibank/O1CN015EAMb82Kbrrs7nUWt_!!2222446509576-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "rangePrice",
+ "价格区间": "1.50-1.60",
+ "阶梯价_登录后": [
+  {
+   "price": "1.60",
+   "beginAmount": 1
+  },
+  {
+   "price": "1.50",
+   "beginAmount": 200
+  }
+ ],
+ "到手价": {
+  "价": "0.6",
+  "说明": "新人价",
+  "件数": 1
+ },
+ "起订量": 1,
+ "单位": "个",
+ "可售总量": 99793,
+ "已售": 60,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN019uX6Wc2KbrrrmyCL0_!!2222446509576-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01mxr2v62KbrrrroSrK_!!2222446509576-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01C6PDcG2KbrrtJBhLi_!!2222446509576-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN014pufDB2Kbrrs2A989_!!2222446509576-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01pbJtnc2KbrrrVIQLZ_!!2222446509576-0-cib.jpg"
+ ],
+ "商品属性": [
+  "材质:PP",
+  "品牌:ZY",
+  "成套自动喂食:否",
+  "产地:义乌",
+  "是否进口:否",
+  "货号:ZY006",
+  "箱装数量:待议",
+  "是否专利货源:否",
+  "规格:白色（OPP装）/黑色（OPP装）",
+  "主要下游平台:ebay/亚马逊/wish/速卖通/独立站/LAZADA",
+  "主要销售地区:非洲/欧洲/南美/东南亚/北美/东北亚/中东",
+  "有可授权的自有品牌:否",
+  "是否跨境出口专供货源:是",
+  "是否属于礼品:否",
+  "是否IP授权:否",
+  "是否智能:否"
+ ],
+ "包装信息": [
+  {
+   "volume": 1296,
+   "sku1": "白色（OPP装）",
+   "length": 12,
+   "width": 12,
+   "weight": 52,
+   "skuId": 6090721509400,
+   "height": 9
+  },
+  {
+   "volume": 1296,
+   "sku1": "黑色（OPP装）",
+   "length": 12,
+   "width": 12,
+   "weight": 52,
+   "skuId": 6090721509401,
+   "height": 9
+  }
+ ],
+ "url": "https://detail.1688.com/offer/1052420006723.html",
+ "核页时间": "2026-10-06T16:44:50.963Z"
+}

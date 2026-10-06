@@ -1,0 +1,552 @@
+{
+ "offerId": "940283183489",
+ "条目": "H0088",
+ "block": false,
+ "卖家公司": "杭州沃霖贸易有限公司",
+ "旺旺名": "沃霖小二",
+ "标题": "纯棉厚款毛巾无捻纱提花刺绣卡通擦手小方巾洗脸巾柔软吸水新疆棉",
+ "状态": "PUBLISHED",
+ "类目": "方巾、中巾",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "颜色",
+   "值": [
+    "挂钩",
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "16",
+    "17",
+    "28",
+    "29",
+    "30",
+    "33",
+    "34",
+    "36",
+    "37",
+    "38",
+    "39",
+    "40",
+    "41",
+    "43",
+    "44",
+    "45",
+    "46",
+    "47",
+    "48",
+    "49",
+    "55",
+    "56",
+    "57",
+    "58",
+    "59",
+    "60",
+    "61",
+    "62",
+    "64",
+    "65",
+    "66",
+    "67",
+    "68",
+    "69",
+    "70",
+    "71",
+    "72",
+    "73"
+   ]
+  },
+  {
+   "属性": "规格（长*宽cm）",
+   "值": [
+    "25*25"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "45&gt;25*25",
+   "价格": "9.00",
+   "库存": 125
+  },
+  {
+   "规格": "55&gt;25*25",
+   "价格": "9.00",
+   "库存": 212
+  },
+  {
+   "规格": "17&gt;25*25",
+   "价格": "9.00",
+   "库存": 0
+  },
+  {
+   "规格": "65&gt;25*25",
+   "价格": "9.00",
+   "库存": 0
+  },
+  {
+   "规格": "30&gt;25*25",
+   "价格": "9.00",
+   "库存": 198
+  },
+  {
+   "规格": "8&gt;25*25",
+   "价格": "9.00",
+   "库存": 0
+  },
+  {
+   "规格": "40&gt;25*25",
+   "价格": "9.00",
+   "库存": 52
+  },
+  {
+   "规格": "37&gt;25*25",
+   "价格": "9.00",
+   "库存": 0
+  },
+  {
+   "规格": "1&gt;25*25",
+   "价格": "9.00",
+   "库存": 133
+  },
+  {
+   "规格": "43&gt;25*25",
+   "价格": "9.00",
+   "库存": 93
+  },
+  {
+   "规格": "68&gt;25*25",
+   "价格": "9.00",
+   "库存": 220
+  },
+  {
+   "规格": "73&gt;25*25",
+   "价格": "9.00",
+   "库存": 232
+  },
+  {
+   "规格": "58&gt;25*25",
+   "价格": "9.00",
+   "库存": 0
+  },
+  {
+   "规格": "5&gt;25*25",
+   "价格": "9.00",
+   "库存": 119
+  },
+  {
+   "规格": "57&gt;25*25",
+   "价格": "9.00",
+   "库存": 0
+  },
+  {
+   "规格": "62&gt;25*25",
+   "价格": "9.00",
+   "库存": 182
+  },
+  {
+   "规格": "70&gt;25*25",
+   "价格": "9.00",
+   "库存": 193
+  },
+  {
+   "规格": "47&gt;25*25",
+   "价格": "9.00",
+   "库存": 154
+  },
+  {
+   "规格": "60&gt;25*25",
+   "价格": "9.00",
+   "库存": 164
+  },
+  {
+   "规格": "67&gt;25*25",
+   "价格": "9.00",
+   "库存": 235
+  },
+  {
+   "规格": "72&gt;25*25",
+   "价格": "9.00",
+   "库存": 198
+  },
+  {
+   "规格": "7&gt;25*25",
+   "价格": "9.00",
+   "库存": 0
+  },
+  {
+   "规格": "2&gt;25*25",
+   "价格": "9.00",
+   "库存": 211
+  },
+  {
+   "规格": "64&gt;25*25",
+   "价格": "9.00",
+   "库存": 20
+  },
+  {
+   "规格": "69&gt;25*25",
+   "价格": "9.00",
+   "库存": 192
+  },
+  {
+   "规格": "34&gt;25*25",
+   "价格": "9.00",
+   "库存": 0
+  },
+  {
+   "规格": "4&gt;25*25",
+   "价格": "9.00",
+   "库存": 188
+  },
+  {
+   "规格": "44&gt;25*25",
+   "价格": "9.00",
+   "库存": 122
+  },
+  {
+   "规格": "28&gt;25*25",
+   "价格": "9.00",
+   "库存": 155
+  },
+  {
+   "规格": "38&gt;25*25",
+   "价格": "9.00",
+   "库存": 6
+  },
+  {
+   "规格": "48&gt;25*25",
+   "价格": "9.00",
+   "库存": 141
+  },
+  {
+   "规格": "29&gt;25*25",
+   "价格": "9.00",
+   "库存": 103
+  },
+  {
+   "规格": "61&gt;25*25",
+   "价格": "9.00",
+   "库存": 171
+  },
+  {
+   "规格": "71&gt;25*25",
+   "价格": "9.00",
+   "库存": 194
+  },
+  {
+   "规格": "挂钩&gt;25*25",
+   "价格": "2.00",
+   "库存": 140
+  },
+  {
+   "规格": "33&gt;25*25",
+   "价格": "9.00",
+   "库存": 157
+  },
+  {
+   "规格": "6&gt;25*25",
+   "价格": "9.00",
+   "库存": 212
+  },
+  {
+   "规格": "39&gt;25*25",
+   "价格": "9.00",
+   "库存": 116
+  },
+  {
+   "规格": "49&gt;25*25",
+   "价格": "9.00",
+   "库存": 161
+  },
+  {
+   "规格": "59&gt;25*25",
+   "价格": "9.00",
+   "库存": 160
+  },
+  {
+   "规格": "56&gt;25*25",
+   "价格": "9.00",
+   "库存": 124
+  },
+  {
+   "规格": "66&gt;25*25",
+   "价格": "9.00",
+   "库存": 280
+  },
+  {
+   "规格": "3&gt;25*25",
+   "价格": "9.00",
+   "库存": 190
+  },
+  {
+   "规格": "36&gt;25*25",
+   "价格": "9.00",
+   "库存": 269
+  },
+  {
+   "规格": "41&gt;25*25",
+   "价格": "9.00",
+   "库存": 7
+  },
+  {
+   "规格": "46&gt;25*25",
+   "价格": "9.00",
+   "库存": 204
+  },
+  {
+   "规格": "16&gt;25*25",
+   "价格": "9.00",
+   "库存": 123
+  }
+ ],
+ "规格图": [
+  [
+   "挂钩",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01ZQbI6j1R0x03c432T_!!2219962302050-0-cib.jpg"
+  ],
+  [
+   "1",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01WQSrDy1R0x02onHrg_!!2219962302050-0-cib.jpg"
+  ],
+  [
+   "2",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01Cm2WeZ1R0x05IiTyV_!!2219962302050-0-cib.jpg"
+  ],
+  [
+   "3",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01przLZM1R0x02G9mas_!!2219962302050-0-cib.jpg"
+  ],
+  [
+   "4",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01sgTm5N1R0x04aElN4_!!2219962302050-0-cib.jpg"
+  ],
+  [
+   "5",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01TjL8Xz1R0x03w2Xom_!!2219962302050-0-cib.jpg"
+  ],
+  [
+   "6",
+   "https://cbu01.alicdn.com/img/ibank/O1CN011I7Esx1R0x02kLYzV_!!2219962302050-0-cib.jpg"
+  ],
+  [
+   "7",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01xcZ6oX1R0x04dGtgO_!!2219962302050-0-cib.jpg"
+  ],
+  [
+   "8",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01MUVbni1R0x04aFheI_!!2219962302050-0-cib.jpg"
+  ],
+  [
+   "16",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01cagniG1R0x3akRBt8_!!2219962302050-0-cib.jpg"
+  ],
+  [
+   "17",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01Sbs2cv1R0x4OZUB2Z_!!2219962302050-0-cib.jpg"
+  ],
+  [
+   "28",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01DEtaDe1R0x3bE4pQ9_!!2219962302050-0-cib.jpg"
+  ],
+  [
+   "29",
+   "https://cbu01.alicdn.com/img/ibank/O1CN012bIlTQ1R0x3akQWT6_!!2219962302050-0-cib.jpg"
+  ],
+  [
+   "30",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01zj1YCj1R0x3b1qhil_!!2219962302050-0-cib.jpg"
+  ],
+  [
+   "33",
+   "https://cbu01.alicdn.com/img/ibank/O1CN011BAXhC1R0x3abQMXe_!!2219962302050-0-cib.jpg"
+  ],
+  [
+   "34",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01GX9dLS1R0x3b8rVLG_!!2219962302050-0-cib.jpg"
+  ],
+  [
+   "36",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01sGQmjT1R0x03vC7GK_!!2219962302050-0-cib.jpg"
+  ],
+  [
+   "37",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01UmhhPS1R0x3akTPOs_!!2219962302050-0-cib.jpg"
+  ],
+  [
+   "38",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01DJXi3D1R0x4srejWK_!!2219962302050-0-cib.jpg"
+  ],
+  [
+   "39",
+   "https://cbu01.alicdn.com/img/ibank/O1CN012yddRJ1R0x3aK22At_!!2219962302050-0-cib.jpg"
+  ],
+  [
+   "40",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01XkkVVF1R0x3akU54n_!!2219962302050-0-cib.jpg"
+  ],
+  [
+   "41",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01ruzi5B1R0x4sS8SRh_!!2219962302050-0-cib.jpg"
+  ],
+  [
+   "43",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01FB6Xcb1R0x3azxv2b_!!2219962302050-0-cib.jpg"
+  ],
+  [
+   "44",
+   "https://cbu01.alicdn.com/img/ibank/O1CN012kLNWP1R0x3aRwfvZ_!!2219962302050-0-cib.jpg"
+  ],
+  [
+   "45",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01ydYGki1R0x3afeXfJ_!!2219962302050-0-cib.jpg"
+  ],
+  [
+   "46",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01a6fCMu1R0x3afds6j_!!2219962302050-0-cib.jpg"
+  ],
+  [
+   "47",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01LLm2TE1R0x3aRwwel_!!2219962302050-0-cib.jpg"
+  ],
+  [
+   "48",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01XcBeeB1R0x3ZymuyZ_!!2219962302050-0-cib.jpg"
+  ],
+  [
+   "49",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01NTSVmQ1R0x3b035Ux_!!2219962302050-0-cib.jpg"
+  ],
+  [
+   "55",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01FfH2dS1R0x3bEEpVI_!!2219962302050-0-cib.jpg"
+  ],
+  [
+   "56",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01Kpm0Uu1R0x3aCfam2_!!2219962302050-0-cib.jpg"
+  ],
+  [
+   "57",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01SDtBAO1R0x3ak0Y1W_!!2219962302050-0-cib.jpg"
+  ],
+  [
+   "58",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01Jyzx2k1R0x3ZyovuK_!!2219962302050-0-cib.jpg"
+  ],
+  [
+   "59",
+   "https://cbu01.alicdn.com/img/ibank/O1CN0115kM3R1R0x3b20qKn_!!2219962302050-0-cib.jpg"
+  ],
+  [
+   "60",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01KwdwQI1R0x3b90ZJu_!!2219962302050-0-cib.jpg"
+  ],
+  [
+   "61",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01c9FNi31R0x3asfm3t_!!2219962302050-0-cib.jpg"
+  ],
+  [
+   "62",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01AaNUOt1R0x3aKB681_!!2219962302050-0-cib.jpg"
+  ],
+  [
+   "64",
+   "https://cbu01.alicdn.com/img/ibank/O1CN0165Qr4i1R0x4sf7879_!!2219962302050-0-cib.jpg"
+  ],
+  [
+   "65",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01ZSuaIA1R0x3akeDZ8_!!2219962302050-0-cib.jpg"
+  ],
+  [
+   "66",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01YJXA3P1R0x3aCl1pY_!!2219962302050-0-cib.jpg"
+  ],
+  [
+   "67",
+   "https://cbu01.alicdn.com/img/ibank/O1CN014UIvzH1R0x3b92uy1_!!2219962302050-0-cib.jpg"
+  ],
+  [
+   "68",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01ym6TzQ1R0x3aClhRy_!!2219962302050-0-cib.jpg"
+  ],
+  [
+   "69",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01Wsg3L91R0x3afmrrZ_!!2219962302050-0-cib.jpg"
+  ],
+  [
+   "70",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01vktAEh1R0x4uB7Coe_!!2219962302050-0-cib.jpg"
+  ],
+  [
+   "71",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01Nt0kaR1R0x4soxXDw_!!2219962302050-0-cib.jpg"
+  ],
+  [
+   "72",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01qbiLNm1R0x4srmFjh_!!2219962302050-0-cib.jpg"
+  ],
+  [
+   "73",
+   "https://cbu01.alicdn.com/img/ibank/O1CN018XV02P1R0x4sSPiC3_!!2219962302050-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "skuPrice",
+ "价格区间": null,
+ "阶梯价_登录后": [
+  {
+   "price": "2.00",
+   "beginAmount": 1
+  },
+  {
+   "price": "9.00",
+   "beginAmount": 1
+  }
+ ],
+ "到手价": null,
+ "起订量": 1,
+ "单位": "条",
+ "可售总量": 6156,
+ "已售": 9294,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01IiDCC31R0x03cSY9N_!!2219962302050-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01WQSrDy1R0x02onHrg_!!2219962302050-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01TjL8Xz1R0x03w2Xom_!!2219962302050-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01xcZ6oX1R0x04dGtgO_!!2219962302050-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01MUVbni1R0x04aFheI_!!2219962302050-0-cib.jpg"
+ ],
+ "商品属性": [
+  "材质:棉",
+  "制作工艺:绣花/提花",
+  "品牌:其他",
+  "吸水性:0-5s",
+  "货号:0000",
+  "纱线规格:21支",
+  "毛巾、巾类细分:方巾",
+  "纱线工艺:无捻纱",
+  "是否支持一件代发:不支持",
+  "克重:30g",
+  "适用人群:通用",
+  "加工定制:否",
+  "加印LOGO:不可以",
+  "系列:其它",
+  "形象:其它",
+  "颜色:挂钩/1/2/3/4/5/6/7/8/16/17/28/29/30/33/34/36/37/38/39/40/41/43/44/45/46/47/48/49/55/56/57/58/59/60/61/62/64/65/66/67/68/69/70/71/72/73",
+  "规格（长*宽cm）:25*25"
+ ],
+ "包装信息": [
+  {
+   "volume": 0,
+   "length": 0,
+   "width": 0,
+   "weight": 30,
+   "height": 0
+  }
+ ],
+ "url": "https://detail.1688.com/offer/940283183489.html",
+ "核页时间": "2026-10-06T15:03:34.825Z"
+}

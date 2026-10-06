@@ -1,0 +1,125 @@
+{
+ "offerId": "740595387363",
+ "条目": "H0222",
+ "block": false,
+ "卖家公司": "义乌市顿系电子商务有限公司",
+ "旺旺名": "和卉堂家居",
+ "标题": "瓷砖地板刷卫生间刷地地缝死角清洁刷浴室厕所洗地金属长柄硬毛刷",
+ "状态": "PUBLISHED",
+ "类目": "其他家务清洁用具",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "颜色",
+   "值": [
+    "V型地板刷-黄绿【刮刷擦一体】",
+    "V型地板刷-米白【刮刷擦一体】",
+    "挂钩"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "V型地板刷-黄绿【刮刷擦一体】",
+   "价格": "6.10",
+   "库存": 1792
+  },
+  {
+   "规格": "V型地板刷-米白【刮刷擦一体】",
+   "价格": "6.10",
+   "库存": 3508
+  },
+  {
+   "规格": "挂钩",
+   "价格": "0.50",
+   "库存": 2253
+  }
+ ],
+ "规格图": [
+  [
+   "V型地板刷-黄绿【刮刷擦一体】",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01gPeOcr2AoYQIXJvMD_!!2212998898250-0-cib.jpg"
+  ],
+  [
+   "V型地板刷-米白【刮刷擦一体】",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01oapCQ32AoYQLihrvk_!!2212998898250-0-cib.jpg"
+  ],
+  [
+   "挂钩",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01Vvurk4uRbNF1chua_!!2212998898250-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "skuPrice",
+ "价格区间": null,
+ "阶梯价_登录后": [
+  {
+   "price": "0.50",
+   "beginAmount": 1
+  },
+  {
+   "price": "6.10",
+   "beginAmount": 1
+  }
+ ],
+ "到手价": null,
+ "起订量": 1,
+ "单位": "件",
+ "可售总量": 7553,
+ "已售": 6082,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01bnmNgo2AoYc39344H_!!2212998898250-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01hEurs72AoYcAaZoGL_!!2212998898250-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01jiHd8y2AoYcAaX3oV_!!2212998898250-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01wj0KXb2AoYc94FdZG_!!2212998898250-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01wFTo4A2AoYQHNDVAJ_!!2212998898250-0-cib.jpg"
+ ],
+ "商品属性": [
+  "材质:金属",
+  "品牌:/",
+  "类别:地板清洁用具",
+  "是否进口:否",
+  "货号:B2612-lcs.",
+  "产地:中国",
+  "箱装数量:其他",
+  "贸易属性:内贸+外贸",
+  "价格段:5-10元",
+  "颜色:V型地板刷-黄绿【刮刷擦一体】/V型地板刷-米白【刮刷擦一体】/挂钩",
+  "是否跨境出口专供货源:否",
+  "是否有专利:否",
+  "刷毛类型:见详情",
+  "适用场景:见详情",
+  "材质（表层）:塑料",
+  "使用方式:见详情"
+ ],
+ "包装信息": [
+  {
+   "volume": 0,
+   "sku1": "V型地板刷-黄绿【刮刷擦一体】",
+   "length": 0,
+   "width": 0,
+   "weight": 300,
+   "skuId": 5988912992831,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "V型地板刷-米白【刮刷擦一体】",
+   "length": 0,
+   "width": 0,
+   "weight": 300,
+   "skuId": 5988912992832,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "挂钩",
+   "length": 0,
+   "width": 0,
+   "weight": 24,
+   "skuId": 6130862912325,
+   "height": 0
+  }
+ ],
+ "url": "https://detail.1688.com/offer/740595387363.html",
+ "核页时间": "2026-10-06T15:45:43.838Z"
+}

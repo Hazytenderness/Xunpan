@@ -1,0 +1,680 @@
+{
+ "offerId": "963258881179",
+ "条目": "H0321",
+ "block": false,
+ "卖家公司": "义乌市雨翼工艺品有限公司",
+ "旺旺名": "雨翼工艺品",
+ "标题": "跨境热销手工编织杯垫办公桌水杯茶杯隔热垫毛线钩针成品礼物批发",
+ "状态": "PUBLISHED",
+ "类目": "餐垫、杯垫",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "规格",
+   "值": [
+    "HK-1爱心",
+    "HK-2苹果",
+    "HK-3圣诞老人",
+    "HK-5圣诞老人",
+    "HK-6花垫",
+    "HK-7姜饼人",
+    "HK-8圣诞帽",
+    "HK-9雪花",
+    "HK-10雪人",
+    "HK-11花垫",
+    "HK-12猫咪",
+    "HK-13雅白垫",
+    "小羊",
+    "HK-14大头姜饼人",
+    "HK-15兔子",
+    "HK-16小熊",
+    "HK-17鸭子",
+    "HK-18鹿头",
+    "HK-19蓝色爱心",
+    "HK-20橙色爱心",
+    "HK-21粉色爱心",
+    "HK-22白阳",
+    "HK-23六色",
+    "HK-25彩色",
+    "HK-26方格",
+    "HK-27方形",
+    "HK-28橙三色",
+    "HK-29绿三色",
+    "HK-30吉祥结",
+    "HK-31企鹅",
+    "HK-32绿双色",
+    "HK-33粉双色"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "HK-32绿双色",
+   "价格": "3.70",
+   "库存": 9981
+  },
+  {
+   "规格": "HK-27方形",
+   "价格": "4.00",
+   "库存": 9992
+  },
+  {
+   "规格": "HK-3圣诞老人",
+   "价格": "3.00",
+   "库存": 9011
+  },
+  {
+   "规格": "HK-29绿三色",
+   "价格": "4.50",
+   "库存": 9994
+  },
+  {
+   "规格": "HK-20橙色爱心",
+   "价格": "3.70",
+   "库存": 9997
+  },
+  {
+   "规格": "HK-13雅白垫",
+   "价格": "3.70",
+   "库存": 9830
+  },
+  {
+   "规格": "HK-2苹果",
+   "价格": "3.00",
+   "库存": 7545
+  },
+  {
+   "规格": "HK-21粉色爱心",
+   "价格": "3.70",
+   "库存": 9980
+  },
+  {
+   "规格": "小羊",
+   "价格": "3.50",
+   "库存": 9555
+  },
+  {
+   "规格": "HK-12猫咪",
+   "价格": "2.40",
+   "库存": 9976
+  },
+  {
+   "规格": "HK-30吉祥结",
+   "价格": "5.50",
+   "库存": 9994
+  },
+  {
+   "规格": "HK-16小熊",
+   "价格": "3.50",
+   "库存": 9981
+  },
+  {
+   "规格": "HK-17鸭子",
+   "价格": "3.50",
+   "库存": 9899
+  },
+  {
+   "规格": "HK-33粉双色",
+   "价格": "3.70",
+   "库存": 9991
+  },
+  {
+   "规格": "HK-9雪花",
+   "价格": "2.20",
+   "库存": 6004
+  },
+  {
+   "规格": "HK-31企鹅",
+   "价格": "4.00",
+   "库存": 9997
+  },
+  {
+   "规格": "HK-19蓝色爱心",
+   "价格": "3.70",
+   "库存": 9980
+  },
+  {
+   "规格": "HK-28橙三色",
+   "价格": "4.50",
+   "库存": 9994
+  },
+  {
+   "规格": "HK-14大头姜饼人",
+   "价格": "5.00",
+   "库存": 9722
+  },
+  {
+   "规格": "HK-11花垫",
+   "价格": "4.00",
+   "库存": 9957
+  },
+  {
+   "规格": "HK-6花垫",
+   "价格": "9.00",
+   "库存": 9969
+  },
+  {
+   "规格": "HK-18鹿头",
+   "价格": "3.00",
+   "库存": 9052
+  },
+  {
+   "规格": "HK-10雪人",
+   "价格": "5.00",
+   "库存": 8695
+  },
+  {
+   "规格": "HK-23六色",
+   "价格": "3.90",
+   "库存": 9992
+  },
+  {
+   "规格": "HK-5圣诞老人",
+   "价格": "2.20",
+   "库存": 39613
+  },
+  {
+   "规格": "HK-26方格",
+   "价格": "4.00",
+   "库存": 9996
+  },
+  {
+   "规格": "HK-25彩色",
+   "价格": "3.90",
+   "库存": 9992
+  },
+  {
+   "规格": "HK-1爱心",
+   "价格": "3.50",
+   "库存": 8547
+  },
+  {
+   "规格": "HK-8圣诞帽",
+   "价格": "5.00",
+   "库存": 8952
+  },
+  {
+   "规格": "HK-22白阳",
+   "价格": "4.50",
+   "库存": 9996
+  },
+  {
+   "规格": "HK-15兔子",
+   "价格": "3.50",
+   "库存": 9985
+  },
+  {
+   "规格": "HK-7姜饼人",
+   "价格": "5.00",
+   "库存": 8969
+  }
+ ],
+ "规格图": [
+  [
+   "HK-1爱心",
+   "https://cbu01.alicdn.com/img/ibank/O1CN015g6xEM1mj13W9ebUB_!!2220014904989-0-cib.jpg"
+  ],
+  [
+   "HK-2苹果",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01JfeQfc1mj13UBZAFU_!!2220014904989-0-cib.jpg"
+  ],
+  [
+   "HK-3圣诞老人",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01uU6mvz1mj14E6Rxy2_!!2220014904989-0-cib.jpg"
+  ],
+  [
+   "HK-5圣诞老人",
+   "https://cbu01.alicdn.com/img/ibank/O1CN010m9Grn1mj13VcSNLF_!!2220014904989-0-cib.jpg"
+  ],
+  [
+   "HK-6花垫",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01TIj9sE1mj13WD0SnI_!!2220014904989-0-cib.jpg"
+  ],
+  [
+   "HK-7姜饼人",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01ue39bv1mj13UfOeqI_!!2220014904989-0-cib.jpg"
+  ],
+  [
+   "HK-8圣诞帽",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01qf3GIt1mj13W9fLIL_!!2220014904989-0-cib.jpg"
+  ],
+  [
+   "HK-9雪花",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01IkknTR1mj13WHla5J_!!2220014904989-0-cib.jpg"
+  ],
+  [
+   "HK-10雪人",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01iNtw3A1mj13WHmim9_!!2220014904989-0-cib.jpg"
+  ],
+  [
+   "HK-11花垫",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01Evr18g1mj13UBZV89_!!2220014904989-0-cib.jpg"
+  ],
+  [
+   "HK-12猫咪",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01r5WP5v1mj13UBbJN3_!!2220014904989-0-cib.jpg"
+  ],
+  [
+   "HK-13雅白垫",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01WRfzVn1mj144hZSYI_!!2220014904989-0-cib.jpg"
+  ],
+  [
+   "小羊",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01F7bKGp1mj14asz7iC_!!2220014904989-0-cib.jpg"
+  ],
+  [
+   "HK-14大头姜饼人",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01NuEkvK1mj14nwmIVE_!!2220014904989-0-cib.jpg"
+  ],
+  [
+   "HK-15兔子",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01xTM5b71mj14moQ0bo_!!2220014904989-0-cib.jpg"
+  ],
+  [
+   "HK-16小熊",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01g9Lmvi1mj14nYv3V1_!!2220014904989-0-cib.jpg"
+  ],
+  [
+   "HK-17鸭子",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01F9T8TO1mj14nJNWu6_!!2220014904989-0-cib.jpg"
+  ],
+  [
+   "HK-18鹿头",
+   "https://cbu01.alicdn.com/img/ibank/O1CN017j7ltY1mj14nrX6qJ_!!2220014904989-0-cib.jpg"
+  ],
+  [
+   "HK-19蓝色爱心",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01FBmHY01mj152CaxNg_!!2220014904989-0-cib.jpg"
+  ],
+  [
+   "HK-20橙色爱心",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01YHsvvm1mj151N7ex4_!!2220014904989-0-cib.jpg"
+  ],
+  [
+   "HK-21粉色爱心",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01Vg6Pks1mj151U0jio_!!2220014904989-0-cib.jpg"
+  ],
+  [
+   "HK-22白阳",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01yYrVpy1mj151YSede_!!2220014904989-0-cib.jpg"
+  ],
+  [
+   "HK-23六色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01DCh1VS1mj151YTON4_!!2220014904989-0-cib.jpg"
+  ],
+  [
+   "HK-25彩色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01gtTsiP1mj152CbMM7_!!2220014904989-0-cib.jpg"
+  ],
+  [
+   "HK-26方格",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01T9fjKB1mj152CbQWi_!!2220014904989-0-cib.jpg"
+  ],
+  [
+   "HK-27方形",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01uFdaVR1mj151rwwoJ_!!2220014904989-0-cib.jpg"
+  ],
+  [
+   "HK-28橙三色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01vWzaMd1mj151FEoPr_!!2220014904989-0-cib.jpg"
+  ],
+  [
+   "HK-29绿三色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01BsWbXv1mj151YTjAY_!!2220014904989-0-cib.jpg"
+  ],
+  [
+   "HK-30吉祥结",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01Wgd8QH1mj151DX4Dg_!!2220014904989-0-cib.jpg"
+  ],
+  [
+   "HK-31企鹅",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01JgQMEY1mj151YVo5X_!!2220014904989-0-cib.jpg"
+  ],
+  [
+   "HK-32绿双色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01Td85kh1mj151Abb1p_!!2220014904989-0-cib.jpg"
+  ],
+  [
+   "HK-33粉双色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01QEpNg21mj150Vm0gE_!!2220014904989-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "skuPrice",
+ "价格区间": "2.20-9.00",
+ "阶梯价_登录后": [
+  {
+   "price": "2.20",
+   "beginAmount": 1
+  },
+  {
+   "price": "9.00",
+   "beginAmount": 1
+  }
+ ],
+ "到手价": {
+  "价": "1.2",
+  "说明": "新人价",
+  "件数": 1
+ },
+ "起订量": 1,
+ "单位": "件",
+ "可售总量": 335138,
+ "已售": 51201,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01lOa80I1mj17r5m1tW_!!2220014904989-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01ue39bv1mj13UfOeqI_!!2220014904989-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01iNtw3A1mj13WHmim9_!!2220014904989-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN010m9Grn1mj13VcSNLF_!!2220014904989-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN013RoyBx1mj13VlNun7_!!2220014904989-0-cib.jpg"
+ ],
+ "商品属性": [
+  "材质:毛线",
+  "品牌:雨翼",
+  "形状:圆形/方形/不规则形",
+  "产品质量等级:合格品",
+  "风格:北欧风",
+  "是否进口:否",
+  "货号:HK",
+  "图案:卡通",
+  "产品上市时间:2024夏",
+  "价格段:10-20元",
+  "产地:义乌",
+  "是否有专利:无",
+  "是否跨境出口专供货源:否",
+  "规格:HK-1爱心/HK-2苹果/HK-3圣诞老人/HK-5圣诞老人/HK-6花垫/HK-7姜饼人/HK-8圣诞帽/HK-9雪花/HK-10雪人/HK-11花垫/HK-12猫咪/HK-13雅白垫/小羊/HK-14大头姜饼人/HK-15兔子/HK-16小熊/HK-17鸭子/HK-18鹿头/HK-19蓝色爱心/HK-20橙色爱心/HK-21粉色爱心/HK-22白阳/HK-23六色/HK-25彩色/HK-26方格/HK-27方形/HK-28橙三色/HK-29绿三色/HK-30吉祥结/HK-31企鹅/HK-32绿双色/HK-33粉双色",
+  "是否插电:否",
+  "是否可降解:不可"
+ ],
+ "包装信息": [
+  {
+   "volume": 84.5,
+   "sku1": "HK-1爱心",
+   "length": 13,
+   "width": 13,
+   "weight": 13,
+   "skuId": 6085187355669,
+   "height": 0.5
+  },
+  {
+   "volume": 60.5,
+   "sku1": "HK-2苹果",
+   "length": 11,
+   "width": 11,
+   "weight": 10,
+   "skuId": 6085187355670,
+   "height": 0.5
+  },
+  {
+   "volume": 72,
+   "sku1": "HK-3圣诞老人",
+   "length": 12,
+   "width": 12,
+   "weight": 11,
+   "skuId": 6085187355671,
+   "height": 0.5
+  },
+  {
+   "volume": 50,
+   "sku1": "HK-5圣诞老人",
+   "length": 10,
+   "width": 10,
+   "weight": 10,
+   "skuId": 6085187355661,
+   "height": 0.5
+  },
+  {
+   "volume": 98,
+   "sku1": "HK-6花垫",
+   "length": 14,
+   "width": 14,
+   "weight": 25,
+   "skuId": 6085187355662,
+   "height": 0.5
+  },
+  {
+   "volume": 35.75,
+   "sku1": "HK-7姜饼人",
+   "length": 11,
+   "width": 6.5,
+   "weight": 8,
+   "skuId": 6085187355663,
+   "height": 0.5
+  },
+  {
+   "volume": 98,
+   "sku1": "HK-8圣诞帽",
+   "length": 14,
+   "width": 14,
+   "weight": 16,
+   "skuId": 6085187355664,
+   "height": 0.5
+  },
+  {
+   "volume": 98,
+   "sku1": "HK-9雪花",
+   "length": 14,
+   "width": 14,
+   "weight": 15,
+   "skuId": 6085187355665,
+   "height": 0.5
+  },
+  {
+   "volume": 60.5,
+   "sku1": "HK-10雪人",
+   "length": 11,
+   "width": 11,
+   "weight": 10,
+   "skuId": 6085187355666,
+   "height": 0.5
+  },
+  {
+   "volume": 72,
+   "sku1": "HK-11花垫",
+   "length": 12,
+   "width": 12,
+   "weight": 10,
+   "skuId": 6085187355667,
+   "height": 0.5
+  },
+  {
+   "volume": 50,
+   "sku1": "HK-12猫咪",
+   "length": 10,
+   "width": 10,
+   "weight": 8,
+   "skuId": 6085187355668,
+   "height": 0.5
+  },
+  {
+   "volume": 50,
+   "sku1": "HK-13雅白垫",
+   "length": 10,
+   "width": 10,
+   "weight": 35,
+   "skuId": 5940529572474,
+   "height": 0.5
+  },
+  {
+   "volume": 60.5,
+   "sku1": "小羊",
+   "length": 11,
+   "width": 11,
+   "weight": 15,
+   "skuId": 5958370472020,
+   "height": 0.5
+  },
+  {
+   "volume": 40,
+   "sku1": "HK-14大头姜饼人",
+   "length": 10,
+   "width": 8,
+   "weight": 8,
+   "skuId": 5970477217866,
+   "height": 0.5
+  },
+  {
+   "volume": 60.5,
+   "sku1": "HK-15兔子",
+   "length": 11,
+   "width": 11,
+   "weight": 11,
+   "skuId": 5970477217867,
+   "height": 0.5
+  },
+  {
+   "volume": 60.5,
+   "sku1": "HK-16小熊",
+   "length": 11,
+   "width": 11,
+   "weight": 11,
+   "skuId": 5970477217868,
+   "height": 0.5
+  },
+  {
+   "volume": 60.5,
+   "sku1": "HK-17鸭子",
+   "length": 11,
+   "width": 11,
+   "weight": 11,
+   "skuId": 5970477217864,
+   "height": 0.5
+  },
+  {
+   "volume": 40.5,
+   "sku1": "HK-18鹿头",
+   "length": 9,
+   "width": 9,
+   "weight": 10,
+   "skuId": 5970477217865,
+   "height": 0.5
+  },
+  {
+   "volume": 135,
+   "sku1": "HK-19蓝色爱心",
+   "length": 18,
+   "width": 15,
+   "weight": 25,
+   "skuId": 6147556274947,
+   "height": 0.5
+  },
+  {
+   "volume": 135,
+   "sku1": "HK-20橙色爱心",
+   "length": 18,
+   "width": 15,
+   "weight": 25,
+   "skuId": 6147556274946,
+   "height": 0.5
+  },
+  {
+   "volume": 135,
+   "sku1": "HK-21粉色爱心",
+   "length": 18,
+   "width": 15,
+   "weight": 25,
+   "skuId": 6147556274945,
+   "height": 0.5
+  },
+  {
+   "volume": 162,
+   "sku1": "HK-22白阳",
+   "length": 18,
+   "width": 18,
+   "weight": 25,
+   "skuId": 6147556274950,
+   "height": 0.5
+  },
+  {
+   "volume": 112.5,
+   "sku1": "HK-23六色",
+   "length": 15,
+   "width": 15,
+   "weight": 30,
+   "skuId": 6147556274951,
+   "height": 0.5
+  },
+  {
+   "volume": 112.5,
+   "sku1": "HK-25彩色",
+   "length": 15,
+   "width": 15,
+   "weight": 30,
+   "skuId": 6147556274952,
+   "height": 0.5
+  },
+  {
+   "volume": 144.5,
+   "sku1": "HK-26方格",
+   "length": 17,
+   "width": 17,
+   "weight": 40,
+   "skuId": 6147556274955,
+   "height": 0.5
+  },
+  {
+   "volume": 112.5,
+   "sku1": "HK-27方形",
+   "length": 15,
+   "width": 15,
+   "weight": 20,
+   "skuId": 6147556274948,
+   "height": 0.5
+  },
+  {
+   "volume": 128,
+   "sku1": "HK-28橙三色",
+   "length": 16,
+   "width": 16,
+   "weight": 25,
+   "skuId": 6147556274954,
+   "height": 0.5
+  },
+  {
+   "volume": 128,
+   "sku1": "HK-29绿三色",
+   "length": 16,
+   "width": 16,
+   "weight": 25,
+   "skuId": 6147556274956,
+   "height": 0.5
+  },
+  {
+   "volume": 60.5,
+   "sku1": "HK-30吉祥结",
+   "length": 11,
+   "width": 11,
+   "weight": 15,
+   "skuId": 6147556274957,
+   "height": 0.5
+  },
+  {
+   "volume": 112.5,
+   "sku1": "HK-31企鹅",
+   "length": 15,
+   "width": 15,
+   "weight": 25,
+   "skuId": 6147556274958,
+   "height": 0.5
+  },
+  {
+   "volume": 98,
+   "sku1": "HK-32绿双色",
+   "length": 14,
+   "width": 14,
+   "weight": 20,
+   "skuId": 6147556274949,
+   "height": 0.5
+  },
+  {
+   "volume": 98,
+   "sku1": "HK-33粉双色",
+   "length": 14,
+   "width": 14,
+   "weight": 20,
+   "skuId": 6147556274953,
+   "height": 0.5
+  }
+ ],
+ "url": "https://detail.1688.com/offer/963258881179.html",
+ "核页时间": "2026-10-06T16:17:32.263Z"
+}

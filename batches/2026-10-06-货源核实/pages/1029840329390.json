@@ -1,0 +1,100 @@
+{
+ "offerId": "1029840329390",
+ "条目": "H0994",
+ "block": false,
+ "卖家公司": "义乌市天瞬日用品有限公司",
+ "旺旺名": "天瞬日用百货",
+ "标题": "多功能沥水篮家用厨房洗水果淘米筛大容量带滤水设计轻奢果盘批量",
+ "状态": "PUBLISHED",
+ "类目": "沥水篮、盆",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "颜色",
+   "值": [
+    "PP沥水盆 【白色】",
+    "PP沥水盆 【灰色】"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "PP沥水盆 【灰色】",
+   "价格": null,
+   "库存": 346324468
+  },
+  {
+   "规格": "PP沥水盆 【白色】",
+   "价格": null,
+   "库存": 462996274
+  }
+ ],
+ "规格图": [
+  [
+   "PP沥水盆 【白色】",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01420UT527HdGHaHg27_!!2219432227772-0-cib.jpg"
+  ],
+  [
+   "PP沥水盆 【灰色】",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01T5KX9527HdGJNqT89_!!2219432227772-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "rangePrice",
+ "价格区间": null,
+ "阶梯价_登录后": [
+  {
+   "price": "0.99",
+   "beginAmount": 1
+  },
+  {
+   "price": "0.95",
+   "beginAmount": 360
+  },
+  {
+   "price": "0.90",
+   "beginAmount": 3600
+  }
+ ],
+ "到手价": null,
+ "起订量": 1,
+ "单位": "件",
+ "可售总量": 809320742,
+ "已售": 278398,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN010vfIdu1StHf7txn6n_!!2219098382304-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN011P70RY1StHf8ILzKQ_!!2219098382304-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01vkC9UB1StHf7dPXBm_!!2219098382304-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01YKG6Xc1StHf7sV0Fl_!!2219098382304-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01fVZB6K1StHf7dD33U_!!2219098382304-0-cib.jpg"
+ ],
+ "商品属性": [
+  "材质:塑料",
+  "功能:多功能",
+  "品牌:OTHER",
+  "款式:基础款",
+  "产地:东阳",
+  "货号:多功能滤水篮",
+  "价格段:1元以内",
+  "是否有专利:否",
+  "原产国/地区:中国",
+  "规格:24.5*19.4*10",
+  "是否进口:否",
+  "颜色:PP沥水盆 【白色】/PP沥水盆 【灰色】",
+  "是否跨境出口专供货源:是",
+  "风格:现代简约",
+  "主要销售地区:非洲/欧洲/南美/东南亚/北美/东北亚/中东/其他",
+  "主要下游平台:ebay/亚马逊/wish/速卖通/独立站/LAZADA/其他",
+  "有可授权的自有品牌:是"
+ ],
+ "包装信息": [
+  {
+   "volume": 0,
+   "length": 0,
+   "width": 0,
+   "weight": 500,
+   "height": 0
+  }
+ ],
+ "url": "https://detail.1688.com/offer/1029840329390.html",
+ "核页时间": "2026-10-06T19:28:04.362Z"
+}

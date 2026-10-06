@@ -1,0 +1,146 @@
+{
+ "offerId": "999748287702",
+ "条目": "H0794",
+ "block": false,
+ "卖家公司": "义乌市韵净日用品厂",
+ "旺旺名": "义乌市韵净日用品厂",
+ "标题": "刷地神器厕所二合一浴室死角清洁卫生间地板地缝长柄厕所刷神器",
+ "状态": "PUBLISHED",
+ "类目": "家务/地板清洁用具",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "颜色分类",
+   "值": [
+    "地刷23cm两节杆",
+    "地刷23cm三节杆",
+    "地刷33cm两节杆",
+    "地刷33cm三节杆"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "地刷33cm三节杆",
+   "价格": "5.90",
+   "库存": 85871
+  },
+  {
+   "规格": "地刷23cm两节杆",
+   "价格": "3.90",
+   "库存": 48731
+  },
+  {
+   "规格": "地刷33cm两节杆",
+   "价格": "5.60",
+   "库存": 58577
+  },
+  {
+   "规格": "地刷23cm三节杆",
+   "价格": "4.30",
+   "库存": 56784
+  }
+ ],
+ "规格图": [
+  [
+   "地刷23cm两节杆",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01g3c47b2H2C8hlGYbR_!!2221245789092-0-cib.jpg"
+  ],
+  [
+   "地刷23cm三节杆",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01AoQzTi2H2C8ho9roW_!!2221245789092-0-cib.jpg"
+  ],
+  [
+   "地刷33cm两节杆",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01iB7L5G2H2C8i7DjBA_!!2221245789092-0-cib.jpg"
+  ],
+  [
+   "地刷33cm三节杆",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01ir7pZo2H2C8hlIyMC_!!2221245789092-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "skuPrice",
+ "价格区间": "3.90-5.90",
+ "阶梯价_登录后": [
+  {
+   "price": "3.90",
+   "beginAmount": 1
+  },
+  {
+   "price": "5.90",
+   "beginAmount": 1
+  }
+ ],
+ "到手价": {
+  "价": "2.9",
+  "说明": "新人价",
+  "件数": 1
+ },
+ "起订量": 1,
+ "单位": "套",
+ "可售总量": 249963,
+ "已售": 1887,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01dNDZJW2H2C8j8tK6Z_!!2221245789092-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN010Tngv92H2C8i6wXZl_!!2221245789092-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN0102fTC52H2C8hQhKX7_!!2221245789092-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01JBbXG12H2C8hnl5zu_!!2221245789092-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01EEFvlH2H2C8iDwtHz_!!2221245789092-0-cib.jpg"
+ ],
+ "商品属性": [
+  "品牌:诚易嘉",
+  "是否进口:否",
+  "品牌类型:国货品牌",
+  "货号:地板刷",
+  "净含量:200ml",
+  "毛重:240",
+  "产地:河南商丘",
+  "香型:无香型",
+  "箱装数量:100",
+  "适用范围:地板清洁",
+  "包装种类:op袋",
+  "物理形态:地刷",
+  "是否跨境出口专供货源:否",
+  "颜色分类:地刷23cm两节杆/地刷23cm三节杆/地刷33cm两节杆/地刷33cm三节杆"
+ ],
+ "包装信息": [
+  {
+   "volume": 6256,
+   "sku1": "地刷23cm两节杆",
+   "length": 23,
+   "width": 34,
+   "weight": 240,
+   "skuId": 5987209088856,
+   "height": 8
+  },
+  {
+   "volume": 6256,
+   "sku1": "地刷23cm三节杆",
+   "length": 23,
+   "width": 34,
+   "weight": 250,
+   "skuId": 5987209088857,
+   "height": 8
+  },
+  {
+   "volume": 8976,
+   "sku1": "地刷33cm两节杆",
+   "length": 33,
+   "width": 34,
+   "weight": 280,
+   "skuId": 5987209088858,
+   "height": 8
+  },
+  {
+   "volume": 8976,
+   "sku1": "地刷33cm三节杆",
+   "length": 33,
+   "width": 34,
+   "weight": 290280,
+   "skuId": 5987209088859,
+   "height": 8
+  }
+ ],
+ "url": "https://detail.1688.com/offer/999748287702.html",
+ "核页时间": "2026-10-06T18:28:47.479Z"
+}

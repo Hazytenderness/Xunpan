@@ -1,0 +1,193 @@
+{
+ "offerId": "709417455333",
+ "条目": "H0710",
+ "block": false,
+ "卖家公司": "中山市京业电器有限公司",
+ "旺旺名": "jingye8899",
+ "标题": "京业水族箱养鱼充氧泵增氧泵鱼缸增氧机双孔氧气泵供氧节能静音",
+ "状态": "PUBLISHED",
+ "类目": "水族增氧泵",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "颜色",
+   "值": [
+    "【节能静音】YE-333裸泵3W",
+    "【节能静音】YE-333气石3W",
+    "【节能静音】YE-333气盘3W",
+    "【节能静音】YE-666裸泵7W",
+    "【节能静音】YE-666气石7W",
+    "【节能静音】YE-666气盘7W",
+    "【节能静音】YE-666纳米7W"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "【节能静音】YE-333气石3W",
+   "价格": "11.60",
+   "库存": 9878
+  },
+  {
+   "规格": "【节能静音】YE-666纳米7W",
+   "价格": "55.00",
+   "库存": 9976
+  },
+  {
+   "规格": "【节能静音】YE-333裸泵3W",
+   "价格": "9.30",
+   "库存": 9822
+  },
+  {
+   "规格": "【节能静音】YE-333气盘3W",
+   "价格": "12.20",
+   "库存": 9787
+  },
+  {
+   "规格": "【节能静音】YE-666裸泵7W",
+   "价格": "33.20",
+   "库存": 9957
+  },
+  {
+   "规格": "【节能静音】YE-666气石7W",
+   "价格": "36.10",
+   "库存": 9960
+  },
+  {
+   "规格": "【节能静音】YE-666气盘7W",
+   "价格": "37.20",
+   "库存": 9970
+  }
+ ],
+ "规格图": [
+  [
+   "【节能静音】YE-333裸泵3W",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01OmwlTr26BO25HNeXJ_!!2215357137623-0-cib.jpg"
+  ],
+  [
+   "【节能静音】YE-333气石3W",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01tW2kwY26BO3r3TbHZ_!!2215357137623-0-cib.jpg"
+  ],
+  [
+   "【节能静音】YE-333气盘3W",
+   "https://cbu01.alicdn.com/img/ibank/O1CN011b0lPN26BO3jogeAy_!!2215357137623-0-cib.jpg"
+  ],
+  [
+   "【节能静音】YE-666裸泵7W",
+   "https://cbu01.alicdn.com/img/ibank/O1CN014XmIFH26BO21einmC_!!2215357137623-0-cib.jpg"
+  ],
+  [
+   "【节能静音】YE-666气石7W",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01JiRPod26BO3joh7IO_!!2215357137623-0-cib.jpg"
+  ],
+  [
+   "【节能静音】YE-666气盘7W",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01HUtXhm26BO3nfdTvS_!!2215357137623-0-cib.jpg"
+  ],
+  [
+   "【节能静音】YE-666纳米7W",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01XAw5v226BO3k354DN_!!2215357137623-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "skuPrice",
+ "价格区间": "9.30-55.00",
+ "阶梯价_登录后": [
+  {
+   "price": "9.30",
+   "beginAmount": 1
+  },
+  {
+   "price": "55.00",
+   "beginAmount": 24
+  }
+ ],
+ "到手价": null,
+ "起订量": 24,
+ "单位": "台",
+ "可售总量": 69350,
+ "已售": 291,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN014avgfB4B45J1chua_!!2215357137623-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01hhcVpn26BO288wMeW_!!2215357137623-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01iLLMh226BO1utGscp_!!2215357137623-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01QWff8226BO21emYkp_!!2215357137623-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01ryBgeq26BO25crTGq_!!2215357137623-0-cib.jpg"
+ ],
+ "商品属性": [
+  "品牌:京业",
+  "货号:YE-999",
+  "是否进口:否",
+  "是否专利货源:否",
+  "重量:1KG",
+  "颜色:【节能静音】YE-333裸泵3W/【节能静音】YE-333气石3W/【节能静音】YE-333气盘3W/【节能静音】YE-666裸泵7W/【节能静音】YE-666气石7W/【节能静音】YE-666气盘7W/【节能静音】YE-666纳米7W",
+  "是否跨境出口专供货源:否",
+  "插头规格:中规"
+ ],
+ "包装信息": [
+  {
+   "volume": 455.52,
+   "sku1": "【节能静音】YE-333裸泵3W",
+   "length": 7.3,
+   "width": 5.2,
+   "weight": 130,
+   "skuId": 4977645665141,
+   "height": 12
+  },
+  {
+   "volume": 455.52,
+   "sku1": "【节能静音】YE-333气石3W",
+   "length": 7.3,
+   "width": 5.2,
+   "weight": 180,
+   "skuId": 5031342608896,
+   "height": 12
+  },
+  {
+   "volume": 455.52,
+   "sku1": "【节能静音】YE-333气盘3W",
+   "length": 7.3,
+   "width": 5.2,
+   "weight": 200,
+   "skuId": 5031342608895,
+   "height": 12
+  },
+  {
+   "volume": 3236.4,
+   "sku1": "【节能静音】YE-666裸泵7W",
+   "length": 23.2,
+   "width": 15.5,
+   "weight": 850,
+   "skuId": 4977645665143,
+   "height": 9
+  },
+  {
+   "volume": 3236.4,
+   "sku1": "【节能静音】YE-666气石7W",
+   "length": 23.2,
+   "width": 15.5,
+   "weight": 950,
+   "skuId": 5031342608907,
+   "height": 9
+  },
+  {
+   "volume": 3236.4,
+   "sku1": "【节能静音】YE-666气盘7W",
+   "length": 23.2,
+   "width": 15.5,
+   "weight": 990,
+   "skuId": 5031342608908,
+   "height": 9
+  },
+  {
+   "volume": 3236.4,
+   "sku1": "【节能静音】YE-666纳米7W",
+   "length": 23.2,
+   "width": 15.5,
+   "weight": 1048,
+   "skuId": 5031342608897,
+   "height": 9
+  }
+ ],
+ "url": "https://detail.1688.com/offer/709417455333.html",
+ "核页时间": "2026-10-06T18:05:30.664Z"
+}

@@ -1,0 +1,301 @@
+{
+ "offerId": "965297576417",
+ "条目": "H0413",
+ "block": false,
+ "卖家公司": "曹县富铭皓工艺品有限公司",
+ "旺旺名": "富铭皓工艺品有限公司",
+ "标题": "蒲草草编餐垫隔热垫杯垫碗垫餐厅装饰垫子西餐垫日式桌垫圆形坐垫",
+ "状态": "PUBLISHED",
+ "类目": "餐垫、杯垫",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "颜色",
+   "值": [
+    "圆形直径11*11cm",
+    "圆形直径15*15cm",
+    "圆形直径20*20cm",
+    "圆形直径25*25cm",
+    "圆形直径30*30cm",
+    "圆形直径33*33cm",
+    "圆形直径35*35cm",
+    "圆形直径38*38cm",
+    "圆形直径40*40cm",
+    "圆形直径45*45cm",
+    "圆形直径50*50cm",
+    "椭圆形30*40cm"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "圆形直径25*25cm",
+   "价格": "2.60",
+   "库存": 6464
+  },
+  {
+   "规格": "椭圆形30*40cm",
+   "价格": "4.50",
+   "库存": 3552
+  },
+  {
+   "规格": "圆形直径38*38cm",
+   "价格": "4.50",
+   "库存": 5697
+  },
+  {
+   "规格": "圆形直径40*40cm",
+   "价格": "5.50",
+   "库存": 4413
+  },
+  {
+   "规格": "圆形直径11*11cm",
+   "价格": "0.90",
+   "库存": 15356
+  },
+  {
+   "规格": "圆形直径35*35cm",
+   "价格": "4.00",
+   "库存": 3495
+  },
+  {
+   "规格": "圆形直径20*20cm",
+   "价格": "2.00",
+   "库存": 4798
+  },
+  {
+   "规格": "圆形直径15*15cm",
+   "价格": "1.50",
+   "库存": 7864
+  },
+  {
+   "规格": "圆形直径50*50cm",
+   "价格": "6.80",
+   "库存": 5793
+  },
+  {
+   "规格": "圆形直径33*33cm",
+   "价格": "3.60",
+   "库存": 4869
+  },
+  {
+   "规格": "圆形直径45*45cm",
+   "价格": "6.00",
+   "库存": 5926
+  },
+  {
+   "规格": "圆形直径30*30cm",
+   "价格": "3.00",
+   "库存": 6597
+  }
+ ],
+ "规格图": [
+  [
+   "圆形直径11*11cm",
+   "https://cbu01.alicdn.com/img/ibank/O1CN010JNpPQ22uxELdstcI_!!2220401597181-0-cib.jpg"
+  ],
+  [
+   "圆形直径15*15cm",
+   "https://cbu01.alicdn.com/img/ibank/O1CN010JNpPQ22uxELdstcI_!!2220401597181-0-cib.jpg"
+  ],
+  [
+   "圆形直径20*20cm",
+   "https://cbu01.alicdn.com/img/ibank/O1CN010JNpPQ22uxELdstcI_!!2220401597181-0-cib.jpg"
+  ],
+  [
+   "圆形直径25*25cm",
+   "https://cbu01.alicdn.com/img/ibank/O1CN010JNpPQ22uxELdstcI_!!2220401597181-0-cib.jpg"
+  ],
+  [
+   "圆形直径30*30cm",
+   "https://cbu01.alicdn.com/img/ibank/O1CN010JNpPQ22uxELdstcI_!!2220401597181-0-cib.jpg"
+  ],
+  [
+   "圆形直径33*33cm",
+   "https://cbu01.alicdn.com/img/ibank/O1CN010JNpPQ22uxELdstcI_!!2220401597181-0-cib.jpg"
+  ],
+  [
+   "圆形直径35*35cm",
+   "https://cbu01.alicdn.com/img/ibank/O1CN010JNpPQ22uxELdstcI_!!2220401597181-0-cib.jpg"
+  ],
+  [
+   "圆形直径38*38cm",
+   "https://cbu01.alicdn.com/img/ibank/O1CN010JNpPQ22uxELdstcI_!!2220401597181-0-cib.jpg"
+  ],
+  [
+   "圆形直径40*40cm",
+   "https://cbu01.alicdn.com/img/ibank/O1CN010JNpPQ22uxELdstcI_!!2220401597181-0-cib.jpg"
+  ],
+  [
+   "圆形直径45*45cm",
+   "https://cbu01.alicdn.com/img/ibank/O1CN010JNpPQ22uxELdstcI_!!2220401597181-0-cib.jpg"
+  ],
+  [
+   "圆形直径50*50cm",
+   "https://cbu01.alicdn.com/img/ibank/O1CN010JNpPQ22uxELdstcI_!!2220401597181-0-cib.jpg"
+  ],
+  [
+   "椭圆形30*40cm",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01sOJ7jN22uxEt4nwN6_!!2220401597181-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "skuPrice",
+ "价格区间": null,
+ "阶梯价_登录后": [
+  {
+   "price": "0.90",
+   "beginAmount": 1
+  },
+  {
+   "price": "6.80",
+   "beginAmount": 1
+  }
+ ],
+ "到手价": null,
+ "起订量": 1,
+ "单位": "件",
+ "可售总量": 74824,
+ "已售": 100539,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01mUjApP22uxENGeeYp_!!2220401597181-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN010JNpPQ22uxELdstcI_!!2220401597181-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01FJSYBs22uxELe8bbv_!!2220401597181-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01vq8Koj22uxELzHK7b_!!2220401597181-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01VdgvXl22uxEVjHfDg_!!2220401597181-0-cib.jpg"
+ ],
+ "商品属性": [
+  "材质:草",
+  "品牌:其他",
+  "形状:圆形",
+  "产品质量等级:合格品",
+  "风格:日式风",
+  "是否进口:否",
+  "货号:CMFXrJRf",
+  "图案:纯色",
+  "产品上市时间:2020年夏",
+  "价格段:5-10元",
+  "产地:其他",
+  "是否有专利:无",
+  "颜色:圆形直径11*11cm/圆形直径15*15cm/圆形直径20*20cm/圆形直径25*25cm/圆形直径30*30cm/圆形直径33*33cm/圆形直径35*35cm/圆形直径38*38cm/圆形直径40*40cm/圆形直径45*45cm/圆形直径50*50cm/椭圆形30*40cm",
+  "颜色:圆形直径11*11cm",
+  "主要下游平台:ebay/亚马逊/wish/速卖通/独立站/LAZADA",
+  "主要销售地区:欧洲/北美",
+  "有可授权的自有品牌:否",
+  "是否跨境出口专供货源:是",
+  "是否插电:否",
+  "是否可降解:否",
+  "产品编号:25968"
+ ],
+ "包装信息": [
+  {
+   "volume": 96.8,
+   "sku1": "圆形直径11*11cm",
+   "length": 11,
+   "width": 11,
+   "weight": 20,
+   "skuId": 6097828638910,
+   "height": 0.8
+  },
+  {
+   "volume": 180,
+   "sku1": "圆形直径15*15cm",
+   "length": 15,
+   "width": 15,
+   "weight": 40,
+   "skuId": 6097828638908,
+   "height": 0.8
+  },
+  {
+   "volume": 320,
+   "sku1": "圆形直径20*20cm",
+   "length": 20,
+   "width": 20,
+   "weight": 60,
+   "skuId": 6097828638909,
+   "height": 0.8
+  },
+  {
+   "volume": 500,
+   "sku1": "圆形直径25*25cm",
+   "length": 25,
+   "width": 25,
+   "weight": 90,
+   "skuId": 6097828638906,
+   "height": 0.8
+  },
+  {
+   "volume": 720,
+   "sku1": "圆形直径30*30cm",
+   "length": 30,
+   "width": 30,
+   "weight": 120,
+   "skuId": 6097828638904,
+   "height": 0.8
+  },
+  {
+   "volume": 871.2,
+   "sku1": "圆形直径33*33cm",
+   "length": 33,
+   "width": 33,
+   "weight": 140,
+   "skuId": 6097828638911,
+   "height": 0.8
+  },
+  {
+   "volume": 980,
+   "sku1": "圆形直径35*35cm",
+   "length": 35,
+   "width": 35,
+   "weight": 160,
+   "skuId": 6097828638902,
+   "height": 0.8
+  },
+  {
+   "volume": 1155.2,
+   "sku1": "圆形直径38*38cm",
+   "length": 38,
+   "width": 38,
+   "weight": 180,
+   "skuId": 6097828638912,
+   "height": 0.8
+  },
+  {
+   "volume": 1280,
+   "sku1": "圆形直径40*40cm",
+   "length": 40,
+   "width": 40,
+   "weight": 200,
+   "skuId": 6097828638905,
+   "height": 0.8
+  },
+  {
+   "volume": 1620,
+   "sku1": "圆形直径45*45cm",
+   "length": 45,
+   "width": 45,
+   "weight": 250,
+   "skuId": 6097828638903,
+   "height": 0.8
+  },
+  {
+   "volume": 2000,
+   "sku1": "圆形直径50*50cm",
+   "length": 50,
+   "width": 50,
+   "weight": 300,
+   "skuId": 6097828638907,
+   "height": 0.8
+  },
+  {
+   "volume": 960,
+   "sku1": "椭圆形30*40cm",
+   "length": 30,
+   "width": 40,
+   "weight": 160,
+   "skuId": 6097828638901,
+   "height": 0.8
+  }
+ ],
+ "url": "https://detail.1688.com/offer/965297576417.html",
+ "核页时间": "2026-10-06T16:41:58.913Z"
+}

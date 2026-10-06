@@ -1,0 +1,779 @@
+{
+ "offerId": "1063203309839",
+ "条目": "H0466",
+ "block": false,
+ "卖家公司": "义乌市麦禾宠物用品有限公司",
+ "旺旺名": "禾麦宠物用品",
+ "标题": "跨境宠物梳子按压去浮毛褪毛梳狗狗猫咪除毛梳专用猫梳子宠物用品",
+ "状态": "PUBLISHED",
+ "类目": "狗狗清洁美容工具",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "规格",
+   "值": [
+    "灰色-PP细针梳【塑料OPP】",
+    "粉色-PP细针梳【塑料OPP】",
+    "蓝色-PP细针梳【塑料OPP】",
+    "灰色-PP细针梳【塑料卡纸装】",
+    "粉色-PP细针梳【塑料卡纸装】",
+    "蓝色-PP细针梳【塑料卡纸装】",
+    "灰色-猫爪款【塑料OPP】",
+    "蓝色-猫爪款【塑料OPP】",
+    "粉色-猫爪款【塑料OPP】",
+    "灰色-方形款【塑料OPP】",
+    "蓝色-方形款【塑料OPP】",
+    "粉色-方形款【塑料OPP】",
+    "大号跳蚤梳",
+    "小号跳蚤梳",
+    "黑红跳蚤梳",
+    "手柄喷雾梳【卡其色】",
+    "手柄喷雾梳【白色】",
+    "手柄喷雾梳【紫色】",
+    "芒果喷雾梳【黄色】",
+    "芒果喷雾梳【绿色】",
+    "长短排梳【绿色】",
+    "长短排梳【黄色】",
+    "密齿排梳【绿色】",
+    "密齿排梳【黄色】",
+    "兔耳朵【黄色】针梳",
+    "兔耳朵【白色】针梳",
+    "兔耳朵【粉色】针梳",
+    "兔耳朵【绿色】针梳",
+    "兔耳朵【蓝色】针梳",
+    "开结梳【蓝色大号】OPP袋",
+    "开结梳【蓝色小号】OPP袋",
+    "开结梳【粉色大号】OPP袋",
+    "开结梳【粉色小号】OPP袋",
+    "猫耳【橙色】针梳",
+    "猫耳【粉色】针梳",
+    "旋转排梳【绿色】",
+    "旋转排梳【黄色】"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "密齿排梳【黄色】",
+   "价格": "0.81",
+   "库存": 9999999
+  },
+  {
+   "规格": "芒果喷雾梳【绿色】",
+   "价格": "1.62",
+   "库存": 9999991
+  },
+  {
+   "规格": "开结梳【蓝色大号】OPP袋",
+   "价格": "1.76",
+   "库存": 9999839
+  },
+  {
+   "规格": "黑红跳蚤梳",
+   "价格": "0.54",
+   "库存": 9999985
+  },
+  {
+   "规格": "灰色-方形款【塑料OPP】",
+   "价格": "1.22",
+   "库存": 9999680
+  },
+  {
+   "规格": "粉色-PP细针梳【塑料OPP】",
+   "价格": "0.99",
+   "库存": 9999149
+  },
+  {
+   "规格": "猫耳【粉色】针梳",
+   "价格": "1.13",
+   "库存": 9999989
+  },
+  {
+   "规格": "粉色-猫爪款【塑料OPP】",
+   "价格": "1.22",
+   "库存": 9999994
+  },
+  {
+   "规格": "长短排梳【黄色】",
+   "价格": "0.81",
+   "库存": 9999997
+  },
+  {
+   "规格": "蓝色-方形款【塑料OPP】",
+   "价格": "1.22",
+   "库存": 9999994
+  },
+  {
+   "规格": "兔耳朵【绿色】针梳",
+   "价格": "0.81",
+   "库存": 9999999
+  },
+  {
+   "规格": "手柄喷雾梳【白色】",
+   "价格": "1.67",
+   "库存": 9999982
+  },
+  {
+   "规格": "手柄喷雾梳【卡其色】",
+   "价格": "1.67",
+   "库存": 9999976
+  },
+  {
+   "规格": "密齿排梳【绿色】",
+   "价格": "0.81",
+   "库存": 9999998
+  },
+  {
+   "规格": "兔耳朵【黄色】针梳",
+   "价格": "0.81",
+   "库存": 9999998
+  },
+  {
+   "规格": "芒果喷雾梳【黄色】",
+   "价格": "1.62",
+   "库存": 9999999
+  },
+  {
+   "规格": "粉色-方形款【塑料OPP】",
+   "价格": "1.22",
+   "库存": 9999991
+  },
+  {
+   "规格": "蓝色-PP细针梳【塑料卡纸装】",
+   "价格": "1.31",
+   "库存": 9999874
+  },
+  {
+   "规格": "旋转排梳【绿色】",
+   "价格": "1.22",
+   "库存": 9999997
+  },
+  {
+   "规格": "猫耳【橙色】针梳",
+   "价格": "1.13",
+   "库存": 9999999
+  },
+  {
+   "规格": "长短排梳【绿色】",
+   "价格": "0.81",
+   "库存": 9999996
+  },
+  {
+   "规格": "开结梳【粉色大号】OPP袋",
+   "价格": "1.76",
+   "库存": 9999999
+  },
+  {
+   "规格": "兔耳朵【蓝色】针梳",
+   "价格": "0.81",
+   "库存": 9999998
+  },
+  {
+   "规格": "开结梳【蓝色小号】OPP袋",
+   "价格": "1.53",
+   "库存": 9999999
+  },
+  {
+   "规格": "开结梳【粉色小号】OPP袋",
+   "价格": "1.53",
+   "库存": 9999999
+  },
+  {
+   "规格": "小号跳蚤梳",
+   "价格": "0.27",
+   "库存": 9999994
+  },
+  {
+   "规格": "手柄喷雾梳【紫色】",
+   "价格": "1.67",
+   "库存": 9999987
+  },
+  {
+   "规格": "灰色-PP细针梳【塑料OPP】",
+   "价格": "0.99",
+   "库存": 9946110
+  },
+  {
+   "规格": "大号跳蚤梳",
+   "价格": "0.36",
+   "库存": 9999997
+  },
+  {
+   "规格": "兔耳朵【粉色】针梳",
+   "价格": "0.81",
+   "库存": 9999999
+  },
+  {
+   "规格": "灰色-猫爪款【塑料OPP】",
+   "价格": "1.22",
+   "库存": 9992944
+  },
+  {
+   "规格": "蓝色-猫爪款【塑料OPP】",
+   "价格": "1.22",
+   "库存": 9997996
+  },
+  {
+   "规格": "蓝色-PP细针梳【塑料OPP】",
+   "价格": "0.99",
+   "库存": 9998294
+  },
+  {
+   "规格": "兔耳朵【白色】针梳",
+   "价格": "0.81",
+   "库存": 9999999
+  },
+  {
+   "规格": "旋转排梳【黄色】",
+   "价格": "1.22",
+   "库存": 9999998
+  },
+  {
+   "规格": "灰色-PP细针梳【塑料卡纸装】",
+   "价格": "1.31",
+   "库存": 9999226
+  },
+  {
+   "规格": "粉色-PP细针梳【塑料卡纸装】",
+   "价格": "1.31",
+   "库存": 9999878
+  }
+ ],
+ "规格图": [
+  [
+   "灰色-PP细针梳【塑料OPP】",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01A3mPhQ1j0BVO62rwc_!!2222135134485-0-cib.jpg"
+  ],
+  [
+   "粉色-PP细针梳【塑料OPP】",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01eZ4Ms71j0BVOM5VK2_!!2222135134485-0-cib.jpg"
+  ],
+  [
+   "蓝色-PP细针梳【塑料OPP】",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01AlI9QZ1j0BVO644oK_!!2222135134485-0-cib.jpg"
+  ],
+  [
+   "灰色-PP细针梳【塑料卡纸装】",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01pbDsmN1j0BVOpVfp8_!!2222135134485-0-cib.jpg"
+  ],
+  [
+   "粉色-PP细针梳【塑料卡纸装】",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01BGbNsy1j0BVPnlE6G_!!2222135134485-0-cib.jpg"
+  ],
+  [
+   "蓝色-PP细针梳【塑料卡纸装】",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01rXVWA71j0BVOM7FNu_!!2222135134485-0-cib.jpg"
+  ],
+  [
+   "灰色-猫爪款【塑料OPP】",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01pSP9CE1j0BVJmdJNx_!!2222135134485-0-cib.jpg"
+  ],
+  [
+   "蓝色-猫爪款【塑料OPP】",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01wfT4kX1j0BVOFRmWT_!!2222135134485-0-cib.jpg"
+  ],
+  [
+   "粉色-猫爪款【塑料OPP】",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01mwgtsD1j0BVO41LPf_!!2222135134485-0-cib.jpg"
+  ],
+  [
+   "灰色-方形款【塑料OPP】",
+   "https://cbu01.alicdn.com/img/ibank/O1CN010vZ45J1j0BVPnmZHw_!!2222135134485-0-cib.jpg"
+  ],
+  [
+   "蓝色-方形款【塑料OPP】",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01QdgL0g1j0BVOM7Nnq_!!2222135134485-0-cib.jpg"
+  ],
+  [
+   "粉色-方形款【塑料OPP】",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01D099HQ1j0BVOpY1RQ_!!2222135134485-0-cib.jpg"
+  ],
+  [
+   "大号跳蚤梳",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01Nbk0cL1j0BVOUcKyo_!!2222135134485-0-cib.jpg"
+  ],
+  [
+   "小号跳蚤梳",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01ik2MDh1j0BVOG9m1K_!!2222135134485-0-cib.jpg"
+  ],
+  [
+   "黑红跳蚤梳",
+   "https://cbu01.alicdn.com/img/ibank/O1CN015vffx41j0BVO14Z7S_!!2222135134485-0-cib.jpg"
+  ],
+  [
+   "手柄喷雾梳【卡其色】",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01IOUgoQ1j0BVPnoJWZ_!!2222135134485-0-cib.jpg"
+  ],
+  [
+   "手柄喷雾梳【白色】",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01Ddzmsv1j0BVO15N4E_!!2222135134485-0-cib.jpg"
+  ],
+  [
+   "手柄喷雾梳【紫色】",
+   "https://cbu01.alicdn.com/img/ibank/O1CN015d71Kn1j0BVOpYxpF_!!2222135134485-0-cib.jpg"
+  ],
+  [
+   "芒果喷雾梳【黄色】",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01RYHzAj1j0BVOMAs6P_!!2222135134485-0-cib.jpg"
+  ],
+  [
+   "芒果喷雾梳【绿色】",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01iSJ3lA1j0BVOIVf4Q_!!2222135134485-0-cib.jpg"
+  ],
+  [
+   "长短排梳【绿色】",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01oZInLf1j0BVO1C9Uq_!!2222135134485-0-cib.jpg"
+  ],
+  [
+   "长短排梳【黄色】",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01fRySPr1j0BVOUkKLX_!!2222135134485-0-cib.jpg"
+  ],
+  [
+   "密齿排梳【绿色】",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01wfslcv1j0BVOFaud1_!!2222135134485-0-cib.jpg"
+  ],
+  [
+   "密齿排梳【黄色】",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01N2nckc1j0BVOpfPPw_!!2222135134485-0-cib.jpg"
+  ],
+  [
+   "兔耳朵【黄色】针梳",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01cLg8Og1j0BVNzMVXz_!!2222135134485-0-cib.jpg"
+  ],
+  [
+   "兔耳朵【白色】针梳",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01aXleKt1j0BVO6zR8X_!!2222135134485-0-cib.jpg"
+  ],
+  [
+   "兔耳朵【粉色】针梳",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01rBEia91j0BVOFdOcd_!!2222135134485-0-cib.jpg"
+  ],
+  [
+   "兔耳朵【绿色】针梳",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01OSCDuN1j0BVOEsTkj_!!2222135134485-0-cib.jpg"
+  ],
+  [
+   "兔耳朵【蓝色】针梳",
+   "https://cbu01.alicdn.com/img/ibank/O1CN013jupQZ1j0BVO1E29i_!!2222135134485-0-cib.jpg"
+  ],
+  [
+   "开结梳【蓝色大号】OPP袋",
+   "https://cbu01.alicdn.com/img/ibank/O1CN015DWXya1j0BVOFgTzO_!!2222135134485-0-cib.jpg"
+  ],
+  [
+   "开结梳【蓝色小号】OPP袋",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01o3hKiW1j0BVOObnGW_!!2222135134485-0-cib.jpg"
+  ],
+  [
+   "开结梳【粉色大号】OPP袋",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01LKawhi1j0BVO72zeG_!!2222135134485-0-cib.jpg"
+  ],
+  [
+   "开结梳【粉色小号】OPP袋",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01MrLw8u1j0BVOpkVdG_!!2222135134485-0-cib.jpg"
+  ],
+  [
+   "猫耳【橙色】针梳",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01mndoLa1j0BVOOcGUg_!!2222135134485-0-cib.jpg"
+  ],
+  [
+   "猫耳【粉色】针梳",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01BveBho1j0BVOIicI0_!!2222135134485-0-cib.jpg"
+  ],
+  [
+   "旋转排梳【绿色】",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01XAspNE1j0BVOGeO1J_!!2222135134485-0-cib.jpg"
+  ],
+  [
+   "旋转排梳【黄色】",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01YauCkL1j0BVOIMsWT_!!2222135134485-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "skuPrice",
+ "价格区间": "0.60-3.90",
+ "阶梯价_登录后": [
+  {
+   "price": "0.27",
+   "beginAmount": 2
+  },
+  {
+   "price": "1.76",
+   "beginAmount": 2
+  }
+ ],
+ "到手价": {
+  "价": "0.27",
+  "说明": "限时价",
+  "件数": 2
+ },
+ "起订量": 2,
+ "单位": "个",
+ "可售总量": 369932843,
+ "已售": 66851,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN012A67aa1j0BVO5h8ny_!!2222135134485-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01tMGLIS1j0BVOL3JvV_!!2222135134485-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01e8xlP01j0BVO4uJQ6_!!2222135134485-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01DxNfdE1j0BVOGmOM7_!!2222135134485-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01AasTzX1j0BVOTaco5_!!2222135134485-0-cib.jpg"
+ ],
+ "商品属性": [
+  "材质:PP",
+  "品牌:麦禾",
+  "产品分类:梳子刷子",
+  "是否进口:否",
+  "箱装数量:100",
+  "是否专利货源:否",
+  "规格:灰色-PP细针梳【塑料OPP】/粉色-PP细针梳【塑料OPP】/蓝色-PP细针梳【塑料OPP】/灰色-PP细针梳【塑料卡纸装】/粉色-PP细针梳【塑料卡纸装】/蓝色-PP细针梳【塑料卡纸装】/灰色-猫爪款【塑料OPP】/蓝色-猫爪款【塑料OPP】/粉色-猫爪款【塑料OPP】/灰色-方形款【塑料OPP】/蓝色-方形款【塑料OPP】/粉色-方形款【塑料OPP】/大号跳蚤梳/小号跳蚤梳/黑红跳蚤梳/手柄喷雾梳【卡其色】/手柄喷雾梳【白色】/手柄喷雾梳【紫色】/芒果喷雾梳【黄色】/芒果喷雾梳【绿色】/长短排梳【绿色】/长短排梳【黄色】/密齿排梳【绿色】/密齿排梳【黄色】/兔耳朵【黄色】针梳/兔耳朵【白色】针梳/兔耳朵【粉色】针梳/兔耳朵【绿色】针梳/兔耳朵【蓝色】针梳/开结梳【蓝色大号】OPP袋/开结梳【蓝色小号】OPP袋/开结梳【粉色大号】OPP袋/开结梳【粉色小号】OPP袋/猫耳【橙色】针梳/猫耳【粉色】针梳/旋转排梳【绿色】/旋转排梳【黄色】",
+  "主要下游平台:ebay/亚马逊/wish/速卖通/独立站/LAZADA/其他",
+  "主要销售地区:非洲/欧洲/南美/东南亚/北美/东北亚/中东/其他",
+  "有可授权的自有品牌:否",
+  "是否跨境出口专供货源:是",
+  "适用送礼场合:婚庆/派对聚会/其他",
+  "适用送礼关系:情侣/夫妻/同事/朋友/孩子/同学/其他",
+  "适用节日:圣诞节/情人节/春节/元旦/七夕/万圣节/复活节/国庆节/儿童节/其他",
+  "是否属于礼品:是，个人礼品",
+  "猫梳子:宠物梳子、排梳、开结梳、细针梳、浮毛梳、猫梳子、狗梳子、宠物梳子、猫咪清洁用品、狗狗清洁用品",
+  "核心功能:去浮毛",
+  "宠物梳子:宠物梳子梳毛器猫毛梳排梳开结梳宠物梳毛猫咪梳子宠物用品猫梳子",
+  "使用方式:手动",
+  "狗狗清洁用品:宠物梳子一键按压去浮毛褪毛梳狗狗猫咪除毛梳专用猫梳子宠物用品"
+ ],
+ "包装信息": [
+  {
+   "volume": 0,
+   "sku1": "灰色-PP细针梳【塑料OPP】",
+   "length": 0,
+   "width": 0,
+   "weight": 150,
+   "skuId": 6273888563196,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "粉色-PP细针梳【塑料OPP】",
+   "length": 0,
+   "width": 0,
+   "weight": 150,
+   "skuId": 6273888563197,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "蓝色-PP细针梳【塑料OPP】",
+   "length": 0,
+   "width": 0,
+   "weight": 150,
+   "skuId": 6273888563198,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "灰色-PP细针梳【塑料卡纸装】",
+   "length": 0,
+   "width": 0,
+   "weight": 150,
+   "skuId": 6273888563199,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "粉色-PP细针梳【塑料卡纸装】",
+   "length": 0,
+   "width": 0,
+   "weight": 150,
+   "skuId": 6273888563200,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "蓝色-PP细针梳【塑料卡纸装】",
+   "length": 0,
+   "width": 0,
+   "weight": 150,
+   "skuId": 6273888563201,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "灰色-猫爪款【塑料OPP】",
+   "length": 0,
+   "width": 0,
+   "weight": 150,
+   "skuId": 6273888563202,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "蓝色-猫爪款【塑料OPP】",
+   "length": 0,
+   "width": 0,
+   "weight": 150,
+   "skuId": 6273888563203,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "粉色-猫爪款【塑料OPP】",
+   "length": 0,
+   "width": 0,
+   "weight": 150,
+   "skuId": 6273888563204,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "灰色-方形款【塑料OPP】",
+   "length": 0,
+   "width": 0,
+   "weight": 150,
+   "skuId": 6273888563205,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "蓝色-方形款【塑料OPP】",
+   "length": 0,
+   "width": 0,
+   "weight": 150,
+   "skuId": 6273888563206,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "粉色-方形款【塑料OPP】",
+   "length": 0,
+   "width": 0,
+   "weight": 150,
+   "skuId": 6273888563207,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "大号跳蚤梳",
+   "length": 0,
+   "width": 0,
+   "weight": 150,
+   "skuId": 6273888563208,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "小号跳蚤梳",
+   "length": 0,
+   "width": 0,
+   "weight": 150,
+   "skuId": 6273888563209,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "黑红跳蚤梳",
+   "length": 0,
+   "width": 0,
+   "weight": 150,
+   "skuId": 6273888563210,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "手柄喷雾梳【卡其色】",
+   "length": 0,
+   "width": 0,
+   "weight": 150,
+   "skuId": 6273888563211,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "手柄喷雾梳【白色】",
+   "length": 0,
+   "width": 0,
+   "weight": 150,
+   "skuId": 6273888563212,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "手柄喷雾梳【紫色】",
+   "length": 0,
+   "width": 0,
+   "weight": 150,
+   "skuId": 6273888563213,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "芒果喷雾梳【黄色】",
+   "length": 0,
+   "width": 0,
+   "weight": 150,
+   "skuId": 6273888563214,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "芒果喷雾梳【绿色】",
+   "length": 0,
+   "width": 0,
+   "weight": 150,
+   "skuId": 6273888563215,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "长短排梳【绿色】",
+   "length": 0,
+   "width": 0,
+   "weight": 150,
+   "skuId": 6273888563216,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "长短排梳【黄色】",
+   "length": 0,
+   "width": 0,
+   "weight": 150,
+   "skuId": 6273888563217,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "密齿排梳【绿色】",
+   "length": 0,
+   "width": 0,
+   "weight": 150,
+   "skuId": 6273888563218,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "密齿排梳【黄色】",
+   "length": 0,
+   "width": 0,
+   "weight": 150,
+   "skuId": 6273888563219,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "兔耳朵【黄色】针梳",
+   "length": 0,
+   "width": 0,
+   "weight": 150,
+   "skuId": 6273888563220,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "兔耳朵【白色】针梳",
+   "length": 0,
+   "width": 0,
+   "weight": 150,
+   "skuId": 6273888563221,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "兔耳朵【粉色】针梳",
+   "length": 0,
+   "width": 0,
+   "weight": 150,
+   "skuId": 6273888563222,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "兔耳朵【绿色】针梳",
+   "length": 0,
+   "width": 0,
+   "weight": 150,
+   "skuId": 6273888563223,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "兔耳朵【蓝色】针梳",
+   "length": 0,
+   "width": 0,
+   "weight": 150,
+   "skuId": 6273888563224,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "开结梳【蓝色大号】OPP袋",
+   "length": 0,
+   "width": 0,
+   "weight": 150,
+   "skuId": 6273888563225,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "开结梳【蓝色小号】OPP袋",
+   "length": 0,
+   "width": 0,
+   "weight": 150,
+   "skuId": 6273888563226,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "开结梳【粉色大号】OPP袋",
+   "length": 0,
+   "width": 0,
+   "weight": 150,
+   "skuId": 6273888563227,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "开结梳【粉色小号】OPP袋",
+   "length": 0,
+   "width": 0,
+   "weight": 150,
+   "skuId": 6273888563228,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "猫耳【橙色】针梳",
+   "length": 0,
+   "width": 0,
+   "weight": 150,
+   "skuId": 6273888563229,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "猫耳【粉色】针梳",
+   "length": 0,
+   "width": 0,
+   "weight": 150,
+   "skuId": 6273888563230,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "旋转排梳【绿色】",
+   "length": 0,
+   "width": 0,
+   "weight": 150,
+   "skuId": 6273888563231,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "旋转排梳【黄色】",
+   "length": 0,
+   "width": 0,
+   "weight": 150,
+   "skuId": 6273888563232,
+   "height": 0
+  }
+ ],
+ "url": "https://detail.1688.com/offer/1063203309839.html",
+ "核页时间": "2026-10-06T16:56:56.611Z"
+}

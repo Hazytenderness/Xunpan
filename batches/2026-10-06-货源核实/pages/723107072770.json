@@ -1,0 +1,110 @@
+{
+ "offerId": "723107072770",
+ "条目": "H0739",
+ "block": false,
+ "卖家公司": "东莞市志诚泡绵制品有限公司",
+ "旺旺名": "zcpmhw",
+ "标题": "工厂自营EVA猫砂垫加大双层过滤防带出防溅可水洗控砂垫猫厕所垫",
+ "状态": "PUBLISHED",
+ "类目": "猫猫窝/笼/垫",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "规格",
+   "值": [
+    "30*30CM",
+    "40*50",
+    "45*60",
+    "55*75"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "30*30CM",
+   "价格": "5.90",
+   "库存": 50000000
+  },
+  {
+   "规格": "40*50",
+   "价格": "10.00",
+   "库存": 50000000
+  },
+  {
+   "规格": "55*75",
+   "价格": "17.00",
+   "库存": 50000000
+  },
+  {
+   "规格": "45*60",
+   "价格": "12.00",
+   "库存": 50000000
+  }
+ ],
+ "规格图": [
+  [
+   "30*30CM",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01oyn6Gm2JeK4JXoF2A_!!3174519446-0-cib.jpg"
+  ],
+  [
+   "40*50",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01vV65nQ2JeK4Gj1Wlr_!!3174519446-0-cib.jpg"
+  ],
+  [
+   "45*60",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01NAKUdu2JeK4MH0TI4_!!3174519446-0-cib.jpg"
+  ],
+  [
+   "55*75",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01Ibsa6R2JeK4KbvsLn_!!3174519446-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "skuPrice",
+ "价格区间": null,
+ "阶梯价_登录后": [
+  {
+   "price": "5.90",
+   "beginAmount": 100
+  },
+  {
+   "price": "17.00",
+   "beginAmount": 100
+  }
+ ],
+ "到手价": null,
+ "起订量": 100,
+ "单位": "个",
+ "可售总量": 200000000,
+ "已售": 0,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01LjgXrP2JeK5Q3z3RX_!!3174519446-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN015oIxwd2JeK472AedR_!!3174519446-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01MtJGee2JeK4Cnd52k_!!3174519446-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01rJAXgC2JeK4QXmRIo_!!3174519446-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01xwnLNr2JeJvywb8Fa_!!3174519446-0-cib.jpg"
+ ],
+ "商品属性": [
+  "材质:EVA",
+  "品牌:志诚",
+  "产品类别:宠物垫",
+  "产地:广东",
+  "是否进口:否",
+  "货号:zcmsd",
+  "是否专利货源:否",
+  "规格:30*30CM/40*50/45*60/55*75",
+  "是否跨境出口专供货源:否",
+  "是否属于礼品:否",
+  "是否IP授权:否"
+ ],
+ "包装信息": [
+  {
+   "volume": 0,
+   "length": 0,
+   "width": 0,
+   "weight": 200,
+   "height": 0
+  }
+ ],
+ "url": "https://detail.1688.com/offer/723107072770.html",
+ "核页时间": "2026-10-06T18:13:36.614Z"
+}

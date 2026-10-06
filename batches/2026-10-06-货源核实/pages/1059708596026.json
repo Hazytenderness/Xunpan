@@ -1,0 +1,450 @@
+{
+ "offerId": "1059708596026",
+ "条目": "H0541",
+ "block": false,
+ "卖家公司": "义乌市聪硕纺织有限公司",
+ "旺旺名": "泽霄彩带超级工厂",
+ "标题": "1cm彩色丝带 缎带涤纶带礼品礼物包装织带儿童编发扎带蛋糕包装",
+ "状态": "PUBLISHED",
+ "类目": "织带",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "规格型号",
+   "值": [
+    "08#乳白 缎带",
+    "01#白色 缎带",
+    "04#浅粉 缎带",
+    "94#桃粉色 缎带",
+    "05#桃粉 缎带",
+    "75#豆沙粉 缎带",
+    "25#橘红色 缎带",
+    "26#大红 缎带",
+    "33#酒红 缎带",
+    "27#玫红色 缎带",
+    "45#紫粉色 缎带",
+    "34#玫紫 缎带",
+    "28#深玫红 缎带",
+    "07#香槟粉 缎带",
+    "15#黄色 缎带",
+    "16#金黄色 缎带",
+    "02#奶黄 缎带",
+    "24#桔色 缎带",
+    "141#水绿 缎带",
+    "115#墨绿 缎带",
+    "49#墨绿 缎带",
+    "52#果绿 缎带",
+    "95#军绿 缎带",
+    "19#绿色 缎带",
+    "20#幽兰 缎带",
+    "36#钻石蓝 缎带",
+    "11#湖蓝 缎带",
+    "38#深蓝色 缎带",
+    "21#浅紫 缎带",
+    "35#深紫色 缎带",
+    "69#紫色 缎带",
+    "87#浅金 缎带",
+    "67#浅棕 缎带",
+    "105#驼色 缎带",
+    "59#银色 缎带",
+    "39#黑色 缎带",
+    "40#宝蓝色 缎带",
+    "78#浅蓝 缎带"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "11#湖蓝 缎带",
+   "价格": null,
+   "库存": 314436
+  },
+  {
+   "规格": "69#紫色 缎带",
+   "价格": null,
+   "库存": 312201
+  },
+  {
+   "规格": "95#军绿 缎带",
+   "价格": null,
+   "库存": 317084
+  },
+  {
+   "规格": "59#银色 缎带",
+   "价格": null,
+   "库存": 313493
+  },
+  {
+   "规格": "94#桃粉色 缎带",
+   "价格": null,
+   "库存": 311777
+  },
+  {
+   "规格": "36#钻石蓝 缎带",
+   "价格": null,
+   "库存": 313875
+  },
+  {
+   "规格": "26#大红 缎带",
+   "价格": null,
+   "库存": 312979
+  },
+  {
+   "规格": "141#水绿 缎带",
+   "价格": null,
+   "库存": 315317
+  },
+  {
+   "规格": "35#深紫色 缎带",
+   "价格": null,
+   "库存": 312518
+  },
+  {
+   "规格": "39#黑色 缎带",
+   "价格": null,
+   "库存": 6583
+  },
+  {
+   "规格": "15#黄色 缎带",
+   "价格": null,
+   "库存": 313900
+  },
+  {
+   "规格": "38#深蓝色 缎带",
+   "价格": null,
+   "库存": 313464
+  },
+  {
+   "规格": "05#桃粉 缎带",
+   "价格": null,
+   "库存": 312807
+  },
+  {
+   "规格": "87#浅金 缎带",
+   "价格": null,
+   "库存": 312429
+  },
+  {
+   "规格": "01#白色 缎带",
+   "价格": null,
+   "库存": 33726
+  },
+  {
+   "规格": "24#桔色 缎带",
+   "价格": null,
+   "库存": 312150
+  },
+  {
+   "规格": "49#墨绿 缎带",
+   "价格": null,
+   "库存": 311093
+  },
+  {
+   "规格": "75#豆沙粉 缎带",
+   "价格": null,
+   "库存": 314598
+  },
+  {
+   "规格": "33#酒红 缎带",
+   "价格": null,
+   "库存": 312641
+  },
+  {
+   "规格": "28#深玫红 缎带",
+   "价格": null,
+   "库存": 318058
+  },
+  {
+   "规格": "07#香槟粉 缎带",
+   "价格": null,
+   "库存": 313514
+  },
+  {
+   "规格": "21#浅紫 缎带",
+   "价格": null,
+   "库存": 312702
+  },
+  {
+   "规格": "04#浅粉 缎带",
+   "价格": null,
+   "库存": 311963
+  },
+  {
+   "规格": "78#浅蓝 缎带",
+   "价格": null,
+   "库存": 317755
+  },
+  {
+   "规格": "16#金黄色 缎带",
+   "价格": null,
+   "库存": 311087
+  },
+  {
+   "规格": "115#墨绿 缎带",
+   "价格": null,
+   "库存": 311091
+  },
+  {
+   "规格": "19#绿色 缎带",
+   "价格": null,
+   "库存": 313651
+  },
+  {
+   "规格": "45#紫粉色 缎带",
+   "价格": null,
+   "库存": 312409
+  },
+  {
+   "规格": "08#乳白 缎带",
+   "价格": null,
+   "库存": 317777
+  },
+  {
+   "规格": "52#果绿 缎带",
+   "价格": null,
+   "库存": 312637
+  },
+  {
+   "规格": "40#宝蓝色 缎带",
+   "价格": null,
+   "库存": 311081
+  },
+  {
+   "规格": "67#浅棕 缎带",
+   "价格": null,
+   "库存": 315930
+  },
+  {
+   "规格": "27#玫红色 缎带",
+   "价格": null,
+   "库存": 311091
+  },
+  {
+   "规格": "20#幽兰 缎带",
+   "价格": null,
+   "库存": 314791
+  },
+  {
+   "规格": "02#奶黄 缎带",
+   "价格": null,
+   "库存": 5567
+  },
+  {
+   "规格": "25#橘红色 缎带",
+   "价格": null,
+   "库存": 310972
+  },
+  {
+   "规格": "105#驼色 缎带",
+   "价格": null,
+   "库存": 312398
+  },
+  {
+   "规格": "34#玫紫 缎带",
+   "价格": null,
+   "库存": 312701
+  }
+ ],
+ "规格图": [
+  [
+   "08#乳白 缎带",
+   "https://cbu01.alicdn.com/img/ibank/O1CN012TfKy82IpUDJg6PFl_!!2211155479335-0-cib.jpg"
+  ],
+  [
+   "01#白色 缎带",
+   "https://cbu01.alicdn.com/img/ibank/O1CN016s7mVJ2IpUDIIuX6u_!!2211155479335-0-cib.jpg"
+  ],
+  [
+   "04#浅粉 缎带",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01FaMuOD2IpUDJ4CEDc_!!2211155479335-0-cib.jpg"
+  ],
+  [
+   "94#桃粉色 缎带",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01plaiD02IpUN0IdUGw_!!2211155479335-0-cib.jpg"
+  ],
+  [
+   "05#桃粉 缎带",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01trGJzk2IpUDHvM5SC_!!2211155479335-0-cib.jpg"
+  ],
+  [
+   "75#豆沙粉 缎带",
+   "https://cbu01.alicdn.com/img/ibank/O1CN018zfyYm2IpUD76bFUh_!!2211155479335-0-cib.jpg"
+  ],
+  [
+   "25#橘红色 缎带",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01sdPW372IpUMzMqxKU_!!2211155479335-0-cib.jpg"
+  ],
+  [
+   "26#大红 缎带",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01rWrPur2IpUDH4D83o_!!2211155479335-0-cib.jpg"
+  ],
+  [
+   "33#酒红 缎带",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01e7yBdL2IpUDCbcchE_!!2211155479335-0-cib.jpg"
+  ],
+  [
+   "27#玫红色 缎带",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01UBQCNC2IpUIkBRbVm_!!2211155479335-0-cib.jpg"
+  ],
+  [
+   "45#紫粉色 缎带",
+   "https://cbu01.alicdn.com/img/ibank/O1CN012iOvhl2IpUDEiFfAl_!!2211155479335-0-cib.jpg"
+  ],
+  [
+   "34#玫紫 缎带",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01dTeBS22IpUDGQml8h_!!2211155479335-0-cib.jpg"
+  ],
+  [
+   "28#深玫红 缎带",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01hND2Mv2IpUDH4Efqw_!!2211155479335-0-cib.jpg"
+  ],
+  [
+   "07#香槟粉 缎带",
+   "https://cbu01.alicdn.com/img/ibank/O1CN017daG7Y2IpUDGuYHk5_!!2211155479335-0-cib.jpg"
+  ],
+  [
+   "15#黄色 缎带",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01DwnGb22IpUDGQqNpM_!!2211155479335-0-cib.jpg"
+  ],
+  [
+   "16#金黄色 缎带",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01w1QxFT2IpUL579aIq_!!2211155479335-0-cib.jpg"
+  ],
+  [
+   "02#奶黄 缎带",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01hEmY2W2IpUDHvSX4w_!!2211155479335-0-cib.jpg"
+  ],
+  [
+   "24#桔色 缎带",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01eKNI8U2IpUDCbkbtt_!!2211155479335-0-cib.jpg"
+  ],
+  [
+   "141#水绿 缎带",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01m0wzaz2IpUDEiKhJ1_!!2211155479335-0-cib.jpg"
+  ],
+  [
+   "115#墨绿 缎带",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01j0BSi12IpUN0gsE1x_!!2211155479335-0-cib.jpg"
+  ],
+  [
+   "49#墨绿 缎带",
+   "https://cbu01.alicdn.com/img/ibank/O1CN014LgZz42IpUGMQWnpp_!!2211155479335-0-cib.jpg"
+  ],
+  [
+   "52#果绿 缎带",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01PumXUQ2IpUDFYR8kT_!!2211155479335-0-cib.jpg"
+  ],
+  [
+   "95#军绿 缎带",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01GUXTcl2IpUDEkYFhX_!!2211155479335-0-cib.jpg"
+  ],
+  [
+   "19#绿色 缎带",
+   "https://cbu01.alicdn.com/img/ibank/O1CN010xzwi82IpUDFYScIf_!!2211155479335-0-cib.jpg"
+  ],
+  [
+   "20#幽兰 缎带",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01T2DdM52IpUDEkabJH_!!2211155479335-0-cib.jpg"
+  ],
+  [
+   "36#钻石蓝 缎带",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01BK8UEn2IpUDEkajeN_!!2211155479335-0-cib.jpg"
+  ],
+  [
+   "11#湖蓝 缎带",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01lzVFwa2IpUDEiOFvV_!!2211155479335-0-cib.jpg"
+  ],
+  [
+   "38#深蓝色 缎带",
+   "https://cbu01.alicdn.com/img/ibank/O1CN010Zf5xp2IpUDGubqU7_!!2211155479335-0-cib.jpg"
+  ],
+  [
+   "21#浅紫 缎带",
+   "https://cbu01.alicdn.com/img/ibank/O1CN014QpMEA2IpUDBe45xo_!!2211155479335-0-cib.jpg"
+  ],
+  [
+   "35#深紫色 缎带",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01cfs9ME2IpUDCbpiDk_!!2211155479335-0-cib.jpg"
+  ],
+  [
+   "69#紫色 缎带",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01oNHzZe2IpUDFYWiBU_!!2211155479335-0-cib.jpg"
+  ],
+  [
+   "87#浅金 缎带",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01Dxoepb2IpUDJ4UHrd_!!2211155479335-0-cib.jpg"
+  ],
+  [
+   "67#浅棕 缎带",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01d3bec42IpUDFYYBsq_!!2211155479335-0-cib.jpg"
+  ],
+  [
+   "105#驼色 缎带",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01GdTHud2IpUDEiUMeF_!!2211155479335-0-cib.jpg"
+  ],
+  [
+   "59#银色 缎带",
+   "https://cbu01.alicdn.com/img/ibank/O1CN014TNnK12IpUDH4S25T_!!2211155479335-0-cib.jpg"
+  ],
+  [
+   "39#黑色 缎带",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01qDPqfM2IpUDFYYrYy_!!2211155479335-0-cib.jpg"
+  ],
+  [
+   "40#宝蓝色 缎带",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01G008Pe2IpUKdt6Qxy_!!2211155479335-0-cib.jpg"
+  ],
+  [
+   "78#浅蓝 缎带",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01Lzx53v2IpULamvI1R_!!2211155479335-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "rangePrice",
+ "价格区间": null,
+ "阶梯价_登录后": [
+  {
+   "price": "0.78",
+   "beginAmount": 1
+  },
+  {
+   "price": "0.74",
+   "beginAmount": 50
+  },
+  {
+   "price": "0.67",
+   "beginAmount": 800
+  }
+ ],
+ "到手价": null,
+ "起订量": 1,
+ "单位": "卷",
+ "可售总量": 11014246,
+ "已售": 1095,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01a1uTCA2IpUDGQDuhu_!!2211155479335-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01CwCi9C2IpUDJ3kZEO_!!2211155479335-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01mjXadc2IpUDCzXHwM_!!2211155479335-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01PYQitv2IpUDGtsb4q_!!2211155479335-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01LVEXCu1F6ecdXirsF_!!2216607470438-0-cib.jpg"
+ ],
+ "商品属性": [
+  "适用范围:产业用/服装/头饰/其他",
+  "主要原料:其他",
+  "品牌:其他",
+  "货号:1.0缎带001",
+  "风格:经典",
+  "镶嵌材质:丝带",
+  "工艺:印花织带"
+ ],
+ "包装信息": [
+  {
+   "volume": 0,
+   "length": 0,
+   "width": 0,
+   "weight": 300,
+   "height": 0
+  }
+ ],
+ "url": "https://detail.1688.com/offer/1059708596026.html",
+ "核页时间": "2026-10-06T17:18:51.593Z"
+}

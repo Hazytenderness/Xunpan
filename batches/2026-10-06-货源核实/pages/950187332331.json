@@ -1,0 +1,133 @@
+{
+ "offerId": "950187332331",
+ "条目": "H1080",
+ "block": false,
+ "卖家公司": "江苏汉药医疗器械有限公司",
+ "旺旺名": "jshanyao",
+ "标题": "提神清凉冰感降温湿巾学生军训擦汗降温防暑一次性冷感毛巾",
+ "状态": "PUBLISHED",
+ "类目": "冰凉巾",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "颜色",
+   "值": [
+    "冰凉湿巾",
+    "大尺寸冰凉贴(2片/包)",
+    "芦荟冰凉贴(2片/包）"
+   ]
+  },
+  {
+   "属性": "规格（长*宽cm）",
+   "值": [
+    "一包"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "大尺寸冰凉贴(2片/包)&gt;一包",
+   "价格": "0.50",
+   "库存": 99812
+  },
+  {
+   "规格": "冰凉湿巾&gt;一包",
+   "价格": "1.25",
+   "库存": 76001
+  },
+  {
+   "规格": "芦荟冰凉贴(2片/包）&gt;一包",
+   "价格": "0.42",
+   "库存": 99808
+  }
+ ],
+ "规格图": [
+  [
+   "冰凉湿巾",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01UI9Znu1YarSHAiP0c_!!2200579933076-0-cib.jpg"
+  ],
+  [
+   "大尺寸冰凉贴(2片/包)",
+   "https://cbu01.alicdn.com/img/ibank/O1CN014Kik5a1YarRpTdWvf_!!2200579933076-0-cib.jpg"
+  ],
+  [
+   "芦荟冰凉贴(2片/包）",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01oqeUmk1YarQnaaLrD_!!2200579933076-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "skuPrice",
+ "价格区间": null,
+ "阶梯价_登录后": [
+  {
+   "price": "0.42",
+   "beginAmount": 1
+  },
+  {
+   "price": "1.25",
+   "beginAmount": 1
+  }
+ ],
+ "到手价": null,
+ "起订量": 1,
+ "单位": "个",
+ "可售总量": 275621,
+ "已售": 23838,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01yhAODV1YarSGksCbJ_!!2200579933076-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01aEHcnq1YarRmrlcAv_!!2200579933076-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN015ppout1YarRlMQtIc_!!2200579933076-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01Nj4XFg1YarRl6QCS6_!!2200579933076-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01wjt5uY1YarSGy3eEw_!!2200579933076-0-cib.jpg"
+ ],
+ "商品属性": [
+  "材质:其它",
+  "制作工艺:其它",
+  "产品类别:降温毛巾",
+  "功能:凉感/冷感",
+  "品牌:汉敷宝",
+  "吸水性:0-5s",
+  "纱线工艺:其它",
+  "货号:2025070701",
+  "克重:40",
+  "是否定制:是",
+  "加印LOGO:可以",
+  "颜色:冰凉湿巾/大尺寸冰凉贴(2片/包)/芦荟冰凉贴(2片/包）",
+  "规格（长*宽cm）:一包",
+  "是否跨境出口专供货源:否",
+  "是否IP授权:否"
+ ],
+ "包装信息": [
+  {
+   "sku2": "一包",
+   "volume": 0,
+   "sku1": "冰凉湿巾",
+   "length": 0,
+   "width": 0,
+   "weight": 40,
+   "skuId": 6285111726161,
+   "height": 0
+  },
+  {
+   "sku2": "一包",
+   "volume": 0,
+   "sku1": "大尺寸冰凉贴(2片/包)",
+   "length": 0,
+   "width": 0,
+   "weight": 37,
+   "skuId": 6279520154614,
+   "height": 0
+  },
+  {
+   "sku2": "一包",
+   "volume": 0,
+   "sku1": "芦荟冰凉贴(2片/包）",
+   "length": 0,
+   "width": 0,
+   "weight": 28,
+   "skuId": 6279520154615,
+   "height": 0
+  }
+ ],
+ "url": "https://detail.1688.com/offer/950187332331.html",
+ "核页时间": "2026-10-06T19:51:32.195Z"
+}

@@ -1,0 +1,294 @@
+{
+ "offerId": "1031148511949",
+ "条目": "H0641",
+ "block": false,
+ "卖家公司": "上海爱宠坊宠物用品有限公司",
+ "旺旺名": "爱宠坊宠物用品店",
+ "标题": "宠物牵引绳LED发光usb充电宠物遛狗绳PVC包胶织带狗狗夜光项圈",
+ "状态": "PUBLISHED",
+ "类目": "狗狗牵引",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "颜色",
+   "值": [
+    "黑色-项圈",
+    "黑色-牵引绳",
+    "荧光黄-牵引绳",
+    "蓝色-项圈",
+    "橙色-项圈",
+    "荧光黄-项圈",
+    "橙色-牵引绳",
+    "蓝色-牵引绳",
+    "橙色-项圈+牵引绳",
+    "黑色-项圈+牵引绳",
+    "蓝色-项圈+牵引绳",
+    "荧光黄-牵引绳+项圈"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "荧光黄-牵引绳",
+   "价格": "28.90",
+   "库存": 2
+  },
+  {
+   "规格": "橙色-项圈",
+   "价格": "15.90",
+   "库存": 0
+  },
+  {
+   "规格": "蓝色-项圈+牵引绳",
+   "价格": "35.90",
+   "库存": 0
+  },
+  {
+   "规格": "橙色-项圈+牵引绳",
+   "价格": "35.90",
+   "库存": 0
+  },
+  {
+   "规格": "荧光黄-牵引绳+项圈",
+   "价格": "35.90",
+   "库存": 0
+  },
+  {
+   "规格": "黑色-项圈",
+   "价格": "15.90",
+   "库存": 2
+  },
+  {
+   "规格": "橙色-牵引绳",
+   "价格": "28.90",
+   "库存": 0
+  },
+  {
+   "规格": "荧光黄-项圈",
+   "价格": "15.90",
+   "库存": 0
+  },
+  {
+   "规格": "黑色-牵引绳",
+   "价格": "28.90",
+   "库存": 1
+  },
+  {
+   "规格": "蓝色-牵引绳",
+   "价格": "28.90",
+   "库存": 0
+  },
+  {
+   "规格": "蓝色-项圈",
+   "价格": "15.90",
+   "库存": 0
+  },
+  {
+   "规格": "黑色-项圈+牵引绳",
+   "价格": "35.90",
+   "库存": 0
+  }
+ ],
+ "规格图": [
+  [
+   "黑色-项圈",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01105t7K1b2uv85WTrF_!!2220901603408-0-cib.jpg"
+  ],
+  [
+   "黑色-牵引绳",
+   "https://cbu01.alicdn.com/img/ibank/O1CN018TQmV81b2uv7or0es_!!2220901603408-0-cib.jpg"
+  ],
+  [
+   "荧光黄-牵引绳",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01YWXoNd1b2uwK8AebQ_!!2220901603408-0-cib.jpg"
+  ],
+  [
+   "蓝色-项圈",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01V0BcPe1b2uv884Yoy_!!2220901603408-0-cib.jpg"
+  ],
+  [
+   "橙色-项圈",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01QY4kaL1b2uv7hPSwD_!!2220901603408-0-cib.jpg"
+  ],
+  [
+   "荧光黄-项圈",
+   "https://cbu01.alicdn.com/img/ibank/O1CN015XuCk71b2uwJkoGl2_!!2220901603408-0-cib.jpg"
+  ],
+  [
+   "橙色-牵引绳",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01Dxk0mg1b2uv7scBKD_!!2220901603408-0-cib.jpg"
+  ],
+  [
+   "蓝色-牵引绳",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01I3Flhm1b2uv7LBER3_!!2220901603408-0-cib.jpg"
+  ],
+  [
+   "橙色-项圈+牵引绳",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01TpY6iF1b2uv8EBZYv_!!2220901603408-0-cib.jpg"
+  ],
+  [
+   "黑色-项圈+牵引绳",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01P5zHXS1b2uv7LDurN_!!2220901603408-0-cib.jpg"
+  ],
+  [
+   "蓝色-项圈+牵引绳",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01rQpzEW1b2uv94W03A_!!2220901603408-0-cib.jpg"
+  ],
+  [
+   "荧光黄-牵引绳+项圈",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01JQGXHq1b2uwK8D4HN_!!2220901603408-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "skuPrice",
+ "价格区间": "15.90-28.90",
+ "阶梯价_登录后": [
+  {
+   "price": "15.90",
+   "beginAmount": 1
+  },
+  {
+   "price": "35.90",
+   "beginAmount": 1
+  }
+ ],
+ "到手价": {
+  "价": "13.9",
+  "说明": "新人价",
+  "件数": 1
+ },
+ "起订量": 1,
+ "单位": "个",
+ "可售总量": 5,
+ "已售": 79,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN015yOwkm1b2uv7SpT0z_!!2220901603408-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01Dxk0mg1b2uv7scBKD_!!2220901603408-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01nQTIyE1b2uv87AMxX_!!2220901603408-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01GpLKT11b2uv2n0oBg_!!2220901603408-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01DNXQNG1b2uv7gggsc_!!2220901603408-0-cib.jpg"
+ ],
+ "商品属性": [
+  "可否伸缩:不可以",
+  "材质:PVC",
+  "品牌:同屋人",
+  "产品类别:牵引绳",
+  "产地:江苏",
+  "是否进口:否",
+  "是否专利货源:否",
+  "颜色:蓝色-项圈/橙色-项圈/荧光黄-项圈/黑色-项圈/橙色-牵引绳/黑色-牵引绳/蓝色-牵引绳/荧光黄-牵引绳/橙色-项圈+牵引绳/黑色-项圈+牵引绳/蓝色-项圈+牵引绳/荧光黄-牵引绳+项圈",
+  "是否跨境出口专供货源:否",
+  "是否IP授权:否"
+ ],
+ "包装信息": [
+  {
+   "volume": 0,
+   "sku1": "蓝色-项圈",
+   "length": 0,
+   "width": 0,
+   "weight": 100,
+   "skuId": 6047044209376,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "橙色-项圈",
+   "length": 0,
+   "width": 0,
+   "weight": 100,
+   "skuId": 6047044209374,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "荧光黄-项圈",
+   "length": 0,
+   "width": 0,
+   "weight": 100,
+   "skuId": 6268031890137,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "黑色-项圈",
+   "length": 0,
+   "width": 0,
+   "weight": 100,
+   "skuId": 6047044209375,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "橙色-牵引绳",
+   "length": 0,
+   "width": 0,
+   "weight": 160,
+   "skuId": 6047044209377,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "黑色-牵引绳",
+   "length": 0,
+   "width": 0,
+   "weight": 160,
+   "skuId": 6047044209378,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "蓝色-牵引绳",
+   "length": 0,
+   "width": 0,
+   "weight": 160,
+   "skuId": 6047044209379,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "荧光黄-牵引绳",
+   "length": 0,
+   "width": 0,
+   "weight": 160,
+   "skuId": 6268031890135,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "橙色-项圈+牵引绳",
+   "length": 0,
+   "width": 0,
+   "weight": 260,
+   "skuId": 6047044209380,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "黑色-项圈+牵引绳",
+   "length": 0,
+   "width": 0,
+   "weight": 260,
+   "skuId": 6047044209381,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "蓝色-项圈+牵引绳",
+   "length": 0,
+   "width": 0,
+   "weight": 260,
+   "skuId": 6047044209382,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "荧光黄-牵引绳+项圈",
+   "length": 0,
+   "width": 0,
+   "weight": 260,
+   "skuId": 6268031890136,
+   "height": 0
+  }
+ ],
+ "url": "https://detail.1688.com/offer/1031148511949.html",
+ "核页时间": "2026-10-06T17:45:50.433Z"
+}

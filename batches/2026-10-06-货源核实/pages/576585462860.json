@@ -1,0 +1,98 @@
+{
+ "offerId": "576585462860",
+ "条目": "H0581",
+ "block": false,
+ "卖家公司": "金华市斑斑塑业有限公司",
+ "旺旺名": "花螗季宠物用品",
+ "标题": "自动老鼠宠物猫咪互动玩具可爱会跑的小老鼠逗猫玩具电动仿真",
+ "状态": "PUBLISHED",
+ "类目": "猫猫玩具",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "颜色",
+   "值": [
+    "回力老鼠（颜色随机）",
+    "发条小鸡（颜色随机）"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "发条小鸡（颜色随机）",
+   "价格": null,
+   "库存": 9175
+  },
+  {
+   "规格": "回力老鼠（颜色随机）",
+   "价格": null,
+   "库存": 7858
+  }
+ ],
+ "规格图": [
+  [
+   "回力老鼠（颜色随机）",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01rL3jGF20TM2TxKhZc_!!3821586850-0-cib.jpg"
+  ],
+  [
+   "发条小鸡（颜色随机）",
+   "https://cbu01.alicdn.com/img/ibank/9303819734_1863128212.jpg"
+  ]
+ ],
+ "价格展示": "rangePrice",
+ "价格区间": null,
+ "阶梯价_登录后": [
+  {
+   "price": "2.50",
+   "beginAmount": 2
+  },
+  {
+   "price": "2.00",
+   "beginAmount": 600
+  },
+  {
+   "price": "1.80",
+   "beginAmount": 6000
+  }
+ ],
+ "到手价": null,
+ "起订量": 2,
+ "单位": "个",
+ "可售总量": 17033,
+ "已售": 81,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01YvRjMg20TM2SUjTEc_!!3821586850-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01u4HJpD20TM2RwvBYl_!!3821586850-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01KiNeHW20TM2SUiOgn_!!3821586850-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01enmwpY20TM2Qa33B3_!!3821586850-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01K87fS01Bs2zLDY6x0_!!0-0-cib.jpg"
+ ],
+ "商品属性": [
+  "材质:毛绒",
+  "品牌:花螗季",
+  "产品类别:啃咬玩具",
+  "产地:浙江",
+  "是否进口:否",
+  "货号:3547234557",
+  "箱装数量:600",
+  "重量:80g",
+  "是否专利货源:否",
+  "颜色:回力老鼠（颜色随机）/发条小鸡（颜色随机）",
+  "主要下游平台:ebay/亚马逊/wish/速卖通/独立站/LAZADA",
+  "主要销售地区:非洲/欧洲/南美/东南亚/北美/东北亚/中东",
+  "有可授权的自有品牌:否",
+  "是否跨境出口专供货源:是",
+  "是否IP授权:否"
+ ],
+ "包装信息": [
+  {
+   "volume": 0,
+   "length": 0,
+   "width": 0,
+   "weight": 80,
+   "height": 0
+  }
+ ],
+ "url": "https://detail.1688.com/offer/576585462860.html",
+ "核页时间": "2026-10-06T17:30:11.660Z"
+}

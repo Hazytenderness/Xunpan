@@ -1,0 +1,107 @@
+{
+ "offerId": "1054600299067",
+ "条目": "H0658",
+ "block": false,
+ "卖家公司": "瑞安市泽鑫宠物用品有限公司",
+ "旺旺名": "泽鑫宠物",
+ "标题": "宠物猫咪指甲剪狗狗用品美容护理指甲剪刀不绣钢刀头修甲器",
+ "状态": "PUBLISHED",
+ "类目": "宠物指甲剪",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "颜色",
+   "值": [
+    "白色",
+    "绿色"
+   ]
+  },
+  {
+   "属性": "规格",
+   "值": [
+    "简约款-彩盒包装"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "白色&gt;简约款-彩盒包装",
+   "价格": "6.50",
+   "库存": 99060
+  },
+  {
+   "规格": "绿色&gt;简约款-彩盒包装",
+   "价格": "6.50",
+   "库存": 99009
+  }
+ ],
+ "规格图": [
+  [
+   "白色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01zL8Maf1tKvayaNtfT_!!2218298085884-0-cib.jpg"
+  ],
+  [
+   "绿色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01nQq3qu1tKvaygnQx4_!!2218298085884-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "skuPrice",
+ "价格区间": "6.50",
+ "阶梯价_登录后": [
+  {
+   "price": "6.50",
+   "beginAmount": 2
+  }
+ ],
+ "到手价": {
+  "价": "5.5",
+  "说明": "新人价",
+  "件数": 2
+ },
+ "起订量": 2,
+ "单位": "个",
+ "可售总量": 198069,
+ "已售": 18,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01bkSruK1tKvayfUd4s_!!2218298085884-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01mlvtmS1tKvaymBKO9_!!2218298085884-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN016uQ2Tk1tKvaynnABY_!!2218298085884-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01uLOHFK1tKvayRQgTn_!!2218298085884-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01eMuSK21e0Zl7bDzao_!!6000000003809-0-cib.jpg"
+ ],
+ "商品属性": [
+  "是否进口:否",
+  "品牌:否",
+  "是否专利货源:否",
+  "是否跨境出口专供货源:是",
+  "有可授权的自有品牌:否",
+  "货号:73001",
+  "主要下游平台:淘宝/京东/ebay/PDD/亚马逊/wish/快手/LINIO/SHEIN/速卖通/天猫/独立站/LAZADA/拼多多/shopee/抖音/垂类电商",
+  "颜色:白色/绿色",
+  "规格:简约款-彩盒包装"
+ ],
+ "包装信息": [
+  {
+   "sku2": "简约款-彩盒包装",
+   "volume": 3000,
+   "sku1": "白色",
+   "length": 30,
+   "width": 10,
+   "weight": 100,
+   "skuId": 6097424021801,
+   "height": 10
+  },
+  {
+   "sku2": "简约款-彩盒包装",
+   "volume": 3000,
+   "sku1": "绿色",
+   "length": 30,
+   "width": 10,
+   "weight": 100,
+   "skuId": 6097424021802,
+   "height": 10
+  }
+ ],
+ "url": "https://detail.1688.com/offer/1054600299067.html",
+ "核页时间": "2026-10-06T17:50:30.890Z"
+}

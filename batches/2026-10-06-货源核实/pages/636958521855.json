@@ -1,0 +1,179 @@
+{
+ "offerId": "636958521855",
+ "条目": "H0983",
+ "block": false,
+ "卖家公司": "中山市思跃科技有限公司",
+ "旺旺名": "siyuetech",
+ "标题": "家用专业抛光石修正石砥石天然宝石磨刀石磨刀开刃磨刀器",
+ "状态": "PUBLISHED",
+ "类目": "磨刀器/石/棒",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "规格",
+   "值": [
+    "1500",
+    "3000",
+    "5000",
+    "6000",
+    "8000",
+    "10000"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "1500",
+   "价格": "5.20",
+   "库存": 98120
+  },
+  {
+   "规格": "3000",
+   "价格": "5.80",
+   "库存": 92810
+  },
+  {
+   "规格": "5000",
+   "价格": "5.80",
+   "库存": 97608
+  },
+  {
+   "规格": "6000",
+   "价格": "5.80",
+   "库存": 93811
+  },
+  {
+   "规格": "8000",
+   "价格": "5.80",
+   "库存": 97603
+  },
+  {
+   "规格": "10000",
+   "价格": "5.80",
+   "库存": 3289
+  }
+ ],
+ "规格图": [
+  [
+   "1500",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01SxTHlC1M3cvmClaXN_!!2207283401379-0-cib.jpg"
+  ],
+  [
+   "3000",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01a0qne11M3cvkQfQQA_!!2207283401379-0-cib.jpg"
+  ],
+  [
+   "5000",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01cSxUgf1M3cvouxFPj_!!2207283401379-0-cib.jpg"
+  ],
+  [
+   "6000",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01lYZVah1M3cvkLLvOE_!!2207283401379-0-cib.jpg"
+  ],
+  [
+   "8000",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01QIKFQO1M3cvrhovS1_!!2207283401379-0-cib.jpg"
+  ],
+  [
+   "10000",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01eXFovu1M3cvouxFSo_!!2207283401379-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "skuPrice",
+ "价格区间": "5.20-5.80",
+ "阶梯价_登录后": [
+  {
+   "price": "5.20",
+   "beginAmount": 1
+  },
+  {
+   "price": "5.80",
+   "beginAmount": 1
+  }
+ ],
+ "到手价": null,
+ "起订量": 1,
+ "单位": "个",
+ "可售总量": 483241,
+ "已售": 2272,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01GDTZpQ1M3cvkQbnpz_!!2207283401379-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01wg7Q2a1M3cvtjZ7EG_!!2207283401379-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01L6DrMW1M3cvmCjRNm_!!2207283401379-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01QBmQNZ1M3cvkLKaJ2_!!2207283401379-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01VtpcG81M3cpQm2BwJ_!!2207283401379-0-cib.jpg"
+ ],
+ "商品属性": [
+  "材质:天然宝石",
+  "是否进口:否",
+  "产地:中国",
+  "产品上市时间:2015年春",
+  "价格段:5-10元",
+  "加工定制:否",
+  "是否有专利:无",
+  "规格:1500/3000/5000/6000/8000/10000",
+  "主要下游平台:速卖通",
+  "主要销售地区:欧洲",
+  "有可授权的自有品牌:是",
+  "是否跨境出口专供货源:是",
+  "风格:现代简约"
+ ],
+ "包装信息": [
+  {
+   "volume": 25.6,
+   "sku1": "1500",
+   "length": 16,
+   "width": 2,
+   "weight": 50,
+   "skuId": 5024951334128,
+   "height": 0.8
+  },
+  {
+   "volume": 25.6,
+   "sku1": "3000",
+   "length": 16,
+   "width": 2,
+   "weight": 50,
+   "skuId": 4742384671708,
+   "height": 0.8
+  },
+  {
+   "volume": 25.6,
+   "sku1": "5000",
+   "length": 16,
+   "width": 2,
+   "weight": 50,
+   "skuId": 4742384671709,
+   "height": 0.8
+  },
+  {
+   "volume": 25.6,
+   "sku1": "6000",
+   "length": 16,
+   "width": 2,
+   "weight": 50,
+   "skuId": 4742384671710,
+   "height": 0.8
+  },
+  {
+   "volume": 25.6,
+   "sku1": "8000",
+   "length": 16,
+   "width": 2,
+   "weight": 50,
+   "skuId": 4742384671711,
+   "height": 0.8
+  },
+  {
+   "volume": 25.6,
+   "sku1": "10000",
+   "length": 16,
+   "width": 2,
+   "weight": 50,
+   "skuId": 4742384671712,
+   "height": 0.8
+  }
+ ],
+ "url": "https://detail.1688.com/offer/636958521855.html",
+ "核页时间": "2026-10-06T19:24:47.446Z"
+}

@@ -1,0 +1,116 @@
+{
+ "offerId": "1169838580",
+ "条目": "H0283",
+ "block": false,
+ "卖家公司": "义乌市布尚针棉织品商行",
+ "旺旺名": "ywzlryp",
+ "标题": "厨房围裙韩版做饭围腰家用男时尚防油条纹防污男款防水围裙围腰",
+ "状态": "PUBLISHED",
+ "类目": "家务围裙、袖套",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "颜色",
+   "值": [
+    "黑色",
+    "咖啡",
+    "黑红条"
+   ]
+  },
+  {
+   "属性": "规格",
+   "值": [
+    "85*62"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "黑红条&gt;85*62",
+   "价格": null,
+   "库存": 209487
+  },
+  {
+   "规格": "黑色&gt;85*62",
+   "价格": null,
+   "库存": 67701
+  },
+  {
+   "规格": "咖啡&gt;85*62",
+   "价格": null,
+   "库存": 95548
+  }
+ ],
+ "规格图": [
+  [
+   "黑色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01tsYF9U1lwvXP4V3Ik_!!942074884-0-cib.jpg"
+  ],
+  [
+   "咖啡",
+   "https://cbu01.alicdn.com/img/ibank/O1CN018FIin71lwvXKWVhAn_!!942074884-0-cib.jpg"
+  ],
+  [
+   "黑红条",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01N7wnZx1lwvXOyWyrD_!!942074884-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "rangePrice",
+ "价格区间": null,
+ "阶梯价_登录后": [
+  {
+   "price": "4.00",
+   "beginAmount": 1
+  },
+  {
+   "price": "3.90",
+   "beginAmount": 100
+  },
+  {
+   "price": "3.80",
+   "beginAmount": 200
+  }
+ ],
+ "到手价": null,
+ "起订量": 1,
+ "单位": "条",
+ "可售总量": 372736,
+ "已售": 841,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01mhxIQM1lwvXP9oIJO_!!942074884-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01ZnhC661lwvXKWToXR_!!942074884-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN015Ow5Jo1lwvXP7nHKA_!!942074884-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN018aCGO81lwvXP6h0Ea_!!942074884-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01HBvmEq1lwvXOxF17A_!!942074884-0-cib.jpg"
+ ],
+ "商品属性": [
+  "材质:涤纶",
+  "产品类别:围裙",
+  "用途:防水",
+  "品牌:布喆",
+  "围裙分类:无袖围裙",
+  "是否进口:否",
+  "尺码:L",
+  "风格:现代简约",
+  "花色:条纹",
+  "图案:条纹/格子",
+  "专利:否",
+  "货号:006",
+  "颜色:黑色/咖啡/黑红条",
+  "规格:85*62",
+  "是否跨境出口专供货源:否",
+  "人群:青少年/成人/老人",
+  "版权:无"
+ ],
+ "包装信息": [
+  {
+   "volume": 0,
+   "length": 0,
+   "width": 0,
+   "weight": 80,
+   "height": 0
+  }
+ ],
+ "url": "https://detail.1688.com/offer/1169838580.html",
+ "核页时间": "2026-10-06T16:06:08.169Z"
+}

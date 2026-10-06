@@ -1,0 +1,306 @@
+{
+ "offerId": "1079890244063",
+ "条目": "H0376",
+ "block": false,
+ "卖家公司": "西安市浐灞生态区初柒商贸行(个体工商户)",
+ "旺旺名": "初柒商贸行",
+ "标题": "小方巾出口外贸日本日单无捻棉刺绣黑猫草莓森林毛巾手巾手帕",
+ "状态": "PUBLISHED",
+ "类目": "方巾、中巾",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "颜色",
+   "值": [
+    "蓝玫瑰黑猫25cm小方巾",
+    "蘑菇猫23cm小方巾",
+    "粉玫瑰黑猫25cm小方巾",
+    "飞行猫25cm小方巾",
+    "粉四叶草24cm小方巾",
+    "蓝四叶草24cm小方巾",
+    "树下黄花25cm小方巾",
+    "绿铃铛草猫23cm小方巾",
+    "黄四叶草24cm小方巾",
+    "绿太阳花23cm小方巾",
+    "勾边玫瑰黑猫25cm小方巾",
+    "黄向日葵24cm小方巾",
+    "蓝向日葵24cm小方巾",
+    "粉向日葵24cm小方巾",
+    "黑猫糕点小方巾",
+    "绿色丛林25cm小方巾",
+    "紫色小黑猫24cm小方巾",
+    "紫蓝铃铛草猫23cm小方巾",
+    "花盆猫25cm小方巾",
+    "粉黑猫24cm小方巾",
+    "粉绣球花23cm小方巾",
+    "红太阳花23cm小方巾",
+    "黄太阳花23cm小方巾",
+    "粉色樱花25cm小方巾"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "树下黄花25cm小方巾",
+   "价格": "8.00",
+   "库存": 174
+  },
+  {
+   "规格": "蓝向日葵24cm小方巾",
+   "价格": "7.80",
+   "库存": 261
+  },
+  {
+   "规格": "粉绣球花23cm小方巾",
+   "价格": "7.50",
+   "库存": 0
+  },
+  {
+   "规格": "绿铃铛草猫23cm小方巾",
+   "价格": "7.50",
+   "库存": 7
+  },
+  {
+   "规格": "紫色小黑猫24cm小方巾",
+   "价格": "7.80",
+   "库存": 168
+  },
+  {
+   "规格": "粉色樱花25cm小方巾",
+   "价格": "7.80",
+   "库存": 0
+  },
+  {
+   "规格": "红太阳花23cm小方巾",
+   "价格": "7.00",
+   "库存": 0
+  },
+  {
+   "规格": "蓝玫瑰黑猫25cm小方巾",
+   "价格": "7.80",
+   "库存": 150
+  },
+  {
+   "规格": "花盆猫25cm小方巾",
+   "价格": "8.00",
+   "库存": 0
+  },
+  {
+   "规格": "蘑菇猫23cm小方巾",
+   "价格": "7.80",
+   "库存": 147
+  },
+  {
+   "规格": "黑猫糕点小方巾",
+   "价格": "8.50",
+   "库存": 125
+  },
+  {
+   "规格": "蓝四叶草24cm小方巾",
+   "价格": "7.80",
+   "库存": 72
+  },
+  {
+   "规格": "粉玫瑰黑猫25cm小方巾",
+   "价格": "7.80",
+   "库存": 48
+  },
+  {
+   "规格": "黄向日葵24cm小方巾",
+   "价格": "7.80",
+   "库存": 239
+  },
+  {
+   "规格": "绿色丛林25cm小方巾",
+   "价格": "8.50",
+   "库存": 112
+  },
+  {
+   "规格": "粉四叶草24cm小方巾",
+   "价格": "7.80",
+   "库存": 29
+  },
+  {
+   "规格": "黄四叶草24cm小方巾",
+   "价格": "7.80",
+   "库存": 57
+  },
+  {
+   "规格": "勾边玫瑰黑猫25cm小方巾",
+   "价格": "8.50",
+   "库存": 46
+  },
+  {
+   "规格": "粉向日葵24cm小方巾",
+   "价格": "7.80",
+   "库存": 255
+  },
+  {
+   "规格": "粉黑猫24cm小方巾",
+   "价格": "7.80",
+   "库存": 0
+  },
+  {
+   "规格": "紫蓝铃铛草猫23cm小方巾",
+   "价格": "7.50",
+   "库存": 170
+  },
+  {
+   "规格": "飞行猫25cm小方巾",
+   "价格": "8.00",
+   "库存": 87
+  },
+  {
+   "规格": "绿太阳花23cm小方巾",
+   "价格": "7.00",
+   "库存": 50
+  },
+  {
+   "规格": "黄太阳花23cm小方巾",
+   "价格": "7.00",
+   "库存": 0
+  }
+ ],
+ "规格图": [
+  [
+   "蓝玫瑰黑猫25cm小方巾",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01ltZRmf2AoYbr67OrL_!!2211241428250-0-cib.jpg"
+  ],
+  [
+   "蘑菇猫23cm小方巾",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01Dw9jqV2AoYY6Mkesv_!!2211241428250-0-cib.jpg"
+  ],
+  [
+   "粉玫瑰黑猫25cm小方巾",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01xdIGuP2AoYbr9P1pK_!!2211241428250-0-cib.jpg"
+  ],
+  [
+   "飞行猫25cm小方巾",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01FOdmAw2AoYhK7KIZR_!!2211241428250-0-cib.jpg"
+  ],
+  [
+   "粉四叶草24cm小方巾",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01omkzeZ2AoYb4wwMlG_!!2211241428250-0-cib.jpg"
+  ],
+  [
+   "蓝四叶草24cm小方巾",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01WKs0Wr2AoYawoskDz_!!2211241428250-0-cib.jpg"
+  ],
+  [
+   "树下黄花25cm小方巾",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01GP9hQP2AoYanSji6J_!!2211241428250-0-cib.jpg"
+  ],
+  [
+   "绿铃铛草猫23cm小方巾",
+   "https://cbu01.alicdn.com/img/ibank/O1CN0197eFmm2AoYYA2AKSO_!!2211241428250-0-cib.jpg"
+  ],
+  [
+   "黄四叶草24cm小方巾",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01cFFgaR2AoYb9JuZLR_!!2211241428250-0-cib.jpg"
+  ],
+  [
+   "绿太阳花23cm小方巾",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01SGhvhv2AoYDH5Z7Pn_!!2211241428250-0-cib.jpg"
+  ],
+  [
+   "勾边玫瑰黑猫25cm小方巾",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01sMoPpK2AoYhK8Shlj_!!2211241428250-0-cib.jpg"
+  ],
+  [
+   "黄向日葵24cm小方巾",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01QOJSRp2AoYh3XXkmD_!!2211241428250-0-cib.jpg"
+  ],
+  [
+   "蓝向日葵24cm小方巾",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01rBGdMK2AoYh1ydb5T_!!2211241428250-0-cib.jpg"
+  ],
+  [
+   "粉向日葵24cm小方巾",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01u00zFp2AoYh1lFGPW_!!2211241428250-0-cib.jpg"
+  ],
+  [
+   "黑猫糕点小方巾",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01S2kON22AoYhK7JxmW_!!2211241428250-0-cib.jpg"
+  ],
+  [
+   "绿色丛林25cm小方巾",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01aIZaRj2AoYhKc8Olh_!!2211241428250-0-cib.jpg"
+  ],
+  [
+   "紫色小黑猫24cm小方巾",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01DnOmGl2AoYThwAB8f_!!2211241428250-0-cib.jpg"
+  ],
+  [
+   "紫蓝铃铛草猫23cm小方巾",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01JLDn1nwQUHD1WPfQ_!!2211241428250-0-cib.jpg"
+  ],
+  [
+   "花盆猫25cm小方巾",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01RYirt32AoYY6Z8c5C_!!2211241428250-0-cib.jpg"
+  ],
+  [
+   "粉黑猫24cm小方巾",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01YmoxZT2AoYTjK1wUC_!!2211241428250-0-cib.jpg"
+  ],
+  [
+   "粉绣球花23cm小方巾",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01S5uLUL2AoYDL7ohVG_!!2211241428250-0-cib.jpg"
+  ],
+  [
+   "红太阳花23cm小方巾",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01ti9bIz2AoYDLybRC7_!!2211241428250-0-cib.jpg"
+  ],
+  [
+   "黄太阳花23cm小方巾",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01oL9q6V2AoYDD8QHHT_!!2211241428250-0-cib.jpg"
+  ],
+  [
+   "粉色樱花25cm小方巾",
+   "https://cbu01.alicdn.com/img/ibank/O1CN010DrjIp2AoYhFd9eVO_!!2211241428250-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "skuPrice",
+ "价格区间": null,
+ "阶梯价_登录后": [
+  {
+   "price": "7.00",
+   "beginAmount": 10
+  },
+  {
+   "price": "8.50",
+   "beginAmount": 10
+  }
+ ],
+ "到手价": null,
+ "起订量": 10,
+ "单位": "条",
+ "可售总量": 2197,
+ "已售": 461,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN011Px7cg2AoYhLbu8wm_!!2211241428250-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01aIZaRj2AoYhKc8Olh_!!2211241428250-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01Gm7fNz2AoYTeTuvfx_!!2211241428250-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01sMoPpK2AoYhK8Shlj_!!2211241428250-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01uakdNe2AoYTbKsjPL_!!2211241428250-0-cib.jpg"
+ ],
+ "商品属性": [
+  "材质:纯棉",
+  "制作工艺:绣花",
+  "品牌:其他",
+  "吸水性:21s-25s",
+  "纱线规格:32",
+  "克重:25g",
+  "颜色:蓝玫瑰黑猫25cm小方巾/花盆猫25cm小方巾/蘑菇猫23cm小方巾/粉玫瑰黑猫25cm小方巾/粉黑猫24cm小方巾/粉绣球花23cm小方巾/飞行猫25cm小方巾/粉四叶草24cm小方巾/蓝四叶草24cm小方巾/红太阳花23cm小方巾/树下黄花25cm小方巾/绿铃铛草猫23cm小方巾/黄太阳花23cm小方巾/黄四叶草24cm小方巾/绿太阳花23cm小方巾/粉色樱花25cm小方巾/勾边玫瑰黑猫25cm小方巾/黄向日葵24cm小方巾/蓝向日葵24cm小方巾/粉向日葵24cm小方巾/黑猫糕点小方巾/绿色丛林25cm小方巾/紫色小黑猫24cm小方巾/紫蓝铃铛草猫23cm小方巾"
+ ],
+ "包装信息": [
+  {
+   "volume": 0,
+   "length": 0,
+   "width": 0,
+   "weight": 30,
+   "height": 0
+  }
+ ],
+ "url": "https://detail.1688.com/offer/1079890244063.html",
+ "核页时间": "2026-10-06T16:32:07.201Z"
+}

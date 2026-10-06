@@ -1,0 +1,199 @@
+{
+ "offerId": "1052426801306",
+ "条目": "H1011",
+ "block": false,
+ "卖家公司": "义乌市烁心工艺品有限公司",
+ "旺旺名": "义乌市烁心工艺品有限公司",
+ "标题": "迷你口袋见面小花束永生仿真花玫瑰送男女朋友伴手生日礼物批发",
+ "状态": "PUBLISHED",
+ "类目": "鲜花、花艺制品",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "颜色",
+   "值": [
+    "双色碎冰粉",
+    "碎冰蓝",
+    "蔷薇粉",
+    "红玫瑰",
+    "丁香紫",
+    "热情橙",
+    "手提袋联系客服"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "丁香紫",
+   "价格": "6.50",
+   "库存": 9978
+  },
+  {
+   "规格": "碎冰蓝",
+   "价格": "6.50",
+   "库存": 9978
+  },
+  {
+   "规格": "双色碎冰粉",
+   "价格": "6.50",
+   "库存": 9998
+  },
+  {
+   "规格": "热情橙",
+   "价格": "6.50",
+   "库存": 9988
+  },
+  {
+   "规格": "手提袋联系客服",
+   "价格": "6.50",
+   "库存": 9999
+  },
+  {
+   "规格": "蔷薇粉",
+   "价格": "6.50",
+   "库存": 9968
+  },
+  {
+   "规格": "红玫瑰",
+   "价格": "6.50",
+   "库存": 9979
+  }
+ ],
+ "规格图": [
+  [
+   "双色碎冰粉",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01IQoZZG1DgGB3K5FhN_!!2219412720245-0-cib.jpg"
+  ],
+  [
+   "碎冰蓝",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01EIWQP01DgGB2qsLBb_!!2219412720245-0-cib.jpg"
+  ],
+  [
+   "蔷薇粉",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01BYoCky1DgGB3PXyZc_!!2219412720245-0-cib.jpg"
+  ],
+  [
+   "红玫瑰",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01U36mIB1DgGB3BkbuS_!!2219412720245-0-cib.jpg"
+  ],
+  [
+   "丁香紫",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01TdwmJS1DgGAyVvuGn_!!2219412720245-0-cib.jpg"
+  ],
+  [
+   "热情橙",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01POQRTX1DgGB2x6jRN_!!2219412720245-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "rangePrice",
+ "价格区间": "5.80-6.50",
+ "阶梯价_登录后": [
+  {
+   "price": "6.50",
+   "beginAmount": 1
+  },
+  {
+   "price": "6.00",
+   "beginAmount": 2000
+  },
+  {
+   "price": "5.80",
+   "beginAmount": 5000
+  }
+ ],
+ "到手价": null,
+ "起订量": 2,
+ "单位": "束",
+ "可售总量": 69888,
+ "已售": 105,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01VOj86B1DgGB3EwNl5_!!2219412720245-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01ZR42oH1DgGB3CxeLj_!!2219412720245-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01V2e1qo1DgGB4fNsy1_!!2219412720245-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01fgPUe81DgGB2qdye4_!!2219412720245-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01ewDi6X1DgGB3UQjXQ_!!2219412720245-0-cib.jpg"
+ ],
+ "商品属性": [
+  "材质:香皂花",
+  "品种:玫瑰",
+  "工艺:手工制作",
+  "品牌:花神话",
+  "货号:口袋花",
+  "是否专利货源:否",
+  "是否进口:否",
+  "颜色:双色碎冰粉/碎冰蓝/蔷薇粉/红玫瑰/丁香紫/热情橙/手提袋联系客服",
+  "适用送礼场合:生日/派对聚会/其他",
+  "适用送礼关系:情侣/夫妻/朋友/其他",
+  "送礼用途:其他",
+  "是否属于礼品:是，个人礼品",
+  "是否IP授权:否",
+  "适用节日:通用"
+ ],
+ "包装信息": [
+  {
+   "volume": 0,
+   "sku1": "双色碎冰粉",
+   "length": 0,
+   "width": 0,
+   "weight": 100,
+   "skuId": 6087474345748,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "碎冰蓝",
+   "length": 0,
+   "width": 0,
+   "weight": 100,
+   "skuId": 6087474345749,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "蔷薇粉",
+   "length": 0,
+   "width": 0,
+   "weight": 100,
+   "skuId": 6087474345750,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "红玫瑰",
+   "length": 0,
+   "width": 0,
+   "weight": 100,
+   "skuId": 6087474345751,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "丁香紫",
+   "length": 0,
+   "width": 0,
+   "weight": 100,
+   "skuId": 6087474345752,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "热情橙",
+   "length": 0,
+   "width": 0,
+   "weight": 100,
+   "skuId": 6087474345753,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "手提袋联系客服",
+   "length": 0,
+   "width": 0,
+   "weight": 100,
+   "skuId": 6087474345754,
+   "height": 0
+  }
+ ],
+ "url": "https://detail.1688.com/offer/1052426801306.html",
+ "核页时间": "2026-10-06T19:33:12.476Z"
+}

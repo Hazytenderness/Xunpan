@@ -1,0 +1,136 @@
+{
+ "offerId": "814772545206",
+ "条目": "H0992",
+ "block": false,
+ "卖家公司": "阳江市源爱尚工贸有限公司",
+ "旺旺名": "爱尚硅胶制品厂",
+ "标题": "小号一体式硅胶刮刀烘焙工具硅胶刮板奶油蛋糕烘焙铲刀果酱抹刀",
+ "状态": "PUBLISHED",
+ "类目": "烘焙刮刀",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "规格",
+   "值": [
+    "米白色",
+    "清新绿",
+    "红色",
+    "黑色",
+    "马卡粉色",
+    "绿色"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "米白色",
+   "价格": null,
+   "库存": 317465
+  },
+  {
+   "规格": "黑色",
+   "价格": null,
+   "库存": 193727
+  },
+  {
+   "规格": "马卡粉色",
+   "价格": null,
+   "库存": 174870
+  },
+  {
+   "规格": "绿色",
+   "价格": null,
+   "库存": 210583
+  },
+  {
+   "规格": "清新绿",
+   "价格": null,
+   "库存": 271833
+  },
+  {
+   "规格": "红色",
+   "价格": null,
+   "库存": 194659
+  }
+ ],
+ "规格图": [
+  [
+   "米白色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01vOqZVH2GlFLX64hOw_!!2811149055-0-cib.jpg"
+  ],
+  [
+   "清新绿",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01RHU9UD2GlFLZ0drs7_!!2811149055-0-cib.jpg"
+  ],
+  [
+   "红色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01rPQ0RA2GlFLXope0w_!!2811149055-0-cib.jpg"
+  ],
+  [
+   "黑色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01Y6dgVE2GlFLX849pp_!!2811149055-0-cib.jpg"
+  ],
+  [
+   "马卡粉色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01j4Nnle2GlFLPze6wB_!!2811149055-0-cib.jpg"
+  ],
+  [
+   "绿色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01DfxezL2GlFLbLqfsb_!!2811149055-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "rangePrice",
+ "价格区间": null,
+ "阶梯价_登录后": [
+  {
+   "price": "0.83",
+   "beginAmount": 2
+  },
+  {
+   "price": "0.80",
+   "beginAmount": 2000
+  },
+  {
+   "price": "0.75",
+   "beginAmount": 100000
+  }
+ ],
+ "到手价": null,
+ "起订量": 2,
+ "单位": "个",
+ "可售总量": 1363137,
+ "已售": 114866,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN016GrjXm2GlFLX32rUc_!!2811149055-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01OB0jrK2GlFLX35obj_!!2811149055-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01Z79Vad2GlFLX64IXC_!!2811149055-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01WWHkRy2GlFLUWTc4V_!!2811149055-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01UFBe8Y2GlFLakvzcs_!!2811149055-0-cib.jpg"
+ ],
+ "商品属性": [
+  "材质:硅胶",
+  "品牌:其他",
+  "风格:现代简约",
+  "货号:AS2555",
+  "是否进口:否",
+  "产品上市时间:2021年夏",
+  "产地:阳江",
+  "规格:米白色/清新绿/红色/黑色/马卡粉色/绿色",
+  "主要下游平台:亚马逊",
+  "主要销售地区:北美",
+  "有可授权的自有品牌:否",
+  "是否跨境出口专供货源:是",
+  "是否有专利:否"
+ ],
+ "包装信息": [
+  {
+   "volume": 0,
+   "length": 0,
+   "width": 0,
+   "weight": 30,
+   "height": 0
+  }
+ ],
+ "url": "https://detail.1688.com/offer/814772545206.html",
+ "核页时间": "2026-10-06T19:27:42.761Z"
+}

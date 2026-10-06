@@ -1,0 +1,159 @@
+{
+ "offerId": "893565369099",
+ "条目": "H0303",
+ "block": false,
+ "卖家公司": "永康市摩登厨具有限公司",
+ "旺旺名": "永康摩登厨具",
+ "标题": "批发不粘锅平底锅酒店商用大号牛排烙饼不沾煎锅家用煤气灶电磁炉",
+ "状态": "PUBLISHED",
+ "类目": "煎锅、平底锅",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "规格",
+   "值": [
+    "26cm",
+    "30cm",
+    "34CM",
+    "40CM"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "30cm",
+   "价格": "48.00",
+   "库存": 694
+  },
+  {
+   "规格": "26cm",
+   "价格": "40.00",
+   "库存": 886
+  },
+  {
+   "规格": "34CM",
+   "价格": "56.00",
+   "库存": 772
+  },
+  {
+   "规格": "40CM",
+   "价格": "75.00",
+   "库存": 837
+  }
+ ],
+ "规格图": [
+  [
+   "26cm",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01IstXdV1j4IxM3rtJp_!!2209725704494-0-cib.jpg"
+  ],
+  [
+   "30cm",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01tvWGSu1j4IxFzgiYO_!!2209725704494-0-cib.jpg"
+  ],
+  [
+   "34CM",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01plX5AP1j4IxNoi4Di_!!2209725704494-0-cib.jpg"
+  ],
+  [
+   "40CM",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01tdhkFg1j4IxMIhlM8_!!2209725704494-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "skuPrice",
+ "价格区间": "40.00-75.00",
+ "阶梯价_登录后": [
+  {
+   "price": "40.00",
+   "beginAmount": 1
+  },
+  {
+   "price": "75.00",
+   "beginAmount": 1
+  }
+ ],
+ "到手价": {
+  "价": "38",
+  "说明": "新人价",
+  "件数": 1
+ },
+ "起订量": 1,
+ "单位": "个",
+ "可售总量": 3189,
+ "已售": 448,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN011PUYUl1j4IxLkZldb_!!2209725704494-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01UpMo3N1j4IxMtQmIp_!!2209725704494-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN016UbveW1j4IxMtRuyA_!!2209725704494-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01CkSVrM1j4IxOiJYsJ_!!2209725704494-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01tQVbgU1j4IxNFRdZ2_!!2209725704494-0-cib.jpg"
+ ],
+ "商品属性": [
+  "锅底材质:铝合金",
+  "功能:炒/煎/不粘",
+  "适用炉灶:燃气电磁炉通用",
+  "品牌:摩登",
+  "产品质量等级:优等品",
+  "锅体材质:铝合金",
+  "货号:钛煎锅",
+  "是否进口:否",
+  "风格:韩式",
+  "特色:无涂层锅",
+  "外箱规格:60*75*50",
+  "型号:平底煎锅",
+  "重量:1.2KG",
+  "贸易属性:内贸",
+  "适用送礼场合:展销会/广告促销/员工福利/周年庆典/商务馈赠",
+  "包装:礼盒",
+  "产品上市时间:2023年春",
+  "价格段:20-30元",
+  "加工定制:可以",
+  "是否有专利:无",
+  "加印LOGO:可以",
+  "锅盖类型:无锅盖",
+  "深度:6.5cm",
+  "规格:26cm/30cm/34CM/40CM",
+  "是否跨境出口专供货源:否",
+  "是否电动:否",
+  "版权:无"
+ ],
+ "包装信息": [
+  {
+   "volume": 4056,
+   "sku1": "26cm",
+   "length": 26,
+   "width": 26,
+   "weight": 1000,
+   "skuId": 5908872214164,
+   "height": 6
+  },
+  {
+   "volume": 7200,
+   "sku1": "30cm",
+   "length": 30,
+   "width": 30,
+   "weight": 1200,
+   "skuId": 5908872214165,
+   "height": 8
+  },
+  {
+   "volume": 9248,
+   "sku1": "34CM",
+   "length": 34,
+   "width": 34,
+   "weight": 1400,
+   "skuId": 5908872214166,
+   "height": 8
+  },
+  {
+   "volume": 12800,
+   "sku1": "40CM",
+   "length": 40,
+   "width": 40,
+   "weight": 1700,
+   "skuId": 5908872214167,
+   "height": 8
+  }
+ ],
+ "url": "https://detail.1688.com/offer/893565369099.html",
+ "核页时间": "2026-10-06T16:12:15.766Z"
+}

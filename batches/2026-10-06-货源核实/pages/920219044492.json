@@ -1,0 +1,198 @@
+{
+ "offerId": "920219044492",
+ "条目": "H0822",
+ "block": false,
+ "卖家公司": "潮州市列迪贸易有限公司",
+ "旺旺名": "列迪贸易",
+ "标题": "送冰夹 手提冰桶水果茶玻璃桶夏日户外野餐快乐桶冰镇啤酒冰块桶",
+ "状态": "PUBLISHED",
+ "类目": "冰桶、冰夹",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "尺寸",
+   "值": [
+    "网格手提冰桶",
+    "剑纹手提冰桶",
+    "双圆手提冰桶",
+    "八角手提冰桶",
+    "旋纹手提冰桶",
+    "条纹手提冰桶",
+    "钻石手提冰桶"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "八角手提冰桶",
+   "价格": "14.80",
+   "库存": 999991
+  },
+  {
+   "规格": "钻石手提冰桶",
+   "价格": "14.80",
+   "库存": 999977
+  },
+  {
+   "规格": "旋纹手提冰桶",
+   "价格": "13.00",
+   "库存": 999989
+  },
+  {
+   "规格": "剑纹手提冰桶",
+   "价格": "13.00",
+   "库存": 999992
+  },
+  {
+   "规格": "双圆手提冰桶",
+   "价格": "13.00",
+   "库存": 999982
+  },
+  {
+   "规格": "网格手提冰桶",
+   "价格": "13.00",
+   "库存": 999971
+  },
+  {
+   "规格": "条纹手提冰桶",
+   "价格": "13.00",
+   "库存": 999987
+  }
+ ],
+ "规格图": [
+  [
+   "网格手提冰桶",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01GDtJ4XmukVE1chua_!!2218998505513-0-cib.jpg"
+  ],
+  [
+   "剑纹手提冰桶",
+   "https://cbu01.alicdn.com/img/ibank/O1CN012QgKHxCbW9D1chua_!!2218998505513-0-cib.jpg"
+  ],
+  [
+   "双圆手提冰桶",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01UTFDn0PxDyH1chua_!!2218998505513-0-cib.jpg"
+  ],
+  [
+   "八角手提冰桶",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01YCRYn3n6dFJ1chua_!!2218998505513-0-cib.jpg"
+  ],
+  [
+   "旋纹手提冰桶",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01Vw3NTSxV1FG1chua_!!2218998505513-0-cib.jpg"
+  ],
+  [
+   "条纹手提冰桶",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01AlUisIUSXqK1chua_!!2218998505513-0-cib.jpg"
+  ],
+  [
+   "钻石手提冰桶",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01ZuSm449JD4B1chua_!!2218998505513-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "skuPrice",
+ "价格区间": "13.00-14.80",
+ "阶梯价_登录后": [
+  {
+   "price": "13.00",
+   "beginAmount": 1
+  },
+  {
+   "price": "14.80",
+   "beginAmount": 2
+  }
+ ],
+ "到手价": {
+  "价": "10",
+  "说明": "新人价",
+  "件数": 1
+ },
+ "起订量": 2,
+ "单位": "件",
+ "可售总量": 6999889,
+ "已售": 82,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01g87TF6ous9E1chua_!!2218998505513-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01sOeyYoppzEB1chua_!!2218998505513-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01Y0MMMVHno7K1chua_!!2218998505513-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01iYyc8axAYIG1chua_!!2218998505513-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01qB6BML1qb0YzG6WGF_!!2218998505513-0-cib.jpg"
+ ],
+ "商品属性": [
+  "材质:玻璃",
+  "产品类别:冰桶",
+  "品牌:列迪",
+  "风格:现代简约",
+  "是否进口:否",
+  "是否有专利:无",
+  "尺寸:网格手提冰桶/剑纹手提冰桶/双圆手提冰桶/八角手提冰桶/旋纹手提冰桶/条纹手提冰桶/钻石手提冰桶",
+  "产品质量等级:优等品",
+  "风格类型:简约格调"
+ ],
+ "包装信息": [
+  {
+   "volume": 0,
+   "sku1": "网格手提冰桶",
+   "length": 0,
+   "width": 0,
+   "weight": 1,
+   "skuId": 5958219371012,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "剑纹手提冰桶",
+   "length": 0,
+   "width": 0,
+   "weight": 1,
+   "skuId": 5958219371013,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "双圆手提冰桶",
+   "length": 0,
+   "width": 0,
+   "weight": 1,
+   "skuId": 5958219371014,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "八角手提冰桶",
+   "length": 0,
+   "width": 0,
+   "weight": 1,
+   "skuId": 5958219371015,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "旋纹手提冰桶",
+   "length": 0,
+   "width": 0,
+   "weight": 1,
+   "skuId": 5958219371016,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "条纹手提冰桶",
+   "length": 0,
+   "width": 0,
+   "weight": 1,
+   "skuId": 5958219371017,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "钻石手提冰桶",
+   "length": 0,
+   "width": 0,
+   "weight": 1,
+   "skuId": 5958219371018,
+   "height": 0
+  }
+ ],
+ "url": "https://detail.1688.com/offer/920219044492.html",
+ "核页时间": "2026-10-06T18:35:25.282Z"
+}

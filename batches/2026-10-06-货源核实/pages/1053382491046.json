@@ -1,0 +1,142 @@
+{
+ "offerId": "1053382491046",
+ "条目": "H0243",
+ "block": false,
+ "卖家公司": "潮州市潮安区伍洲印务有限公司",
+ "旺旺名": "伍洲印务",
+ "标题": "纯铝密封包装袋真空袋子储备高阻隔重包储存袋大米五谷杂粮自封袋",
+ "状态": "PUBLISHED",
+ "类目": "塑料自封袋",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "规格型号",
+   "值": [
+    "大尺寸4层铝箔【5个装】自封袋",
+    "Pro Max4层铝箔【5个装】自封袋",
+    "【大尺寸4层铝箔】自封袋子套装",
+    "【Pro Max4层铝箔】自封袋子套装"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "Pro Max4层铝箔【5个装】自封袋",
+   "价格": "33.82",
+   "库存": 99
+  },
+  {
+   "规格": "【大尺寸4层铝箔】自封袋子套装",
+   "价格": "34.50",
+   "库存": 99
+  },
+  {
+   "规格": "大尺寸4层铝箔【5个装】自封袋",
+   "价格": "23.00",
+   "库存": 99
+  },
+  {
+   "规格": "【Pro Max4层铝箔】自封袋子套装",
+   "价格": "44.65",
+   "库存": 99
+  }
+ ],
+ "规格图": [
+  [
+   "大尺寸4层铝箔【5个装】自封袋",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01zuRYGb23isSlID5Ue_!!2219799137290-0-cib.jpg"
+  ],
+  [
+   "Pro Max4层铝箔【5个装】自封袋",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01y4sXv523isSlGbyab_!!2219799137290-0-cib.jpg"
+  ],
+  [
+   "【大尺寸4层铝箔】自封袋子套装",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01TAVnjw23isSlTx98a_!!2219799137290-0-cib.jpg"
+  ],
+  [
+   "【Pro Max4层铝箔】自封袋子套装",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01ySd3gf23isSggr1dV_!!2219799137290-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "skuPrice",
+ "价格区间": "23.00-44.65",
+ "阶梯价_登录后": [
+  {
+   "price": "23.00",
+   "beginAmount": 1
+  },
+  {
+   "price": "44.65",
+   "beginAmount": 1
+  }
+ ],
+ "到手价": null,
+ "起订量": 1,
+ "单位": "个",
+ "可售总量": 396,
+ "已售": 0,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01XWQBPj23isSlRSuFc_!!2219799137290-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01gP3Sk223isSlStpFU_!!2219799137290-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN012r1Rax23isSl4JUIF_!!2219799137290-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN015OSK8M23isSl6uJD2_!!2219799137290-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01bhzQq023isSlKNifh_!!2219799137290-0-cib.jpg"
+ ],
+ "商品属性": [
+  "材料:PET/纯铝/尼龙/PE",
+  "产地:广东潮州",
+  "原产国/地区:中国",
+  "货号:食品自封袋",
+  "品牌:伍洲印务",
+  "用途:通用包装袋",
+  "主要下游平台:shoppe/亚马逊/拼多多/独立站/速卖通/淘宝/天猫/wish/抖音/阿里巴巴/LAZADA/京东/ebay",
+  "主要销售地区:东南亚/东北亚/拉丁美洲/非洲/欧洲/中东/中国/南美/北美",
+  "有可授权的自有品牌:否",
+  "是否跨境出口专供货源:否",
+  "全国工业生产许可证编号:(粤)XK16-204-12290",
+  "封口长度:450mm",
+  "克重:15g",
+  "塑料品种:PET/纯铝/尼龙/PE"
+ ],
+ "包装信息": [
+  {
+   "volume": 0,
+   "sku1": "大尺寸4层铝箔【5个装】自封袋",
+   "length": 0,
+   "width": 0,
+   "weight": 75,
+   "skuId": 6095511029013,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "Pro Max4层铝箔【5个装】自封袋",
+   "length": 0,
+   "width": 0,
+   "weight": 75,
+   "skuId": 6095511029014,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "【大尺寸4层铝箔】自封袋子套装",
+   "length": 0,
+   "width": 0,
+   "weight": 75,
+   "skuId": 6095511029015,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "【Pro Max4层铝箔】自封袋子套装",
+   "length": 0,
+   "width": 0,
+   "weight": 75,
+   "skuId": 6095511029016,
+   "height": 0
+  }
+ ],
+ "url": "https://detail.1688.com/offer/1053382491046.html",
+ "核页时间": "2026-10-06T15:52:13.669Z"
+}

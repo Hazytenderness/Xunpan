@@ -1,0 +1,84 @@
+{
+ "offerId": "559814728852",
+ "条目": "H0608",
+ "block": false,
+ "卖家公司": "深圳市福田区颖棋宠物用品商行(个体工商户)",
+ "旺旺名": "yingluck1688",
+ "标题": "外贸宠物免充气PVC浴盆折叠猫池折叠水池宠物 浴缸狗狗浴盆批发",
+ "状态": "PUBLISHED",
+ "类目": "狗狗清洁美容工具",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "规格",
+   "值": [
+    "30*10CM 蓝+红"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "30*10CM 蓝+红",
+   "价格": "25.00",
+   "库存": 1340
+  }
+ ],
+ "规格图": [
+  [
+   "30*10CM 蓝+红",
+   "https://cbu01.alicdn.com/img/ibank/5103992174_205280163.jpg"
+  ]
+ ],
+ "价格展示": "rangePrice",
+ "价格区间": "20.00-25.00",
+ "阶梯价_登录后": [
+  {
+   "price": "25.00",
+   "beginAmount": 2
+  },
+  {
+   "price": "23.00",
+   "beginAmount": 80
+  },
+  {
+   "price": "20.00",
+   "beginAmount": 1000
+  }
+ ],
+ "到手价": null,
+ "起订量": 2,
+ "单位": "个",
+ "可售总量": 1340,
+ "已售": 0,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01ZiOBUE20OJfFYaZAY_!!3394706839-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01ihomEY20OJfHSI1Wy_!!3394706839-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/5107899600_205280163.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01bet3Kn20OJfGKwetj_!!3394706839-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01A6EKSW20OJfGGInBn_!!3394706839-0-cib.jpg"
+ ],
+ "商品属性": [
+  "材质:PVC",
+  "产品分类:其他清洁美容用品",
+  "是否进口:否",
+  "箱装数量:12",
+  "是否专利货源:否",
+  "规格:30*10CM 蓝+红",
+  "是否跨境出口专供货源:否",
+  "是否属于礼品:否",
+  "狗洗澡盆:环保",
+  "宠物洗浴池:可折叠",
+  "宠物水池:免充气"
+ ],
+ "包装信息": [
+  {
+   "volume": 0,
+   "length": 0,
+   "width": 0,
+   "weight": 1000,
+   "height": 0
+  }
+ ],
+ "url": "https://detail.1688.com/offer/559814728852.html",
+ "核页时间": "2026-10-06T17:36:55.205Z"
+}

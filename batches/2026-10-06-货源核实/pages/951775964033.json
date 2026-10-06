@@ -1,0 +1,115 @@
+{
+ "offerId": "951775964033",
+ "条目": "H0339",
+ "block": false,
+ "卖家公司": "义乌市云湃日用品有限公司",
+ "旺旺名": "启旺日用百货",
+ "标题": "厨房橱柜隔板下挂篮衣柜收纳架储物架宿舍办公桌挂架整理架置物架",
+ "状态": "PUBLISHED",
+ "类目": "收纳整理架、置物架",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "颜色",
+   "值": [
+    "小号黑色",
+    "小号白色",
+    "大号黑色",
+    "大号白色"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "大号黑色",
+   "价格": "3.64",
+   "库存": 7226
+  },
+  {
+   "规格": "大号白色",
+   "价格": "3.64",
+   "库存": 12449
+  },
+  {
+   "规格": "小号白色",
+   "价格": "3.12",
+   "库存": 16941
+  },
+  {
+   "规格": "小号黑色",
+   "价格": "3.12",
+   "库存": 11406
+  }
+ ],
+ "规格图": [
+  [
+   "小号黑色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01fnLPGZ2EV6Fh5FS5m_!!2219533098749-0-cib.jpg"
+  ],
+  [
+   "小号白色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN011lKcaB2EV6FgwoKN0_!!2219533098749-0-cib.jpg"
+  ],
+  [
+   "大号黑色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01uvwD0q2EV6FgYwYDD_!!2219533098749-0-cib.jpg"
+  ],
+  [
+   "大号白色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01KTGCRx2EV6FfAKAfm_!!2219533098749-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "skuPrice",
+ "价格区间": "3.12-3.64",
+ "阶梯价_登录后": [
+  {
+   "price": "3.12",
+   "beginAmount": 1
+  },
+  {
+   "price": "3.64",
+   "beginAmount": 1
+  }
+ ],
+ "到手价": {
+  "价": "2.12",
+  "说明": "新人价",
+  "件数": 1
+ },
+ "起订量": 1,
+ "单位": "个",
+ "可售总量": 48022,
+ "已售": 7095,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01v8gHyR2EV6FfDfULl_!!2219533098749-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01plKfed2EV6FhW579b_!!2219533098749-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01rcrAQb2EV6FgHUwAa_!!2219533098749-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01mtjleU2EV6FhmQZr4_!!2219533098749-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01K7V9tJ2EV6Fg0pkAh_!!2219533098749-0-cib.jpg"
+ ],
+ "商品属性": [
+  "材质:金属",
+  "功能:其它",
+  "层数:1层",
+  "品牌:启旺",
+  "款式:其它",
+  "收纳场景:厨房收纳/客厅收纳",
+  "安装方式:挂钩式",
+  "是否进口:否",
+  "风格:现代简约风",
+  "货号:6706",
+  "颜色:小号黑色/小号白色/大号黑色/大号白色",
+  "专利:否"
+ ],
+ "包装信息": [
+  {
+   "volume": 0,
+   "length": 0,
+   "width": 0,
+   "weight": 600,
+   "height": 0
+  }
+ ],
+ "url": "https://detail.1688.com/offer/951775964033.html",
+ "核页时间": "2026-10-06T16:22:01.367Z"
+}

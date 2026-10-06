@@ -1,0 +1,244 @@
+{
+ "offerId": "1056576978267",
+ "条目": "H0548",
+ "block": false,
+ "卖家公司": "张家港惠硕工具有限公司",
+ "旺旺名": "惠忠剪刀",
+ "标题": "宠物梳子用品美容狗狗去浮毛开结梳子中小号宠物猫毛排梳针梳钢梳",
+ "状态": "PUBLISHED",
+ "类目": "宠物梳子",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "颜色",
+   "值": [
+    "银色",
+    "黑色",
+    "彩色",
+    "金色",
+    "紫色"
+   ]
+  },
+  {
+   "属性": "规格",
+   "值": [
+    "小号",
+    "大号"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "银色&gt;小号",
+   "价格": "1.38",
+   "库存": 9764
+  },
+  {
+   "规格": "金色&gt;大号",
+   "价格": "3.50",
+   "库存": 9951
+  },
+  {
+   "规格": "彩色&gt;小号",
+   "价格": "3.00",
+   "库存": 9976
+  },
+  {
+   "规格": "黑色&gt;大号",
+   "价格": "3.50",
+   "库存": 9942
+  },
+  {
+   "规格": "紫色&gt;大号",
+   "价格": "3.50",
+   "库存": 9941
+  },
+  {
+   "规格": "银色&gt;大号",
+   "价格": "1.80",
+   "库存": 9819
+  },
+  {
+   "规格": "金色&gt;小号",
+   "价格": "3.00",
+   "库存": 9925
+  },
+  {
+   "规格": "彩色&gt;大号",
+   "价格": "3.50",
+   "库存": 9896
+  },
+  {
+   "规格": "黑色&gt;小号",
+   "价格": "3.00",
+   "库存": 9990
+  },
+  {
+   "规格": "紫色&gt;小号",
+   "价格": "3.00",
+   "库存": 9978
+  }
+ ],
+ "规格图": [
+  [
+   "银色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01XLbu2X1EZg6cAcoWl_!!2565300366-0-cib.jpg"
+  ],
+  [
+   "黑色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01uOop7j1EZg6cAbXY2_!!2565300366-0-cib.jpg"
+  ],
+  [
+   "彩色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01py87Xl1EZg6btJtYE_!!2565300366-0-cib.jpg"
+  ],
+  [
+   "金色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01zBlSTk1EZg6btJpQL_!!2565300366-0-cib.jpg"
+  ],
+  [
+   "紫色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01U0Io8L1EZg6d8Xl46_!!2565300366-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "skuPrice",
+ "价格区间": null,
+ "阶梯价_登录后": [
+  {
+   "price": "1.38",
+   "beginAmount": 1
+  },
+  {
+   "price": "3.50",
+   "beginAmount": 1
+  }
+ ],
+ "到手价": null,
+ "起订量": 1,
+ "单位": "把",
+ "可售总量": 99182,
+ "已售": 816,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01BBYlaL1EZg6bh3BC9_!!2565300366-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01dx7HaH1EZg6bO68NE_!!2565300366-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01LV6Qd31EZg6c9tIbl_!!2565300366-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01bYsmHX1EZg6bscajx_!!2565300366-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01a9T08F1EZg6blj8Nw_!!2565300366-0-cib.jpg"
+ ],
+ "商品属性": [
+  "材质:不锈钢",
+  "品牌:LOGO定制",
+  "是否专利货源:否",
+  "颜色:银色/黑色/彩色/金色/紫色",
+  "是否跨境出口专供货源:是",
+  "主要销售地区:非洲,欧洲,南美,东南亚,北美,东北亚,中东,其他",
+  "有可授权的自有品牌:否",
+  "主要下游平台:ebay,亚马逊,wish,速卖通,独立站,LAZADA,其他",
+  "规格:小号/大号",
+  "适用对象:狗"
+ ],
+ "包装信息": [
+  {
+   "sku2": "小号",
+   "volume": 66.5,
+   "sku1": "银色",
+   "length": 19,
+   "width": 3.5,
+   "weight": 60,
+   "skuId": 6098893204358,
+   "height": 1
+  },
+  {
+   "sku2": "大号",
+   "volume": 66.5,
+   "sku1": "银色",
+   "length": 19,
+   "width": 3.5,
+   "weight": 60,
+   "skuId": 6098893204359,
+   "height": 1
+  },
+  {
+   "sku2": "小号",
+   "volume": 66.5,
+   "sku1": "黑色",
+   "length": 19,
+   "width": 3.5,
+   "weight": 60,
+   "skuId": 6098893204360,
+   "height": 1
+  },
+  {
+   "sku2": "大号",
+   "volume": 66.5,
+   "sku1": "黑色",
+   "length": 19,
+   "width": 3.5,
+   "weight": 60,
+   "skuId": 6098893204361,
+   "height": 1
+  },
+  {
+   "sku2": "小号",
+   "volume": 66.5,
+   "sku1": "彩色",
+   "length": 19,
+   "width": 3.5,
+   "weight": 60,
+   "skuId": 6098893204362,
+   "height": 1
+  },
+  {
+   "sku2": "大号",
+   "volume": 66.5,
+   "sku1": "彩色",
+   "length": 19,
+   "width": 3.5,
+   "weight": 60,
+   "skuId": 6098893204363,
+   "height": 1
+  },
+  {
+   "sku2": "小号",
+   "volume": 66.5,
+   "sku1": "金色",
+   "length": 19,
+   "width": 3.5,
+   "weight": 60,
+   "skuId": 6098893204364,
+   "height": 1
+  },
+  {
+   "sku2": "大号",
+   "volume": 66.5,
+   "sku1": "金色",
+   "length": 19,
+   "width": 3.5,
+   "weight": 60,
+   "skuId": 6098893204365,
+   "height": 1
+  },
+  {
+   "sku2": "小号",
+   "volume": 66.5,
+   "sku1": "紫色",
+   "length": 19,
+   "width": 3.5,
+   "weight": 60,
+   "skuId": 6098893204366,
+   "height": 1
+  },
+  {
+   "sku2": "大号",
+   "volume": 66.5,
+   "sku1": "紫色",
+   "length": 19,
+   "width": 3.5,
+   "weight": 60,
+   "skuId": 6098893204367,
+   "height": 1
+  }
+ ],
+ "url": "https://detail.1688.com/offer/1056576978267.html",
+ "核页时间": "2026-10-06T17:20:35.442Z"
+}

@@ -1,0 +1,197 @@
+{
+ "offerId": "1067902124142",
+ "条目": "H0537",
+ "block": false,
+ "卖家公司": "义乌市例签电子商务有限公司",
+ "旺旺名": "义乌市觅郝贸易有限公司",
+ "标题": "小猫玩具足球篮球海绵球球猫咪大弹力球逗猫棒布偶猫英短自嗨解闷",
+ "状态": "PUBLISHED",
+ "类目": "狗狗玩具",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "颜色",
+   "值": [
+    "大号足球【6cm】1个",
+    "大号篮球【6cm】1个",
+    "大号棒球【6cm】1个",
+    "小号足球【4cm】1个",
+    "小号篮球【4cm】1个",
+    "小号棒球【4cm】1个"
+   ]
+  },
+  {
+   "属性": "规格",
+   "值": [
+    "无规格"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "大号足球【6cm】1个&gt;无规格",
+   "价格": "1.08",
+   "库存": 0
+  },
+  {
+   "规格": "大号棒球【6cm】1个&gt;无规格",
+   "价格": "1.08",
+   "库存": 35
+  },
+  {
+   "规格": "小号足球【4cm】1个&gt;无规格",
+   "价格": "0.78",
+   "库存": 12
+  },
+  {
+   "规格": "小号棒球【4cm】1个&gt;无规格",
+   "价格": "0.78",
+   "库存": 29
+  },
+  {
+   "规格": "大号篮球【6cm】1个&gt;无规格",
+   "价格": "1.08",
+   "库存": 13
+  },
+  {
+   "规格": "小号篮球【4cm】1个&gt;无规格",
+   "价格": "0.78",
+   "库存": 43
+  }
+ ],
+ "规格图": [
+  [
+   "大号足球【6cm】1个",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01wHWbGP1vRSU0iuc4Y_!!2218971696169-0-cib.jpg"
+  ],
+  [
+   "大号篮球【6cm】1个",
+   "https://cbu01.alicdn.com/img/ibank/O1CN017GWlel1vRSU0UHoNb_!!2218971696169-0-cib.jpg"
+  ],
+  [
+   "大号棒球【6cm】1个",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01tpUifE1vRSU0LhSQv_!!2218971696169-0-cib.jpg"
+  ],
+  [
+   "小号足球【4cm】1个",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01jDcGEr1vRSU0oH4hc_!!2218971696169-0-cib.jpg"
+  ],
+  [
+   "小号篮球【4cm】1个",
+   "https://cbu01.alicdn.com/img/ibank/O1CN017GWlel1vRSU0UHoNb_!!2218971696169-0-cib.jpg"
+  ],
+  [
+   "小号棒球【4cm】1个",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01l9CK0f1vRSU0LivtZ_!!2218971696169-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "skuPrice",
+ "价格区间": null,
+ "阶梯价_登录后": [
+  {
+   "price": "0.78",
+   "beginAmount": 1
+  },
+  {
+   "price": "1.08",
+   "beginAmount": 1
+  }
+ ],
+ "到手价": null,
+ "起订量": 1,
+ "单位": "件",
+ "可售总量": 132,
+ "已售": 469,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01DUhodn1vRSU0K1D9a_!!2218971696169-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01CsgCCV1vRSU0SIwhb_!!2218971696169-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01vyU5VE1vRSU0UGo1Y_!!2218971696169-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN018XAdkT1vRSU0oGo2U_!!2218971696169-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN012Qii0i1vRSU0b5EVQ_!!2218971696169-0-cib.jpg"
+ ],
+ "商品属性": [
+  "材质:EVA",
+  "产品类别:其它",
+  "品牌:自主",
+  "是否进口:否",
+  "重量:1",
+  "货号:xmmwenlq",
+  "产地:浙江",
+  "箱装数量:/",
+  "是否专利货源:否",
+  "颜色:大号足球【6cm】1个/大号篮球【6cm】1个/大号棒球【6cm】1个/小号足球【4cm】1个/小号篮球【4cm】1个/小号棒球【4cm】1个",
+  "是否跨境出口专供货源:否",
+  "规格:无规格",
+  "是否属于礼品:否",
+  "是否IP授权:否",
+  "造型:/",
+  "适用年龄阶段:全阶段",
+  "附加功能:互动性",
+  "适用体重:小型犬（小于10kg）",
+  "玩具构造类型:球状"
+ ],
+ "包装信息": [
+  {
+   "sku2": "无规格",
+   "volume": 0,
+   "sku1": "大号足球【6cm】1个",
+   "length": 0,
+   "width": 0,
+   "weight": 100,
+   "skuId": 6114372328075,
+   "height": 0
+  },
+  {
+   "sku2": "无规格",
+   "volume": 0,
+   "sku1": "大号篮球【6cm】1个",
+   "length": 0,
+   "width": 0,
+   "weight": 100,
+   "skuId": 6114372328076,
+   "height": 0
+  },
+  {
+   "sku2": "无规格",
+   "volume": 0,
+   "sku1": "大号棒球【6cm】1个",
+   "length": 0,
+   "width": 0,
+   "weight": 100,
+   "skuId": 6114372328077,
+   "height": 0
+  },
+  {
+   "sku2": "无规格",
+   "volume": 0,
+   "sku1": "小号足球【4cm】1个",
+   "length": 0,
+   "width": 0,
+   "weight": 80,
+   "skuId": 6114372328078,
+   "height": 0
+  },
+  {
+   "sku2": "无规格",
+   "volume": 0,
+   "sku1": "小号篮球【4cm】1个",
+   "length": 0,
+   "width": 0,
+   "weight": 80,
+   "skuId": 6114372328079,
+   "height": 0
+  },
+  {
+   "sku2": "无规格",
+   "volume": 0,
+   "sku1": "小号棒球【4cm】1个",
+   "length": 0,
+   "width": 0,
+   "weight": 80,
+   "skuId": 6114372328080,
+   "height": 0
+  }
+ ],
+ "url": "https://detail.1688.com/offer/1067902124142.html",
+ "核页时间": "2026-10-06T17:17:51.346Z"
+}
