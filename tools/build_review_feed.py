@@ -70,7 +70,10 @@ for x in queue:
             offer = p['offerId']
             if offer not in candidates.get(序, set()):
                 continue
-            page = json.loads((B / 'pages' / f'{offer}.json').read_text())
+            f = B / 'pages' / f'{offer}.json'
+            if not f.exists():
+                continue
+            page = json.loads(f.read_text())
             seller = page.get('卖家公司') or x.get('页面卖家') or ''
             when = page.get('核页时间') or ''
             link = p['商品链接']
@@ -78,9 +81,11 @@ for x in queue:
                 add(序, offer, seller, '页面卖家', seller, f"1688 商品页卖家：{seller}，旺旺：{page.get('旺旺名') or '未显示'}", link, when, '1688 核页')
             if page.get('状态') == 'PUBLISHED':
                 add(序, offer, seller, '在售状态', '在售', f"商品页在售，标题「{page.get('标题', '')[:40]}」", link, when, '1688 核页')
-            if page.get('起订量'):
-                add(序, offer, seller, '起订量', int(page['起订量']), f"页面起批量 {page['起订量']} {page.get('单位') or '件'}", link, when, '1688 核页', 首批=k.get('数量'))
+            elif page.get('状态'):
+                add(序, offer, seller, '在售状态', '已下架', f"商品页状态 {page['状态']}，不在售", link, when, '1688 核页')
             m = match.get((x['id'], 序, offer))
+            if page.get('起订量') and not (m and m.get('结论') == '款不对'):
+                add(序, offer, seller, '起订量', int(page['起订量']), f"页面起批量 {page['起订量']} {page.get('单位') or '件'}", link, when, '1688 核页', 首批=k.get('数量'))
             if not m or m.get('sku_index') is None or not m.get('price'):
                 continue
             need, have = pieces(k['规格']), int(m.get('unit_count') or 1)
@@ -88,6 +93,8 @@ for x in queue:
             basis = f"页面规格「{m['sku']}」{m['price']:.2f} 元"
             if need != have:
                 basis += f"，页面{'单个售卖' if have == 1 else f'{have} 个一份'}，按 {need} 个装折算 {price:.2f} 元"
+            if m.get('note'):
+                basis += f"。{m['note']}"
             add(序, offer, seller, '采购单价', price, basis, link, when, '1688 核页', 置信度=m.get('confidence'), 说明=m.get('note'))
             page_price[(序, offer)] = price
             if m.get('pack') and need == have:
