@@ -1,0 +1,129 @@
+{
+ "offerId": "980601903774",
+ "条目": "H0011",
+ "block": false,
+ "卖家公司": "永康市南波万电子商务商行(个体工商户)",
+ "旺旺名": "忙忙铺子",
+ "标题": "小清新薄荷小猫马克杯 可爱猫吃鱼陶瓷水杯可爱薄荷绿咖啡杯礼物",
+ "状态": "PUBLISHED",
+ "类目": "马克杯",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "颜色",
+   "值": [
+    "薄荷绿杯垫",
+    "简约白杯垫",
+    "猫鱼～马克杯"
+   ]
+  },
+  {
+   "属性": "容量",
+   "值": [
+    "350ml"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "简约白杯垫&gt;350ml",
+   "价格": "3.99",
+   "库存": 9941
+  },
+  {
+   "规格": "薄荷绿杯垫&gt;350ml",
+   "价格": "3.99",
+   "库存": 9931
+  },
+  {
+   "规格": "猫鱼～马克杯&gt;350ml",
+   "价格": "9.99",
+   "库存": 9787
+  }
+ ],
+ "规格图": [
+  [
+   "薄荷绿杯垫",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01vmRc7y212AFGMwZsd_!!2212886986926-0-cib.jpg"
+  ],
+  [
+   "简约白杯垫",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01V8nhLQ212AFH5OTqf_!!2212886986926-0-cib.jpg"
+  ],
+  [
+   "猫鱼～马克杯",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01j4PgKa212AFFOelro_!!2212886986926-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "skuPrice",
+ "价格区间": null,
+ "阶梯价_登录后": [
+  {
+   "price": "3.99",
+   "beginAmount": 1
+  },
+  {
+   "price": "9.99",
+   "beginAmount": 1
+  }
+ ],
+ "到手价": null,
+ "起订量": 1,
+ "单位": "个",
+ "可售总量": 29659,
+ "已售": 324,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01j4PgKa212AFFOelro_!!2212886986926-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01QxLQc9212AFExUUqs_!!2212886986926-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01XNcWG8212AFFqmbfG_!!2212886986926-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01Hzyx7O212AFAcoyda_!!2212886986926-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN012UdegC212AFFyOgoM_!!2212886986926-0-cib.jpg"
+ ],
+ "商品属性": [
+  "材质:陶瓷",
+  "品牌:other",
+  "适用人群:通用",
+  "风格:英伦",
+  "颜色:薄荷绿杯垫/简约白杯垫/猫鱼～马克杯",
+  "容量:350ml",
+  "专利:否",
+  "是否跨境出口专供货源:否",
+  "产地:中国",
+  "是否属于礼品:否",
+  "版权:无"
+ ],
+ "包装信息": [
+  {
+   "sku2": "350ml",
+   "volume": 0,
+   "sku1": "薄荷绿杯垫",
+   "length": 0,
+   "width": 0,
+   "weight": 500,
+   "skuId": 6106639303122,
+   "height": 0
+  },
+  {
+   "sku2": "350ml",
+   "volume": 0,
+   "sku1": "简约白杯垫",
+   "length": 0,
+   "width": 0,
+   "weight": 500,
+   "skuId": 6106639303123,
+   "height": 0
+  },
+  {
+   "sku2": "350ml",
+   "volume": 0,
+   "sku1": "猫鱼～马克杯",
+   "length": 0,
+   "width": 0,
+   "weight": 800,
+   "skuId": 6106639303124,
+   "height": 0
+  }
+ ],
+ "url": "https://detail.1688.com/offer/980601903774.html",
+ "核页时间": "2026-10-06T14:40:46.192Z"
+}

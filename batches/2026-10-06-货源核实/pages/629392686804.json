@@ -1,0 +1,215 @@
+{
+ "offerId": "629392686804",
+ "条目": "H0028",
+ "block": false,
+ "卖家公司": "潮州市链营五金制品有限公司",
+ "旺旺名": "a13715766721",
+ "标题": "厂家批发亚克力蒸格PC规格16-22cm跨境专供透明蒸笼",
+ "状态": "PUBLISHED",
+ "类目": "蒸笼、蒸格",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "规格",
+   "值": [
+    "16cm",
+    "18cm",
+    "20cm",
+    "22cm",
+    "16cm盖子",
+    "18cm盖子",
+    "20cm盖子",
+    "22cm盖子"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "18cm盖子",
+   "价格": "6.90",
+   "库存": 9988
+  },
+  {
+   "规格": "22cm盖子",
+   "价格": "9.50",
+   "库存": 9998
+  },
+  {
+   "规格": "18cm",
+   "价格": "7.80",
+   "库存": 9985
+  },
+  {
+   "规格": "20cm盖子",
+   "价格": "8.10",
+   "库存": 6788
+  },
+  {
+   "规格": "16cm",
+   "价格": "6.30",
+   "库存": 9998
+  },
+  {
+   "规格": "16cm盖子",
+   "价格": "5.50",
+   "库存": 9999
+  },
+  {
+   "规格": "22cm",
+   "价格": "11.50",
+   "库存": 9995
+  },
+  {
+   "规格": "20cm",
+   "价格": "9.50",
+   "库存": 3576
+  }
+ ],
+ "规格图": [
+  [
+   "18cm",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01a5JGcYPfleH1chua_!!2209394929176-0-cib.jpg"
+  ],
+  [
+   "20cm",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01mTn36qV7EEB1chua_!!2209394929176-0-cib.jpg"
+  ],
+  [
+   "22cm",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01ACKNS71l6dB1chua_!!2209394929176-0-cib.jpg"
+  ],
+  [
+   "16cm盖子",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01YBchmjmOnqL1chua_!!2209394929176-0-cib.jpg"
+  ],
+  [
+   "18cm盖子",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01T566Esy4xOK1chua_!!2209394929176-0-cib.jpg"
+  ],
+  [
+   "20cm盖子",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01F1NXUaVwcgL1chua_!!2209394929176-0-cib.jpg"
+  ],
+  [
+   "22cm盖子",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01vv7LGXdTZbE1chua_!!2209394929176-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "skuPrice",
+ "价格区间": "5.50-11.50",
+ "阶梯价_登录后": [
+  {
+   "price": "5.50",
+   "beginAmount": 1
+  },
+  {
+   "price": "11.50",
+   "beginAmount": 1
+  }
+ ],
+ "到手价": null,
+ "起订量": 1,
+ "单位": "件",
+ "可售总量": 70327,
+ "已售": 10980,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/21697197710_1684585128.jpg",
+  "https://cbu01.alicdn.com/img/ibank/21697188783_1684585128.jpg",
+  "https://cbu01.alicdn.com/img/ibank/21863066779_1684585128.jpg",
+  "https://cbu01.alicdn.com/img/ibank/21697215045_1684585128.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01JQYJ6E2HefLIDzZoQ_!!2209394929176-0-cib.jpg"
+ ],
+ "商品属性": [
+  "材质:塑料",
+  "功能:多功能",
+  "品牌:盈兴泰",
+  "货号:VIC-ST",
+  "是否进口:否",
+  "产地:潮州",
+  "产品上市时间:2017年秋",
+  "价格段:5-10元",
+  "是否有专利:无",
+  "规格:16cm/18cm/20cm/22cm/16cm盖子/18cm盖子/20cm盖子/22cm盖子",
+  "是否跨境出口专供货源:否",
+  "风格:其它",
+  "装箱数量:咨询客服",
+  "适用场景:餐厅 早餐店 沙县小吃 学校",
+  "尺寸:16cm 18cm 20cm 22cm"
+ ],
+ "包装信息": [
+  {
+   "volume": 6,
+   "sku1": "16cm",
+   "length": 1,
+   "width": 2,
+   "weight": 100,
+   "skuId": 4470927456651,
+   "height": 3
+  },
+  {
+   "volume": 6,
+   "sku1": "18cm",
+   "length": 1,
+   "width": 2,
+   "weight": 100,
+   "skuId": 4470927456652,
+   "height": 3
+  },
+  {
+   "volume": 6,
+   "sku1": "20cm",
+   "length": 1,
+   "width": 2,
+   "weight": 100,
+   "skuId": 4470927456653,
+   "height": 3
+  },
+  {
+   "volume": 6,
+   "sku1": "22cm",
+   "length": 1,
+   "width": 2,
+   "weight": 100,
+   "skuId": 4470927456654,
+   "height": 3
+  },
+  {
+   "volume": 6,
+   "sku1": "16cm盖子",
+   "length": 1,
+   "width": 2,
+   "weight": 100,
+   "skuId": 4470927456650,
+   "height": 3
+  },
+  {
+   "volume": 6,
+   "sku1": "18cm盖子",
+   "length": 1,
+   "width": 2,
+   "weight": 100,
+   "skuId": 4470927456655,
+   "height": 3
+  },
+  {
+   "volume": 6,
+   "sku1": "20cm盖子",
+   "length": 1,
+   "width": 2,
+   "weight": 100,
+   "skuId": 4470927456656,
+   "height": 3
+  },
+  {
+   "volume": 6,
+   "sku1": "22cm盖子",
+   "length": 1,
+   "width": 2,
+   "weight": 100,
+   "skuId": 4470927456657,
+   "height": 3
+  }
+ ],
+ "url": "https://detail.1688.com/offer/629392686804.html",
+ "核页时间": "2026-10-06T14:47:19.626Z"
+}
