@@ -5,7 +5,7 @@ try { await page.waitForFunction(() => (window.context?.result?.data?.Root && wi
 await page.waitForTimeout(2000);
 const r = await page.evaluate(() => {
   const txt = document.body?.innerText || "", c = window.context?.result;
-  const block = /login\.(1688|taobao)|punish|_____tmd_____/.test(location.href) || /滑动|拖动.*验证|请完成安全验证|验证码|请登录/.test(txt.slice(0, 1500));
+  const block = /login\.(1688|taobao)|punish|_____tmd_____/.test(location.href) || !c?.data?.Root && /滑动|拖动.*验证|请完成安全验证|验证码|请登录/.test(txt.slice(0, 1500));
   if (!c?.data?.Root) return { block, noContext: true, textHead: txt.slice(0, 200) };
   const g = c.global.globalData.model, dj = c.data.Root.fields.dataJson, pm = c.data.mainPrice?.fields?.priceModel || {}, fp = c.data.mainPrice?.fields?.finalPriceModel || {}, sk = dj.skuModel || {}, op = dj.orderParamModel?.orderParam || {};
   return { block,
