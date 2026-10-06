@@ -7,8 +7,13 @@ import path from 'node:path';
 const site = process.argv[2];
 const ctx = vm.createContext({ URL, console });
 ctx.window = ctx;
-for (const f of ['products.js', 'selection-core.js', 'review-core.js'])
-  vm.runInContext(fs.readFileSync(path.join(site, 'build/js', f), 'utf8'), ctx);
+const js = f => path.join(site, 'build/js', f);
+vm.runInContext(fs.readFileSync(js('products.js'), 'utf8'), ctx);
+if (fs.existsSync(js('products-sources.js'))) {
+  vm.runInContext(fs.readFileSync(js('products-sources.js'), 'utf8'), ctx);
+  for (const x of ctx.DECK) if (!x.货源候选 && ctx.DECK_SOURCES?.[x.序]) x.货源候选 = ctx.DECK_SOURCES[x.序];
+}
+for (const f of ['selection-core.js', 'review-core.js']) vm.runInContext(fs.readFileSync(js(f), 'utf8'), ctx);
 const { SelectionCore: core, ReviewCore: R, DECK } = ctx;
 const products = new Map(DECK.map(x => [x.序, x]));
 const kg = v => v ? Math.max(v.长 && v.宽 && v.高 ? v.长 * v.宽 * v.高 / core.rules.体积除数 : 0, (v.重量克 || 0) / 1000) : null;

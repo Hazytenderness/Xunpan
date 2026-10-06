@@ -29,7 +29,7 @@ if args.candidates:
 else:
     import subprocess
     site = Path(args.site) / 'build/js/products.js'
-    js = "globalThis.window=globalThis;require(process.argv[1]);const o={};for(const x of DECK)if(x.货源候选)o[x.序]=x.货源候选.map(c=>({候选ID:String(c.候选ID)}));process.stdout.write(JSON.stringify(o))"
+    js = "globalThis.window=globalThis;require(process.argv[1]);const fs=require('fs'),src=process.argv[1].replace(/products\\.js$/,'products-sources.js');if(fs.existsSync(src))require(src);const o={};for(const x of DECK){const c=x.货源候选||(globalThis.DECK_SOURCES||{})[x.序];if(c)o[x.序]=c.map(c=>({候选ID:String(c.候选ID)}));}process.stdout.write(JSON.stringify(o))"
     raw = json.loads(subprocess.run(['node', '-e', js, str(site)], check=True, capture_output=True, text=True).stdout)
 candidates = {int(k): {c['候选ID'] for c in v} for k, v in raw.items()}
 match = {(m['id'], m['序'], m['offerId']): m for m in json.loads((B / '核页规格匹配.json').read_text())}
