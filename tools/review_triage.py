@@ -16,6 +16,22 @@ SITE = Path.home() / 'ClaudeP/06_VibeCoding/ataous/ataous-site'
 MARGIN_FLOOR = 0.15
 SMALL_SWING = 0.03
 FACTS = {'页面卖家', '在售状态', '现货', '箱规', '中性包装', '交期', '打样', '开票', '定制'}
+# 对标装数，同站点 review.js 的 pack()
+PACK = re.compile(r'([0-9]{1,3})\s*(?:枚|本|個|足|点|袋|個入|P|ピース)?\s*(?:セット|組|入り?|パック)')
+
+
+def pack(title):
+    title = title.replace('&gt;', '>').replace('&lt;', '<').replace('&amp;', '&')
+    m = PACK.search(title)
+    n = int(m.group(1)) if m else 0
+    return n if 1 < n <= 200 else 0
+
+
+def converted(basis, n):
+    """依据里写了按套计价：折算、一套/每组，或出现与装数相同的「N个装 / N件套 / ×N」。"""
+    if re.search(r'折算|[一每/]\s*[套组]', basis):
+        return True
+    return any(int(a or b) == n for a, b in re.findall(r'[×xX*]\s*(\d+)|(\d+)\s*[个只支根条片件双枚]?\s*[装套组]', basis))
 
 
 def pts(v):
@@ -58,6 +74,9 @@ def judge(item, ev):
         if after is not None and after < MARGIN_FLOOR:
             return '需判断', f"采纳后利润率 {pts(after)}，低于 {pts(MARGIN_FLOOR)}"
         if before is None or after is None or abs(after - before) <= SMALL_SWING:
+            n = pack(ev.get('名') or '')
+            if n and not converted(item.get('依据') or '', n):
+                return '需判断', f"对标 {n} 件装，报价疑似单件价"
             return '自动采纳', f"利润率 {pts(before)} → {pts(after)}"
         old = ev.get('原值')
         why = f"利润率 {pts(before)} → {pts(after)}"

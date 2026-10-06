@@ -21,7 +21,7 @@ const out = items.map(item => {
   const after = core.metrics(product, row);
   const current = R.current(product, {}, { 字段: item.字段, 候选ID: String(item.候选ID || '') });
   return {
-    找到: true, 原值: current ?? null,
+    找到: true, 原值: current ?? null, 名: String(product.名 || ''),
     前利润率: before.margin, 后利润率: after.margin, 前成本: before.cost,
     原计费重: item.字段 === '单品包装' ? kg(current) : null, 新计费重: item.字段 === '单品包装' ? kg(item.新值) : null,
   };
