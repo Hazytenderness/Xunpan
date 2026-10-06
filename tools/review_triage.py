@@ -73,16 +73,17 @@ def judge(item, ev):
             return '需判断', '规格未确认' + (f"：{first}" if first else '')
         if after is not None and after < MARGIN_FLOOR:
             return '需判断', f"采纳后利润率 {pts(after)}，低于 {pts(MARGIN_FLOOR)}"
+        n = pack(ev.get('名') or '')
+        single = f"对标 {n} 件装，报价疑似单件价" if n and not converted(item.get('依据') or '', n) else ''
         if before is None or after is None or abs(after - before) <= SMALL_SWING:
-            n = pack(ev.get('名') or '')
-            if n and not converted(item.get('依据') or '', n):
-                return '需判断', f"对标 {n} 件装，报价疑似单件价"
+            if single:
+                return '需判断', single
             return '自动采纳', f"利润率 {pts(before)} → {pts(after)}"
         old = ev.get('原值')
         why = f"利润率 {pts(before)} → {pts(after)}"
         if old and item['新值'] > old * 1.5:
             why = f"参考价 ¥{old} 对应的不是同款规格，核实价折算后{why}"
-        return '建议采纳', why
+        return '建议采纳', f"{single}；{why}" if single else why
     return '需判断', ''
 
 
