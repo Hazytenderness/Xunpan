@@ -1,0 +1,11 @@
+const fs = await import("node:fs/promises"), os = await import("node:os"), path = await import("node:path");
+const C = path.join(os.homedir(), ".cache", "xunpan");
+const job = JSON.parse(await fs.readFile(path.join(C, "job.json"), "utf8"));
+const done = async (o) => { await fs.writeFile(path.join(C, NAME + ".out.json"), JSON.stringify(o)); process.exit(0); };
+let st = {}; try { st = JSON.parse(await fs.readFile(path.join(C, "state.json"), "utf8")); } catch {}
+let task = null;
+try { if (st.spaceId) task = await taskSpace(st.spaceId); } catch (e) { await done({ 错误: "浏览器空间不可用（可能已交给用户或被关闭）：" + String(e.message || e).slice(0, 200) }); }
+if (!task) { task = await taskSpace("1688 询盘"); st.spaceId = task.spaceId; await fs.writeFile(path.join(C, "state.json"), JSON.stringify(st)); }
+const pageFor = async (label) => (await task.pages()).find(p => p.label === label) || await task.newPage();
+const blocked = (p) => p.evaluate(() => /拖动下方滑块|请完成安全验证|请拖动|操作频繁|账号存在风险/.test(document.body?.innerText || "") || /login\.(1688|taobao)|punish/.test(location.href));
+const chatUrl = (ww, offerId) => `https://air.1688.com/app/ocms-fusion-components-1688/def_cbu_web_im/index.html?touid=cnalichn${encodeURIComponent(ww)}&siteid=cnalichn&status=1&offerId=${offerId}`;
