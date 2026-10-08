@@ -6,6 +6,8 @@
   - 一家店同一时间只排一条；其他批次里已发过或待发的店不排（那边的会话接着跟）。
   - 旺旺名和中文规格从各批次核页结果里取，没核过页的家不排。
   - 款已经不在待核对（已完成、不做等）的，还没发的条目改成「不用发」。
+  - 也排「重新跑」还没跑完的款；其他批次没发出去的待发R1（如 10/6 家居扩展停在滑块的 81 条）每日.sh 一起发，
+    其中对应款都已不缺资料的改「不用发」【用户定·10/8】。
 话术原话（用户定·10/8，只替换 {产品}）：{产品}单品包装尺寸多少（长宽高）、重量多少，500 个什么价？
 """
 import argparse, json, re, subprocess, sys
@@ -46,11 +48,12 @@ def short(spec):
 
 
 # 各批次核页结果：(序, offerId) → 旺旺名、卖家、规格；其他批次在跟的店
-info, busy = {}, set()
+info, busy, others = {}, set(), {}
 for b in batch_dirs():
     if b == B:
         continue
-    for x in load_queue(b):
+    others[b] = load_queue(b)
+    for x in others[b]:
         if x.get('旺旺名') and x['状态'] in ELSEWHERE:
             busy.add(x['旺旺名'])
         if not x.get('旺旺名') or x['状态'] in ('款不对', '下架', '已合并', '待核页'):
@@ -82,10 +85,20 @@ dropped = 0
 for x in q:
     if x['状态'] == '待发R1' and x['对应款'][0]['序'] not in want:
         x['状态'], dropped = '不用发', dropped + 1
+other_drop, other_left = {}, 0
+for b, oq in others.items():
+    for x in oq:
+        if x['状态'] != '待发R1':
+            continue
+        if any(k['序'] in want for k in x['对应款']):
+            other_left += 1
+        else:
+            x['状态'], x['备注'] = '不用发', (x.get('备注') or '') + f"；{now:%m-%d} 对应款已不缺资料，补资料任务改不用发"
+            other_drop[b] = other_drop.get(b, 0) + 1
 asked = {(x['对应款'][0]['序'], x['商品'][0]['offerId']) for x in q}
 live_ww = {x['旺旺名'] for x in q if active(x)}
 n = max([int(x['id'][2:]) for x in q] or [0])
-added, skipped = [], {'没有可问的家': 0, '可问的家都没核过页': 0, '已在问': 0}
+added, skipped = [], {'没有可问的家': 0, '可问的家被别处占着或没旺旺名': 0, '已在问': 0}
 for t in todo:
     on = sum(1 for x in q if x['对应款'][0]['序'] == t['序'] and active(x))
     if on >= PER_PRODUCT:
@@ -111,9 +124,10 @@ for t in todo:
              '备注': f"{t['状态']}·{c['等级']}" + ('·已有价缺尺寸' if c.get('有价') else ''), '建于': now.isoformat(timespec='seconds')}
         q.append(x); added.append(x); asked.add((t['序'], c['候选ID'])); live_ww.add(meta['旺旺名']); picked += 1
     if not picked and not on:
-        skipped['可问的家都没核过页'] += 1
+        skipped['可问的家被别处占着或没旺旺名'] += 1
 
 summary = {'待核对款': len(todo), '缺资料': sum(t['状态'] == '缺资料' for t in todo), '待跑': sum(t['状态'] == '待跑' for t in todo),
+           '重跑': sum(t['状态'] == '重跑' for t in todo), '其他批次待发': other_left, '其他批次改不用发': sum(other_drop.values()),
            '新排': len(added), '新排款': len({x['对应款'][0]['序'] for x in added}), '改不用发': dropped, '待发合计': sum(x['状态'] == '待发R1' for x in q), **skipped}
 print(json.dumps(summary, ensure_ascii=False))
 for x in added[:5]:
@@ -122,6 +136,8 @@ if a.dry:
     sys.exit()
 B.mkdir(exist_ok=True)
 save_queue(B, q)
+for b in other_drop:
+    save_queue(b, others[b])
 if not (B / '核页规格匹配.json').exists():
     (B / '核页规格匹配.json').write_text('[]')
 (B / 'batch.json').write_text(json.dumps({'批次': '补资料', '来源': '每天北京 8:50 由 tools/补资料/建队列.py 从 ataous 货源核实待核对款滚动生成',
