@@ -1,0 +1,82 @@
+{
+ "offerId": "850614450459",
+ "条目": "T0012",
+ "block": false,
+ "卖家公司": "醴陵市精陶瓷业有限公司",
+ "旺旺名": "精陶瓷业2023",
+ "标题": "侘寂风手握杯复古怀旧葫芦杯特色泡茶杯陶瓷日式主人杯跨境出口",
+ "状态": "PUBLISHED",
+ "类目": "茶杯",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "颜色分类",
+   "值": [
+    "小池-葫芦无把杯"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "小池-葫芦无把杯",
+   "价格": "19.20",
+   "库存": 122
+  }
+ ],
+ "规格图": [
+  [
+   "小池-葫芦无把杯",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01yEV3U71HUaPeltIuG_!!2217009600761-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "rangePrice",
+ "价格区间": "14.20-19.20",
+ "阶梯价_登录后": [
+  {
+   "price": "19.20",
+   "beginAmount": 2
+  },
+  {
+   "price": "14.20",
+   "beginAmount": 24
+  }
+ ],
+ "到手价": null,
+ "起订量": 2,
+ "单位": "个",
+ "可售总量": 122,
+ "已售": 1168,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01ARnofu1HUaPhgX1mO_!!2217009600761-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01HrK6le1HUaPcdcHem_!!2217009600761-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01anO7mj1HUaPcdcgbI_!!2217009600761-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01JmNxoS1HUaPgK7Q8x_!!2217009600761-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01oNxkFm1HUaPhgVgfB_!!2217009600761-0-cib.jpg"
+ ],
+ "商品属性": [
+  "材质:瓷",
+  "品牌:无",
+  "风格:日式",
+  "产地:醴陵",
+  "颜色分类:小池-葫芦无把杯",
+  "是否跨境出口专供货源:否",
+  "专利:否",
+  "货号:jt：小池-葫芦无把杯",
+  "是否属于礼品:否",
+  "风格类型:轻奢复古",
+  "是否手工:是"
+ ],
+ "包装信息": [
+  {
+   "volume": 0,
+   "sku1": "小池-葫芦无把杯",
+   "length": 0,
+   "width": 0,
+   "weight": 237,
+   "skuId": 5811915595810,
+   "height": 0
+  }
+ ],
+ "url": "https://detail.1688.com/offer/850614450459.html",
+ "核页时间": "2026-10-08T10:32:33.488Z"
+}

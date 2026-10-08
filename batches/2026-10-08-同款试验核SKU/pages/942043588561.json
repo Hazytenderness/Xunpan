@@ -1,0 +1,298 @@
+{
+ "offerId": "942043588561",
+ "条目": "T0029",
+ "block": false,
+ "卖家公司": "东莞市昆季实业有限公司",
+ "旺旺名": "东莞昆季实业",
+ "标题": "亚马逊跨境硅胶沥水垫厨房台面隔热垫高颜值加厚防滑菜板固定垫",
+ "状态": "PUBLISHED",
+ "类目": "餐垫、杯垫",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "规格",
+   "值": [
+    "大号(40*32.5cm)绿色",
+    "大号(40*32.5cm)黄色",
+    "大号(40*32.5cm)杏色",
+    "大号(40*32.5cm)灰色",
+    "中号(25*13cm)绿色",
+    "中号(25*13cm)黄色",
+    "中号(25*13cm)杏色",
+    "中号(25*13cm)灰色",
+    "小号(12*9cm)绿色",
+    "小号(12*9cm)黄色",
+    "小号(12*9cm)杏色",
+    "小号(12*9cm)灰色"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "中号(25*13cm)绿色",
+   "价格": "5.00",
+   "库存": 199916
+  },
+  {
+   "规格": "中号(25*13cm)灰色",
+   "价格": "5.00",
+   "库存": 199597
+  },
+  {
+   "规格": "小号(12*9cm)绿色",
+   "价格": "2.20",
+   "库存": 199997
+  },
+  {
+   "规格": "大号(40*32.5cm)杏色",
+   "价格": "14.00",
+   "库存": 199935
+  },
+  {
+   "规格": "大号(40*32.5cm)灰色",
+   "价格": "14.00",
+   "库存": 199075
+  },
+  {
+   "规格": "中号(25*13cm)杏色",
+   "价格": "5.00",
+   "库存": 199918
+  },
+  {
+   "规格": "小号(12*9cm)黄色",
+   "价格": "2.20",
+   "库存": 199998
+  },
+  {
+   "规格": "大号(40*32.5cm)黄色",
+   "价格": "14.00",
+   "库存": 199984
+  },
+  {
+   "规格": "中号(25*13cm)黄色",
+   "价格": "5.00",
+   "库存": 199967
+  },
+  {
+   "规格": "大号(40*32.5cm)绿色",
+   "价格": "14.00",
+   "库存": 199930
+  },
+  {
+   "规格": "小号(12*9cm)杏色",
+   "价格": "2.20",
+   "库存": 199993
+  },
+  {
+   "规格": "小号(12*9cm)灰色",
+   "价格": "2.20",
+   "库存": 199858
+  }
+ ],
+ "规格图": [
+  [
+   "大号(40*32.5cm)绿色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01v6MeM11vDiVsurcmb_!!2928586139-0-cib.jpg"
+  ],
+  [
+   "大号(40*32.5cm)黄色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01My8UwR1vDiVt98bAm_!!2928586139-0-cib.jpg"
+  ],
+  [
+   "大号(40*32.5cm)杏色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01OczSRm1vDiVqXdzlU_!!2928586139-0-cib.jpg"
+  ],
+  [
+   "大号(40*32.5cm)灰色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01f67oCm1vDiVttny4d_!!2928586139-0-cib.jpg"
+  ],
+  [
+   "中号(25*13cm)绿色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01Y1uEBA1vDiVttpRaL_!!2928586139-0-cib.jpg"
+  ],
+  [
+   "中号(25*13cm)黄色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01IzmTam1vDiVsBy4jW_!!2928586139-0-cib.jpg"
+  ],
+  [
+   "中号(25*13cm)杏色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01GBXzCR1vDiVr6ZDwz_!!2928586139-0-cib.jpg"
+  ],
+  [
+   "中号(25*13cm)灰色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01oaUq551vDiVsdCX00_!!2928586139-0-cib.jpg"
+  ],
+  [
+   "小号(12*9cm)绿色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01T02Fqf1vDiVtaFiVY_!!2928586139-0-cib.jpg"
+  ],
+  [
+   "小号(12*9cm)黄色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01huo4R91vDiVr2E90U_!!2928586139-0-cib.jpg"
+  ],
+  [
+   "小号(12*9cm)杏色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01Yws06D1vDiVsv0kqi_!!2928586139-0-cib.jpg"
+  ],
+  [
+   "小号(12*9cm)灰色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01FasxS21vDiVsVL3pi_!!2928586139-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "skuPrice",
+ "价格区间": null,
+ "阶梯价_登录后": [
+  {
+   "price": "2.20",
+   "beginAmount": 1
+  },
+  {
+   "price": "14.00",
+   "beginAmount": 1
+  }
+ ],
+ "到手价": null,
+ "起订量": 1,
+ "单位": "件",
+ "可售总量": 2398168,
+ "已售": 680,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01k6ioyQ1vDiVuPQxYC_!!2928586139-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01Zfe5Xs1vDiVr1Ni62_!!2928586139-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01SDaJp21vDiVmAvazM_!!2928586139-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01ueETyl1vDiVsu7V9d_!!2928586139-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01l1yuyk1vDiVsB8eXm_!!2928586139-0-cib.jpg"
+ ],
+ "商品属性": [
+  "材质:硅胶",
+  "品牌:无品牌",
+  "形状:方形",
+  "产品质量等级:优等品",
+  "风格:简约",
+  "是否进口:否",
+  "货号:LSD01",
+  "图案:纯色",
+  "产品上市时间:2025年",
+  "价格段:10-20元",
+  "产地:东莞",
+  "是否有专利:无",
+  "主要下游平台:ebay/亚马逊/wish/速卖通/独立站/LAZADA",
+  "主要销售地区:欧洲/南美/东南亚/北美/东北亚/中东",
+  "有可授权的自有品牌:否",
+  "是否跨境出口专供货源:是",
+  "规格:大号(40*32.5cm)绿色/大号(40*32.5cm)黄色/大号(40*32.5cm)杏色/大号(40*32.5cm)灰色/中号(25*13cm)绿色/中号(25*13cm)黄色/中号(25*13cm)杏色/中号(25*13cm)灰色/小号(12*9cm)绿色/小号(12*9cm)黄色/小号(12*9cm)杏色/小号(12*9cm)灰色",
+  "是否插电:否"
+ ],
+ "包装信息": [
+  {
+   "volume": 1300,
+   "sku1": "大号(40*32.5cm)绿色",
+   "length": 40,
+   "width": 32.5,
+   "weight": 407,
+   "skuId": 5840680825207,
+   "height": 1
+  },
+  {
+   "volume": 1300,
+   "sku1": "大号(40*32.5cm)黄色",
+   "length": 40,
+   "width": 32.5,
+   "weight": 407,
+   "skuId": 5840680825208,
+   "height": 1
+  },
+  {
+   "volume": 1300,
+   "sku1": "大号(40*32.5cm)杏色",
+   "length": 40,
+   "width": 32.5,
+   "weight": 407,
+   "skuId": 5840680825209,
+   "height": 1
+  },
+  {
+   "volume": 1300,
+   "sku1": "大号(40*32.5cm)灰色",
+   "length": 40,
+   "width": 32.5,
+   "weight": 407,
+   "skuId": 5840680825210,
+   "height": 1
+  },
+  {
+   "volume": 552.5,
+   "sku1": "中号(25*13cm)绿色",
+   "length": 25,
+   "width": 13,
+   "weight": 135,
+   "skuId": 5840680825211,
+   "height": 1.7
+  },
+  {
+   "volume": 552.5,
+   "sku1": "中号(25*13cm)黄色",
+   "length": 25,
+   "width": 13,
+   "weight": 135,
+   "skuId": 5840680825212,
+   "height": 1.7
+  },
+  {
+   "volume": 552.5,
+   "sku1": "中号(25*13cm)杏色",
+   "length": 25,
+   "width": 13,
+   "weight": 135,
+   "skuId": 5840680825213,
+   "height": 1.7
+  },
+  {
+   "volume": 552.5,
+   "sku1": "中号(25*13cm)灰色",
+   "length": 25,
+   "width": 13,
+   "weight": 135,
+   "skuId": 5840680825214,
+   "height": 1.7
+  },
+  {
+   "volume": 183.6,
+   "sku1": "小号(12*9cm)绿色",
+   "length": 12,
+   "width": 9,
+   "weight": 52,
+   "skuId": 5840680825215,
+   "height": 1.7
+  },
+  {
+   "volume": 183.6,
+   "sku1": "小号(12*9cm)黄色",
+   "length": 12,
+   "width": 9,
+   "weight": 52,
+   "skuId": 5840680825216,
+   "height": 1.7
+  },
+  {
+   "volume": 183.6,
+   "sku1": "小号(12*9cm)杏色",
+   "length": 12,
+   "width": 9,
+   "weight": 52,
+   "skuId": 5840680825217,
+   "height": 1.7
+  },
+  {
+   "volume": 183.6,
+   "sku1": "小号(12*9cm)灰色",
+   "length": 12,
+   "width": 9,
+   "weight": 52,
+   "skuId": 5840680825218,
+   "height": 1.7
+  }
+ ],
+ "url": "https://detail.1688.com/offer/942043588561.html",
+ "核页时间": "2026-10-08T10:37:01.929Z"
+}

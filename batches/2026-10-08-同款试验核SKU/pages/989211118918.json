@@ -1,0 +1,125 @@
+{
+ "offerId": "989211118918",
+ "条目": "T0003",
+ "block": false,
+ "卖家公司": "余姚市欧豪水暖厂",
+ "旺旺名": "余姚欧豪水暖",
+ "标题": "跨境纳米微气泡美肤花洒加压手持喷头五档出水增压花洒淋雨莲蓬头",
+ "状态": "PUBLISHED",
+ "类目": "手持花洒",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "规格",
+   "值": [
+    "360度摇头",
+    "弯柄",
+    "直柄",
+    "KMGT日本转接头"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "360度摇头",
+   "价格": "22.80",
+   "库存": 999921
+  },
+  {
+   "规格": "KMGT日本转接头",
+   "价格": "5.00",
+   "库存": 999849
+  },
+  {
+   "规格": "弯柄",
+   "价格": "21.80",
+   "库存": 999752
+  },
+  {
+   "规格": "直柄",
+   "价格": "22.80",
+   "库存": 999986
+  }
+ ],
+ "规格图": [
+  [
+   "360度摇头",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01vrjmm21ooAiJN1YeZ_!!1874545271-0-cib.jpg"
+  ],
+  [
+   "弯柄",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01kobzHr1ooAiIER3qV_!!1874545271-0-cib.jpg"
+  ],
+  [
+   "直柄",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01yH8X4e1ooAiK0Nqq0_!!1874545271-0-cib.jpg"
+  ],
+  [
+   "KMGT日本转接头",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01Mq2bOA1ooAl7dBySQ_!!1874545271-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "skuPrice",
+ "价格区间": null,
+ "阶梯价_登录后": [
+  {
+   "price": "5.00",
+   "beginAmount": 1
+  },
+  {
+   "price": "22.80",
+   "beginAmount": 1
+  }
+ ],
+ "到手价": null,
+ "起订量": 1,
+ "单位": "件",
+ "可售总量": 3999508,
+ "已售": 418,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01z9bTLX1ooAiHZGtje_!!1874545271-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01QM3gNz1ooAiGCQ9pV_!!1874545271-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01Ytzpmr1ooAiGCNk67_!!1874545271-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01mnTKJs1ooAiHZHu0l_!!1874545271-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01SisEeA24QO1TiRt4X_!!6000000007385-0-cib.jpg"
+ ],
+ "商品属性": [
+  "材质:ABS",
+  "功能:其它/喷雾/按摩/气泡/雨淋",
+  "认证:无",
+  "工艺:注塑",
+  "品牌:其他",
+  "产品类别:花洒/淋浴器",
+  "种类:手提式",
+  "风格:轻奢",
+  "是否一般纳税人:是",
+  "货号:1",
+  "安装型式:壁挂式",
+  "加工定制:是",
+  "工作温度:80度",
+  "规格:360度摇头/弯柄/直柄/KMGT日本转接头",
+  "公称压力:4公斤",
+  "型号:1",
+  "是否跨境出口专供货源:是",
+  "主要销售地区:非洲/欧洲/南美/东南亚/北美/东北亚/中东",
+  "主要下游平台:ebay/亚马逊/wish/速卖通/独立站/LAZADA",
+  "有可授权的自有品牌:是",
+  "花洒形状:圆形",
+  "适用场景:家用",
+  "重量:200",
+  "出水方式:混合式",
+  "档位数量:5",
+  "是否IP授权:是"
+ ],
+ "包装信息": [
+  {
+   "volume": 0,
+   "length": 0,
+   "width": 0,
+   "weight": 300,
+   "height": 0
+  }
+ ],
+ "url": "https://detail.1688.com/offer/989211118918.html",
+ "核页时间": "2026-10-08T10:30:04.826Z"
+}

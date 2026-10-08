@@ -1,0 +1,126 @@
+{
+ "offerId": "1037754567073",
+ "条目": "T0054",
+ "block": false,
+ "卖家公司": "义乌市汝艳贸易有限公司",
+ "旺旺名": "义乌市汝艳贸易有限公司",
+ "标题": "宠物牙刷猫狗口腔清洁单束小头万根软毛动物一次性牙刷现货批发",
+ "状态": "PUBLISHED",
+ "类目": "口腔清洁",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "颜色",
+   "值": [
+    "深蓝色",
+    "天蓝色",
+    "粉红色"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "天蓝色",
+   "价格": null,
+   "库存": 9981
+  },
+  {
+   "规格": "粉红色",
+   "价格": null,
+   "库存": 8923
+  },
+  {
+   "规格": "深蓝色",
+   "价格": null,
+   "库存": 9872
+  }
+ ],
+ "规格图": [
+  [
+   "深蓝色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01RaBIpQ1S4u6FugSSo_!!2222176952194-0-cib.jpg"
+  ],
+  [
+   "天蓝色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01L8W5qI1S4u6FiW3ti_!!2222176952194-0-cib.jpg"
+  ],
+  [
+   "粉红色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01F0uzVn1S4u6FLsvvP_!!2222176952194-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "rangePrice",
+ "价格区间": null,
+ "阶梯价_登录后": [
+  {
+   "price": "2.30",
+   "beginAmount": 1
+  },
+  {
+   "price": "2.20",
+   "beginAmount": 500
+  },
+  {
+   "price": "2.10",
+   "beginAmount": 1000
+  }
+ ],
+ "到手价": null,
+ "起订量": 1,
+ "单位": "个",
+ "可售总量": 28776,
+ "已售": 205,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01vqLJJR1S4u6G1VhOF_!!2222176952194-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01AxoTgL1S4u6FjE0eh_!!2222176952194-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01fJGNhP1S4u6Fe9Ue5_!!2222176952194-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01E6Qash1S4u6Fe9UeA_!!2222176952194-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01dIYduM1S4u6Gx1wSM_!!2222176952194-0-cib.jpg"
+ ],
+ "商品属性": [
+  "功能:口气清新/去牙渍/牙龈护理/去牙结石/牙周护理",
+  "品牌:毛孩岛（宠物）",
+  "材质:PP+TPR",
+  "产品类别:宠物牙刷",
+  "是否专利货源:否",
+  "颜色:深蓝色/天蓝色/粉红色",
+  "适用对象:猫",
+  "是否进口:否",
+  "是否跨境出口专供货源:是",
+  "主要销售地区:欧洲/南美/东南亚/北美/东北亚/中东",
+  "主要下游平台:ebay/亚马逊/wish/速卖通/独立站/LAZADA/其他",
+  "产地:扬州",
+  "货号:CWYS--03"
+ ],
+ "包装信息": [
+  {
+   "volume": 114,
+   "sku1": "深蓝色",
+   "length": 19,
+   "width": 3,
+   "weight": 21,
+   "skuId": 6058005177088,
+   "height": 2
+  },
+  {
+   "volume": 114,
+   "sku1": "天蓝色",
+   "length": 19,
+   "width": 3,
+   "weight": 21,
+   "skuId": 6058005177089,
+   "height": 2
+  },
+  {
+   "volume": 114,
+   "sku1": "粉红色",
+   "length": 19,
+   "width": 3,
+   "weight": 21,
+   "skuId": 6058005177090,
+   "height": 2
+  }
+ ],
+ "url": "https://detail.1688.com/offer/1037754567073.html",
+ "核页时间": "2026-10-08T10:44:24.657Z"
+}

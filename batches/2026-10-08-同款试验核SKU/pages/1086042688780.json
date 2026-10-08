@@ -1,0 +1,79 @@
+{
+ "offerId": "1086042688780",
+ "条目": "T0080",
+ "block": false,
+ "卖家公司": "广州树可家居用品有限公司",
+ "旺旺名": "treezakka",
+ "标题": "树可垂直无吸管喷油壶雾化不挂油厨房家用调料油罐喷壶食品级油瓶",
+ "状态": "PUBLISHED",
+ "类目": "油壶",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "容量",
+   "值": [
+    "100ml"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "100ml",
+   "价格": "34.86",
+   "库存": 31099
+  }
+ ],
+ "规格图": [
+  [
+   "100ml",
+   "https://cbu01.alicdn.com/img/ibank/O1CN0150oXeJcFplG1chua_!!2542714003-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "skuPrice",
+ "价格区间": null,
+ "阶梯价_登录后": [
+  {
+   "price": "34.86",
+   "beginAmount": 50
+  }
+ ],
+ "到手价": null,
+ "起订量": 50,
+ "单位": "个",
+ "可售总量": 31099,
+ "已售": 0,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01sXqnBFKb6ED1chua_!!2542714003-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01ciPj8lc3JYD1chua_!!2542714003-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01KiIWe8Eft9D1chua_!!2542714003-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01ZN01jCO0aKE1chua_!!2542714003-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN012VZlvKHFPPH1chua_!!2542714003-0-cib.jpg"
+ ],
+ "商品属性": [
+  "材质:玻璃",
+  "功能:喷油",
+  "品牌:树可",
+  "产品质量等级:合格品",
+  "是否进口:否",
+  "货号:SPM87664",
+  "原产国/地区:中国大陆",
+  "容量:100ml",
+  "加印LOGO:不可以",
+  "产地:浙江",
+  "是否有专利:否",
+  "风格:现代简约"
+ ],
+ "包装信息": [
+  {
+   "volume": 0,
+   "sku1": "100ml",
+   "length": 0,
+   "width": 0,
+   "weight": 500,
+   "skuId": 6303005578685,
+   "height": 0
+  }
+ ],
+ "url": "https://detail.1688.com/offer/1086042688780.html",
+ "核页时间": "2026-10-08T10:51:47.669Z"
+}

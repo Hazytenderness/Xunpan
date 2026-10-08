@@ -1,0 +1,133 @@
+{
+ "offerId": "692876694907",
+ "条目": "T0053",
+ "block": false,
+ "卖家公司": "扬州颖特休闲日用制品有限公司",
+ "旺旺名": "鄢林华",
+ "标题": "现货宠物牙刷口腔清洁狗牙刷 猫牙刷软毛牙刷狗狗牙刷 宠物用品",
+ "状态": "PUBLISHED",
+ "类目": "狗狗清洁美容工具",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "规格",
+   "值": [
+    "绿色",
+    "蓝色",
+    "粉色",
+    "紫色",
+    "黑色"
+   ]
+  },
+  {
+   "属性": "货号",
+   "值": [
+    "93067"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "绿色&gt;93067",
+   "价格": "3.84",
+   "库存": 13411
+  },
+  {
+   "规格": "黑色&gt;93067",
+   "价格": "3.84",
+   "库存": 4774
+  },
+  {
+   "规格": "蓝色&gt;93067",
+   "价格": "3.84",
+   "库存": 12728
+  },
+  {
+   "规格": "粉色&gt;93067",
+   "价格": "3.84",
+   "库存": 10873
+  },
+  {
+   "规格": "紫色&gt;93067",
+   "价格": "3.84",
+   "库存": 12491
+  }
+ ],
+ "规格图": [
+  [
+   "绿色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01a9xr3L1kkGcdNuJfY_!!1000534721-0-cib.jpg"
+  ],
+  [
+   "蓝色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01mjakO31kkGcTAWgtM_!!1000534721-0-cib.jpg"
+  ],
+  [
+   "粉色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01yrrcFS1kkGccD9U7f_!!1000534721-0-cib.jpg"
+  ],
+  [
+   "紫色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01t0QRYG1kkGccD7Guu_!!1000534721-0-cib.jpg"
+  ],
+  [
+   "黑色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN015AQsQZ1kkGoRWj3bX_!!1000534721-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "rangePrice",
+ "价格区间": "3.04-3.84",
+ "阶梯价_登录后": [
+  {
+   "price": "3.84",
+   "beginAmount": 2
+  },
+  {
+   "price": "3.44",
+   "beginAmount": 100
+  },
+  {
+   "price": "3.04",
+   "beginAmount": 1000
+  }
+ ],
+ "到手价": {
+  "价": "2.84",
+  "说明": "新人价",
+  "件数": 2
+ },
+ "起订量": 2,
+ "单位": "把",
+ "可售总量": 54277,
+ "已售": 7430,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01gMzO1k1kkGcZeResl_!!1000534721-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01cqCrG51kkGj2flvCc_!!1000534721-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01aHVzb51kkGj6XZV79_!!1000534721-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01hsTo2M1kkGj7G55bR_!!1000534721-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01AfVcMJ1kkGcX7gGV5_!!1000534721-0-cib.jpg"
+ ],
+ "商品属性": [
+  "材质:塑料",
+  "品牌:颖特",
+  "产品分类:眼耳牙护理",
+  "是否进口:否",
+  "箱装数量:200",
+  "是否专利货源:否",
+  "规格:绿色/蓝色/粉色/紫色/黑色",
+  "货号:93067",
+  "是否跨境出口专供货源:否",
+  "是否属于礼品:否"
+ ],
+ "包装信息": [
+  {
+   "volume": 0,
+   "length": 0,
+   "width": 0,
+   "weight": 30,
+   "height": 0
+  }
+ ],
+ "url": "https://detail.1688.com/offer/692876694907.html",
+ "核页时间": "2026-10-08T10:44:11.254Z"
+}

@@ -1,0 +1,110 @@
+{
+ "offerId": "1076423110797",
+ "条目": "T0052",
+ "block": false,
+ "卖家公司": "义乌市振如电子商务商行(个体工商户)",
+ "旺旺名": "涛哥日用家居",
+ "标题": "宠物牙刷猫咪狗狗口腔清洁小头塑料软毛护齿牙刷宠物用品牙具",
+ "状态": "PUBLISHED",
+ "类目": "狗狗清洁美容工具",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "规格",
+   "值": [
+    "蓝色",
+    "粉色"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "蓝色",
+   "价格": null,
+   "库存": 100000
+  },
+  {
+   "规格": "粉色",
+   "价格": null,
+   "库存": 100000
+  }
+ ],
+ "规格图": [
+  [
+   "蓝色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01kawS3nBRQ4J24uCu_!!2201418235456-0-cib.jpg"
+  ],
+  [
+   "粉色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01JY92A0O2umK1chua_!!2201418235456-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "rangePrice",
+ "价格区间": null,
+ "阶梯价_登录后": [
+  {
+   "price": "2.35",
+   "beginAmount": 2
+  },
+  {
+   "price": "2.25",
+   "beginAmount": 600
+  },
+  {
+   "price": "2.15",
+   "beginAmount": 500000
+  }
+ ],
+ "到手价": null,
+ "起订量": 2,
+ "单位": "支",
+ "可售总量": 200000,
+ "已售": 0,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01jhPEgnOuFWB1chua_!!2201418235456-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01SRAsg9Z7MYJ1chua_!!2201418235456-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01cZCOhVPz4LH1chua_!!2201418235456-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01Y0MRDXana6F1chua_!!2201418235456-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01VJPfOA4CMKH1chua_!!2201418235456-0-cib.jpg"
+ ],
+ "商品属性": [
+  "材质:塑料",
+  "品牌:其他",
+  "产品分类:眼耳牙护理",
+  "是否进口:否",
+  "箱装数量:200",
+  "是否专利货源:否",
+  "规格:蓝色/粉色",
+  "是否跨境出口专供货源:否",
+  "适用送礼场合:其他",
+  "适用送礼关系:其他",
+  "适用节日:其他",
+  "是否属于礼品:是，个人礼品",
+  "使用部位:口腔",
+  "核心功能:清洁",
+  "使用方式:手动",
+  "是否IP授权:否"
+ ],
+ "包装信息": [
+  {
+   "volume": 0,
+   "sku1": "蓝色",
+   "length": 0,
+   "width": 0,
+   "weight": 200,
+   "skuId": 6293355455102,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "粉色",
+   "length": 0,
+   "width": 0,
+   "weight": 200,
+   "skuId": 6293355455103,
+   "height": 0
+  }
+ ],
+ "url": "https://detail.1688.com/offer/1076423110797.html",
+ "核页时间": "2026-10-08T10:43:53.450Z"
+}
