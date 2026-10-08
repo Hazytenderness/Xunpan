@@ -82,14 +82,15 @@ $(cat $W/need-kw.txt)"
   SRC+=$(python3 -c "import json,sys;r=json.loads(sys.argv[1]);print(f\"找了 {r['款']} 款，找到 {r['找到']} 款（其中选出的 3 家里有同款的 {r.get('入选有同款的款',0)} 款），没找到 {r['无结果']} 款\")" "$rank")
   python3 -c "import json;L=json.load(open('$FB/任务清单.json'));json.dump([x['序'] for x in L],open('$W/source_ids.json','w'))"
   node $T/保护核对.mjs snap $SITE $W/before_src.json >/dev/null
-  if (cd $SITE && node scripts/import-suppliers.mjs $FB/seeds.json) && node $T/保护核对.mjs diff $SITE $W/before_src.json $W/source_ids.json 参考成本,参考成本说明,货源候选,图搜记录 > $W/protect1.txt; then
+  # 已有候选的款不整组替换，新候选先追加、核完 SKU 再挑 3 家【用户定·10/8】
+  if (cd $SITE && node scripts/night-candidates.mjs append $FB/seeds.json $W/appended.json > $W/append.out) && node $T/保护核对.mjs diff $SITE $W/before_src.json $W/source_ids.json 参考成本,参考成本说明,货源候选,图搜记录 > $W/protect1.txt; then
     python3 - $LEDGER $W/source_ids.json <<'EOF'
 import json, sys, datetime
 led = json.load(open(sys.argv[1])); led.update({str(s): datetime.date.today().isoformat() for s in json.load(open(sys.argv[2]))})
 json.dump(led, open(sys.argv[1], 'w'), ensure_ascii=False, indent=0)
 EOF
   else
-    git -C $SITE checkout -- build/js; say "⚠ 找货源导入没通过保护核对，已撤回：$(head -3 $W/protect1.txt 2>/dev/null)"
+    echo "[]" > $W/appended.json; git -C $SITE checkout -- build/js; say "⚠ 找货源导入没通过保护核对，已撤回：$(head -3 $W/protect1.txt 2>/dev/null)"
   fi
 fi
 
@@ -122,6 +123,14 @@ if [[ $NC -gt 0 ]]; then
   git add $HB && git commit -q -m "夜间核页核 SKU $D" -- $HB && git pull -q --rebase --autostash && git push -q
 fi
 git -C $X add tools/夜间/找货源台账.json && git -C $X commit -q -m "夜间找货源台账 $D" -- tools/夜间/找货源台账.json && git -C $X push -q
+
+# ---------- 2b 新旧合并：追加过新候选的款，按匹配度挑 3 家（没核成的排在部分匹配和不匹配之间）【用户定·10/8】----------
+if [[ -s $W/appended.json && $(<$W/appended.json) != "[]" ]]; then
+  node $T/保护核对.mjs snap $SITE $W/before_trim.json >/dev/null
+  if (cd $SITE && node scripts/night-candidates.mjs trim $W/appended.json > $W/trim.out) && node $T/保护核对.mjs diff $SITE $W/before_trim.json $W/appended.json 参考成本,参考成本说明,货源候选 > $W/protect3.txt; then
+    SRC+="；已有候选的$(cat $W/trim.out)"
+  else git -C $SITE checkout -- build/js; say "⚠ 新旧合并没通过保护核对，今晚网站改动全部撤回：$(head -3 $W/protect3.txt 2>/dev/null)"; fi
+fi
 
 # ---------- 3 上线 ----------
 cd $SITE
