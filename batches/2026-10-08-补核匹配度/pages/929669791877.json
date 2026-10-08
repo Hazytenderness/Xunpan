@@ -1,0 +1,101 @@
+{
+ "offerId": "929669791877",
+ "条目": "L34",
+ "核页时间": "2026-10-05T08:09:07.881Z",
+ "url": "https://detail.1688.com/offer/929669791877.html",
+ "href": "https://detail.1688.com/offer/929669791877.html",
+ "textHead": "义乌市莫龙日用品商行\n关注\n客服\n商品\n入驻11年\n主营：衣物晾晒洗护用具\n店铺回头率\n62%\n店铺服务分\n4.0分\n综合履约率\n99%\n店铺好评率\n93.2%\n商品属性\n包装信息\n商品详情\n热门推荐\n商品属性\n材质\t\n钢\n\t品牌\t\n其他\n\n货号\t\n鹅型裤架\n\t产地\t\n义乌\n\n包装数量\t\n10\n\t是否跨境出口专供货源\t\n是\n\n主要下游平台\t\n亚马逊,速卖通\n\t主要销售地区\t\n内贸\n\n风格\t\n简约\n\t是否有专利\t\n否\n\n颜色\t\n黑色,白色\n\t加工定制\t\n是\n\n加印LOGO\t\n不可加印LOGO\n\t版权\t\n无版权\n包装信息\n商品件重尺通过AI数据校验准确\n颜色\t重量(g)\n黑色\t75\n白色\t75\n商",
+ "卖家公司": "义乌市莫龙日用品商行",
+ "旺旺名": "莫龙商贸",
+ "标题": "跨境裤架 鹅型裤架子Z字型挂裤子衣架 防滑无痕裤夹金属裤衣架",
+ "状态": "PUBLISHED",
+ "类目": "裤架",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "颜色",
+   "值": [
+    "黑色",
+    "白色"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "黑色",
+   "价格": null,
+   "库存": 80113
+  },
+  {
+   "规格": "白色",
+   "价格": null,
+   "库存": 98659
+  }
+ ],
+ "规格图": [],
+ "价格展示": "rangePrice",
+ "价格区间": null,
+ "阶梯价_登录后": [
+  {
+   "price": "1.00",
+   "beginAmount": 10
+  },
+  {
+   "price": "0.80",
+   "beginAmount": 200
+  },
+  {
+   "price": "0.70",
+   "beginAmount": 2000
+  }
+ ],
+ "划线价": null,
+ "到手价": null,
+ "起订量": 10,
+ "单位": "个",
+ "可售总量": 178772,
+ "已售": 24654,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01pyonDq1k0vfyGZDR9_!!2582764622-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01nQC4eN1k0vfvtk19L_!!2582764622-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01rOcKnn1k0vfx3lDAA_!!2582764622-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01OXYhBD1k0vfw9JBhy_!!2582764622-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01ebAnys1k0vjGihILW_!!2582764622-0-cib.jpg"
+ ],
+ "商品属性": [
+  "材质:钢",
+  "品牌:其他",
+  "货号:鹅型裤架",
+  "产地:义乌",
+  "包装数量:10",
+  "是否跨境出口专供货源:是",
+  "主要下游平台:亚马逊/速卖通",
+  "主要销售地区:内贸",
+  "风格:简约",
+  "是否有专利:否",
+  "颜色:黑色/白色",
+  "加工定制:是",
+  "加印LOGO:不可加印LOGO",
+  "版权:无版权"
+ ],
+ "包装信息": [
+  {
+   "volume": 0,
+   "sku1": "黑色",
+   "length": 0,
+   "width": 0,
+   "weight": 75,
+   "skuId": 5981529318411,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "白色",
+   "length": 0,
+   "width": 0,
+   "weight": 75,
+   "skuId": 5981529318412,
+   "height": 0
+  }
+ ]
+}

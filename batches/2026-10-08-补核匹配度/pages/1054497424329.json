@@ -1,0 +1,145 @@
+{
+ "offerId": "1054497424329",
+ "条目": "M0352",
+ "block": false,
+ "卖家公司": "金华市喜悦佳日用百货有限公司",
+ "旺旺名": "喜悦佳日用百货",
+ "标题": "Hellodanta冰格硅胶雪糕模具自制冰块家用可爱猫咪卡通按压冰块模",
+ "状态": "PUBLISHED",
+ "类目": "冰格",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "颜色",
+   "值": [
+    "四件套【盖子+冰格+储冰盒+冰铲】",
+    "KT【盖子+硅胶冰格】",
+    "KT【硅胶冰格】",
+    "KT【冰铲】"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "KT【冰铲】",
+   "价格": "0.80",
+   "库存": 9999993
+  },
+  {
+   "规格": "KT【硅胶冰格】",
+   "价格": "2.50",
+   "库存": 9999988
+  },
+  {
+   "规格": "四件套【盖子+冰格+储冰盒+冰铲】",
+   "价格": "4.40",
+   "库存": 9999598
+  },
+  {
+   "规格": "KT【盖子+硅胶冰格】",
+   "价格": "3.00",
+   "库存": 9999879
+  }
+ ],
+ "规格图": [
+  [
+   "四件套【盖子+冰格+储冰盒+冰铲】",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01YtkWCU2I6bbMRzTvE_!!2218691229237-0-cib.jpg"
+  ],
+  [
+   "KT【盖子+硅胶冰格】",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01qu61HU2I6bbMMg9wl_!!2218691229237-0-cib.jpg"
+  ],
+  [
+   "KT【硅胶冰格】",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01yU6TrP2I6bbMyo88A_!!2218691229237-0-cib.jpg"
+  ],
+  [
+   "KT【冰铲】",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01pqQKps2I6bbMW4Bjx_!!2218691229237-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "skuPrice",
+ "价格区间": null,
+ "阶梯价_登录后": [
+  {
+   "price": "0.80",
+   "beginAmount": 1
+  },
+  {
+   "price": "4.40",
+   "beginAmount": 1
+  }
+ ],
+ "到手价": null,
+ "起订量": 1,
+ "单位": "个",
+ "可售总量": 39999458,
+ "已售": 613,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01xD9Lfw2I6bbMnyRId_!!2218691229237-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01PL0fET2I6bbMicLgZ_!!2218691229237-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01q2NbGW2I6bbNBFgcE_!!2218691229237-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN016M1CA92I6bbMhW760_!!2218691229237-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01xyLPgV2I6bbMVjApG_!!2218691229237-0-cib.jpg"
+ ],
+ "商品属性": [
+  "材质:TPR",
+  "功能:速冻/易脱模",
+  "品牌:其他",
+  "是否进口:否",
+  "货号:KT猫冰格",
+  "产地:义乌",
+  "加印LOGO:不可以",
+  "容量:无",
+  "颜色:四件套【盖子+冰格+储冰盒+冰铲】/KT【盖子+硅胶冰格】/KT【硅胶冰格】/KT【冰铲】",
+  "产品上市时间:2025年夏",
+  "价格段:5元以内",
+  "加工定制:否",
+  "产品质量等级:一等品",
+  "是否跨境出口专供货源:否",
+  "风格:青春潮流",
+  "是否有专利:否",
+  "适用场景:商用/家庭/教学"
+ ],
+ "包装信息": [
+  {
+   "volume": 0,
+   "sku1": "四件套【盖子+冰格+储冰盒+冰铲】",
+   "length": 0,
+   "width": 0,
+   "weight": 200,
+   "skuId": 6256770214196,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "KT【盖子+硅胶冰格】",
+   "length": 0,
+   "width": 0,
+   "weight": 100,
+   "skuId": 6256770214197,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "KT【硅胶冰格】",
+   "length": 0,
+   "width": 0,
+   "weight": 100,
+   "skuId": 6256770214198,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "KT【冰铲】",
+   "length": 0,
+   "width": 0,
+   "weight": 50,
+   "skuId": 6256770214199,
+   "height": 0
+  }
+ ],
+ "url": "https://detail.1688.com/offer/1054497424329.html",
+ "核页时间": "2026-10-08T08:33:43.622Z"
+}

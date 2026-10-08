@@ -1,0 +1,206 @@
+{
+ "offerId": "1063228202778",
+ "条目": "M2008",
+ "block": false,
+ "卖家公司": "广州市天河区壹利文具商行(个体工商户)",
+ "旺旺名": "广州市壹利商行",
+ "标题": "加厚包包收纳衣柜分隔架放包包的置物架亚克力衣橱整理手包存放架",
+ "状态": "PUBLISHED",
+ "类目": "收纳整理架、置物架",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "颜色",
+   "值": [
+    "透明",
+    "蓝色",
+    "粉色",
+    "黑色",
+    "白色",
+    "紫色",
+    "绿色"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "黑色",
+   "价格": "3.80",
+   "库存": 100000
+  },
+  {
+   "规格": "蓝色",
+   "价格": "3.80",
+   "库存": 100000
+  },
+  {
+   "规格": "粉色",
+   "价格": "3.80",
+   "库存": 100000
+  },
+  {
+   "规格": "紫色",
+   "价格": "3.80",
+   "库存": 100000
+  },
+  {
+   "规格": "白色",
+   "价格": "3.80",
+   "库存": 100000
+  },
+  {
+   "规格": "绿色",
+   "价格": "3.80",
+   "库存": 100000
+  },
+  {
+   "规格": "透明",
+   "价格": "3.80",
+   "库存": 99880
+  }
+ ],
+ "规格图": [
+  [
+   "透明",
+   "https://cbu01.alicdn.com/img/ibank/O1CN016g77ao1cFZVBLGDzx_!!2222619803571-0-cib.jpg"
+  ],
+  [
+   "蓝色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01Bfp0O21cFZVBdbG0C_!!2222619803571-0-cib.jpg"
+  ],
+  [
+   "粉色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01k2ZTqi1cFZVBPgN8x_!!2222619803571-0-cib.jpg"
+  ],
+  [
+   "黑色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01pBaHDl1cFZVBZzkKz_!!2222619803571-0-cib.jpg"
+  ],
+  [
+   "白色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01EYND721cFZVBgMCCT_!!2222619803571-0-cib.jpg"
+  ],
+  [
+   "紫色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01CLcUm81cFZVC9tgRQ_!!2222619803571-0-cib.jpg"
+  ],
+  [
+   "绿色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01grl8qL1cFZVC9rfh7_!!2222619803571-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "skuPrice",
+ "价格区间": "3.80",
+ "阶梯价_登录后": [
+  {
+   "price": "3.80",
+   "beginAmount": 2
+  }
+ ],
+ "到手价": {
+  "价": "3.3",
+  "说明": "新人价",
+  "件数": 2
+ },
+ "起订量": 2,
+ "单位": "个",
+ "可售总量": 699880,
+ "已售": 85,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01MjFVFF1cFZVBYXmVM_!!2222619803571-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01C4Ybun1cFZVBZGLU7_!!2222619803571-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01JJ1NUw1cFZVBOpJrr_!!2222619803571-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01Z9XIwM1cFZVBL8Mvn_!!2222619803571-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01flQee91cFZVD7qAj6_!!2222619803571-0-cib.jpg"
+ ],
+ "商品属性": [
+  "材质:塑料",
+  "功能:免安装",
+  "层数:4层",
+  "品牌:壹利",
+  "款式:基础款",
+  "收纳场景:桌面收纳/卧室收纳/储物间/卫浴收纳",
+  "安装方式:免安装",
+  "是否进口:否",
+  "风格:简约风",
+  "贸易属性:内贸+外贸",
+  "箱装数量:72/箱",
+  "产品上市时间:2026年夏",
+  "货号:四联",
+  "塑料新料占比:100%新料",
+  "颜色:透明/蓝色/粉色/黑色/白色/紫色/绿色",
+  "专利:否",
+  "主要下游平台:ebay/亚马逊/wish/速卖通/独立站/LAZADA",
+  "主要销售地区:非洲/欧洲/南美/东南亚/北美/东北亚/中东",
+  "有可授权的自有品牌:否",
+  "是否跨境出口专供货源:是",
+  "适用物品:鞋子/文具"
+ ],
+ "包装信息": [
+  {
+   "volume": 0,
+   "sku1": "透明",
+   "length": 0,
+   "width": 0,
+   "weight": 240,
+   "skuId": 6111005745240,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "蓝色",
+   "length": 0,
+   "width": 0,
+   "weight": 240,
+   "skuId": 6111005745241,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "粉色",
+   "length": 0,
+   "width": 0,
+   "weight": 240,
+   "skuId": 6111005745242,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "黑色",
+   "length": 0,
+   "width": 0,
+   "weight": 240,
+   "skuId": 6111005745243,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "白色",
+   "length": 0,
+   "width": 0,
+   "weight": 240,
+   "skuId": 6111005745244,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "紫色",
+   "length": 0,
+   "width": 0,
+   "weight": 240,
+   "skuId": 6111005745245,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "绿色",
+   "length": 0,
+   "width": 0,
+   "weight": 240,
+   "skuId": 6111005745246,
+   "height": 0
+  }
+ ],
+ "url": "https://detail.1688.com/offer/1063228202778.html",
+ "核页时间": "2026-10-08T09:52:56.043Z"
+}

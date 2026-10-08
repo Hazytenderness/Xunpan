@@ -1,0 +1,123 @@
+{
+ "offerId": "1004782168631",
+ "条目": "M1682",
+ "block": false,
+ "卖家公司": "金华市能创塑业有限公司",
+ "旺旺名": "能创日用品",
+ "标题": "面条收纳盒长方形塑料冰箱厨房食品级密封盒保鲜盒带盖杂粮挂面盒",
+ "状态": "PUBLISHED",
+ "类目": "食物收纳盒",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "颜色",
+   "值": [
+    "面条收纳盒",
+    "杂面收纳盒",
+    "碎面收纳盒"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "碎面收纳盒",
+   "价格": "0.70",
+   "库存": 999950
+  },
+  {
+   "规格": "面条收纳盒",
+   "价格": "2.55",
+   "库存": 999505
+  },
+  {
+   "规格": "杂面收纳盒",
+   "价格": "1.00",
+   "库存": 999732
+  }
+ ],
+ "规格图": [
+  [
+   "面条收纳盒",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01gzIIEo1jap9UGMUzE_!!2219346734565-0-cib.jpg"
+  ],
+  [
+   "杂面收纳盒",
+   "https://cbu01.alicdn.com/img/ibank/O1CN016JobnS1jap9URqyyt_!!2219346734565-0-cib.jpg"
+  ],
+  [
+   "碎面收纳盒",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01oJAcEg1jap9UMGVmt_!!2219346734565-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "skuPrice",
+ "价格区间": null,
+ "阶梯价_登录后": [
+  {
+   "price": "0.70",
+   "beginAmount": 1
+  },
+  {
+   "price": "2.55",
+   "beginAmount": 1
+  }
+ ],
+ "到手价": null,
+ "起订量": 1,
+ "单位": "个",
+ "可售总量": 2999187,
+ "已售": 711,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01SYOu971jap9TpluwJ_!!2219346734565-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01ll5ShG1jap9U3Tz8u_!!2219346734565-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN011ExX6o1jap9TMg0HZ_!!2219346734565-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01IDzGfm1jap9V4uI9Z_!!2219346734565-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN017DoNz61jap9OkmEUp_!!2219346734565-0-cib.jpg"
+ ],
+ "商品属性": [
+  "材质:塑料",
+  "款式:长方形收纳盒",
+  "品牌:能创",
+  "是否有专利:否",
+  "货号:面条盒",
+  "加印LOGO:可以",
+  "加工定制:可以",
+  "价格段:5-10元",
+  "颜色:面条收纳盒/杂面收纳盒/碎面收纳盒",
+  "产地:浙江",
+  "风格:现代简约",
+  "主要下游平台:淘宝/ebay/亚马逊/wish/快手/LINIO/SHEIN/速卖通/天猫/独立站/LAZADA/拼多多/shopee/抖音/垂类电商/其他",
+  "有可授权的自有品牌:否",
+  "是否进口:国产"
+ ],
+ "包装信息": [
+  {
+   "volume": 1,
+   "sku1": "面条收纳盒",
+   "length": 1,
+   "width": 1,
+   "weight": 590,
+   "skuId": 5995699045807,
+   "height": 1
+  },
+  {
+   "volume": 1,
+   "sku1": "杂面收纳盒",
+   "length": 1,
+   "width": 1,
+   "weight": 400,
+   "skuId": 5995699045808,
+   "height": 1
+  },
+  {
+   "volume": 1,
+   "sku1": "碎面收纳盒",
+   "length": 1,
+   "width": 1,
+   "weight": 250,
+   "skuId": 5995699045809,
+   "height": 1
+  }
+ ],
+ "url": "https://detail.1688.com/offer/1004782168631.html",
+ "核页时间": "2026-10-08T09:31:53.507Z"
+}

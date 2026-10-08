@@ -1,0 +1,74 @@
+{
+ "offerId": "1047319507812",
+ "条目": "M1282",
+ "block": false,
+ "卖家公司": "义乌市清欢日用品有限公司",
+ "旺旺名": "清欢日用品",
+ "标题": "调料盒套装调料罐瓶厨房家用密封调味瓶盐罐油壶收纳组合",
+ "状态": "PUBLISHED",
+ "类目": "调料器皿",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "规格",
+   "值": [
+    "定量调味瓶【1个装】"
+   ]
+  },
+  {
+   "属性": "颜色",
+   "值": [
+    "图片色"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "定量调味瓶【1个装】&gt;图片色",
+   "价格": "5.01",
+   "库存": 999986
+  }
+ ],
+ "规格图": [],
+ "价格展示": "rangePrice",
+ "价格区间": null,
+ "阶梯价_登录后": [
+  {
+   "price": "5.01",
+   "beginAmount": 1
+  }
+ ],
+ "到手价": null,
+ "起订量": 1,
+ "单位": "件",
+ "可售总量": 999986,
+ "已售": 490,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01ed2YZL1CyI9wQdwyJ_!!2219493330149-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01uXyzuR1CyI9wJnNix_!!2219493330149-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01ndm4911CyI9w2EcMT_!!2219493330149-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01dPlrio1CyI9xnmPdS_!!2219493330149-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01fIz2Sw1CyI9wNBow8_!!2219493330149-0-cib.jpg"
+ ],
+ "商品属性": [
+  "材质:PE",
+  "规格:定量调味瓶【1个装】",
+  "颜色:图片色",
+  "是否进口:否",
+  "功能:计量/免打孔",
+  "是否有专利:无",
+  "是否跨境出口专供货源:是",
+  "品牌:其他"
+ ],
+ "包装信息": [
+  {
+   "volume": 0,
+   "length": 0,
+   "width": 0,
+   "weight": 300,
+   "height": 0
+  }
+ ],
+ "url": "https://detail.1688.com/offer/1047319507812.html",
+ "核页时间": "2026-10-08T09:03:51.104Z"
+}

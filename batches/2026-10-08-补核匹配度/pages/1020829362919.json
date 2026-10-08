@@ -1,0 +1,199 @@
+{
+ "offerId": "1020829362919",
+ "条目": "H0687",
+ "block": false,
+ "卖家公司": "威海乔恩渔具有限公司",
+ "旺旺名": "qiaoenyuju",
+ "标题": "TEMU新品路亚假饵水耗子深海绑鹿毛仿生饵卷尾软饵海钓老鼠假饵",
+ "状态": "PUBLISHED",
+ "类目": "鱼饵",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "颜色",
+   "值": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E",
+    "F"
+   ]
+  },
+  {
+   "属性": "规格",
+   "值": [
+    "9cm/16g （SL00032)"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "C&gt;9cm/16g （SL00032)",
+   "价格": "43.00",
+   "库存": 368
+  },
+  {
+   "规格": "A&gt;9cm/16g （SL00032)",
+   "价格": "43.00",
+   "库存": 443
+  },
+  {
+   "规格": "B&gt;9cm/16g （SL00032)",
+   "价格": "43.00",
+   "库存": 419
+  },
+  {
+   "规格": "E&gt;9cm/16g （SL00032)",
+   "价格": "43.00",
+   "库存": 414
+  },
+  {
+   "规格": "D&gt;9cm/16g （SL00032)",
+   "价格": "43.00",
+   "库存": 448
+  },
+  {
+   "规格": "F&gt;9cm/16g （SL00032)",
+   "价格": "43.00",
+   "库存": 469
+  }
+ ],
+ "规格图": [
+  [
+   "A",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01bPrbto1fg5FSRCUj9_!!2220280224035-0-cib.jpg"
+  ],
+  [
+   "B",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01UyGR7K1fg5FRVve1K_!!2220280224035-0-cib.jpg"
+  ],
+  [
+   "C",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01MdKDyv1fg5FS4HyAZ_!!2220280224035-0-cib.jpg"
+  ],
+  [
+   "D",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01t777r11fg5FRyGNq8_!!2220280224035-0-cib.jpg"
+  ],
+  [
+   "E",
+   "https://cbu01.alicdn.com/img/ibank/O1CN018tYIKe1fg5FS1yiJX_!!2220280224035-0-cib.jpg"
+  ],
+  [
+   "F",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01HKnmPh1fg5FSX8OOU_!!2220280224035-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "rangePrice",
+ "价格区间": "43.00",
+ "阶梯价_登录后": [
+  {
+   "price": "43.00",
+   "beginAmount": 1
+  }
+ ],
+ "到手价": null,
+ "起订量": 1,
+ "单位": "个",
+ "可售总量": 2561,
+ "已售": 429,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01x5W6Kt1fg5FSWsxI8_!!2220280224035-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01RztSnS1fg5FRy83dR_!!2220280224035-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01WbTIkW1fg5FRHkF72_!!2220280224035-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01knaRWO1fg5FSWvq6t_!!2220280224035-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01fF2xwi1fg5FSWwi9z_!!2220280224035-0-cib.jpg"
+ ],
+ "商品属性": [
+  "品牌:乔恩",
+  "鱼饵类型:路亚饵",
+  "产品类别:路亚饵",
+  "鱼饵形态:假饵/仿生饵",
+  "货号:SL00032(-4)",
+  "产地:中国",
+  "颜色:A/B/C/D/E/F",
+  "主要下游平台:ebay/亚马逊/wish/LINIO/SHEIN/速卖通/LAZADA/shopee",
+  "主要销售地区:非洲/欧洲/南美/东南亚/北美/东北亚/中东",
+  "有可授权的自有品牌:是",
+  "是否跨境出口专供货源:是",
+  "规格:9cm/16g （SL00032)",
+  "专利类型:无",
+  "外贸出口认证:-",
+  "质检报告编号:-",
+  "生产厂家地址:威海",
+  "生产厂家名称:威海市乔恩渔具有限公司",
+  "吊牌价:128",
+  "生产日期:2026",
+  "主要原料成分:合成材料",
+  "味型:无",
+  "添加剂类型:无",
+  "目标鱼种:淡水鱼/海鱼",
+  "海钓:老鼠假饵",
+  "是否IP授权:否"
+ ],
+ "包装信息": [
+  {
+   "sku2": "9cm/16g （SL00032)",
+   "volume": 346.5,
+   "sku1": "A",
+   "length": 18,
+   "width": 5.5,
+   "weight": 35,
+   "skuId": 6031985184785,
+   "height": 3.5
+  },
+  {
+   "sku2": "9cm/16g （SL00032)",
+   "volume": 346.5,
+   "sku1": "B",
+   "length": 18,
+   "width": 5.5,
+   "weight": 35,
+   "skuId": 6031985184786,
+   "height": 3.5
+  },
+  {
+   "sku2": "9cm/16g （SL00032)",
+   "volume": 346.5,
+   "sku1": "C",
+   "length": 18,
+   "width": 5.5,
+   "weight": 35,
+   "skuId": 6031985184787,
+   "height": 3.5
+  },
+  {
+   "sku2": "9cm/16g （SL00032)",
+   "volume": 346.5,
+   "sku1": "D",
+   "length": 18,
+   "width": 5.5,
+   "weight": 35,
+   "skuId": 6031985184788,
+   "height": 3.5
+  },
+  {
+   "sku2": "9cm/16g （SL00032)",
+   "volume": 346.5,
+   "sku1": "E",
+   "length": 18,
+   "width": 5.5,
+   "weight": 35,
+   "skuId": 6031985184789,
+   "height": 3.5
+  },
+  {
+   "sku2": "9cm/16g （SL00032)",
+   "volume": 346.5,
+   "sku1": "F",
+   "length": 18,
+   "width": 5.5,
+   "weight": 35,
+   "skuId": 6031985184790,
+   "height": 3.5
+  }
+ ],
+ "url": "https://detail.1688.com/offer/1020829362919.html",
+ "核页时间": "2026-10-06T17:59:05.215Z"
+}

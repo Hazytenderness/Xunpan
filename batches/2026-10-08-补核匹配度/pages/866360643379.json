@@ -1,0 +1,141 @@
+{
+ "offerId": "866360643379",
+ "条目": "H0688",
+ "block": false,
+ "卖家公司": "义乌市海龙女户外用品有限公司",
+ "旺旺名": "海龙女渔具",
+ "标题": "15g仿生昆虫金属假饵带旋转亮片路亚冰钓钩诱饵拟饵冬钓鲈鱼跨境",
+ "状态": "PUBLISHED",
+ "类目": "鱼饵",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "颜色",
+   "值": [
+    "绿色碎点16g",
+    "深绿黑点15g",
+    "绿色红条16g",
+    "深绿红点15g"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "绿色碎点16g",
+   "价格": null,
+   "库存": 9997
+  },
+  {
+   "规格": "绿色红条16g",
+   "价格": null,
+   "库存": 9999
+  },
+  {
+   "规格": "深绿红点15g",
+   "价格": null,
+   "库存": 9999
+  },
+  {
+   "规格": "深绿黑点15g",
+   "价格": null,
+   "库存": 9999
+  }
+ ],
+ "规格图": [
+  [
+   "绿色碎点16g",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01nFE5I51h9gMD3aTDO_!!2217823774235-0-cib.jpg"
+  ],
+  [
+   "深绿黑点15g",
+   "https://cbu01.alicdn.com/img/ibank/O1CN017ufbSg1h9gMJM1o8d_!!2217823774235-0-cib.jpg"
+  ],
+  [
+   "绿色红条16g",
+   "https://cbu01.alicdn.com/img/ibank/O1CN019byOiz1h9gMK7rvVO_!!2217823774235-0-cib.jpg"
+  ],
+  [
+   "深绿红点15g",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01siLGR31h9gMLz6brZ_!!2217823774235-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "rangePrice",
+ "价格区间": null,
+ "阶梯价_登录后": [
+  {
+   "price": "7.00",
+   "beginAmount": 2
+  },
+  {
+   "price": "6.00",
+   "beginAmount": 50
+  }
+ ],
+ "到手价": null,
+ "起订量": 2,
+ "单位": "个",
+ "可售总量": 39994,
+ "已售": 2,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01uH39dK1h9gMJpzHbF_!!2217823774235-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01bdTenl1h9gMJZJXSP_!!2217823774235-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01piclaD1h9gMMQllUd_!!2217823774235-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01RQ2kqx1h9gMKPBthc_!!2217823774235-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01siLGR31h9gMLz6brZ_!!2217823774235-0-cib.jpg"
+ ],
+ "商品属性": [
+  "品牌:海龙女",
+  "鱼饵类型:金属饵",
+  "产品类别:仿生硬饵",
+  "鱼饵形态:假饵/仿生饵",
+  "货号:31148",
+  "产地:中国",
+  "颜色:绿色碎点16g/深绿黑点15g/绿色红条16g/深绿红点15g",
+  "主要下游平台:ebay/亚马逊/wish/速卖通/LAZADA",
+  "主要销售地区:欧洲/南美/东南亚/北美/东北亚",
+  "是否跨境出口专供货源:是",
+  "生产厂家地址:浙江金华",
+  "生产厂家名称:东阳海龙女渔具工厂",
+  "吊牌价:18"
+ ],
+ "包装信息": [
+  {
+   "volume": 60,
+   "sku1": "绿色碎点16g",
+   "length": 10,
+   "width": 3,
+   "weight": 20,
+   "skuId": 5694201425210,
+   "height": 2
+  },
+  {
+   "volume": 60,
+   "sku1": "深绿黑点15g",
+   "length": 10,
+   "width": 3,
+   "weight": 20,
+   "skuId": 5694201425211,
+   "height": 2
+  },
+  {
+   "volume": 60,
+   "sku1": "绿色红条16g",
+   "length": 10,
+   "width": 3,
+   "weight": 20,
+   "skuId": 5694201425212,
+   "height": 2
+  },
+  {
+   "volume": 60,
+   "sku1": "深绿红点15g",
+   "length": 10,
+   "width": 3,
+   "weight": 20,
+   "skuId": 5694201425213,
+   "height": 2
+  }
+ ],
+ "url": "https://detail.1688.com/offer/866360643379.html",
+ "核页时间": "2026-10-06T17:59:25.323Z"
+}

@@ -1,0 +1,119 @@
+{
+ "offerId": "895092085164",
+ "条目": "M1273",
+ "block": false,
+ "卖家公司": "义乌市泽沔日用品厂(个体工商户)",
+ "旺旺名": "义乌市丝回电子商务商行",
+ "标题": "现货海绵硬底清洁刷厨房灶台浴室浴缸刷地板带手柄擦瓷砖擦海绵",
+ "状态": "PUBLISHED",
+ "类目": "海绵擦",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "颜色",
+   "值": [
+    "红色",
+    "蓝色",
+    "北欧粉",
+    "北欧蓝",
+    "北欧绿"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "蓝色",
+   "价格": "1.12",
+   "库存": 497600
+  },
+  {
+   "规格": "北欧蓝",
+   "价格": "1.12",
+   "库存": 498422
+  },
+  {
+   "规格": "北欧绿",
+   "价格": "1.12",
+   "库存": 498978
+  },
+  {
+   "规格": "北欧粉",
+   "价格": "1.12",
+   "库存": 499772
+  },
+  {
+   "规格": "红色",
+   "价格": "1.12",
+   "库存": 499285
+  }
+ ],
+ "规格图": [
+  [
+   "红色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01w7cuDJ1zOUGK4oZZN_!!2219356816704-0-cib.jpg"
+  ],
+  [
+   "蓝色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01dpHvy01zOUGNYPY0O_!!2219356816704-0-cib.jpg"
+  ],
+  [
+   "北欧粉",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01WIbX3R1zOUGFlD7Ao_!!2219356816704-0-cib.jpg"
+  ],
+  [
+   "北欧蓝",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01XGMBCV1zOUGLolgon_!!2219356816704-0-cib.jpg"
+  ],
+  [
+   "北欧绿",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01RzAq9H1zOUGO2Wgul_!!2219356816704-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "rangePrice",
+ "价格区间": "1.40",
+ "阶梯价_登录后": [
+  {
+   "price": "1.12",
+   "beginAmount": 2
+  }
+ ],
+ "到手价": {
+  "价": "0.62",
+  "说明": "新人价",
+  "件数": 2
+ },
+ "起订量": 2,
+ "单位": "个",
+ "可售总量": 2494057,
+ "已售": 5684,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01KlLWBi1zOUGMIk6iZ_!!2219356816704-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01Hfhj841zOUGM4NIxk_!!2219356816704-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01g5wOt71zOUGN46Zru_!!2219356816704-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01dAj39u1zOUGMujjnl_!!2219356816704-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01ejF5w71zOUGNYPkU8_!!2219356816704-0-cib.jpg"
+ ],
+ "商品属性": [
+  "材质:海绵",
+  "品牌:燕云涛",
+  "是否进口:否",
+  "适用对象:锅/碗",
+  "贸易属性:内贸+外贸",
+  "重量:70",
+  "外箱规格:1",
+  "箱装数量:200",
+  "颜色:红色/蓝色/北欧粉/北欧蓝/北欧绿",
+  "是否有专利:否"
+ ],
+ "包装信息": [
+  {
+   "volume": 0,
+   "length": 0,
+   "width": 0,
+   "weight": 80,
+   "height": 0
+  }
+ ],
+ "url": "https://detail.1688.com/offer/895092085164.html",
+ "核页时间": "2026-10-08T09:02:37.665Z"
+}

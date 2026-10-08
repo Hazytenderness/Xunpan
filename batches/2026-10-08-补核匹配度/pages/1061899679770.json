@@ -1,0 +1,188 @@
+{
+ "offerId": "1061899679770",
+ "条目": "M1280",
+ "block": false,
+ "卖家公司": "义乌市好嗨塑料制品有限公司",
+ "旺旺名": "好嗨布艺源头厂家",
+ "标题": "按压式喷油壶家用空气炸锅雾化雾状油罐户外烧烤烤肉便携喷油瓶",
+ "状态": "PUBLISHED",
+ "类目": "油壶",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "容量",
+   "值": [
+    "黑透200ml【opp袋封口】",
+    "黑透300ml【opp袋封口】",
+    "黑透500ml【opp袋封口】",
+    "白透200ml【opp袋封口】",
+    "白透300ml【opp袋封口】",
+    "白透500ml【opp袋封口】"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "白透300ml【opp袋封口】",
+   "价格": "2.50",
+   "库存": 9999896
+  },
+  {
+   "规格": "黑透500ml【opp袋封口】",
+   "价格": "2.80",
+   "库存": 9999365
+  },
+  {
+   "规格": "黑透300ml【opp袋封口】",
+   "价格": "2.50",
+   "库存": 9999804
+  },
+  {
+   "规格": "白透500ml【opp袋封口】",
+   "价格": "2.80",
+   "库存": 9999969
+  },
+  {
+   "规格": "白透200ml【opp袋封口】",
+   "价格": "2.40",
+   "库存": 9999535
+  },
+  {
+   "规格": "黑透200ml【opp袋封口】",
+   "价格": "2.40",
+   "库存": 9998277
+  }
+ ],
+ "规格图": [
+  [
+   "黑透200ml【opp袋封口】",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01fM0qHc2GL8x03UOsZ_!!2204123238998-0-cib.jpg"
+  ],
+  [
+   "黑透300ml【opp袋封口】",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01HEk32Z2GL8wzxyvn4_!!2204123238998-0-cib.jpg"
+  ],
+  [
+   "黑透500ml【opp袋封口】",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01RSvPdg2GL8wzgQmJA_!!2204123238998-0-cib.jpg"
+  ],
+  [
+   "白透200ml【opp袋封口】",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01s2RuZv2GL8wzv2qjF_!!2204123238998-0-cib.jpg"
+  ],
+  [
+   "白透300ml【opp袋封口】",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01lkUn3w2GL8x1Suob3_!!2204123238998-0-cib.jpg"
+  ],
+  [
+   "白透500ml【opp袋封口】",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01lHa3Ix2GL8wzkdsoS_!!2204123238998-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "skuPrice",
+ "价格区间": "2.40-2.80",
+ "阶梯价_登录后": [
+  {
+   "price": "2.40",
+   "beginAmount": 1
+  },
+  {
+   "price": "2.80",
+   "beginAmount": 1
+  }
+ ],
+ "到手价": {
+  "价": "0.4",
+  "说明": "新人价",
+  "件数": 1
+ },
+ "起订量": 1,
+ "单位": "件",
+ "可售总量": 59996846,
+ "已售": 2944,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01Gu8IS22GL8x09MgMO_!!2204123238998-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN0124ghac2GL8wzuOohu_!!2204123238998-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01OHe4a62GL8x09McCj_!!2204123238998-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01PJ1Q9e2GL8x01A3do_!!2204123238998-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01J7B6SZ2GL8x01CfmH_!!2204123238998-0-cib.jpg"
+ ],
+ "商品属性": [
+  "材质:塑料",
+  "功能:按压喷油",
+  "品牌:好嗨",
+  "产品质量等级:合格品",
+  "是否进口:否",
+  "货号:A348",
+  "原产国/地区:中国大陆",
+  "容量:黑透200ml【opp袋封口】/黑透300ml【opp袋封口】/黑透500ml【opp袋封口】/白透200ml【opp袋封口】/白透300ml【opp袋封口】/白透500ml【opp袋封口】",
+  "加印LOGO:可以",
+  "产品上市时间:2026年夏",
+  "价格段:5元以内",
+  "产地:义乌",
+  "是否有专利:否",
+  "主要下游平台:ebay/亚马逊/wish/速卖通/独立站/LAZADA",
+  "主要销售地区:非洲/欧洲/南美/东南亚/北美/东北亚/中东",
+  "有可授权的自有品牌:否",
+  "是否跨境出口专供货源:是",
+  "风格:现代简约"
+ ],
+ "包装信息": [
+  {
+   "volume": 0,
+   "sku1": "黑透200ml【opp袋封口】",
+   "length": 0,
+   "width": 0,
+   "weight": 200,
+   "skuId": 6109498864416,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "黑透300ml【opp袋封口】",
+   "length": 0,
+   "width": 0,
+   "weight": 250,
+   "skuId": 6109498864417,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "黑透500ml【opp袋封口】",
+   "length": 0,
+   "width": 0,
+   "weight": 300,
+   "skuId": 6109498864418,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "白透200ml【opp袋封口】",
+   "length": 0,
+   "width": 0,
+   "weight": 200,
+   "skuId": 6109498864419,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "白透300ml【opp袋封口】",
+   "length": 0,
+   "width": 0,
+   "weight": 250,
+   "skuId": 6109498864420,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "白透500ml【opp袋封口】",
+   "length": 0,
+   "width": 0,
+   "weight": 300,
+   "skuId": 6109498864421,
+   "height": 0
+  }
+ ],
+ "url": "https://detail.1688.com/offer/1061899679770.html",
+ "核页时间": "2026-10-08T09:03:15.691Z"
+}

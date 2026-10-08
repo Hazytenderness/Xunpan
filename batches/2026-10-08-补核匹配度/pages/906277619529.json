@@ -1,0 +1,106 @@
+{
+ "offerId": "906277619529",
+ "条目": "M0445",
+ "block": false,
+ "卖家公司": "义乌市速越家居用品有限公司",
+ "旺旺名": "义乌市速越家居用品厂",
+ "标题": "卫生间置物架免打孔三角收纳架厨房墙上转角储物架收纳卫生间收纳",
+ "状态": "PUBLISHED",
+ "类目": "卫浴置物架",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "尺寸",
+   "值": [
+    "黑色",
+    "白色"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "黑色",
+   "价格": "3.80",
+   "库存": 4600
+  },
+  {
+   "规格": "白色",
+   "价格": "3.80",
+   "库存": 4986
+  }
+ ],
+ "规格图": [
+  [
+   "黑色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01ywf2QB1yLuQSlDzlP_!!2219604996563-0-cib.jpg"
+  ],
+  [
+   "白色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01Pvlozw1yLuQTtPnD7_!!2219604996563-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "skuPrice",
+ "价格区间": "3.80",
+ "阶梯价_登录后": [
+  {
+   "price": "3.80",
+   "beginAmount": 1
+  }
+ ],
+ "到手价": {
+  "价": "2.8",
+  "说明": "新人价",
+  "件数": 1
+ },
+ "起订量": 1,
+ "单位": "套",
+ "可售总量": 9586,
+ "已售": 683,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01ywf2QB1yLuQSlDzlP_!!2219604996563-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01tLT0Er1yLuQTM2dSv_!!2219604996563-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01NwZaUE1yLuQTtAHba_!!2219604996563-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01OlaPCZ1yLuQQASJJE_!!2219604996563-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01pH2WfZ1yLuQSyGUIX_!!2219604996563-0-cib.jpg"
+ ],
+ "商品属性": [
+  "材质:铁",
+  "品牌:无",
+  "层数:1层",
+  "表面处理:烤漆",
+  "风格:美式",
+  "认证:无",
+  "尺寸:黑色/白色",
+  "是否一般纳税人:否",
+  "货号:FM0363",
+  "型号:001",
+  "产地:中国",
+  "承重:5-10kg(含)",
+  "是否跨境出口专供货源:是",
+  "主要下游平台:亚马逊/wish/速卖通/独立站/LAZADA/其他",
+  "主要销售地区:欧洲/南美/东南亚/北美/东北亚/中东/其他",
+  "有可授权的自有品牌:否"
+ ],
+ "包装信息": [
+  {
+   "volume": 3174,
+   "sku1": "黑色",
+   "length": 23,
+   "width": 23,
+   "weight": 150,
+   "skuId": 5933472854499,
+   "height": 6
+  },
+  {
+   "volume": 3174,
+   "sku1": "白色",
+   "length": 23,
+   "width": 23,
+   "weight": 150,
+   "skuId": 5933472854500,
+   "height": 6
+  }
+ ],
+ "url": "https://detail.1688.com/offer/906277619529.html",
+ "核页时间": "2026-10-08T08:38:50.712Z"
+}

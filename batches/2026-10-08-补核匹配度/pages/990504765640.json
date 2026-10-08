@@ -1,0 +1,82 @@
+{
+ "offerId": "990504765640",
+ "条目": "M0856",
+ "block": false,
+ "卖家公司": "义乌市展宏印刷厂（个体工商户）",
+ "旺旺名": "义乌展宏印刷厂",
+ "标题": "创意简约免胶自粘卡通黑白厨房餐具英文标识图案美化装饰墙面贴纸",
+ "状态": "PUBLISHED",
+ "类目": "墙贴",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "颜色分类",
+   "值": [
+    "JT5114"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "JT5114",
+   "价格": null,
+   "库存": 48583
+  }
+ ],
+ "规格图": [
+  [
+   "JT5114",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01uqtQDV1fr4jMoJnNo_!!2220579824059-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "rangePrice",
+ "价格区间": null,
+ "阶梯价_登录后": [
+  {
+   "price": "3.60",
+   "beginAmount": 1
+  },
+  {
+   "price": "3.40",
+   "beginAmount": 20
+  }
+ ],
+ "到手价": null,
+ "起订量": 1,
+ "单位": "张",
+ "可售总量": 48583,
+ "已售": 1412,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01idDvVF1fr4jL8CYPC_!!2220579824059-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01NBdRHK1fr4jL8DcuA_!!2220579824059-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01KhTs5N1fr4jLYy09A_!!2220579824059-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01kXB5ki1fr4jMoAJ6O_!!2220579824059-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01jlFkV01fr4jKjRzLl_!!2220579824059-0-cib.jpg"
+ ],
+ "商品属性": [
+  "墙贴类型:防水墙贴",
+  "材质:PVC",
+  "功能:美化装饰",
+  "款式:平面墙贴",
+  "风格:卡通风",
+  "货号:JT5114",
+  "图案:其他",
+  "颜色分类:JT5114",
+  "片数:5片以上",
+  "空间:餐厅/厨房",
+  "是否有版权或专利:否"
+ ],
+ "包装信息": [
+  {
+   "volume": 180,
+   "sku1": "JT5114",
+   "length": 60,
+   "width": 30,
+   "weight": 52,
+   "skuId": 6123382930938,
+   "height": 0.1
+  }
+ ],
+ "url": "https://detail.1688.com/offer/990504765640.html",
+ "核页时间": "2026-10-08T09:00:42.070Z"
+}

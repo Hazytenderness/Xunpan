@@ -1,0 +1,166 @@
+{
+ "offerId": "848555775770",
+ "条目": "M0297",
+ "block": false,
+ "卖家公司": "深圳市益水源净水科技有限公司",
+ "旺旺名": "益水源净水科技有限公司",
+ "标题": "麦克罗美的净水器M6滤芯MRC1586/A/1587B-50/121/207/208过滤器M6",
+ "状态": "PUBLISHED",
+ "类目": "净水器配件、附件",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "颜色",
+   "值": [
+    "M6 PP",
+    "M6前置",
+    "M6 RO",
+    "M6后置",
+    "M6 超滤"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "M6 超滤",
+   "价格": "40.00",
+   "库存": 4972
+  },
+  {
+   "规格": "M6 PP",
+   "价格": "13.50",
+   "库存": 4636
+  },
+  {
+   "规格": "M6 RO",
+   "价格": "53.00",
+   "库存": 4927
+  },
+  {
+   "规格": "M6前置",
+   "价格": "17.50",
+   "库存": 4746
+  },
+  {
+   "规格": "M6后置",
+   "价格": "18.00",
+   "库存": 4773
+  }
+ ],
+ "规格图": [
+  [
+   "M6 PP",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01JoDpq41GoRyLk0G8f_!!2218000390669-0-cib.jpg"
+  ],
+  [
+   "M6前置",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01fFV1Sy1GoRyLUnpCC_!!2218000390669-0-cib.jpg"
+  ],
+  [
+   "M6 RO",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01yFlqGG1GoRyKlBeFj_!!2218000390669-0-cib.jpg"
+  ],
+  [
+   "M6后置",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01H5Vw421GoRyPMeCTr_!!2218000390669-0-cib.jpg"
+  ],
+  [
+   "M6 超滤",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01JRdBbe1GoRyO73Kqo_!!2218000390669-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "skuPrice",
+ "价格区间": "13.50-53.00",
+ "阶梯价_登录后": [
+  {
+   "price": "13.50",
+   "beginAmount": 1
+  },
+  {
+   "price": "53.00",
+   "beginAmount": 1
+  }
+ ],
+ "到手价": {
+  "价": "11.5",
+  "说明": "新人价",
+  "件数": 1
+ },
+ "起订量": 1,
+ "单位": "个",
+ "可售总量": 24054,
+ "已售": 540,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN012oyt8i1GoRyPBF4J1_!!2218000390669-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01F3efBR1GoRyPBEOjb_!!2218000390669-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01Xvv5PL1GoRyPL32iM_!!2218000390669-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01eymf4d1GoRyMsHpWz_!!2218000390669-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01K57iNv1GoRyPL4mym_!!2218000390669-0-cib.jpg"
+ ],
+ "商品属性": [
+  "品牌:颖思",
+  "配件种类:净水器滤芯",
+  "功能:净化水质",
+  "材质:PP",
+  "容量:100%",
+  "使用位置:净水器",
+  "货号:2分口快接",
+  "型号:2分",
+  "贸易属性:内贸",
+  "功效:过滤泥沙、铁锈、吸附异色异味、过滤病毒、改善口感",
+  "包装:热收缩",
+  "产品上市时间:2020",
+  "水处理机类别:净水器、净水机、饮水机、开水器、售水机",
+  "价格段:50-60元",
+  "颜色:M6 PP/M6前置/M6 RO/M6后置/M6 超滤"
+ ],
+ "包装信息": [
+  {
+   "volume": 4213.5,
+   "sku1": "M6 PP",
+   "length": 26.5,
+   "width": 6,
+   "weight": 200,
+   "skuId": 5635914596572,
+   "height": 26.5
+  },
+  {
+   "volume": 4213.5,
+   "sku1": "M6前置",
+   "length": 26.5,
+   "width": 6,
+   "weight": 200,
+   "skuId": 5635914596573,
+   "height": 26.5
+  },
+  {
+   "volume": 4213.5,
+   "sku1": "M6 RO",
+   "length": 26.5,
+   "width": 6,
+   "weight": 200,
+   "skuId": 5635914596574,
+   "height": 26.5
+  },
+  {
+   "volume": 4213.5,
+   "sku1": "M6后置",
+   "length": 26.5,
+   "width": 6,
+   "weight": 200,
+   "skuId": 5635914596575,
+   "height": 26.5
+  },
+  {
+   "volume": 4213.5,
+   "sku1": "M6 超滤",
+   "length": 26.5,
+   "width": 6,
+   "weight": 200,
+   "skuId": 5635914596576,
+   "height": 26.5
+  }
+ ],
+ "url": "https://detail.1688.com/offer/848555775770.html",
+ "核页时间": "2026-10-08T08:30:14.254Z"
+}

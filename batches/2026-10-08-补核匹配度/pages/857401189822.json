@@ -1,0 +1,740 @@
+{
+ "offerId": "857401189822",
+ "条目": "M0612",
+ "block": false,
+ "卖家公司": "广州龙塑昌贸易有限公司",
+ "旺旺名": "龙塑昌",
+ "标题": "塑料慕斯杯提拉米苏甜品杯一次性果冻木糠布丁杯派对迷你冻糕杯子",
+ "状态": "PUBLISHED",
+ "类目": "一次性塑杯",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "颜色",
+   "值": [
+    "7770圆杯7OZ/210ml",
+    "GD26八边杯6OZ/180ml",
+    "GD24方杯5OZ/150-160ML",
+    "7745心形杯5OZ/150ml",
+    "2021透明",
+    "2021粉色",
+    "2025圆杯3OZ/100ml",
+    "GD41方杯4OZ/120ml",
+    "CH-77斜口喇叭杯140ml",
+    "CH-29扭边杯-无盖130ml",
+    "7065方杯7OZ/210ml",
+    "2011透明方杯2OZ/60-70ml",
+    "GD984745长方杯",
+    "CH-40方杯8OZ/240ml",
+    "46C斜圆杯 -无盖80ML",
+    "4585斜三角杯 -无盖80ML",
+    "6080圆杯150ML",
+    "GD125连体杯200ML",
+    "GD2007五角星杯-无盖70ml",
+    "GD106错层方杯-无盖110ML",
+    "GD60螺旋杯+球盖160ml",
+    "GD2009矮方杯+平盖60-70ml",
+    "GD105曲口方杯-无盖110ml",
+    "GD6565斜口扭方杯-无盖110ml",
+    "CH-82斜口方杯90ML",
+    "2030透明",
+    "4670斜口方杯-无盖110ML",
+    "GD108透明",
+    "CH-78斜口透明",
+    "CH-95透明",
+    "GD51不带柱子",
+    "GD51带柱子",
+    "盖子",
+    "勺子",
+    "2011金粉方杯2OZ/60-70ml",
+    "CH-95金粉"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "7770圆杯7OZ/210ml",
+   "价格": "0.50",
+   "库存": 9998951
+  },
+  {
+   "规格": "CH-40方杯8OZ/240ml",
+   "价格": "0.47",
+   "库存": 9999990
+  },
+  {
+   "规格": "GD26八边杯6OZ/180ml",
+   "价格": "0.41",
+   "库存": 9999960
+  },
+  {
+   "规格": "4670斜口方杯-无盖110ML",
+   "价格": "0.37",
+   "库存": 9998990
+  },
+  {
+   "规格": "GD105曲口方杯-无盖110ml",
+   "价格": "0.37",
+   "库存": 9999990
+  },
+  {
+   "规格": "CH-82斜口方杯90ML",
+   "价格": "0.37",
+   "库存": 10000000
+  },
+  {
+   "规格": "CH-78斜口透明",
+   "价格": "0.50",
+   "库存": 9999799
+  },
+  {
+   "规格": "GD125连体杯200ML",
+   "价格": "0.50",
+   "库存": 9999548
+  },
+  {
+   "规格": "GD6565斜口扭方杯-无盖110ml",
+   "价格": "0.37",
+   "库存": 9999975
+  },
+  {
+   "规格": "GD51不带柱子",
+   "价格": "0.50",
+   "库存": 9993947
+  },
+  {
+   "规格": "CH-95金粉",
+   "价格": "0.55",
+   "库存": 0
+  },
+  {
+   "规格": "2030透明",
+   "价格": "0.40",
+   "库存": 9998703
+  },
+  {
+   "规格": "2021粉色",
+   "价格": "0.45",
+   "库存": 999666
+  },
+  {
+   "规格": "勺子",
+   "价格": "0.10",
+   "库存": 9991930
+  },
+  {
+   "规格": "CH-77斜口喇叭杯140ml",
+   "价格": "0.37",
+   "库存": 9999890
+  },
+  {
+   "规格": "GD2007五角星杯-无盖70ml",
+   "价格": "0.35",
+   "库存": 9998999
+  },
+  {
+   "规格": "GD51带柱子",
+   "价格": "0.60",
+   "库存": 9999987
+  },
+  {
+   "规格": "7745心形杯5OZ/150ml",
+   "价格": "0.41",
+   "库存": 9999449
+  },
+  {
+   "规格": "GD24方杯5OZ/150-160ML",
+   "价格": "0.36",
+   "库存": 9989955
+  },
+  {
+   "规格": "46C斜圆杯 -无盖80ML",
+   "价格": "0.35",
+   "库存": 9999639
+  },
+  {
+   "规格": "GD108透明",
+   "价格": "0.50",
+   "库存": 9999954
+  },
+  {
+   "规格": "2025圆杯3OZ/100ml",
+   "价格": "0.34",
+   "库存": 9999790
+  },
+  {
+   "规格": "GD106错层方杯-无盖110ML",
+   "价格": "0.37",
+   "库存": 9999799
+  },
+  {
+   "规格": "CH-95透明",
+   "价格": "0.50",
+   "库存": 9999919
+  },
+  {
+   "规格": "6080圆杯150ML",
+   "价格": "0.34",
+   "库存": 9999939
+  },
+  {
+   "规格": "GD984745长方杯",
+   "价格": "0.38",
+   "库存": 9999000
+  },
+  {
+   "规格": "7065方杯7OZ/210ml",
+   "价格": "0.41",
+   "库存": 9999990
+  },
+  {
+   "规格": "GD41方杯4OZ/120ml",
+   "价格": "0.45",
+   "库存": 9998927
+  },
+  {
+   "规格": "盖子",
+   "价格": "0.10",
+   "库存": 9999920
+  },
+  {
+   "规格": "4585斜三角杯 -无盖80ML",
+   "价格": "0.35",
+   "库存": 9999050
+  },
+  {
+   "规格": "GD2009矮方杯+平盖60-70ml",
+   "价格": "0.34",
+   "库存": 9999480
+  },
+  {
+   "规格": "2011透明方杯2OZ/60-70ml",
+   "价格": "0.32",
+   "库存": 9999665
+  },
+  {
+   "规格": "CH-29扭边杯-无盖130ml",
+   "价格": "0.37",
+   "库存": 9999998
+  },
+  {
+   "规格": "GD60螺旋杯+球盖160ml",
+   "价格": "0.41",
+   "库存": 9999387
+  },
+  {
+   "规格": "2021透明",
+   "价格": "0.42",
+   "库存": 9999113
+  },
+  {
+   "规格": "2011金粉方杯2OZ/60-70ml",
+   "价格": "0.38",
+   "库存": 0
+  }
+ ],
+ "规格图": [
+  [
+   "7770圆杯7OZ/210ml",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01U8iolF1qROCuf1YjE_!!2216994035492-0-cib.jpg"
+  ],
+  [
+   "GD26八边杯6OZ/180ml",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01xmo2cg1qROCvhKHDs_!!2216994035492-0-cib.jpg"
+  ],
+  [
+   "GD24方杯5OZ/150-160ML",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01AovtaF1qROCtv41mC_!!2216994035492-0-cib.jpg"
+  ],
+  [
+   "7745心形杯5OZ/150ml",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01U7CAuV1qROCsyxzMf_!!2216994035492-0-cib.jpg"
+  ],
+  [
+   "2021透明",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01s7D1em1qROCtsQ5kK_!!2216994035492-0-cib.jpg"
+  ],
+  [
+   "2021粉色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN011I1RV71qRODTZaUdg_!!2216994035492-0-cib.jpg"
+  ],
+  [
+   "2025圆杯3OZ/100ml",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01RczJPK1qROCtwrwS8_!!2216994035492-0-cib.jpg"
+  ],
+  [
+   "GD41方杯4OZ/120ml",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01dppjpW1qROCrK5nya_!!2216994035492-0-cib.jpg"
+  ],
+  [
+   "CH-77斜口喇叭杯140ml",
+   "https://cbu01.alicdn.com/img/ibank/O1CN0109ytrL1qROCsb7gLo_!!2216994035492-0-cib.jpg"
+  ],
+  [
+   "CH-29扭边杯-无盖130ml",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01Zlvbqa1qROCvEL5Ku_!!2216994035492-0-cib.jpg"
+  ],
+  [
+   "7065方杯7OZ/210ml",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01vg2Dpv1qROCsSR8RN_!!2216994035492-0-cib.jpg"
+  ],
+  [
+   "2011透明方杯2OZ/60-70ml",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01uHtut11qROCufkTKc_!!2216994035492-0-cib.jpg"
+  ],
+  [
+   "GD984745长方杯",
+   "https://cbu01.alicdn.com/img/ibank/O1CN019IscCg1qROCszK0Um_!!2216994035492-0-cib.jpg"
+  ],
+  [
+   "CH-40方杯8OZ/240ml",
+   "https://cbu01.alicdn.com/img/ibank/O1CN019Qw5mg1qROCsv4a1b_!!2216994035492-0-cib.jpg"
+  ],
+  [
+   "46C斜圆杯 -无盖80ML",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01tUDq731qROCsSfdJx_!!2216994035492-0-cib.jpg"
+  ],
+  [
+   "4585斜三角杯 -无盖80ML",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01e8yCz31qROCm3C7wk_!!2216994035492-0-cib.jpg"
+  ],
+  [
+   "6080圆杯150ML",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01OWQWoP1qROCr6wWLQ_!!2216994035492-0-cib.jpg"
+  ],
+  [
+   "GD125连体杯200ML",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01N085Ai1qROCtDv2LY_!!2216994035492-0-cib.jpg"
+  ],
+  [
+   "GD2007五角星杯-无盖70ml",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01jr44gn1qROCtyRxPI_!!2216994035492-0-cib.jpg"
+  ],
+  [
+   "GD106错层方杯-无盖110ML",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01gsWn491qROCstLEEh_!!2216994035492-0-cib.jpg"
+  ],
+  [
+   "GD60螺旋杯+球盖160ml",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01Hk5ur61qROCubVlxd_!!2216994035492-0-cib.jpg"
+  ],
+  [
+   "GD2009矮方杯+平盖60-70ml",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01OOKHgR1qROCsziVzd_!!2216994035492-0-cib.jpg"
+  ],
+  [
+   "GD105曲口方杯-无盖110ml",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01fT9Ou61qROCrN3DPg_!!2216994035492-0-cib.jpg"
+  ],
+  [
+   "GD6565斜口扭方杯-无盖110ml",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01BJbRsE1qROCubOaba_!!2216994035492-0-cib.jpg"
+  ],
+  [
+   "CH-82斜口方杯90ML",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01Q4RNSl1qROCtvcoBx_!!2216994035492-0-cib.jpg"
+  ],
+  [
+   "2030透明",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01Mhjx3Z1qROCtw1yqs_!!2216994035492-0-cib.jpg"
+  ],
+  [
+   "4670斜口方杯-无盖110ML",
+   "https://cbu01.alicdn.com/img/ibank/O1CN014YYlAa1qROCr74qRC_!!2216994035492-0-cib.jpg"
+  ],
+  [
+   "GD108透明",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01s5F3a31qROCtwIthN_!!2216994035492-0-cib.jpg"
+  ],
+  [
+   "CH-78斜口透明",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01jeKCse1qROCrKskJP_!!2216994035492-0-cib.jpg"
+  ],
+  [
+   "CH-95透明",
+   "https://cbu01.alicdn.com/img/ibank/O1CN018QPPvB1qROCtZRxKc_!!2216994035492-0-cib.jpg"
+  ],
+  [
+   "GD51不带柱子",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01Xq34Wb1qROCvikYid_!!2216994035492-0-cib.jpg"
+  ],
+  [
+   "GD51带柱子",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01otBJMi1qROCvildGG_!!2216994035492-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "skuPrice",
+ "价格区间": null,
+ "阶梯价_登录后": [
+  {
+   "price": "0.10",
+   "beginAmount": 1
+  },
+  {
+   "price": "0.60",
+   "beginAmount": 1
+  }
+ ],
+ "到手价": null,
+ "起订量": 1,
+ "单位": "WH",
+ "可售总量": 330963299,
+ "已售": 7256,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN010edJ6D1qROCqMDKme_!!2216994035492-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN018idXqO1qROCsxDhfH_!!2216994035492-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01oyGeMN1qROCm1DXYD_!!2216994035492-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01piAmaM1qROCtqqoTz_!!2216994035492-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01Cahcez1qROCudsSzL_!!2216994035492-0-cib.jpg"
+ ],
+ "商品属性": [
+  "材质:PS",
+  "容量:101mL(含)-200mL(含)",
+  "用途:咖啡店/蛋糕店/奶茶店/普通一次性/甜品店",
+  "进口:否",
+  "产地（国内）:广东省",
+  "塑料:PS/聚苯乙烯",
+  "是否可降解:否",
+  "加印LOGO:可以",
+  "加工定制:是",
+  "保质期:三年",
+  "毛重:15G",
+  "货号:甜品杯",
+  "箱装数量:1000",
+  "只数:1000",
+  "微波炉是否可用:否",
+  "颜色:7770圆杯7OZ/210ml/GD26八边杯6OZ/180ml/GD24方杯5OZ/150-160ML/7745心形杯5OZ/150ml/2021透明/2021粉色/2025圆杯3OZ/100ml/GD41方杯4OZ/120ml/CH-77斜口喇叭杯140ml/CH-29扭边杯-无盖130ml/7065方杯7OZ/210ml/2011透明方杯2OZ/60-70ml/2011金粉方杯2OZ/60-70ml/GD984745长方杯/CH-40方杯8OZ/240ml/46C斜圆杯 -无盖80ML/4585斜三角杯 -无盖80ML/6080圆杯150ML/GD125连体杯200ML/GD2007五角星杯-无盖70ml/GD106错层方杯-无盖110ML/GD60螺旋杯+球盖160ml/GD2009矮方杯+平盖60-70ml/GD105曲口方杯-无盖110ml/GD6565斜口扭方杯-无盖110ml/CH-82斜口方杯90ML/2030透明/4670斜口方杯-无盖110ML/GD108透明/CH-78斜口透明/CH-95透明/CH-95金粉/GD51不带柱子/GD51带柱子/盖子/勺子",
+  "主要下游平台:亚马逊",
+  "主要销售地区:欧洲/南美/东南亚/北美/东北亚/中东",
+  "是否跨境出口专供货源:是",
+  "是否有专利:否"
+ ],
+ "包装信息": [
+  {
+   "volume": 1,
+   "sku1": "7770圆杯7OZ/210ml",
+   "length": 1,
+   "width": 1,
+   "weight": 1,
+   "skuId": 5834158871714,
+   "height": 1
+  },
+  {
+   "volume": 1,
+   "sku1": "GD26八边杯6OZ/180ml",
+   "length": 1,
+   "width": 1,
+   "weight": 1,
+   "skuId": 5834158871715,
+   "height": 1
+  },
+  {
+   "volume": 1,
+   "sku1": "GD24方杯5OZ/150-160ML",
+   "length": 1,
+   "width": 1,
+   "weight": 1,
+   "skuId": 5834158871716,
+   "height": 1
+  },
+  {
+   "volume": 1,
+   "sku1": "7745心形杯5OZ/150ml",
+   "length": 1,
+   "width": 1,
+   "weight": 1,
+   "skuId": 5834158871717,
+   "height": 1
+  },
+  {
+   "volume": 1,
+   "sku1": "2021透明",
+   "length": 1,
+   "width": 1,
+   "weight": 1,
+   "skuId": 5834158871718,
+   "height": 1
+  },
+  {
+   "volume": 1,
+   "sku1": "2021粉色",
+   "length": 1,
+   "width": 1,
+   "weight": 1,
+   "skuId": 5695372613954,
+   "height": 1
+  },
+  {
+   "volume": 1,
+   "sku1": "2025圆杯3OZ/100ml",
+   "length": 1,
+   "width": 1,
+   "weight": 1,
+   "skuId": 5834158871719,
+   "height": 1
+  },
+  {
+   "volume": 1,
+   "sku1": "GD41方杯4OZ/120ml",
+   "length": 1,
+   "width": 1,
+   "weight": 1,
+   "skuId": 5834158871720,
+   "height": 1
+  },
+  {
+   "volume": 1,
+   "sku1": "CH-77斜口喇叭杯140ml",
+   "length": 1,
+   "width": 1,
+   "weight": 1,
+   "skuId": 5834158871721,
+   "height": 1
+  },
+  {
+   "volume": 1,
+   "sku1": "CH-29扭边杯-无盖130ml",
+   "length": 1,
+   "width": 1,
+   "weight": 1,
+   "skuId": 5834158871722,
+   "height": 1
+  },
+  {
+   "volume": 1,
+   "sku1": "7065方杯7OZ/210ml",
+   "length": 1,
+   "width": 1,
+   "weight": 1,
+   "skuId": 5834158871723,
+   "height": 1
+  },
+  {
+   "volume": 1,
+   "sku1": "2011透明方杯2OZ/60-70ml",
+   "length": 1,
+   "width": 1,
+   "weight": 1,
+   "skuId": 5834158871724,
+   "height": 1
+  },
+  {
+   "volume": 1,
+   "sku1": "2011金粉方杯2OZ/60-70ml",
+   "length": 1,
+   "width": 1,
+   "weight": 1,
+   "skuId": 5834158871725,
+   "height": 1
+  },
+  {
+   "volume": 1,
+   "sku1": "GD984745长方杯",
+   "length": 1,
+   "width": 1,
+   "weight": 1,
+   "skuId": 5834158871726,
+   "height": 1
+  },
+  {
+   "volume": 1,
+   "sku1": "CH-40方杯8OZ/240ml",
+   "length": 1,
+   "width": 1,
+   "weight": 1,
+   "skuId": 5834158871727,
+   "height": 1
+  },
+  {
+   "volume": 1,
+   "sku1": "46C斜圆杯 -无盖80ML",
+   "length": 1,
+   "width": 1,
+   "weight": 1,
+   "skuId": 5834158871728,
+   "height": 1
+  },
+  {
+   "volume": 1,
+   "sku1": "4585斜三角杯 -无盖80ML",
+   "length": 1,
+   "width": 1,
+   "weight": 1,
+   "skuId": 5834158871729,
+   "height": 1
+  },
+  {
+   "volume": 1,
+   "sku1": "6080圆杯150ML",
+   "length": 1,
+   "width": 1,
+   "weight": 1,
+   "skuId": 5834158871730,
+   "height": 1
+  },
+  {
+   "volume": 1,
+   "sku1": "GD125连体杯200ML",
+   "length": 1,
+   "width": 1,
+   "weight": 1,
+   "skuId": 5834158871731,
+   "height": 1
+  },
+  {
+   "volume": 1,
+   "sku1": "GD2007五角星杯-无盖70ml",
+   "length": 1,
+   "width": 1,
+   "weight": 1,
+   "skuId": 5834158871732,
+   "height": 1
+  },
+  {
+   "volume": 1,
+   "sku1": "GD106错层方杯-无盖110ML",
+   "length": 1,
+   "width": 1,
+   "weight": 1,
+   "skuId": 5834158871733,
+   "height": 1
+  },
+  {
+   "volume": 1,
+   "sku1": "GD60螺旋杯+球盖160ml",
+   "length": 1,
+   "width": 1,
+   "weight": 1,
+   "skuId": 5834158871734,
+   "height": 1
+  },
+  {
+   "volume": 1,
+   "sku1": "GD2009矮方杯+平盖60-70ml",
+   "length": 1,
+   "width": 1,
+   "weight": 1,
+   "skuId": 5834158871735,
+   "height": 1
+  },
+  {
+   "volume": 1,
+   "sku1": "GD105曲口方杯-无盖110ml",
+   "length": 1,
+   "width": 1,
+   "weight": 1,
+   "skuId": 5834158871736,
+   "height": 1
+  },
+  {
+   "volume": 1,
+   "sku1": "GD6565斜口扭方杯-无盖110ml",
+   "length": 1,
+   "width": 1,
+   "weight": 1,
+   "skuId": 5834158871737,
+   "height": 1
+  },
+  {
+   "volume": 1,
+   "sku1": "CH-82斜口方杯90ML",
+   "length": 1,
+   "width": 1,
+   "weight": 1,
+   "skuId": 5834158871738,
+   "height": 1
+  },
+  {
+   "volume": 1,
+   "sku1": "2030透明",
+   "length": 1,
+   "width": 1,
+   "weight": 1,
+   "skuId": 5834158871739,
+   "height": 1
+  },
+  {
+   "volume": 1,
+   "sku1": "4670斜口方杯-无盖110ML",
+   "length": 1,
+   "width": 1,
+   "weight": 1,
+   "skuId": 5834158871740,
+   "height": 1
+  },
+  {
+   "volume": 1,
+   "sku1": "GD108透明",
+   "length": 1,
+   "width": 1,
+   "weight": 1,
+   "skuId": 5834158871741,
+   "height": 1
+  },
+  {
+   "volume": 1,
+   "sku1": "CH-78斜口透明",
+   "length": 1,
+   "width": 1,
+   "weight": 1,
+   "skuId": 5834158871742,
+   "height": 1
+  },
+  {
+   "volume": 1,
+   "sku1": "CH-95透明",
+   "length": 1,
+   "width": 1,
+   "weight": 1,
+   "skuId": 5834158871743,
+   "height": 1
+  },
+  {
+   "volume": 1,
+   "sku1": "CH-95金粉",
+   "length": 1,
+   "width": 1,
+   "weight": 1,
+   "skuId": 5834158871744,
+   "height": 1
+  },
+  {
+   "volume": 1,
+   "sku1": "GD51不带柱子",
+   "length": 1,
+   "width": 1,
+   "weight": 1,
+   "skuId": 5834158871745,
+   "height": 1
+  },
+  {
+   "volume": 1,
+   "sku1": "GD51带柱子",
+   "length": 1,
+   "width": 1,
+   "weight": 1,
+   "skuId": 5834158871746,
+   "height": 1
+  },
+  {
+   "volume": 1,
+   "sku1": "盖子",
+   "length": 1,
+   "width": 1,
+   "weight": 1,
+   "skuId": 5834158871747,
+   "height": 1
+  },
+  {
+   "volume": 1,
+   "sku1": "勺子",
+   "length": 1,
+   "width": 1,
+   "weight": 1,
+   "skuId": 5834158871748,
+   "height": 1
+  }
+ ],
+ "url": "https://detail.1688.com/offer/857401189822.html",
+ "核页时间": "2026-10-08T08:48:50.435Z"
+}

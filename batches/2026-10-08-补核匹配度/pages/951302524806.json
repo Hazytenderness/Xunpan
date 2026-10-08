@@ -1,0 +1,108 @@
+{
+ "offerId": "951302524806",
+ "条目": "M1681",
+ "block": false,
+ "卖家公司": "义乌市瀚迪贸易有限公司",
+ "旺旺名": "瀚迪企业",
+ "标题": "吐司面包收纳盒透明有盖杂粮水果密封冷藏保鲜盒食品级包装袋专用",
+ "状态": "PUBLISHED",
+ "类目": "食物收纳盒",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "颜色",
+   "值": [
+    "小号-1.6L",
+    "大号-3.4L"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "大号-3.4L",
+   "价格": "6.37",
+   "库存": 9854
+  },
+  {
+   "规格": "小号-1.6L",
+   "价格": "4.50",
+   "库存": 9937
+  }
+ ],
+ "规格图": [
+  [
+   "小号-1.6L",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01sngXdO1aICSwHoMrp_!!2531163306-0-cib.jpg"
+  ],
+  [
+   "大号-3.4L",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01vTPUpN1aICStv8QnV_!!2531163306-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "skuPrice",
+ "价格区间": "4.50-6.37",
+ "阶梯价_登录后": [
+  {
+   "price": "4.50",
+   "beginAmount": 1
+  },
+  {
+   "price": "6.37",
+   "beginAmount": 1
+  }
+ ],
+ "到手价": {
+  "价": "3.5",
+  "说明": "新人价",
+  "件数": 1
+ },
+ "起订量": 1,
+ "单位": "件",
+ "可售总量": 19791,
+ "已售": 140,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01GdhHrE1aICSvCEgW5_!!2531163306-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01scaynJ1aICSvnBX1U_!!2531163306-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01EUzvOX1aICSuLiv5q_!!2531163306-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01XTu1VJ1aICSvU5WXs_!!2531163306-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01FlWFjt1aICStv8Uyg_!!2531163306-0-cib.jpg"
+ ],
+ "商品属性": [
+  "材质:塑料",
+  "款式:透明方形",
+  "品牌:顾艺",
+  "是否有专利:否",
+  "货号:面包收纳盒",
+  "加印LOGO:可以",
+  "加工定制:可以",
+  "价格段:5-10元",
+  "颜色:小号-1.6L/大号-3.4L",
+  "产地:义乌",
+  "风格:日式",
+  "主要下游平台:淘宝/wish/快手/LINIO/SHEIN/LAZADA/拼多多/shopee/其他",
+  "有可授权的自有品牌:是",
+  "是否进口:国产"
+ ],
+ "包装信息": [
+  {
+   "volume": 0,
+   "sku1": "小号-1.6L",
+   "length": 0,
+   "width": 0,
+   "weight": 200,
+   "skuId": 6030683214809,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "大号-3.4L",
+   "length": 0,
+   "width": 0,
+   "weight": 200,
+   "skuId": 6096794012147,
+   "height": 0
+  }
+ ],
+ "url": "https://detail.1688.com/offer/951302524806.html",
+ "核页时间": "2026-10-08T09:31:39.511Z"
+}

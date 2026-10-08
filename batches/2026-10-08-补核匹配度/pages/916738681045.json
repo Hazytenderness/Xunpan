@@ -1,0 +1,187 @@
+{
+ "offerId": "916738681045",
+ "条目": "M1648",
+ "block": false,
+ "卖家公司": "义乌市金伊工艺品有限公司",
+ "旺旺名": "义乌市金伊工艺品",
+ "标题": "爆款闪钻时尚粉蓝黑钻折叠便携挂包钩办公室挂包沟外出桌边挂钩",
+ "状态": "PUBLISHED",
+ "类目": "衣钩、挂钩、粘钩、钩子",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "颜色",
+   "值": [
+    "粉钻款",
+    "蓝钻款",
+    "黑钻款",
+    "白钻款",
+    "黄钻款",
+    "光胚"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "黄钻款",
+   "价格": "4.30",
+   "库存": 9172
+  },
+  {
+   "规格": "黑钻款",
+   "价格": "4.30",
+   "库存": 9707
+  },
+  {
+   "规格": "蓝钻款",
+   "价格": "4.30",
+   "库存": 8855
+  },
+  {
+   "规格": "粉钻款",
+   "价格": "4.30",
+   "库存": 8691
+  },
+  {
+   "规格": "光胚",
+   "价格": "3.00",
+   "库存": 9068
+  },
+  {
+   "规格": "白钻款",
+   "价格": "4.30",
+   "库存": 8966
+  }
+ ],
+ "规格图": [
+  [
+   "粉钻款",
+   "https://cbu01.alicdn.com/img/ibank/O1CN013jkWFa1CBHgaTigsu_!!2211024090042-0-cib.jpg"
+  ],
+  [
+   "蓝钻款",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01t03ita1CBHgZq6UEZ_!!2211024090042-0-cib.jpg"
+  ],
+  [
+   "黑钻款",
+   "https://cbu01.alicdn.com/img/ibank/O1CN0167q16a1CBHgZa7ef3_!!2211024090042-0-cib.jpg"
+  ],
+  [
+   "白钻款",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01o3ebqL1CBHgaJCjss_!!2211024090042-0-cib.jpg"
+  ],
+  [
+   "黄钻款",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01uwihPQ1CBHgZqAB6x_!!2211024090042-0-cib.jpg"
+  ],
+  [
+   "光胚",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01aM1xBW1CBHhEr13vf_!!2211024090042-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "skuPrice",
+ "价格区间": "3.00-4.30",
+ "阶梯价_登录后": [
+  {
+   "price": "3.00",
+   "beginAmount": 1
+  },
+  {
+   "price": "4.30",
+   "beginAmount": 1
+  }
+ ],
+ "到手价": {
+  "价": "2",
+  "说明": "新人价",
+  "件数": 1
+ },
+ "起订量": 1,
+ "单位": "个",
+ "可售总量": 54459,
+ "已售": 0,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01fNDajA1CBHh7aVFbo_!!2211024090042-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01j3pcSe1CBHgTlE4s2_!!2211024090042-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01iCfTTP1CBHgbuGU3k_!!2211024090042-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN017QJn5c1CBHhUx4uWq_!!2211024090042-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN012iDgZy1CBHhVTeBWq_!!2211024090042-0-cib.jpg"
+ ],
+ "商品属性": [
+  "材质:锌合金",
+  "产品类别:折叠挂钩",
+  "品牌:金伊",
+  "款式:单钩",
+  "最大承重:1-3kg（含）",
+  "是否进口:否",
+  "颜色:粉钻款/蓝钻款/黑钻款/白钻款/黄钻款/光胚",
+  "货号:闪钻挂包钩",
+  "价格段:5元以内",
+  "产品上市时间:2025年",
+  "专利:否",
+  "个数:1",
+  "主要下游平台:速卖通/独立站/LAZADA/其他",
+  "主要销售地区:非洲/欧洲/南美/东南亚/北美/东北亚/中东",
+  "有可授权的自有品牌:是",
+  "是否跨境出口专供货源:是",
+  "风格:现代简约"
+ ],
+ "包装信息": [
+  {
+   "volume": 83.205,
+   "sku1": "粉钻款",
+   "length": 4.5,
+   "width": 4.3,
+   "weight": 32,
+   "skuId": 5951646787369,
+   "height": 4.3
+  },
+  {
+   "volume": 83.205,
+   "sku1": "蓝钻款",
+   "length": 4.5,
+   "width": 4.3,
+   "weight": 32,
+   "skuId": 5951646787370,
+   "height": 4.3
+  },
+  {
+   "volume": 83.205,
+   "sku1": "黑钻款",
+   "length": 4.5,
+   "width": 4.3,
+   "weight": 32,
+   "skuId": 5951646787371,
+   "height": 4.3
+  },
+  {
+   "volume": 83.205,
+   "sku1": "白钻款",
+   "length": 4.5,
+   "width": 4.3,
+   "weight": 32,
+   "skuId": 5951646787372,
+   "height": 4.3
+  },
+  {
+   "volume": 83.205,
+   "sku1": "黄钻款",
+   "length": 4.5,
+   "width": 4.3,
+   "weight": 32,
+   "skuId": 5951646787373,
+   "height": 4.3
+  },
+  {
+   "volume": 83.205,
+   "sku1": "光胚",
+   "length": 4.5,
+   "width": 4.3,
+   "weight": 32,
+   "skuId": 5991125014730,
+   "height": 4.3
+  }
+ ],
+ "url": "https://detail.1688.com/offer/916738681045.html",
+ "核页时间": "2026-10-08T09:28:07.121Z"
+}

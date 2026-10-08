@@ -1,0 +1,168 @@
+{
+ "offerId": "912852803037",
+ "条目": "M1399",
+ "block": false,
+ "卖家公司": "义乌市灵正日用品有限公司",
+ "旺旺名": "义乌市灵云百货",
+ "标题": "桌边挂包钩可移动挂钩学生挂书包神器免打孔课桌书桌侧边便携挂钩",
+ "状态": "PUBLISHED",
+ "类目": "衣钩、挂钩、粘钩、钩子",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "颜色",
+   "值": [
+    "奶白色",
+    "深咖色",
+    "樱花粉",
+    "酒红色",
+    "褐灰色"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "深咖色",
+   "价格": null,
+   "库存": 91931
+  },
+  {
+   "规格": "褐灰色",
+   "价格": null,
+   "库存": 97435
+  },
+  {
+   "规格": "酒红色",
+   "价格": null,
+   "库存": 97383
+  },
+  {
+   "规格": "奶白色",
+   "价格": null,
+   "库存": 89022
+  },
+  {
+   "规格": "樱花粉",
+   "价格": null,
+   "库存": 97841
+  }
+ ],
+ "规格图": [
+  [
+   "奶白色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01Vpoair1xuQfJHx9Td_!!2208135576503-0-cib.jpg"
+  ],
+  [
+   "深咖色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01jsnMbd1xuQfKN55gY_!!2208135576503-0-cib.jpg"
+  ],
+  [
+   "樱花粉",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01AlZr8k1xuQfIbCf5B_!!2208135576503-0-cib.jpg"
+  ],
+  [
+   "酒红色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01pY93K71xuQfIY91Er_!!2208135576503-0-cib.jpg"
+  ],
+  [
+   "褐灰色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01jKVtp81xuQfIKj58z_!!2208135576503-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "rangePrice",
+ "价格区间": null,
+ "阶梯价_登录后": [
+  {
+   "price": "3.30",
+   "beginAmount": 2
+  },
+  {
+   "price": "3.25",
+   "beginAmount": 100
+  },
+  {
+   "price": "3.15",
+   "beginAmount": 1000
+  }
+ ],
+ "到手价": null,
+ "起订量": 2,
+ "单位": "件",
+ "可售总量": 473612,
+ "已售": 15146,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01kS6giY1xuQfJtnyfj_!!2208135576503-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01OXdkop1xuQfGmu4Tz_!!2208135576503-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01F2HJBL1xuQfIkRzys_!!2208135576503-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN012B2zNu1xuQfJ5WRGO_!!2208135576503-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01NrXH4E1xuQfJtqf1a_!!2208135576503-0-cib.jpg"
+ ],
+ "商品属性": [
+  "材质:塑料",
+  "产品类别:普通挂钩",
+  "品牌:其他",
+  "款式:单钩",
+  "最大承重:1-3kg（含）",
+  "是否进口:否",
+  "颜色:奶白色/深咖色/樱花粉/酒红色/褐灰色",
+  "货号:LY790",
+  "价格段:5元以内",
+  "产品上市时间:2025年春",
+  "专利:否",
+  "个数:1个",
+  "主要下游平台:亚马逊/wish/速卖通",
+  "主要销售地区:欧洲/南美/北美",
+  "有可授权的自有品牌:否",
+  "是否跨境出口专供货源:是",
+  "风格:日式"
+ ],
+ "包装信息": [
+  {
+   "volume": 324,
+   "sku1": "奶白色",
+   "length": 12,
+   "width": 9,
+   "weight": 32,
+   "skuId": 5945911047094,
+   "height": 3
+  },
+  {
+   "volume": 324,
+   "sku1": "深咖色",
+   "length": 12,
+   "width": 9,
+   "weight": 32,
+   "skuId": 6133963054594,
+   "height": 3
+  },
+  {
+   "volume": 324,
+   "sku1": "樱花粉",
+   "length": 12,
+   "width": 9,
+   "weight": 32,
+   "skuId": 5945911047096,
+   "height": 3
+  },
+  {
+   "volume": 324,
+   "sku1": "酒红色",
+   "length": 12,
+   "width": 9,
+   "weight": 32,
+   "skuId": 5945911047097,
+   "height": 3
+  },
+  {
+   "volume": 324,
+   "sku1": "褐灰色",
+   "length": 12,
+   "width": 9,
+   "weight": 32,
+   "skuId": 5945911047098,
+   "height": 3
+  }
+ ],
+ "url": "https://detail.1688.com/offer/912852803037.html",
+ "核页时间": "2026-10-08T09:14:48.721Z"
+}

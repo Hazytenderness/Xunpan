@@ -1,0 +1,91 @@
+{
+ "offerId": "966837756968",
+ "条目": "M1486",
+ "block": false,
+ "卖家公司": "上海秋沪语工贸有限公司",
+ "旺旺名": "秋户语",
+ "标题": "日本家之物语厨房防油贴纸静电墙面保护膜防火耐高温墙壁专用墙纸",
+ "状态": "PUBLISHED",
+ "类目": "墙贴",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "规格",
+   "值": [
+    "点断撕静电防油贴(5pcs)小号",
+    "点断撕静电防油贴(5pcs)大号"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "点断撕静电防油贴(5pcs)小号",
+   "价格": "9.80",
+   "库存": 1980
+  },
+  {
+   "规格": "点断撕静电防油贴(5pcs)大号",
+   "价格": "10.80",
+   "库存": 250
+  }
+ ],
+ "规格图": [],
+ "价格展示": "skuPrice",
+ "价格区间": null,
+ "阶梯价_登录后": [
+  {
+   "price": "9.80",
+   "beginAmount": 2
+  },
+  {
+   "price": "10.80",
+   "beginAmount": 2
+  }
+ ],
+ "到手价": null,
+ "起订量": 2,
+ "单位": "件",
+ "可售总量": 2230,
+ "已售": 10,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01NKafow2KkZKmvEtXW_!!2209427499595-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01MFNkgX2KkZKmUnsAB_!!2209427499595-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN019kzBfc2KkZKndOmjV_!!2209427499595-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01ydINrK2KkZKo6MVyv_!!2209427499595-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01TZ1a752KkZKowSUrb_!!2209427499595-0-cib.jpg"
+ ],
+ "商品属性": [
+  "墙贴类型:其他",
+  "材质:PP",
+  "功能:防水/防潮/防油/防污",
+  "风格:现代简约",
+  "品牌:家之物语",
+  "货号:SS-9571",
+  "图案:其他",
+  "规格:点断撕静电防油贴(5pcs)小号/点断撕静电防油贴(5pcs)大号",
+  "空间:客厅/餐厅/厨房/其他",
+  "是否有版权或专利:否"
+ ],
+ "包装信息": [
+  {
+   "volume": 0,
+   "sku1": "点断撕静电防油贴(5pcs)小号",
+   "length": 0,
+   "width": 0,
+   "weight": 1000,
+   "skuId": 5908981744082,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "点断撕静电防油贴(5pcs)大号",
+   "length": 0,
+   "width": 0,
+   "weight": 1000,
+   "skuId": 5908981744083,
+   "height": 0
+  }
+ ],
+ "url": "https://detail.1688.com/offer/966837756968.html",
+ "核页时间": "2026-10-08T09:18:41.637Z"
+}

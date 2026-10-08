@@ -1,0 +1,97 @@
+{
+ "offerId": "1060004309472",
+ "条目": "M0780",
+ "block": false,
+ "卖家公司": "曹县盛扬电子商务有限公司",
+ "旺旺名": "曹县盛扬电子商务",
+ "标题": "落地置物架雨伞架可折叠家用酒店大堂商用收纳架雨伞挂架桶沥水架",
+ "状态": "PUBLISHED",
+ "类目": "多层置物架",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "颜色",
+   "值": [
+    "黑色",
+    "白色"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "黑色",
+   "价格": "47.20",
+   "库存": 9781
+  },
+  {
+   "规格": "白色",
+   "价格": "47.20",
+   "库存": 9845
+  }
+ ],
+ "规格图": [
+  [
+   "黑色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01ukiexd1MCnFAZY2OP_!!2222053151399-0-cib.jpg"
+  ],
+  [
+   "白色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01v3Xz4Y1MCnFC041Vr_!!2222053151399-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "skuPrice",
+ "价格区间": "47.20",
+ "阶梯价_登录后": [
+  {
+   "price": "47.20",
+   "beginAmount": 1
+  }
+ ],
+ "到手价": null,
+ "起订量": 1,
+ "单位": "个",
+ "可售总量": 19626,
+ "已售": 11,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01WeEceD1MCnFAFHQJo_!!2222053151399-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01b27flL1MCnFAFHDrv_!!2222053151399-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01JlUBW01MCnFB2K5jP_!!2222053151399-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN016Z1fM91MCnFAUmahE_!!2222053151399-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01ftZcIZ1MCnFAk8aax_!!2222053151399-0-cib.jpg"
+ ],
+ "商品属性": [
+  "材质:其它",
+  "功能:多功能",
+  "适用空间:通用",
+  "品牌:无不为",
+  "风格:简约风",
+  "加工方式:其它",
+  "型号:2088513108188793473",
+  "颜色:黑色/白色",
+  "规格:标准",
+  "是否跨境出口专供货源:否",
+  "适用物品:杂物"
+ ],
+ "包装信息": [
+  {
+   "volume": 0,
+   "sku1": "黑色",
+   "length": 0,
+   "width": 0,
+   "weight": 1,
+   "skuId": 6268632647872,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "白色",
+   "length": 0,
+   "width": 0,
+   "weight": 1,
+   "skuId": 6268632647873,
+   "height": 0
+  }
+ ],
+ "url": "https://detail.1688.com/offer/1060004309472.html",
+ "核页时间": "2026-10-08T08:57:02.419Z"
+}

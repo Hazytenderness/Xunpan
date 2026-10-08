@@ -1,0 +1,753 @@
+{
+ "offerId": "640908148854",
+ "条目": "M0441",
+ "block": false,
+ "卖家公司": "义乌市鹿笙服饰有限公司",
+ "旺旺名": "好升母婴工厂店",
+ "标题": "儿童防水罩衣宝宝无袖围裙EVA防脏吃饭围兜反穿衣幼儿饭兜护衣",
+ "状态": "PUBLISHED",
+ "类目": "罩衣",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "颜色",
+   "值": [
+    "小鳄鱼",
+    "西瓜白兔",
+    "紫色山竹猫",
+    "西瓜河马",
+    "气球小象",
+    "猕猴桃小狗",
+    "长颈鹿",
+    "独角兽",
+    "甜甜圈兔",
+    "苹果熊猫",
+    "樱桃猫",
+    "苹果熊",
+    "柠檬狗",
+    "花盆狮子",
+    "太空火箭",
+    "happy大桃子",
+    "开汽车",
+    "三朵小花",
+    "帽子小狗",
+    "冰淇淋小熊",
+    "大樱桃",
+    "恐龙小汽车",
+    "挖机小熊",
+    "火箭",
+    "七星瓢虫",
+    "紫色独角兽",
+    "围脖兔",
+    "飞天恐龙",
+    "粉格樱桃",
+    "星星汽车",
+    "草莓格子",
+    "菠萝格子",
+    "棒球鳄鱼",
+    "挖机恐龙",
+    "闪电狗",
+    "彩虹独角兽",
+    "juicy小虎",
+    "Sweet小兔",
+    "Fresh小熊",
+    "草莓兔",
+    "兔儿小宝贝",
+    "条纹樱桃",
+    "大跳跃兔",
+    "小狮子",
+    "云朵",
+    "恐龙乐园",
+    "方格独角兽",
+    "宇航员",
+    "小熊先生",
+    "粉色跳跃兔",
+    "sweet跳跃兔",
+    "可爱小熊头",
+    "cool恐龙",
+    "皇冠小兔",
+    "hello小熊",
+    "自行车恐龙",
+    "森林小熊",
+    "小猫咪",
+    "条纹汽车",
+    "条纹熊猫",
+    "cute大樱桃",
+    "彩虹大草莓",
+    "帆船螃蟹",
+    "三个蝴蝶结",
+    "水蜜桃",
+    "大菠萝"
+   ]
+  },
+  {
+   "属性": "尺码",
+   "值": [
+    "均码：95"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "甜甜圈兔&gt;均码：95",
+   "价格": "6.60",
+   "库存": 447
+  },
+  {
+   "规格": "草莓兔&gt;均码：95",
+   "价格": "6.60",
+   "库存": 435
+  },
+  {
+   "规格": "闪电狗&gt;均码：95",
+   "价格": "6.60",
+   "库存": 58
+  },
+  {
+   "规格": "七星瓢虫&gt;均码：95",
+   "价格": "6.60",
+   "库存": 299
+  },
+  {
+   "规格": "小猫咪&gt;均码：95",
+   "价格": "6.60",
+   "库存": 218
+  },
+  {
+   "规格": "苹果熊&gt;均码：95",
+   "价格": "6.60",
+   "库存": 192
+  },
+  {
+   "规格": "hello小熊&gt;均码：95",
+   "价格": "6.60",
+   "库存": 477
+  },
+  {
+   "规格": "大菠萝&gt;均码：95",
+   "价格": "6.60",
+   "库存": 93
+  },
+  {
+   "规格": "Sweet小兔&gt;均码：95",
+   "价格": "6.60",
+   "库存": 228
+  },
+  {
+   "规格": "粉色跳跃兔&gt;均码：95",
+   "价格": "6.60",
+   "库存": 90
+  },
+  {
+   "规格": "冰淇淋小熊&gt;均码：95",
+   "价格": "6.60",
+   "库存": 63
+  },
+  {
+   "规格": "彩虹大草莓&gt;均码：95",
+   "价格": "6.60",
+   "库存": 53
+  },
+  {
+   "规格": "柠檬狗&gt;均码：95",
+   "价格": "6.60",
+   "库存": 197
+  },
+  {
+   "规格": "太空火箭&gt;均码：95",
+   "价格": "6.60",
+   "库存": 201
+  },
+  {
+   "规格": "小熊先生&gt;均码：95",
+   "价格": "6.60",
+   "库存": 150
+  },
+  {
+   "规格": "棒球鳄鱼&gt;均码：95",
+   "价格": "6.60",
+   "库存": 336
+  },
+  {
+   "规格": "帽子小狗&gt;均码：95",
+   "价格": "6.60",
+   "库存": 184
+  },
+  {
+   "规格": "条纹樱桃&gt;均码：95",
+   "价格": "6.60",
+   "库存": 34
+  },
+  {
+   "规格": "水蜜桃&gt;均码：95",
+   "价格": "6.60",
+   "库存": 170
+  },
+  {
+   "规格": "西瓜白兔&gt;均码：95",
+   "价格": "6.60",
+   "库存": 167
+  },
+  {
+   "规格": "三个蝴蝶结&gt;均码：95",
+   "价格": "6.60",
+   "库存": 181
+  },
+  {
+   "规格": "独角兽&gt;均码：95",
+   "价格": "6.60",
+   "库存": 330
+  },
+  {
+   "规格": "紫色独角兽&gt;均码：95",
+   "价格": "6.60",
+   "库存": 435
+  },
+  {
+   "规格": "cool恐龙&gt;均码：95",
+   "价格": "6.60",
+   "库存": 204
+  },
+  {
+   "规格": "西瓜河马&gt;均码：95",
+   "价格": "6.60",
+   "库存": 409
+  },
+  {
+   "规格": "苹果熊猫&gt;均码：95",
+   "价格": "6.60",
+   "库存": 182
+  },
+  {
+   "规格": "兔儿小宝贝&gt;均码：95",
+   "价格": "6.60",
+   "库存": 260
+  },
+  {
+   "规格": "小狮子&gt;均码：95",
+   "价格": "6.60",
+   "库存": 258
+  },
+  {
+   "规格": "大樱桃&gt;均码：95",
+   "价格": "6.60",
+   "库存": 505
+  },
+  {
+   "规格": "宇航员&gt;均码：95",
+   "价格": "6.60",
+   "库存": 199
+  },
+  {
+   "规格": "草莓格子&gt;均码：95",
+   "价格": "6.60",
+   "库存": 79
+  },
+  {
+   "规格": "Fresh小熊&gt;均码：95",
+   "价格": "6.60",
+   "库存": 67
+  },
+  {
+   "规格": "森林小熊&gt;均码：95",
+   "价格": "6.60",
+   "库存": 298
+  },
+  {
+   "规格": "开汽车&gt;均码：95",
+   "价格": "6.60",
+   "库存": 82
+  },
+  {
+   "规格": "紫色山竹猫&gt;均码：95",
+   "价格": "6.60",
+   "库存": 256
+  },
+  {
+   "规格": "樱桃猫&gt;均码：95",
+   "价格": "6.60",
+   "库存": 195
+  },
+  {
+   "规格": "云朵&gt;均码：95",
+   "价格": "6.60",
+   "库存": 89
+  },
+  {
+   "规格": "帆船螃蟹&gt;均码：95",
+   "价格": "6.60",
+   "库存": 227
+  },
+  {
+   "规格": "大跳跃兔&gt;均码：95",
+   "价格": "6.60",
+   "库存": 300
+  },
+  {
+   "规格": "happy大桃子&gt;均码：95",
+   "价格": "6.60",
+   "库存": 95
+  },
+  {
+   "规格": "可爱小熊头&gt;均码：95",
+   "价格": "6.60",
+   "库存": 216
+  },
+  {
+   "规格": "花盆狮子&gt;均码：95",
+   "价格": "6.60",
+   "库存": 292
+  },
+  {
+   "规格": "飞天恐龙&gt;均码：95",
+   "价格": "6.60",
+   "库存": 83
+  },
+  {
+   "规格": "自行车恐龙&gt;均码：95",
+   "价格": "6.60",
+   "库存": 88
+  },
+  {
+   "规格": "火箭&gt;均码：95",
+   "价格": "6.60",
+   "库存": 394
+  },
+  {
+   "规格": "条纹熊猫&gt;均码：95",
+   "价格": "6.60",
+   "库存": 125
+  },
+  {
+   "规格": "恐龙乐园&gt;均码：95",
+   "价格": "6.60",
+   "库存": 314
+  },
+  {
+   "规格": "粉格樱桃&gt;均码：95",
+   "价格": "6.60",
+   "库存": 615
+  },
+  {
+   "规格": "恐龙小汽车&gt;均码：95",
+   "价格": "6.60",
+   "库存": 180
+  },
+  {
+   "规格": "菠萝格子&gt;均码：95",
+   "价格": "6.60",
+   "库存": 391
+  },
+  {
+   "规格": "围脖兔&gt;均码：95",
+   "价格": "6.60",
+   "库存": 68
+  },
+  {
+   "规格": "juicy小虎&gt;均码：95",
+   "价格": "6.60",
+   "库存": 398
+  },
+  {
+   "规格": "猕猴桃小狗&gt;均码：95",
+   "价格": "6.60",
+   "库存": 874
+  },
+  {
+   "规格": "气球小象&gt;均码：95",
+   "价格": "6.60",
+   "库存": 293
+  },
+  {
+   "规格": "皇冠小兔&gt;均码：95",
+   "价格": "6.60",
+   "库存": 88
+  },
+  {
+   "规格": "星星汽车&gt;均码：95",
+   "价格": "6.60",
+   "库存": 402
+  },
+  {
+   "规格": "挖机小熊&gt;均码：95",
+   "价格": "6.60",
+   "库存": 485
+  },
+  {
+   "规格": "sweet跳跃兔&gt;均码：95",
+   "价格": "6.60",
+   "库存": 233
+  },
+  {
+   "规格": "cute大樱桃&gt;均码：95",
+   "价格": "6.60",
+   "库存": 135
+  },
+  {
+   "规格": "彩虹独角兽&gt;均码：95",
+   "价格": "6.60",
+   "库存": 391
+  },
+  {
+   "规格": "长颈鹿&gt;均码：95",
+   "价格": "6.60",
+   "库存": 686
+  },
+  {
+   "规格": "挖机恐龙&gt;均码：95",
+   "价格": "6.60",
+   "库存": 407
+  },
+  {
+   "规格": "三朵小花&gt;均码：95",
+   "价格": "6.60",
+   "库存": 459
+  },
+  {
+   "规格": "条纹汽车&gt;均码：95",
+   "价格": "6.60",
+   "库存": 85
+  },
+  {
+   "规格": "方格独角兽&gt;均码：95",
+   "价格": "6.60",
+   "库存": 299
+  },
+  {
+   "规格": "小鳄鱼&gt;均码：95",
+   "价格": "6.60",
+   "库存": 239
+  }
+ ],
+ "规格图": [
+  [
+   "小鳄鱼",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01ZQc5JO1SmPdgHAk1k_!!2209887082289-0-cib.jpg"
+  ],
+  [
+   "西瓜白兔",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01QVwQpG1SmPdgHBPZx_!!2209887082289-0-cib.jpg"
+  ],
+  [
+   "紫色山竹猫",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01C6QcUc1SmPdi5lGip_!!2209887082289-0-cib.jpg"
+  ],
+  [
+   "西瓜河马",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01JssbFY1SmPdiICqn3_!!2209887082289-0-cib.jpg"
+  ],
+  [
+   "气球小象",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01FnO9pA1SmPdiBPozM_!!2209887082289-0-cib.jpg"
+  ],
+  [
+   "猕猴桃小狗",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01Wz79z11SmPdgNvGHS_!!2209887082289-0-cib.jpg"
+  ],
+  [
+   "长颈鹿",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01nss4RF1SmPdiVBis4_!!2209887082289-0-cib.jpg"
+  ],
+  [
+   "独角兽",
+   "https://cbu01.alicdn.com/img/ibank/O1CN014UNgt41SmPdbMr9dK_!!2209887082289-0-cib.jpg"
+  ],
+  [
+   "甜甜圈兔",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01MRLAKc1SmPggW2bRP_!!2209887082289-0-cib.jpg"
+  ],
+  [
+   "苹果熊猫",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01rFdhw41SmPgeNEBE4_!!2209887082289-0-cib.jpg"
+  ],
+  [
+   "樱桃猫",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01M3LIwo1SmPga1tugi_!!2209887082289-0-cib.jpg"
+  ],
+  [
+   "苹果熊",
+   "https://cbu01.alicdn.com/img/ibank/O1CN0153tEIE1SmPgfnnPch_!!2209887082289-0-cib.jpg"
+  ],
+  [
+   "柠檬狗",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01KT9VLl1SmPgeoDiMR_!!2209887082289-0-cib.jpg"
+  ],
+  [
+   "花盆狮子",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01ZuyNXg1SmPdi5nDSJ_!!2209887082289-0-cib.jpg"
+  ],
+  [
+   "太空火箭",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01TrHD9j1SmPUEFrAj7_!!2209887082289-0-cib.jpg"
+  ],
+  [
+   "happy大桃子",
+   "https://cbu01.alicdn.com/img/ibank/O1CN012YfE9B1SmPUD841Lk_!!2209887082289-0-cib.jpg"
+  ],
+  [
+   "开汽车",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01hhWXec1SmPUHoLE64_!!2209887082289-0-cib.jpg"
+  ],
+  [
+   "三朵小花",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01JgNYi41SmPUMqcoNQ_!!2209887082289-0-cib.jpg"
+  ],
+  [
+   "帽子小狗",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01nlCfAD1SmPUGncad7_!!2209887082289-0-cib.jpg"
+  ],
+  [
+   "冰淇淋小熊",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01UDezot1SmPUIv5nTN_!!2209887082289-0-cib.jpg"
+  ],
+  [
+   "大樱桃",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01z8r1sL1SmPKrsmhiX_!!2209887082289-0-cib.jpg"
+  ],
+  [
+   "恐龙小汽车",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01UORdup1SmPKtabQ45_!!2209887082289-0-cib.jpg"
+  ],
+  [
+   "挖机小熊",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01sNs71T1SmPKq7HOVi_!!2209887082289-0-cib.jpg"
+  ],
+  [
+   "火箭",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01zcs6TS1SmPKqHRecw_!!2209887082289-0-cib.jpg"
+  ],
+  [
+   "七星瓢虫",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01Q3ElM51SmPKqwVBxL_!!2209887082289-0-cib.jpg"
+  ],
+  [
+   "紫色独角兽",
+   "https://cbu01.alicdn.com/img/ibank/O1CN013Ee11x1SmPKqwVjNP_!!2209887082289-0-cib.jpg"
+  ],
+  [
+   "围脖兔",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01H9v8el1SmPKuWvslU_!!2209887082289-0-cib.jpg"
+  ],
+  [
+   "飞天恐龙",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01aLu80h1SmPKvEMmPw_!!2209887082289-0-cib.jpg"
+  ],
+  [
+   "粉格樱桃",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01nFJiR31SmPKtalxPW_!!2209887082289-0-cib.jpg"
+  ],
+  [
+   "星星汽车",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01vZ3FWC1SmPKuWxhFK_!!2209887082289-0-cib.jpg"
+  ],
+  [
+   "草莓格子",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01ce98KL1SmPKrt0CG1_!!2209887082289-0-cib.jpg"
+  ],
+  [
+   "菠萝格子",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01fr6SXb1SmPKlhxj7W_!!2209887082289-0-cib.jpg"
+  ],
+  [
+   "棒球鳄鱼",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01Da0TaJ1SmPKsK7qtI_!!2209887082289-0-cib.jpg"
+  ],
+  [
+   "挖机恐龙",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01e9yEdF1SmPKli1ksV_!!2209887082289-0-cib.jpg"
+  ],
+  [
+   "闪电狗",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01CIf6WY1SmPKli5NRo_!!2209887082289-0-cib.jpg"
+  ],
+  [
+   "彩虹独角兽",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01z5orwU1SmPKli4doO_!!2209887082289-0-cib.jpg"
+  ],
+  [
+   "juicy小虎",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01T3zhoz1SmPKqwjtaX_!!2209887082289-0-cib.jpg"
+  ],
+  [
+   "Sweet小兔",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01gmMZPn1SmPKwRh7cO_!!2209887082289-0-cib.jpg"
+  ],
+  [
+   "Fresh小熊",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01nqlr4T1SmPKyJ46Ap_!!2209887082289-0-cib.jpg"
+  ],
+  [
+   "草莓兔",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01zOAj6I1SmPKq7f9xJ_!!2209887082289-0-cib.jpg"
+  ],
+  [
+   "兔儿小宝贝",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01eYtN1c1SmPLKDGJVD_!!2209887082289-0-cib.jpg"
+  ],
+  [
+   "条纹樱桃",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01RFJwZD1SmPLA38FUN_!!2209887082289-0-cib.jpg"
+  ],
+  [
+   "大跳跃兔",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01pweT4r1SmPLSZt66J_!!2209887082289-0-cib.jpg"
+  ],
+  [
+   "小狮子",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01xMhXNS1SmPLMxqwRg_!!2209887082289-0-cib.jpg"
+  ],
+  [
+   "云朵",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01EbPa3l1SmPLGRKrIs_!!2209887082289-0-cib.jpg"
+  ],
+  [
+   "恐龙乐园",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01dPsB4O1SmPLRn5sr1_!!2209887082289-0-cib.jpg"
+  ],
+  [
+   "方格独角兽",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01HSTosm1SmPLMxqH26_!!2209887082289-0-cib.jpg"
+  ],
+  [
+   "宇航员",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01YiISXi1SmPLPrryf4_!!2209887082289-0-cib.jpg"
+  ],
+  [
+   "小熊先生",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01Cg2b0K1SmPLVHPeY8_!!2209887082289-0-cib.jpg"
+  ],
+  [
+   "粉色跳跃兔",
+   "https://cbu01.alicdn.com/img/ibank/O1CN018UrhN91SmPMYbqvmC_!!2209887082289-0-cib.jpg"
+  ],
+  [
+   "sweet跳跃兔",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01GlYKC81SmPMdCvl2n_!!2209887082289-0-cib.jpg"
+  ],
+  [
+   "可爱小熊头",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01hsAHip1SmPMayzR4z_!!2209887082289-0-cib.jpg"
+  ],
+  [
+   "cool恐龙",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01OaUG7H1SmPMWJv9bF_!!2209887082289-0-cib.jpg"
+  ],
+  [
+   "皇冠小兔",
+   "https://cbu01.alicdn.com/img/ibank/O1CN012zZ0Li1SmPMYiaB0t_!!2209887082289-0-cib.jpg"
+  ],
+  [
+   "hello小熊",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01eF5l0q1SmPMWJxVNB_!!2209887082289-0-cib.jpg"
+  ],
+  [
+   "自行车恐龙",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01bIhZWl1SmPMhGTcsz_!!2209887082289-0-cib.jpg"
+  ],
+  [
+   "森林小熊",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01yv3Mm91SmPMPAiVYq_!!2209887082289-0-cib.jpg"
+  ],
+  [
+   "小猫咪",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01Eu3yuq1SmPMfEiIEg_!!2209887082289-0-cib.jpg"
+  ],
+  [
+   "条纹汽车",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01khH9OM1SmPMg0vanx_!!2209887082289-0-cib.jpg"
+  ],
+  [
+   "条纹熊猫",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01FopEkm1SmPMPAkFqA_!!2209887082289-0-cib.jpg"
+  ],
+  [
+   "cute大樱桃",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01G3v6hb1SmPMe49okR_!!2209887082289-0-cib.jpg"
+  ],
+  [
+   "彩虹大草莓",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01XA7rvg1SmPMi5yKzw_!!2209887082289-0-cib.jpg"
+  ],
+  [
+   "帆船螃蟹",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01N5TaHx1SmPMYcAnus_!!2209887082289-0-cib.jpg"
+  ],
+  [
+   "三个蝴蝶结",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01QQmnCZ1SmPPFRW4UH_!!2209887082289-0-cib.jpg"
+  ],
+  [
+   "水蜜桃",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01ZEwt4O1SmPPCu9glO_!!2209887082289-0-cib.jpg"
+  ],
+  [
+   "大菠萝",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01QbushY1SmPPBgleg8_!!2209887082289-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "rangePrice",
+ "价格区间": "6.40-6.60",
+ "阶梯价_登录后": [
+  {
+   "price": "6.60",
+   "beginAmount": 1
+  },
+  {
+   "price": "6.50",
+   "beginAmount": 100
+  },
+  {
+   "price": "6.40",
+   "beginAmount": 1000
+  }
+ ],
+ "到手价": {
+  "价": "5.6",
+  "说明": "新人价",
+  "件数": 1
+ },
+ "起订量": 1,
+ "单位": "件",
+ "可售总量": 16983,
+ "已售": 2125,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01soUJhSOqz6I2vH2e_!!2209887082289-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01E5RhrIXMJQL1chua_!!2209887082289-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01X1MejqaK9DI1chua_!!2209887082289-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01V0frKjGO77F1chua_!!2209887082289-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01OIBLfkG3kBK1chua_!!2209887082289-0-cib.jpg"
+ ],
+ "商品属性": [
+  "面料:涤纶",
+  "品牌:可爱淘",
+  "适合年龄段:婴幼童(1~3岁，80~100cm)",
+  "材质成分:聚酯纤维:100%",
+  "是否防水:是",
+  "安全等级:A类",
+  "适用性别:中性/男女均可",
+  "是否进口:否",
+  "货号:9005",
+  "图案:卡通",
+  "颜色:小鳄鱼/西瓜白兔/紫色山竹猫/西瓜河马/气球小象/猕猴桃小狗/长颈鹿/独角兽/甜甜圈兔/苹果熊猫/樱桃猫/苹果熊/柠檬狗/花盆狮子/太空火箭/happy大桃子/开汽车/三朵小花/帽子小狗/冰淇淋小熊/大樱桃/恐龙小汽车/挖机小熊/火箭/七星瓢虫/紫色独角兽/围脖兔/飞天恐龙/粉格樱桃/星星汽车/草莓格子/菠萝格子/棒球鳄鱼/挖机恐龙/闪电狗/彩虹独角兽/juicy小虎/Sweet小兔/Fresh小熊/草莓兔/兔儿小宝贝/条纹樱桃/大跳跃兔/小狮子/云朵/恐龙乐园/方格独角兽/宇航员/小熊先生/粉色跳跃兔/sweet跳跃兔/可爱小熊头/cool恐龙/皇冠小兔/hello小熊/自行车恐龙/森林小熊/小猫咪/条纹汽车/条纹熊猫/cute大樱桃/彩虹大草莓/帆船螃蟹/三个蝴蝶结/水蜜桃/大菠萝",
+  "适合身高:80cm/100cm/90cm/66cm/73CM",
+  "尺码:均码：95",
+  "是否跨境出口专供货源:是",
+  "主要下游平台:ebay/亚马逊/wish/速卖通",
+  "主要销售地区:欧洲/南美/东南亚/北美/东北亚/中东",
+  "有可授权的自有品牌:是",
+  "上市年份季节:2021年春季",
+  "款式:反穿衣",
+  "闭合方式:魔术贴"
+ ],
+ "包装信息": [
+  {
+   "volume": 0,
+   "length": 0,
+   "width": 0,
+   "weight": 50,
+   "height": 0
+  }
+ ],
+ "url": "https://detail.1688.com/offer/640908148854.html",
+ "核页时间": "2026-10-08T08:38:30.818Z"
+}

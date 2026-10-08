@@ -1,0 +1,217 @@
+{
+ "offerId": "938814854523",
+ "条目": "M1513",
+ "block": false,
+ "卖家公司": "义乌市苡钰电子商务商行",
+ "旺旺名": "星漫家纺城",
+ "标题": "跨境temu亚马逊外贸亚麻印花餐垫春季花草餐垫季节性厨房家居装饰",
+ "状态": "PUBLISHED",
+ "类目": "餐垫、餐巾",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "颜色",
+   "值": [
+    "CJ-1-1",
+    "CJ-1-2",
+    "CJ-1-3",
+    "CJ-1-4"
+   ]
+  },
+  {
+   "属性": "规格",
+   "值": [
+    "30*45cm卷边（仿亚麻）23.5g",
+    "30*45cm激光切边（竹节麻）27g"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "CJ-1-2&gt;30*45cm激光切边（竹节麻）27g",
+   "价格": null,
+   "库存": 99999
+  },
+  {
+   "规格": "CJ-1-1&gt;30*45cm激光切边（竹节麻）27g",
+   "价格": null,
+   "库存": 99999
+  },
+  {
+   "规格": "CJ-1-4&gt;30*45cm卷边（仿亚麻）23.5g",
+   "价格": null,
+   "库存": 99994
+  },
+  {
+   "规格": "CJ-1-1&gt;30*45cm卷边（仿亚麻）23.5g",
+   "价格": null,
+   "库存": 99999
+  },
+  {
+   "规格": "CJ-1-4&gt;30*45cm激光切边（竹节麻）27g",
+   "价格": null,
+   "库存": 99999
+  },
+  {
+   "规格": "CJ-1-3&gt;30*45cm卷边（仿亚麻）23.5g",
+   "价格": null,
+   "库存": 99999
+  },
+  {
+   "规格": "CJ-1-2&gt;30*45cm卷边（仿亚麻）23.5g",
+   "价格": null,
+   "库存": 99999
+  },
+  {
+   "规格": "CJ-1-3&gt;30*45cm激光切边（竹节麻）27g",
+   "价格": null,
+   "库存": 99999
+  }
+ ],
+ "规格图": [
+  [
+   "CJ-1-1",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01h0vVOT1YBD9viStPD_!!2215144973020-0-cib.jpg"
+  ],
+  [
+   "CJ-1-2",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01i9xDLp1YBD9uX2h1c_!!2215144973020-0-cib.jpg"
+  ],
+  [
+   "CJ-1-3",
+   "https://cbu01.alicdn.com/img/ibank/O1CN018e8lL91YBD9x7fiHT_!!2215144973020-0-cib.jpg"
+  ],
+  [
+   "CJ-1-4",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01z2sDbj1YBD9tkttBI_!!2215144973020-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "rangePrice",
+ "价格区间": null,
+ "阶梯价_登录后": [
+  {
+   "price": "2.50",
+   "beginAmount": 1
+  },
+  {
+   "price": "2.20",
+   "beginAmount": 100
+  },
+  {
+   "price": "2.00",
+   "beginAmount": 1000
+  }
+ ],
+ "到手价": null,
+ "起订量": 1,
+ "单位": "件",
+ "可售总量": 799987,
+ "已售": 9,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01JMukoc1YBD9x9tCpK_!!2215144973020-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01JdZH701YBD9uNb8yQ_!!2215144973020-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01d2kemb1YBD9uX0oZi_!!2215144973020-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN010MH3so1YBD9vriU7K_!!2215144973020-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01jamPAA1YBD9x7gJiI_!!2215144973020-0-cib.jpg"
+ ],
+ "商品属性": [
+  "材质:亚麻",
+  "品牌:其它",
+  "风格:现代简约",
+  "形状:长方形",
+  "是否支持订制:是",
+  "面料主成分:聚酯纤维（涤纶）",
+  "面料主成分含量:100",
+  "面料次成分:聚酯纤维（涤纶）",
+  "货号:CJ-1",
+  "颜色:CJ-1-1/CJ-1-2/CJ-1-3/CJ-1-4",
+  "规格:30*45cm卷边（仿亚麻）23.5g/30*45cm激光切边（竹节麻）27g",
+  "是否跨境出口专供货源:是",
+  "空间:客厅/餐厅/商用场所/其他",
+  "是否有版权或专利:否"
+ ],
+ "包装信息": [
+  {
+   "sku2": "30*45cm卷边（仿亚麻）23.5g",
+   "volume": 77.5,
+   "sku1": "CJ-1-1",
+   "length": 31,
+   "width": 25,
+   "weight": 24,
+   "skuId": 6100363153587,
+   "height": 0.1
+  },
+  {
+   "sku2": "30*45cm激光切边（竹节麻）27g",
+   "volume": 77.5,
+   "sku1": "CJ-1-1",
+   "length": 31,
+   "width": 25,
+   "weight": 27,
+   "skuId": 6100363153591,
+   "height": 0.1
+  },
+  {
+   "sku2": "30*45cm卷边（仿亚麻）23.5g",
+   "volume": 77.5,
+   "sku1": "CJ-1-2",
+   "length": 31,
+   "width": 25,
+   "weight": 24,
+   "skuId": 6100363153586,
+   "height": 0.1
+  },
+  {
+   "sku2": "30*45cm激光切边（竹节麻）27g",
+   "volume": 77.5,
+   "sku1": "CJ-1-2",
+   "length": 31,
+   "width": 25,
+   "weight": 27,
+   "skuId": 6100363153590,
+   "height": 0.1
+  },
+  {
+   "sku2": "30*45cm卷边（仿亚麻）23.5g",
+   "volume": 77.5,
+   "sku1": "CJ-1-3",
+   "length": 31,
+   "width": 25,
+   "weight": 24,
+   "skuId": 6100363153585,
+   "height": 0.1
+  },
+  {
+   "sku2": "30*45cm激光切边（竹节麻）27g",
+   "volume": 77.5,
+   "sku1": "CJ-1-3",
+   "length": 31,
+   "width": 25,
+   "weight": 27,
+   "skuId": 6100363153589,
+   "height": 0.1
+  },
+  {
+   "sku2": "30*45cm卷边（仿亚麻）23.5g",
+   "volume": 77.5,
+   "sku1": "CJ-1-4",
+   "length": 31,
+   "width": 25,
+   "weight": 24,
+   "skuId": 6100363153584,
+   "height": 0.1
+  },
+  {
+   "sku2": "30*45cm激光切边（竹节麻）27g",
+   "volume": 77.5,
+   "sku1": "CJ-1-4",
+   "length": 31,
+   "width": 25,
+   "weight": 27,
+   "skuId": 6100363153588,
+   "height": 0.1
+  }
+ ],
+ "url": "https://detail.1688.com/offer/938814854523.html",
+ "核页时间": "2026-10-08T09:20:34.140Z"
+}

@@ -1,0 +1,157 @@
+{
+ "offerId": "891533691670",
+ "条目": "M0046",
+ "block": false,
+ "卖家公司": "义乌市菲帆箱包厂",
+ "旺旺名": "义乌市菲帆箱包厂",
+ "标题": "菲帆潮尚四方饭盒袋便当包铝箔牛津布保温保冷袋隔热饭盒包午餐袋",
+ "状态": "PUBLISHED",
+ "类目": "饭盒袋",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "颜色",
+   "值": [
+    "紫色",
+    "藏青色",
+    "粉红色",
+    "天蓝色"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "天蓝色",
+   "价格": "13.00",
+   "库存": 2512
+  },
+  {
+   "规格": "藏青色",
+   "价格": "13.00",
+   "库存": 1170
+  },
+  {
+   "规格": "紫色",
+   "价格": "13.00",
+   "库存": 657
+  },
+  {
+   "规格": "粉红色",
+   "价格": "13.00",
+   "库存": 1998
+  }
+ ],
+ "规格图": [
+  [
+   "紫色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01SySvVReO9VH1chua_!!3403350241-0-cib.jpg"
+  ],
+  [
+   "藏青色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01ZR8pe7oml5F1chua_!!3403350241-0-cib.jpg"
+  ],
+  [
+   "粉红色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN013MMdcHtmMcE1chua_!!3403350241-0-cib.jpg"
+  ],
+  [
+   "天蓝色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01ftkNjGVSV9C1chua_!!3403350241-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "rangePrice",
+ "价格区间": "12.00-13.00",
+ "阶梯价_登录后": [
+  {
+   "price": "13.00",
+   "beginAmount": 1
+  },
+  {
+   "price": "12.50",
+   "beginAmount": 2000
+  },
+  {
+   "price": "12.00",
+   "beginAmount": 3000
+  }
+ ],
+ "到手价": {
+  "价": "10",
+  "说明": "新人价",
+  "件数": 1
+ },
+ "起订量": 2,
+ "单位": "个",
+ "可售总量": 6337,
+ "已售": 7821,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01yTLM8G6O19L1chua_!!3403350241-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN010yeiK62Sm6B1chua_!!3403350241-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01Ibo3btVFQDC1chua_!!3403350241-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01v5XxHY4WPIJ1chua_!!3403350241-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01FSUcs0ulQHD1chua_!!3403350241-0-cib.jpg"
+ ],
+ "商品属性": [
+  "材质:牛津布",
+  "功能:保温",
+  "品牌:菲帆",
+  "风格:现代简约",
+  "产地:蚌埠",
+  "是否进口:否",
+  "适用范围:保温保鲜",
+  "型号:RH2483",
+  "贸易属性:内贸+外贸",
+  "箱装数量:50",
+  "专利:否",
+  "适用场景:上班，上学，野餐，户外",
+  "价格段:10-20",
+  "货号:RH2483",
+  "颜色:紫色/藏青色/粉红色/天蓝色",
+  "主要下游平台:ebay/亚马逊/wish/速卖通/LAZADA",
+  "主要销售地区:欧洲/南美/东南亚/北美/东北亚/中东",
+  "有可授权的自有品牌:是",
+  "是否跨境出口专供货源:是",
+  "是否有专利:否",
+  "箱规：:52*42*30cm"
+ ],
+ "包装信息": [
+  {
+   "volume": 0,
+   "sku1": "紫色",
+   "length": 0,
+   "width": 0,
+   "weight": 200,
+   "skuId": 5905781238830,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "藏青色",
+   "length": 0,
+   "width": 0,
+   "weight": 200,
+   "skuId": 5905781238831,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "粉红色",
+   "length": 0,
+   "width": 0,
+   "weight": 200,
+   "skuId": 5905781238832,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "天蓝色",
+   "length": 0,
+   "width": 0,
+   "weight": 200,
+   "skuId": 5905781238833,
+   "height": 0
+  }
+ ],
+ "url": "https://detail.1688.com/offer/891533691670.html",
+ "核页时间": "2026-10-08T08:17:54.798Z"
+}

@@ -1,0 +1,87 @@
+{
+ "offerId": "903050392985",
+ "条目": "M1650",
+ "block": false,
+ "卖家公司": "义乌市御品日用品厂(个体工商户)",
+ "旺旺名": "义乌市御品日用品厂",
+ "标题": "玫瑰花形包包挂钩 跨境圆形可折叠金属挂包钩桌边包包空白挂包器",
+ "状态": "PUBLISHED",
+ "类目": "衣钩、挂钩、粘钩、钩子",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "颜色",
+   "值": [
+    "黑色玫瑰花"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "黑色玫瑰花",
+   "价格": null,
+   "库存": 7320
+  }
+ ],
+ "规格图": [
+  [
+   "黑色玫瑰花",
+   "https://cbu01.alicdn.com/img/ibank/O1CN013eGPEz25G8k7hzuxk_!!2219540817498-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "rangePrice",
+ "价格区间": null,
+ "阶梯价_登录后": [
+  {
+   "price": "4.30",
+   "beginAmount": 1
+  },
+  {
+   "price": "4.00",
+   "beginAmount": 100
+  },
+  {
+   "price": "3.80",
+   "beginAmount": 200
+  }
+ ],
+ "到手价": null,
+ "起订量": 1,
+ "单位": "件",
+ "可售总量": 7320,
+ "已售": 2399,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN0189EQGz25G8kE3TVBe_!!2219540817498-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN017Mz4Mp25G8kCjKKun_!!2219540817498-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01KSewaP25G8kDrDs5Q_!!2219540817498-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01P6mvSY25G8kBywZ0b_!!2219540817498-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN013eGPEz25G8k7hzuxk_!!2219540817498-0-cib.jpg"
+ ],
+ "商品属性": [
+  "材质:锌合金",
+  "产品类别:折叠挂钩",
+  "款式:单钩",
+  "最大承重:3-5kg（含）",
+  "是否进口:否",
+  "颜色:黑色玫瑰花",
+  "货号:2-11-3",
+  "价格段:5-10元",
+  "产品上市时间:2024年",
+  "专利:否",
+  "个数:1",
+  "风格:北欧"
+ ],
+ "包装信息": [
+  {
+   "volume": 108,
+   "sku1": "黑色玫瑰花",
+   "length": 6,
+   "width": 6,
+   "weight": 35,
+   "skuId": 5926471206445,
+   "height": 3
+  }
+ ],
+ "url": "https://detail.1688.com/offer/903050392985.html",
+ "核页时间": "2026-10-08T09:28:44.877Z"
+}

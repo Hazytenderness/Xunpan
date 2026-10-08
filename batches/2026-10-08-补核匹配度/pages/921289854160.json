@@ -1,0 +1,182 @@
+{
+ "offerId": "921289854160",
+ "条目": "M0440",
+ "block": false,
+ "卖家公司": "河南爱依宝母婴用品有限公司",
+ "旺旺名": "爱依宝母婴",
+ "标题": "宝宝吃饭罩衣儿童男女幼儿园婴儿围兜辅食饭兜反穿衣防水防脏围裙",
+ "状态": "PUBLISHED",
+ "类目": "罩衣",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "颜色",
+   "值": [
+    "小狮子-短袖",
+    "小兔子-短袖",
+    "小汽车-短袖",
+    "小熊-短袖",
+    "小狮子-长袖",
+    "小兔子-长袖",
+    "小汽车-长袖",
+    "小熊-长袖",
+    "亚特之森",
+    "丽贝卡萌兔",
+    "绿色小熊"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "亚特之森",
+   "价格": "16.90",
+   "库存": 496
+  },
+  {
+   "规格": "小狮子-短袖",
+   "价格": "9.60",
+   "库存": 488
+  },
+  {
+   "规格": "绿色小熊",
+   "价格": "16.90",
+   "库存": 487
+  },
+  {
+   "规格": "小汽车-短袖",
+   "价格": "9.60",
+   "库存": 491
+  },
+  {
+   "规格": "小兔子-短袖",
+   "价格": "9.60",
+   "库存": 488
+  },
+  {
+   "规格": "小熊-短袖",
+   "价格": "9.60",
+   "库存": 457
+  },
+  {
+   "规格": "丽贝卡萌兔",
+   "价格": "16.90",
+   "库存": 487
+  },
+  {
+   "规格": "小狮子-长袖",
+   "价格": "12.30",
+   "库存": 332
+  },
+  {
+   "规格": "小汽车-长袖",
+   "价格": "12.30",
+   "库存": 414
+  },
+  {
+   "规格": "小熊-长袖",
+   "价格": "12.30",
+   "库存": 426
+  },
+  {
+   "规格": "小兔子-长袖",
+   "价格": "12.30",
+   "库存": 369
+  }
+ ],
+ "规格图": [
+  [
+   "小狮子-短袖",
+   "https://cbu01.alicdn.com/img/ibank/O1CN011X05AI1bZQy2oZFHc_!!2207744143479-0-cib.jpg"
+  ],
+  [
+   "小兔子-短袖",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01Z2MqZH1bZQy0teBIE_!!2207744143479-0-cib.jpg"
+  ],
+  [
+   "小汽车-短袖",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01c5kZqR1bZQxv5RZVJ_!!2207744143479-0-cib.jpg"
+  ],
+  [
+   "小熊-短袖",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01u4Cfzd1bZQy0tdRcP_!!2207744143479-0-cib.jpg"
+  ],
+  [
+   "小狮子-长袖",
+   "https://cbu01.alicdn.com/img/ibank/O1CN013wA4l41bZQy1E6tIL_!!2207744143479-0-cib.jpg"
+  ],
+  [
+   "小兔子-长袖",
+   "https://cbu01.alicdn.com/img/ibank/O1CN0103u9s51bZQy1jXxBp_!!2207744143479-0-cib.jpg"
+  ],
+  [
+   "小汽车-长袖",
+   "https://cbu01.alicdn.com/img/ibank/O1CN019AcIeN1bZQy17yy8S_!!2207744143479-0-cib.jpg"
+  ],
+  [
+   "小熊-长袖",
+   "https://cbu01.alicdn.com/img/ibank/O1CN014g7Zj81bZQy1ljOsC_!!2207744143479-0-cib.jpg"
+  ],
+  [
+   "亚特之森",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01WlMeoI1bZR0lK7EMe_!!2207744143479-0-cib.jpg"
+  ],
+  [
+   "丽贝卡萌兔",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01WaQcDX1bZR0lK9NT2_!!2207744143479-0-cib.jpg"
+  ],
+  [
+   "绿色小熊",
+   "https://cbu01.alicdn.com/img/ibank/O1CN017mCRIe1bZR0kU5Kyw_!!2207744143479-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "skuPrice",
+ "价格区间": null,
+ "阶梯价_登录后": [
+  {
+   "price": "9.60",
+   "beginAmount": 2
+  },
+  {
+   "price": "16.90",
+   "beginAmount": 2
+  }
+ ],
+ "到手价": null,
+ "起订量": 2,
+ "单位": "件",
+ "可售总量": 4935,
+ "已售": 418,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01OzZV7W1bZR0r1utZK_!!2207744143479-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01ezqVTv1bZR0r3OiBA_!!2207744143479-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01sX4sI11bZR0rhejr3_!!2207744143479-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01ZWMM571bZR0rqlgDL_!!2207744143479-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01PoiYBi1bZR0quDLy6_!!2207744143479-0-cib.jpg"
+ ],
+ "商品属性": [
+  "面料:其它",
+  "品牌:新安代",
+  "适合年龄段:婴幼童(1~3岁，80~100cm)",
+  "材质成分:聚酯纤维",
+  "是否防水:是",
+  "安全等级:A类",
+  "适用性别:中性/男女均可",
+  "是否进口:否",
+  "图案:卡通",
+  "颜色:小狮子-短袖/小兔子-短袖/小汽车-短袖/小熊-短袖/小狮子-长袖/小兔子-长袖/小汽车-长袖/小熊-长袖/亚特之森/丽贝卡萌兔/绿色小熊",
+  "适合身高:80cm/100cm/90cm/73CM",
+  "是否跨境出口专供货源:否",
+  "上市年份季节:2025年秋季"
+ ],
+ "包装信息": [
+  {
+   "volume": 0,
+   "length": 0,
+   "width": 0,
+   "weight": 70,
+   "height": 0
+  }
+ ],
+ "url": "https://detail.1688.com/offer/921289854160.html",
+ "核页时间": "2026-10-08T08:38:14.708Z"
+}

@@ -1,0 +1,149 @@
+{
+ "offerId": "991529953032",
+ "条目": "M0014",
+ "block": false,
+ "卖家公司": "义乌市毛师傅贸易商行",
+ "旺旺名": "毛师傅商行",
+ "标题": "10B48不锈钢松肉针可拆洗扎牛排针嫩肉针meat tenderizer",
+ "状态": "PUBLISHED",
+ "类目": "其他厨房小工具",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "规格",
+   "值": [
+    "嫩肉器10B48黑",
+    "嫩肉器10B48白",
+    "嫩肉器10A48黑",
+    "嫩肉器10A48白"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "嫩肉器10A48黑",
+   "价格": "22.66",
+   "库存": 184
+  },
+  {
+   "规格": "嫩肉器10B48黑",
+   "价格": "22.66",
+   "库存": 259
+  },
+  {
+   "规格": "嫩肉器10B48白",
+   "价格": "22.66",
+   "库存": 212
+  },
+  {
+   "规格": "嫩肉器10A48白",
+   "价格": "22.66",
+   "库存": 148
+  }
+ ],
+ "规格图": [
+  [
+   "嫩肉器10B48黑",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01Ibl89d1HDBSPcX2Au_!!2221119730723-0-cib.jpg"
+  ],
+  [
+   "嫩肉器10B48白",
+   "https://cbu01.alicdn.com/img/ibank/O1CN018x1YVF1HDBSQ6KzHT_!!2221119730723-0-cib.jpg"
+  ],
+  [
+   "嫩肉器10A48黑",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01BNfPVQ1HDBSPyCT1z_!!2221119730723-0-cib.jpg"
+  ],
+  [
+   "嫩肉器10A48白",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01y7GDQ91HDBSQI9Mwh_!!2221119730723-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "rangePrice",
+ "价格区间": "20.48-22.66",
+ "阶梯价_登录后": [
+  {
+   "price": "22.66",
+   "beginAmount": 1
+  },
+  {
+   "price": "21.12",
+   "beginAmount": 120
+  },
+  {
+   "price": "20.48",
+   "beginAmount": 2000
+  }
+ ],
+ "到手价": null,
+ "起订量": 1,
+ "单位": "件",
+ "可售总量": 803,
+ "已售": 4504,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01ZNHXQG1HDBSOucz6z_!!2221119730723-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01wB2r4h1HDBSQ6NCVP_!!2221119730723-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN015msVj51HDBSQMvMy9_!!2221119730723-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01IYP0R11HDBSQahkEZ_!!2221119730723-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01IG9BGX1HDBSPRSJO8_!!2221119730723-0-cib.jpg"
+ ],
+ "商品属性": [
+  "材质:塑料/不锈钢",
+  "品牌:否",
+  "产品类别:松肉器",
+  "是否进口:否",
+  "货号:10B48针",
+  "产地:其他",
+  "适用送礼场合:展销会/广告促销/商务馈赠",
+  "加印LOGO:可以",
+  "加工定制:是",
+  "产品上市时间:2013年春",
+  "价格段:20-30元",
+  "是否有专利:无",
+  "规格:嫩肉器10B48黑/嫩肉器10B48白/嫩肉器10A48黑/嫩肉器10A48白",
+  "主要下游平台:亚马逊/速卖通",
+  "主要销售地区:欧洲/北美",
+  "是否跨境出口专供货源:是",
+  "风格:现代简约"
+ ],
+ "包装信息": [
+  {
+   "volume": 768,
+   "sku1": "嫩肉器10B48黑",
+   "length": 16,
+   "width": 4,
+   "weight": 400,
+   "skuId": 6127560679869,
+   "height": 12
+  },
+  {
+   "volume": 768,
+   "sku1": "嫩肉器10B48白",
+   "length": 16,
+   "width": 4,
+   "weight": 400,
+   "skuId": 6127560679870,
+   "height": 12
+  },
+  {
+   "volume": 768,
+   "sku1": "嫩肉器10A48黑",
+   "length": 16,
+   "width": 4,
+   "weight": 400,
+   "skuId": 6173374635172,
+   "height": 12
+  },
+  {
+   "volume": 720,
+   "sku1": "嫩肉器10A48白",
+   "length": 15,
+   "width": 4,
+   "weight": 400,
+   "skuId": 6173374635173,
+   "height": 12
+  }
+ ],
+ "url": "https://detail.1688.com/offer/991529953032.html",
+ "核页时间": "2026-10-08T08:15:25.557Z"
+}

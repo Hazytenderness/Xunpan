@@ -1,0 +1,215 @@
+{
+ "offerId": "652173756755",
+ "条目": "M2045",
+ "block": false,
+ "卖家公司": "义乌市沙町渔贸易有限公司",
+ "旺旺名": "凯堂电子商务",
+ "标题": "Z字裤夹鹅型裤架成人衣架防滑无痕衣架家用加粗加厚裤夹 魔术裤架",
+ "状态": "PUBLISHED",
+ "类目": "衣架",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "颜色",
+   "值": [
+    "Z字黑色35CM",
+    "Z字白色35CM",
+    "Z字灰色35CM",
+    "Z字墨绿35CM",
+    "鹅型灰色35CM",
+    "鹅型黑色35CM",
+    "鹅型白色35CM",
+    "鹅型墨绿35CM",
+    "Z字黑色29CM",
+    "Z字白色29CM",
+    "Z字灰色29CM",
+    "Z字墨绿29CM",
+    "Z字鹅型颜色相同"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "Z字灰色35CM",
+   "价格": "1.44",
+   "库存": 445796
+  },
+  {
+   "规格": "Z字墨绿29CM",
+   "价格": "1.44",
+   "库存": 224845
+  },
+  {
+   "规格": "Z字鹅型颜色相同",
+   "价格": "1.44",
+   "库存": 0
+  },
+  {
+   "规格": "鹅型灰色35CM",
+   "价格": "1.44",
+   "库存": 967195
+  },
+  {
+   "规格": "Z字墨绿35CM",
+   "价格": "1.44",
+   "库存": 2378407
+  },
+  {
+   "规格": "Z字白色29CM",
+   "价格": "1.44",
+   "库存": 149193
+  },
+  {
+   "规格": "Z字黑色29CM",
+   "价格": "1.44",
+   "库存": 8755
+  },
+  {
+   "规格": "Z字白色35CM",
+   "价格": "1.44",
+   "库存": 167385
+  },
+  {
+   "规格": "鹅型墨绿35CM",
+   "价格": "1.44",
+   "库存": 128263
+  },
+  {
+   "规格": "Z字黑色35CM",
+   "价格": "1.44",
+   "库存": 82285
+  },
+  {
+   "规格": "Z字灰色29CM",
+   "价格": "1.44",
+   "库存": 194640
+  },
+  {
+   "规格": "鹅型白色35CM",
+   "价格": "1.44",
+   "库存": 482866
+  },
+  {
+   "规格": "鹅型黑色35CM",
+   "价格": "1.44",
+   "库存": 332542
+  }
+ ],
+ "规格图": [
+  [
+   "Z字黑色35CM",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01qrHwsV2EphhcHfNFZ_!!2206534268794-0-cib.jpg"
+  ],
+  [
+   "Z字白色35CM",
+   "https://cbu01.alicdn.com/img/ibank/O1CN015kOhWT2EphhbXm5If_!!2206534268794-0-cib.jpg"
+  ],
+  [
+   "Z字灰色35CM",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01i2OfQ12EphhYtG0en_!!2206534268794-0-cib.jpg"
+  ],
+  [
+   "Z字墨绿35CM",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01pqy0xF2EphhUYkKw1_!!2206534268794-0-cib.jpg"
+  ],
+  [
+   "鹅型灰色35CM",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01hXakVP2EphhVzfcfI_!!2206534268794-0-cib.jpg"
+  ],
+  [
+   "鹅型黑色35CM",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01AU2qeW2EphhVzgQa6_!!2206534268794-0-cib.jpg"
+  ],
+  [
+   "鹅型白色35CM",
+   "https://cbu01.alicdn.com/img/ibank/O1CN015Cds3F2EphhYO50RP_!!2206534268794-0-cib.jpg"
+  ],
+  [
+   "鹅型墨绿35CM",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01CHiIqT2EphhUYmopu_!!2206534268794-0-cib.jpg"
+  ],
+  [
+   "Z字黑色29CM",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01tFaBig2EphizgUoul_!!2206534268794-0-cib.jpg"
+  ],
+  [
+   "Z字白色29CM",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01r1Gwgy2Ephj6gAdcB_!!2206534268794-0-cib.jpg"
+  ],
+  [
+   "Z字灰色29CM",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01o8hVgu2Ephj38yLDz_!!2206534268794-0-cib.jpg"
+  ],
+  [
+   "Z字墨绿29CM",
+   "https://cbu01.alicdn.com/img/ibank/O1CN010sZVlT2Ephj0cMDSh_!!2206534268794-0-cib.jpg"
+  ],
+  [
+   "Z字鹅型颜色相同",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01E1Tqkh2EphhVzf1Ig_!!2206534268794-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "rangePrice",
+ "价格区间": "1.00-1.80",
+ "阶梯价_登录后": [
+  {
+   "price": "1.44",
+   "beginAmount": 10
+  },
+  {
+   "price": "1.50",
+   "beginAmount": 1000
+  },
+  {
+   "price": "1.00",
+   "beginAmount": 10000
+  }
+ ],
+ "到手价": {
+  "价": "1.44",
+  "说明": "限时价",
+  "件数": 10
+ },
+ "起订量": 10,
+ "单位": "个",
+ "可售总量": 5562172,
+ "已售": 62130,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01OK611X2EphhadIggh_!!2206534268794-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01qrFcWf2EphhSSrUoi_!!2206534268794-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01J739OB2EphhRsoWV6_!!2206534268794-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01vGkPaM2EphhcGYZ3Q_!!2206534268794-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01QLtDQQ2Ephkwaurh9_!!2206534268794-0-cib.jpg"
+ ],
+ "商品属性": [
+  "材质:铁",
+  "品牌:凯堂",
+  "产品类别:裤架",
+  "包装数量:5",
+  "是否进口:否",
+  "产地:义乌",
+  "产品上市时间:2017年夏",
+  "货号:123456",
+  "加工定制:否",
+  "箱装数量:120",
+  "颜色:Z字黑色35CM/Z字白色35CM/Z字灰色35CM/Z字墨绿35CM/鹅型灰色35CM/鹅型黑色35CM/鹅型白色35CM/鹅型墨绿35CM/Z字鹅型颜色相同/Z字黑色29CM/Z字白色29CM/Z字灰色29CM/Z字墨绿29CM",
+  "主要下游平台:亚马逊",
+  "主要销售地区:东北亚",
+  "有可授权的自有品牌:否",
+  "是否跨境出口专供货源:是",
+  "风格:轻奢",
+  "是否有专利:否",
+  "版权:无"
+ ],
+ "包装信息": [
+  {
+   "volume": 0,
+   "length": 0,
+   "width": 0,
+   "weight": 100,
+   "height": 0
+  }
+ ],
+ "url": "https://detail.1688.com/offer/652173756755.html",
+ "核页时间": "2026-10-08T09:55:08.313Z"
+}

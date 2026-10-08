@@ -1,0 +1,155 @@
+{
+ "offerId": "743645956307",
+ "条目": "M1495",
+ "block": false,
+ "卖家公司": "东莞市固美家居用品有限公司",
+ "旺旺名": "固美家居用品",
+ "标题": "家用落地可移动裤子无痕收纳架大容量金属框架服装店展示陈列裤架",
+ "状态": "PUBLISHED",
+ "类目": "展示裤架",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "颜色",
+   "值": [
+    "磨砂黑【20挂钩】",
+    "裤架+挂衣-磨砂黑",
+    "白色挂钩（5个）",
+    "珍珠白【20挂钩】",
+    "裤架+挂衣-珍珠白"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "白色挂钩（5个）",
+   "价格": "9.90",
+   "库存": 4
+  },
+  {
+   "规格": "裤架+挂衣-磨砂黑",
+   "价格": "78.00",
+   "库存": 21
+  },
+  {
+   "规格": "裤架+挂衣-珍珠白",
+   "价格": "78.00",
+   "库存": 0
+  },
+  {
+   "规格": "珍珠白【20挂钩】",
+   "价格": "48.00",
+   "库存": 0
+  },
+  {
+   "规格": "磨砂黑【20挂钩】",
+   "价格": "48.00",
+   "库存": 8
+  }
+ ],
+ "规格图": [
+  [
+   "磨砂黑【20挂钩】",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01hNStDo1wnj5zDcvSD_!!2247006353-0-cib.jpg"
+  ],
+  [
+   "裤架+挂衣-磨砂黑",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01R2r0rP1wnj5qTWzKF_!!2247006353-0-cib.jpg"
+  ],
+  [
+   "白色挂钩（5个）",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01T9T1si1wnj5syY1TO_!!2247006353-0-cib.jpg"
+  ],
+  [
+   "珍珠白【20挂钩】",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01jSrBn41wnj5u2HDlU_!!2247006353-0-cib.jpg"
+  ],
+  [
+   "裤架+挂衣-珍珠白",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01SLE8Op1wnj5vmrOt3_!!2247006353-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "skuPrice",
+ "价格区间": "9.90-78.00",
+ "阶梯价_登录后": [
+  {
+   "price": "9.90",
+   "beginAmount": 1
+  },
+  {
+   "price": "78.00",
+   "beginAmount": 1
+  }
+ ],
+ "到手价": null,
+ "起订量": 1,
+ "单位": "件",
+ "可售总量": 33,
+ "已售": 6,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN019WFIr71wnj5qTXK5X_!!2247006353-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01g8nlpp1wnj5qTXaj2_!!2247006353-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01T9T1si1wnj5syY1TO_!!2247006353-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01jSrBn41wnj5u2HDlU_!!2247006353-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01PltxKU1wnjMImH1Pf_!!2247006353-0-cib.jpg"
+ ],
+ "商品属性": [
+  "材质:碳钢",
+  "品牌:固美家",
+  "质量等级:优等品",
+  "是否库存:是",
+  "货号:KJ001W",
+  "颜色:珍珠白【20挂钩】/磨砂黑【20挂钩】/裤架+挂衣-珍珠白/裤架+挂衣-磨砂黑/白色挂钩（5个）",
+  "是否跨境出口专供货源:否",
+  "上市年份/季节:2024年夏季"
+ ],
+ "包装信息": [
+  {
+   "volume": 20124,
+   "sku1": "珍珠白【20挂钩】",
+   "length": 78,
+   "width": 43,
+   "weight": 4000,
+   "skuId": 5132329237370,
+   "height": 6
+  },
+  {
+   "volume": 20124,
+   "sku1": "磨砂黑【20挂钩】",
+   "length": 78,
+   "width": 43,
+   "weight": 4000,
+   "skuId": 5132329237371,
+   "height": 6
+  },
+  {
+   "volume": 39802.5,
+   "sku1": "裤架+挂衣-珍珠白",
+   "length": 91.5,
+   "width": 43.5,
+   "weight": 6500,
+   "skuId": 5132329237372,
+   "height": 10
+  },
+  {
+   "volume": 39802.5,
+   "sku1": "裤架+挂衣-磨砂黑",
+   "length": 91.5,
+   "width": 43.5,
+   "weight": 6500,
+   "skuId": 5132329237373,
+   "height": 10
+  },
+  {
+   "volume": 2000,
+   "sku1": "白色挂钩（5个）",
+   "length": 40,
+   "width": 10,
+   "weight": 450,
+   "skuId": 5132329237374,
+   "height": 5
+  }
+ ],
+ "url": "https://detail.1688.com/offer/743645956307.html",
+ "核页时间": "2026-10-08T09:18:59.121Z"
+}

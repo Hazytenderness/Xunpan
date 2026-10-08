@@ -1,0 +1,142 @@
+{
+ "offerId": "1058877610902",
+ "条目": "M1272",
+ "block": false,
+ "卖家公司": "杭州梁十六网络科技有限公司",
+ "旺旺名": "梁十六网络科技",
+ "标题": "雪尼尔拖把布套Swiffer套装平板适配家用通用干湿两用跨境清洁布",
+ "状态": "PUBLISHED",
+ "类目": "拖把配件",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "颜色",
+   "值": [
+    "雪尼尔绿色",
+    "雪尼尔灰色",
+    "珊瑚绒绿色",
+    "珊瑚绒灰色"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "雪尼尔灰色",
+   "价格": "1.44",
+   "库存": 999810
+  },
+  {
+   "规格": "珊瑚绒绿色",
+   "价格": "0.56",
+   "库存": 982803
+  },
+  {
+   "规格": "雪尼尔绿色",
+   "价格": "1.44",
+   "库存": 998994
+  },
+  {
+   "规格": "珊瑚绒灰色",
+   "价格": "0.56",
+   "库存": 992056
+  }
+ ],
+ "规格图": [
+  [
+   "雪尼尔绿色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN013Dqjhu1PkdLAW6Rxb_!!2222242911879-0-cib.jpg"
+  ],
+  [
+   "雪尼尔灰色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01OvFIIO1PkdL4Gbf9T_!!2222242911879-0-cib.jpg"
+  ],
+  [
+   "珊瑚绒绿色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01UPME7x1PkdL9aUZZY_!!2222242911879-0-cib.jpg"
+  ],
+  [
+   "珊瑚绒灰色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01OZketu1PkdL8xEXBG_!!2222242911879-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "skuPrice",
+ "价格区间": "0.70-1.80",
+ "阶梯价_登录后": [
+  {
+   "price": "0.56",
+   "beginAmount": 1
+  },
+  {
+   "price": "1.44",
+   "beginAmount": 1
+  }
+ ],
+ "到手价": null,
+ "起订量": 1,
+ "单位": "个",
+ "可售总量": 3973663,
+ "已售": 24493,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01tQUpI31PkdM4gxA0b_!!2222242911879-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01YIx5b01PkdL9F2CZN_!!2222242911879-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01WoZROO1PkdL9TnAM7_!!2222242911879-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01gSTyJx1PkdL9JHy9J_!!2222242911879-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN018G2V3V1PkdL96otKl_!!2222242911879-0-cib.jpg"
+ ],
+ "商品属性": [
+  "产品类别:其它",
+  "品牌:国内品牌",
+  "材质:纤维",
+  "是否进口:否",
+  "产品上市时间:2025年春",
+  "外箱规格:25.4*11.5CM",
+  "专利:否",
+  "货号:日用品",
+  "包装重量:40",
+  "颜色:雪尼尔绿色/雪尼尔灰色/珊瑚绒绿色/珊瑚绒灰色",
+  "主要下游平台:ebay/亚马逊/wish/速卖通/独立站/LAZADA",
+  "主要销售地区:欧洲/南美/东南亚/北美",
+  "有可授权的自有品牌:否",
+  "是否跨境出口专供货源:是"
+ ],
+ "包装信息": [
+  {
+   "volume": 0,
+   "sku1": "雪尼尔绿色",
+   "length": 0,
+   "width": 0,
+   "weight": 20,
+   "skuId": 6103936369435,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "雪尼尔灰色",
+   "length": 0,
+   "width": 0,
+   "weight": 20,
+   "skuId": 6103936369436,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "珊瑚绒绿色",
+   "length": 0,
+   "width": 0,
+   "weight": 20,
+   "skuId": 6103936369437,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "珊瑚绒灰色",
+   "length": 0,
+   "width": 0,
+   "weight": 20,
+   "skuId": 6103936369438,
+   "height": 0
+  }
+ ],
+ "url": "https://detail.1688.com/offer/1058877610902.html",
+ "核页时间": "2026-10-08T09:02:20.090Z"
+}

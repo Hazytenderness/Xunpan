@@ -1,0 +1,865 @@
+{
+ "offerId": "917764611053",
+ "条目": "M0140",
+ "block": false,
+ "卖家公司": "厦门市湖里区康豪织选纺织品经营部（个体工商户）",
+ "旺旺名": "豪康工厂",
+ "标题": "棉麻布料 ins风桌布窗帘沙发网红背景布挂布格子麻布布头处理",
+ "状态": "PUBLISHED",
+ "类目": "其他混纺、交织类面料",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "颜色",
+   "值": [
+    "乳白色 藏蓝白条半米价",
+    "白色 藏青小海浪半米价",
+    "米白色 蓝印鱼半米价",
+    "浅灰色 北极熊半米价",
+    "深灰色 绿叶半米价",
+    "灰色 和风麦穗半米价",
+    "银色 栀子花开半米价",
+    "黑色 菩提叶蓝半米价",
+    "桔红色 发财树半米价",
+    "玫红色 古风字帖半米价",
+    "粉红色 鲸鱼半米价",
+    "红色 天蓝水仙半米价",
+    "藕色 熊熊乐园绿半米价",
+    "西瓜红 淡蓝水仙半米价",
+    "酒红色 彩色三角半米价",
+    "卡其色 大鱼鳞半米价",
+    "军绿色 民族红风-半米价",
+    "墨绿色 民族蓝风-半米价",
+    "浅绿色 绿野仙踪半米价",
+    "绿色 圣诞花纹-半米价",
+    "翠绿色 蓝咖条纹-半米价",
+    "荧光绿 松雪小鹿半米价",
+    "青色 火烈鸟半米价",
+    "天蓝色 熊熊乐园粉半米价",
+    "孔雀蓝 大红格子半米价",
+    "宝蓝色 粉色格子半米价",
+    "浅蓝色 白色小格半米价",
+    "深蓝色 绿色格子半米价",
+    "湖蓝色 彩色森林半米价",
+    "蓝色 蓝色小格半米价",
+    "藏青色 波斯花纹半米价",
+    "浅紫色 蓝海浪半米价",
+    "深紫色 红海浪半米价",
+    "紫红色 青花瓷半米价",
+    "紫罗兰 芭蕉叶半米价",
+    "咖啡色 咖啡格子半米价",
+    "花色 纯色偏黄半米价",
+    "透明 纯色偏白半米价",
+    "咖啡小格半米价",
+    "白色大格半米价",
+    "灰色大格半米价",
+    "黑色大格半米价",
+    "五角星半米价",
+    "都市生活半米价",
+    "茂密森林半米价",
+    "向日葵半米价",
+    "萌萌小兔子半米价",
+    "小树猫头鹰半米价",
+    "小懒猫半米价",
+    "巴黎生活半米价",
+    "蓝色雏菊半米价",
+    "咖啡雏菊半米价",
+    "白色雏菊半米价",
+    "大红小点半米价",
+    "咖啡小点半米价",
+    "紫色小点半米价",
+    "灰色小点半米价",
+    "藏青小点半米价",
+    "黄色棋盘半米价",
+    "灰色箭头半米价",
+    "灰色三角形半米价",
+    "黑色三角形半米价",
+    "金色 猫红色半米价",
+    "荧光黄 猫白色半米价",
+    "驼色 猫咖啡半米价",
+    "紫色 猫蓝底半米价",
+    "浅棕色 自由之花半米价",
+    "巧克力色 火烈鸟绿半米价",
+    "深棕色 菠萝半米价",
+    "黄色 云朵浅绿半米价",
+    "杏色 云朵橘粉半米价",
+    "桔色 小碎花半米价",
+    "柠檬黄 复古蓝花半米价",
+    "深卡其布色 书法-卡其半米价",
+    "褐色 书法-白色半米价",
+    "姜黄色 书法-咖啡半米价",
+    "明黄色 书法-藏青半米价",
+    "浅黄色 兰亭序-卡其半米价",
+    "香槟色 兰亭序-本色半米价"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "米白色 蓝印鱼半米价",
+   "价格": "4.20",
+   "库存": 194
+  },
+  {
+   "规格": "藏青色 波斯花纹半米价",
+   "价格": "4.20",
+   "库存": 199
+  },
+  {
+   "规格": "五角星半米价",
+   "价格": "4.20",
+   "库存": 199
+  },
+  {
+   "规格": "巴黎生活半米价",
+   "价格": "4.20",
+   "库存": 200
+  },
+  {
+   "规格": "浅蓝色 白色小格半米价",
+   "价格": "4.20",
+   "库存": 198
+  },
+  {
+   "规格": "黑色 菩提叶蓝半米价",
+   "价格": "4.20",
+   "库存": 199
+  },
+  {
+   "规格": "绿色 圣诞花纹-半米价",
+   "价格": "4.20",
+   "库存": 200
+  },
+  {
+   "规格": "藏青小点半米价",
+   "价格": "4.20",
+   "库存": 199
+  },
+  {
+   "规格": "灰色三角形半米价",
+   "价格": "4.20",
+   "库存": 194
+  },
+  {
+   "规格": "明黄色 书法-藏青半米价",
+   "价格": "5.76",
+   "库存": 200
+  },
+  {
+   "规格": "紫红色 青花瓷半米价",
+   "价格": "4.20",
+   "库存": 200
+  },
+  {
+   "规格": "浅棕色 自由之花半米价",
+   "价格": "4.20",
+   "库存": 200
+  },
+  {
+   "规格": "深紫色 红海浪半米价",
+   "价格": "5.52",
+   "库存": 200
+  },
+  {
+   "规格": "银色 栀子花开半米价",
+   "价格": "4.20",
+   "库存": 198
+  },
+  {
+   "规格": "墨绿色 民族蓝风-半米价",
+   "价格": "4.20",
+   "库存": 199
+  },
+  {
+   "规格": "白色大格半米价",
+   "价格": "4.20",
+   "库存": 199
+  },
+  {
+   "规格": "翠绿色 蓝咖条纹-半米价",
+   "价格": "4.20",
+   "库存": 200
+  },
+  {
+   "规格": "都市生活半米价",
+   "价格": "4.20",
+   "库存": 200
+  },
+  {
+   "规格": "荧光黄 猫白色半米价",
+   "价格": "4.20",
+   "库存": 199
+  },
+  {
+   "规格": "深蓝色 绿色格子半米价",
+   "价格": "4.20",
+   "库存": 200
+  },
+  {
+   "规格": "茂密森林半米价",
+   "价格": "4.20",
+   "库存": 1000
+  },
+  {
+   "规格": "巧克力色 火烈鸟绿半米价",
+   "价格": "4.20",
+   "库存": 200
+  },
+  {
+   "规格": "透明 纯色偏白半米价",
+   "价格": "4.08",
+   "库存": 200
+  },
+  {
+   "规格": "桔色 小碎花半米价",
+   "价格": "4.20",
+   "库存": 200
+  },
+  {
+   "规格": "荧光绿 松雪小鹿半米价",
+   "价格": "4.20",
+   "库存": 199
+  },
+  {
+   "规格": "青色 火烈鸟半米价",
+   "价格": "4.20",
+   "库存": 200
+  },
+  {
+   "规格": "天蓝色 熊熊乐园粉半米价",
+   "价格": "4.20",
+   "库存": 200
+  },
+  {
+   "规格": "香槟色 兰亭序-本色半米价",
+   "价格": "4.20",
+   "库存": 200
+  },
+  {
+   "规格": "玫红色 古风字帖半米价",
+   "价格": "4.20",
+   "库存": 200
+  },
+  {
+   "规格": "咖啡小点半米价",
+   "价格": "4.20",
+   "库存": 200
+  },
+  {
+   "规格": "柠檬黄 复古蓝花半米价",
+   "价格": "4.20",
+   "库存": 199
+  },
+  {
+   "规格": "灰色箭头半米价",
+   "价格": "4.20",
+   "库存": 200
+  },
+  {
+   "规格": "深棕色 菠萝半米价",
+   "价格": "4.20",
+   "库存": 200
+  },
+  {
+   "规格": "黑色三角形半米价",
+   "价格": "4.20",
+   "库存": 200
+  },
+  {
+   "规格": "黄色 云朵浅绿半米价",
+   "价格": "4.20",
+   "库存": 199
+  },
+  {
+   "规格": "桔红色 发财树半米价",
+   "价格": "4.20",
+   "库存": 199
+  },
+  {
+   "规格": "紫罗兰 芭蕉叶半米价",
+   "价格": "4.20",
+   "库存": 199
+  },
+  {
+   "规格": "孔雀蓝 大红格子半米价",
+   "价格": "4.20",
+   "库存": 200
+  },
+  {
+   "规格": "宝蓝色 粉色格子半米价",
+   "价格": "4.20",
+   "库存": 200
+  },
+  {
+   "规格": "小树猫头鹰半米价",
+   "价格": "4.20",
+   "库存": 200
+  },
+  {
+   "规格": "白色 藏青小海浪半米价",
+   "价格": "4.20",
+   "库存": 200
+  },
+  {
+   "规格": "花色 纯色偏黄半米价",
+   "价格": "3.74",
+   "库存": 200
+  },
+  {
+   "规格": "金色 猫红色半米价",
+   "价格": "4.20",
+   "库存": 199
+  },
+  {
+   "规格": "浅绿色 绿野仙踪半米价",
+   "价格": "4.20",
+   "库存": 199
+  },
+  {
+   "规格": "杏色 云朵橘粉半米价",
+   "价格": "4.20",
+   "库存": 199
+  },
+  {
+   "规格": "小懒猫半米价",
+   "价格": "4.20",
+   "库存": 199
+  },
+  {
+   "规格": "红色 天蓝水仙半米价",
+   "价格": "4.20",
+   "库存": 200
+  },
+  {
+   "规格": "浅紫色 蓝海浪半米价",
+   "价格": "5.52",
+   "库存": 200
+  },
+  {
+   "规格": "深灰色 绿叶半米价",
+   "价格": "4.20",
+   "库存": 194
+  },
+  {
+   "规格": "西瓜红 淡蓝水仙半米价",
+   "价格": "4.20",
+   "库存": 200
+  },
+  {
+   "规格": "湖蓝色 彩色森林半米价",
+   "价格": "4.20",
+   "库存": 196
+  },
+  {
+   "规格": "黄色棋盘半米价",
+   "价格": "4.20",
+   "库存": 199
+  },
+  {
+   "规格": "乳白色 藏蓝白条半米价",
+   "价格": "4.20",
+   "库存": 199
+  },
+  {
+   "规格": "萌萌小兔子半米价",
+   "价格": "4.20",
+   "库存": 200
+  },
+  {
+   "规格": "灰色 和风麦穗半米价",
+   "价格": "4.20",
+   "库存": 198
+  },
+  {
+   "规格": "灰色小点半米价",
+   "价格": "4.20",
+   "库存": 200
+  },
+  {
+   "规格": "浅黄色 兰亭序-卡其半米价",
+   "价格": "4.20",
+   "库存": 199
+  },
+  {
+   "规格": "浅灰色 北极熊半米价",
+   "价格": "4.20",
+   "库存": 198
+  },
+  {
+   "规格": "军绿色 民族红风-半米价",
+   "价格": "4.20",
+   "库存": 196
+  },
+  {
+   "规格": "驼色 猫咖啡半米价",
+   "价格": "4.20",
+   "库存": 199
+  },
+  {
+   "规格": "咖啡色 咖啡格子半米价",
+   "价格": "4.20",
+   "库存": 199
+  },
+  {
+   "规格": "白色雏菊半米价",
+   "价格": "4.20",
+   "库存": 200
+  },
+  {
+   "规格": "深卡其布色 书法-卡其半米价",
+   "价格": "5.76",
+   "库存": 200
+  },
+  {
+   "规格": "藕色 熊熊乐园绿半米价",
+   "价格": "4.20",
+   "库存": 200
+  },
+  {
+   "规格": "褐色 书法-白色半米价",
+   "价格": "5.04",
+   "库存": 200
+  },
+  {
+   "规格": "咖啡小格半米价",
+   "价格": "4.20",
+   "库存": 200
+  },
+  {
+   "规格": "蓝色雏菊半米价",
+   "价格": "4.20",
+   "库存": 200
+  },
+  {
+   "规格": "紫色 猫蓝底半米价",
+   "价格": "4.20",
+   "库存": 197
+  },
+  {
+   "规格": "粉红色 鲸鱼半米价",
+   "价格": "4.20",
+   "库存": 198
+  },
+  {
+   "规格": "咖啡雏菊半米价",
+   "价格": "4.20",
+   "库存": 199
+  },
+  {
+   "规格": "酒红色 彩色三角半米价",
+   "价格": "4.20",
+   "库存": 200
+  },
+  {
+   "规格": "大红小点半米价",
+   "价格": "4.20",
+   "库存": 197
+  },
+  {
+   "规格": "姜黄色 书法-咖啡半米价",
+   "价格": "5.76",
+   "库存": 200
+  },
+  {
+   "规格": "紫色小点半米价",
+   "价格": "4.20",
+   "库存": 200
+  },
+  {
+   "规格": "卡其色 大鱼鳞半米价",
+   "价格": "4.20",
+   "库存": 199
+  },
+  {
+   "规格": "黑色大格半米价",
+   "价格": "4.20",
+   "库存": 200
+  },
+  {
+   "规格": "向日葵半米价",
+   "价格": "4.20",
+   "库存": 200
+  },
+  {
+   "规格": "灰色大格半米价",
+   "价格": "4.20",
+   "库存": 200
+  },
+  {
+   "规格": "蓝色 蓝色小格半米价",
+   "价格": "4.20",
+   "库存": 200
+  }
+ ],
+ "规格图": [
+  [
+   "乳白色 藏蓝白条半米价",
+   "https://cbu01.alicdn.com/img/ibank/TB2FP_PvdhvOuFjSZFBXXcZgFXa_!!2205701573.jpg"
+  ],
+  [
+   "白色 藏青小海浪半米价",
+   "https://cbu01.alicdn.com/img/ibank/TB2zTU8BodnpuFjSZPhXXbChpXa_!!2205701573.jpg"
+  ],
+  [
+   "米白色 蓝印鱼半米价",
+   "https://cbu01.alicdn.com/img/ibank/TB2vuFJBrBmpuFjSZFAXXaQ0pXa_!!2205701573.jpg"
+  ],
+  [
+   "浅灰色 北极熊半米价",
+   "https://cbu01.alicdn.com/img/ibank/TB2YLsqBkqvpuFjSZFhXXaOgXXa_!!2205701573.jpg"
+  ],
+  [
+   "深灰色 绿叶半米价",
+   "https://cbu01.alicdn.com/img/ibank/TB2LrBmBxhmpuFjSZFyXXcLdFXa_!!2205701573.jpg"
+  ],
+  [
+   "灰色 和风麦穗半米价",
+   "https://cbu01.alicdn.com/img/ibank/TB2VxNtBCFmpuFjSZFrXXayOXXa_!!2205701573.jpg"
+  ],
+  [
+   "银色 栀子花开半米价",
+   "https://cbu01.alicdn.com/img/ibank/TB2mipzBrxmpuFjSZJiXXXauVXa_!!2205701573.jpg"
+  ],
+  [
+   "黑色 菩提叶蓝半米价",
+   "https://cbu01.alicdn.com/img/ibank/TB2JG8ABC8mpuFjSZFMXXaxpVXa_!!2205701573.jpg"
+  ],
+  [
+   "桔红色 发财树半米价",
+   "https://cbu01.alicdn.com/img/ibank/TB2fFOTi5qAXuNjy1XdXXaYcVXa_!!2205701573.jpg"
+  ],
+  [
+   "玫红色 古风字帖半米价",
+   "https://cbu01.alicdn.com/img/ibank/TB2pcsGBolnpuFjSZFjXXXTaVXa_!!2205701573.jpg"
+  ],
+  [
+   "粉红色 鲸鱼半米价",
+   "https://cbu01.alicdn.com/img/ibank/TB2C_oFBohnpuFjSZFpXXcpuXXa_!!2205701573.jpg"
+  ],
+  [
+   "红色 天蓝水仙半米价",
+   "https://cbu01.alicdn.com/img/ibank/TB25PJlBC0mpuFjSZPiXXbssVXa_!!2205701573.jpg"
+  ],
+  [
+   "藕色 熊熊乐园绿半米价",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01DknULv1NUTbqQ3Fr9_!!2205701573.jpg"
+  ],
+  [
+   "西瓜红 淡蓝水仙半米价",
+   "https://cbu01.alicdn.com/img/ibank/TB2tGwGBolnpuFjSZFjXXXTaVXa_!!2205701573.jpg"
+  ],
+  [
+   "酒红色 彩色三角半米价",
+   "https://cbu01.alicdn.com/img/ibank/TB242_7kCB0XKJjSZFsXXaxfpXa_!!2205701573.jpg"
+  ],
+  [
+   "卡其色 大鱼鳞半米价",
+   "https://cbu01.alicdn.com/img/ibank/TB2M2_2BbBnpuFjSZFGXXX51pXa_!!2205701573.jpg"
+  ],
+  [
+   "军绿色 民族红风-半米价",
+   "https://cbu01.alicdn.com/img/ibank/TB2GjL6bo1HTKJjSZFmXXXeYFXa_!!2205701573.jpg"
+  ],
+  [
+   "墨绿色 民族蓝风-半米价",
+   "https://cbu01.alicdn.com/img/ibank/TB2xtWciTwKL1JjSZFgXXb6aVXa_!!2205701573.jpg"
+  ],
+  [
+   "浅绿色 绿野仙踪半米价",
+   "https://cbu01.alicdn.com/img/ibank/TB24m0hd_qWBKNjSZFxXXcpLpXa_!!2205701573.jpg"
+  ],
+  [
+   "绿色 圣诞花纹-半米价",
+   "https://cbu01.alicdn.com/img/ibank/TB2UO_KedqUQKJjSZFIXXcOkFXa_!!2205701573.jpg"
+  ],
+  [
+   "翠绿色 蓝咖条纹-半米价",
+   "https://cbu01.alicdn.com/img/ibank/TB2p8WcaLMTUeJjSZFKXXagopXa_!!2205701573.jpg"
+  ],
+  [
+   "荧光绿 松雪小鹿半米价",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01U9XhUO1NUTV2Bqd3w_!!2205701573.jpg"
+  ],
+  [
+   "青色 火烈鸟半米价",
+   "https://cbu01.alicdn.com/img/ibank/TB2xnf0XED.BuNjt_h7XXaNDVXa_!!2205701573.jpg"
+  ],
+  [
+   "天蓝色 熊熊乐园粉半米价",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01TboaPJ1NUTbtiXazO_!!2205701573.jpg"
+  ],
+  [
+   "孔雀蓝 大红格子半米价",
+   "https://cbu01.alicdn.com/img/ibank/TB251d2XQ.OyuJjSszhXXbZbVXa_!!2205701573.jpg"
+  ],
+  [
+   "宝蓝色 粉色格子半米价",
+   "https://cbu01.alicdn.com/img/ibank/TB2C.F.XREOyuJjy0FdXXbzApXa_!!2205701573.jpg"
+  ],
+  [
+   "浅蓝色 白色小格半米价",
+   "https://cbu01.alicdn.com/img/ibank/TB2b2k4BipnpuFjSZFIXXXh2VXa_!!2205701573.jpg"
+  ],
+  [
+   "深蓝色 绿色格子半米价",
+   "https://cbu01.alicdn.com/img/ibank/TB2z5qzo25TBuNjSspcXXbnGFXa_!!2205701573.jpg"
+  ],
+  [
+   "湖蓝色 彩色森林半米价",
+   "https://cbu01.alicdn.com/img/ibank/TB2ON8kgIuYBuNkSmRyXXcA3pXa_!!2205701573.jpg"
+  ],
+  [
+   "蓝色 蓝色小格半米价",
+   "https://cbu01.alicdn.com/img/ibank/TB2DwJNBr4npuFjSZFmXXXl4FXa_!!2205701573.jpg"
+  ],
+  [
+   "藏青色 波斯花纹半米价",
+   "https://cbu01.alicdn.com/img/ibank/TB2VTyooYuWBuNjSszgXXb8jVXa_!!2205701573.jpg"
+  ],
+  [
+   "浅紫色 蓝海浪半米价",
+   "https://cbu01.alicdn.com/img/ibank/TB2uQ.tbKSSBuNjy0FlXXbBpVXa_!!2205701573.jpg"
+  ],
+  [
+   "深紫色 红海浪半米价",
+   "https://cbu01.alicdn.com/img/ibank/TB2_co9XwwjyKJjSsppXXaxUpXa_!!2205701573.jpg"
+  ],
+  [
+   "紫红色 青花瓷半米价",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01uaxLYp1NUTiej9pta_!!2205701573.jpg"
+  ],
+  [
+   "紫罗兰 芭蕉叶半米价",
+   "https://cbu01.alicdn.com/img/ibank/TB2TO.adJcnBKNjSZR0XXcFqFXa_!!2205701573.jpg"
+  ],
+  [
+   "咖啡色 咖啡格子半米价",
+   "https://cbu01.alicdn.com/img/ibank/TB22240XGZPyuJjy1zcXXXp1FXa_!!2205701573.jpg"
+  ],
+  [
+   "花色 纯色偏黄半米价",
+   "https://cbu01.alicdn.com/img/ibank/TB2Q.sEBctnpuFjSZFKXXalFFXa_!!2205701573.jpg"
+  ],
+  [
+   "透明 纯色偏白半米价",
+   "https://cbu01.alicdn.com/img/ibank/TB2tK79BilnpuFjSZFgXXbi7FXa_!!2205701573.jpg"
+  ],
+  [
+   "咖啡小格半米价",
+   "https://cbu01.alicdn.com/img/ibank/TB2PqxzBrxmpuFjSZJiXXXauVXa_!!2205701573.jpg"
+  ],
+  [
+   "白色大格半米价",
+   "https://cbu01.alicdn.com/img/ibank/TB25OLqhIPRfKJjSZFOXXbKEVXa_!!2205701573.jpg"
+  ],
+  [
+   "灰色大格半米价",
+   "https://cbu01.alicdn.com/img/ibank/TB2fIwFBohnpuFjSZFpXXcpuXXa_!!2205701573.jpg"
+  ],
+  [
+   "黑色大格半米价",
+   "https://cbu01.alicdn.com/img/ibank/TB2qaXRBxlmpuFjSZPfXXc9iXXa_!!2205701573.jpg"
+  ],
+  [
+   "五角星半米价",
+   "https://cbu01.alicdn.com/img/ibank/TB2YYhqgRU4h1JjSZFLXXaFMpXa_!!2205701573.jpg"
+  ],
+  [
+   "都市生活半米价",
+   "https://cbu01.alicdn.com/img/ibank/TB2Djn1BbBnpuFjSZFGXXX51pXa_!!2205701573.jpg"
+  ],
+  [
+   "茂密森林半米价",
+   "https://cbu01.alicdn.com/img/ibank/TB2o84QBxlmpuFjSZPfXXc9iXXa_!!2205701573.jpg"
+  ],
+  [
+   "向日葵半米价",
+   "https://cbu01.alicdn.com/img/ibank/O1CN0179irWY1NUTiaWou0A_!!2205701573.jpg"
+  ],
+  [
+   "萌萌小兔子半米价",
+   "https://cbu01.alicdn.com/img/ibank/TB2z_lpgRU4h1JjSZFLXXaFMpXa_!!2205701573.jpg"
+  ],
+  [
+   "小树猫头鹰半米价",
+   "https://cbu01.alicdn.com/img/ibank/TB2ng0yBrxmpuFjSZJiXXXauVXa_!!2205701573.jpg"
+  ],
+  [
+   "小懒猫半米价",
+   "https://cbu01.alicdn.com/img/ibank/TB2I5j1BbBnpuFjSZFGXXX51pXa_!!2205701573.jpg"
+  ],
+  [
+   "巴黎生活半米价",
+   "https://cbu01.alicdn.com/img/ibank/TB2SsAkBbJmpuFjSZFwXXaE4VXa_!!2205701573.jpg"
+  ],
+  [
+   "蓝色雏菊半米价",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01J72QIm1NUTbkPHQDG_!!2205701573.jpg"
+  ],
+  [
+   "咖啡雏菊半米价",
+   "https://cbu01.alicdn.com/img/ibank/TB220VsBCFmpuFjSZFrXXayOXXa_!!2205701573.jpg"
+  ],
+  [
+   "白色雏菊半米价",
+   "https://cbu01.alicdn.com/img/ibank/TB2xG.kBbJmpuFjSZFwXXaE4VXa_!!2205701573.jpg"
+  ],
+  [
+   "大红小点半米价",
+   "https://cbu01.alicdn.com/img/ibank/TB25hwZBdFopuFjSZFHXXbSlXXa_!!2205701573.jpg"
+  ],
+  [
+   "咖啡小点半米价",
+   "https://cbu01.alicdn.com/img/ibank/TB2ixsZBdFopuFjSZFHXXbSlXXa_!!2205701573.jpg"
+  ],
+  [
+   "紫色小点半米价",
+   "https://cbu01.alicdn.com/img/ibank/TB2MKYOvdhvOuFjSZFBXXcZgFXa_!!2205701573.jpg"
+  ],
+  [
+   "灰色小点半米价",
+   "https://cbu01.alicdn.com/img/ibank/TB2HkpaBstnpuFjSZFvXXbcTpXa_!!2205701573.jpg"
+  ],
+  [
+   "藏青小点半米价",
+   "https://cbu01.alicdn.com/img/ibank/TB229rphIPRfKJjSZFOXXbKEVXa_!!2205701573.jpg"
+  ],
+  [
+   "黄色棋盘半米价",
+   "https://cbu01.alicdn.com/img/ibank/TB2a2b6kCB0XKJjSZFsXXaxfpXa_!!2205701573.jpg"
+  ],
+  [
+   "灰色箭头半米价",
+   "https://cbu01.alicdn.com/img/ibank/TB2PG_UBdBopuFjSZPcXXc9EpXa_!!2205701573.jpg"
+  ],
+  [
+   "灰色三角形半米价",
+   "https://cbu01.alicdn.com/img/ibank/TB2qr8sBCFmpuFjSZFrXXayOXXa_!!2205701573.jpg"
+  ],
+  [
+   "黑色三角形半米价",
+   "https://cbu01.alicdn.com/img/ibank/TB2Duo2llTH8KJjy0FiXXcRsXXa_!!2205701573.jpg"
+  ],
+  [
+   "金色 猫红色半米价",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01RuFUfJ1NUTjOS8jyR_!!2205701573.jpg"
+  ],
+  [
+   "荧光黄 猫白色半米价",
+   "https://cbu01.alicdn.com/img/ibank/O1CN019MlhXF1NUTUUp2H7f_!!2205701573.jpg"
+  ],
+  [
+   "驼色 猫咖啡半米价",
+   "https://cbu01.alicdn.com/img/ibank/O1CN011s4PlQ1NUTUURqe5i_!!2205701573.jpg"
+  ],
+  [
+   "紫色 猫蓝底半米价",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01Q1THjB1NUTUlAfwG3_!!2205701573.jpg"
+  ],
+  [
+   "浅棕色 自由之花半米价",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01s1duEK1NUTUTkJENF_!!2205701573.jpg"
+  ],
+  [
+   "巧克力色 火烈鸟绿半米价",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01wQem1u1NUTUUS1S5G_!!2205701573.jpg"
+  ],
+  [
+   "深棕色 菠萝半米价",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01B1Moim1NUTUVE832G_!!2205701573.jpg"
+  ],
+  [
+   "黄色 云朵浅绿半米价",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01obBYUO1NUTbu5Tyru_!!2205701573.jpg"
+  ],
+  [
+   "杏色 云朵橘粉半米价",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01YgFju91NUTbw0qgoo_!!2205701573.jpg"
+  ],
+  [
+   "桔色 小碎花半米价",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01ZE4lEH1NUTxypjQH7_!!2205701573.jpg"
+  ],
+  [
+   "柠檬黄 复古蓝花半米价",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01n0c1rz1NUTxzOmIu5_!!2205701573.jpg"
+  ],
+  [
+   "深卡其布色 书法-卡其半米价",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01vpxYyR1NUU33mhwBr_!!2205701573.jpg"
+  ],
+  [
+   "褐色 书法-白色半米价",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01egKd671NUU3BXN8bC_!!2205701573.jpg"
+  ],
+  [
+   "姜黄色 书法-咖啡半米价",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01BVIMtp1NUU33mn2dH_!!2205701573.jpg"
+  ],
+  [
+   "明黄色 书法-藏青半米价",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01wRVSCl1NUU3C3M5ra_!!2205701573.jpg"
+  ],
+  [
+   "浅黄色 兰亭序-卡其半米价",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01UAMFQs1NUU3BXZHpQ_!!2205701573.jpg"
+  ],
+  [
+   "香槟色 兰亭序-本色半米价",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01x70RqF1NUU3AF0TE1_!!2205701573.jpg"
+  ]
+ ],
+ "价格展示": "skuPrice",
+ "价格区间": null,
+ "阶梯价_登录后": [
+  {
+   "price": "3.74",
+   "beginAmount": 1
+  },
+  {
+   "price": "5.76",
+   "beginAmount": 1
+  }
+ ],
+ "到手价": null,
+ "起订量": 1,
+ "单位": "米",
+ "可售总量": 16535,
+ "已售": 17,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01fdiQDg1NUTUcCTQKj_!!2205701573.jpg",
+  "https://cbu01.alicdn.com/img/ibank/TB2QrSnXdUnyKJjSZFpXXb9qFXa_!!2205701573.jpg",
+  "https://cbu01.alicdn.com/img/ibank/TB2F6fAwG8lpuFjy0FpXXaGrpXa_!!2205701573.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01JEeija1NUU3D2HkPu_!!2205701573.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01un01Mh1NUTUbgvxQK_!!2205701573.jpg"
+ ],
+ "商品属性": [
+  "幅宽:110cm",
+  "克重:其他",
+  "成分及含量:其他",
+  "品名:其他",
+  "纱支:其他",
+  "密度:其他",
+  "织物组织:其他",
+  "染整工艺:印染",
+  "具体用途:衬衫",
+  "货号:棉麻印花布料",
+  "别名:其他",
+  "花型工艺:其他",
+  "印花风格:日韩",
+  "品牌:其他",
+  "流行元素:其他",
+  "颜色:乳白色 藏蓝白条半米价/白色 藏青小海浪半米价/米白色 蓝印鱼半米价/浅灰色 北极熊半米价/深灰色 绿叶半米价/灰色 和风麦穗半米价/银色 栀子花开半米价/黑色 菩提叶蓝半米价/桔红色 发财树半米价/玫红色 古风字帖半米价/粉红色 鲸鱼半米价/红色 天蓝水仙半米价/藕色 熊熊乐园绿半米价/西瓜红 淡蓝水仙半米价/酒红色 彩色三角半米价/卡其色 大鱼鳞半米价/军绿色 民族红风-半米价/墨绿色 民族蓝风-半米价/浅绿色 绿野仙踪半米价/绿色 圣诞花纹-半米价/翠绿色 蓝咖条纹-半米价/荧光绿 松雪小鹿半米价/青色 火烈鸟半米价/天蓝色 熊熊乐园粉半米价/孔雀蓝 大红格子半米价/宝蓝色 粉色格子半米价/浅蓝色 白色小格半米价/深蓝色 绿色格子半米价/湖蓝色 彩色森林半米价/蓝色 蓝色小格半米价/藏青色 波斯花纹半米价/浅紫色 蓝海浪半米价/深紫色 红海浪半米价/紫红色 青花瓷半米价/紫罗兰 芭蕉叶半米价/咖啡色 咖啡格子半米价/花色 纯色偏黄半米价/透明 纯色偏白半米价/咖啡小格半米价/白色大格半米价/灰色大格半米价/黑色大格半米价/五角星半米价/都市生活半米价/茂密森林半米价/向日葵半米价/萌萌小兔子半米价/小树猫头鹰半米价/小懒猫半米价/巴黎生活半米价/蓝色雏菊半米价/咖啡雏菊半米价/白色雏菊半米价/大红小点半米价/咖啡小点半米价/紫色小点半米价/灰色小点半米价/藏青小点半米价/黄色棋盘半米价/灰色箭头半米价/灰色三角形半米价/黑色三角形半米价/金色 猫红色半米价/荧光黄 猫白色半米价/驼色 猫咖啡半米价/紫色 猫蓝底半米价/浅棕色 自由之花半米价/巧克力色 火烈鸟绿半米价/深棕色 菠萝半米价/黄色 云朵浅绿半米价/杏色 云朵橘粉半米价/桔色 小碎花半米价/柠檬黄 复古蓝花半米价/深卡其布色 书法-卡其半米价/褐色 书法-白色半米价/姜黄色 书法-咖啡半米价/明黄色 书法-藏青半米价/浅黄色 兰亭序-卡其半米价/香槟色 兰亭序-本色半米价"
+ ],
+ "包装信息": [
+  {
+   "volume": 0,
+   "length": 0,
+   "width": 0,
+   "weight": 1000,
+   "height": 0
+  }
+ ],
+ "url": "https://detail.1688.com/offer/917764611053.html",
+ "核页时间": "2026-10-08T08:21:08.225Z"
+}

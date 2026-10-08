@@ -1,0 +1,134 @@
+{
+ "offerId": "1046598128684",
+ "条目": "M0472",
+ "block": false,
+ "卖家公司": "义乌市康艺工艺品有限公司",
+ "旺旺名": "义乌市康艺仿真花厂",
+ "标题": "向日葵仿真花家居客厅装饰摆件假花田园风太阳花装饰花艺拍摄道具",
+ "状态": "PUBLISHED",
+ "类目": "仿真花",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "颜色",
+   "值": [
+    "黄色（大花朵直径13cm）",
+    "橘色（大花朵直径13cm）",
+    "粉色（大花朵直径13cm）",
+    "白色（大花朵直径13cm）",
+    "香槟色（大花朵直径13cm）",
+    "蓝色（大花朵直径13cm）"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "黄色（大花朵直径13cm）",
+   "价格": null,
+   "库存": 322610
+  },
+  {
+   "规格": "蓝色（大花朵直径13cm）",
+   "价格": null,
+   "库存": 118099
+  },
+  {
+   "规格": "橘色（大花朵直径13cm）",
+   "价格": null,
+   "库存": 116757
+  },
+  {
+   "规格": "粉色（大花朵直径13cm）",
+   "价格": null,
+   "库存": 309101
+  },
+  {
+   "规格": "白色（大花朵直径13cm）",
+   "价格": null,
+   "库存": 201079
+  },
+  {
+   "规格": "香槟色（大花朵直径13cm）",
+   "价格": null,
+   "库存": 471103
+  }
+ ],
+ "规格图": [
+  [
+   "黄色（大花朵直径13cm）",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01MGV8Ma23LWGNdPMY1_!!2222348837239-0-cib.jpg"
+  ],
+  [
+   "橘色（大花朵直径13cm）",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01ds2sFY23LWGNYwxqO_!!2222348837239-0-cib.jpg"
+  ],
+  [
+   "粉色（大花朵直径13cm）",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01HtHSAW23LWGO2scQA_!!2222348837239-0-cib.jpg"
+  ],
+  [
+   "白色（大花朵直径13cm）",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01eYW7aJ23LWGJF601A_!!2222348837239-0-cib.jpg"
+  ],
+  [
+   "香槟色（大花朵直径13cm）",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01WZndEd23LWGNu6Jpm_!!2222348837239-0-cib.jpg"
+  ],
+  [
+   "蓝色（大花朵直径13cm）",
+   "https://cbu01.alicdn.com/img/ibank/O1CN017XyLaU23LWGNqDpSm_!!2222348837239-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "rangePrice",
+ "价格区间": null,
+ "阶梯价_登录后": [
+  {
+   "price": "1.60",
+   "beginAmount": 1
+  },
+  {
+   "price": "1.50",
+   "beginAmount": 300
+  },
+  {
+   "price": "1.40",
+   "beginAmount": 1200
+  }
+ ],
+ "到手价": null,
+ "起订量": 1,
+ "单位": "支",
+ "可售总量": 1538749,
+ "已售": 2195,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01rULF1D23LWGNqD1aI_!!2222348837239-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN019Hlm3a23LWGNu67Ks_!!2222348837239-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01Ej4sU023LWGNqCgmp_!!2222348837239-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01a4LjHD23LWGO2sPw3_!!2222348837239-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01MNfafY23LWGNp5v3m_!!2222348837239-0-cib.jpg"
+ ],
+ "商品属性": [
+  "材质:绢花",
+  "工艺:注塑",
+  "品种:向日葵",
+  "用途:摆件/婚庆/装饰/户外/商用/酒店装饰/节日装饰/商业展示/摄影道具/餐厅装饰/家居装扮/其他",
+  "品牌:其他",
+  "货号:向日葵",
+  "包装:纸箱",
+  "类型:仿真花",
+  "是否专利货源:否",
+  "颜色:黄色（大花朵直径13cm）/橘色（大花朵直径13cm）/粉色（大花朵直径13cm）/白色（大花朵直径13cm）/香槟色（大花朵直径13cm）/蓝色（大花朵直径13cm）",
+  "产品形态:单枝"
+ ],
+ "包装信息": [
+  {
+   "volume": 0,
+   "length": 0,
+   "width": 0,
+   "weight": 80,
+   "height": 0
+  }
+ ],
+ "url": "https://detail.1688.com/offer/1046598128684.html",
+ "核页时间": "2026-10-08T08:42:01.234Z"
+}

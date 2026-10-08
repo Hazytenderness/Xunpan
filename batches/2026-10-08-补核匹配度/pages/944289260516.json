@@ -1,0 +1,104 @@
+{
+ "offerId": "944289260516",
+ "条目": "M0063",
+ "block": false,
+ "卖家公司": "台州悦森家居有限公司",
+ "旺旺名": "台州悦森家居有限公司",
+ "标题": "家用垃圾桶轻奢高级感日系简约大容量客厅卧室卫生间双层垃圾桶",
+ "状态": "PUBLISHED",
+ "类目": "垃圾桶",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "颜色",
+   "值": [
+    "白色",
+    "灰色"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "白色",
+   "价格": "33.50",
+   "库存": 489
+  },
+  {
+   "规格": "灰色",
+   "价格": "33.50",
+   "库存": 495
+  }
+ ],
+ "规格图": [
+  [
+   "白色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01azEUy11Rc35CzMsK3_!!2208223772131-0-cib.jpg"
+  ],
+  [
+   "灰色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01gi0Y8u1Rc35CRScnd_!!2208223772131-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "skuPrice",
+ "价格区间": "33.50",
+ "阶梯价_登录后": [
+  {
+   "price": "33.50",
+   "beginAmount": 1
+  }
+ ],
+ "到手价": {
+  "价": "32.5",
+  "说明": "新人价",
+  "件数": 1
+ },
+ "起订量": 1,
+ "单位": "件",
+ "可售总量": 984,
+ "已售": 11,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01bRJbWe1Rc35Cfidkk_!!2208223772131-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01fl1oRd1Rc35CfjqZe_!!2208223772131-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01sSEfmQ1Rc35ELQXis_!!2208223772131-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01LDzBNM1Rc35DNFjQm_!!2208223772131-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01l3YimD1Rc35DbsBfE_!!2208223772131-0-cib.jpg"
+ ],
+ "商品属性": [
+  "材质:塑料",
+  "功能:纸篓",
+  "容量:4L以下",
+  "开合方式:无盖",
+  "形状:方形",
+  "是否进口:否",
+  "产品上市时间:2025",
+  "专利:否",
+  "塑料新料占比:100%新料",
+  "货号:9054",
+  "颜色:白色/灰色",
+  "使用场景:家用",
+  "出口检测机构:无",
+  "毛重:1.7kg"
+ ],
+ "包装信息": [
+  {
+   "volume": 0,
+   "sku1": "白色",
+   "length": 0,
+   "width": 0,
+   "weight": 1700,
+   "skuId": 6011100746380,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "灰色",
+   "length": 0,
+   "width": 0,
+   "weight": 1700,
+   "skuId": 6011100746381,
+   "height": 0
+  }
+ ],
+ "url": "https://detail.1688.com/offer/944289260516.html",
+ "核页时间": "2026-10-08T08:19:05.880Z"
+}

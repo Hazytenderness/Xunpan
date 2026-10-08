@@ -1,0 +1,127 @@
+{
+ "offerId": "927358073811",
+ "条目": "H0606",
+ "block": false,
+ "卖家公司": "义乌市奇库宠物用品有限公司",
+ "旺旺名": "奇库宠物用品",
+ "标题": "宠物浴盆水池折叠游泳池猫砂池猫砂盆涤防滑药狗狗清洁",
+ "状态": "PUBLISHED",
+ "类目": "狗狗清洁美容工具",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "规格",
+   "值": [
+    "蓝色方形水池",
+    "蓝色圆形水池",
+    "红色圆形水池"
+   ]
+  },
+  {
+   "属性": "货号",
+   "值": [
+    "50*10cm"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "红色圆形水池&gt;50*10cm",
+   "价格": "8.50",
+   "库存": 8770
+  },
+  {
+   "规格": "蓝色圆形水池&gt;50*10cm",
+   "价格": "8.50",
+   "库存": 8207
+  },
+  {
+   "规格": "蓝色方形水池&gt;50*10cm",
+   "价格": "8.50",
+   "库存": 7331
+  }
+ ],
+ "规格图": [
+  [
+   "蓝色方形水池",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01MEklcU1aEXIP6eUCV_!!2212131113298-0-cib.jpg"
+  ],
+  [
+   "蓝色圆形水池",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01bemi611aEXIQYi9sd_!!2212131113298-0-cib.jpg"
+  ],
+  [
+   "红色圆形水池",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01Df6Uoy1aEXIOedaBP_!!2212131113298-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "skuPrice",
+ "价格区间": "8.50",
+ "阶梯价_登录后": [
+  {
+   "price": "8.50",
+   "beginAmount": 1
+  }
+ ],
+ "到手价": null,
+ "起订量": 1,
+ "单位": "个",
+ "可售总量": 24308,
+ "已售": 2296,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01EEu0DL1aEXIQvlDUs_!!2212131113298-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01xWTzqU1aEXIPxB4Dd_!!2212131113298-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01Pnrfkq1aEXIQUnj7p_!!2212131113298-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN010GtmNh1aEXIQEwXFq_!!2212131113298-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01xOVBMM1aEXIPxLnlx_!!2212131113298-0-cib.jpg"
+ ],
+ "商品属性": [
+  "材质:PVC",
+  "品牌:oem定制",
+  "产品分类:其他清洁美容用品",
+  "是否进口:否",
+  "箱装数量:50",
+  "是否专利货源:否",
+  "规格:蓝色方形水池/蓝色圆形水池/红色圆形水池",
+  "货号:50*10cm",
+  "主要下游平台:ebay/亚马逊/wish/速卖通/独立站/LAZADA",
+  "主要销售地区:非洲/欧洲/南美/东南亚/北美/东北亚/中东",
+  "有可授权的自有品牌:是",
+  "是否跨境出口专供货源:是",
+  "是否属于礼品:否"
+ ],
+ "包装信息": [
+  {
+   "sku2": "50*10cm",
+   "volume": 1000,
+   "sku1": "蓝色方形水池",
+   "length": 25,
+   "width": 10,
+   "weight": 320,
+   "skuId": 6027570434583,
+   "height": 4
+  },
+  {
+   "sku2": "50*10cm",
+   "volume": 1000,
+   "sku1": "蓝色圆形水池",
+   "length": 25,
+   "width": 10,
+   "weight": 380,
+   "skuId": 6027570434585,
+   "height": 4
+  },
+  {
+   "sku2": "50*10cm",
+   "volume": 1000,
+   "sku1": "红色圆形水池",
+   "length": 25,
+   "width": 10,
+   "weight": 380,
+   "skuId": 6027570434584,
+   "height": 4
+  }
+ ],
+ "url": "https://detail.1688.com/offer/927358073811.html",
+ "核页时间": "2026-10-06T17:36:26.861Z"
+}

@@ -1,0 +1,138 @@
+{
+ "offerId": "1058158858828",
+ "条目": "M0169",
+ "block": false,
+ "卖家公司": "深圳市宝安区予里文创商行(个体工商户)",
+ "旺旺名": "予里文创工厂店",
+ "标题": "A6 六孔水波纹亚克力活页本封面 渐变晕染鎏金手账本外壳 可拆卸",
+ "状态": "PUBLISHED",
+ "类目": "活页本、活页替芯",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "颜色",
+   "值": [
+    "A6-落日橘海(单张）",
+    "A6-桃雾鎏金(单张）",
+    "A6-紫雾星河(单张）",
+    "金色环（单个）"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "A6-落日橘海(单张）",
+   "价格": "7.90",
+   "库存": 570
+  },
+  {
+   "规格": "A6-桃雾鎏金(单张）",
+   "价格": "7.90",
+   "库存": 520
+  },
+  {
+   "规格": "金色环（单个）",
+   "价格": "1.90",
+   "库存": 720
+  },
+  {
+   "规格": "A6-紫雾星河(单张）",
+   "价格": "7.90",
+   "库存": 562
+  }
+ ],
+ "规格图": [
+  [
+   "A6-落日橘海(单张）",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01OhTktl1qKynMvkeSh_!!2222193105478-0-cib.jpg"
+  ],
+  [
+   "A6-桃雾鎏金(单张）",
+   "https://cbu01.alicdn.com/img/ibank/O1CN015I2J3Z1qKynMZGFFK_!!2222193105478-0-cib.jpg"
+  ],
+  [
+   "A6-紫雾星河(单张）",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01rOxVJD1qKynMopRAL_!!2222193105478-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "skuPrice",
+ "价格区间": null,
+ "阶梯价_登录后": [
+  {
+   "price": "1.90",
+   "beginAmount": 2
+  },
+  {
+   "price": "7.90",
+   "beginAmount": 2
+  }
+ ],
+ "到手价": null,
+ "起订量": 2,
+ "单位": "个",
+ "可售总量": 2372,
+ "已售": 141,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN011nI1Gc1qKynN7mGGl_!!2222193105478-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN011qKmbw1qKynMvQBCi_!!2222193105478-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01icrQux1qKynN0gi7G_!!2222193105478-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01InYrGV1qKynOdD1eh_!!2222193105478-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01IRvOoA1qKynMvSG5o_!!2222193105478-0-cib.jpg"
+ ],
+ "商品属性": [
+  "适用类别:活页替芯",
+  "品牌:无",
+  "内页材质:亚克力",
+  "规格:A6",
+  "货号:石头纹",
+  "张数:1",
+  "适用孔型:6 孔",
+  "尺寸:180*108",
+  "是否进口:否",
+  "颜色:A6-落日橘海(单张）/A6-桃雾鎏金(单张）/A6-紫雾星河(单张）/金色环（单个）",
+  "主要下游平台:ebay/亚马逊/速卖通/独立站",
+  "是否跨境出口专供货源:是",
+  "是否IP授权:否",
+  "包装种类:基础包装"
+ ],
+ "包装信息": [
+  {
+   "volume": 0,
+   "sku1": "A6-落日橘海(单张）",
+   "length": 0,
+   "width": 0,
+   "weight": 70,
+   "skuId": 6267206063031,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "A6-桃雾鎏金(单张）",
+   "length": 0,
+   "width": 0,
+   "weight": 70,
+   "skuId": 6267206063032,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "A6-紫雾星河(单张）",
+   "length": 0,
+   "width": 0,
+   "weight": 70,
+   "skuId": 6267206063033,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "金色环（单个）",
+   "length": 0,
+   "width": 0,
+   "weight": 15,
+   "skuId": 6267206063034,
+   "height": 0
+  }
+ ],
+ "url": "https://detail.1688.com/offer/1058158858828.html",
+ "核页时间": "2026-10-08T08:22:30.272Z"
+}

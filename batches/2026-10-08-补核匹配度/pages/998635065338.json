@@ -1,0 +1,802 @@
+{
+ "offerId": "998635065338",
+ "条目": "M1342",
+ "block": false,
+ "卖家公司": "山东厚德玻璃制品有限公司",
+ "旺旺名": "厚德玻璃制品",
+ "标题": "外贸现货高硼硅玻璃密封罐竹盖茶叶罐圆形透明储物罐食品级糖果罐",
+ "状态": "PUBLISHED",
+ "类目": "收纳罐、玻璃密封罐",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "颜色",
+   "值": [
+    "5cm*7cm+竹盖 100ml (200/箱)",
+    "5cm*10cm+竹盖 150ml (160/箱)",
+    "5cm*15cm+竹盖 240ml (120/箱)",
+    "5.3cm*7cm+竹盖 115ml (200/箱)",
+    "5.5cm*7cm+竹盖 125ml (200/箱)",
+    "5.5cm*10cm+竹盖 200ml (160/箱)",
+    "5.5cm*15cm+竹盖 300ml (120/箱)",
+    "6.5cm*8cm+竹盖 200ml(200/箱)",
+    "6.5cm*10cm+竹盖 250ml (160/箱)",
+    "6.5cm*12cm+竹盖 300ml (棕盒140/箱 蛋格160/箱)",
+    "6.5cm*15cm+竹盖 400ml(120/箱)",
+    "6.5cm*18cm+竹盖 500ml (80/箱)",
+    "6.5cm*20cm+竹盖 550ml (80/箱)",
+    "8cm*8cm+竹盖 300ml (120/箱)",
+    "8cm*10cm+竹盖 400ml (120/箱)",
+    "8cm*12cm+竹盖 500ml (120/箱)",
+    "8cm*15cm+竹盖 650ml (90/箱)",
+    "8cm*18cm+竹盖 750ml (60/箱)",
+    "8cm*20cm+竹盖 850ml (60/箱)",
+    "8.5cm*10cm+竹盖 450ml (120/箱)",
+    "8.5cm*12cm+竹盖 550ml (120/箱)",
+    "8.5cm*15cm+竹盖 750ml (90/箱)",
+    "8.5cm*18cm+竹盖 900ml (棕盒60/箱 蛋格70/箱)",
+    "8.5cm*20cm+竹盖 1000ml (60/箱)",
+    "10cm*10cm+竹盖 650ml (100/箱)",
+    "10cm*12cm+竹盖 800ml (100/箱)",
+    "10cm*15cm+竹盖 1000ml (75/箱)",
+    "10cm*18cm+竹盖 1250ml (50/箱)",
+    "10cm*20cm+竹盖 1400ml (50/箱)",
+    "10cm*25cm+竹盖 1750ml (50/箱)",
+    "10cm*30cm+竹盖 2100ml (40/箱)",
+    "15cm*10cm+竹盖 1600ml",
+    "15cm*15cm+竹盖 2400ml",
+    "15cm*20cm+竹盖 3200ml",
+    "15cm*25cm+竹盖 4000ml",
+    "15cm*30cm+竹盖 4800ml",
+    "15cm*35cm+竹盖 5600ml",
+    "15cm*40cm+竹盖 6500ml"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "15cm*15cm+竹盖 2400ml",
+   "价格": "22.70",
+   "库存": 9945
+  },
+  {
+   "规格": "8.5cm*18cm+竹盖 900ml (棕盒60/箱 蛋格70/箱)",
+   "价格": "5.26",
+   "库存": 10558
+  },
+  {
+   "规格": "5.5cm*7cm+竹盖 125ml (200/箱)",
+   "价格": "2.48",
+   "库存": 9116
+  },
+  {
+   "规格": "10cm*10cm+竹盖 650ml (100/箱)",
+   "价格": "5.98",
+   "库存": 9394
+  },
+  {
+   "规格": "8cm*8cm+竹盖 300ml (120/箱)",
+   "价格": "3.79",
+   "库存": 7304
+  },
+  {
+   "规格": "15cm*25cm+竹盖 4000ml",
+   "价格": "33.70",
+   "库存": 9869
+  },
+  {
+   "规格": "5cm*10cm+竹盖 150ml (160/箱)",
+   "价格": "2.59",
+   "库存": 99462
+  },
+  {
+   "规格": "6.5cm*20cm+竹盖 550ml (80/箱)",
+   "价格": "3.58",
+   "库存": 9688
+  },
+  {
+   "规格": "8cm*12cm+竹盖 500ml (120/箱)",
+   "价格": "4.59",
+   "库存": 9067
+  },
+  {
+   "规格": "5.5cm*15cm+竹盖 300ml (120/箱)",
+   "价格": "2.86",
+   "库存": 9678
+  },
+  {
+   "规格": "15cm*20cm+竹盖 3200ml",
+   "价格": "28.20",
+   "库存": 9858
+  },
+  {
+   "规格": "5.3cm*7cm+竹盖 115ml (200/箱)",
+   "价格": "2.42",
+   "库存": 9763
+  },
+  {
+   "规格": "5.5cm*10cm+竹盖 200ml (160/箱)",
+   "价格": "2.69",
+   "库存": 9119
+  },
+  {
+   "规格": "10cm*20cm+竹盖 1400ml (50/箱)",
+   "价格": "7.89",
+   "库存": 9105
+  },
+  {
+   "规格": "8cm*20cm+竹盖 850ml (60/箱)",
+   "价格": "5.58",
+   "库存": 9659
+  },
+  {
+   "规格": "6.5cm*8cm+竹盖 200ml(200/箱)",
+   "价格": "2.56",
+   "库存": 7823
+  },
+  {
+   "规格": "8cm*10cm+竹盖 400ml (120/箱)",
+   "价格": "3.96",
+   "库存": 8207
+  },
+  {
+   "规格": "10cm*18cm+竹盖 1250ml (50/箱)",
+   "价格": "7.28",
+   "库存": 9078
+  },
+  {
+   "规格": "15cm*35cm+竹盖 5600ml",
+   "价格": "44.70",
+   "库存": 9989
+  },
+  {
+   "规格": "8.5cm*15cm+竹盖 750ml (90/箱)",
+   "价格": "4.88",
+   "库存": 4131
+  },
+  {
+   "规格": "6.5cm*12cm+竹盖 300ml (棕盒140/箱 蛋格160/箱)",
+   "价格": "2.81",
+   "库存": 8437
+  },
+  {
+   "规格": "8.5cm*12cm+竹盖 550ml (120/箱)",
+   "价格": "4.69",
+   "库存": 9361
+  },
+  {
+   "规格": "8.5cm*20cm+竹盖 1000ml (60/箱)",
+   "价格": "5.58",
+   "库存": 6850
+  },
+  {
+   "规格": "8cm*18cm+竹盖 750ml (60/箱)",
+   "价格": "5.26",
+   "库存": 9476
+  },
+  {
+   "规格": "5cm*7cm+竹盖 100ml (200/箱)",
+   "价格": "2.36",
+   "库存": 927627
+  },
+  {
+   "规格": "10cm*12cm+竹盖 800ml (100/箱)",
+   "价格": "6.16",
+   "库存": 9741
+  },
+  {
+   "规格": "15cm*40cm+竹盖 6500ml",
+   "价格": "50.20",
+   "库存": 9831
+  },
+  {
+   "规格": "15cm*30cm+竹盖 4800ml",
+   "价格": "39.20",
+   "库存": 9908
+  },
+  {
+   "规格": "8.5cm*10cm+竹盖 450ml (120/箱)",
+   "价格": "4.18",
+   "库存": 9443
+  },
+  {
+   "规格": "10cm*25cm+竹盖 1750ml (50/箱)",
+   "价格": "8.36",
+   "库存": 9102
+  },
+  {
+   "规格": "5cm*15cm+竹盖 240ml (120/箱)",
+   "价格": "2.78",
+   "库存": 9799
+  },
+  {
+   "规格": "10cm*30cm+竹盖 2100ml (40/箱)",
+   "价格": "9.69",
+   "库存": 9030
+  },
+  {
+   "规格": "6.5cm*15cm+竹盖 400ml(120/箱)",
+   "价格": "2.97",
+   "库存": 9046
+  },
+  {
+   "规格": "8cm*15cm+竹盖 650ml (90/箱)",
+   "价格": "4.78",
+   "库存": 9283
+  },
+  {
+   "规格": "6.5cm*18cm+竹盖 500ml (80/箱)",
+   "价格": "3.28",
+   "库存": 9404
+  },
+  {
+   "规格": "6.5cm*10cm+竹盖 250ml (160/箱)",
+   "价格": "2.71",
+   "库存": 8725
+  },
+  {
+   "规格": "10cm*15cm+竹盖 1000ml (75/箱)",
+   "价格": "6.89",
+   "库存": 9251
+  },
+  {
+   "规格": "15cm*10cm+竹盖 1600ml",
+   "价格": "17.20",
+   "库存": 9972
+  }
+ ],
+ "规格图": [
+  [
+   "5cm*7cm+竹盖 100ml (200/箱)",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01v9ecd02KLpdyADrpA_!!2211360639541-0-cib.jpg"
+  ],
+  [
+   "5cm*10cm+竹盖 150ml (160/箱)",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01HE5m1c2KLpe1ludcB_!!2211360639541-0-cib.jpg"
+  ],
+  [
+   "5cm*15cm+竹盖 240ml (120/箱)",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01b3U2Ab2KLpdzsrCWh_!!2211360639541-0-cib.jpg"
+  ],
+  [
+   "5.3cm*7cm+竹盖 115ml (200/箱)",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01lAeG2D2KLpoAcpvFF_!!2211360639541-0-cib.jpg"
+  ],
+  [
+   "5.5cm*7cm+竹盖 125ml (200/箱)",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01CIM6tT2KLpdwNfEp4_!!2211360639541-0-cib.jpg"
+  ],
+  [
+   "5.5cm*10cm+竹盖 200ml (160/箱)",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01kXea5J2KLpdsNTHvi_!!2211360639541-0-cib.jpg"
+  ],
+  [
+   "5.5cm*15cm+竹盖 300ml (120/箱)",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01s7J0CR2KLpe3r0TFY_!!2211360639541-0-cib.jpg"
+  ],
+  [
+   "6.5cm*8cm+竹盖 200ml(200/箱)",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01BPtRx52KLpdrcL3h8_!!2211360639541-0-cib.jpg"
+  ],
+  [
+   "6.5cm*10cm+竹盖 250ml (160/箱)",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01bUlmb72KLpdwNeQwI_!!2211360639541-0-cib.jpg"
+  ],
+  [
+   "6.5cm*12cm+竹盖 300ml (棕盒140/箱 蛋格160/箱)",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01QFJuuW2KLpdlMj1bB_!!2211360639541-0-cib.jpg"
+  ],
+  [
+   "6.5cm*15cm+竹盖 400ml(120/箱)",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01U832Gv2KLpdrcKFnn_!!2211360639541-0-cib.jpg"
+  ],
+  [
+   "6.5cm*18cm+竹盖 500ml (80/箱)",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01wf5qlk2KLpdvPUF0h_!!2211360639541-0-cib.jpg"
+  ],
+  [
+   "6.5cm*20cm+竹盖 550ml (80/箱)",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01HG7y4a2KLpe3r0fk9_!!2211360639541-0-cib.jpg"
+  ],
+  [
+   "8cm*8cm+竹盖 300ml (120/箱)",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01VbPAhA2KLpdyAC7kl_!!2211360639541-0-cib.jpg"
+  ],
+  [
+   "8cm*10cm+竹盖 400ml (120/箱)",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01MG5Ml62KLpe30zGcx_!!2211360639541-0-cib.jpg"
+  ],
+  [
+   "8cm*12cm+竹盖 500ml (120/箱)",
+   "https://cbu01.alicdn.com/img/ibank/O1CN0171FNGn2KLpdudXveI_!!2211360639541-0-cib.jpg"
+  ],
+  [
+   "8cm*15cm+竹盖 650ml (90/箱)",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01cKxP5g2KLpdvPTIpM_!!2211360639541-0-cib.jpg"
+  ],
+  [
+   "8cm*18cm+竹盖 750ml (60/箱)",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01ZDKoln2KLpe0zjgpN_!!2211360639541-0-cib.jpg"
+  ],
+  [
+   "8cm*20cm+竹盖 850ml (60/箱)",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01NCJ3B02KLpdwNellL_!!2211360639541-0-cib.jpg"
+  ],
+  [
+   "8.5cm*10cm+竹盖 450ml (120/箱)",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01fMTI6z2KLpdvPTIo9_!!2211360639541-0-cib.jpg"
+  ],
+  [
+   "8.5cm*12cm+竹盖 550ml (120/箱)",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01wGkui92KLpdlMjMOr_!!2211360639541-0-cib.jpg"
+  ],
+  [
+   "8.5cm*15cm+竹盖 750ml (90/箱)",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01O77LgG2KLpe30zGcC_!!2211360639541-0-cib.jpg"
+  ],
+  [
+   "8.5cm*18cm+竹盖 900ml (棕盒60/箱 蛋格70/箱)",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01ZBmdrp2KLpdwNe6BT_!!2211360639541-0-cib.jpg"
+  ],
+  [
+   "8.5cm*20cm+竹盖 1000ml (60/箱)",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01oaQqeo2KLpdwNdhGC_!!2211360639541-0-cib.jpg"
+  ],
+  [
+   "10cm*10cm+竹盖 650ml (100/箱)",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01DWqCbj2KLpe0zjkzZ_!!2211360639541-0-cib.jpg"
+  ],
+  [
+   "10cm*12cm+竹盖 800ml (100/箱)",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01uzb69G2KLpdudXrWE_!!2211360639541-0-cib.jpg"
+  ],
+  [
+   "10cm*15cm+竹盖 1000ml (75/箱)",
+   "https://cbu01.alicdn.com/img/ibank/O1CN019dH3kv2KLpe30zXGH_!!2211360639541-0-cib.jpg"
+  ],
+  [
+   "10cm*18cm+竹盖 1250ml (50/箱)",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01zwG2O82KLpdwNgFHW_!!2211360639541-0-cib.jpg"
+  ],
+  [
+   "10cm*20cm+竹盖 1400ml (50/箱)",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01jK6vr52KLpe1lty41_!!2211360639541-0-cib.jpg"
+  ],
+  [
+   "10cm*25cm+竹盖 1750ml (50/箱)",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01Ae27942KLpdz5qhCX_!!2211360639541-0-cib.jpg"
+  ],
+  [
+   "10cm*30cm+竹盖 2100ml (40/箱)",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01ZC1Yz22KLpe312HlV_!!2211360639541-0-cib.jpg"
+  ],
+  [
+   "15cm*10cm+竹盖 1600ml",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01xOxEqx2KLpj9Z1gYg_!!2211360639541-0-cib.jpg"
+  ],
+  [
+   "15cm*15cm+竹盖 2400ml",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01dC5JSA2KLpjDPQsI7_!!2211360639541-0-cib.jpg"
+  ],
+  [
+   "15cm*20cm+竹盖 3200ml",
+   "https://cbu01.alicdn.com/img/ibank/O1CN010bnDfL2KLpj9Z25WP_!!2211360639541-0-cib.jpg"
+  ],
+  [
+   "15cm*25cm+竹盖 4000ml",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01Js8rdZ2KLpjDanWaE_!!2211360639541-0-cib.jpg"
+  ],
+  [
+   "15cm*30cm+竹盖 4800ml",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01p2fcCs2KLpjEdcraP_!!2211360639541-0-cib.jpg"
+  ],
+  [
+   "15cm*35cm+竹盖 5600ml",
+   "https://cbu01.alicdn.com/img/ibank/O1CN013bJmWx2KLpjDRmMNx_!!2211360639541-0-cib.jpg"
+  ],
+  [
+   "15cm*40cm+竹盖 6500ml",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01dGh3Bu2KLpjI2yyZp_!!2211360639541-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "skuPrice",
+ "价格区间": null,
+ "阶梯价_登录后": [
+  {
+   "price": "2.36",
+   "beginAmount": 1
+  },
+  {
+   "price": "50.20",
+   "beginAmount": 1
+  }
+ ],
+ "到手价": null,
+ "起订量": 1,
+ "单位": "个",
+ "可售总量": 1355099,
+ "已售": 135482,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01eW7DBUmlGiJ2XrKe_!!2211360639541-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01y20iqA2KLpyRBIoui_!!2211360639541-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01ElRwcl69tXF2XrKe_!!2211360639541-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN018oyq9YAauxJ2XrKe_!!2211360639541-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01CqnFXj2KLpyGZrgHe_!!2211360639541-0-cib.jpg"
+ ],
+ "商品属性": [
+  "材质:玻璃",
+  "容量:1000",
+  "品牌:厚德玻璃",
+  "风格:现代简约风",
+  "是否进口:否",
+  "产品上市时间:2021年夏",
+  "打样:支持打样",
+  "规格:多种规格",
+  "图案:纯色",
+  "外箱规格:标准",
+  "箱装数量:常规",
+  "用途:包装储存收纳展示",
+  "专利:否",
+  "货号:HD66666755",
+  "毛重:标准",
+  "颜色:5cm*7cm+竹盖 100ml (200/箱)/5cm*10cm+竹盖 150ml (160/箱)/5cm*15cm+竹盖 240ml (120/箱)/5.3cm*7cm+竹盖 115ml (200/箱)/5.5cm*7cm+竹盖 125ml (200/箱)/5.5cm*10cm+竹盖 200ml (160/箱)/5.5cm*15cm+竹盖 300ml (120/箱)/6.5cm*8cm+竹盖 200ml(200/箱)/6.5cm*10cm+竹盖 250ml (160/箱)/6.5cm*12cm+竹盖 300ml (棕盒140/箱 蛋格160/箱)/6.5cm*15cm+竹盖 400ml(120/箱)/6.5cm*18cm+竹盖 500ml (80/箱)/6.5cm*20cm+竹盖 550ml (80/箱)/8cm*8cm+竹盖 300ml (120/箱)/8cm*10cm+竹盖 400ml (120/箱)/8cm*12cm+竹盖 500ml (120/箱)/8cm*15cm+竹盖 650ml (90/箱)/8cm*18cm+竹盖 750ml (60/箱)/8cm*20cm+竹盖 850ml (60/箱)/8.5cm*10cm+竹盖 450ml (120/箱)/8.5cm*12cm+竹盖 550ml (120/箱)/8.5cm*15cm+竹盖 750ml (90/箱)/8.5cm*18cm+竹盖 900ml (棕盒60/箱 蛋格70/箱)/8.5cm*20cm+竹盖 1000ml (60/箱)/10cm*10cm+竹盖 650ml (100/箱)/10cm*12cm+竹盖 800ml (100/箱)/10cm*15cm+竹盖 1000ml (75/箱)/10cm*18cm+竹盖 1250ml (50/箱)/10cm*20cm+竹盖 1400ml (50/箱)/10cm*25cm+竹盖 1750ml (50/箱)/10cm*30cm+竹盖 2100ml (40/箱)/15cm*10cm+竹盖 1600ml/15cm*15cm+竹盖 2400ml/15cm*20cm+竹盖 3200ml/15cm*25cm+竹盖 4000ml/15cm*30cm+竹盖 4800ml/15cm*35cm+竹盖 5600ml/15cm*40cm+竹盖 6500ml",
+  "主要下游平台:ebay/亚马逊/wish/速卖通/独立站/LAZADA/其他",
+  "主要销售地区:欧洲/南美/北美/中东",
+  "有可授权的自有品牌:是",
+  "是否跨境出口专供货源:是",
+  "盖子类型:竹木盖硅胶圈",
+  "玻璃材质:高硼硅玻璃",
+  "适用场景:收纳包装储物展示",
+  "表面纹理:透明",
+  "刻度标记:无",
+  "特点:耐高温、耐酸碱",
+  "食品级:是",
+  "配件:竹木盖、硅胶圈"
+ ],
+ "包装信息": [
+  {
+   "volume": 559.545,
+   "sku1": "5cm*7cm+竹盖 100ml (200/箱)",
+   "length": 7.3,
+   "width": 7.3,
+   "weight": 89,
+   "skuId": 6147444067127,
+   "height": 10.5
+  },
+  {
+   "volume": 666.125,
+   "sku1": "5cm*10cm+竹盖 150ml (160/箱)",
+   "length": 7.3,
+   "width": 7.3,
+   "weight": 112,
+   "skuId": 6147444067128,
+   "height": 12.5
+  },
+  {
+   "volume": 932.575,
+   "sku1": "5cm*15cm+竹盖 240ml (120/箱)",
+   "length": 7.3,
+   "width": 7.3,
+   "weight": 155,
+   "skuId": 6147444067129,
+   "height": 17.5
+  },
+  {
+   "volume": 559.545,
+   "sku1": "5.3cm*7cm+竹盖 115ml (200/箱)",
+   "length": 7.3,
+   "width": 7.3,
+   "weight": 95,
+   "skuId": 6147444067130,
+   "height": 10.5
+  },
+  {
+   "volume": 559.545,
+   "sku1": "5.5cm*7cm+竹盖 125ml (200/箱)",
+   "length": 7.3,
+   "width": 7.3,
+   "weight": 98,
+   "skuId": 6147444067131,
+   "height": 10.5
+  },
+  {
+   "volume": 666.125,
+   "sku1": "5.5cm*10cm+竹盖 200ml (160/箱)",
+   "length": 7.3,
+   "width": 7.3,
+   "weight": 122,
+   "skuId": 6147444067132,
+   "height": 12.5
+  },
+  {
+   "volume": 932.575,
+   "sku1": "5.5cm*15cm+竹盖 300ml (120/箱)",
+   "length": 7.3,
+   "width": 7.3,
+   "weight": 169,
+   "skuId": 6147444067133,
+   "height": 17.5
+  },
+  {
+   "volume": 559.545,
+   "sku1": "6.5cm*8cm+竹盖 200ml(200/箱)",
+   "length": 7.3,
+   "width": 7.3,
+   "weight": 132,
+   "skuId": 6147444067134,
+   "height": 10.5
+  },
+  {
+   "volume": 666.125,
+   "sku1": "6.5cm*10cm+竹盖 250ml (160/箱)",
+   "length": 7.3,
+   "width": 7.3,
+   "weight": 152,
+   "skuId": 6147444067135,
+   "height": 12.5
+  },
+  {
+   "volume": 772.705,
+   "sku1": "6.5cm*12cm+竹盖 300ml (棕盒140/箱 蛋格160/箱)",
+   "length": 7.3,
+   "width": 7.3,
+   "weight": 175,
+   "skuId": 6147444067136,
+   "height": 14.5
+  },
+  {
+   "volume": 932.575,
+   "sku1": "6.5cm*15cm+竹盖 400ml(120/箱)",
+   "length": 7.3,
+   "width": 7.3,
+   "weight": 206,
+   "skuId": 6147444067137,
+   "height": 17.5
+  },
+  {
+   "volume": 1092.445,
+   "sku1": "6.5cm*18cm+竹盖 500ml (80/箱)",
+   "length": 7.3,
+   "width": 7.3,
+   "weight": 233,
+   "skuId": 6147444067138,
+   "height": 20.5
+  },
+  {
+   "volume": 1199.025,
+   "sku1": "6.5cm*20cm+竹盖 550ml (80/箱)",
+   "length": 7.3,
+   "width": 7.3,
+   "weight": 250,
+   "skuId": 6147444067139,
+   "height": 22.5
+  },
+  {
+   "volume": 908.145,
+   "sku1": "8cm*8cm+竹盖 300ml (120/箱)",
+   "length": 9.3,
+   "width": 9.3,
+   "weight": 183,
+   "skuId": 6147444067140,
+   "height": 10.5
+  },
+  {
+   "volume": 1081.125,
+   "sku1": "8cm*10cm+竹盖 400ml (120/箱)",
+   "length": 9.3,
+   "width": 9.3,
+   "weight": 206,
+   "skuId": 6147444067141,
+   "height": 12.5
+  },
+  {
+   "volume": 1254.105,
+   "sku1": "8cm*12cm+竹盖 500ml (120/箱)",
+   "length": 9.3,
+   "width": 9.3,
+   "weight": 232,
+   "skuId": 6147444067142,
+   "height": 14.5
+  },
+  {
+   "volume": 1513.575,
+   "sku1": "8cm*15cm+竹盖 650ml (90/箱)",
+   "length": 9.3,
+   "width": 9.3,
+   "weight": 266,
+   "skuId": 6147444067143,
+   "height": 17.5
+  },
+  {
+   "volume": 1773.045,
+   "sku1": "8cm*18cm+竹盖 750ml (60/箱)",
+   "length": 9.3,
+   "width": 9.3,
+   "weight": 301,
+   "skuId": 6147444067144,
+   "height": 20.5
+  },
+  {
+   "volume": 1946.025,
+   "sku1": "8cm*20cm+竹盖 850ml (60/箱)",
+   "length": 9.3,
+   "width": 9.3,
+   "weight": 328,
+   "skuId": 6147444067145,
+   "height": 22.5
+  },
+  {
+   "volume": 1081.125,
+   "sku1": "8.5cm*10cm+竹盖 450ml (120/箱)",
+   "length": 9.3,
+   "width": 9.3,
+   "weight": 218,
+   "skuId": 6147444067146,
+   "height": 12.5
+  },
+  {
+   "volume": 1254.105,
+   "sku1": "8.5cm*12cm+竹盖 550ml (120/箱)",
+   "length": 9.3,
+   "width": 9.3,
+   "weight": 245,
+   "skuId": 6147444067147,
+   "height": 14.5
+  },
+  {
+   "volume": 1513.575,
+   "sku1": "8.5cm*15cm+竹盖 750ml (90/箱)",
+   "length": 9.3,
+   "width": 9.3,
+   "weight": 281,
+   "skuId": 6147444067148,
+   "height": 17.5
+  },
+  {
+   "volume": 1773.045,
+   "sku1": "8.5cm*18cm+竹盖 900ml (棕盒60/箱 蛋格70/箱)",
+   "length": 9.3,
+   "width": 9.3,
+   "weight": 319,
+   "skuId": 6147444067149,
+   "height": 20.5
+  },
+  {
+   "volume": 1946.025,
+   "sku1": "8.5cm*20cm+竹盖 1000ml (60/箱)",
+   "length": 9.3,
+   "width": 9.3,
+   "weight": 347,
+   "skuId": 6147444067150,
+   "height": 22.5
+  },
+  {
+   "volume": 1431.125,
+   "sku1": "10cm*10cm+竹盖 650ml (100/箱)",
+   "length": 10.7,
+   "width": 10.7,
+   "weight": 299,
+   "skuId": 6147444067151,
+   "height": 12.5
+  },
+  {
+   "volume": 1660.105,
+   "sku1": "10cm*12cm+竹盖 800ml (100/箱)",
+   "length": 10.7,
+   "width": 10.7,
+   "weight": 328,
+   "skuId": 6147444067152,
+   "height": 14.5
+  },
+  {
+   "volume": 2003.575,
+   "sku1": "10cm*15cm+竹盖 1000ml (75/箱)",
+   "length": 10.7,
+   "width": 10.7,
+   "weight": 375,
+   "skuId": 6147444067153,
+   "height": 17.5
+  },
+  {
+   "volume": 2347.045,
+   "sku1": "10cm*18cm+竹盖 1250ml (50/箱)",
+   "length": 10.7,
+   "width": 10.7,
+   "weight": 423,
+   "skuId": 6147444067154,
+   "height": 20.5
+  },
+  {
+   "volume": 2576.025,
+   "sku1": "10cm*20cm+竹盖 1400ml (50/箱)",
+   "length": 10.7,
+   "width": 10.7,
+   "weight": 460,
+   "skuId": 6147444067155,
+   "height": 22.5
+  },
+  {
+   "volume": 3148.475,
+   "sku1": "10cm*25cm+竹盖 1750ml (50/箱)",
+   "length": 10.7,
+   "width": 10.7,
+   "weight": 539,
+   "skuId": 6147444067156,
+   "height": 27.5
+  },
+  {
+   "volume": 3720.925,
+   "sku1": "10cm*30cm+竹盖 2100ml (40/箱)",
+   "length": 10.7,
+   "width": 10.7,
+   "weight": 615,
+   "skuId": 6147444067157,
+   "height": 32.5
+  },
+  {
+   "volume": 3267,
+   "sku1": "15cm*10cm+竹盖 1600ml",
+   "length": 16.5,
+   "width": 16.5,
+   "weight": 625,
+   "skuId": 6147444067158,
+   "height": 12
+  },
+  {
+   "volume": 4628.25,
+   "sku1": "15cm*15cm+竹盖 2400ml",
+   "length": 16.5,
+   "width": 16.5,
+   "weight": 787,
+   "skuId": 6147444067159,
+   "height": 17
+  },
+  {
+   "volume": 5989.5,
+   "sku1": "15cm*20cm+竹盖 3200ml",
+   "length": 16.5,
+   "width": 16.5,
+   "weight": 950,
+   "skuId": 6147444067160,
+   "height": 22
+  },
+  {
+   "volume": 7350.75,
+   "sku1": "15cm*25cm+竹盖 4000ml",
+   "length": 16.5,
+   "width": 16.5,
+   "weight": 1115,
+   "skuId": 6147444067161,
+   "height": 27
+  },
+  {
+   "volume": 8712,
+   "sku1": "15cm*30cm+竹盖 4800ml",
+   "length": 16.5,
+   "width": 16.5,
+   "weight": 1277,
+   "skuId": 6147444067162,
+   "height": 32
+  },
+  {
+   "volume": 10073.25,
+   "sku1": "15cm*35cm+竹盖 5600ml",
+   "length": 16.5,
+   "width": 16.5,
+   "weight": 1436,
+   "skuId": 6147444067163,
+   "height": 37
+  },
+  {
+   "volume": 11434.5,
+   "sku1": "15cm*40cm+竹盖 6500ml",
+   "length": 16.5,
+   "width": 16.5,
+   "weight": 1596,
+   "skuId": 6147444067164,
+   "height": 42
+  }
+ ],
+ "url": "https://detail.1688.com/offer/998635065338.html",
+ "核页时间": "2026-10-08T09:08:56.312Z"
+}

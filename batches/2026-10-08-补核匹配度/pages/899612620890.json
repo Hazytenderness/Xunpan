@@ -1,0 +1,680 @@
+{
+ "offerId": "899612620890",
+ "条目": "M2043",
+ "block": false,
+ "卖家公司": "义乌市衣享家居用品有限公司",
+ "旺旺名": "义乌市衣享",
+ "标题": "衣享宿舍爆款衣架加粗防滑款成人金属家用无痕衣撑多功能晾晒批发",
+ "状态": "PUBLISHED",
+ "类目": "衣架",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "颜色",
+   "值": [
+    "40g普通款北欧蓝",
+    "40g普通款北欧紫",
+    "40g普通款北欧粉",
+    "40g普通款北欧绿",
+    "40g普通款灰色",
+    "40g普通款白色",
+    "40g普通款黑色",
+    "40g普通款卡其色",
+    "40g普通款蓝色",
+    "40g普通款红色",
+    "40g普通款金色",
+    "40g普通款莫兰迪绿",
+    "40g普通款莫兰迪蓝",
+    "40g普通款莫兰迪粉",
+    "50g加粗款灰色",
+    "50g加粗款北欧蓝",
+    "50g加粗款北欧紫",
+    "50g加粗款北欧绿",
+    "50g加粗款北欧粉",
+    "50g加粗款黑色",
+    "50g加粗款白色",
+    "50g加粗款莫兰迪绿",
+    "70g特粗款灰色",
+    "70g特粗款北欧蓝",
+    "70g特粗款北欧绿",
+    "70g特粗款北欧粉",
+    "70g特粗款黑色",
+    "70g特粗款白色",
+    "30g儿童款北欧粉",
+    "30g儿童款北欧绿",
+    "30g儿童款北欧紫",
+    "30g儿童款北欧蓝"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "50g加粗款莫兰迪绿",
+   "价格": "0.46",
+   "库存": 9563802
+  },
+  {
+   "规格": "40g普通款北欧粉",
+   "价格": "0.34",
+   "库存": 9552912
+  },
+  {
+   "规格": "30g儿童款北欧蓝",
+   "价格": "0.32",
+   "库存": 9562822
+  },
+  {
+   "规格": "50g加粗款北欧紫",
+   "价格": "0.46",
+   "库存": 9562782
+  },
+  {
+   "规格": "40g普通款蓝色",
+   "价格": "0.34",
+   "库存": 9562952
+  },
+  {
+   "规格": "70g特粗款北欧绿",
+   "价格": "0.58",
+   "库存": 9563512
+  },
+  {
+   "规格": "30g儿童款北欧粉",
+   "价格": "0.32",
+   "库存": 9563042
+  },
+  {
+   "规格": "50g加粗款北欧绿",
+   "价格": "0.46",
+   "库存": 9551592
+  },
+  {
+   "规格": "70g特粗款白色",
+   "价格": "0.58",
+   "库存": 9459752
+  },
+  {
+   "规格": "50g加粗款黑色",
+   "价格": "0.46",
+   "库存": 9562552
+  },
+  {
+   "规格": "50g加粗款灰色",
+   "价格": "0.46",
+   "库存": 9563452
+  },
+  {
+   "规格": "50g加粗款北欧粉",
+   "价格": "0.46",
+   "库存": 9562982
+  },
+  {
+   "规格": "40g普通款卡其色",
+   "价格": "0.34",
+   "库存": 9561602
+  },
+  {
+   "规格": "40g普通款北欧绿",
+   "价格": "0.34",
+   "库存": 9560632
+  },
+  {
+   "规格": "30g儿童款北欧绿",
+   "价格": "0.32",
+   "库存": 9563382
+  },
+  {
+   "规格": "40g普通款白色",
+   "价格": "0.34",
+   "库存": 9551022
+  },
+  {
+   "规格": "40g普通款北欧紫",
+   "价格": "0.34",
+   "库存": 9555322
+  },
+  {
+   "规格": "70g特粗款灰色",
+   "价格": "0.58",
+   "库存": 9563442
+  },
+  {
+   "规格": "40g普通款莫兰迪蓝",
+   "价格": "0.34",
+   "库存": 9563122
+  },
+  {
+   "规格": "70g特粗款黑色",
+   "价格": "0.58",
+   "库存": 9563282
+  },
+  {
+   "规格": "40g普通款红色",
+   "价格": "0.34",
+   "库存": 9562472
+  },
+  {
+   "规格": "70g特粗款北欧蓝",
+   "价格": "0.58",
+   "库存": 9562202
+  },
+  {
+   "规格": "40g普通款灰色",
+   "价格": "0.34",
+   "库存": 9561442
+  },
+  {
+   "规格": "70g特粗款北欧粉",
+   "价格": "0.58",
+   "库存": 9562592
+  },
+  {
+   "规格": "40g普通款金色",
+   "价格": "0.34",
+   "库存": 9562752
+  },
+  {
+   "规格": "50g加粗款北欧蓝",
+   "价格": "0.46",
+   "库存": 9562162
+  },
+  {
+   "规格": "40g普通款莫兰迪绿",
+   "价格": "0.34",
+   "库存": 9562932
+  },
+  {
+   "规格": "40g普通款黑色",
+   "价格": "0.34",
+   "库存": 9265242
+  },
+  {
+   "规格": "30g儿童款北欧紫",
+   "价格": "0.32",
+   "库存": 9563662
+  },
+  {
+   "规格": "50g加粗款白色",
+   "价格": "0.46",
+   "库存": 9553982
+  },
+  {
+   "规格": "40g普通款北欧蓝",
+   "价格": "0.34",
+   "库存": 9470342
+  },
+  {
+   "规格": "40g普通款莫兰迪粉",
+   "价格": "0.34",
+   "库存": 9563172
+  }
+ ],
+ "规格图": [
+  [
+   "40g普通款北欧蓝",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01zSLb6C1THYZJ2LOmB_!!2219516862357-0-cib.jpg"
+  ],
+  [
+   "40g普通款北欧紫",
+   "https://cbu01.alicdn.com/img/ibank/O1CN019W5HUB1THYZI5nUtD_!!2219516862357-0-cib.jpg"
+  ],
+  [
+   "40g普通款北欧粉",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01lgQd1g1THYZIcZnRn_!!2219516862357-0-cib.jpg"
+  ],
+  [
+   "40g普通款北欧绿",
+   "https://cbu01.alicdn.com/img/ibank/O1CN019FjQon1THYZHgXRhS_!!2219516862357-0-cib.jpg"
+  ],
+  [
+   "40g普通款灰色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01CvXo481THYZFMRm0k_!!2219516862357-0-cib.jpg"
+  ],
+  [
+   "40g普通款白色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01Te8KwU1THYZGecHRQ_!!2219516862357-0-cib.jpg"
+  ],
+  [
+   "40g普通款黑色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01cK7AIo1THYZI5oZV7_!!2219516862357-0-cib.jpg"
+  ],
+  [
+   "40g普通款卡其色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01EZjTpk1THYZGhIr6N_!!2219516862357-0-cib.jpg"
+  ],
+  [
+   "40g普通款蓝色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01UNifBb1THYZI8IW4W_!!2219516862357-0-cib.jpg"
+  ],
+  [
+   "40g普通款红色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01UpP8JA1THYZFMSmTH_!!2219516862357-0-cib.jpg"
+  ],
+  [
+   "40g普通款金色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01yLdq7x1THYZFVhdul_!!2219516862357-0-cib.jpg"
+  ],
+  [
+   "40g普通款莫兰迪绿",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01icHnox1THYZEjrIrm_!!2219516862357-0-cib.jpg"
+  ],
+  [
+   "40g普通款莫兰迪蓝",
+   "https://cbu01.alicdn.com/img/ibank/O1CN012UBAqz1THYZASlKJl_!!2219516862357-0-cib.jpg"
+  ],
+  [
+   "40g普通款莫兰迪粉",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01gVg8461THYZHIuLbY_!!2219516862357-0-cib.jpg"
+  ],
+  [
+   "50g加粗款灰色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01gPRkQY1THYZGedtRo_!!2219516862357-0-cib.jpg"
+  ],
+  [
+   "50g加粗款北欧蓝",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01wcB1ig1THYZGefASt_!!2219516862357-0-cib.jpg"
+  ],
+  [
+   "50g加粗款北欧紫",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01hk3Eg91THYZIcckji_!!2219516862357-0-cib.jpg"
+  ],
+  [
+   "50g加粗款北欧绿",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01aO4f181THYZHIvHvc_!!2219516862357-0-cib.jpg"
+  ],
+  [
+   "50g加粗款北欧粉",
+   "https://cbu01.alicdn.com/img/ibank/O1CN014rHV291THYZFMWCkY_!!2219516862357-0-cib.jpg"
+  ],
+  [
+   "50g加粗款黑色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01CHifEz1THYZGhN1E2_!!2219516862357-0-cib.jpg"
+  ],
+  [
+   "50g加粗款白色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01xqY1fk1THYZI8N55z_!!2219516862357-0-cib.jpg"
+  ],
+  [
+   "50g加粗款莫兰迪绿",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01Bgg9ZL1THYZFMXsmE_!!2219516862357-0-cib.jpg"
+  ],
+  [
+   "70g特粗款灰色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01kN2yUp1THYZI5yhta_!!2219516862357-0-cib.jpg"
+  ],
+  [
+   "70g特粗款北欧蓝",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01gPtjsU1THYZI5xV7U_!!2219516862357-0-cib.jpg"
+  ],
+  [
+   "70g特粗款北欧绿",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01emVtPM1THYZHJ30We_!!2219516862357-0-cib.jpg"
+  ],
+  [
+   "70g特粗款北欧粉",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01Z16kf11THYZEjzpOa_!!2219516862357-0-cib.jpg"
+  ],
+  [
+   "70g特粗款黑色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01LAD1jy1THYZHVEdV7_!!2219516862357-0-cib.jpg"
+  ],
+  [
+   "70g特粗款白色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01hrg8TD1THYZI8V05o_!!2219516862357-0-cib.jpg"
+  ],
+  [
+   "30g儿童款北欧粉",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01MNI9VC1THYZGSyvbz_!!2219516862357-0-cib.jpg"
+  ],
+  [
+   "30g儿童款北欧绿",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01OSMzgu1THYZHgjfJi_!!2219516862357-0-cib.jpg"
+  ],
+  [
+   "30g儿童款北欧紫",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01WZ41vw1THYZFVryxE_!!2219516862357-0-cib.jpg"
+  ],
+  [
+   "30g儿童款北欧蓝",
+   "https://cbu01.alicdn.com/img/ibank/O1CN019Nugrn1THYZIcmDa7_!!2219516862357-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "skuPrice",
+ "价格区间": "0.32-0.58",
+ "阶梯价_登录后": [
+  {
+   "price": "0.32",
+   "beginAmount": 10
+  },
+  {
+   "price": "0.58",
+   "beginAmount": 10
+  }
+ ],
+ "到手价": {
+  "价": "0.12",
+  "说明": "新人价",
+  "件数": 10
+ },
+ "起订量": 10,
+ "单位": "个",
+ "可售总量": 305466914,
+ "已售": 422620,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01mx0hsp1THYZHKqJmO_!!2219516862357-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01sQ0j9d1THYZHKtPFU_!!2219516862357-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01hkEsBX1THYZHKv5D5_!!2219516862357-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01hpAumj1THYZIAPlIP_!!2219516862357-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01ICVLdN1THYZFUNKv5_!!2219516862357-0-cib.jpg"
+ ],
+ "商品属性": [
+  "材质:金属",
+  "品牌:衣享",
+  "产品类别:衣架",
+  "包装数量:10只装",
+  "是否进口:否",
+  "形象:其它",
+  "产地:浙江",
+  "产品上市时间:2024年3月",
+  "货号:铁丝衣架",
+  "加工定制:否",
+  "箱装数量:400",
+  "颜色:40g普通款北欧蓝/40g普通款北欧紫/40g普通款北欧粉/40g普通款北欧绿/40g普通款灰色/40g普通款白色/40g普通款黑色/40g普通款卡其色/40g普通款蓝色/40g普通款红色/40g普通款金色/40g普通款莫兰迪绿/40g普通款莫兰迪蓝/40g普通款莫兰迪粉/50g加粗款灰色/50g加粗款北欧蓝/50g加粗款北欧紫/50g加粗款北欧绿/50g加粗款北欧粉/50g加粗款黑色/50g加粗款白色/50g加粗款莫兰迪绿/70g特粗款灰色/70g特粗款北欧蓝/70g特粗款北欧绿/70g特粗款北欧粉/70g特粗款黑色/70g特粗款白色/30g儿童款北欧粉/30g儿童款北欧绿/30g儿童款北欧紫/30g儿童款北欧蓝",
+  "是否跨境出口专供货源:否",
+  "风格:现代简约",
+  "是否有专利:否",
+  "版权:无"
+ ],
+ "包装信息": [
+  {
+   "volume": 0,
+   "sku1": "40g普通款北欧蓝",
+   "length": 0,
+   "width": 0,
+   "weight": 42,
+   "skuId": 5754897817228,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "40g普通款北欧紫",
+   "length": 0,
+   "width": 0,
+   "weight": 42,
+   "skuId": 5754897817229,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "40g普通款北欧粉",
+   "length": 0,
+   "width": 0,
+   "weight": 42,
+   "skuId": 5754897817230,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "40g普通款北欧绿",
+   "length": 0,
+   "width": 0,
+   "weight": 42,
+   "skuId": 5754897817231,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "40g普通款灰色",
+   "length": 0,
+   "width": 0,
+   "weight": 42,
+   "skuId": 5754897817232,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "40g普通款白色",
+   "length": 0,
+   "width": 0,
+   "weight": 42,
+   "skuId": 5754897817233,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "40g普通款黑色",
+   "length": 0,
+   "width": 0,
+   "weight": 42,
+   "skuId": 5754897817234,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "40g普通款卡其色",
+   "length": 0,
+   "width": 0,
+   "weight": 42,
+   "skuId": 5754897817235,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "40g普通款蓝色",
+   "length": 0,
+   "width": 0,
+   "weight": 42,
+   "skuId": 5754897817236,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "40g普通款红色",
+   "length": 0,
+   "width": 0,
+   "weight": 42,
+   "skuId": 5754897817237,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "40g普通款金色",
+   "length": 0,
+   "width": 0,
+   "weight": 42,
+   "skuId": 5754897817238,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "40g普通款莫兰迪绿",
+   "length": 0,
+   "width": 0,
+   "weight": 42,
+   "skuId": 5754897817239,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "40g普通款莫兰迪蓝",
+   "length": 0,
+   "width": 0,
+   "weight": 42,
+   "skuId": 5754897817240,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "40g普通款莫兰迪粉",
+   "length": 0,
+   "width": 0,
+   "weight": 42,
+   "skuId": 5754897817241,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "50g加粗款灰色",
+   "length": 0,
+   "width": 0,
+   "weight": 52,
+   "skuId": 5754897817242,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "50g加粗款北欧蓝",
+   "length": 0,
+   "width": 0,
+   "weight": 52,
+   "skuId": 5754897817243,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "50g加粗款北欧紫",
+   "length": 0,
+   "width": 0,
+   "weight": 52,
+   "skuId": 5754897817244,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "50g加粗款北欧绿",
+   "length": 0,
+   "width": 0,
+   "weight": 52,
+   "skuId": 5754897817245,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "50g加粗款北欧粉",
+   "length": 0,
+   "width": 0,
+   "weight": 52,
+   "skuId": 5754897817246,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "50g加粗款黑色",
+   "length": 0,
+   "width": 0,
+   "weight": 52,
+   "skuId": 5754897817247,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "50g加粗款白色",
+   "length": 0,
+   "width": 0,
+   "weight": 52,
+   "skuId": 5754897817248,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "50g加粗款莫兰迪绿",
+   "length": 0,
+   "width": 0,
+   "weight": 52,
+   "skuId": 5754897817249,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "70g特粗款灰色",
+   "length": 0,
+   "width": 0,
+   "weight": 72,
+   "skuId": 5754897817250,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "70g特粗款北欧蓝",
+   "length": 0,
+   "width": 0,
+   "weight": 72,
+   "skuId": 5754897817251,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "70g特粗款北欧绿",
+   "length": 0,
+   "width": 0,
+   "weight": 72,
+   "skuId": 5754897817252,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "70g特粗款北欧粉",
+   "length": 0,
+   "width": 0,
+   "weight": 72,
+   "skuId": 5754897817253,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "70g特粗款黑色",
+   "length": 0,
+   "width": 0,
+   "weight": 72,
+   "skuId": 5754897817254,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "70g特粗款白色",
+   "length": 0,
+   "width": 0,
+   "weight": 72,
+   "skuId": 5754897817255,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "30g儿童款北欧粉",
+   "length": 0,
+   "width": 0,
+   "weight": 32,
+   "skuId": 5754897817256,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "30g儿童款北欧绿",
+   "length": 0,
+   "width": 0,
+   "weight": 32,
+   "skuId": 5754897817257,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "30g儿童款北欧紫",
+   "length": 0,
+   "width": 0,
+   "weight": 32,
+   "skuId": 5754897817258,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "30g儿童款北欧蓝",
+   "length": 0,
+   "width": 0,
+   "weight": 32,
+   "skuId": 5754897817259,
+   "height": 0
+  }
+ ],
+ "url": "https://detail.1688.com/offer/899612620890.html",
+ "核页时间": "2026-10-08T09:54:38.243Z"
+}

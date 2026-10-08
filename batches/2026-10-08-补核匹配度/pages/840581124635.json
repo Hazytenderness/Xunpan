@@ -1,0 +1,120 @@
+{
+ "offerId": "840581124635",
+ "条目": "H0845",
+ "block": false,
+ "卖家公司": "义乌市有孚工艺品有限公司",
+ "旺旺名": "青涩l520",
+ "标题": "有孚跨境货源亚马逊9叉扇形大丽花花束 2026年新款兰花扇形仿真花",
+ "状态": "PUBLISHED",
+ "类目": "仿真花",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "颜色",
+   "值": [
+    "橙色",
+    "玫红",
+    "浅紫色",
+    "香槟色"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "香槟色",
+   "价格": "6.20",
+   "库存": 3891
+  },
+  {
+   "规格": "橙色",
+   "价格": "6.20",
+   "库存": 4599
+  },
+  {
+   "规格": "浅紫色",
+   "价格": "6.20",
+   "库存": 4073
+  },
+  {
+   "规格": "玫红",
+   "价格": "6.20",
+   "库存": 6101
+  }
+ ],
+ "规格图": [
+  [
+   "橙色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01pa87dr2LsBRtGn2rP_!!2207914489747-0-cib.jpg"
+  ],
+  [
+   "玫红",
+   "https://cbu01.alicdn.com/img/ibank/O1CN0170NgWt2LsBRvnucRU_!!2207914489747-0-cib.jpg"
+  ],
+  [
+   "浅紫色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01PdLkWbPLraI2u0zc_!!2207914489747-0-cib.jpg"
+  ],
+  [
+   "香槟色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01S10tJp2LsBbPNTDVv_!!2207914489747-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "rangePrice",
+ "价格区间": "6.00-6.20",
+ "阶梯价_登录后": [
+  {
+   "price": "6.20",
+   "beginAmount": 1
+  },
+  {
+   "price": "6.00",
+   "beginAmount": 600
+  }
+ ],
+ "到手价": {
+  "价": "5.2",
+  "说明": "新人价",
+  "件数": 1
+ },
+ "起订量": 2,
+ "单位": "束",
+ "可售总量": 18664,
+ "已售": 8194,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01eqpXsv2LsBRtErIEr_!!2207914489747-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01DE2YUD2LsBbKtYOJU_!!2207914489747-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01v0ISKuU68PB2u0zc_!!2207914489747-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01bfssGi2LsBRuKFD57_!!2207914489747-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01bVynq52LsBRuKDXCI_!!2207914489747-0-cib.jpg"
+ ],
+ "商品属性": [
+  "材质:绢花",
+  "工艺:其它",
+  "品种:兰花",
+  "用途:其他",
+  "品牌:百花邦",
+  "货号:HB-362扇形兰花",
+  "是否专利货源:否",
+  "颜色:橙色/玫红/浅紫色/香槟色",
+  "花朵数量:9叉",
+  "产品形态:花束",
+  "优势:跨境货源",
+  "场景风格:田园风",
+  "适用空间:户外",
+  "摆放类别:插花",
+  "是否IP授权:否",
+  "花瓣材质:聚酯纤维",
+  "下游平台:亚马逊 速卖通"
+ ],
+ "包装信息": [
+  {
+   "volume": 16250,
+   "length": 50,
+   "width": 25,
+   "weight": 80,
+   "height": 13
+  }
+ ],
+ "url": "https://detail.1688.com/offer/840581124635.html",
+ "核页时间": "2026-10-06T18:42:11.200Z"
+}

@@ -1,0 +1,224 @@
+{
+ "offerId": "1055645654738",
+ "条目": "M1659",
+ "block": false,
+ "卖家公司": "东阳市潮萌饰品有限公司",
+ "旺旺名": "东阳市潮萌饰品有限公司",
+ "标题": "新品帅气娃娃盲盒网红热卖潮玩萌粒公仔手办解压日常创意桌面摆件",
+ "状态": "PUBLISHED",
+ "类目": "树脂工艺品",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "颜色",
+   "值": [
+    "01红色",
+    "02绿+黄",
+    "03卡其+橙",
+    "04灰+蓝绿",
+    "05棕色",
+    "06紫+黄",
+    "07橙+绿",
+    "08粉色"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "05棕色",
+   "价格": "1.60",
+   "库存": 6344
+  },
+  {
+   "规格": "04灰+蓝绿",
+   "价格": "1.60",
+   "库存": 6326
+  },
+  {
+   "规格": "03卡其+橙",
+   "价格": "1.60",
+   "库存": 6295
+  },
+  {
+   "规格": "01红色",
+   "价格": "1.60",
+   "库存": 6294
+  },
+  {
+   "规格": "08粉色",
+   "价格": "1.60",
+   "库存": 6306
+  },
+  {
+   "规格": "07橙+绿",
+   "价格": "1.60",
+   "库存": 6367
+  },
+  {
+   "规格": "06紫+黄",
+   "价格": "1.60",
+   "库存": 6373
+  },
+  {
+   "规格": "02绿+黄",
+   "价格": "1.60",
+   "库存": 6383
+  }
+ ],
+ "规格图": [
+  [
+   "01红色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01oV4sPk1PHmOrq957N_!!2216973141816-0-cib.jpg"
+  ],
+  [
+   "02绿+黄",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01cQPzj41PHmOs3TOAO_!!2216973141816-0-cib.jpg"
+  ],
+  [
+   "03卡其+橙",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01lUIQH11PHmOs3TrHj_!!2216973141816-0-cib.jpg"
+  ],
+  [
+   "04灰+蓝绿",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01gPng4G1PHmOrwLCFV_!!2216973141816-0-cib.jpg"
+  ],
+  [
+   "05棕色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01g83ROb1PHmOs3UOav_!!2216973141816-0-cib.jpg"
+  ],
+  [
+   "06紫+黄",
+   "https://cbu01.alicdn.com/img/ibank/O1CN0152nV5o1PHmOroZML3_!!2216973141816-0-cib.jpg"
+  ],
+  [
+   "07橙+绿",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01EoRklO1PHmOroUukM_!!2216973141816-0-cib.jpg"
+  ],
+  [
+   "08粉色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01jnbiXF1PHmOrqB1pB_!!2216973141816-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "rangePrice",
+ "价格区间": "1.40-1.60",
+ "阶梯价_登录后": [
+  {
+   "price": "1.60",
+   "beginAmount": 1
+  },
+  {
+   "price": "1.50",
+   "beginAmount": 240
+  },
+  {
+   "price": "1.40",
+   "beginAmount": 400
+  }
+ ],
+ "到手价": {
+  "价": "0.6",
+  "说明": "新人价",
+  "件数": 1
+ },
+ "起订量": 1,
+ "单位": "个",
+ "可售总量": 50688,
+ "已售": 4802,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01EXEygn1PHmOrUH56G_!!2216973141816-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01pezU9o1PHmOsIPUG9_!!2216973141816-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01E8AZVu1PHmOrUH56a_!!2216973141816-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01wO3zjn1PHmOrvtsAq_!!2216973141816-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01nOaZir1PHmOsIQ5g7_!!2216973141816-0-cib.jpg"
+ ],
+ "商品属性": [
+  "材质:环保树脂",
+  "类别:摆件",
+  "品牌:潮萌",
+  "风格:卡通风",
+  "适用节日:感恩节/其他",
+  "货号:CMLT000299",
+  "包装:透明PVC袋",
+  "是否专利货源:否",
+  "颜色:01红色/02绿+黄/03卡其+橙/04灰+蓝绿/05棕色/06紫+黄/07橙+绿/08粉色",
+  "是否属于礼品:否",
+  "是否IP授权:否",
+  "外观造型:卡通"
+ ],
+ "包装信息": [
+  {
+   "volume": 59.04,
+   "sku1": "01红色",
+   "length": 4.1,
+   "width": 3.2,
+   "weight": 26,
+   "skuId": 6097112256233,
+   "height": 4.5
+  },
+  {
+   "volume": 59.04,
+   "sku1": "02绿+黄",
+   "length": 4.1,
+   "width": 3.2,
+   "weight": 26,
+   "skuId": 6097112256234,
+   "height": 4.5
+  },
+  {
+   "volume": 59.04,
+   "sku1": "03卡其+橙",
+   "length": 4.1,
+   "width": 3.2,
+   "weight": 26,
+   "skuId": 6097112256235,
+   "height": 4.5
+  },
+  {
+   "volume": 59.04,
+   "sku1": "04灰+蓝绿",
+   "length": 4.1,
+   "width": 3.2,
+   "weight": 26,
+   "skuId": 6097112256236,
+   "height": 4.5
+  },
+  {
+   "volume": 59.04,
+   "sku1": "05棕色",
+   "length": 4.1,
+   "width": 3.2,
+   "weight": 26,
+   "skuId": 6097112256237,
+   "height": 4.5
+  },
+  {
+   "volume": 59.04,
+   "sku1": "06紫+黄",
+   "length": 4.1,
+   "width": 3.2,
+   "weight": 26,
+   "skuId": 6097112256238,
+   "height": 4.5
+  },
+  {
+   "volume": 59.04,
+   "sku1": "07橙+绿",
+   "length": 4.1,
+   "width": 3.2,
+   "weight": 26,
+   "skuId": 6097112256239,
+   "height": 4.5
+  },
+  {
+   "volume": 59.04,
+   "sku1": "08粉色",
+   "length": 4.1,
+   "width": 3.2,
+   "weight": 26,
+   "skuId": 6097112256240,
+   "height": 4.5
+  }
+ ],
+ "url": "https://detail.1688.com/offer/1055645654738.html",
+ "核页时间": "2026-10-08T09:30:25.672Z"
+}

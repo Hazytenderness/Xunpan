@@ -1,0 +1,90 @@
+{
+ "offerId": "1002360580320",
+ "条目": "M1649",
+ "block": false,
+ "卖家公司": "义乌市曲言电子商务商行（个体工商户）",
+ "旺旺名": "义乌市曲言电子商务商行",
+ "标题": "跨境热销圆形时光宝石金属折叠桌面挂钩女士复古日月图案包包挂钩",
+ "状态": "PUBLISHED",
+ "类目": "衣钩、挂钩、粘钩、钩子",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "颜色",
+   "值": [
+    "GJ02"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "GJ02",
+   "价格": null,
+   "库存": 9794
+  }
+ ],
+ "规格图": [
+  [
+   "GJ02",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01WSA5iZ253JilOdeQo_!!2220414767470-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "rangePrice",
+ "价格区间": null,
+ "阶梯价_登录后": [
+  {
+   "price": "4.50",
+   "beginAmount": 1
+  },
+  {
+   "price": "4.40",
+   "beginAmount": 50
+  },
+  {
+   "price": "4.30",
+   "beginAmount": 100
+  }
+ ],
+ "到手价": null,
+ "起订量": 1,
+ "单位": "件",
+ "可售总量": 9794,
+ "已售": 185,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01ujFckw253JimnHRYi_!!2220414767470-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01WSA5iZ253JilOdeQo_!!2220414767470-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01cDO51v253JilOfrdD_!!2220414767470-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01uTHgyN253Jimdjb7a_!!2220414767470-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01ujFckw253JimnHRYi_!!2220414767470-0-cib.jpg"
+ ],
+ "商品属性": [
+  "材质:锌合金",
+  "产品类别:折叠挂钩",
+  "品牌:无",
+  "款式:单钩",
+  "最大承重:1-3kg（含）",
+  "是否进口:否",
+  "颜色:GJ02",
+  "货号:GJ02",
+  "价格段:5元以内",
+  "产品上市时间:2025",
+  "专利:否",
+  "个数:1",
+  "有可授权的自有品牌:否",
+  "是否跨境出口专供货源:是",
+  "风格:现代简约"
+ ],
+ "包装信息": [
+  {
+   "volume": 50.4,
+   "sku1": "GJ02",
+   "length": 9,
+   "width": 8,
+   "weight": 36,
+   "skuId": 5988347580676,
+   "height": 0.7
+  }
+ ],
+ "url": "https://detail.1688.com/offer/1002360580320.html",
+ "核页时间": "2026-10-08T09:28:24.877Z"
+}

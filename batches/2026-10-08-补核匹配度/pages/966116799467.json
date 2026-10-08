@@ -1,0 +1,111 @@
+{
+ "offerId": "966116799467",
+ "条目": "M0499",
+ "block": false,
+ "卖家公司": "宿迁问鼎家居用品有限公司",
+ "旺旺名": "万佳美工贸",
+ "标题": "L型床缝填充垫床缝填塞神器可自剪裁长度床缝填充高密度海绵垫",
+ "状态": "PUBLISHED",
+ "类目": "靠垫/抱枕/抱枕被",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "颜色",
+   "值": [
+    "小型",
+    "中号",
+    "大号"
+   ]
+  },
+  {
+   "属性": "尺寸",
+   "值": [
+    "2米L型床缝条"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "中号&gt;2米L型床缝条",
+   "价格": "8.70",
+   "库存": 957
+  },
+  {
+   "规格": "大号&gt;2米L型床缝条",
+   "价格": "11.80",
+   "库存": 927
+  },
+  {
+   "规格": "小型&gt;2米L型床缝条",
+   "价格": "5.90",
+   "库存": 950
+  }
+ ],
+ "规格图": [
+  [
+   "小型",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01Cso9Cc1STdRMhKWD1_!!2528752248-0-cib.jpg"
+  ],
+  [
+   "中号",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01OyQaAD1STdRLSlL66_!!2528752248-0-cib.jpg"
+  ],
+  [
+   "大号",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01NhcbWf1STdRLQEveU_!!2528752248-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "skuPrice",
+ "价格区间": "5.90-11.80",
+ "阶梯价_登录后": [
+  {
+   "price": "5.90",
+   "beginAmount": 1
+  },
+  {
+   "price": "11.80",
+   "beginAmount": 1
+  }
+ ],
+ "到手价": {
+  "价": "2.9",
+  "说明": "新人价",
+  "件数": 1
+ },
+ "起订量": 1,
+ "单位": "个",
+ "可售总量": 2834,
+ "已售": 133,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01PVDNxc1STdRLZpk1t_!!2528752248-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN0109qBwD1STdRLdvvBZ_!!2528752248-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01Brtcoq1STdRLAFXtS_!!2528752248-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01FWDZ4O1STdRMhJVnA_!!2528752248-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01F4Cgmf1STdRK34uiG_!!2528752248-0-cib.jpg"
+ ],
+ "商品属性": [
+  "产品类别:靠垫芯/抱枕芯",
+  "填充物:海绵",
+  "织造工艺:其它",
+  "风格:简约风",
+  "品牌:万佳美",
+  "货号:L形床缝条",
+  "外套材质:无",
+  "加工定制:是",
+  "图案:纯色",
+  "颜色:小型/中号/大号",
+  "尺寸:2米L型床缝条",
+  "是否有版权或专利:否"
+ ],
+ "包装信息": [
+  {
+   "volume": 0,
+   "length": 0,
+   "width": 0,
+   "weight": 2000,
+   "height": 0
+  }
+ ],
+ "url": "https://detail.1688.com/offer/966116799467.html",
+ "核页时间": "2026-10-08T08:42:55.754Z"
+}

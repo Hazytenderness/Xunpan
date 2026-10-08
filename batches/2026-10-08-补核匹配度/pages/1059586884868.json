@@ -1,0 +1,300 @@
+{
+ "offerId": "1059586884868",
+ "条目": "M0616",
+ "block": false,
+ "卖家公司": "丽水友川竹木有限公司",
+ "旺旺名": "十一维度工厂",
+ "标题": "冰箱冻肉分格盒子保鲜盒饭盒便当盒小号食物分装盒食品级收纳盒",
+ "状态": "PUBLISHED",
+ "类目": "保鲜盒、饭盒",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "规格",
+   "值": [
+    "400ml-抹茶绿",
+    "700ml-抹茶绿",
+    "2000ml-抹茶绿",
+    "400ml-枫叶黄",
+    "700ml-枫叶黄",
+    "2000ml-枫叶黄",
+    "400ml-白绿色",
+    "700ml-白绿色",
+    "2000ml-白绿色",
+    "400ml-白黄色",
+    "700ml-白黄色",
+    "2000ml-白黄色"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "400ml-白黄色",
+   "价格": "5.00",
+   "库存": 998
+  },
+  {
+   "规格": "700ml-白绿色",
+   "价格": "6.00",
+   "库存": 979
+  },
+  {
+   "规格": "2000ml-白绿色",
+   "价格": "7.50",
+   "库存": 995
+  },
+  {
+   "规格": "2000ml-抹茶绿",
+   "价格": "7.50",
+   "库存": 968
+  },
+  {
+   "规格": "700ml-白黄色",
+   "价格": "6.00",
+   "库存": 985
+  },
+  {
+   "规格": "400ml-抹茶绿",
+   "价格": "5.00",
+   "库存": 984
+  },
+  {
+   "规格": "700ml-抹茶绿",
+   "价格": "6.00",
+   "库存": 910
+  },
+  {
+   "规格": "400ml-白绿色",
+   "价格": "5.00",
+   "库存": 995
+  },
+  {
+   "规格": "2000ml-白黄色",
+   "价格": "7.50",
+   "库存": 996
+  },
+  {
+   "规格": "400ml-枫叶黄",
+   "价格": "5.00",
+   "库存": 989
+  },
+  {
+   "规格": "700ml-枫叶黄",
+   "价格": "6.00",
+   "库存": 953
+  },
+  {
+   "规格": "2000ml-枫叶黄",
+   "价格": "7.50",
+   "库存": 988
+  }
+ ],
+ "规格图": [
+  [
+   "400ml-抹茶绿",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01P94E6g1OW9D9TCcZd_!!3066741712-0-cib.jpg"
+  ],
+  [
+   "700ml-抹茶绿",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01DRYmqP1OW9D91IkAA_!!3066741712-0-cib.jpg"
+  ],
+  [
+   "2000ml-抹茶绿",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01j6IO1v1OW9D9I33UG_!!3066741712-0-cib.jpg"
+  ],
+  [
+   "400ml-枫叶黄",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01ooWSZu1OW9D9Ik7jG_!!3066741712-0-cib.jpg"
+  ],
+  [
+   "700ml-枫叶黄",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01Yu7PIP1OW9D9DUuid_!!3066741712-0-cib.jpg"
+  ],
+  [
+   "2000ml-枫叶黄",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01kjVmM11OW9D9TBt0P_!!3066741712-0-cib.jpg"
+  ],
+  [
+   "400ml-白绿色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01S0V9as1OW9D4e94hE_!!3066741712-0-cib.jpg"
+  ],
+  [
+   "700ml-白绿色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01K3k5YH1OW9D8yKkQi_!!3066741712-0-cib.jpg"
+  ],
+  [
+   "2000ml-白绿色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01r42m8O1OW9D8wynfN_!!3066741712-0-cib.jpg"
+  ],
+  [
+   "400ml-白黄色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01XyGp7n1OW9DAimdtl_!!3066741712-0-cib.jpg"
+  ],
+  [
+   "700ml-白黄色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01bjV9zo1OW9D8x0TdO_!!3066741712-0-cib.jpg"
+  ],
+  [
+   "2000ml-白黄色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN019IK4XY1OW9D9DX84N_!!3066741712-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "skuPrice",
+ "价格区间": null,
+ "阶梯价_登录后": [
+  {
+   "price": "5.00",
+   "beginAmount": 1
+  },
+  {
+   "price": "7.50",
+   "beginAmount": 1
+  }
+ ],
+ "到手价": null,
+ "起订量": 1,
+ "单位": "件",
+ "可售总量": 11740,
+ "已售": 236,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01AZw9Y51OW9D8y2cgS_!!3066741712-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01H4p2s11OW9D9SvyTF_!!3066741712-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01Fwoxu11OW9D4drt9z_!!3066741712-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01A7t8RD1OW9D4dtdH4_!!3066741712-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01CLLZcB1OW9D9kGVOW_!!3066741712-0-cib.jpg"
+ ],
+ "商品属性": [
+  "材质:PP",
+  "容量:301-500ML",
+  "功能:储存食物/收纳分类/可冷藏",
+  "是否保温:否",
+  "盒子层数:单层",
+  "品牌:其他",
+  "产品类别:保鲜盒",
+  "是否进口:否",
+  "货号:保鲜盒",
+  "形状:正方形",
+  "微波炉:可用",
+  "风格:现代简约",
+  "加工定制:否",
+  "是否一次性:否",
+  "是否有专利:无",
+  "规格:400ml-抹茶绿/700ml-抹茶绿/2000ml-抹茶绿/400ml-枫叶黄/700ml-枫叶黄/2000ml-枫叶黄/400ml-白绿色/700ml-白绿色/2000ml-白绿色/400ml-白黄色/700ml-白黄色/2000ml-白黄色",
+  "产品质量等级:合格品",
+  "是否电动:否",
+  "风格类型:简约格调",
+  "分格设计:单格"
+ ],
+ "包装信息": [
+  {
+   "volume": 0,
+   "sku1": "400ml-抹茶绿",
+   "length": 0,
+   "width": 0,
+   "weight": 58,
+   "skuId": 6265863730332,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "700ml-抹茶绿",
+   "length": 0,
+   "width": 0,
+   "weight": 76,
+   "skuId": 6265863730333,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "2000ml-抹茶绿",
+   "length": 0,
+   "width": 0,
+   "weight": 131,
+   "skuId": 6265863730334,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "400ml-枫叶黄",
+   "length": 0,
+   "width": 0,
+   "weight": 58,
+   "skuId": 6265863730335,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "700ml-枫叶黄",
+   "length": 0,
+   "width": 0,
+   "weight": 76,
+   "skuId": 6265863730336,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "2000ml-枫叶黄",
+   "length": 0,
+   "width": 0,
+   "weight": 131,
+   "skuId": 6265863730337,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "400ml-白绿色",
+   "length": 0,
+   "width": 0,
+   "weight": 58,
+   "skuId": 6265863730338,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "700ml-白绿色",
+   "length": 0,
+   "width": 0,
+   "weight": 76,
+   "skuId": 6265863730339,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "2000ml-白绿色",
+   "length": 0,
+   "width": 0,
+   "weight": 131,
+   "skuId": 6265863730340,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "400ml-白黄色",
+   "length": 0,
+   "width": 0,
+   "weight": 58,
+   "skuId": 6265863730341,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "700ml-白黄色",
+   "length": 0,
+   "width": 0,
+   "weight": 76,
+   "skuId": 6265863730342,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "2000ml-白黄色",
+   "length": 0,
+   "width": 0,
+   "weight": 131,
+   "skuId": 6265863730343,
+   "height": 0
+  }
+ ],
+ "url": "https://detail.1688.com/offer/1059586884868.html",
+ "核页时间": "2026-10-08T08:49:43.264Z"
+}

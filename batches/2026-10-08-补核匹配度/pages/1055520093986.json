@@ -1,0 +1,118 @@
+{
+ "offerId": "1055520093986",
+ "条目": "M1893",
+ "block": false,
+ "卖家公司": "南安昌河卫浴有限公司",
+ "旺旺名": "昌河卫浴有限公司",
+ "标题": "兼容LIXIL日本骊住INAX系列JF-20 JF-21 JF-22厨房水龙头过滤滤芯",
+ "状态": "PUBLISHED",
+ "类目": "其他水暖五金",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "规格",
+   "值": [
+    "JF-20白色",
+    "JF-21蓝色",
+    "JF-22紫色"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "JF-20白色",
+   "价格": "11.00",
+   "库存": 1000
+  },
+  {
+   "规格": "JF-21蓝色",
+   "价格": "11.00",
+   "库存": 1000
+  },
+  {
+   "规格": "JF-22紫色",
+   "价格": "11.00",
+   "库存": 1000
+  }
+ ],
+ "规格图": [
+  [
+   "JF-20白色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01HLOdrj1ndLpe6KMzF_!!2220403945112-0-cib.jpg"
+  ],
+  [
+   "JF-21蓝色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01eIB7l41ndLpe6KAXV_!!2220403945112-0-cib.jpg"
+  ],
+  [
+   "JF-22紫色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN011ZbTPa1ndLpe1SGeC_!!2220403945112-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "rangePrice",
+ "价格区间": "11.00",
+ "阶梯价_登录后": [
+  {
+   "price": "11.00",
+   "beginAmount": 1
+  }
+ ],
+ "到手价": null,
+ "起订量": 1,
+ "单位": "件",
+ "可售总量": 3000,
+ "已售": 0,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01jDYTp01ndLpeZSFs7_!!2220403945112-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01LgifyW1ndLpeEwddb_!!2220403945112-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01MoYeEH1ndLpeBzBuU_!!2220403945112-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN0141pePC1ndLpeLLiUZ_!!2220403945112-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN0172iFFw1ndLpZSEcJM_!!2220403945112-0-cib.jpg"
+ ],
+ "商品属性": [
+  "材质:碳钢",
+  "品牌:-",
+  "认证:无",
+  "风格:简约风",
+  "名称:阀芯",
+  "货号:JF-22",
+  "是否一般纳税人:是",
+  "加工定制:是",
+  "规格:JF-20白色/JF-21蓝色/JF-22紫色",
+  "是否跨境出口专供货源:是",
+  "主要下游平台:ebay/亚马逊/wish/速卖通/独立站/LAZADA",
+  "主要销售地区:非洲/欧洲/南美/东南亚/北美/东北亚/中东",
+  "有可授权的自有品牌:是"
+ ],
+ "包装信息": [
+  {
+   "volume": 242,
+   "sku1": "JF-20白色",
+   "length": 11,
+   "width": 11,
+   "weight": 200,
+   "skuId": 6095407452334,
+   "height": 2
+  },
+  {
+   "volume": 242,
+   "sku1": "JF-21蓝色",
+   "length": 11,
+   "width": 11,
+   "weight": 200,
+   "skuId": 6095407452335,
+   "height": 2
+  },
+  {
+   "volume": 242,
+   "sku1": "JF-22紫色",
+   "length": 11,
+   "width": 11,
+   "weight": 200,
+   "skuId": 6095407452336,
+   "height": 2
+  }
+ ],
+ "url": "https://detail.1688.com/offer/1055520093986.html",
+ "核页时间": "2026-10-08T09:50:05.025Z"
+}

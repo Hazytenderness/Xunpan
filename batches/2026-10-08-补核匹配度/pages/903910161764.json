@@ -1,0 +1,110 @@
+{
+ "offerId": "903910161764",
+ "条目": "M0013",
+ "block": false,
+ "卖家公司": "义乌市涂芳电子商务商行",
+ "旺旺名": "福beibei",
+ "标题": "10A48针加强不锈钢松肉针嫩肉针牛排针断筋刀meat tenderizer拆洗",
+ "状态": "PUBLISHED",
+ "类目": "松肉针",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "规格",
+   "值": [
+    "白色-彩盒",
+    "黑色-彩盒"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "白色-彩盒",
+   "价格": null,
+   "库存": 12186
+  },
+  {
+   "规格": "黑色-彩盒",
+   "价格": null,
+   "库存": 9610
+  }
+ ],
+ "规格图": [
+  [
+   "白色-彩盒",
+   "https://cbu01.alicdn.com/img/ibank/O1CN011uj6Zh1fvCFPLmcBb_!!2217084068-0-cib.jpg"
+  ],
+  [
+   "黑色-彩盒",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01bAMinv1fvCFHD7hlA_!!2217084068-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "rangePrice",
+ "价格区间": null,
+ "阶梯价_登录后": [
+  {
+   "price": "16.80",
+   "beginAmount": 3
+  },
+  {
+   "price": "16.00",
+   "beginAmount": 1200
+  },
+  {
+   "price": "15.50",
+   "beginAmount": 4800
+  }
+ ],
+ "到手价": null,
+ "起订量": 3,
+ "单位": "件",
+ "可售总量": 21796,
+ "已售": 2747,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN018XBrFK1fvCEyACtFo_!!2217084068-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN018tn5wv1fvCEveK3Vd_!!2217084068-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01U5NF2t1fvCExEgELm_!!2217084068-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01PSbqye1fvCExEVQJ2_!!2217084068-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01q2gzpW1fvCEvrnTFh_!!2217084068-0-cib.jpg"
+ ],
+ "商品属性": [
+  "材质:不锈钢",
+  "品牌:无",
+  "是否进口:否",
+  "产品质量等级:优等品",
+  "货号:cf-195",
+  "产地:浙江",
+  "是否有专利:否",
+  "风格:现代简约",
+  "风格:无",
+  "主要下游平台:亚马逊/独立站/LAZADA",
+  "主要销售地区:欧洲/北美",
+  "有可授权的自有品牌:否",
+  "产品上市时间:2020年冬",
+  "价格段:30-40元",
+  "规格:白色-彩盒/黑色-彩盒",
+  "是否跨境出口专供货源:是"
+ ],
+ "包装信息": [
+  {
+   "volume": 0,
+   "sku1": "白色-彩盒",
+   "length": 0,
+   "width": 0,
+   "weight": 350,
+   "skuId": 5763385069087,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "黑色-彩盒",
+   "length": 0,
+   "width": 0,
+   "weight": 350,
+   "skuId": 5763385069088,
+   "height": 0
+  }
+ ],
+ "url": "https://detail.1688.com/offer/903910161764.html",
+ "核页时间": "2026-10-08T08:15:13.173Z"
+}

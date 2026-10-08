@@ -1,0 +1,234 @@
+{
+ "offerId": "1081651706472",
+ "条目": "M1593",
+ "block": false,
+ "卖家公司": "南宫瑞涵璇皮草制品厂",
+ "旺旺名": "南宫市瑞涵璇皮草制品厂",
+ "标题": "便携可折叠全身镜旅行出游手提化妆镜毛毡背板宿舍家用简易穿衣镜",
+ "状态": "PUBLISHED",
+ "类目": "穿衣镜",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "颜色",
+   "值": [
+    "棕色",
+    "黑色",
+    "白色",
+    "粉红色",
+    "蓝色",
+    "黄色",
+    "绿宝石",
+    "深棕色"
+   ]
+  },
+  {
+   "属性": "尺寸",
+   "值": [
+    "108*31.5cm"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "蓝色&gt;108*31.5cm",
+   "价格": "16.80",
+   "库存": 66876
+  },
+  {
+   "规格": "绿宝石&gt;108*31.5cm",
+   "价格": "16.80",
+   "库存": 66864
+  },
+  {
+   "规格": "白色&gt;108*31.5cm",
+   "价格": "16.80",
+   "库存": 66851
+  },
+  {
+   "规格": "棕色&gt;108*31.5cm",
+   "价格": "16.80",
+   "库存": 66716
+  },
+  {
+   "规格": "黑色&gt;108*31.5cm",
+   "价格": "16.80",
+   "库存": 66782
+  },
+  {
+   "规格": "深棕色&gt;108*31.5cm",
+   "价格": "16.80",
+   "库存": 0
+  },
+  {
+   "规格": "粉红色&gt;108*31.5cm",
+   "价格": "16.80",
+   "库存": 66778
+  },
+  {
+   "规格": "黄色&gt;108*31.5cm",
+   "价格": "16.80",
+   "库存": 66890
+  }
+ ],
+ "规格图": [
+  [
+   "棕色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01psvrlk8vPWD3thOC_!!2201211761268-0-cib.jpg"
+  ],
+  [
+   "黑色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01ODgAMskkPQH3thOC_!!2201211761268-0-cib.jpg"
+  ],
+  [
+   "白色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01zcRrirqcwxH3thOC_!!2201211761268-0-cib.jpg"
+  ],
+  [
+   "粉红色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01s2xbNz2vQKB3thOC_!!2201211761268-0-cib.jpg"
+  ],
+  [
+   "蓝色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01kiUqB9fPCiJ3thOC_!!2201211761268-0-cib.jpg"
+  ],
+  [
+   "黄色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01Y3FNOYU5riI3thOC_!!2201211761268-0-cib.jpg"
+  ],
+  [
+   "绿宝石",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01n6FC3XvcI0K3thOC_!!2201211761268-0-cib.jpg"
+  ],
+  [
+   "深棕色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN019bsS7FaYdGE1gERs_!!2201211761268-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "rangePrice",
+ "价格区间": "16.80",
+ "阶梯价_登录后": [
+  {
+   "price": "16.80",
+   "beginAmount": 1
+  }
+ ],
+ "到手价": {
+  "价": "15.8",
+  "说明": "新人价",
+  "件数": 1
+ },
+ "起订量": 1,
+ "单位": "个",
+ "可售总量": 467757,
+ "已售": 362,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01xE4keF08HnG3thOC_!!2201211761268-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01lPeet0QsgbJ24uCu_!!2201211761268-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01tO4MFFVLicC1chua_!!2201211761268-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01jZCDzegReDL3thOC_!!2201211761268-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01PFAEtDqoFZH1onBI_!!2201211761268-0-cib.jpg"
+ ],
+ "商品属性": [
+  "镜框材料:其它",
+  "品牌:瑞涵璇",
+  "风格:简约风",
+  "加工方式:拼接",
+  "型号:三折叠全身镜",
+  "颜色:棕色/黑色/白色/粉红色/蓝色/黄色/绿宝石/深棕色",
+  "尺寸:108*31.5cm",
+  "货号:RHX09101",
+  "厚度:30mm",
+  "适用场景:家居、旅行、宿舍",
+  "形状:长方形",
+  "照明功能:无",
+  "镜面材质:玻璃",
+  "放置方式:悬挂",
+  "镜面类型:高清",
+  "是否IP授权:否"
+ ],
+ "包装信息": [
+  {
+   "sku2": "108*31.5cm",
+   "volume": 32768,
+   "sku1": "棕色",
+   "length": 32,
+   "width": 32,
+   "weight": 600,
+   "skuId": 6135924261943,
+   "height": 32
+  },
+  {
+   "sku2": "108*31.5cm",
+   "volume": 32768,
+   "sku1": "黑色",
+   "length": 32,
+   "width": 32,
+   "weight": 600,
+   "skuId": 6135924261944,
+   "height": 32
+  },
+  {
+   "sku2": "108*31.5cm",
+   "volume": 32768,
+   "sku1": "白色",
+   "length": 32,
+   "width": 32,
+   "weight": 600,
+   "skuId": 6135924261945,
+   "height": 32
+  },
+  {
+   "sku2": "108*31.5cm",
+   "volume": 32768,
+   "sku1": "粉红色",
+   "length": 32,
+   "width": 32,
+   "weight": 600,
+   "skuId": 6135924261946,
+   "height": 32
+  },
+  {
+   "sku2": "108*31.5cm",
+   "volume": 32768,
+   "sku1": "蓝色",
+   "length": 32,
+   "width": 32,
+   "weight": 600,
+   "skuId": 6135924261947,
+   "height": 32
+  },
+  {
+   "sku2": "108*31.5cm",
+   "volume": 32768,
+   "sku1": "黄色",
+   "length": 32,
+   "width": 32,
+   "weight": 600,
+   "skuId": 6135924261948,
+   "height": 32
+  },
+  {
+   "sku2": "108*31.5cm",
+   "volume": 32768,
+   "sku1": "绿宝石",
+   "length": 32,
+   "width": 32,
+   "weight": 600,
+   "skuId": 6135924261949,
+   "height": 32
+  },
+  {
+   "sku2": "108*31.5cm",
+   "volume": 32768,
+   "sku1": "深棕色",
+   "length": 32,
+   "width": 32,
+   "weight": 600,
+   "skuId": 6138331188436,
+   "height": 32
+  }
+ ],
+ "url": "https://detail.1688.com/offer/1081651706472.html",
+ "核页时间": "2026-10-08T09:26:34.782Z"
+}

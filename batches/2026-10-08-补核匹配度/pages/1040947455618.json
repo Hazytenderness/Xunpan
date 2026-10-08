@@ -1,0 +1,139 @@
+{
+ "offerId": "1040947455618",
+ "条目": "M0262",
+ "block": false,
+ "卖家公司": "深圳市雷阳橡塑科技有限公司",
+ "旺旺名": "leiyang6688",
+ "标题": "FCM跨境新款硅胶菜板防滑耐高温砧板加厚台面案板多功能折叠菜板",
+ "状态": "PUBLISHED",
+ "类目": "可折叠餐具/便携餐具",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "规格",
+   "值": [
+    "橙色",
+    "蓝色",
+    "灰色",
+    "黑色"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "黑色",
+   "价格": "7.00",
+   "库存": 14613
+  },
+  {
+   "规格": "橙色",
+   "价格": "7.00",
+   "库存": 14244
+  },
+  {
+   "规格": "灰色",
+   "价格": "7.00",
+   "库存": 14614
+  },
+  {
+   "规格": "蓝色",
+   "价格": "7.00",
+   "库存": 14692
+  }
+ ],
+ "规格图": [
+  [
+   "橙色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01fnfsGq24YdAexudhN_!!2218544327403-0-cib.jpg"
+  ],
+  [
+   "蓝色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01vR3zW824YdAemYJqC_!!2218544327403-0-cib.jpg"
+  ],
+  [
+   "灰色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01b34Oly24YdAeuDtFY_!!2218544327403-0-cib.jpg"
+  ],
+  [
+   "黑色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN0171LX3r24YdAff7Jgt_!!2218544327403-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "skuPrice",
+ "价格区间": null,
+ "阶梯价_登录后": [
+  {
+   "price": "7.00",
+   "beginAmount": 2
+  }
+ ],
+ "到手价": null,
+ "起订量": 2,
+ "单位": "件",
+ "可售总量": 58163,
+ "已售": 2203,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN016jJBw724YdEEeVRTi_!!2218544327403-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01Ck47Y724YdD8rRbVs_!!2218544327403-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01J9ijYX24YdD8rQKYE_!!2218544327403-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN018d3csX24YdDAFYJJ9_!!2218544327403-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01zRIMVW24Yd9bN63oL_!!2218544327403-0-cib.jpg"
+ ],
+ "商品属性": [
+  "材质:食品级硅胶",
+  "风格:现代简约",
+  "是否手工:否",
+  "品牌:雷阳",
+  "是否有专利:否",
+  "是否跨境出口专供货源:否",
+  "产地:深圳",
+  "适用对象:学生/成人/老人/其他",
+  "规格:橙色/蓝色/灰色/黑色",
+  "货号:小天幕菜板",
+  "适用送礼场合:生日，节假日",
+  "加工定制:不可以",
+  "版权登记号:--",
+  "型号:硅胶菜板",
+  "形状:长方形【24.2*14.1*0.5cm】"
+ ],
+ "包装信息": [
+  {
+   "volume": 170.61,
+   "sku1": "橙色",
+   "length": 24.2,
+   "width": 14.1,
+   "weight": 160,
+   "skuId": 6267630602208,
+   "height": 0.5
+  },
+  {
+   "volume": 170.61,
+   "sku1": "蓝色",
+   "length": 24.2,
+   "width": 14.1,
+   "weight": 160,
+   "skuId": 6267630602206,
+   "height": 0.5
+  },
+  {
+   "volume": 170.61,
+   "sku1": "灰色",
+   "length": 24.2,
+   "width": 14.1,
+   "weight": 160,
+   "skuId": 6267630602205,
+   "height": 0.5
+  },
+  {
+   "volume": 170.61,
+   "sku1": "黑色",
+   "length": 24.2,
+   "width": 14.1,
+   "weight": 160,
+   "skuId": 6267630602207,
+   "height": 0.5
+  }
+ ],
+ "url": "https://detail.1688.com/offer/1040947455618.html",
+ "核页时间": "2026-10-08T08:27:00.809Z"
+}

@@ -1,0 +1,134 @@
+{
+ "offerId": "539904863616",
+ "条目": "M0738",
+ "block": false,
+ "卖家公司": "永康市博灿五金厂",
+ "旺旺名": "bocanwujinchang",
+ "标题": "不锈钢塑料香槟塞可抽气起泡酒塞",
+ "状态": "PUBLISHED",
+ "类目": "其他厨房小工具",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "规格",
+   "值": [
+    "7*4*4",
+    "7*4.1*4.1",
+    "7*4.2*4.2",
+    "7.2*5*5",
+    "银色香滨塞",
+    "黑色香滨塞"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "银色香滨塞",
+   "价格": "4.00",
+   "库存": 9997
+  },
+  {
+   "规格": "7*4*4",
+   "价格": "2.70",
+   "库存": 9997
+  },
+  {
+   "规格": "7.2*5*5",
+   "价格": "4.00",
+   "库存": 9997
+  },
+  {
+   "规格": "黑色香滨塞",
+   "价格": "3.00",
+   "库存": 9997
+  },
+  {
+   "规格": "7*4.1*4.1",
+   "价格": "3.00",
+   "库存": 9985
+  },
+  {
+   "规格": "7*4.2*4.2",
+   "价格": "4.20",
+   "库存": 9845
+  }
+ ],
+ "规格图": [
+  [
+   "7*4*4",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01bKmNEN1qP6FNzN7Kc_!!1009095487-0-cib.jpg"
+  ],
+  [
+   "7*4.1*4.1",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01K2Yko71qP6FMZi2Kg_!!1009095487-0-cib.jpg"
+  ],
+  [
+   "7*4.2*4.2",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01MOJRy31qP6FPM5X3z_!!1009095487-0-cib.jpg"
+  ],
+  [
+   "7.2*5*5",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01mP733B1qP6FLnGMxg_!!1009095487-0-cib.jpg"
+  ],
+  [
+   "银色香滨塞",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01J2aDXQ1qP6FOipEV4_!!1009095487-0-cib.jpg"
+  ],
+  [
+   "黑色香滨塞",
+   "https://cbu01.alicdn.com/img/ibank/O1CN011Qf2Q81qP6FPskJDv_!!1009095487-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "skuPrice",
+ "价格区间": null,
+ "阶梯价_登录后": [
+  {
+   "price": "2.70",
+   "beginAmount": 10
+  },
+  {
+   "price": "4.20",
+   "beginAmount": 10
+  }
+ ],
+ "到手价": null,
+ "起订量": 10,
+ "单位": "个",
+ "可售总量": 59818,
+ "已售": 182,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN014HcCOs1qP6FOj3w6E_!!1009095487-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01DuVt8v1qP6FNsFdy1_!!1009095487-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01OMIPcu1qP6FHT9QSi_!!1009095487-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01yHzRH11qP6FMas0MC_!!1009095487-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/12518629869_1054290727.jpg"
+ ],
+ "商品属性": [
+  "材质:不锈钢",
+  "品牌:博灿",
+  "产品类别:其它",
+  "是否进口:否",
+  "货号:香槟塞",
+  "产地:永康",
+  "适用送礼场合:节日/广告促销",
+  "加印LOGO:可以",
+  "加工定制:是",
+  "产品上市时间:2015",
+  "价格段:5元以内",
+  "是否有专利:无",
+  "规格:7*4*4/7*4.1*4.1/7*4.2*4.2/7.2*5*5/银色香滨塞/黑色香滨塞",
+  "是否跨境出口专供货源:否",
+  "风格:现代简约"
+ ],
+ "包装信息": [
+  {
+   "volume": 0,
+   "length": 0,
+   "width": 0,
+   "weight": 340,
+   "height": 0
+  }
+ ],
+ "url": "https://detail.1688.com/offer/539904863616.html",
+ "核页时间": "2026-10-08T08:54:10.061Z"
+}

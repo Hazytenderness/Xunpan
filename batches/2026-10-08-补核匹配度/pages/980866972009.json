@@ -1,0 +1,192 @@
+{
+ "offerId": "980866972009",
+ "条目": "M1832",
+ "block": false,
+ "卖家公司": "金华市优昇日用品有限公司",
+ "旺旺名": "圣优日用品",
+ "标题": "按压真空密封罐食品级储存收纳盒厨房储物罐咖啡豆保存罐",
+ "状态": "PUBLISHED",
+ "类目": "密封盒、储物罐",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "颜色",
+   "值": [
+    "白黄380ml",
+    "白黄1100ml",
+    "白黄1800ml",
+    "白蓝380ml",
+    "白蓝1100ml",
+    "白蓝1800ml"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "白黄380ml",
+   "价格": "9.79",
+   "库存": 5999989
+  },
+  {
+   "规格": "白黄1100ml",
+   "价格": "11.40",
+   "库存": 5999990
+  },
+  {
+   "规格": "白蓝1100ml",
+   "价格": "11.40",
+   "库存": 5999947
+  },
+  {
+   "规格": "白蓝380ml",
+   "价格": "9.79",
+   "库存": 5999936
+  },
+  {
+   "规格": "白黄1800ml",
+   "价格": "14.16",
+   "库存": 5999993
+  },
+  {
+   "规格": "白蓝1800ml",
+   "价格": "14.16",
+   "库存": 5999960
+  }
+ ],
+ "规格图": [
+  [
+   "白黄380ml",
+   "https://cbu01.alicdn.com/img/ibank/O1CN014UEjAI26QxlfILd06_!!2215604407657-0-cib.jpg"
+  ],
+  [
+   "白黄1100ml",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01EPXmAl26Qxlh0Lcdk_!!2215604407657-0-cib.jpg"
+  ],
+  [
+   "白黄1800ml",
+   "https://cbu01.alicdn.com/img/ibank/O1CN014b8noN26QxlhFFVGJ_!!2215604407657-0-cib.jpg"
+  ],
+  [
+   "白蓝380ml",
+   "https://cbu01.alicdn.com/img/ibank/O1CN018CYwfQ26QxlgbFLo3_!!2215604407657-0-cib.jpg"
+  ],
+  [
+   "白蓝1100ml",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01G5nBLB26QxlgDD45h_!!2215604407657-0-cib.jpg"
+  ],
+  [
+   "白蓝1800ml",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01Xtw5U826QxlgiFhnn_!!2215604407657-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "skuPrice",
+ "价格区间": "10.30-14.90",
+ "阶梯价_登录后": [
+  {
+   "price": "9.79",
+   "beginAmount": 1
+  },
+  {
+   "price": "14.16",
+   "beginAmount": 1
+  }
+ ],
+ "到手价": null,
+ "起订量": 1,
+ "单位": "个",
+ "可售总量": 35999815,
+ "已售": 113,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01u8TOpF26QxlgeH744_!!2215604407657-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01cDT2KY26QxlfJJeCz_!!2215604407657-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN012jrV1l26QxlfJGpaO_!!2215604407657-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01DiUIBT26QxlaWhaHF_!!2215604407657-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN0179opgo26Qxlg5sueF_!!2215604407657-0-cib.jpg"
+ ],
+ "商品属性": [
+  "材质:pet",
+  "品牌:自主",
+  "形状:方形",
+  "容量:301-500ML",
+  "是否一次性:非一次性",
+  "产品质量等级:合格品",
+  "微波炉:不可用",
+  "是否进口:否",
+  "原产国/地区:中国大陆",
+  "货号:AF009",
+  "产地:浙江",
+  "风格:现代简约",
+  "加印LOGO:不可以",
+  "贸易属性:内贸",
+  "箱装数量:75/50/50",
+  "产品上市时间:2024",
+  "价格段:10-20元",
+  "加工定制:否",
+  "盒子层数:1",
+  "是否有专利:无",
+  "颜色:白黄380ml/白黄1100ml/白黄1800ml/白蓝380ml/白蓝1100ml/白蓝1800ml",
+  "主要下游平台:ebay/亚马逊/wish/速卖通/独立站/LAZADA/其他",
+  "主要销售地区:非洲/欧洲/南美/东南亚/北美/东北亚/中东/其他",
+  "有可授权的自有品牌:否",
+  "是否跨境出口专供货源:是",
+  "版权:无"
+ ],
+ "包装信息": [
+  {
+   "volume": 0,
+   "sku1": "白黄380ml",
+   "length": 0,
+   "width": 0,
+   "weight": 400,
+   "skuId": 5937570361609,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "白黄1100ml",
+   "length": 0,
+   "width": 0,
+   "weight": 600,
+   "skuId": 5937570361610,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "白黄1800ml",
+   "length": 0,
+   "width": 0,
+   "weight": 600,
+   "skuId": 5937570361611,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "白蓝380ml",
+   "length": 0,
+   "width": 0,
+   "weight": 400,
+   "skuId": 5937570361612,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "白蓝1100ml",
+   "length": 0,
+   "width": 0,
+   "weight": 600,
+   "skuId": 5937570361613,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "白蓝1800ml",
+   "length": 0,
+   "width": 0,
+   "weight": 600,
+   "skuId": 5937570361614,
+   "height": 0
+  }
+ ],
+ "url": "https://detail.1688.com/offer/980866972009.html",
+ "核页时间": "2026-10-08T09:42:28.277Z"
+}
