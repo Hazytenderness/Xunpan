@@ -1,0 +1,81 @@
+{
+ "offerId": "640612594241",
+ "条目": "H0036",
+ "block": false,
+ "卖家公司": "惠州市泰迪克斯清洁用品有限公司",
+ "旺旺名": "惠州泰迪克斯科技有限公司",
+ "标题": "厕所诱导剂狗狗排便诱导剂宠物排便训厕用品大小便定位喷雾剂批发",
+ "状态": "PUBLISHED",
+ "类目": "排便定位",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "规格",
+   "值": [
+    "120ml"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "120ml",
+   "价格": "4.80",
+   "库存": 96628
+  }
+ ],
+ "规格图": [],
+ "价格展示": "rangePrice",
+ "价格区间": "4.00-4.80",
+ "阶梯价_登录后": [
+  {
+   "price": "4.80",
+   "beginAmount": 1
+  },
+  {
+   "price": "4.50",
+   "beginAmount": 1000
+  },
+  {
+   "price": "4.00",
+   "beginAmount": 50000
+  }
+ ],
+ "到手价": {
+  "价": "3.8",
+  "说明": "新人价",
+  "件数": 1
+ },
+ "起订量": 1,
+ "单位": "瓶",
+ "可售总量": 96628,
+ "已售": 847,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01MeIwW81qkAY98babD_!!3018055533-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01kkcV081qkA6DAv39s_!!3018055533-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN017Yru4y1qkA63DSqi9_!!3018055533-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01y6Zvzv1qkA6HAbNxm_!!3018055533-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01JeYZAw1qkA6CBv1dY_!!3018055533-0-cib.jpg"
+ ],
+ "商品属性": [
+  "品牌:道力奇",
+  "是否进口:否",
+  "产地:惠州",
+  "货号:道力奇-排便诱导剂",
+  "是否专利货源:否",
+  "规格:120ml",
+  "是否跨境出口专供货源:否"
+ ],
+ "包装信息": [
+  {
+   "volume": 0,
+   "sku1": "120ml",
+   "length": 0,
+   "width": 0,
+   "weight": 100,
+   "skuId": 4769860222227,
+   "height": 0
+  }
+ ],
+ "url": "https://detail.1688.com/offer/640612594241.html",
+ "核页时间": "2026-10-08T11:54:47.331Z"
+}

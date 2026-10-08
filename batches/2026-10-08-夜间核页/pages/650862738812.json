@@ -1,0 +1,79 @@
+{
+ "offerId": "650862738812",
+ "条目": "H0111",
+ "block": false,
+ "卖家公司": "义乌市麦里品牌管理有限公司",
+ "旺旺名": "zjskybz",
+ "标题": "宠物洁足泡沫150ml足部免洗脚掌清洁护理干裂小猫狗通用洗脚泡沫",
+ "状态": "PUBLISHED",
+ "类目": "脚掌滋润/护理",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "规格",
+   "值": [
+    "宠物洁足泡沫150ml"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "宠物洁足泡沫150ml",
+   "价格": "3.45",
+   "库存": 2496
+  }
+ ],
+ "规格图": [
+  [
+   "宠物洁足泡沫150ml",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01yXD0gw1JcwqB55QpM_!!1944781050-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "rangePrice",
+ "价格区间": "3.45",
+ "阶梯价_登录后": [
+  {
+   "price": "3.45",
+   "beginAmount": 1
+  }
+ ],
+ "到手价": {
+  "价": "2.45",
+  "说明": "新人价",
+  "件数": 1
+ },
+ "起订量": 2,
+ "单位": "瓶",
+ "可售总量": 2496,
+ "已售": 873,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01EUIuc91JcwqBj5Fjo_!!1944781050-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01davpth1Jcwq3xrpaf_!!1944781050-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01UzJqTu1JcwqBkdFo2_!!1944781050-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN0127KrT61Jcwq3xpHag_!!1944781050-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01yXD0gw1JcwqB55QpM_!!1944781050-0-cib.jpg"
+ ],
+ "商品属性": [
+  "品牌:麦里",
+  "材质:泡沫",
+  "是否进口:否",
+  "是否专利货源:否",
+  "适用对象:通用",
+  "规格:宠物洁足泡沫150ml",
+  "是否跨境出口专供货源:否",
+  "产地:浙江",
+  "物理形态:液体",
+  "是否属于礼品:否"
+ ],
+ "包装信息": [
+  {
+   "volume": 441.8,
+   "length": 4.7,
+   "width": 4.7,
+   "weight": 150,
+   "height": 20
+  }
+ ],
+ "url": "https://detail.1688.com/offer/650862738812.html",
+ "核页时间": "2026-10-08T12:16:49.570Z"
+}

@@ -1,0 +1,145 @@
+{
+ "offerId": "822641760334",
+ "条目": "H0079",
+ "block": false,
+ "卖家公司": "平阳县瀚虎电子商务商行(个体工商户)",
+ "旺旺名": "平阳县瀚虎电子商务商行",
+ "标题": "智能逗狗引力跳跳球电动跨境宠物用品猫咪解闷神器陪伴遛狗狗玩具",
+ "状态": "PUBLISHED",
+ "类目": "狗狗玩具",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "颜色",
+   "值": [
+    "蓝色",
+    "橙色",
+    "蓝色替换壳【不含机芯】",
+    "橙色替换壳【不含机芯】"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "蓝色替换壳【不含机芯】",
+   "价格": "2.00",
+   "库存": 4692
+  },
+  {
+   "规格": "橙色",
+   "价格": "5.80",
+   "库存": 58016
+  },
+  {
+   "规格": "蓝色",
+   "价格": "5.80",
+   "库存": 48695
+  },
+  {
+   "规格": "橙色替换壳【不含机芯】",
+   "价格": "2.00",
+   "库存": 4624
+  }
+ ],
+ "规格图": [
+  [
+   "蓝色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01xevI3S1ExwviJUq3l_!!2217709130419-0-cib.jpg"
+  ],
+  [
+   "橙色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01r1uAY31ExwvkKW7nB_!!2217709130419-0-cib.jpg"
+  ],
+  [
+   "蓝色替换壳【不含机芯】",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01ad8toN1ExwvvK6Yox_!!2217709130419-0-cib.jpg"
+  ],
+  [
+   "橙色替换壳【不含机芯】",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01loAhJm1Exwvvm4ZUO_!!2217709130419-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "skuPrice",
+ "价格区间": "2.00-5.80",
+ "阶梯价_登录后": [
+  {
+   "price": "2.00",
+   "beginAmount": 2
+  },
+  {
+   "price": "5.80",
+   "beginAmount": 2
+  }
+ ],
+ "到手价": {
+  "价": "1.5",
+  "说明": "新人价",
+  "件数": 2
+ },
+ "起订量": 2,
+ "单位": "个",
+ "可售总量": 116027,
+ "已售": 3173,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01OJTk8R1ExwvjPm8q5_!!2217709130419-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01I7Jbh61ExwvkJwD0r_!!2217709130419-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01QCDn2Z1Exwvlh3igz_!!2217709130419-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN014tPJGU1ExwviJ1IiX_!!2217709130419-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01ZdG9pJ1Bs33Afj7vC_!!0-0-cib.jpg"
+ ],
+ "商品属性": [
+  "材质:PC+TPE",
+  "产品类别:啃咬玩具",
+  "品牌:无",
+  "是否进口:否",
+  "重量:68G",
+  "货号:G-001",
+  "产地:浙江",
+  "箱装数量:200PCS",
+  "是否专利货源:否",
+  "颜色:蓝色/橙色/蓝色替换壳【不含机芯】/橙色替换壳【不含机芯】",
+  "是否跨境出口专供货源:否",
+  "是否属于礼品:否",
+  "是否IP授权:否"
+ ],
+ "包装信息": [
+  {
+   "volume": 0,
+   "sku1": "蓝色",
+   "length": 0,
+   "width": 0,
+   "weight": 120,
+   "skuId": 5535490721885,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "橙色",
+   "length": 0,
+   "width": 0,
+   "weight": 120,
+   "skuId": 5535490721886,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "蓝色替换壳【不含机芯】",
+   "length": 0,
+   "width": 0,
+   "weight": 100,
+   "skuId": 5715990539637,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "橙色替换壳【不含机芯】",
+   "length": 0,
+   "width": 0,
+   "weight": 100,
+   "skuId": 5715990539636,
+   "height": 0
+  }
+ ],
+ "url": "https://detail.1688.com/offer/822641760334.html",
+ "核页时间": "2026-10-08T12:06:42.958Z"
+}

@@ -1,0 +1,121 @@
+{
+ "offerId": "917082202607",
+ "条目": "H0007",
+ "block": false,
+ "卖家公司": "广东安创塑业有限公司",
+ "旺旺名": "anyacn2013",
+ "标题": "定制密封罐食品级家用防虫防潮厨房面粉淀粉储存罐五谷杂粮收纳盒",
+ "状态": "PUBLISHED",
+ "类目": "密封盒、储物罐",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "颜色",
+   "值": [
+    "500ml",
+    "1000ml",
+    "1600ml",
+    "2000ml"
+   ]
+  },
+  {
+   "属性": "规格",
+   "值": [
+    "透明"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "1600ml&gt;透明",
+   "价格": "11.90",
+   "库存": 0
+  },
+  {
+   "规格": "500ml&gt;透明",
+   "价格": "8.30",
+   "库存": 8
+  },
+  {
+   "规格": "2000ml&gt;透明",
+   "价格": "13.80",
+   "库存": 0
+  },
+  {
+   "规格": "1000ml&gt;透明",
+   "价格": "10.20",
+   "库存": 12
+  }
+ ],
+ "规格图": [
+  [
+   "500ml",
+   "https://cbu01.alicdn.com/img/ibank/O1CN018Pspno20yV2BCJBLq_!!1012976918-0-cib.jpg"
+  ],
+  [
+   "1000ml",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01c4HYmn20yV2CCFLpv_!!1012976918-0-cib.jpg"
+  ],
+  [
+   "1600ml",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01vBd7mk20yV2DK7HKc_!!1012976918-0-cib.jpg"
+  ],
+  [
+   "2000ml",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01L5jq5b20yV2D5lvMb_!!1012976918-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "skuPrice",
+ "价格区间": null,
+ "阶梯价_登录后": [
+  {
+   "price": "8.30",
+   "beginAmount": 5
+  },
+  {
+   "price": "13.80",
+   "beginAmount": 5
+  }
+ ],
+ "到手价": null,
+ "起订量": 5,
+ "单位": "个",
+ "可售总量": null,
+ "已售": 45,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01RdkiKi20yV2CPbzql_!!1012976918-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01MmljHa20yV2BJ8CRD_!!1012976918-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01uH6jSN20yV26MEQXe_!!1012976918-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01NWdnwl20yV2BCJRuq_!!1012976918-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01UECADV20yV2CCDsH7_!!1012976918-0-cib.jpg"
+ ],
+ "商品属性": [
+  "材质:塑料",
+  "品牌:anya",
+  "形状:方形",
+  "容量:1-2L",
+  "是否一次性:否",
+  "产品质量等级:合格品",
+  "微波炉:不可用",
+  "是否进口:否",
+  "货号:D1113",
+  "全国工业生产许可证编号:粤XK16-204-01314",
+  "产地:汕头",
+  "风格:现代简约",
+  "加印LOGO:可以",
+  "贸易属性:内贸",
+  "箱装数量:30",
+  "产品上市时间:2025",
+  "价格段:5-10元",
+  "加工定制:是",
+  "盒子层数:1",
+  "是否有专利:无",
+  "颜色:500ml/1000ml/1600ml/2000ml",
+  "是否跨境出口专供货源:否",
+  "规格:透明",
+  "版权:无"
+ ],
+ "包装信息": null,
+ "url": "https://detail.1688.com/offer/917082202607.html",
+ "核页时间": "2026-10-08T11:46:52.736Z"
+}

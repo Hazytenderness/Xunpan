@@ -1,0 +1,126 @@
+{
+ "offerId": "1042873599773",
+ "条目": "H0026",
+ "block": false,
+ "卖家公司": "义乌市妙祺服饰厂",
+ "旺旺名": "sohomalls888",
+ "标题": "跨境ins手工钩织杯垫抗压咕咕鸡呆白鹅猫咪成品防烫隔热桌面宝物",
+ "状态": "PUBLISHED",
+ "类目": "餐垫、餐巾",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "颜色",
+   "值": [
+    "咕咕鸡杯垫成品",
+    "呆呆鹅杯垫成品",
+    "猫咪杯垫成品"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "呆呆鹅杯垫成品",
+   "价格": "9.00",
+   "库存": 9597
+  },
+  {
+   "规格": "猫咪杯垫成品",
+   "价格": "5.00",
+   "库存": 9999
+  },
+  {
+   "规格": "咕咕鸡杯垫成品",
+   "价格": "11.00",
+   "库存": 8064
+  }
+ ],
+ "规格图": [
+  [
+   "咕咕鸡杯垫成品",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01aXctH52LUpO8xl6y1_!!2549909696-0-cib.jpg"
+  ],
+  [
+   "呆呆鹅杯垫成品",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01Q02nkS2LUpO9B00xB_!!2549909696-0-cib.jpg"
+  ],
+  [
+   "猫咪杯垫成品",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01wgM14J2LUpO8nTWiT_!!2549909696-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "skuPrice",
+ "价格区间": "5.00-11.00",
+ "阶梯价_登录后": [
+  {
+   "price": "5.00",
+   "beginAmount": 3
+  },
+  {
+   "price": "11.00",
+   "beginAmount": 3
+  }
+ ],
+ "到手价": {
+  "价": "4",
+  "说明": "新人价",
+  "件数": 3
+ },
+ "起订量": 3,
+ "单位": "件",
+ "可售总量": 27660,
+ "已售": 2336,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01Prgmx32LUpO8xkNFu_!!2549909696-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN019LlzkN2LUpO9PeRZM_!!2549909696-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01wgM14J2LUpO8nTWiT_!!2549909696-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN018cgo0W2LUpO9OQE1d_!!2549909696-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01aXctH52LUpO8xl6y1_!!2549909696-0-cib.jpg"
+ ],
+ "商品属性": [
+  "材质:毛绒",
+  "品牌:其他",
+  "风格:可爱风",
+  "形状:圆形",
+  "是否支持订制:否",
+  "面料主成分:聚丙烯腈纤维（腈纶）",
+  "面料主成分含量:60%",
+  "面料次成分:聚丙烯腈纤维（腈纶）",
+  "面料次成分含量:60%",
+  "货号:MQWO-260325",
+  "颜色:咕咕鸡杯垫成品/呆呆鹅杯垫成品/猫咪杯垫成品",
+  "空间:其他",
+  "是否有版权或专利:否"
+ ],
+ "包装信息": [
+  {
+   "volume": 0,
+   "sku1": "咕咕鸡杯垫成品",
+   "length": 0,
+   "width": 0,
+   "weight": 25,
+   "skuId": 6067219373219,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "呆呆鹅杯垫成品",
+   "length": 0,
+   "width": 0,
+   "weight": 25,
+   "skuId": 6067219373220,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "猫咪杯垫成品",
+   "length": 0,
+   "width": 0,
+   "weight": 25,
+   "skuId": 6067219373221,
+   "height": 0
+  }
+ ],
+ "url": "https://detail.1688.com/offer/1042873599773.html",
+ "核页时间": "2026-10-08T11:52:09.797Z"
+}

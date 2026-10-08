@@ -1,0 +1,109 @@
+{
+ "offerId": "743844801853",
+ "条目": "H0135",
+ "block": false,
+ "卖家公司": "义乌市熙禾宠物用品有限公司",
+ "旺旺名": "沐熙6688",
+ "标题": "亚马逊爆款宠物梳子不锈钢细针梳猫梳子猫咪专用一键去浮毛宠物刷",
+ "状态": "PUBLISHED",
+ "类目": "宠物梳子",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "颜色",
+   "值": [
+    "灰色",
+    "蓝色",
+    "粉色"
+   ]
+  },
+  {
+   "属性": "规格",
+   "值": [
+    "大号【opp袋装】"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "灰色&gt;大号【opp袋装】",
+   "价格": null,
+   "库存": 28071
+  },
+  {
+   "规格": "蓝色&gt;大号【opp袋装】",
+   "价格": null,
+   "库存": 28586
+  },
+  {
+   "规格": "粉色&gt;大号【opp袋装】",
+   "价格": null,
+   "库存": 26309
+  }
+ ],
+ "规格图": [
+  [
+   "灰色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01iwB5rH1RKdr6EOUG8_!!2200601602093-0-cib.jpg"
+  ],
+  [
+   "蓝色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN012q1PZj1RKdr02pQnJ_!!2200601602093-0-cib.jpg"
+  ],
+  [
+   "粉色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01fzMwmL1RKdr5RmcP6_!!2200601602093-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "rangePrice",
+ "价格区间": null,
+ "阶梯价_登录后": [
+  {
+   "price": "4.75",
+   "beginAmount": 1
+  },
+  {
+   "price": "3.00",
+   "beginAmount": 150
+  },
+  {
+   "price": "2.80",
+   "beginAmount": 1500
+  }
+ ],
+ "到手价": null,
+ "起订量": 1,
+ "单位": "把",
+ "可售总量": 82966,
+ "已售": 0,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01WbAHwV1RKdqxViUbu_!!2200601602093-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN011u2Eh11RKdr4DKBYM_!!2200601602093-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01X4oWzX1RKdqwKwFm5_!!2200601602093-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN015BJoNq1RKdr4DKr6Z_!!2200601602093-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01vvulV41RKdr3AkkvK_!!2200601602093-0-cib.jpg"
+ ],
+ "商品属性": [
+  "材质:不锈钢",
+  "品牌:尾巴联萌/TAILPETS",
+  "是否专利货源:否",
+  "货号:宠物细针梳",
+  "颜色:灰色/蓝色/粉色",
+  "是否跨境出口专供货源:是",
+  "主要销售地区:欧美",
+  "有可授权的自有品牌:是",
+  "主要下游平台:亚马逊",
+  "规格:大号【opp袋装】"
+ ],
+ "包装信息": [
+  {
+   "volume": 0,
+   "length": 0,
+   "width": 0,
+   "weight": 150,
+   "height": 0
+  }
+ ],
+ "url": "https://detail.1688.com/offer/743844801853.html",
+ "核页时间": "2026-10-08T12:23:18.447Z"
+}

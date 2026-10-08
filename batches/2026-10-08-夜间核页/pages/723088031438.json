@@ -1,0 +1,91 @@
+{
+ "offerId": "723088031438",
+ "条目": "H0182",
+ "block": false,
+ "卖家公司": "石家庄朗鑫乐工艺品有限公司",
+ "旺旺名": "朗鑫宫灯旗帜",
+ "标题": "结婚婚房布置装饰花蝴蝶兰假花客厅卧室花瓶仿真花摆件背景墙配件",
+ "状态": "PUBLISHED",
+ "类目": "仿真花",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "颜色",
+   "值": [
+    "大红蝴蝶兰",
+    "香槟色蝴蝶兰"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "香槟色蝴蝶兰",
+   "价格": "1.96",
+   "库存": 78911
+  },
+  {
+   "规格": "大红蝴蝶兰",
+   "价格": "1.96",
+   "库存": 99398
+  }
+ ],
+ "规格图": [
+  [
+   "大红蝴蝶兰",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01RVlxWB25z1LfKOxya_!!2591397596-0-cib.jpg"
+  ],
+  [
+   "香槟色蝴蝶兰",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01TaFGaF1J0vouuKTU6_!!2214560960967-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "rangePrice",
+ "价格区间": "1.28-2.00",
+ "阶梯价_登录后": [
+  {
+   "price": "1.96",
+   "beginAmount": 1
+  },
+  {
+   "price": "1.47",
+   "beginAmount": 500
+  },
+  {
+   "price": "1.25",
+   "beginAmount": 1000
+  }
+ ],
+ "到手价": null,
+ "起订量": 1,
+ "单位": "支",
+ "可售总量": 178309,
+ "已售": 4853,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01QJX9mx25z1LnZLER2_!!2591397596-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01uBxqZz1J0voy8UkWA_!!2214560960967-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01TaFGaF1J0vouuKTU6_!!2214560960967-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01MOE1gU1J0vp1SEV8m_!!2214560960967-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01j09vdb1J0voy8MIId_!!2214560960967-0-cib.jpg"
+ ],
+ "商品属性": [
+  "材质:绢花",
+  "工艺:压纹",
+  "品种:蝴蝶兰",
+  "用途:婚庆/摄影道具/家居装扮",
+  "品牌:朗鑫",
+  "货号:红色蝴蝶兰  香槟蝴蝶兰",
+  "是否专利货源:否",
+  "颜色:大红蝴蝶兰/香槟色蝴蝶兰"
+ ],
+ "包装信息": [
+  {
+   "volume": 0,
+   "length": 0,
+   "width": 0,
+   "weight": 200,
+   "height": 0
+  }
+ ],
+ "url": "https://detail.1688.com/offer/723088031438.html",
+ "核页时间": "2026-10-08T12:36:42.475Z"
+}

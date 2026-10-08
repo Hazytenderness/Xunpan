@@ -1,0 +1,127 @@
+{
+ "offerId": "659496841792",
+ "条目": "H0134",
+ "block": false,
+ "卖家公司": "义乌市爱悠佳宠物用品有限公司",
+ "旺旺名": "lovepet2019",
+ "标题": "跨境爆款宠物自动褪毛梳金属开结梳猫狗去浮毛针梳美容梳子",
+ "状态": "PUBLISHED",
+ "类目": "狗狗清洁美容工具",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "规格",
+   "值": [
+    "细针款（蓝色）",
+    "细针款（粉色）"
+   ]
+  },
+  {
+   "属性": "货号",
+   "值": [
+    "opp包装",
+    "吸塑纸卡装"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "细针款（蓝色）&gt;opp包装",
+   "价格": "3.50",
+   "库存": 215
+  },
+  {
+   "规格": "细针款（蓝色）&gt;吸塑纸卡装",
+   "价格": "3.90",
+   "库存": 83
+  },
+  {
+   "规格": "细针款（粉色）&gt;opp包装",
+   "价格": "3.50",
+   "库存": 103
+  }
+ ],
+ "规格图": [
+  [
+   "细针款（蓝色）",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01KyzHGm1RRy1HbRMXe_!!2201205522109-0-cib.jpg"
+  ],
+  [
+   "细针款（粉色）",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01aeGerx1RRy1NBIylk_!!2201205522109-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "skuPrice",
+ "价格区间": null,
+ "阶梯价_登录后": [
+  {
+   "price": "3.50",
+   "beginAmount": 1
+  },
+  {
+   "price": "3.90",
+   "beginAmount": 1
+  }
+ ],
+ "到手价": null,
+ "起订量": 1,
+ "单位": "个",
+ "可售总量": 401,
+ "已售": 41,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01bICHha1RRy1GK1BJJ_!!2201205522109-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01ntkQFu1RRy1ImbZNK_!!2201205522109-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01VvaKKV1RRy1HIKRDe_!!2201205522109-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01J3Avye1RRy1LQ9cm4_!!2201205522109-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01GdluKx1RRy1MA6sOq_!!2201205522109-0-cib.jpg"
+ ],
+ "商品属性": [
+  "材质:金属",
+  "品牌:爱悠佳",
+  "产品分类:梳子刷子",
+  "是否进口:否",
+  "箱装数量:咨询客服",
+  "是否专利货源:否",
+  "规格:细针款（蓝色）/细针款（粉色）",
+  "货号:opp包装/吸塑纸卡装",
+  "主要下游平台:ebay/亚马逊/wish/速卖通/独立站/LAZADA",
+  "主要销售地区:非洲/欧洲/南美/东南亚/北美/东北亚/中东",
+  "有可授权的自有品牌:是",
+  "是否跨境出口专供货源:是",
+  "是否属于礼品:否"
+ ],
+ "包装信息": [
+  {
+   "sku2": "opp包装",
+   "volume": 0,
+   "sku1": "细针款（蓝色）",
+   "length": 0,
+   "width": 0,
+   "weight": 180,
+   "skuId": 6039425923625,
+   "height": 0
+  },
+  {
+   "sku2": "吸塑纸卡装",
+   "volume": 0,
+   "sku1": "细针款（蓝色）",
+   "length": 0,
+   "width": 0,
+   "weight": 180,
+   "skuId": 4760885625889,
+   "height": 0
+  },
+  {
+   "sku2": "opp包装",
+   "volume": 0,
+   "sku1": "细针款（粉色）",
+   "length": 0,
+   "width": 0,
+   "weight": 180,
+   "skuId": 6039425923626,
+   "height": 0
+  }
+ ],
+ "url": "https://detail.1688.com/offer/659496841792.html",
+ "核页时间": "2026-10-08T12:23:04.330Z"
+}

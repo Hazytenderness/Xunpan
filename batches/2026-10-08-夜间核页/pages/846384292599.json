@@ -1,0 +1,94 @@
+{
+ "offerId": "846384292599",
+ "条目": "H0136",
+ "block": false,
+ "卖家公司": "嘉兴乐优宠物用品股份有限公司",
+ "旺旺名": "乐优宠物20160623",
+ "标题": "鳄鱼猫抓板耐抓不掉屑大空间猫抓沙发猫咪磨爪神器解闷猫抓板窝",
+ "状态": "PUBLISHED",
+ "类目": "猫抓板",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "颜色",
+   "值": [
+    "绿色"
+   ]
+  },
+  {
+   "属性": "规格",
+   "值": [
+    "鳄鱼U型猫抓板"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "绿色&gt;鳄鱼U型猫抓板",
+   "价格": "18.00",
+   "库存": 80
+  }
+ ],
+ "规格图": [
+  [
+   "绿色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN0198zcKY1SDbUmUUSPP_!!2929202213-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "rangePrice",
+ "价格区间": "15.00-18.00",
+ "阶梯价_登录后": [
+  {
+   "price": "18.00",
+   "beginAmount": 1
+  },
+  {
+   "price": "16.00",
+   "beginAmount": 5
+  },
+  {
+   "price": "15.00",
+   "beginAmount": 100
+  }
+ ],
+ "到手价": {
+  "价": "17",
+  "说明": "新人价",
+  "件数": 1
+ },
+ "起订量": 1,
+ "单位": "个",
+ "可售总量": 80,
+ "已售": 210,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01TUDWPE1SDbdblOMiZ_!!2929202213-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01SKHsDD1SDbdbt6kXs_!!2929202213-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01ZOKJ1v1SDbdbmlpcY_!!2929202213-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01bd7XPv1SDbdbPW4Oe_!!2929202213-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01gjX6jQ1SDbdbeSoo4_!!2929202213-0-cib.jpg"
+ ],
+ "商品属性": [
+  "材质:瓦楞纸",
+  "品牌:乐优派",
+  "风格:卡通",
+  "是否专利货源:否",
+  "是否跨境出口专供货源:是",
+  "主要销售地区:韩国/日本/欧洲/国内/南美/东南亚/北美/东北亚/中东/拉丁美洲/欧美/其他",
+  "主要下游平台:ebay/PDD/亚马逊/wish/快手/LINIO/SHEIN/速卖通/天猫/独立站/LAZADA/拼多多/shopee/抖音/垂类电商/其他",
+  "货号:40936900GN010",
+  "颜色:绿色",
+  "箱装数量:10",
+  "规格:鳄鱼U型猫抓板"
+ ],
+ "包装信息": [
+  {
+   "volume": 0,
+   "length": 0,
+   "width": 0,
+   "weight": 2000,
+   "height": 0
+  }
+ ],
+ "url": "https://detail.1688.com/offer/846384292599.html",
+ "核页时间": "2026-10-08T12:23:39.365Z"
+}

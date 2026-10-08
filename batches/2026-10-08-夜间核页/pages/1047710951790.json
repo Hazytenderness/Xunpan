@@ -1,0 +1,97 @@
+{
+ "offerId": "1047710951790",
+ "条目": "H0145",
+ "block": false,
+ "卖家公司": "济宁优锐商贸有限公司",
+ "旺旺名": "优锐商贸公司",
+ "标题": "鹦鹉秋千玩具玄凤牡丹虎皮小太阳啃咬用品鸟笼内装饰鸟攀爬站杆XH",
+ "状态": "PUBLISHED",
+ "类目": "鸟类",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "规格",
+   "值": [
+    "绿色树秋千",
+    "黄色月亮秋千"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "黄色月亮秋千",
+   "价格": "8.50",
+   "库存": 90000
+  },
+  {
+   "规格": "绿色树秋千",
+   "价格": "9.00",
+   "库存": 90000
+  }
+ ],
+ "规格图": [
+  [
+   "绿色树秋千",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01K50JmJ1VnjixOrHCp_!!2220381712698-0-cib.jpg"
+  ],
+  [
+   "黄色月亮秋千",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01xxqJqN1VnjiwfU9mJ_!!2220381712698-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "skuPrice",
+ "价格区间": "8.50-9.00",
+ "阶梯价_登录后": [
+  {
+   "price": "8.50",
+   "beginAmount": 1
+  },
+  {
+   "price": "9.00",
+   "beginAmount": 1
+  }
+ ],
+ "到手价": null,
+ "起订量": 1,
+ "单位": "件",
+ "可售总量": 180000,
+ "已售": 32,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN018Qw6G31VnjixBbK4s_!!2220381712698-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN0141e8OE1VnjiwuqRus_!!2220381712698-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01kCVCeD1VnjiyOCMac_!!2220381712698-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01EyLsyu1Vnjix8jsr8_!!2220381712698-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01uNKmYS1VnjixFw2VU_!!2220381712698-0-cib.jpg"
+ ],
+ "商品属性": [
+  "体型:中型",
+  "年龄:成年",
+  "是否进口:否",
+  "产地:山东",
+  "货号:CX72019",
+  "规格:绿色树秋千/黄色月亮秋千",
+  "是否跨境出口专供货源:否"
+ ],
+ "包装信息": [
+  {
+   "volume": 0,
+   "sku1": "绿色树秋千",
+   "length": 0,
+   "width": 0,
+   "weight": 80,
+   "skuId": 6242964198491,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "黄色月亮秋千",
+   "length": 0,
+   "width": 0,
+   "weight": 80,
+   "skuId": 6242964198492,
+   "height": 0
+  }
+ ],
+ "url": "https://detail.1688.com/offer/1047710951790.html",
+ "核页时间": "2026-10-08T12:26:10.360Z"
+}

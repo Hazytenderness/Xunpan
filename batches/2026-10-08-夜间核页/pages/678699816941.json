@@ -1,0 +1,122 @@
+{
+ "offerId": "678699816941",
+ "条目": "H0090",
+ "block": false,
+ "卖家公司": "山东奈斯宠物用品有限公司",
+ "旺旺名": "奈斯宠物用品有限公司",
+ "标题": "yee仓鼠木屑白杨木刨花金丝熊纸棉除臭低尘造景垫料夏季用品批发",
+ "状态": "PUBLISHED",
+ "类目": "仓鼠生活用品",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "规格",
+   "值": [
+    "精品大刨花1.5kg",
+    "精品中刨花1.5kg",
+    "精品小刨花1.5kg"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "精品小刨花1.5kg",
+   "价格": "21.00",
+   "库存": 686
+  },
+  {
+   "规格": "精品大刨花1.5kg",
+   "价格": "20.00",
+   "库存": 420
+  },
+  {
+   "规格": "精品中刨花1.5kg",
+   "价格": "21.00",
+   "库存": 596
+  }
+ ],
+ "规格图": [
+  [
+   "精品大刨花1.5kg",
+   "https://cbu01.alicdn.com/img/ibank/O1CN012CE34622biHYDRIIR_!!2214247937139-0-cib.jpg"
+  ],
+  [
+   "精品中刨花1.5kg",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01rGdutA22bibwvpm2d_!!2214247937139-0-cib.jpg"
+  ],
+  [
+   "精品小刨花1.5kg",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01vVlOab22biUBxVKJC_!!2214247937139-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "skuPrice",
+ "价格区间": "20.00-21.00",
+ "阶梯价_登录后": [
+  {
+   "price": "20.00",
+   "beginAmount": 1
+  },
+  {
+   "price": "21.00",
+   "beginAmount": 1
+  }
+ ],
+ "到手价": {
+  "价": "18",
+  "说明": "新人价",
+  "件数": 1
+ },
+ "起订量": 1,
+ "单位": "个",
+ "可售总量": 1702,
+ "已售": 175,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN017agQUA22biHSqsUaI_!!2214247937139-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN014ApWbU22biHRKg49T_!!2214247937139-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01F75fyn22biHW0ceXD_!!2214247937139-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01CJBXiL22biHRKiTqq_!!2214247937139-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01v5jozo22biHbM1xGs_!!2214247937139-0-cib.jpg"
+ ],
+ "商品属性": [
+  "材质:木",
+  "品牌:yee",
+  "产地:山东",
+  "是否进口:否",
+  "货号:刨花",
+  "是否专利货源:否",
+  "规格:精品大刨花1.5kg/精品中刨花1.5kg/精品小刨花1.5kg",
+  "是否跨境出口专供货源:否",
+  "适用对象:小宠"
+ ],
+ "包装信息": [
+  {
+   "volume": 33169.5,
+   "sku1": "精品大刨花1.5kg",
+   "length": 39,
+   "width": 27,
+   "weight": 4000,
+   "skuId": 5042590950811,
+   "height": 31.5
+  },
+  {
+   "volume": 32319,
+   "sku1": "精品中刨花1.5kg",
+   "length": 38,
+   "width": 27,
+   "weight": 4000,
+   "skuId": 5042590950813,
+   "height": 31.5
+  },
+  {
+   "volume": 32319,
+   "sku1": "精品小刨花1.5kg",
+   "length": 38,
+   "width": 27,
+   "weight": 4000,
+   "skuId": 5042590950814,
+   "height": 31.5
+  }
+ ],
+ "url": "https://detail.1688.com/offer/678699816941.html",
+ "核页时间": "2026-10-08T12:10:26.868Z"
+}

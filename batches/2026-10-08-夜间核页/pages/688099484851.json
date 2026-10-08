@@ -1,0 +1,80 @@
+{
+ "offerId": "688099484851",
+ "条目": "H0001",
+ "block": false,
+ "卖家公司": "佛山市美居宝包装用品有限公司",
+ "旺旺名": "fsmjb88",
+ "标题": "跨境热销大容量西装套可折叠挂衣袋加厚牛津布家用防尘罩收纳袋子",
+ "状态": "PUBLISHED",
+ "类目": "衣物防尘罩、袋、套",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "颜色",
+   "值": [
+    "黑色"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "黑色",
+   "价格": null,
+   "库存": 125000
+  }
+ ],
+ "规格图": [
+  [
+   "黑色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN012fMmi41GAbIVmVPFJ_!!991960582-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "rangePrice",
+ "价格区间": null,
+ "阶梯价_登录后": [
+  {
+   "price": "31.50",
+   "beginAmount": 500
+  },
+  {
+   "price": "30.50",
+   "beginAmount": 1000
+  },
+  {
+   "price": "29.50",
+   "beginAmount": 3000
+  }
+ ],
+ "到手价": null,
+ "起订量": 500,
+ "单位": "个",
+ "可售总量": null,
+ "已售": 0,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN012fMmi41GAbIVmVPFJ_!!991960582-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01xHytmJ1GAbIXVHw68_!!991960582-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01O9NwwU1GAbIaFNozC_!!991960582-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01iQfEr71GAbIKrBHgb_!!991960582-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN010iYnJR1GAbIb17Zz9_!!991960582-0-cib.jpg"
+ ],
+ "商品属性": [
+  "材质:涤纶",
+  "品牌:Mergeboon",
+  "适用范围:礼服收纳",
+  "风格:简约现代",
+  "是否进口:否",
+  "产品上市时间:2022年秋",
+  "专利:否",
+  "货号:GY163",
+  "颜色:黑色",
+  "主要下游平台:其他",
+  "主要销售地区:欧洲",
+  "有可授权的自有品牌:否",
+  "是否跨境出口专供货源:是",
+  "产地:China",
+  "型号:GY163"
+ ],
+ "包装信息": null,
+ "url": "https://detail.1688.com/offer/688099484851.html",
+ "核页时间": "2026-10-08T11:45:22.720Z"
+}

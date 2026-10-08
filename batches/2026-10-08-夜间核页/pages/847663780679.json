@@ -1,0 +1,131 @@
+{
+ "offerId": "847663780679",
+ "条目": "H0064",
+ "block": false,
+ "卖家公司": "温州市昭物科技有限公司",
+ "旺旺名": "qiu18858744517",
+ "标题": "跨境小型智能玩具室内宠物用品宠物狗狗迷你自动球猫咪迷你逗狗球",
+ "状态": "PUBLISHED",
+ "类目": "狗狗玩具",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "颜色",
+   "值": [
+    "螺旋纹路蓝色",
+    "螺旋纹路橙色",
+    "直线纹路蓝色",
+    "直线纹路橙色",
+    "宇宙纹路蓝色",
+    "宇宙纹路橙色"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "螺旋纹路橙色",
+   "价格": "5.60",
+   "库存": 96780
+  },
+  {
+   "规格": "直线纹路橙色",
+   "价格": "5.60",
+   "库存": 99998
+  },
+  {
+   "规格": "宇宙纹路橙色",
+   "价格": "5.60",
+   "库存": 99994
+  },
+  {
+   "规格": "宇宙纹路蓝色",
+   "价格": "5.60",
+   "库存": 99965
+  },
+  {
+   "规格": "螺旋纹路蓝色",
+   "价格": "5.60",
+   "库存": 96879
+  },
+  {
+   "规格": "直线纹路蓝色",
+   "价格": "5.60",
+   "库存": 99997
+  }
+ ],
+ "规格图": [
+  [
+   "螺旋纹路蓝色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01GEaK3X1IpwUWPmN3d_!!2218306830943-0-cib.jpg"
+  ],
+  [
+   "螺旋纹路橙色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01wmomPx1IpwUdYzpyM_!!2218306830943-0-cib.jpg"
+  ],
+  [
+   "直线纹路蓝色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01HeMTdh1IpwW12Bkfp_!!2218306830943-0-cib.jpg"
+  ],
+  [
+   "直线纹路橙色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01jF3PPw1IpwVyhlwZk_!!2218306830943-0-cib.jpg"
+  ],
+  [
+   "宇宙纹路蓝色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN013TidzQ1IpwW2htlbn_!!2218306830943-0-cib.jpg"
+  ],
+  [
+   "宇宙纹路橙色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01aEQaeN1IpwVxpsis8_!!2218306830943-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "skuPrice",
+ "价格区间": "5.60",
+ "阶梯价_登录后": [
+  {
+   "price": "5.60",
+   "beginAmount": 1
+  }
+ ],
+ "到手价": {
+  "价": "3.6",
+  "说明": "新人价",
+  "件数": 1
+ },
+ "起订量": 1,
+ "单位": "个",
+ "可售总量": 593613,
+ "已售": 1658,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01cKlBQx1IpwW4LZVQw_!!2218306830943-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01FDfhG61IpwUcwdGLe_!!2218306830943-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01Ivu1eY1IpwUfGNB2O_!!2218306830943-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01A8Soq91IpwUdYvkB6_!!2218306830943-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01rFd2gc1IpwUd3HvvX_!!2218306830943-0-cib.jpg"
+ ],
+ "商品属性": [
+  "材质:塑料",
+  "产品类别:啃咬玩具",
+  "品牌:楷行",
+  "是否进口:否",
+  "重量:1",
+  "货号:逗狗球",
+  "产地:温州",
+  "箱装数量:1",
+  "是否专利货源:否",
+  "颜色:螺旋纹路蓝色/螺旋纹路橙色/直线纹路蓝色/直线纹路橙色/宇宙纹路蓝色/宇宙纹路橙色",
+  "是否跨境出口专供货源:否",
+  "是否IP授权:否"
+ ],
+ "包装信息": [
+  {
+   "volume": 0,
+   "length": 0,
+   "width": 0,
+   "weight": 200,
+   "height": 0
+  }
+ ],
+ "url": "https://detail.1688.com/offer/847663780679.html",
+ "核页时间": "2026-10-08T12:02:50.260Z"
+}

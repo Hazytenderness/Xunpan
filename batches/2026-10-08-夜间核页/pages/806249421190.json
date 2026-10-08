@@ -1,0 +1,163 @@
+{
+ "offerId": "806249421190",
+ "条目": "H0103",
+ "block": false,
+ "卖家公司": "曹县正品家居有限公司",
+ "旺旺名": "曹县正品家居有限公司",
+ "标题": "猫碗陶瓷双碗猫粮食斜口盆保护颈椎狗碗饮水木制高脚碗架",
+ "状态": "PUBLISHED",
+ "类目": "猫猫食具",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "规格",
+   "值": [
+    "款式一",
+    "款式二",
+    "款式三",
+    "款式四",
+    "款式五"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "款式一",
+   "价格": "20.80",
+   "库存": 45604
+  },
+  {
+   "规格": "款式四",
+   "价格": "12.80",
+   "库存": 45645
+  },
+  {
+   "规格": "款式二",
+   "价格": "30.80",
+   "库存": 45445
+  },
+  {
+   "规格": "款式五",
+   "价格": "19.80",
+   "库存": 45645
+  },
+  {
+   "规格": "款式三",
+   "价格": "9.90",
+   "库存": 45573
+  }
+ ],
+ "规格图": [
+  [
+   "款式一",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01QcVl8Z26zljzzY6eg_!!2217871207733-0-cib.jpg"
+  ],
+  [
+   "款式二",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01zjdrFM26zlk22jCPt_!!2217871207733-0-cib.jpg"
+  ],
+  [
+   "款式三",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01oaVBw326zljyU7PVA_!!2217871207733-0-cib.jpg"
+  ],
+  [
+   "款式四",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01J0d8n226zlk4OaHcQ_!!2217871207733-0-cib.jpg"
+  ],
+  [
+   "款式五",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01lig7Ve26zljy9EzLL_!!2217871207733-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "skuPrice",
+ "价格区间": null,
+ "阶梯价_登录后": [
+  {
+   "price": "9.90",
+   "beginAmount": 200
+  },
+  {
+   "price": "30.80",
+   "beginAmount": 200
+  }
+ ],
+ "到手价": null,
+ "起订量": 200,
+ "单位": "件",
+ "可售总量": 227912,
+ "已售": 0,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01zGzPm226zljxGdKTM_!!2217871207733-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01Id9oDQ26zljzzGS1C_!!2217871207733-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01JUgObr26zljyTqDy5_!!2217871207733-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01X4eL8426zljzynW9a_!!2217871207733-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01aTGkg126zlk0LsgGz_!!2217871207733-0-cib.jpg"
+ ],
+ "商品属性": [
+  "材质:木质",
+  "品牌:其他",
+  "成套自动喂食:是",
+  "产地:山东",
+  "是否进口:否",
+  "货号:42猫咪食架",
+  "箱装数量:1",
+  "是否专利货源:否",
+  "规格:款式一/款式二/款式三/款式四/款式五",
+  "主要下游平台:ebay/亚马逊/wish/速卖通/独立站/LAZADA/其他",
+  "主要销售地区:非洲/欧洲/南美/东南亚/北美/东北亚/中东/其他",
+  "有可授权的自有品牌:否",
+  "是否跨境出口专供货源:是",
+  "是否属于礼品:否",
+  "是否IP授权:否",
+  "是否智能:否"
+ ],
+ "包装信息": [
+  {
+   "volume": 0,
+   "sku1": "款式一",
+   "length": 0,
+   "width": 0,
+   "weight": 500,
+   "skuId": 5483883249992,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "款式二",
+   "length": 0,
+   "width": 0,
+   "weight": 500,
+   "skuId": 5483883249993,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "款式三",
+   "length": 0,
+   "width": 0,
+   "weight": 500,
+   "skuId": 5483883249994,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "款式四",
+   "length": 0,
+   "width": 0,
+   "weight": 500,
+   "skuId": 5483883249995,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "款式五",
+   "length": 0,
+   "width": 0,
+   "weight": 500,
+   "skuId": 5483883249996,
+   "height": 0
+  }
+ ],
+ "url": "https://detail.1688.com/offer/806249421190.html",
+ "核页时间": "2026-10-08T12:14:39.865Z"
+}

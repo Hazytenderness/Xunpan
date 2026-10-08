@@ -1,0 +1,622 @@
+{
+ "offerId": "1047606436589",
+ "条目": "H0128",
+ "block": false,
+ "卖家公司": "神经猫宠物用品有限公司",
+ "旺旺名": "淮安神经猫宠物",
+ "标题": "黑粉多巴胺悬浮水碗宠物饮水碗中小型犬不湿嘴碗喝水碗防打翻单碗",
+ "状态": "PUBLISHED",
+ "类目": "狗狗食具",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "规格",
+   "值": [
+    "雷奥黑-小号600ml",
+    "雷奥黑-大号1200ml",
+    "弥雅白-小号600ml",
+    "弥雅白-大号1200ml",
+    "蒂安绿-小号600ml",
+    "蒂安绿-大号1200ml",
+    "邦迪蓝-小号600ml",
+    "邦迪蓝-大号1200ml",
+    "红kitty-小号600ml",
+    "红kitty-大号1200ml",
+    "大耳狗-小号600ml",
+    "大耳狗-大号1200ml",
+    "基础绿-小号600ml",
+    "基础绿-大号1200ml",
+    "基础蓝-小号600ml",
+    "基础蓝-大号1200ml",
+    "基础棕-小号600ml",
+    "基础棕-大号1200ml",
+    "迈洛灰-小号600ml",
+    "橙灰色-小号",
+    "加高黑-大号",
+    "伊芙白-小号600ml",
+    "伊芙白-大号1200ml",
+    "塞伦紫-小号600ml",
+    "塞伦紫-大号1200ml",
+    "卡洛蓝-小号600ml",
+    "卡洛蓝-大号1200ml",
+    "迈洛灰-大号1200ml",
+    "橙灰色-大号"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "迈洛灰-大号1200ml",
+   "价格": "38.00",
+   "库存": 0
+  },
+  {
+   "规格": "弥雅白-大号1200ml",
+   "价格": "23.50",
+   "库存": 241
+  },
+  {
+   "规格": "加高黑-大号",
+   "价格": "18.00",
+   "库存": 29
+  },
+  {
+   "规格": "大耳狗-小号600ml",
+   "价格": "21.80",
+   "库存": 264
+  },
+  {
+   "规格": "基础绿-小号600ml",
+   "价格": "16.50",
+   "库存": 226
+  },
+  {
+   "规格": "雷奥黑-大号1200ml",
+   "价格": "23.50",
+   "库存": 401
+  },
+  {
+   "规格": "弥雅白-小号600ml",
+   "价格": "18.50",
+   "库存": 931
+  },
+  {
+   "规格": "大耳狗-大号1200ml",
+   "价格": "26.80",
+   "库存": 134
+  },
+  {
+   "规格": "蒂安绿-小号600ml",
+   "价格": "18.50",
+   "库存": 470
+  },
+  {
+   "规格": "基础棕-大号1200ml",
+   "价格": "17.50",
+   "库存": 37
+  },
+  {
+   "规格": "塞伦紫-大号1200ml",
+   "价格": "25.00",
+   "库存": 131
+  },
+  {
+   "规格": "卡洛蓝-大号1200ml",
+   "价格": "25.00",
+   "库存": 89
+  },
+  {
+   "规格": "伊芙白-大号1200ml",
+   "价格": "25.00",
+   "库存": 157
+  },
+  {
+   "规格": "红kitty-小号600ml",
+   "价格": "21.80",
+   "库存": 344
+  },
+  {
+   "规格": "橙灰色-小号",
+   "价格": "33.00",
+   "库存": 55
+  },
+  {
+   "规格": "伊芙白-小号600ml",
+   "价格": "20.00",
+   "库存": 294
+  },
+  {
+   "规格": "迈洛灰-小号600ml",
+   "价格": "33.00",
+   "库存": 55
+  },
+  {
+   "规格": "基础棕-小号600ml",
+   "价格": "16.50",
+   "库存": 117
+  },
+  {
+   "规格": "红kitty-大号1200ml",
+   "价格": "26.80",
+   "库存": 348
+  },
+  {
+   "规格": "塞伦紫-小号600ml",
+   "价格": "20.00",
+   "库存": 93
+  },
+  {
+   "规格": "基础绿-大号1200ml",
+   "价格": "17.50",
+   "库存": 124
+  },
+  {
+   "规格": "邦迪蓝-大号1200ml",
+   "价格": "23.50",
+   "库存": 497
+  },
+  {
+   "规格": "基础蓝-小号600ml",
+   "价格": "16.50",
+   "库存": 230
+  },
+  {
+   "规格": "卡洛蓝-小号600ml",
+   "价格": "20.00",
+   "库存": 308
+  },
+  {
+   "规格": "雷奥黑-小号600ml",
+   "价格": "18.50",
+   "库存": 703
+  },
+  {
+   "规格": "邦迪蓝-小号600ml",
+   "价格": "18.50",
+   "库存": 1215
+  },
+  {
+   "规格": "橙灰色-大号",
+   "价格": "38.00",
+   "库存": 0
+  },
+  {
+   "规格": "基础蓝-大号1200ml",
+   "价格": "17.50",
+   "库存": 56
+  },
+  {
+   "规格": "蒂安绿-大号1200ml",
+   "价格": "23.50",
+   "库存": 277
+  }
+ ],
+ "规格图": [
+  [
+   "雷奥黑-小号600ml",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01E7fg5j1QS8yC8bWdU_!!2206811161974-0-cib.jpg"
+  ],
+  [
+   "雷奥黑-大号1200ml",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01IPdUFr1QS8yC1BdXg_!!2206811161974-0-cib.jpg"
+  ],
+  [
+   "弥雅白-小号600ml",
+   "https://cbu01.alicdn.com/img/ibank/O1CN018QA0VY1QS8yC1AZ71_!!2206811161974-0-cib.jpg"
+  ],
+  [
+   "弥雅白-大号1200ml",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01bXJvml1QS8yCOA0lq_!!2206811161974-0-cib.jpg"
+  ],
+  [
+   "蒂安绿-小号600ml",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01Hoq1jd1QS8yCAZ3GS_!!2206811161974-0-cib.jpg"
+  ],
+  [
+   "蒂安绿-大号1200ml",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01pC8rLF1QS8yCG1xRD_!!2206811161974-0-cib.jpg"
+  ],
+  [
+   "邦迪蓝-小号600ml",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01dB4rSQ1QS8yCAYJXR_!!2206811161974-0-cib.jpg"
+  ],
+  [
+   "邦迪蓝-大号1200ml",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01YVbEaJ1QS8yCT2daN_!!2206811161974-0-cib.jpg"
+  ],
+  [
+   "红kitty-小号600ml",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01uCCFnq1QS8z4RkqUG_!!2206811161974-0-cib.jpg"
+  ],
+  [
+   "红kitty-大号1200ml",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01MusGX61QS8z4YNiuO_!!2206811161974-0-cib.jpg"
+  ],
+  [
+   "大耳狗-小号600ml",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01Rh0XGr1QS8z4Rkz1D_!!2206811161974-0-cib.jpg"
+  ],
+  [
+   "大耳狗-大号1200ml",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01hRZLXw1QS8z4tAoWe_!!2206811161974-0-cib.jpg"
+  ],
+  [
+   "基础绿-小号600ml",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01jpxfHu1QS8ymqOohZ_!!2206811161974-0-cib.jpg"
+  ],
+  [
+   "基础绿-大号1200ml",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01ACCPE21QS8ymlFyUm_!!2206811161974-0-cib.jpg"
+  ],
+  [
+   "基础蓝-小号600ml",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01UOg4jR1QS8ymzbdvf_!!2206811161974-0-cib.jpg"
+  ],
+  [
+   "基础蓝-大号1200ml",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01Bdx5ap1QS8ymXHeEW_!!2206811161974-0-cib.jpg"
+  ],
+  [
+   "基础棕-小号600ml",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01dqWyPL1QS8ymWLwb9_!!2206811161974-0-cib.jpg"
+  ],
+  [
+   "基础棕-大号1200ml",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01lNL7RE1QS8ymVAUGz_!!2206811161974-0-cib.jpg"
+  ],
+  [
+   "迈洛灰-小号600ml",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01UA6sFm1QS8ymkvQgA_!!2206811161974-0-cib.jpg"
+  ],
+  [
+   "橙灰色-小号",
+   "https://cbu01.alicdn.com/img/ibank/O1CN0141ep3u1QS8ymf4zIN_!!2206811161974-0-cib.jpg"
+  ],
+  [
+   "加高黑-大号",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01jCUi2m1QS8ymknFtS_!!2206811161974-0-cib.jpg"
+  ],
+  [
+   "伊芙白-小号600ml",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01S6xx9mlFzJI1chua_!!2206811161974-0-cib.jpg"
+  ],
+  [
+   "伊芙白-大号1200ml",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01HPcO29vCobD1chua_!!2206811161974-0-cib.jpg"
+  ],
+  [
+   "塞伦紫-小号600ml",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01dGoCAqjm8oJ1chua_!!2206811161974-0-cib.jpg"
+  ],
+  [
+   "塞伦紫-大号1200ml",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01YTZMgYG3AEE1chua_!!2206811161974-0-cib.jpg"
+  ],
+  [
+   "卡洛蓝-小号600ml",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01OiABz9Q0qoG1chua_!!2206811161974-0-cib.jpg"
+  ],
+  [
+   "卡洛蓝-大号1200ml",
+   "https://cbu01.alicdn.com/img/ibank/O1CN012ZhyvPMvTbF1chua_!!2206811161974-0-cib.jpg"
+  ],
+  [
+   "迈洛灰-大号1200ml",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01VFvTDA1QS8ymkuMAO_!!2206811161974-0-cib.jpg"
+  ],
+  [
+   "橙灰色-大号",
+   "https://cbu01.alicdn.com/img/ibank/O1CN014yZTm01QS8yi9f6yR_!!2206811161974-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "skuPrice",
+ "价格区间": "16.50-33.00",
+ "阶梯价_登录后": [
+  {
+   "price": "16.50",
+   "beginAmount": 1
+  },
+  {
+   "price": "38.00",
+   "beginAmount": 1
+  }
+ ],
+ "到手价": {
+  "价": "15.5",
+  "说明": "新人价",
+  "件数": 1
+ },
+ "起订量": 1,
+ "单位": "个",
+ "可售总量": 7826,
+ "已售": 2346,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01LOMT541QS8yCSkjWH_!!2206811161974-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01Yb7pai1QS8yBohRlf_!!2206811161974-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN018XOWRs1QS8yDYNxqb_!!2206811161974-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01fFMYk01QS8yBog6c4_!!2206811161974-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01UTXG9G1QS8yCbO1Ls_!!2206811161974-0-cib.jpg"
+ ],
+ "商品属性": [
+  "材质:PP",
+  "品牌:神经猫",
+  "成套自动喂食:否",
+  "产地:江苏",
+  "是否进口:否",
+  "货号:2606LBDJ5092-MP",
+  "箱装数量:/",
+  "是否专利货源:否",
+  "规格:雷奥黑-小号600ml/雷奥黑-大号1200ml/弥雅白-小号600ml/弥雅白-大号1200ml/蒂安绿-小号600ml/蒂安绿-大号1200ml/邦迪蓝-小号600ml/邦迪蓝-大号1200ml/红kitty-小号600ml/红kitty-大号1200ml/大耳狗-小号600ml/大耳狗-大号1200ml/基础绿-小号600ml/基础绿-大号1200ml/基础蓝-小号600ml/基础蓝-大号1200ml/基础棕-小号600ml/基础棕-大号1200ml/迈洛灰-小号600ml/迈洛灰-大号1200ml/橙灰色-小号/橙灰色-大号/加高黑-大号/伊芙白-小号600ml/伊芙白-大号1200ml/塞伦紫-小号600ml/塞伦紫-大号1200ml/卡洛蓝-小号600ml/卡洛蓝-大号1200ml",
+  "主要下游平台:ebay/亚马逊/wish/速卖通/独立站/LAZADA",
+  "主要销售地区:非洲/欧洲/南美/东南亚/北美/东北亚/中东",
+  "有可授权的自有品牌:否",
+  "是否跨境出口专供货源:是",
+  "是否属于礼品:否",
+  "是否IP授权:否"
+ ],
+ "包装信息": [
+  {
+   "volume": 0,
+   "sku1": "雷奥黑-小号600ml",
+   "length": 0,
+   "width": 0,
+   "weight": 800,
+   "skuId": 6122987484335,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "雷奥黑-大号1200ml",
+   "length": 0,
+   "width": 0,
+   "weight": 1200,
+   "skuId": 6122987484339,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "弥雅白-小号600ml",
+   "length": 0,
+   "width": 0,
+   "weight": 800,
+   "skuId": 6122987484333,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "弥雅白-大号1200ml",
+   "length": 0,
+   "width": 0,
+   "weight": 1200,
+   "skuId": 6122987484337,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "蒂安绿-小号600ml",
+   "length": 0,
+   "width": 0,
+   "weight": 800,
+   "skuId": 6122987484334,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "蒂安绿-大号1200ml",
+   "length": 0,
+   "width": 0,
+   "weight": 1200,
+   "skuId": 6122987484338,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "邦迪蓝-小号600ml",
+   "length": 0,
+   "width": 0,
+   "weight": 800,
+   "skuId": 6122987484336,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "邦迪蓝-大号1200ml",
+   "length": 0,
+   "width": 0,
+   "weight": 1200,
+   "skuId": 6122987484340,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "红kitty-小号600ml",
+   "length": 0,
+   "width": 0,
+   "weight": 800,
+   "skuId": 6122987484343,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "红kitty-大号1200ml",
+   "length": 0,
+   "width": 0,
+   "weight": 1200,
+   "skuId": 6122987484344,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "大耳狗-小号600ml",
+   "length": 0,
+   "width": 0,
+   "weight": 800,
+   "skuId": 6122987484342,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "大耳狗-大号1200ml",
+   "length": 0,
+   "width": 0,
+   "weight": 1200,
+   "skuId": 6122987484341,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "基础绿-小号600ml",
+   "length": 0,
+   "width": 0,
+   "weight": 800,
+   "skuId": 6122987484350,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "基础绿-大号1200ml",
+   "length": 0,
+   "width": 0,
+   "weight": 1200,
+   "skuId": 6122987484354,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "基础蓝-小号600ml",
+   "length": 0,
+   "width": 0,
+   "weight": 800,
+   "skuId": 6122987484351,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "基础蓝-大号1200ml",
+   "length": 0,
+   "width": 0,
+   "weight": 1200,
+   "skuId": 6122987484355,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "基础棕-小号600ml",
+   "length": 0,
+   "width": 0,
+   "weight": 800,
+   "skuId": 6122987484352,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "基础棕-大号1200ml",
+   "length": 0,
+   "width": 0,
+   "weight": 1200,
+   "skuId": 6122987484356,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "迈洛灰-小号600ml",
+   "length": 0,
+   "width": 0,
+   "weight": 800,
+   "skuId": 6122987484353,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "迈洛灰-大号1200ml",
+   "length": 0,
+   "width": 0,
+   "weight": 1200,
+   "skuId": 6122987484357,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "橙灰色-小号",
+   "length": 0,
+   "width": 0,
+   "weight": 800,
+   "skuId": 6264021826699,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "橙灰色-大号",
+   "length": 0,
+   "width": 0,
+   "weight": 1200,
+   "skuId": 6264021826700,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "加高黑-大号",
+   "length": 0,
+   "width": 0,
+   "weight": 1200,
+   "skuId": 6264021826708,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "伊芙白-小号600ml",
+   "length": 0,
+   "width": 0,
+   "weight": 800,
+   "skuId": 6122987484345,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "伊芙白-大号1200ml",
+   "length": 0,
+   "width": 0,
+   "weight": 1200,
+   "skuId": 6122987484346,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "塞伦紫-小号600ml",
+   "length": 0,
+   "width": 0,
+   "weight": 800,
+   "skuId": 6122987484347,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "塞伦紫-大号1200ml",
+   "length": 0,
+   "width": 0,
+   "weight": 1200,
+   "skuId": 6300637627097,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "卡洛蓝-小号600ml",
+   "length": 0,
+   "width": 0,
+   "weight": 800,
+   "skuId": 6122987484348,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "卡洛蓝-大号1200ml",
+   "length": 0,
+   "width": 0,
+   "weight": 1200,
+   "skuId": 6122987484349,
+   "height": 0
+  }
+ ],
+ "url": "https://detail.1688.com/offer/1047606436589.html",
+ "核页时间": "2026-10-08T12:20:34.076Z"
+}

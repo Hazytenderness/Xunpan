@@ -1,0 +1,96 @@
+{
+ "offerId": "771258741824",
+ "条目": "H0181",
+ "block": false,
+ "卖家公司": "天津市武清区艺航人造花厂",
+ "旺旺名": "天津市武清区艺航人造花厂",
+ "标题": "仿真8头蝴蝶兰 婚房布置背景墙套装 婚礼堂家居摄影美陈装饰配件",
+ "状态": "PUBLISHED",
+ "类目": "仿真绿植",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "颜色",
+   "值": [
+    "红色",
+    "粉色"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "粉色",
+   "价格": "1.70",
+   "库存": 76541
+  },
+  {
+   "规格": "红色",
+   "价格": "1.70",
+   "库存": 71880
+  }
+ ],
+ "规格图": [
+  [
+   "红色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01qAweuw1t33w191AgB_!!2206943125845-0-cib.jpg"
+  ],
+  [
+   "粉色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01k5eNQS1t33w2oqENx_!!2206943125845-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "rangePrice",
+ "价格区间": "1.50-1.70",
+ "阶梯价_登录后": [
+  {
+   "price": "1.70",
+   "beginAmount": 2
+  },
+  {
+   "price": "1.60",
+   "beginAmount": 50
+  },
+  {
+   "price": "1.50",
+   "beginAmount": 100
+  }
+ ],
+ "到手价": {
+  "价": "1.2",
+  "说明": "新人价",
+  "件数": 2
+ },
+ "起订量": 2,
+ "单位": "支",
+ "可售总量": 148421,
+ "已售": 139,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01rAvqRl1t33w4pFqKS_!!2206943125845-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01zG8nRH1t33w4psvE7_!!2206943125845-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN013neCgq1t33w5UMsQ6_!!2206943125845-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01g2bLjG1t33vsaD8JW_!!2206943125845-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01vJzUYL1t33w3ge4ZN_!!2206943125845-0-cib.jpg"
+ ],
+ "商品属性": [
+  "材质:23007714325",
+  "品种:跳舞兰",
+  "品牌:其他",
+  "工艺:22020489988",
+  "用途:婚庆/户外/摄影道具/家居装扮",
+  "货号:蝴蝶兰",
+  "是否专利货源:否",
+  "颜色:红色/粉色",
+  "高度:98cm"
+ ],
+ "包装信息": [
+  {
+   "volume": 0,
+   "length": 0,
+   "width": 0,
+   "weight": 100,
+   "height": 0
+  }
+ ],
+ "url": "https://detail.1688.com/offer/771258741824.html",
+ "核页时间": "2026-10-08T12:36:26.549Z"
+}

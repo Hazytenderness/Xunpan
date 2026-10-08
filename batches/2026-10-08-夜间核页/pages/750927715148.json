@@ -1,0 +1,126 @@
+{
+ "offerId": "750927715148",
+ "条目": "H0183",
+ "block": false,
+ "卖家公司": "义乌市茗趣仿真花有限公司",
+ "旺旺名": "lovelxy588",
+ "标题": "单支秋色8头仿真蝴蝶兰假花绢布蝴蝶兰婚礼装饰人造花批发",
+ "状态": "PUBLISHED",
+ "类目": "仿真花",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "颜色",
+   "值": [
+    "蓝色",
+    "粉红色",
+    "香槟色",
+    "红色",
+    "紫色"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "香槟色",
+   "价格": "2.50",
+   "库存": 8650
+  },
+  {
+   "规格": "蓝色",
+   "价格": "2.50",
+   "库存": 5550
+  },
+  {
+   "规格": "紫色",
+   "价格": "2.50",
+   "库存": 8650
+  },
+  {
+   "规格": "粉红色",
+   "价格": "2.50",
+   "库存": 8200
+  },
+  {
+   "规格": "红色",
+   "价格": "2.50",
+   "库存": 8650
+  }
+ ],
+ "规格图": [
+  [
+   "蓝色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN012pYSYc1V9QdJiOniW_!!2357992610-0-cib.jpg"
+  ],
+  [
+   "粉红色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN0173HWrI1V9QdKX4tam_!!2357992610-0-cib.jpg"
+  ],
+  [
+   "香槟色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01Bdj3o11V9QdHVFkKf_!!2357992610-0-cib.jpg"
+  ],
+  [
+   "红色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01De8fyz1V9QdILg8Sv_!!2357992610-0-cib.jpg"
+  ],
+  [
+   "紫色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01I6FXyh1V9QdLKRtLO_!!2357992610-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "rangePrice",
+ "价格区间": "2.20-2.50",
+ "阶梯价_登录后": [
+  {
+   "price": "2.50",
+   "beginAmount": 100
+  },
+  {
+   "price": "2.30",
+   "beginAmount": 1000
+  },
+  {
+   "price": "2.20",
+   "beginAmount": 1400
+  }
+ ],
+ "到手价": {
+  "价": "2.4",
+  "说明": "新人价",
+  "件数": 100
+ },
+ "起订量": 100,
+ "单位": "枝",
+ "可售总量": 39700,
+ "已售": 0,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01KfgB521V9QdFPkG8t_!!2357992610-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN017uVlJi1V9QdFPkzuL_!!2357992610-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01BUK2Wb1V9QdBoGiK0_!!2357992610-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01f0cfQu1V9QdCupnsR_!!2357992610-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01coXo9m1V9QdI0gOQA_!!2357992610-0-cib.jpg"
+ ],
+ "商品属性": [
+  "材质:绢花",
+  "工艺:其它",
+  "品种:蝴蝶兰",
+  "用途:户外/摄影道具/家居装扮/其他",
+  "品牌:茗趣",
+  "货号:ME23512",
+  "是否专利货源:否",
+  "颜色:蓝色/粉红色/香槟色/红色/紫色",
+  "长度:70cm"
+ ],
+ "包装信息": [
+  {
+   "volume": 0,
+   "length": 0,
+   "width": 0,
+   "weight": 520,
+   "height": 0
+  }
+ ],
+ "url": "https://detail.1688.com/offer/750927715148.html",
+ "核页时间": "2026-10-08T12:37:00.518Z"
+}

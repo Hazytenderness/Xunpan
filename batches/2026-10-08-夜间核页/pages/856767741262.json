@@ -1,0 +1,100 @@
+{
+ "offerId": "856767741262",
+ "条目": "H0035",
+ "block": false,
+ "卖家公司": "义乌市哈沃宠物用品厂",
+ "旺旺名": "义乌妙宠宠物",
+ "标题": "原创狗狗厕所定位定点排便诱导剂宠物大小便定位引导训练液批发",
+ "状态": "PUBLISHED",
+ "类目": "排便定位",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "规格",
+   "值": [
+    "排便诱导剂-120ml",
+    "排便诱导剂-30ml（便携装）"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "排便诱导剂-120ml",
+   "价格": "4.00",
+   "库存": 1735
+  },
+  {
+   "规格": "排便诱导剂-30ml（便携装）",
+   "价格": "3.00",
+   "库存": 5507
+  }
+ ],
+ "规格图": [
+  [
+   "排便诱导剂-120ml",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01aDa44f29U7GPzu2NZ_!!2098498070-0-cib.jpg"
+  ],
+  [
+   "排便诱导剂-30ml（便携装）",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01Ow9UPp29U7NqjADLq_!!2098498070-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "skuPrice",
+ "价格区间": null,
+ "阶梯价_登录后": [
+  {
+   "price": "3.00",
+   "beginAmount": 1
+  },
+  {
+   "price": "4.00",
+   "beginAmount": 1
+  }
+ ],
+ "到手价": null,
+ "起订量": 1,
+ "单位": "瓶",
+ "可售总量": 7242,
+ "已售": 195,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN0187LT1Z29U7GRVXmkX_!!2098498070-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01mr6EdK29U7GQkatSL_!!2098498070-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN013ZRKz229U7GQkXTMg_!!2098498070-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01NlSQws29U7GRVWJFE_!!2098498070-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN0165rja829U7GO8wAp8_!!2098498070-0-cib.jpg"
+ ],
+ "商品属性": [
+  "品牌:HAWoo/哈沃",
+  "是否进口:否",
+  "产地:浙江",
+  "货号:HW-102244",
+  "是否专利货源:否",
+  "规格:排便诱导剂-120ml/排便诱导剂-30ml（便携装）",
+  "主要下游平台:ebay/亚马逊/wish/速卖通/独立站/LAZADA/其他",
+  "主要销售地区:非洲/欧洲/南美/东南亚/北美/东北亚/中东/其他",
+  "有可授权的自有品牌:是",
+  "是否跨境出口专供货源:是"
+ ],
+ "包装信息": [
+  {
+   "volume": 0,
+   "sku1": "排便诱导剂-120ml",
+   "length": 0,
+   "width": 0,
+   "weight": 140,
+   "skuId": 5831996011666,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "排便诱导剂-30ml（便携装）",
+   "length": 0,
+   "width": 0,
+   "weight": 40,
+   "skuId": 6226269615420,
+   "height": 0
+  }
+ ],
+ "url": "https://detail.1688.com/offer/856767741262.html",
+ "核页时间": "2026-10-08T11:54:36.020Z"
+}

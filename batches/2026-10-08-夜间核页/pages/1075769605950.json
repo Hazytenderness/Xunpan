@@ -1,0 +1,972 @@
+{
+ "offerId": "1075769605950",
+ "条目": "H0163",
+ "block": false,
+ "卖家公司": "保定欢颜纺织品制造有限公司",
+ "旺旺名": "棉花唐纱布",
+ "标题": "跨境素色六层纱布毛巾新生婴儿a类外贸口水童巾毛巾拍嗝巾亚马逊",
+ "状态": "PUBLISHED",
+ "类目": "围嘴围兜/口水巾",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "颜色",
+   "值": [
+    "方巾30cm/30cm-暗粉",
+    "方巾30cm/30cm-暗红",
+    "方巾30cm/30cm-白色",
+    "方巾30cm/30cm-粉色",
+    "方巾30cm/30cm-灰绿",
+    "方巾30cm/30cm-灰色",
+    "方巾30cm/30cm-蓝色",
+    "方巾30cm/30cm-绿色",
+    "方巾30cm/30cm-米粉",
+    "方巾30cm/30cm-米色",
+    "方巾30cm/30cm-浅粉",
+    "方巾30cm/30cm-浅棕",
+    "方巾30cm/30cm-驼色",
+    "童巾25/50cm暗粉",
+    "童巾25/50cm暗红",
+    "童巾25/50cm白色",
+    "童巾25/50cm粉色",
+    "童巾25/50cm灰绿",
+    "童巾25/50cm灰色",
+    "童巾25/50cm蓝色",
+    "童巾25/50cm绿色",
+    "童巾25/50cm米粉",
+    "童巾25/50cm米色",
+    "童巾25/50cm浅粉",
+    "童巾25/50cm浅棕",
+    "童巾25/50cm驼色",
+    "方巾30cm/30cm白色12个装",
+    "高密方巾25*25cm-白色",
+    "高密方巾25*25cm-豆绿",
+    "高密方巾25*25cm-粉色",
+    "高密方巾25*25cm-黄粉",
+    "高密方巾25*25cm-灰蓝",
+    "高密方巾25*25cm-米色",
+    "高密方巾25*25cm-浅灰",
+    "高密方巾25*25cm-深棕",
+    "高密童巾25*50cm-白色",
+    "高密童巾25*50cm-豆绿",
+    "高密童巾25*50cm-粉色",
+    "高密童巾25*50cm-黄粉",
+    "高密童巾25*50cm-灰蓝",
+    "高密童巾25*50cm-米色",
+    "高密童巾25*50cm-浅灰",
+    "高密童巾25*50cm-深棕",
+    "素色童巾-浅紫25*50cm",
+    "素色童巾-灰色25*50cm",
+    "素色童巾-豆沙色25*50cm",
+    "素色童巾-酒红色25*50cm"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "童巾25/50cm白色",
+   "价格": "4.50",
+   "库存": 999998
+  },
+  {
+   "规格": "方巾30cm/30cm-暗红",
+   "价格": "3.50",
+   "库存": 50000
+  },
+  {
+   "规格": "童巾25/50cm暗粉",
+   "价格": "4.50",
+   "库存": 999991
+  },
+  {
+   "规格": "高密童巾25*50cm-白色",
+   "价格": "4.50",
+   "库存": 49996
+  },
+  {
+   "规格": "童巾25/50cm绿色",
+   "价格": "4.50",
+   "库存": 1000000
+  },
+  {
+   "规格": "高密童巾25*50cm-米色",
+   "价格": "4.50",
+   "库存": 49997
+  },
+  {
+   "规格": "方巾30cm/30cm-米粉",
+   "价格": "3.50",
+   "库存": 50000
+  },
+  {
+   "规格": "方巾30cm/30cm-浅粉",
+   "价格": "3.50",
+   "库存": 50000
+  },
+  {
+   "规格": "方巾30cm/30cm白色12个装",
+   "价格": "23.00",
+   "库存": 50000
+  },
+  {
+   "规格": "高密方巾25*25cm-粉色",
+   "价格": "3.20",
+   "库存": 49999
+  },
+  {
+   "规格": "方巾30cm/30cm-蓝色",
+   "价格": "3.50",
+   "库存": 50000
+  },
+  {
+   "规格": "童巾25/50cm灰绿",
+   "价格": "4.50",
+   "库存": 1000000
+  },
+  {
+   "规格": "高密方巾25*25cm-深棕",
+   "价格": "3.20",
+   "库存": 49998
+  },
+  {
+   "规格": "素色童巾-浅紫25*50cm",
+   "价格": "4.50",
+   "库存": 50000
+  },
+  {
+   "规格": "方巾30cm/30cm-驼色",
+   "价格": "3.50",
+   "库存": 50000
+  },
+  {
+   "规格": "高密方巾25*25cm-浅灰",
+   "价格": "3.20",
+   "库存": 50000
+  },
+  {
+   "规格": "高密童巾25*50cm-浅灰",
+   "价格": "4.50",
+   "库存": 50000
+  },
+  {
+   "规格": "童巾25/50cm粉色",
+   "价格": "4.50",
+   "库存": 999999
+  },
+  {
+   "规格": "童巾25/50cm浅粉",
+   "价格": "4.50",
+   "库存": 999999
+  },
+  {
+   "规格": "高密童巾25*50cm-深棕",
+   "价格": "4.50",
+   "库存": 50000
+  },
+  {
+   "规格": "方巾30cm/30cm-米色",
+   "价格": "3.50",
+   "库存": 50000
+  },
+  {
+   "规格": "童巾25/50cm米色",
+   "价格": "4.50",
+   "库存": 999999
+  },
+  {
+   "规格": "素色童巾-酒红色25*50cm",
+   "价格": "4.50",
+   "库存": 50000
+  },
+  {
+   "规格": "高密方巾25*25cm-豆绿",
+   "价格": "3.20",
+   "库存": 49999
+  },
+  {
+   "规格": "方巾30cm/30cm-浅棕",
+   "价格": "3.50",
+   "库存": 50000
+  },
+  {
+   "规格": "童巾25/50cm米粉",
+   "价格": "4.50",
+   "库存": 1000000
+  },
+  {
+   "规格": "方巾30cm/30cm-灰绿",
+   "价格": "3.50",
+   "库存": 50000
+  },
+  {
+   "规格": "童巾25/50cm蓝色",
+   "价格": "4.50",
+   "库存": 1000000
+  },
+  {
+   "规格": "高密方巾25*25cm-灰蓝",
+   "价格": "3.20",
+   "库存": 50000
+  },
+  {
+   "规格": "高密童巾25*50cm-豆绿",
+   "价格": "4.50",
+   "库存": 49997
+  },
+  {
+   "规格": "方巾30cm/30cm-绿色",
+   "价格": "3.50",
+   "库存": 50000
+  },
+  {
+   "规格": "童巾25/50cm浅棕",
+   "价格": "4.50",
+   "库存": 999999
+  },
+  {
+   "规格": "素色童巾-灰色25*50cm",
+   "价格": "4.50",
+   "库存": 50000
+  },
+  {
+   "规格": "童巾25/50cm暗红",
+   "价格": "4.50",
+   "库存": 1000000
+  },
+  {
+   "规格": "方巾30cm/30cm-白色",
+   "价格": "3.50",
+   "库存": 50000
+  },
+  {
+   "规格": "高密童巾25*50cm-黄粉",
+   "价格": "4.50",
+   "库存": 50000
+  },
+  {
+   "规格": "高密童巾25*50cm-灰蓝",
+   "价格": "4.50",
+   "库存": 50000
+  },
+  {
+   "规格": "高密方巾25*25cm-黄粉",
+   "价格": "3.20",
+   "库存": 49999
+  },
+  {
+   "规格": "高密童巾25*50cm-粉色",
+   "价格": "4.50",
+   "库存": 50000
+  },
+  {
+   "规格": "方巾30cm/30cm-灰色",
+   "价格": "3.50",
+   "库存": 50000
+  },
+  {
+   "规格": "素色童巾-豆沙色25*50cm",
+   "价格": "4.50",
+   "库存": 50000
+  },
+  {
+   "规格": "童巾25/50cm灰色",
+   "价格": "4.50",
+   "库存": 1000000
+  },
+  {
+   "规格": "高密方巾25*25cm-米色",
+   "价格": "3.20",
+   "库存": 49999
+  },
+  {
+   "规格": "方巾30cm/30cm-暗粉",
+   "价格": "3.50",
+   "库存": 50000
+  },
+  {
+   "规格": "童巾25/50cm驼色",
+   "价格": "4.50",
+   "库存": 1000000
+  },
+  {
+   "规格": "方巾30cm/30cm-粉色",
+   "价格": "3.50",
+   "库存": 50000
+  },
+  {
+   "规格": "高密方巾25*25cm-白色",
+   "价格": "3.20",
+   "库存": 49997
+  }
+ ],
+ "规格图": [
+  [
+   "方巾30cm/30cm-暗粉",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01rlldYxU7LoD1chua_!!3980697016-0-cib.jpg"
+  ],
+  [
+   "方巾30cm/30cm-暗红",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01vHepYSiKGiF1chua_!!3980697016-0-cib.jpg"
+  ],
+  [
+   "方巾30cm/30cm-白色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01wfCYxbXV4tG1chua_!!3980697016-0-cib.jpg"
+  ],
+  [
+   "方巾30cm/30cm-粉色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN015hfzZUYcvqC1chua_!!3980697016-0-cib.jpg"
+  ],
+  [
+   "方巾30cm/30cm-灰绿",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01eSe8qHeM4AL1chua_!!3980697016-0-cib.jpg"
+  ],
+  [
+   "方巾30cm/30cm-灰色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01LHGx0Tc0kWK1chua_!!3980697016-0-cib.jpg"
+  ],
+  [
+   "方巾30cm/30cm-蓝色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN0132hHUoN6nUD1chua_!!3980697016-0-cib.jpg"
+  ],
+  [
+   "方巾30cm/30cm-绿色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01h1O8JVSO0rD1chua_!!3980697016-0-cib.jpg"
+  ],
+  [
+   "方巾30cm/30cm-米粉",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01yGlSTIXNNZK1chua_!!3980697016-0-cib.jpg"
+  ],
+  [
+   "方巾30cm/30cm-米色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01qZhgeZlgGjK1chua_!!3980697016-0-cib.jpg"
+  ],
+  [
+   "方巾30cm/30cm-浅粉",
+   "https://cbu01.alicdn.com/img/ibank/O1CN013GVH1pJ4LuH1chua_!!3980697016-0-cib.jpg"
+  ],
+  [
+   "方巾30cm/30cm-浅棕",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01sf7vFtGd8QE1chua_!!3980697016-0-cib.jpg"
+  ],
+  [
+   "方巾30cm/30cm-驼色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01iAUlDoDIlJC1chua_!!3980697016-0-cib.jpg"
+  ],
+  [
+   "童巾25/50cm暗粉",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01XtrQytp7WwH1chua_!!3980697016-0-cib.jpg"
+  ],
+  [
+   "童巾25/50cm暗红",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01HMq24kUDlyB1chua_!!3980697016-0-cib.jpg"
+  ],
+  [
+   "童巾25/50cm白色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01UmIfyJmqk5D1chua_!!3980697016-0-cib.jpg"
+  ],
+  [
+   "童巾25/50cm粉色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01CDjE9TT49yD1chua_!!3980697016-0-cib.jpg"
+  ],
+  [
+   "童巾25/50cm灰绿",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01xpfo3lH21AB1chua_!!3980697016-0-cib.jpg"
+  ],
+  [
+   "童巾25/50cm灰色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN019FqRTl414JC1chua_!!3980697016-0-cib.jpg"
+  ],
+  [
+   "童巾25/50cm蓝色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01tkBu2tLkK7F1chua_!!3980697016-0-cib.jpg"
+  ],
+  [
+   "童巾25/50cm绿色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01qicl964U0eB1chua_!!3980697016-0-cib.jpg"
+  ],
+  [
+   "童巾25/50cm米粉",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01rI739plkp6G1chua_!!3980697016-0-cib.jpg"
+  ],
+  [
+   "童巾25/50cm米色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01j2FNk1GmqyE1chua_!!3980697016-0-cib.jpg"
+  ],
+  [
+   "童巾25/50cm浅粉",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01WPAC9VwbqpG1chua_!!3980697016-0-cib.jpg"
+  ],
+  [
+   "童巾25/50cm浅棕",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01Kk8yNf3zO0G1chua_!!3980697016-0-cib.jpg"
+  ],
+  [
+   "童巾25/50cm驼色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01wTYq6yXS5zE1chua_!!3980697016-0-cib.jpg"
+  ],
+  [
+   "方巾30cm/30cm白色12个装",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01447c7smRqLG2XrKe_!!3980697016-0-cib.jpg"
+  ],
+  [
+   "高密方巾25*25cm-白色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01SXHa4EqKY8C3FPpA_!!3980697016-0-cib.jpg"
+  ],
+  [
+   "高密方巾25*25cm-豆绿",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01KQzSIkggLLB3FPpA_!!3980697016-0-cib.jpg"
+  ],
+  [
+   "高密方巾25*25cm-粉色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN012NHhQOLx0fF3FPpA_!!3980697016-0-cib.jpg"
+  ],
+  [
+   "高密方巾25*25cm-黄粉",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01ZxL7bEjtIDI3FPpA_!!3980697016-0-cib.jpg"
+  ],
+  [
+   "高密方巾25*25cm-灰蓝",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01UchwkzXrThH3FPpA_!!3980697016-0-cib.jpg"
+  ],
+  [
+   "高密方巾25*25cm-米色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01owPJKVbRlCH3FPpA_!!3980697016-0-cib.jpg"
+  ],
+  [
+   "高密方巾25*25cm-浅灰",
+   "https://cbu01.alicdn.com/img/ibank/O1CN017hqamB4HE5F3FPpA_!!3980697016-0-cib.jpg"
+  ],
+  [
+   "高密方巾25*25cm-深棕",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01rOLjPcY0UCI3FPpA_!!3980697016-0-cib.jpg"
+  ],
+  [
+   "高密童巾25*50cm-白色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01jRVgSc50zMH3FPpA_!!3980697016-0-cib.jpg"
+  ],
+  [
+   "高密童巾25*50cm-豆绿",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01yOW03IvH2GK3FPpA_!!3980697016-0-cib.jpg"
+  ],
+  [
+   "高密童巾25*50cm-粉色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01Y9p8GHMrweL3FPpA_!!3980697016-0-cib.jpg"
+  ],
+  [
+   "高密童巾25*50cm-黄粉",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01UNVBBTpt9LH3FPpA_!!3980697016-0-cib.jpg"
+  ],
+  [
+   "高密童巾25*50cm-灰蓝",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01FDGdhTKzPLC3FPpA_!!3980697016-0-cib.jpg"
+  ],
+  [
+   "高密童巾25*50cm-米色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN014iYbqNWpqiG3FPpA_!!3980697016-0-cib.jpg"
+  ],
+  [
+   "高密童巾25*50cm-浅灰",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01YVWglRJOyZL3FPpA_!!3980697016-0-cib.jpg"
+  ],
+  [
+   "高密童巾25*50cm-深棕",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01Idevv8CVIED3FPpA_!!3980697016-0-cib.jpg"
+  ],
+  [
+   "素色童巾-浅紫25*50cm",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01A25dnPCRU8J1chua_!!3980697016-0-cib.jpg"
+  ],
+  [
+   "素色童巾-灰色25*50cm",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01CfnExYyPOWK1chua_!!3980697016-0-cib.jpg"
+  ],
+  [
+   "素色童巾-豆沙色25*50cm",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01vrxMCQ0JKtF1chua_!!3980697016-0-cib.jpg"
+  ],
+  [
+   "素色童巾-酒红色25*50cm",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01tTAyvsNfVQE1chua_!!3980697016-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "skuPrice",
+ "价格区间": null,
+ "阶梯价_登录后": [
+  {
+   "price": "3.20",
+   "beginAmount": 1
+  },
+  {
+   "price": "23.00",
+   "beginAmount": 1
+  }
+ ],
+ "到手价": null,
+ "起订量": 1,
+ "单位": "条",
+ "可售总量": 14699966,
+ "已售": 27,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01t4M9skYVCeG3thOC_!!3980697016-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN016D4KBwfrooE1chua_!!3980697016-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01KR81lSkNUKH1chua_!!3980697016-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01ZxaZOxbkzHD1chua_!!3980697016-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01VnGBZW3bv5K3thOC_!!3980697016-0-cib.jpg"
+ ],
+ "商品属性": [
+  "面料:纱布",
+  "成分:棉",
+  "功能:吸水",
+  "品牌:沐沐熊",
+  "安全等级:A类",
+  "产品类别:方巾",
+  "适用年龄段:儿童",
+  "货号:8875744",
+  "是否进口:否",
+  "货源类别:现货",
+  "适用性别:中性/男女均可",
+  "主图来源:实拍无模特",
+  "适用年龄:婴儿装(0-1岁)/幼儿装(1-3岁)/小童装(4-6岁)",
+  "图案:纯色",
+  "是否库存:是",
+  "库存类型:杂款",
+  "颜色:方巾30cm/30cm-暗粉/方巾30cm/30cm-暗红/方巾30cm/30cm-白色/方巾30cm/30cm-粉色/方巾30cm/30cm-灰绿/方巾30cm/30cm-灰色/方巾30cm/30cm-蓝色/方巾30cm/30cm-绿色/方巾30cm/30cm-米粉/方巾30cm/30cm-米色/方巾30cm/30cm-浅粉/方巾30cm/30cm-浅棕/方巾30cm/30cm-驼色/童巾25/50cm暗粉/童巾25/50cm暗红/童巾25/50cm白色/童巾25/50cm粉色/童巾25/50cm灰绿/童巾25/50cm灰色/童巾25/50cm蓝色/童巾25/50cm绿色/童巾25/50cm米粉/童巾25/50cm米色/童巾25/50cm浅粉/童巾25/50cm浅棕/童巾25/50cm驼色/方巾30cm/30cm白色12个装/高密方巾25*25cm-白色/高密方巾25*25cm-豆绿/高密方巾25*25cm-粉色/高密方巾25*25cm-黄粉/高密方巾25*25cm-灰蓝/高密方巾25*25cm-米色/高密方巾25*25cm-浅灰/高密方巾25*25cm-深棕/高密童巾25*50cm-白色/高密童巾25*50cm-豆绿/高密童巾25*50cm-粉色/高密童巾25*50cm-黄粉/高密童巾25*50cm-灰蓝/高密童巾25*50cm-米色/高密童巾25*50cm-浅灰/高密童巾25*50cm-深棕/素色童巾-浅紫25*50cm/素色童巾-灰色25*50cm/素色童巾-豆沙色25*50cm/素色童巾-酒红色25*50cm",
+  "是否跨境出口专供货源:是",
+  "主要下游平台:ebay/亚马逊/wish/速卖通/独立站/LAZADA/其他",
+  "主要销售地区:非洲/欧洲/南美/东南亚/北美/东北亚/中东/其他",
+  "有可授权的自有品牌:否",
+  "上市年份季节:2026年春季",
+  "适合年龄段:婴幼童(1~3岁，80~100cm)",
+  "厂家:厂家",
+  "材质成分:棉:100%",
+  "跨境:跨境",
+  "批发:批发"
+ ],
+ "包装信息": [
+  {
+   "volume": 450,
+   "sku1": "方巾30cm/30cm-暗粉",
+   "length": 30,
+   "width": 30,
+   "weight": 31,
+   "skuId": 6303960967671,
+   "height": 0.5
+  },
+  {
+   "volume": 450,
+   "sku1": "方巾30cm/30cm-暗红",
+   "length": 30,
+   "width": 30,
+   "weight": 31,
+   "skuId": 6303960967672,
+   "height": 0.5
+  },
+  {
+   "volume": 450,
+   "sku1": "方巾30cm/30cm-白色",
+   "length": 30,
+   "width": 30,
+   "weight": 31,
+   "skuId": 6303960967673,
+   "height": 0.5
+  },
+  {
+   "volume": 450,
+   "sku1": "方巾30cm/30cm-粉色",
+   "length": 30,
+   "width": 30,
+   "weight": 31,
+   "skuId": 6303960967674,
+   "height": 0.5
+  },
+  {
+   "volume": 450,
+   "sku1": "方巾30cm/30cm-灰绿",
+   "length": 30,
+   "width": 30,
+   "weight": 31,
+   "skuId": 6303960967675,
+   "height": 0.5
+  },
+  {
+   "volume": 450,
+   "sku1": "方巾30cm/30cm-灰色",
+   "length": 30,
+   "width": 30,
+   "weight": 31,
+   "skuId": 6303960967676,
+   "height": 0.5
+  },
+  {
+   "volume": 450,
+   "sku1": "方巾30cm/30cm-蓝色",
+   "length": 30,
+   "width": 30,
+   "weight": 31,
+   "skuId": 6303960967677,
+   "height": 0.5
+  },
+  {
+   "volume": 450,
+   "sku1": "方巾30cm/30cm-绿色",
+   "length": 30,
+   "width": 30,
+   "weight": 31,
+   "skuId": 6303960967678,
+   "height": 0.5
+  },
+  {
+   "volume": 450,
+   "sku1": "方巾30cm/30cm-米粉",
+   "length": 30,
+   "width": 30,
+   "weight": 31,
+   "skuId": 6303960967679,
+   "height": 0.5
+  },
+  {
+   "volume": 450,
+   "sku1": "方巾30cm/30cm-米色",
+   "length": 30,
+   "width": 30,
+   "weight": 31,
+   "skuId": 6303960967680,
+   "height": 0.5
+  },
+  {
+   "volume": 450,
+   "sku1": "方巾30cm/30cm-浅粉",
+   "length": 30,
+   "width": 30,
+   "weight": 31,
+   "skuId": 6303960967681,
+   "height": 0.5
+  },
+  {
+   "volume": 450,
+   "sku1": "方巾30cm/30cm-浅棕",
+   "length": 30,
+   "width": 30,
+   "weight": 31,
+   "skuId": 6303960967682,
+   "height": 0.5
+  },
+  {
+   "volume": 450,
+   "sku1": "方巾30cm/30cm-驼色",
+   "length": 30,
+   "width": 30,
+   "weight": 31,
+   "skuId": 6303960967683,
+   "height": 0.5
+  },
+  {
+   "volume": 625,
+   "sku1": "童巾25/50cm暗粉",
+   "length": 50,
+   "width": 25,
+   "weight": 41,
+   "skuId": 6303743006934,
+   "height": 0.5
+  },
+  {
+   "volume": 625,
+   "sku1": "童巾25/50cm暗红",
+   "length": 50,
+   "width": 25,
+   "weight": 41,
+   "skuId": 6303743006935,
+   "height": 0.5
+  },
+  {
+   "volume": 625,
+   "sku1": "童巾25/50cm白色",
+   "length": 50,
+   "width": 25,
+   "weight": 41,
+   "skuId": 6303743006936,
+   "height": 0.5
+  },
+  {
+   "volume": 625,
+   "sku1": "童巾25/50cm粉色",
+   "length": 50,
+   "width": 25,
+   "weight": 41,
+   "skuId": 6303743006937,
+   "height": 0.5
+  },
+  {
+   "volume": 625,
+   "sku1": "童巾25/50cm灰绿",
+   "length": 50,
+   "width": 25,
+   "weight": 41,
+   "skuId": 6303743006938,
+   "height": 0.5
+  },
+  {
+   "volume": 625,
+   "sku1": "童巾25/50cm灰色",
+   "length": 50,
+   "width": 25,
+   "weight": 41,
+   "skuId": 6303743006939,
+   "height": 0.5
+  },
+  {
+   "volume": 625,
+   "sku1": "童巾25/50cm蓝色",
+   "length": 50,
+   "width": 25,
+   "weight": 41,
+   "skuId": 6303743006940,
+   "height": 0.5
+  },
+  {
+   "volume": 625,
+   "sku1": "童巾25/50cm绿色",
+   "length": 50,
+   "width": 25,
+   "weight": 41,
+   "skuId": 6303743006941,
+   "height": 0.5
+  },
+  {
+   "volume": 625,
+   "sku1": "童巾25/50cm米粉",
+   "length": 50,
+   "width": 25,
+   "weight": 41,
+   "skuId": 6303743006942,
+   "height": 0.5
+  },
+  {
+   "volume": 625,
+   "sku1": "童巾25/50cm米色",
+   "length": 50,
+   "width": 25,
+   "weight": 41,
+   "skuId": 6303743006943,
+   "height": 0.5
+  },
+  {
+   "volume": 625,
+   "sku1": "童巾25/50cm浅粉",
+   "length": 50,
+   "width": 25,
+   "weight": 41,
+   "skuId": 6303743006944,
+   "height": 0.5
+  },
+  {
+   "volume": 625,
+   "sku1": "童巾25/50cm浅棕",
+   "length": 50,
+   "width": 25,
+   "weight": 41,
+   "skuId": 6303743006945,
+   "height": 0.5
+  },
+  {
+   "volume": 625,
+   "sku1": "童巾25/50cm驼色",
+   "length": 50,
+   "width": 25,
+   "weight": 41,
+   "skuId": 6303743006946,
+   "height": 0.5
+  },
+  {
+   "volume": 312.5,
+   "sku1": "方巾30cm/30cm白色12个装",
+   "length": 25,
+   "width": 25,
+   "weight": 360,
+   "skuId": 6303743006955,
+   "height": 0.5
+  },
+  {
+   "volume": 312.5,
+   "sku1": "高密方巾25*25cm-白色",
+   "length": 25,
+   "width": 25,
+   "weight": 30,
+   "skuId": 6303743006956,
+   "height": 0.5
+  },
+  {
+   "volume": 312.5,
+   "sku1": "高密方巾25*25cm-豆绿",
+   "length": 25,
+   "width": 25,
+   "weight": 30,
+   "skuId": 6303743006957,
+   "height": 0.5
+  },
+  {
+   "volume": 312.5,
+   "sku1": "高密方巾25*25cm-粉色",
+   "length": 25,
+   "width": 25,
+   "weight": 30,
+   "skuId": 6303743006958,
+   "height": 0.5
+  },
+  {
+   "volume": 312.5,
+   "sku1": "高密方巾25*25cm-黄粉",
+   "length": 25,
+   "width": 25,
+   "weight": 30,
+   "skuId": 6303743006959,
+   "height": 0.5
+  },
+  {
+   "volume": 312.5,
+   "sku1": "高密方巾25*25cm-灰蓝",
+   "length": 25,
+   "width": 25,
+   "weight": 30,
+   "skuId": 6303743006960,
+   "height": 0.5
+  },
+  {
+   "volume": 312.5,
+   "sku1": "高密方巾25*25cm-米色",
+   "length": 25,
+   "width": 25,
+   "weight": 30,
+   "skuId": 6303743006961,
+   "height": 0.5
+  },
+  {
+   "volume": 312.5,
+   "sku1": "高密方巾25*25cm-浅灰",
+   "length": 25,
+   "width": 25,
+   "weight": 30,
+   "skuId": 6303743006962,
+   "height": 0.5
+  },
+  {
+   "volume": 312.5,
+   "sku1": "高密方巾25*25cm-深棕",
+   "length": 25,
+   "width": 25,
+   "weight": 30,
+   "skuId": 6303743006963,
+   "height": 0.5
+  },
+  {
+   "volume": 625,
+   "sku1": "高密童巾25*50cm-白色",
+   "length": 50,
+   "width": 25,
+   "weight": 50,
+   "skuId": 6303743006947,
+   "height": 0.5
+  },
+  {
+   "volume": 625,
+   "sku1": "高密童巾25*50cm-豆绿",
+   "length": 50,
+   "width": 25,
+   "weight": 50,
+   "skuId": 6303743006948,
+   "height": 0.5
+  },
+  {
+   "volume": 625,
+   "sku1": "高密童巾25*50cm-粉色",
+   "length": 50,
+   "width": 25,
+   "weight": 50,
+   "skuId": 6303743006949,
+   "height": 0.5
+  },
+  {
+   "volume": 625,
+   "sku1": "高密童巾25*50cm-黄粉",
+   "length": 50,
+   "width": 25,
+   "weight": 50,
+   "skuId": 6303743006950,
+   "height": 0.5
+  },
+  {
+   "volume": 625,
+   "sku1": "高密童巾25*50cm-灰蓝",
+   "length": 50,
+   "width": 25,
+   "weight": 50,
+   "skuId": 6303743006951,
+   "height": 0.5
+  },
+  {
+   "volume": 625,
+   "sku1": "高密童巾25*50cm-米色",
+   "length": 50,
+   "width": 25,
+   "weight": 50,
+   "skuId": 6303743006952,
+   "height": 0.5
+  },
+  {
+   "volume": 625,
+   "sku1": "高密童巾25*50cm-浅灰",
+   "length": 50,
+   "width": 25,
+   "weight": 50,
+   "skuId": 6303743006953,
+   "height": 0.5
+  },
+  {
+   "volume": 625,
+   "sku1": "高密童巾25*50cm-深棕",
+   "length": 50,
+   "width": 25,
+   "weight": 50,
+   "skuId": 6303743006954,
+   "height": 0.5
+  },
+  {
+   "volume": 625,
+   "sku1": "素色童巾-浅紫25*50cm",
+   "length": 50,
+   "width": 25,
+   "weight": 40,
+   "skuId": 6303751466194,
+   "height": 0.5
+  },
+  {
+   "volume": 625,
+   "sku1": "素色童巾-灰色25*50cm",
+   "length": 50,
+   "width": 25,
+   "weight": 40,
+   "skuId": 6303751466195,
+   "height": 0.5
+  },
+  {
+   "volume": 625,
+   "sku1": "素色童巾-豆沙色25*50cm",
+   "length": 50,
+   "width": 25,
+   "weight": 40,
+   "skuId": 6303751466196,
+   "height": 0.5
+  },
+  {
+   "volume": 625,
+   "sku1": "素色童巾-酒红色25*50cm",
+   "length": 50,
+   "width": 25,
+   "weight": 40,
+   "skuId": 6303751466197,
+   "height": 0.5
+  }
+ ],
+ "url": "https://detail.1688.com/offer/1075769605950.html",
+ "核页时间": "2026-10-08T12:31:09.897Z"
+}

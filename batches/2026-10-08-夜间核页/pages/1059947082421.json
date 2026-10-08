@@ -1,0 +1,73 @@
+{
+ "offerId": "1059947082421",
+ "条目": "H0132",
+ "block": false,
+ "卖家公司": "安徽合美宜工艺品有限公司",
+ "旺旺名": "jshh2022",
+ "标题": "狗玩具宠物绳结玩具系列狗狗玩具自嗨耐咬磨牙发声陪伴宠物玩具",
+ "状态": "PUBLISHED",
+ "类目": "狗狗玩具",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "颜色",
+   "值": [
+    "狗"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "狗",
+   "价格": "10.00",
+   "库存": null
+  }
+ ],
+ "规格图": [
+  [
+   "狗",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01N5KPQI1CDZlOmS6Au_!!2214454230047-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "rangePrice",
+ "价格区间": "10.00",
+ "阶梯价_登录后": [
+  {
+   "price": "10.00",
+   "beginAmount": 100
+  }
+ ],
+ "到手价": {
+  "价": "9.97",
+  "说明": "新人价",
+  "件数": 100
+ },
+ "起订量": 100,
+ "单位": "件",
+ "可售总量": null,
+ "已售": 0,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01PWLWPq1CDZlQJUC6W_!!2214454230047-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01siuQWQ1CDZlOpuHQa_!!2214454230047-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01aljPv71CDZlP2ApQX_!!2214454230047-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01mmsUGx1CDZlOvIRdR_!!2214454230047-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01gUMQfK1CDZlOvH2MK_!!2214454230047-0-cib.jpg"
+ ],
+ "商品属性": [
+  "材质:棉绳",
+  "产品类别:绳结玩具",
+  "品牌:其他",
+  "是否进口:否",
+  "重量:100g",
+  "货号:-",
+  "产地:江苏",
+  "箱装数量:-",
+  "是否专利货源:否",
+  "颜色:狗",
+  "是否跨境出口专供货源:否",
+  "是否IP授权:否"
+ ],
+ "包装信息": null,
+ "url": "https://detail.1688.com/offer/1059947082421.html",
+ "核页时间": "2026-10-08T12:22:27.550Z"
+}

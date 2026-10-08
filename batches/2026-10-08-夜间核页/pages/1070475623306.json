@@ -1,0 +1,608 @@
+{
+ "offerId": "1070475623306",
+ "条目": "H0129",
+ "block": false,
+ "卖家公司": "南京酸熊宠物用品有限公司",
+ "旺旺名": "酸熊宠物用品设计",
+ "标题": "新款狗狗水碗奶油拼色不湿嘴水碗狗狗猫咪喝水碗狗狗饮水器宠物碗",
+ "状态": "PUBLISHED",
+ "类目": "狗狗食具",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "规格",
+   "值": [
+    "伊芙白-小号600ml",
+    "伊芙白-大号1200ml",
+    "塞伦紫-小号600ml",
+    "塞伦紫-大号1200ml",
+    "卡洛蓝-小号600ml",
+    "卡洛蓝-大号1200ml",
+    "黑+粉 小号600ml",
+    "黑+粉 大号1200ml",
+    "蓝+黄 小号600ml",
+    "蓝+黄 大号1200ml",
+    "白+粉 小号600ml",
+    "白+粉 大号1200ml",
+    "绿+粉 小号600ml",
+    "绿+粉 大号1200ml",
+    "Kitty猫-小号600ml",
+    "Kitty猫-大号1200ml",
+    "大耳狗-小号600ml",
+    "大耳狗-大号1200ml",
+    "蒂安绿-小号600ml",
+    "蒂安绿-大号1200ml",
+    "邦迪蓝-小号600ml",
+    "邦迪蓝-大号1200ml",
+    "洛米棕-小号600ml",
+    "洛米棕-大号1200ml",
+    "灰色-小号1000ml【抗菌款】",
+    "黑色-小号1000ml【抗菌款】",
+    "灰色大号-2000ml【抗菌款】",
+    "黑色-大号2000ml【抗菌款】"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "Kitty猫-小号600ml",
+   "价格": "21.80",
+   "库存": 176
+  },
+  {
+   "规格": "黑+粉 小号600ml",
+   "价格": "18.50",
+   "库存": 711
+  },
+  {
+   "规格": "白+粉 大号1200ml",
+   "价格": "23.50",
+   "库存": 340
+  },
+  {
+   "规格": "蓝+黄 小号600ml",
+   "价格": "18.50",
+   "库存": 1258
+  },
+  {
+   "规格": "黑色-小号1000ml【抗菌款】",
+   "价格": "24.80",
+   "库存": 56
+  },
+  {
+   "规格": "大耳狗-小号600ml",
+   "价格": "21.80",
+   "库存": 261
+  },
+  {
+   "规格": "绿+粉 小号600ml",
+   "价格": "18.50",
+   "库存": 470
+  },
+  {
+   "规格": "Kitty猫-大号1200ml",
+   "价格": "26.80",
+   "库存": 362
+  },
+  {
+   "规格": "大耳狗-大号1200ml",
+   "价格": "26.80",
+   "库存": 155
+  },
+  {
+   "规格": "蒂安绿-小号600ml",
+   "价格": "16.50",
+   "库存": 220
+  },
+  {
+   "规格": "蓝+黄 大号1200ml",
+   "价格": "23.50",
+   "库存": 497
+  },
+  {
+   "规格": "洛米棕-大号1200ml",
+   "价格": "17.50",
+   "库存": 38
+  },
+  {
+   "规格": "塞伦紫-大号1200ml",
+   "价格": "25.00",
+   "库存": 102
+  },
+  {
+   "规格": "伊芙白-大号1200ml",
+   "价格": "25.00",
+   "库存": 143
+  },
+  {
+   "规格": "卡洛蓝-大号1200ml",
+   "价格": "25.00",
+   "库存": 214
+  },
+  {
+   "规格": "伊芙白-小号600ml",
+   "价格": "20.00",
+   "库存": 274
+  },
+  {
+   "规格": "白+粉 小号600ml",
+   "价格": "18.50",
+   "库存": 937
+  },
+  {
+   "规格": "绿+粉 大号1200ml",
+   "价格": "23.50",
+   "库存": 238
+  },
+  {
+   "规格": "洛米棕-小号600ml",
+   "价格": "16.50",
+   "库存": 119
+  },
+  {
+   "规格": "黑色-大号2000ml【抗菌款】",
+   "价格": "26.80",
+   "库存": 0
+  },
+  {
+   "规格": "塞伦紫-小号600ml",
+   "价格": "20.00",
+   "库存": 93
+  },
+  {
+   "规格": "灰色-小号1000ml【抗菌款】",
+   "价格": "24.80",
+   "库存": 55
+  },
+  {
+   "规格": "灰色大号-2000ml【抗菌款】",
+   "价格": "26.80",
+   "库存": 0
+  },
+  {
+   "规格": "邦迪蓝-大号1200ml",
+   "价格": "17.50",
+   "库存": 69
+  },
+  {
+   "规格": "卡洛蓝-小号600ml",
+   "价格": "20.00",
+   "库存": 270
+  },
+  {
+   "规格": "邦迪蓝-小号600ml",
+   "价格": "16.50",
+   "库存": 119
+  },
+  {
+   "规格": "黑+粉 大号1200ml",
+   "价格": "23.50",
+   "库存": 401
+  },
+  {
+   "规格": "蒂安绿-大号1200ml",
+   "价格": "17.50",
+   "库存": 124
+  }
+ ],
+ "规格图": [
+  [
+   "伊芙白-小号600ml",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01V1IgAesSBdG1chua_!!3642712533-0-cib.jpg"
+  ],
+  [
+   "伊芙白-大号1200ml",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01aahCm7lOvVG1chua_!!3642712533-0-cib.jpg"
+  ],
+  [
+   "塞伦紫-小号600ml",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01bRpNm6PdiUJ1chua_!!3642712533-0-cib.jpg"
+  ],
+  [
+   "塞伦紫-大号1200ml",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01pmwEFIDUGcC1chua_!!3642712533-0-cib.jpg"
+  ],
+  [
+   "卡洛蓝-小号600ml",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01i0vk4VXbC9D1chua_!!3642712533-0-cib.jpg"
+  ],
+  [
+   "卡洛蓝-大号1200ml",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01rVfgwGIdytD1chua_!!3642712533-0-cib.jpg"
+  ],
+  [
+   "黑+粉 小号600ml",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01H4LNffTa5zF1chua_!!3642712533-0-cib.jpg"
+  ],
+  [
+   "黑+粉 大号1200ml",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01va74JV2J07D1chua_!!3642712533-0-cib.jpg"
+  ],
+  [
+   "蓝+黄 小号600ml",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01uckiC4tqgPL1chua_!!3642712533-0-cib.jpg"
+  ],
+  [
+   "蓝+黄 大号1200ml",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01ChJJXJByA1G1chua_!!3642712533-0-cib.jpg"
+  ],
+  [
+   "白+粉 小号600ml",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01dhVyz5VTiCG1chua_!!3642712533-0-cib.jpg"
+  ],
+  [
+   "白+粉 大号1200ml",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01JgynOf22RVI1chua_!!3642712533-0-cib.jpg"
+  ],
+  [
+   "绿+粉 小号600ml",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01uHy213mWEAH1chua_!!3642712533-0-cib.jpg"
+  ],
+  [
+   "绿+粉 大号1200ml",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01BKlBYbQNcGB1chua_!!3642712533-0-cib.jpg"
+  ],
+  [
+   "Kitty猫-小号600ml",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01NQFnPn5996B1chua_!!3642712533-0-cib.jpg"
+  ],
+  [
+   "Kitty猫-大号1200ml",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01poGeMKFUybF1chua_!!3642712533-0-cib.jpg"
+  ],
+  [
+   "大耳狗-小号600ml",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01wdlYomF4d1J1chua_!!3642712533-0-cib.jpg"
+  ],
+  [
+   "大耳狗-大号1200ml",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01wH0m1xPChhF1chua_!!3642712533-0-cib.jpg"
+  ],
+  [
+   "蒂安绿-小号600ml",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01Et3uQLQrPrB1chua_!!3642712533-0-cib.jpg"
+  ],
+  [
+   "蒂安绿-大号1200ml",
+   "https://cbu01.alicdn.com/img/ibank/O1CN012iH5TD1sQKJ1chua_!!3642712533-0-cib.jpg"
+  ],
+  [
+   "邦迪蓝-小号600ml",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01EIOOxnGxhdB1chua_!!3642712533-0-cib.jpg"
+  ],
+  [
+   "邦迪蓝-大号1200ml",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01tB1bH7vDLdG1chua_!!3642712533-0-cib.jpg"
+  ],
+  [
+   "洛米棕-小号600ml",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01c1GFPr14MjJ1chua_!!3642712533-0-cib.jpg"
+  ],
+  [
+   "洛米棕-大号1200ml",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01vEnEoWf0WfH1chua_!!3642712533-0-cib.jpg"
+  ],
+  [
+   "灰色-小号1000ml【抗菌款】",
+   "https://cbu01.alicdn.com/img/ibank/O1CN019B6MYXrcJBI1chua_!!3642712533-0-cib.jpg"
+  ],
+  [
+   "黑色-小号1000ml【抗菌款】",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01alpUzk5LZzB1chua_!!3642712533-0-cib.jpg"
+  ],
+  [
+   "灰色大号-2000ml【抗菌款】",
+   "https://cbu01.alicdn.com/img/ibank/O1CN017pyX9803MuI1chua_!!3642712533-0-cib.jpg"
+  ],
+  [
+   "黑色-大号2000ml【抗菌款】",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01l9TCKhME5WL1chua_!!3642712533-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "skuPrice",
+ "价格区间": "16.50-26.80",
+ "阶梯价_登录后": [
+  {
+   "price": "16.50",
+   "beginAmount": 1
+  },
+  {
+   "price": "26.80",
+   "beginAmount": 1
+  }
+ ],
+ "到手价": {
+  "价": "15.5",
+  "说明": "新人价",
+  "件数": 1
+ },
+ "起订量": 1,
+ "单位": "个",
+ "可售总量": 7702,
+ "已售": 158,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01K7Y1HN7Ai0H2vH2e_!!3642712533-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01E2GF4pxdiAK2vH2e_!!3642712533-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN015VCY3KjXWNG2vH2e_!!3642712533-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01NeUDuJ6RM1J2vH2e_!!3642712533-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN017evLJSwi4KJ1chua_!!3642712533-0-cib.jpg"
+ ],
+ "商品属性": [
+  "材质:PP",
+  "品牌:酸熊",
+  "成套自动喂食:否",
+  "产地:江苏",
+  "是否进口:否",
+  "货号:2609LBDJ1270-SX",
+  "箱装数量:/",
+  "是否专利货源:否",
+  "规格:伊芙白-小号600ml/伊芙白-大号1200ml/塞伦紫-小号600ml/塞伦紫-大号1200ml/卡洛蓝-小号600ml/卡洛蓝-大号1200ml/黑+粉 小号600ml/黑+粉 大号1200ml/蓝+黄 小号600ml/蓝+黄 大号1200ml/白+粉 小号600ml/白+粉 大号1200ml/绿+粉 小号600ml/绿+粉 大号1200ml/Kitty猫-小号600ml/Kitty猫-大号1200ml/大耳狗-小号600ml/大耳狗-大号1200ml/蒂安绿-小号600ml/蒂安绿-大号1200ml/邦迪蓝-小号600ml/邦迪蓝-大号1200ml/洛米棕-小号600ml/洛米棕-大号1200ml/灰色-小号1000ml【抗菌款】/灰色大号-2000ml【抗菌款】/黑色-小号1000ml【抗菌款】/黑色-大号2000ml【抗菌款】",
+  "主要下游平台:ebay/亚马逊/wish/速卖通/独立站/LAZADA",
+  "主要销售地区:非洲/欧洲/南美/东南亚/北美/东北亚/中东",
+  "有可授权的自有品牌:是",
+  "是否跨境出口专供货源:是",
+  "是否属于礼品:否",
+  "是否IP授权:否",
+  "适用对象:猫犬",
+  "适用场景:多场景",
+  "容量:1200ML",
+  "重量:0.5kg",
+  "尺寸:直径 17cm × 高 13cm"
+ ],
+ "包装信息": [
+  {
+   "volume": 0,
+   "sku1": "伊芙白-小号600ml",
+   "length": 0,
+   "width": 0,
+   "weight": 800,
+   "skuId": 6121590100179,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "伊芙白-大号1200ml",
+   "length": 0,
+   "width": 0,
+   "weight": 1200,
+   "skuId": 6121590100180,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "塞伦紫-小号600ml",
+   "length": 0,
+   "width": 0,
+   "weight": 800,
+   "skuId": 6121590100181,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "塞伦紫-大号1200ml",
+   "length": 0,
+   "width": 0,
+   "weight": 1200,
+   "skuId": 6121590100182,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "卡洛蓝-小号600ml",
+   "length": 0,
+   "width": 0,
+   "weight": 800,
+   "skuId": 6121590100183,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "卡洛蓝-大号1200ml",
+   "length": 0,
+   "width": 0,
+   "weight": 1200,
+   "skuId": 6121590100184,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "黑+粉 小号600ml",
+   "length": 0,
+   "width": 0,
+   "weight": 800,
+   "skuId": 6121590100159,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "黑+粉 大号1200ml",
+   "length": 0,
+   "width": 0,
+   "weight": 1200,
+   "skuId": 6121590100158,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "蓝+黄 小号600ml",
+   "length": 0,
+   "width": 0,
+   "weight": 800,
+   "skuId": 6121590100157,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "蓝+黄 大号1200ml",
+   "length": 0,
+   "width": 0,
+   "weight": 1200,
+   "skuId": 6121590100160,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "白+粉 小号600ml",
+   "length": 0,
+   "width": 0,
+   "weight": 800,
+   "skuId": 6121590100174,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "白+粉 大号1200ml",
+   "length": 0,
+   "width": 0,
+   "weight": 1200,
+   "skuId": 6121590100167,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "绿+粉 小号600ml",
+   "length": 0,
+   "width": 0,
+   "weight": 800,
+   "skuId": 6121590100172,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "绿+粉 大号1200ml",
+   "length": 0,
+   "width": 0,
+   "weight": 1200,
+   "skuId": 6121590100173,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "Kitty猫-小号600ml",
+   "length": 0,
+   "width": 0,
+   "weight": 800,
+   "skuId": 6121590100176,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "Kitty猫-大号1200ml",
+   "length": 0,
+   "width": 0,
+   "weight": 1200,
+   "skuId": 6121590100177,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "大耳狗-小号600ml",
+   "length": 0,
+   "width": 0,
+   "weight": 800,
+   "skuId": 6121590100178,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "大耳狗-大号1200ml",
+   "length": 0,
+   "width": 0,
+   "weight": 1200,
+   "skuId": 6121590100175,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "蒂安绿-小号600ml",
+   "length": 0,
+   "width": 0,
+   "weight": 800,
+   "skuId": 6121590100161,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "蒂安绿-大号1200ml",
+   "length": 0,
+   "width": 0,
+   "weight": 1200,
+   "skuId": 6121590100163,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "邦迪蓝-小号600ml",
+   "length": 0,
+   "width": 0,
+   "weight": 800,
+   "skuId": 6121590100162,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "邦迪蓝-大号1200ml",
+   "length": 0,
+   "width": 0,
+   "weight": 1200,
+   "skuId": 6121590100164,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "洛米棕-小号600ml",
+   "length": 0,
+   "width": 0,
+   "weight": 800,
+   "skuId": 6121590100165,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "洛米棕-大号1200ml",
+   "length": 0,
+   "width": 0,
+   "weight": 1200,
+   "skuId": 6121590100166,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "灰色-小号1000ml【抗菌款】",
+   "length": 0,
+   "width": 0,
+   "weight": 800,
+   "skuId": 6121590100169,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "灰色大号-2000ml【抗菌款】",
+   "length": 0,
+   "width": 0,
+   "weight": 1200,
+   "skuId": 6121590100170,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "黑色-小号1000ml【抗菌款】",
+   "length": 0,
+   "width": 0,
+   "weight": 800,
+   "skuId": 6121590100168,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "黑色-大号2000ml【抗菌款】",
+   "length": 0,
+   "width": 0,
+   "weight": 1200,
+   "skuId": 6121590100171,
+   "height": 0
+  }
+ ],
+ "url": "https://detail.1688.com/offer/1070475623306.html",
+ "核页时间": "2026-10-08T12:20:52.733Z"
+}

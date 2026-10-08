@@ -1,0 +1,397 @@
+{
+ "offerId": "972541371594",
+ "条目": "H0115",
+ "block": false,
+ "卖家公司": "义乌市致星宠物用品有限公司",
+ "旺旺名": "义乌市致星宠物用品",
+ "标题": "跨境专供宠物美容辅助吊床猫狗通用洗澡修剪指甲悬挂辅助胸背批发",
+ "状态": "PUBLISHED",
+ "类目": "狗狗清洁美容工具",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "规格",
+   "值": [
+    "黑色",
+    "宝蓝",
+    "军绿",
+    "灰色",
+    "指甲钳",
+    "梳子",
+    "指甲锉"
+   ]
+  },
+  {
+   "属性": "货号",
+   "值": [
+    "XS",
+    "S",
+    "M",
+    "L"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "宝蓝&gt;S",
+   "价格": "17.50",
+   "库存": 100
+  },
+  {
+   "规格": "梳子&gt;M",
+   "价格": "2.00",
+   "库存": 4419
+  },
+  {
+   "规格": "指甲锉&gt;M",
+   "价格": "1.00",
+   "库存": 4011
+  },
+  {
+   "规格": "军绿&gt;XS",
+   "价格": "16.50",
+   "库存": 999
+  },
+  {
+   "规格": "军绿&gt;M",
+   "价格": "18.50",
+   "库存": 93
+  },
+  {
+   "规格": "军绿&gt;L",
+   "价格": "19.90",
+   "库存": 92
+  },
+  {
+   "规格": "灰色&gt;XS",
+   "价格": "16.50",
+   "库存": 999
+  },
+  {
+   "规格": "黑色&gt;M",
+   "价格": "18.50",
+   "库存": 94
+  },
+  {
+   "规格": "军绿&gt;S",
+   "价格": "17.50",
+   "库存": 86
+  },
+  {
+   "规格": "黑色&gt;S",
+   "价格": "17.50",
+   "库存": 999
+  },
+  {
+   "规格": "灰色&gt;S",
+   "价格": "17.50",
+   "库存": 999
+  },
+  {
+   "规格": "黑色&gt;L",
+   "价格": "19.90",
+   "库存": 88
+  },
+  {
+   "规格": "灰色&gt;L",
+   "价格": "19.90",
+   "库存": 91
+  },
+  {
+   "规格": "黑色&gt;XS",
+   "价格": "16.50",
+   "库存": 999
+  },
+  {
+   "规格": "灰色&gt;M",
+   "价格": "18.50",
+   "库存": 999
+  },
+  {
+   "规格": "宝蓝&gt;M",
+   "价格": "18.50",
+   "库存": 98
+  },
+  {
+   "规格": "宝蓝&gt;L",
+   "价格": "19.90",
+   "库存": 999
+  },
+  {
+   "规格": "指甲钳&gt;M",
+   "价格": "2.50",
+   "库存": 4427
+  },
+  {
+   "规格": "宝蓝&gt;XS",
+   "价格": "16.50",
+   "库存": 999
+  }
+ ],
+ "规格图": [
+  [
+   "黑色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01FJnY4h2DuSe8r06By_!!2219048748669-0-cib.jpg"
+  ],
+  [
+   "宝蓝",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01Q0xyRb2DuSe8eR0hv_!!2219048748669-0-cib.jpg"
+  ],
+  [
+   "军绿",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01RY4lMi2DuSe8qzA23_!!2219048748669-0-cib.jpg"
+  ],
+  [
+   "灰色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01gyLNx42DuSe8eQL97_!!2219048748669-0-cib.jpg"
+  ],
+  [
+   "指甲钳",
+   "https://cbu01.alicdn.com/img/ibank/O1CN017JumZB2DuSe8khlUQ_!!2219048748669-0-cib.jpg"
+  ],
+  [
+   "梳子",
+   "https://cbu01.alicdn.com/img/ibank/O1CN019eRTrX2DuSe8WWoVG_!!2219048748669-0-cib.jpg"
+  ],
+  [
+   "指甲锉",
+   "https://cbu01.alicdn.com/img/ibank/O1CN010VakUJ2DuSe8lWpmM_!!2219048748669-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "skuPrice",
+ "价格区间": null,
+ "阶梯价_登录后": [
+  {
+   "price": "1.00",
+   "beginAmount": 2
+  },
+  {
+   "price": "19.90",
+   "beginAmount": 2
+  }
+ ],
+ "到手价": null,
+ "起订量": 2,
+ "单位": "套",
+ "可售总量": 21591,
+ "已售": 155,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01cstSDF2DuSakUFw62_!!2219048748669-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01XzK4Sg2DuSajlDnlu_!!2219048748669-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01bog7Vf2DuSaBBfU0e_!!2219048748669-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01UGwoVV2DuSa9fPnYD_!!2219048748669-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01Artj3e2DuSaA7y0PP_!!2219048748669-0-cib.jpg"
+ ],
+ "商品属性": [
+  "材质:无纺布",
+  "品牌:致星",
+  "产品分类:其他清洁美容用品",
+  "是否进口:否",
+  "箱装数量:100",
+  "是否专利货源:否",
+  "规格:黑色/宝蓝/军绿/灰色/指甲钳/梳子/指甲锉",
+  "货号:XS/S/M/L",
+  "主要下游平台:ebay/亚马逊/wish/速卖通/独立站/LAZADA",
+  "主要销售地区:非洲/欧洲/南美/东南亚/北美/东北亚/中东",
+  "有可授权的自有品牌:是",
+  "是否跨境出口专供货源:是",
+  "是否属于礼品:否",
+  "产品货号:Z5027",
+  "核心功能:清洁",
+  "使用方式:手动"
+ ],
+ "包装信息": [
+  {
+   "sku2": "XS",
+   "volume": 1984.5,
+   "sku1": "黑色",
+   "length": 21,
+   "width": 21,
+   "weight": 245,
+   "skuId": 6112546968104,
+   "height": 4.5
+  },
+  {
+   "sku2": "S",
+   "volume": 1386,
+   "sku1": "黑色",
+   "length": 22,
+   "width": 21,
+   "weight": 252,
+   "skuId": 6112546968105,
+   "height": 3
+  },
+  {
+   "sku2": "M",
+   "volume": 1518,
+   "sku1": "黑色",
+   "length": 23,
+   "width": 22,
+   "weight": 270,
+   "skuId": 6112546968106,
+   "height": 3
+  },
+  {
+   "sku2": "L",
+   "volume": 2250,
+   "sku1": "黑色",
+   "length": 30,
+   "width": 25,
+   "weight": 300,
+   "skuId": 6112546968107,
+   "height": 3
+  },
+  {
+   "sku2": "XS",
+   "volume": 1984.5,
+   "sku1": "宝蓝",
+   "length": 21,
+   "width": 21,
+   "weight": 245,
+   "skuId": 6112546968112,
+   "height": 4.5
+  },
+  {
+   "sku2": "S",
+   "volume": 1386,
+   "sku1": "宝蓝",
+   "length": 22,
+   "width": 21,
+   "weight": 252,
+   "skuId": 6112546968113,
+   "height": 3
+  },
+  {
+   "sku2": "M",
+   "volume": 1518,
+   "sku1": "宝蓝",
+   "length": 23,
+   "width": 22,
+   "weight": 270,
+   "skuId": 6112546968114,
+   "height": 3
+  },
+  {
+   "sku2": "L",
+   "volume": 2250,
+   "sku1": "宝蓝",
+   "length": 30,
+   "width": 25,
+   "weight": 300,
+   "skuId": 6112546968115,
+   "height": 3
+  },
+  {
+   "sku2": "XS",
+   "volume": 1984.5,
+   "sku1": "军绿",
+   "length": 21,
+   "width": 21,
+   "weight": 245,
+   "skuId": 6112546968108,
+   "height": 4.5
+  },
+  {
+   "sku2": "S",
+   "volume": 1386,
+   "sku1": "军绿",
+   "length": 22,
+   "width": 21,
+   "weight": 252,
+   "skuId": 6112546968109,
+   "height": 3
+  },
+  {
+   "sku2": "M",
+   "volume": 1518,
+   "sku1": "军绿",
+   "length": 23,
+   "width": 22,
+   "weight": 270,
+   "skuId": 6112546968110,
+   "height": 3
+  },
+  {
+   "sku2": "L",
+   "volume": 2250,
+   "sku1": "军绿",
+   "length": 30,
+   "width": 25,
+   "weight": 300,
+   "skuId": 6112546968111,
+   "height": 3
+  },
+  {
+   "sku2": "XS",
+   "volume": 1984.5,
+   "sku1": "灰色",
+   "length": 21,
+   "width": 21,
+   "weight": 245,
+   "skuId": 6112546968100,
+   "height": 4.5
+  },
+  {
+   "sku2": "S",
+   "volume": 1386,
+   "sku1": "灰色",
+   "length": 22,
+   "width": 21,
+   "weight": 252,
+   "skuId": 6112546968101,
+   "height": 3
+  },
+  {
+   "sku2": "M",
+   "volume": 1518,
+   "sku1": "灰色",
+   "length": 23,
+   "width": 22,
+   "weight": 270,
+   "skuId": 6112546968102,
+   "height": 3
+  },
+  {
+   "sku2": "L",
+   "volume": 2250,
+   "sku1": "灰色",
+   "length": 30,
+   "width": 25,
+   "weight": 300,
+   "skuId": 6112546968103,
+   "height": 3
+  },
+  {
+   "sku2": "M",
+   "volume": 84,
+   "sku1": "指甲钳",
+   "length": 12,
+   "width": 7,
+   "weight": 50,
+   "skuId": 6112546968118,
+   "height": 1
+  },
+  {
+   "sku2": "M",
+   "volume": 66.5,
+   "sku1": "梳子",
+   "length": 19,
+   "width": 3.5,
+   "weight": 50,
+   "skuId": 6112546968098,
+   "height": 1
+  },
+  {
+   "sku2": "M",
+   "volume": 21,
+   "sku1": "指甲锉",
+   "length": 14,
+   "width": 1.5,
+   "weight": 50,
+   "skuId": 6112546968094,
+   "height": 1
+  }
+ ],
+ "url": "https://detail.1688.com/offer/972541371594.html",
+ "核页时间": "2026-10-08T12:18:03.805Z"
+}

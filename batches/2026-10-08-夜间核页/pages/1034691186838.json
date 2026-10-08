@@ -1,0 +1,201 @@
+{
+ "offerId": "1034691186838",
+ "条目": "H0021",
+ "block": false,
+ "卖家公司": "桐城市龙港万能彩印有限公司",
+ "旺旺名": "tcxinchuang",
+ "标题": "广告扇定制培训地推团扇定做塑料卡通宣传小扇子印刷LOGO广告扇子",
+ "状态": "PUBLISHED",
+ "类目": "广告扇",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "颜色",
+   "值": [
+    "小胶扇20*28CM",
+    "大胶扇24*33CM",
+    "小圆扇22.5*34CM",
+    "大圆扇28*42CM",
+    "特大胶扇29.5*41CM",
+    "芭蕉扇21*33.5CM",
+    "盾牌扇21*33.5CM"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "小圆扇22.5*34CM",
+   "价格": "0.32",
+   "库存": 100000
+  },
+  {
+   "规格": "芭蕉扇21*33.5CM",
+   "价格": "0.30",
+   "库存": 100000
+  },
+  {
+   "规格": "大圆扇28*42CM",
+   "价格": "0.47",
+   "库存": 98980
+  },
+  {
+   "规格": "大胶扇24*33CM",
+   "价格": "0.28",
+   "库存": 92705
+  },
+  {
+   "规格": "小胶扇20*28CM",
+   "价格": "0.25",
+   "库存": 100000
+  },
+  {
+   "规格": "盾牌扇21*33.5CM",
+   "价格": "0.30",
+   "库存": 100000
+  },
+  {
+   "规格": "特大胶扇29.5*41CM",
+   "价格": "0.47",
+   "库存": 100000
+  }
+ ],
+ "规格图": [
+  [
+   "小胶扇20*28CM",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01sC23uJ2MmyMFANipq_!!989899871-0-cib.jpg"
+  ],
+  [
+   "大胶扇24*33CM",
+   "https://cbu01.alicdn.com/img/ibank/O1CN017JwT7R2MmyMBNuUiw_!!989899871-0-cib.jpg"
+  ],
+  [
+   "小圆扇22.5*34CM",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01x6ftgX2MmyM9FFmw4_!!989899871-0-cib.jpg"
+  ],
+  [
+   "大圆扇28*42CM",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01xtHqOM2MmyMC6sFmz_!!989899871-0-cib.jpg"
+  ],
+  [
+   "特大胶扇29.5*41CM",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01bK8JWh2Mmyh8gwUzD_!!989899871-0-cib.jpg"
+  ],
+  [
+   "芭蕉扇21*33.5CM",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01TidsEW2Mmyh8WOb6E_!!989899871-0-cib.jpg"
+  ],
+  [
+   "盾牌扇21*33.5CM",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01zf2te12Mmyh8NNsuC_!!989899871-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "skuPrice",
+ "价格区间": null,
+ "阶梯价_登录后": [
+  {
+   "price": "0.25",
+   "beginAmount": 1
+  },
+  {
+   "price": "0.47",
+   "beginAmount": 1
+  }
+ ],
+ "到手价": null,
+ "起订量": 1,
+ "单位": "把",
+ "可售总量": 691685,
+ "已售": 8315,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01HXiMpH2MmyNsf6xlb_!!989899871-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN014t0qAN2MmyNlM6zbv_!!989899871-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN012sgwZn2MmyNsf8ydg_!!989899871-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01xsJbqO2MmyNprzRKU_!!989899871-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01I3eQGB2MmyNlJyKU6_!!989899871-0-cib.jpg"
+ ],
+ "商品属性": [
+  "材质:PP",
+  "工艺:印刷/纯手工/注塑/半手工半机械",
+  "风格:其它",
+  "品牌:包小匠",
+  "扇柄:塑料柄",
+  "加工定制:是",
+  "包装:纸箱",
+  "加印LOGO:可以",
+  "是否进口:否",
+  "是否专利货源:否",
+  "主要下游平台:ebay/亚马逊/wish/速卖通/独立站/LAZADA",
+  "是否跨境出口专供货源:是",
+  "送礼用途:商务礼品/广告礼品/促销赠品/会议礼品/节庆礼品",
+  "是否属于礼品:是，商务礼品",
+  "是否IP授权:否",
+  "颜色:小胶扇20*28CM/大胶扇24*33CM/小圆扇22.5*34CM/大圆扇28*42CM/特大胶扇29.5*41CM/芭蕉扇21*33.5CM/盾牌扇21*33.5CM"
+ ],
+ "包装信息": [
+  {
+   "volume": 280,
+   "sku1": "小胶扇20*28CM",
+   "length": 20,
+   "width": 28,
+   "weight": 50,
+   "skuId": 6215705378076,
+   "height": 0.5
+  },
+  {
+   "volume": 396,
+   "sku1": "大胶扇24*33CM",
+   "length": 24,
+   "width": 33,
+   "weight": 50,
+   "skuId": 6215705378077,
+   "height": 0.5
+  },
+  {
+   "volume": 382.5,
+   "sku1": "小圆扇22.5*34CM",
+   "length": 22.5,
+   "width": 34,
+   "weight": 50,
+   "skuId": 6215705378078,
+   "height": 0.5
+  },
+  {
+   "volume": 588,
+   "sku1": "大圆扇28*42CM",
+   "length": 28,
+   "width": 42,
+   "weight": 50,
+   "skuId": 6215705378079,
+   "height": 0.5
+  },
+  {
+   "volume": 604.75,
+   "sku1": "特大胶扇29.5*41CM",
+   "length": 29.5,
+   "width": 41,
+   "weight": 50,
+   "skuId": 6215705378080,
+   "height": 0.5
+  },
+  {
+   "volume": 351.75,
+   "sku1": "芭蕉扇21*33.5CM",
+   "length": 21,
+   "width": 33.5,
+   "weight": 50,
+   "skuId": 6215705378081,
+   "height": 0.5
+  },
+  {
+   "volume": 351.75,
+   "sku1": "盾牌扇21*33.5CM",
+   "length": 21,
+   "width": 33.5,
+   "weight": 50,
+   "skuId": 6215705378082,
+   "height": 0.5
+  }
+ ],
+ "url": "https://detail.1688.com/offer/1034691186838.html",
+ "核页时间": "2026-10-08T11:50:40.198Z"
+}
