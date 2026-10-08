@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Label</key>
+	<string>com.xunpan.buziliao-send</string>
+	<key>ProgramArguments</key>
+	<array>
+		<string>/bin/zsh</string>
+		<string>/Users/dailypulse/ClaudeP/Xunpan/tools/补资料/每日.sh</string>
+		<string>send</string>
+		<string>9</string>
+	</array>
+	<key>StandardOutPath</key>
+	<string>/Users/dailypulse/Library/Logs/xunpan-buziliao.log</string>
+	<key>StandardErrorPath</key>
+	<string>/Users/dailypulse/Library/Logs/xunpan-buziliao.log</string>
+	<key>StartCalendarInterval</key>
+	<array>
+		<dict><key>Hour</key><integer>20</integer><key>Minute</key><integer>0</integer></dict>
+		<dict><key>Hour</key><integer>21</integer><key>Minute</key><integer>0</integer></dict>
+	</array>
+</dict>
+</plist>

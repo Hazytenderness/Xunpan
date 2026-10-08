@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Label</key>
+	<string>com.xunpan.buziliao-read</string>
+	<key>ProgramArguments</key>
+	<array>
+		<string>/bin/zsh</string>
+		<string>/Users/dailypulse/ClaudeP/Xunpan/tools/补资料/每日.sh</string>
+		<string>read</string>
+		<string>9,10,11,12,13,14,15,16,17</string>
+	</array>
+	<key>StandardOutPath</key>
+	<string>/Users/dailypulse/Library/Logs/xunpan-buziliao.log</string>
+	<key>StandardErrorPath</key>
+	<string>/Users/dailypulse/Library/Logs/xunpan-buziliao.log</string>
+	<key>StartInterval</key>
+	<integer>600</integer>
+</dict>
+</plist>

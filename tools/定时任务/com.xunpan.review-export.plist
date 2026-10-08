@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>EnvironmentVariables</key>
+	<dict>
+		<key>PATH</key>
+		<string>/opt/homebrew/bin:/usr/bin:/bin:/usr/sbin:/sbin</string>
+	</dict>
+	<key>Label</key>
+	<string>com.xunpan.review-export</string>
+	<key>ProgramArguments</key>
+	<array>
+		<string>/opt/homebrew/bin/python3</string>
+		<string>/Users/dailypulse/ClaudeP/Xunpan/tools/export_review_result.py</string>
+		<string>--beijing-hours</string>
+		<string>0,12</string>
+	</array>
+	<key>StandardErrorPath</key>
+	<string>/Users/dailypulse/Library/Logs/xunpan-review-export.log</string>
+	<key>StandardOutPath</key>
+	<string>/Users/dailypulse/Library/Logs/xunpan-review-export.log</string>
+	<key>StartCalendarInterval</key>
+	<array>
+		<dict>
+			<key>Hour</key>
+			<integer>23</integer>
+			<key>Minute</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>Hour</key>
+			<integer>0</integer>
+			<key>Minute</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>Hour</key>
+			<integer>11</integer>
+			<key>Minute</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>Hour</key>
+			<integer>12</integer>
+			<key>Minute</key>
+			<integer>2</integer>
+		</dict>
+	</array>
+</dict>
+</plist>
