@@ -125,7 +125,11 @@ elif npm test > $W/test.out 2>&1 && npm run check > $W/check.out 2>&1 && git dif
   git commit -q -m "夜间任务 $D：找货源与核 SKU 匹配度写入（自动，用户 10/8 授权）
 
 Co-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>"
-  git pull -q --rebase && git push -q origin main
+  # 提交或推送失败要如实报没上线，不能拿上一次提交的构建结果冒充（10-08 夜间副本缺提交身份，提交失败却报了「已上线」）
+  if [[ $(git rev-parse HEAD) == $(git rev-parse @{u}) ]] || ! { git pull -q --rebase && git push -q origin main; }; then
+    say "⚠ 提交或推送失败，今晚没上线：$(git status -sb | head -1)"; notify "夜间任务 $D：
+$(cat $R)"; exit 1
+  fi
   sha=$(git rev-parse --short HEAD); st=""
   for i in {1..40}; do st=$(gh api repos/Hazytenderness/ataous-site/commits/$sha/check-runs --jq '.check_runs[]|select(.name|test("ataous"))|.status+" "+(.conclusion//"")' 2>/dev/null); [[ $st == completed* ]] && break; sleep 15; done
   [[ $st == "completed success" ]] && say "已上线 $sha" || say "⚠ 上线没确认成功（$sha：${st:-查不到构建状态}）"
