@@ -16,7 +16,7 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).resolve().parents[1] / 'lib'))
 from base import ROOT, BATCHES, CACHE, batch_dirs, load_queue, save_queue, now_bj
 
-SITE = Path.home() / 'ClaudeP/06_VibeCoding/ataous/ataous-site'
+SITE = Path.home() / 'ClaudeP/06_VibeCoding/ataous/ataous-site-night'  # 夜间任务的网站副本，货源候选和匹配度最新
 ACCOUNT = 'f451a19a9c22c7472e8c23bd4ca272d5'  # ataous-data 桶所在的 Cloudflare 账户（不是凭据）
 B = BATCHES / '补资料'
 TEXT = '{产品}单品包装尺寸多少（长宽高）、重量多少，500 个什么价？'
