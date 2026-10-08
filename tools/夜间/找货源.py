@@ -201,8 +201,9 @@ elif cmd == 'rank':
                      '成本': (10, minp / c['价格']), '回购': (10, c['回头率'] / 100 if c['回头率'] is not None else None)}
             c['得分'] = round(sum(w * min(max(v, 0), 1) for w, v in parts.values() if v is not None), 2)
             c['资料覆盖'] = sum(w for w, v in parts.values() if v is not None); c['地缘档'] = gl
-        # 优质供应商（超级工厂/实力商家）排前面，不足 3 家按得分用其他补【用户定·10/7】
-        ks.sort(key=lambda c: (not c['资质标签'], -c['得分'], -c['资料覆盖'], c['价格'], c['offerId']))
+        # 审图判同款的排最前【用户定·10/8：匹配度排第一】，其次优质供应商（超级工厂/实力商家），不足 3 家按得分用其他补【用户定·10/7】；旧审图没有「像」按近似
+        same = lambda c: (r.get(c['offerId']) or {}).get('像') == '同款'
+        ks.sort(key=lambda c: (not same(c), not c['资质标签'], -c['得分'], -c['资料覆盖'], c['价格'], c['offerId']))
         rows = []
         for i, c in enumerate(ks[:3]):
             note, kw = (r.get(c['offerId']) or {}).get('理由', ''), c.get('搜索关键词')
@@ -219,11 +220,12 @@ elif cmd == 'rank':
                                 '资质': c['资质标签'], '店铺30天订单': c['店铺30天订单'], '指标日期': DATE}})
         seeds[x['asin']] = {'匹配模式': '主图搜索排名', '参考成本': rows[0]['参考价'],
                             '参考成本说明': '采用排名第一的图搜采购参考成本（1688 搜索起价，人民币）；同类相似货源，实际规格与装数按SKU选择；人工报价优先。', '货源候选': rows}
-        summary[s]['入选'] = [q['候选ID'] for q in rows]
+        summary[s]['入选'] = [q['候选ID'] for q in rows]; summary[s]['审图同款'] = sum(map(same, ks)); summary[s]['入选同款'] = sum(map(same, ks[:3]))
     (B / 'seeds.json').write_text(json.dumps(seeds, ensure_ascii=False, indent=1))
     (B / '汇总.json').write_text(json.dumps(summary, ensure_ascii=False, indent=1))
     has = sum(1 for v in seeds.values() if not v.get('图搜无结果'))
     print(json.dumps({'款': len(seeds), '找到': has, '无结果': len(seeds) - has, '候选条': sum(len(v.get('货源候选', [])) for v in seeds.values()),
-                      '有未审候选的款': sum(1 for v in summary.values() if v['未审'])}, ensure_ascii=False))
+                      '有未审候选的款': sum(1 for v in summary.values() if v['未审']),
+                      '入选有同款的款': sum(1 for v in summary.values() if v.get('入选同款'))}, ensure_ascii=False))
 else:
     sys.exit(__doc__)
