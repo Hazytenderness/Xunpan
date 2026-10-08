@@ -55,11 +55,11 @@ def save_queue(batch, q):
 
 
 def entries(include_unsent=True):
-    """旺旺名 → (批次目录, 队列条目)。款不对、下架、已合并的不算。"""
+    """旺旺名 → (批次目录, 队列条目)。款不对、下架、已合并的不算；只核过页没询过盘的（已核页）也不算，免得盖掉真在聊的条目。"""
     out = {}
     for b in batch_dirs():
         for x in load_queue(b):
-            if x.get('旺旺名') and x['状态'] not in ('款不对', '下架', '已合并', '待核页'):
+            if x.get('旺旺名') and x['状态'] not in ('款不对', '下架', '已合并', '待核页', '已核页', '不用发'):
                 if include_unsent or x['状态'] != '待发R1':
                     out[x['旺旺名']] = (b, x)
     return out
