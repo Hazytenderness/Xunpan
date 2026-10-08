@@ -12,7 +12,7 @@ H=$(TZ=Asia/Shanghai date +%-H); D=$(TZ=Asia/Shanghai date +%F)
 [[ $mode == send ]] && { stamp=$C/buziliao_send_${D}_$H; [[ -e $stamp ]] && exit 0; touch $stamp; }
 echo "=== $(TZ=Asia/Shanghai date '+%F %T') 北京 $mode"
 
-notify() { python3 -c "import sys;sys.path.insert(0,'$HOME/ClaudeP/04_工具/comp_common');from notify import push;push(sys.stdin.read())" <<< "$1"; }
+notify() { python3 -c "import sys;sys.path.insert(0,'$HOME/ClaudeP/04_工具/comp_common');from notify import push;push(sys.stdin.read(),chat='oc_a22f9557a1e54f584b81ced44430abcf')" <<< "$1"; }  # 发到飞书「ai协同」群（用户定·10/8）
 
 if [[ $mode == send ]]; then
   git pull -q --rebase --autostash || echo "git pull 失败，接着用本地"

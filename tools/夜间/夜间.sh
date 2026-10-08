@@ -20,7 +20,7 @@ say() { echo "$1"; echo "$1" >> $R; }   # 只用于 ⚠ 要人处理的事
 SRC="今晚没有缺货源的款要找"; CHK="今晚没有要核的款"; PUSH=""; LIVE="网站没有变化，不用上线"; SKIP=0
 # 飞书汇报【用户定·10/8：别发 JSON 和程序原始输出】
 report() { printf '夜间任务 %s\n【找货源】%s\n【核同款】%s%s\n【上线】%s\n【要你处理】%s\n（另有 %s 款别的会话在处理，今晚跳过）' "$D" "$SRC" "$CHK" "${PUSH:+；$PUSH}" "$LIVE" "$( [[ -s $R ]] && cat $R || echo 无)" "$SKIP"; }
-notify() { python3 -c "import sys;sys.path.insert(0,'$HOME/ClaudeP/04_工具/comp_common');from notify import push;push(sys.stdin.read())" <<< "$1"; }
+notify() { python3 -c "import sys;sys.path.insert(0,'$HOME/ClaudeP/04_工具/comp_common');from notify import push;push(sys.stdin.read(),chat='oc_a22f9557a1e54f584b81ced44430abcf')" <<< "$1"; }  # 发到飞书「ai协同」群（用户定·10/8）
 export CLAUDE_CODE_OAUTH_TOKEN=$(<$HOME/.config/xunpan/claude_token)
 # ⛔不要 2>&1：claude -p 的警告走 stderr，混进来会顶掉回报
 ai() { claude -p "$1" --allowedTools "Read" "Write" "Bash(python3:*)" "Bash(curl:*)" < /dev/null 2>> $W/ai.err | tail -3; }
