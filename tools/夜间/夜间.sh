@@ -16,7 +16,10 @@ trap 'rmdir $C/night.lock' EXIT
 touch $C/night_$D
 W=$C/night/$D; mkdir -p $W; R=$W/汇报.txt; : > $R
 echo "=== $(TZ=Asia/Shanghai date '+%F %T') 北京 夜间开始"
-say() { echo "$1"; echo "$1" >> $R; }
+say() { echo "$1"; echo "$1" >> $R; }   # 只用于 ⚠ 要人处理的事
+SRC="今晚没有缺货源的款要找"; CHK="今晚没有要核的款"; PUSH=""; LIVE="网站没有变化，不用上线"; SKIP=0
+# 飞书汇报【用户定·10/8：别发 JSON 和程序原始输出】
+report() { printf '夜间任务 %s\n【找货源】%s\n【核同款】%s%s\n【上线】%s\n【要你处理】%s\n（另有 %s 款别的会话在处理，今晚跳过）' "$D" "$SRC" "$CHK" "${PUSH:+；$PUSH}" "$LIVE" "$( [[ -s $R ]] && cat $R || echo 无)" "$SKIP"; }
 notify() { python3 -c "import sys;sys.path.insert(0,'$HOME/ClaudeP/04_工具/comp_common');from notify import push;push(sys.stdin.read())" <<< "$1"; }
 export CLAUDE_CODE_OAUTH_TOKEN=$(<$HOME/.config/xunpan/claude_token)
 # ⛔不要 2>&1：claude -p 的警告走 stderr，混进来会顶掉回报
@@ -44,7 +47,7 @@ json.dump(sorted(s), open(sys.argv[1], 'w'))
 print(len(s))
 EOF
 }
-say "别的会话在跑、今晚跳过：$(busy $W/skip.json) 款"
+SKIP=$(busy $W/skip.json)
 
 # ---------- 1 找货源 ----------
 FB=$HOME/ClaudeP/06_VibeCoding/ataous/供应商匹配/${D//-/}_夜间; mkdir -p $FB
@@ -57,7 +60,7 @@ cut = (datetime.date.today() - datetime.timedelta(days=14)).isoformat()
 json.dump([x for x in todo if led.get(str(x['序']), '') < cut], open(sys.argv[3], 'w'), ensure_ascii=False)
 EOF
 NS=$(python3 -c "import json;print(len(json.load(open('$FB/任务清单.json'))))")
-say "缺货源：待找 $(python3 -c "import json;print(len(json.load(open('$W/source.json'))))") 款，14 天内夜里找过的跳过，今晚找 $NS 款"
+NALL=$(python3 -c "import json;print(len(json.load(open('$W/source.json'))))"); (( NS < NALL )) && SRC="缺货源 $NALL 款，14 天内找过的 $((NALL-NS)) 款跳过；" || SRC=""
 if [[ $NS -gt 0 ]]; then
   python3 $T/找货源.py search $FB > $W/search.out 2>&1 || say "⚠ 遨虾搜索中断：$(tail -1 $W/search.out)"
   python3 $T/找货源.py screen $FB | tail -1
@@ -75,7 +78,8 @@ $(cat $W/need-kw.txt)"
 
 任务文件：$t"; done
   fi
-  rank=$(python3 $T/找货源.py rank $FB | tail -1); say "找货源结果：$rank"
+  rank=$(python3 $T/找货源.py rank $FB | tail -1); echo "$rank" > $W/rank.out
+  SRC+=$(python3 -c "import json,sys;r=json.loads(sys.argv[1]);print(f\"找了 {r['款']} 款，找到 {r['找到']} 款（其中选出的 3 家里有同款的 {r.get('入选有同款的款',0)} 款），没找到 {r['无结果']} 款\")" "$rank")
   python3 -c "import json;L=json.load(open('$FB/任务清单.json'));json.dump([x['序'] for x in L],open('$W/source_ids.json','w'))"
   node $T/保护核对.mjs snap $SITE $W/before_src.json >/dev/null
   if (cd $SITE && node scripts/import-suppliers.mjs $FB/seeds.json) && node $T/保护核对.mjs diff $SITE $W/before_src.json $W/source_ids.json 参考成本,参考成本说明,货源候选,图搜记录 > $W/protect1.txt; then
@@ -93,7 +97,7 @@ fi
 HB=$X/batches/${D}-夜间核页
 node $T/清单.mjs $SITE $W/purchase.json check $W/skip.json > $W/products.json
 NC=$(python3 -c "import json;print(len(json.load(open('$W/products.json'))))")
-say "待核页：$NC 款"
+
 if [[ $NC -gt 0 ]]; then
   export XUNPAN_WORK=$W XUNPAN_BATCH=$HB
   cd $X
@@ -105,12 +109,14 @@ if [[ $NC -gt 0 ]]; then
     k=$((k+1)); python3 tools/核SKU/prep.py n$k $ids | tail -1
     ai "按 $X/tools/核SKU/匹配说明.md 处理块目录 $W/chunks/n$k （先 Read 那份说明，输入在块目录 input.json，结果写块目录 match.json）。"
   done
-  python3 tools/核SKU/merge.py | tail -1 | tee -a $R
+  python3 tools/核SKU/merge.py > $W/merge.out 2>&1
+  [[ -s $HB/核页规格匹配.json ]] && CHK=$(python3 -c "import json,sys,collections;m=json.load(open(sys.argv[1]));c=collections.Counter(x['结论'] for x in m);print(f\"核了 {len({x['序'] for x in m})} 款 {len(m)} 家：完全匹配 {c['同款']}、部分匹配 {c['近似']}、不匹配 {c['款不对']}\"+(f\"、已下架 {c['下架']}\" if c['下架'] else ''))" $HB/核页规格匹配.json)
   if [[ -s $HB/核页规格匹配.json ]] && python3 tools/build_review_feed.py $HB --site $SITE > $W/feed.out 2>&1; then
-    python3 tools/push_review_feed.py $HB > $W/push.out 2>&1; say "推复核：$(tail -1 $W/push.out)"
+    python3 tools/push_review_feed.py $HB > $W/push.out 2>&1
+    PUSH=$(python3 -c "import json,sys;r=json.loads(sys.argv[1]);print(f\"报价推上网站 {r['新增']} 条（自动采纳 {r['自动采纳']} 条）\"+(f\"，{len(r['未导入'])} 条没导入\" if r['未导入'] else ''))" "$(tail -1 $W/push.out)" 2>/dev/null) || say "⚠ 报价推送失败：$(tail -1 $W/push.out)"
     python3 -c "import json;json.dump(sorted({k['序'] for x in json.load(open('$HB/queue.json')) for k in x['对应款']}),open('$W/check_ids.json','w'))"
     node $T/保护核对.mjs snap $SITE $W/before_chk.json >/dev/null
-    if (cd $SITE && node scripts/import-match.mjs $HB --apply | tail -1 | tee -a $R) && node $T/保护核对.mjs diff $SITE $W/before_chk.json $W/check_ids.json 货源候选 > $W/protect2.txt; then :
+    if (cd $SITE && node scripts/import-match.mjs $HB --apply > $W/match.out) && node $T/保护核对.mjs diff $SITE $W/before_chk.json $W/check_ids.json 货源候选 > $W/protect2.txt; then :
     else git -C $SITE checkout -- build/js; say "⚠ 匹配度导入没通过保护核对，已撤回：$(head -3 $W/protect2.txt 2>/dev/null)"; fi
   fi
   git add $HB && git commit -q -m "夜间核页核 SKU $D" -- $HB && git pull -q --rebase --autostash && git push -q
@@ -119,7 +125,7 @@ git -C $X add tools/夜间/找货源台账.json && git -C $X commit -q -m "夜�
 
 # ---------- 3 上线 ----------
 cd $SITE
-if git diff --quiet build/js; then say "网站没有变化，不用上线"
+if git diff --quiet build/js; then :
 elif npm test > $W/test.out 2>&1 && npm run check > $W/check.out 2>&1 && git diff --check; then
   git add build/js/products.js build/js/products-sources.js
   git commit -q -m "夜间任务 $D：找货源与核 SKU 匹配度写入（自动，用户 10/8 授权）
@@ -127,15 +133,13 @@ elif npm test > $W/test.out 2>&1 && npm run check > $W/check.out 2>&1 && git dif
 Co-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>"
   # 提交或推送失败要如实报没上线，不能拿上一次提交的构建结果冒充（10-08 夜间副本缺提交身份，提交失败却报了「已上线」）
   if [[ $(git rev-parse HEAD) == $(git rev-parse @{u}) ]] || ! { git pull -q --rebase && git push -q origin main; }; then
-    say "⚠ 提交或推送失败，今晚没上线：$(git status -sb | head -1)"; notify "夜间任务 $D：
-$(cat $R)"; exit 1
+    LIVE="没上线"; say "⚠ 提交或推送失败，今晚没上线：$(git status -sb | head -1)"; notify "$(report)"; exit 1
   fi
   sha=$(git rev-parse --short HEAD); st=""
   for i in {1..40}; do st=$(gh api repos/Hazytenderness/ataous-site/commits/$sha/check-runs --jq '.check_runs[]|select(.name|test("ataous"))|.status+" "+(.conclusion//"")' 2>/dev/null); [[ $st == completed* ]] && break; sleep 15; done
-  [[ $st == "completed success" ]] && say "已上线 $sha" || say "⚠ 上线没确认成功（$sha：${st:-查不到构建状态}）"
+  [[ $st == "completed success" ]] && LIVE="已上线（$(TZ=Asia/Shanghai date +%H:%M)，版本 $sha）" || { LIVE="没确认成功"; say "⚠ 上线没确认成功（$sha：${st:-查不到构建状态}）"; }
 else
-  git checkout -- build/js; say "⚠ 测试没过，今晚不上线：$(grep -E '^# fail|not ok' $W/test.out | head -2)"
+  git checkout -- build/js; LIVE="测试没过，今晚不上线"; say "⚠ 测试没过，今晚不上线：$(grep -E '^# fail|not ok' $W/test.out | head -2)"
 fi
 echo "=== $(TZ=Asia/Shanghai date '+%F %T') 北京 夜间结束"
-notify "夜间任务 $D：
-$(cat $R)"
+notify "$(report)"
