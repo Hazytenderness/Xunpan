@@ -1,0 +1,108 @@
+{
+ "offerId": "1071978400486",
+ "条目": "T0113",
+ "block": false,
+ "卖家公司": "温州键圣工艺品有限公司",
+ "旺旺名": "温州键圣工艺品",
+ "标题": "现货秒发带支架宠物吊床不锈钢可折叠宠物洗澡床Pet Grooming Ham",
+ "状态": "PUBLISHED",
+ "类目": "狗狗清洁美容工具",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "规格",
+   "值": [
+    "1",
+    "2",
+    "3"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "1",
+   "价格": null,
+   "库存": 9999
+  },
+  {
+   "规格": "2",
+   "价格": null,
+   "库存": 9999
+  },
+  {
+   "规格": "3",
+   "价格": null,
+   "库存": 9999
+  }
+ ],
+ "规格图": [
+  [
+   "1",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01lYj6DF24jALC5549N_!!2220688927426-0-cib.jpg"
+  ],
+  [
+   "2",
+   "https://cbu01.alicdn.com/img/ibank/O1CN0152KtC124jALCJtkTi_!!2220688927426-0-cib.jpg"
+  ],
+  [
+   "3",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01i82P9C24jALC55XGJ_!!2220688927426-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "rangePrice",
+ "价格区间": null,
+ "阶梯价_登录后": [
+  {
+   "price": "27.00",
+   "beginAmount": 10
+  },
+  {
+   "price": "26.00",
+   "beginAmount": 1000
+  },
+  {
+   "price": "24.00",
+   "beginAmount": 5000
+  }
+ ],
+ "到手价": null,
+ "起订量": 10,
+ "单位": "个",
+ "可售总量": 29997,
+ "已售": 0,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01xlmlIO24jALCVqL0q_!!2220688927426-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01mrLF6ukWoIB32pKq_!!2220688927426-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01WGHWZ1NWKuL32pKq_!!2220688927426-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01xmFT0cmttHE32pKq_!!2220688927426-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01i82P9C24jALC55XGJ_!!2220688927426-0-cib.jpg"
+ ],
+ "商品属性": [
+  "材质:其它",
+  "品牌:一路发",
+  "产品分类:其他清洁美容用品",
+  "是否进口:否",
+  "箱装数量:150",
+  "是否专利货源:否",
+  "规格:1/2/3",
+  "主要下游平台:ebay/亚马逊/wish/速卖通/独立站/LAZADA",
+  "主要销售地区:非洲/欧洲/南美/东南亚/北美/东北亚/中东",
+  "有可授权的自有品牌:否",
+  "是否跨境出口专供货源:是",
+  "是否属于礼品:否",
+  "核心功能:清洁",
+  "使用方式:手动",
+  "是否IP授权:否"
+ ],
+ "包装信息": [
+  {
+   "volume": 0,
+   "length": 0,
+   "width": 0,
+   "weight": 500,
+   "height": 0
+  }
+ ],
+ "url": "https://detail.1688.com/offer/1071978400486.html",
+ "核页时间": "2026-10-08T13:11:08.361Z"
+}

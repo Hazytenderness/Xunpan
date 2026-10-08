@@ -1,0 +1,155 @@
+{
+ "offerId": "969331223755",
+ "条目": "T0275",
+ "block": false,
+ "卖家公司": "grace/洁丽雅品牌旗舰店",
+ "旺旺名": "hezonglianhenggz",
+ "标题": "洁丽雅 7A抗菌浴巾 母婴级速干加大毛巾 吸水速干洗澡包裹巾",
+ "状态": "PUBLISHED",
+ "类目": "浴巾、沙滩巾",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "颜色",
+   "值": [
+    "绿色（浴巾）",
+    "紫色（浴巾）",
+    "粉色（浴巾）",
+    "蓝色（浴巾）"
+   ]
+  },
+  {
+   "属性": "规格（长*宽cm）",
+   "值": [
+    "140*70cm 295g"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "紫色（浴巾）&gt;140*70cm 295g",
+   "价格": "19.60",
+   "库存": 187
+  },
+  {
+   "规格": "绿色（浴巾）&gt;140*70cm 295g",
+   "价格": "19.60",
+   "库存": 152
+  },
+  {
+   "规格": "蓝色（浴巾）&gt;140*70cm 295g",
+   "价格": "19.60",
+   "库存": 324
+  },
+  {
+   "规格": "粉色（浴巾）&gt;140*70cm 295g",
+   "价格": "19.60",
+   "库存": 247
+  }
+ ],
+ "规格图": [
+  [
+   "绿色（浴巾）",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01ixHYVR1oKrOua4f9x_!!981535207-0-cib.jpg"
+  ],
+  [
+   "紫色（浴巾）",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01NXy2s31oKrOua2icV_!!981535207-0-cib.jpg"
+  ],
+  [
+   "粉色（浴巾）",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01vZSL1P1oKrOuexaDO_!!981535207-0-cib.jpg"
+  ],
+  [
+   "蓝色（浴巾）",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01nV36qG1oKrOueznTw_!!981535207-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "rangePrice",
+ "价格区间": "18.80-19.60",
+ "阶梯价_登录后": [
+  {
+   "price": "19.60",
+   "beginAmount": 1
+  },
+  {
+   "price": "19.20",
+   "beginAmount": 200
+  },
+  {
+   "price": "18.80",
+   "beginAmount": 500
+  }
+ ],
+ "到手价": {
+  "价": "18.6",
+  "说明": "新人价",
+  "件数": 1
+ },
+ "起订量": 1,
+ "单位": "条",
+ "可售总量": 910,
+ "已售": 188,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01ATfuDp1oKrOokQU9H_!!981535207-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01uaUU2r1oKrOvExAQK_!!981535207-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN0163PaYS1oKrOueJRD9_!!981535207-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01ObyIl21oKrOtY6TQl_!!981535207-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01ZCOp8w1oKrOuZUgA1_!!981535207-0-cib.jpg"
+ ],
+ "商品属性": [
+  "材质:底纱：100%聚酯纤维 绒毛纱：100%聚酯/聚酰胺复合纤维",
+  "品牌:grace/洁丽雅",
+  "克重:200g（含）-300g（不含）",
+  "制作工艺:包边",
+  "货号:W2661-2",
+  "加工定制:是",
+  "颜色:绿色（浴巾）/紫色（浴巾）/粉色（浴巾）/蓝色（浴巾）",
+  "规格（长*宽cm）:140*70cm 295g",
+  "纱线规格:16支"
+ ],
+ "包装信息": [
+  {
+   "sku2": "140*70cm 295g",
+   "volume": 0,
+   "sku1": "绿色（浴巾）",
+   "length": 0,
+   "width": 0,
+   "weight": 295,
+   "skuId": 6261999643102,
+   "height": 0
+  },
+  {
+   "sku2": "140*70cm 295g",
+   "volume": 0,
+   "sku1": "紫色（浴巾）",
+   "length": 0,
+   "width": 0,
+   "weight": 295,
+   "skuId": 6261999643100,
+   "height": 0
+  },
+  {
+   "sku2": "140*70cm 295g",
+   "volume": 0,
+   "sku1": "粉色（浴巾）",
+   "length": 0,
+   "width": 0,
+   "weight": 295,
+   "skuId": 6261999643101,
+   "height": 0
+  },
+  {
+   "sku2": "140*70cm 295g",
+   "volume": 0,
+   "sku1": "蓝色（浴巾）",
+   "length": 0,
+   "width": 0,
+   "weight": 295,
+   "skuId": 6261999643103,
+   "height": 0
+  }
+ ],
+ "url": "https://detail.1688.com/offer/969331223755.html",
+ "核页时间": "2026-10-08T13:48:59.819Z"
+}

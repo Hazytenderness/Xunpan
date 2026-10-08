@@ -1,0 +1,194 @@
+{
+ "offerId": "1036928458809",
+ "条目": "T0007",
+ "block": false,
+ "卖家公司": "深圳市宝安区予里文创商行(个体工商户)",
+ "旺旺名": "予里文创工厂店",
+ "标题": "外贸DIY活页封面亚克力外壳A6装订透明磨砂水波纹石头纹笔记本壳",
+ "状态": "PUBLISHED",
+ "类目": "活页本、活页替芯",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "颜色",
+   "值": [
+    "薄荷碎冰-A6(单张",
+    "粉雾海-A6(单张",
+    "深海蓝—A6(单张",
+    "金色环（单个）",
+    "银色环（单个",
+    "空白替芯A6（一本",
+    "横线替芯A6（一本"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "深海蓝—A6(单张",
+   "价格": "7.90",
+   "库存": 557
+  },
+  {
+   "规格": "银色环（单个",
+   "价格": "1.90",
+   "库存": 498
+  },
+  {
+   "规格": "空白替芯A6（一本",
+   "价格": "2.50",
+   "库存": 498
+  },
+  {
+   "规格": "横线替芯A6（一本",
+   "价格": "2.50",
+   "库存": 500
+  },
+  {
+   "规格": "粉雾海-A6(单张",
+   "价格": "7.90",
+   "库存": 413
+  },
+  {
+   "规格": "金色环（单个）",
+   "价格": "1.90",
+   "库存": 498
+  },
+  {
+   "规格": "薄荷碎冰-A6(单张",
+   "价格": "7.90",
+   "库存": 391
+  }
+ ],
+ "规格图": [
+  [
+   "薄荷碎冰-A6(单张",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01S9PXqm1qKymdO2Hcj_!!2222193105478-0-cib.jpg"
+  ],
+  [
+   "粉雾海-A6(单张",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01O90VhR1qKymbiNKMx_!!2222193105478-0-cib.jpg"
+  ],
+  [
+   "深海蓝—A6(单张",
+   "https://cbu01.alicdn.com/img/ibank/O1CN0146cwDm1qKyn6PZjjK_!!2222193105478-0-cib.jpg"
+  ],
+  [
+   "金色环（单个）",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01gWx4KT1qKymLQHPVg_!!2222193105478-0-cib.jpg"
+  ],
+  [
+   "银色环（单个",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01YVuQqg1qKymM8T0a1_!!2222193105478-0-cib.jpg"
+  ],
+  [
+   "空白替芯A6（一本",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01kjggWC1qKymg1KCH8_!!2222193105478-0-cib.jpg"
+  ],
+  [
+   "横线替芯A6（一本",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01JOuIzu1qKymkOIRbZ_!!2222193105478-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "skuPrice",
+ "价格区间": null,
+ "阶梯价_登录后": [
+  {
+   "price": "1.90",
+   "beginAmount": 2
+  },
+  {
+   "price": "7.90",
+   "beginAmount": 2
+  }
+ ],
+ "到手价": null,
+ "起订量": 2,
+ "单位": "个",
+ "可售总量": 3355,
+ "已售": 489,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN017dGtOL1qKymkXyr6p_!!2222193105478-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN010VAXy21qKyn6Pib1c_!!2222193105478-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01jJjvg41qKymhVryFo_!!2222193105478-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01GxVEY41qKymlsEgey_!!2222193105478-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01ZGTpCG1qKymcJYveo_!!2222193105478-0-cib.jpg"
+ ],
+ "商品属性": [
+  "适用类别:活页替芯",
+  "品牌:无",
+  "内页材质:亚克力",
+  "规格:A6",
+  "张数:1",
+  "尺寸:180*’108",
+  "是否进口:是",
+  "颜色:薄荷碎冰-A6(单张/粉雾海-A6(单张/深海蓝—A6(单张/金色环（单个）/银色环（单个/空白替芯A6（一本/横线替芯A6（一本",
+  "是否IP授权:否"
+ ],
+ "包装信息": [
+  {
+   "volume": 58.32,
+   "sku1": "薄荷碎冰-A6(单张",
+   "length": 18,
+   "width": 10.8,
+   "weight": 75,
+   "skuId": 6258472683186,
+   "height": 0.3
+  },
+  {
+   "volume": 58.32,
+   "sku1": "粉雾海-A6(单张",
+   "length": 18,
+   "width": 10.8,
+   "weight": 75,
+   "skuId": 6258472683187,
+   "height": 0.3
+  },
+  {
+   "volume": 0,
+   "sku1": "深海蓝—A6(单张",
+   "length": 0,
+   "width": 0,
+   "weight": 75,
+   "skuId": 6258472683188,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "金色环（单个）",
+   "length": 0,
+   "width": 0,
+   "weight": 13,
+   "skuId": 6219301710383,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "银色环（单个",
+   "length": 0,
+   "width": 0,
+   "weight": 13,
+   "skuId": 6219301710384,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "空白替芯A6（一本",
+   "length": 0,
+   "width": 0,
+   "weight": 75,
+   "skuId": 6238844514235,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "横线替芯A6（一本",
+   "length": 0,
+   "width": 0,
+   "weight": 75,
+   "skuId": 6238844514236,
+   "height": 0
+  }
+ ],
+ "url": "https://detail.1688.com/offer/1036928458809.html",
+ "核页时间": "2026-10-08T12:42:09.345Z"
+}

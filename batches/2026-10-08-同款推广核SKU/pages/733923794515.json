@@ -1,0 +1,701 @@
+{
+ "offerId": "733923794515",
+ "条目": "T0296",
+ "block": false,
+ "卖家公司": "永康市恩昔服饰有限公司",
+ "旺旺名": "永康恩昔布艺加工厂",
+ "标题": "保温杯杯套一体玻璃水杯套背带茶杯保护套印字logo防烫加厚保温壶",
+ "状态": "PUBLISHED",
+ "类目": "杯套/壶套/保温套",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "颜色",
+   "值": [
+    "咖啡直插",
+    "勿忘草蓝直插",
+    "中国红直插",
+    "青莲色直插",
+    "象牙黑直插",
+    "海军蓝直插",
+    "桃粉直插",
+    "白松石绿直插",
+    "麻灰直插",
+    "玫红直插",
+    "湖蓝直插",
+    "紫色直插",
+    "勿忘蓝直插+背带",
+    "中国红直插+背带",
+    "青莲色直插+背带",
+    "象牙黑直插+背带",
+    "海军蓝直插+背带",
+    "桃粉直插+背带",
+    "松石绿直插+背带",
+    "湖蓝直插+背带",
+    "咖啡直插+背带",
+    "玫红直插+背带",
+    "麻灰直插+背带",
+    "紫色直插+背带",
+    "中国红拼接",
+    "桃粉拼接",
+    "象牙黑拼接",
+    "白松石绿拼接",
+    "青莲色拼接",
+    "海军蓝拼接",
+    "勿忘草蓝拼接",
+    "明黄直插",
+    "明黄直插+背带"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "中国红直插+背带",
+   "价格": "2.73",
+   "库存": 1087
+  },
+  {
+   "规格": "咖啡直插+背带",
+   "价格": "2.73",
+   "库存": 4623
+  },
+  {
+   "规格": "桃粉直插",
+   "价格": "1.93",
+   "库存": 1336
+  },
+  {
+   "规格": "勿忘草蓝拼接",
+   "价格": "1.86",
+   "库存": 387
+  },
+  {
+   "规格": "青莲色直插",
+   "价格": "1.93",
+   "库存": 2299
+  },
+  {
+   "规格": "中国红直插",
+   "价格": "1.93",
+   "库存": 2664
+  },
+  {
+   "规格": "桃粉拼接",
+   "价格": "1.86",
+   "库存": 136
+  },
+  {
+   "规格": "玫红直插",
+   "价格": "1.93",
+   "库存": 3427
+  },
+  {
+   "规格": "勿忘蓝直插+背带",
+   "价格": "2.73",
+   "库存": 4240
+  },
+  {
+   "规格": "湖蓝直插",
+   "价格": "1.93",
+   "库存": 2316
+  },
+  {
+   "规格": "白松石绿拼接",
+   "价格": "1.86",
+   "库存": 581
+  },
+  {
+   "规格": "中国红拼接",
+   "价格": "1.86",
+   "库存": 500
+  },
+  {
+   "规格": "青莲色拼接",
+   "价格": "1.86",
+   "库存": 282
+  },
+  {
+   "规格": "松石绿直插+背带",
+   "价格": "2.73",
+   "库存": 4771
+  },
+  {
+   "规格": "湖蓝直插+背带",
+   "价格": "2.73",
+   "库存": 3891
+  },
+  {
+   "规格": "明黄直插",
+   "价格": "1.93",
+   "库存": 0
+  },
+  {
+   "规格": "白松石绿直插",
+   "价格": "1.93",
+   "库存": 2566
+  },
+  {
+   "规格": "象牙黑直插",
+   "价格": "1.67",
+   "库存": 2519
+  },
+  {
+   "规格": "勿忘草蓝直插",
+   "价格": "1.93",
+   "库存": 1787
+  },
+  {
+   "规格": "玫红直插+背带",
+   "价格": "2.73",
+   "库存": 4775
+  },
+  {
+   "规格": "象牙黑直插+背带",
+   "价格": "2.73",
+   "库存": 3380
+  },
+  {
+   "规格": "紫色直插",
+   "价格": "1.93",
+   "库存": 2461
+  },
+  {
+   "规格": "海军蓝直插",
+   "价格": "1.93",
+   "库存": 2766
+  },
+  {
+   "规格": "海军蓝直插+背带",
+   "价格": "2.73",
+   "库存": 3734
+  },
+  {
+   "规格": "海军蓝拼接",
+   "价格": "1.86",
+   "库存": 379
+  },
+  {
+   "规格": "青莲色直插+背带",
+   "价格": "2.73",
+   "库存": 3271
+  },
+  {
+   "规格": "麻灰直插+背带",
+   "价格": "2.73",
+   "库存": 3752
+  },
+  {
+   "规格": "咖啡直插",
+   "价格": "1.93",
+   "库存": 2411
+  },
+  {
+   "规格": "象牙黑拼接",
+   "价格": "1.61",
+   "库存": 327
+  },
+  {
+   "规格": "麻灰直插",
+   "价格": "1.93",
+   "库存": 3492
+  },
+  {
+   "规格": "紫色直插+背带",
+   "价格": "2.73",
+   "库存": 4130
+  },
+  {
+   "规格": "桃粉直插+背带",
+   "价格": "2.73",
+   "库存": 4207
+  },
+  {
+   "规格": "明黄直插+背带",
+   "价格": "2.73",
+   "库存": 0
+  }
+ ],
+ "规格图": [
+  [
+   "咖啡直插",
+   "https://cbu01.alicdn.com/img/ibank/O1CN019PKlie1Zuq74OxGVz_!!2215939783255-0-cib.jpg"
+  ],
+  [
+   "勿忘草蓝直插",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01rjhfUO1Zuq3teGMKZ_!!2215939783255-0-cib.jpg"
+  ],
+  [
+   "中国红直插",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01nxDhj61Zuq3vwjZnO_!!2215939783255-0-cib.jpg"
+  ],
+  [
+   "青莲色直插",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01va4Gd11Zuq3kzIKlZ_!!2215939783255-0-cib.jpg"
+  ],
+  [
+   "象牙黑直插",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01S532wJ1Zuq3qpiDHh_!!2215939783255-0-cib.jpg"
+  ],
+  [
+   "海军蓝直插",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01LQ4RgW1Zuq3rTilYD_!!2215939783255-0-cib.jpg"
+  ],
+  [
+   "桃粉直插",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01hro2jz1Zuq3x1mc2e_!!2215939783255-0-cib.jpg"
+  ],
+  [
+   "白松石绿直插",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01Y8mpgn1Zuq3teIJ5h_!!2215939783255-0-cib.jpg"
+  ],
+  [
+   "麻灰直插",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01lWEBpn1Zuq75WiClY_!!2215939783255-0-cib.jpg"
+  ],
+  [
+   "玫红直插",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01cjVmE21Zuq6zjpYNp_!!2215939783255-0-cib.jpg"
+  ],
+  [
+   "湖蓝直插",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01OCoJDX1Zuq74DvIqm_!!2215939783255-0-cib.jpg"
+  ],
+  [
+   "紫色直插",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01PZJuPJ1Zuq7592e1T_!!2215939783255-0-cib.jpg"
+  ],
+  [
+   "勿忘蓝直插+背带",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01nQHw8X1Zuq7595OhB_!!2215939783255-0-cib.jpg"
+  ],
+  [
+   "中国红直插+背带",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01OfDB8U1Zuq74DyjBE_!!2215939783255-0-cib.jpg"
+  ],
+  [
+   "青莲色直插+背带",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01nABg2i1Zuq72SWdUn_!!2215939783255-0-cib.jpg"
+  ],
+  [
+   "象牙黑直插+背带",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01HuWsMV1Zuq72TqwNp_!!2215939783255-0-cib.jpg"
+  ],
+  [
+   "海军蓝直插+背带",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01L0M7w21Zuq72TqwPs_!!2215939783255-0-cib.jpg"
+  ],
+  [
+   "桃粉直插+背带",
+   "https://cbu01.alicdn.com/img/ibank/O1CN012EaSra1Zuq71Ywgtk_!!2215939783255-0-cib.jpg"
+  ],
+  [
+   "松石绿直插+背带",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01mi3Jrs1Zuq6zjxsUY_!!2215939783255-0-cib.jpg"
+  ],
+  [
+   "湖蓝直插+背带",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01Ts3iku1Zuq73y0cql_!!2215939783255-0-cib.jpg"
+  ],
+  [
+   "咖啡直插+背带",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01TQo32P1Zuq6u5plPq_!!2215939783255-0-cib.jpg"
+  ],
+  [
+   "玫红直插+背带",
+   "https://cbu01.alicdn.com/img/ibank/O1CN011VrwHL1Zuq72U77RO_!!2215939783255-0-cib.jpg"
+  ],
+  [
+   "麻灰直插+背带",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01ZP16XX1Zuq76xRLAq_!!2215939783255-0-cib.jpg"
+  ],
+  [
+   "紫色直插+背带",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01GmNzXw1Zuq76J8G8P_!!2215939783255-0-cib.jpg"
+  ],
+  [
+   "中国红拼接",
+   "https://cbu01.alicdn.com/img/ibank/O1CN014lFEzn1Zuq3kzOdwB_!!2215939783255-0-cib.jpg"
+  ],
+  [
+   "桃粉拼接",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01l5C2Po1Zuq3zTTgIN_!!2215939783255-0-cib.jpg"
+  ],
+  [
+   "象牙黑拼接",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01SHnAzU1Zuq3pftSKg_!!2215939783255-0-cib.jpg"
+  ],
+  [
+   "白松石绿拼接",
+   "https://cbu01.alicdn.com/img/ibank/O1CN0144GA5n1Zuq3x1olIC_!!2215939783255-0-cib.jpg"
+  ],
+  [
+   "青莲色拼接",
+   "https://cbu01.alicdn.com/img/ibank/O1CN0109EvSa1Zuq3kzP2uL_!!2215939783255-0-cib.jpg"
+  ],
+  [
+   "海军蓝拼接",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01Wi5RqU1Zuq3wcTg16_!!2215939783255-0-cib.jpg"
+  ],
+  [
+   "勿忘草蓝拼接",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01MNwfHE1Zuq3zTTc0H_!!2215939783255-0-cib.jpg"
+  ],
+  [
+   "明黄直插",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01Dx66ag1Zuq72Tk1lN_!!2215939783255-0-cib.jpg"
+  ],
+  [
+   "明黄直插+背带",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01h3lxvm1Zuq6yEGWnk_!!2215939783255-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "skuPrice",
+ "价格区间": "2.30-3.90",
+ "阶梯价_登录后": [
+  {
+   "price": "1.61",
+   "beginAmount": 20
+  },
+  {
+   "price": "2.73",
+   "beginAmount": 20
+  }
+ ],
+ "到手价": {
+  "价": "1.46",
+  "说明": "新人价",
+  "件数": 20
+ },
+ "起订量": 20,
+ "单位": "个",
+ "可售总量": 78497,
+ "已售": 29583,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01leTskj1Zuq3vwH2kg_!!2215939783255-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01qP5iSQ1Zuq3tdnDot_!!2215939783255-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01X7GinW1Zuq3pfT4ZQ_!!2215939783255-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN013ult3A1Zuq3tdncug_!!2215939783255-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01TDJyc21Zuq3vwISCX_!!2215939783255-0-cib.jpg"
+ ],
+ "商品属性": [
+  "材质:布",
+  "品牌:NC",
+  "产品质量等级:优等品",
+  "风格:中式",
+  "颜色:咖啡直插/勿忘草蓝直插/中国红直插/青莲色直插/象牙黑直插/海军蓝直插/桃粉直插/白松石绿直插/明黄直插/麻灰直插/玫红直插/湖蓝直插/紫色直插/勿忘蓝直插+背带/中国红直插+背带/青莲色直插+背带/象牙黑直插+背带/海军蓝直插+背带/桃粉直插+背带/松石绿直插+背带/明黄直插+背带/湖蓝直插+背带/咖啡直插+背带/玫红直插+背带/麻灰直插+背带/紫色直插+背带/中国红拼接/桃粉拼接/象牙黑拼接/白松石绿拼接/青莲色拼接/海军蓝拼接/勿忘草蓝拼接",
+  "货号:C500A",
+  "是否进口:否",
+  "加印LOGO:可以",
+  "加工定制:是",
+  "价格段:1-2元",
+  "是否有专利:否",
+  "包装规格:400个/箱",
+  "主要下游平台:ebay/亚马逊/wish/速卖通/独立站/LAZADA",
+  "主要销售地区:欧洲/南美/东南亚/北美/东北亚",
+  "有可授权的自有品牌:是",
+  "是否跨境出口专供货源:是",
+  "全国工业生产许可证编号 :91330784MACKTX2P2G",
+  "潜水布料:3mm"
+ ],
+ "包装信息": [
+  {
+   "volume": 1050,
+   "sku1": "咖啡直插",
+   "length": 35,
+   "width": 15,
+   "weight": 35,
+   "skuId": 5424170066524,
+   "height": 2
+  },
+  {
+   "volume": 1050,
+   "sku1": "勿忘草蓝直插",
+   "length": 35,
+   "width": 15,
+   "weight": 35,
+   "skuId": 5256878265477,
+   "height": 2
+  },
+  {
+   "volume": 1050,
+   "sku1": "中国红直插",
+   "length": 35,
+   "width": 15,
+   "weight": 35,
+   "skuId": 5256878265472,
+   "height": 2
+  },
+  {
+   "volume": 1050,
+   "sku1": "青莲色直插",
+   "length": 35,
+   "width": 15,
+   "weight": 35,
+   "skuId": 5256878265478,
+   "height": 2
+  },
+  {
+   "volume": 1050,
+   "sku1": "象牙黑直插",
+   "length": 35,
+   "width": 15,
+   "weight": 35,
+   "skuId": 5256878265479,
+   "height": 2
+  },
+  {
+   "volume": 1050,
+   "sku1": "海军蓝直插",
+   "length": 35,
+   "width": 15,
+   "weight": 35,
+   "skuId": 5256878265480,
+   "height": 2
+  },
+  {
+   "volume": 1050,
+   "sku1": "桃粉直插",
+   "length": 35,
+   "width": 15,
+   "weight": 35,
+   "skuId": 5256878265481,
+   "height": 2
+  },
+  {
+   "volume": 1050,
+   "sku1": "白松石绿直插",
+   "length": 35,
+   "width": 15,
+   "weight": 35,
+   "skuId": 5256878265482,
+   "height": 2
+  },
+  {
+   "volume": 1050,
+   "sku1": "明黄直插",
+   "length": 35,
+   "width": 15,
+   "weight": 35,
+   "skuId": 5256878265483,
+   "height": 2
+  },
+  {
+   "volume": 1050,
+   "sku1": "麻灰直插",
+   "length": 35,
+   "width": 15,
+   "weight": 35,
+   "skuId": 5256878265484,
+   "height": 2
+  },
+  {
+   "volume": 1050,
+   "sku1": "玫红直插",
+   "length": 35,
+   "width": 15,
+   "weight": 35,
+   "skuId": 5256878265473,
+   "height": 2
+  },
+  {
+   "volume": 1050,
+   "sku1": "湖蓝直插",
+   "length": 35,
+   "width": 15,
+   "weight": 35,
+   "skuId": 5256878265485,
+   "height": 2
+  },
+  {
+   "volume": 1050,
+   "sku1": "紫色直插",
+   "length": 35,
+   "width": 15,
+   "weight": 35,
+   "skuId": 5256878265474,
+   "height": 2
+  },
+  {
+   "volume": 1050,
+   "sku1": "勿忘蓝直插+背带",
+   "length": 35,
+   "width": 15,
+   "weight": 35,
+   "skuId": 5256878265494,
+   "height": 2
+  },
+  {
+   "volume": 1050,
+   "sku1": "中国红直插+背带",
+   "length": 35,
+   "width": 15,
+   "weight": 35,
+   "skuId": 5256878265486,
+   "height": 2
+  },
+  {
+   "volume": 1050,
+   "sku1": "青莲色直插+背带",
+   "length": 35,
+   "width": 15,
+   "weight": 35,
+   "skuId": 5256878265495,
+   "height": 2
+  },
+  {
+   "volume": 1050,
+   "sku1": "象牙黑直插+背带",
+   "length": 35,
+   "width": 15,
+   "weight": 35,
+   "skuId": 5256878265487,
+   "height": 2
+  },
+  {
+   "volume": 1050,
+   "sku1": "海军蓝直插+背带",
+   "length": 35,
+   "width": 15,
+   "weight": 35,
+   "skuId": 5256878265475,
+   "height": 2
+  },
+  {
+   "volume": 1050,
+   "sku1": "桃粉直插+背带",
+   "length": 35,
+   "width": 15,
+   "weight": 35,
+   "skuId": 5256878265476,
+   "height": 2
+  },
+  {
+   "volume": 1050,
+   "sku1": "松石绿直插+背带",
+   "length": 35,
+   "width": 15,
+   "weight": 35,
+   "skuId": 5256878265493,
+   "height": 2
+  },
+  {
+   "volume": 1050,
+   "sku1": "明黄直插+背带",
+   "length": 35,
+   "width": 15,
+   "weight": 35,
+   "skuId": 5256878265488,
+   "height": 2
+  },
+  {
+   "volume": 1050,
+   "sku1": "湖蓝直插+背带",
+   "length": 35,
+   "width": 15,
+   "weight": 35,
+   "skuId": 5256878265489,
+   "height": 2
+  },
+  {
+   "volume": 1050,
+   "sku1": "咖啡直插+背带",
+   "length": 35,
+   "width": 15,
+   "weight": 35,
+   "skuId": 5424170066523,
+   "height": 2
+  },
+  {
+   "volume": 1050,
+   "sku1": "玫红直插+背带",
+   "length": 35,
+   "width": 15,
+   "weight": 35,
+   "skuId": 5256878265490,
+   "height": 2
+  },
+  {
+   "volume": 1050,
+   "sku1": "麻灰直插+背带",
+   "length": 35,
+   "width": 15,
+   "weight": 35,
+   "skuId": 5256878265491,
+   "height": 2
+  },
+  {
+   "volume": 1050,
+   "sku1": "紫色直插+背带",
+   "length": 35,
+   "width": 15,
+   "weight": 35,
+   "skuId": 5256878265492,
+   "height": 2
+  },
+  {
+   "volume": 1050,
+   "sku1": "中国红拼接",
+   "length": 35,
+   "width": 15,
+   "weight": 35,
+   "skuId": 5074549436136,
+   "height": 2
+  },
+  {
+   "volume": 1050,
+   "sku1": "桃粉拼接",
+   "length": 35,
+   "width": 15,
+   "weight": 35,
+   "skuId": 5074549436137,
+   "height": 2
+  },
+  {
+   "volume": 1050,
+   "sku1": "象牙黑拼接",
+   "length": 35,
+   "width": 15,
+   "weight": 35,
+   "skuId": 5074549436134,
+   "height": 2
+  },
+  {
+   "volume": 1050,
+   "sku1": "白松石绿拼接",
+   "length": 35,
+   "width": 15,
+   "weight": 35,
+   "skuId": 5074549436138,
+   "height": 2
+  },
+  {
+   "volume": 1050,
+   "sku1": "青莲色拼接",
+   "length": 35,
+   "width": 15,
+   "weight": 35,
+   "skuId": 5074549436139,
+   "height": 2
+  },
+  {
+   "volume": 1050,
+   "sku1": "海军蓝拼接",
+   "length": 35,
+   "width": 15,
+   "weight": 35,
+   "skuId": 5074549436135,
+   "height": 2
+  },
+  {
+   "volume": 1050,
+   "sku1": "勿忘草蓝拼接",
+   "length": 35,
+   "width": 15,
+   "weight": 35,
+   "skuId": 5074549436133,
+   "height": 2
+  }
+ ],
+ "url": "https://detail.1688.com/offer/733923794515.html",
+ "核页时间": "2026-10-08T13:54:36.022Z"
+}

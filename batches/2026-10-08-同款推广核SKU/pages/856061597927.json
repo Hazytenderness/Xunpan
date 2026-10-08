@@ -1,0 +1,487 @@
+{
+ "offerId": "856061597927",
+ "条目": "T0337",
+ "block": false,
+ "卖家公司": "杭州丰瀛包装科技有限公司",
+ "旺旺名": "杭州丰瀛包装",
+ "标题": "定制一次性咖啡杯加厚双层纸杯咖啡外带中空热饮杯纸杯定做logo",
+ "状态": "PUBLISHED",
+ "类目": "纸杯",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "规格型号",
+   "值": [
+    "4OZ牛皮纸双层杯;牛皮纸",
+    "8OZ牛皮纸双层杯（80口径）;牛皮纸",
+    "8OZ牛皮纸双层杯（90口径）;牛皮纸",
+    "10OZ牛皮纸双层杯;牛皮纸",
+    "12OZ牛皮纸双层杯;牛皮纸",
+    "16OZ牛皮纸双层杯;牛皮纸",
+    "22OZ牛皮纸双层杯;牛皮纸",
+    "4OZ白口杯纸双层杯;白色",
+    "8oz白口杯纸双层杯;白色",
+    "8oz白口杯纸双层杯（90口径）;白色",
+    "10oz白口杯纸双层杯;白色",
+    "12oz白口杯纸双层杯;白色",
+    "16oz白口杯纸双层杯;白色",
+    "22oz白口杯纸双层杯;白色",
+    "8OZ-PP盖白色;白色",
+    "8OZ-PP盖黑色;黑色",
+    "8OZ-白色U形盖;白色",
+    "8OZ-黑色U形盖;黑色",
+    "10/12/16/22OZ-PP盖白色;白色",
+    "10/12/16/22OZ-PP盖黑色;黑色",
+    "10/12/16/22OZ-U型盖白色;白色",
+    "10/12/16/22OZ-U型盖黑色;黑色"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "8OZ-白色U形盖;白色",
+   "价格": "0.24",
+   "库存": 654522
+  },
+  {
+   "规格": "8OZ牛皮纸双层杯（80口径）;牛皮纸",
+   "价格": "0.26",
+   "库存": 470892
+  },
+  {
+   "规格": "12oz白口杯纸双层杯;白色",
+   "价格": "0.34",
+   "库存": 639293
+  },
+  {
+   "规格": "12OZ牛皮纸双层杯;牛皮纸",
+   "价格": "0.35",
+   "库存": 608939
+  },
+  {
+   "规格": "4OZ牛皮纸双层杯;牛皮纸",
+   "价格": "0.24",
+   "库存": 547618
+  },
+  {
+   "规格": "8OZ牛皮纸双层杯（90口径）;牛皮纸",
+   "价格": "0.26",
+   "库存": 806836
+  },
+  {
+   "规格": "8oz白口杯纸双层杯;白色",
+   "价格": "0.25",
+   "库存": 655290
+  },
+  {
+   "规格": "10/12/16/22OZ-PP盖白色;白色",
+   "价格": "0.12",
+   "库存": 644592
+  },
+  {
+   "规格": "10OZ牛皮纸双层杯;牛皮纸",
+   "价格": "0.33",
+   "库存": 642213
+  },
+  {
+   "规格": "16oz白口杯纸双层杯;白色",
+   "价格": "0.35",
+   "库存": 652060
+  },
+  {
+   "规格": "8OZ-PP盖黑色;黑色",
+   "价格": "0.11",
+   "库存": 645466
+  },
+  {
+   "规格": "10/12/16/22OZ-U型盖黑色;黑色",
+   "价格": "0.26",
+   "库存": 647400
+  },
+  {
+   "规格": "8OZ-黑色U形盖;黑色",
+   "价格": "0.24",
+   "库存": 654510
+  },
+  {
+   "规格": "22OZ牛皮纸双层杯;牛皮纸",
+   "价格": "0.40",
+   "库存": 656375
+  },
+  {
+   "规格": "8oz白口杯纸双层杯（90口径）;白色",
+   "价格": "0.25",
+   "库存": 653495
+  },
+  {
+   "规格": "10oz白口杯纸双层杯;白色",
+   "价格": "0.32",
+   "库存": 626408
+  },
+  {
+   "规格": "10/12/16/22OZ-U型盖白色;白色",
+   "价格": "0.26",
+   "库存": 644628
+  },
+  {
+   "规格": "16OZ牛皮纸双层杯;牛皮纸",
+   "价格": "0.36",
+   "库存": 647839
+  },
+  {
+   "规格": "4OZ白口杯纸双层杯;白色",
+   "价格": "0.24",
+   "库存": 547895
+  },
+  {
+   "规格": "8OZ-PP盖白色;白色",
+   "价格": "0.11",
+   "库存": 647479
+  },
+  {
+   "规格": "22oz白口杯纸双层杯;白色",
+   "价格": "0.39",
+   "库存": 655159
+  },
+  {
+   "规格": "10/12/16/22OZ-PP盖黑色;黑色",
+   "价格": "0.12",
+   "库存": 615760
+  }
+ ],
+ "规格图": [
+  [
+   "4OZ牛皮纸双层杯;牛皮纸",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01FqI8AX2GEjGPJdSMN_!!2214967718984-0-cib.jpg"
+  ],
+  [
+   "8OZ牛皮纸双层杯（80口径）;牛皮纸",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01aD4ing2GEjBMg82qi_!!2214967718984-0-cib.jpg"
+  ],
+  [
+   "8OZ牛皮纸双层杯（90口径）;牛皮纸",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01PM7xJp2GEjBMg7qR1_!!2214967718984-0-cib.jpg"
+  ],
+  [
+   "10OZ牛皮纸双层杯;牛皮纸",
+   "https://cbu01.alicdn.com/img/ibank/O1CN0165H8hx2GEjBPnLvJ4_!!2214967718984-0-cib.jpg"
+  ],
+  [
+   "12OZ牛皮纸双层杯;牛皮纸",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01ZU4lPw2GEjBSgIZin_!!2214967718984-0-cib.jpg"
+  ],
+  [
+   "16OZ牛皮纸双层杯;牛皮纸",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01zDAsGE2GEjBLfcZfh_!!2214967718984-0-cib.jpg"
+  ],
+  [
+   "22OZ牛皮纸双层杯;牛皮纸",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01wJQrKA2GEjBU5HDnc_!!2214967718984-0-cib.jpg"
+  ],
+  [
+   "4OZ白口杯纸双层杯;白色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01oYKH7G2GEjGMlbVEk_!!2214967718984-0-cib.jpg"
+  ],
+  [
+   "8oz白口杯纸双层杯;白色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01CvK32w2GEjBPnOGzU_!!2214967718984-0-cib.jpg"
+  ],
+  [
+   "8oz白口杯纸双层杯（90口径）;白色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN010PG3xF2GEjBQiDhKv_!!2214967718984-0-cib.jpg"
+  ],
+  [
+   "10oz白口杯纸双层杯;白色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01TYm0iJ2GEjBU5LBEL_!!2214967718984-0-cib.jpg"
+  ],
+  [
+   "12oz白口杯纸双层杯;白色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01jhGQb92GEjBN83yuN_!!2214967718984-0-cib.jpg"
+  ],
+  [
+   "16oz白口杯纸双层杯;白色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN0162wa5B2GEjBU5Lmjf_!!2214967718984-0-cib.jpg"
+  ],
+  [
+   "22oz白口杯纸双层杯;白色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN019Yy8Vf2GEjBPnNjuV_!!2214967718984-0-cib.jpg"
+  ],
+  [
+   "8OZ-PP盖白色;白色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01WgcCGu2GEjBTREBPa_!!2214967718984-0-cib.jpg"
+  ],
+  [
+   "8OZ-PP盖黑色;黑色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01KLOi9P2GEjBPnR1jI_!!2214967718984-0-cib.jpg"
+  ],
+  [
+   "8OZ-白色U形盖;白色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01Px81Pp2GEjBRC37Hp_!!2214967718984-0-cib.jpg"
+  ],
+  [
+   "8OZ-黑色U形盖;黑色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01RzZFyO2GEjBPnRQjn_!!2214967718984-0-cib.jpg"
+  ],
+  [
+   "10/12/16/22OZ-PP盖白色;白色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01uQg0Tt2GEjBSHjh6J_!!2214967718984-0-cib.jpg"
+  ],
+  [
+   "10/12/16/22OZ-PP盖黑色;黑色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01dtZ4KK2GEjBLfjMBF_!!2214967718984-0-cib.jpg"
+  ],
+  [
+   "10/12/16/22OZ-U型盖白色;白色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01FocSJP2GEjBN8A9tF_!!2214967718984-0-cib.jpg"
+  ],
+  [
+   "10/12/16/22OZ-U型盖黑色;黑色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN010fdLiW2GEjBMgKjYx_!!2214967718984-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "skuPrice",
+ "价格区间": null,
+ "阶梯价_登录后": [
+  {
+   "price": "0.11",
+   "beginAmount": 1
+  },
+  {
+   "price": "0.40",
+   "beginAmount": 2
+  }
+ ],
+ "到手价": null,
+ "起订量": 2,
+ "单位": "个",
+ "可售总量": 13964669,
+ "已售": 30769,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01RgWKc02GEjFiqJNma_!!2214967718984-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01fe1LtA2GEjGHdOBYZ_!!2214967718984-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01Nep6hw2GEjFh4Bv0g_!!2214967718984-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01Z1xXrL2GEjFi6gCWG_!!2214967718984-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01VKpAaD2GEjGLwHzBW_!!2214967718984-0-cib.jpg"
+ ],
+ "商品属性": [
+  "undefined:",
+  "undefined:",
+  "产地:浙江",
+  "原产国/地区:中国",
+  "用途:热饮杯",
+  "是否有盖:是",
+  "品牌:丰瀛",
+  "货号:KFB",
+  "主要下游平台:ebay",
+  "主要销售地区:东北亚/欧洲",
+  "有可授权的自有品牌:否",
+  "是否跨境出口专供货源:否",
+  "是否可印logo:是",
+  "是否独立包装:否",
+  "上口*下口*高:90*72*62",
+  "类型:咖啡杯",
+  "适用场景:日常门店"
+ ],
+ "包装信息": [
+  {
+   "volume": 5100,
+   "sku1": "4OZ牛皮纸双层杯;牛皮纸",
+   "length": 17,
+   "width": 15,
+   "weight": 15,
+   "skuId": 5828045470035,
+   "height": 20
+  },
+  {
+   "volume": 5100,
+   "sku1": "8OZ牛皮纸双层杯（80口径）;牛皮纸",
+   "length": 17,
+   "width": 15,
+   "weight": 15,
+   "skuId": 5828045470036,
+   "height": 20
+  },
+  {
+   "volume": 5100,
+   "sku1": "8OZ牛皮纸双层杯（90口径）;牛皮纸",
+   "length": 17,
+   "width": 15,
+   "weight": 15,
+   "skuId": 5828045470037,
+   "height": 20
+  },
+  {
+   "volume": 5100,
+   "sku1": "10OZ牛皮纸双层杯;牛皮纸",
+   "length": 17,
+   "width": 15,
+   "weight": 15,
+   "skuId": 5828045470038,
+   "height": 20
+  },
+  {
+   "volume": 5100,
+   "sku1": "12OZ牛皮纸双层杯;牛皮纸",
+   "length": 17,
+   "width": 15,
+   "weight": 15,
+   "skuId": 5828045470039,
+   "height": 20
+  },
+  {
+   "volume": 5100,
+   "sku1": "16OZ牛皮纸双层杯;牛皮纸",
+   "length": 17,
+   "width": 15,
+   "weight": 15,
+   "skuId": 5828045470040,
+   "height": 20
+  },
+  {
+   "volume": 5100,
+   "sku1": "22OZ牛皮纸双层杯;牛皮纸",
+   "length": 17,
+   "width": 15,
+   "weight": 15,
+   "skuId": 5828045470041,
+   "height": 20
+  },
+  {
+   "volume": 5100,
+   "sku1": "4OZ白口杯纸双层杯;白色",
+   "length": 17,
+   "width": 15,
+   "weight": 15,
+   "skuId": 5828045470042,
+   "height": 20
+  },
+  {
+   "volume": 5100,
+   "sku1": "8oz白口杯纸双层杯;白色",
+   "length": 17,
+   "width": 15,
+   "weight": 15,
+   "skuId": 5828045470043,
+   "height": 20
+  },
+  {
+   "volume": 5100,
+   "sku1": "8oz白口杯纸双层杯（90口径）;白色",
+   "length": 17,
+   "width": 15,
+   "weight": 15,
+   "skuId": 5828045470044,
+   "height": 20
+  },
+  {
+   "volume": 5100,
+   "sku1": "10oz白口杯纸双层杯;白色",
+   "length": 17,
+   "width": 15,
+   "weight": 15,
+   "skuId": 5828045470045,
+   "height": 20
+  },
+  {
+   "volume": 5100,
+   "sku1": "12oz白口杯纸双层杯;白色",
+   "length": 17,
+   "width": 15,
+   "weight": 15,
+   "skuId": 5828045470046,
+   "height": 20
+  },
+  {
+   "volume": 5100,
+   "sku1": "16oz白口杯纸双层杯;白色",
+   "length": 17,
+   "width": 15,
+   "weight": 15,
+   "skuId": 5828045470047,
+   "height": 20
+  },
+  {
+   "volume": 5100,
+   "sku1": "22oz白口杯纸双层杯;白色",
+   "length": 17,
+   "width": 15,
+   "weight": 15,
+   "skuId": 5828045470048,
+   "height": 20
+  },
+  {
+   "volume": 5100,
+   "sku1": "8OZ-PP盖白色;白色",
+   "length": 17,
+   "width": 15,
+   "weight": 15,
+   "skuId": 5828045470049,
+   "height": 20
+  },
+  {
+   "volume": 5100,
+   "sku1": "8OZ-PP盖黑色;黑色",
+   "length": 17,
+   "width": 15,
+   "weight": 15,
+   "skuId": 5828045470050,
+   "height": 20
+  },
+  {
+   "volume": 5100,
+   "sku1": "8OZ-白色U形盖;白色",
+   "length": 17,
+   "width": 15,
+   "weight": 15,
+   "skuId": 5828045470051,
+   "height": 20
+  },
+  {
+   "volume": 5100,
+   "sku1": "8OZ-黑色U形盖;黑色",
+   "length": 17,
+   "width": 15,
+   "weight": 15,
+   "skuId": 5828045470052,
+   "height": 20
+  },
+  {
+   "volume": 5100,
+   "sku1": "10/12/16/22OZ-PP盖白色;白色",
+   "length": 17,
+   "width": 15,
+   "weight": 15,
+   "skuId": 5828045470053,
+   "height": 20
+  },
+  {
+   "volume": 5100,
+   "sku1": "10/12/16/22OZ-PP盖黑色;黑色",
+   "length": 17,
+   "width": 15,
+   "weight": 15,
+   "skuId": 5828045470054,
+   "height": 20
+  },
+  {
+   "volume": 5100,
+   "sku1": "10/12/16/22OZ-U型盖白色;白色",
+   "length": 17,
+   "width": 15,
+   "weight": 15,
+   "skuId": 5828045470055,
+   "height": 20
+  },
+  {
+   "volume": 5100,
+   "sku1": "10/12/16/22OZ-U型盖黑色;黑色",
+   "length": 17,
+   "width": 15,
+   "weight": 15,
+   "skuId": 5828045470056,
+   "height": 20
+  }
+ ],
+ "url": "https://detail.1688.com/offer/856061597927.html",
+ "核页时间": "2026-10-08T14:06:31.067Z"
+}

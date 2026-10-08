@@ -1,0 +1,118 @@
+{
+ "offerId": "785768504483",
+ "条目": "T0252",
+ "block": false,
+ "卖家公司": "义乌澄壹家纺有限公司",
+ "旺旺名": "jiuzhujiaju",
+ "标题": "雪尼尔卫生间吸水地垫 康乐屋热熔胶防滑大门口垫 浴室防滑垫脚垫",
+ "状态": "PUBLISHED",
+ "类目": "地垫",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "颜色",
+   "值": [
+    "粉色",
+    "灰色",
+    "蓝色"
+   ]
+  },
+  {
+   "属性": "尺寸",
+   "值": [
+    "40*60cm"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "灰色&gt;40*60cm",
+   "价格": "16.20",
+   "库存": 5000
+  },
+  {
+   "规格": "粉色&gt;40*60cm",
+   "价格": "16.20",
+   "库存": 4998
+  },
+  {
+   "规格": "蓝色&gt;40*60cm",
+   "价格": "16.20",
+   "库存": 4999
+  }
+ ],
+ "规格图": [
+  [
+   "粉色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01JXx1RQ1xggnYveMXa_!!2214962986473-0-cib.jpg"
+  ],
+  [
+   "灰色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01V3KxyR1xggnYvhFOS_!!2214962986473-0-cib.jpg"
+  ],
+  [
+   "蓝色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01L0j6x71xggnaAz3gH_!!2214962986473-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "rangePrice",
+ "价格区间": "14.20-16.20",
+ "阶梯价_登录后": [
+  {
+   "price": "16.20",
+   "beginAmount": 1
+  },
+  {
+   "price": "15.20",
+   "beginAmount": 2
+  },
+  {
+   "price": "14.20",
+   "beginAmount": 50
+  }
+ ],
+ "到手价": null,
+ "起订量": 1,
+ "单位": "块",
+ "可售总量": 14997,
+ "已售": 51,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01Abp4nB1xgggSgt0fU_!!2214962986473-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01rLFeqr1xgggPOyu9F_!!2214962986473-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01T1GuWt1xggq3l4EvR_!!2214962986473-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01yUwqLq1xggq5CP20H_!!2214962986473-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01CmwEzj1xgggQnjaws_!!2214962986473-0-cib.jpg"
+ ],
+ "商品属性": [
+  "材质:雪尼尔",
+  "工艺:簇绒",
+  "风格:现代简约",
+  "清洗类型:水洗/可机洗",
+  "形状:方形",
+  "品牌:康乐屋",
+  "货号:2号高低毛地垫",
+  "图案:纯色",
+  "加工定制:否",
+  "颜色:粉色/灰色/蓝色",
+  "尺寸:40*60cm",
+  "空间:浴室",
+  "是否有版权或专利:否",
+  "裁剪功能:无",
+  "上市年份季节:2025年冬季",
+  "折叠功能:无",
+  "适用人群:成人",
+  "是否IP授权:否",
+  "边缘处理:包边"
+ ],
+ "包装信息": [
+  {
+   "volume": 7200,
+   "length": 40,
+   "width": 60,
+   "weight": 400,
+   "height": 3
+  }
+ ],
+ "url": "https://detail.1688.com/offer/785768504483.html",
+ "核页时间": "2026-10-08T13:42:35.627Z"
+}

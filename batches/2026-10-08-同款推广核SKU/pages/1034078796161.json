@@ -1,0 +1,76 @@
+{
+ "offerId": "1034078796161",
+ "条目": "T0056",
+ "block": false,
+ "卖家公司": "曹县妙希木制品有限公司",
+ "旺旺名": "妙希木制品",
+ "标题": "木质宠物骨灰盒家用宠物毛发纪念收藏盒磁吸盖圆形简约实木存储盒",
+ "状态": "PUBLISHED",
+ "类目": "木质工艺品",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "颜色",
+   "值": [
+    "如图"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "如图",
+   "价格": null,
+   "库存": 5000
+  }
+ ],
+ "规格图": [
+  [
+   "如图",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01jGCyHh221zkUfNSIE_!!2200817607061-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "rangePrice",
+ "价格区间": null,
+ "阶梯价_登录后": [
+  {
+   "price": "9.00",
+   "beginAmount": 200
+  }
+ ],
+ "到手价": null,
+ "起订量": 500,
+ "单位": "个",
+ "可售总量": 5000,
+ "已售": 0,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01G0ZEvy221zkUG5Dkr_!!2200817607061-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN015W7y0v221zkUsP0Q7_!!2200817607061-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01xIzf73221zkU7P0Vv_!!2200817607061-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01hfyONj221zkPaFDaK_!!2200817607061-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01jHuj6G221zkUazHG6_!!2200817607061-0-cib.jpg"
+ ],
+ "商品属性": [
+  "材质:实木",
+  "品牌:妙希",
+  "类别:其他木制品",
+  "风格:现代简约",
+  "货号:MX-0318",
+  "是否专利货源:否",
+  "颜色:如图",
+  "是否属于礼品:否",
+  "是否IP授权:否"
+ ],
+ "包装信息": [
+  {
+   "volume": 0,
+   "sku1": "如图",
+   "length": 0,
+   "width": 0,
+   "weight": 1,
+   "skuId": 6047599865022,
+   "height": 0
+  }
+ ],
+ "url": "https://detail.1688.com/offer/1034078796161.html",
+ "核页时间": "2026-10-08T12:56:08.130Z"
+}

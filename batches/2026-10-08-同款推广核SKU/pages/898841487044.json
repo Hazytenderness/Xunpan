@@ -1,0 +1,160 @@
+{
+ "offerId": "898841487044",
+ "条目": "T0299",
+ "block": false,
+ "卖家公司": "霸州市鸿凯沐家具有限公司",
+ "旺旺名": "鸿凯沐家具",
+ "标题": "北欧轻奢餐椅 复古靠背网红勺椅 现代简约餐厅餐椅家用酒店化妆椅",
+ "状态": "PUBLISHED",
+ "类目": "餐椅",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "颜色",
+   "值": [
+    "灰色",
+    "桔色",
+    "墨绿色",
+    "黑色"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "黑色",
+   "价格": null,
+   "库存": 9999
+  },
+  {
+   "规格": "桔色",
+   "价格": null,
+   "库存": 9999
+  },
+  {
+   "规格": "灰色",
+   "价格": null,
+   "库存": 9999
+  },
+  {
+   "规格": "墨绿色",
+   "价格": null,
+   "库存": 9999
+  }
+ ],
+ "规格图": [
+  [
+   "灰色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01hahwmK1WRa5JCZo2I_!!2219508162785-0-cib.jpg"
+  ],
+  [
+   "桔色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN017MEim31WRa5Fo2Lvs_!!2219508162785-0-cib.jpg"
+  ],
+  [
+   "墨绿色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01lc1JHu1WRa5Jgx8G3_!!2219508162785-0-cib.jpg"
+  ],
+  [
+   "黑色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01Gu6Rsl1WRa5HlBNDo_!!2219508162785-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "rangePrice",
+ "价格区间": null,
+ "阶梯价_登录后": [
+  {
+   "price": "46.00",
+   "beginAmount": 20
+  },
+  {
+   "price": "44.00",
+   "beginAmount": 200
+  },
+  {
+   "price": "42.00",
+   "beginAmount": 500
+  }
+ ],
+ "到手价": null,
+ "起订量": 20,
+ "单位": "把",
+ "可售总量": 39996,
+ "已售": 0,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01CeKjUK1WRa5JgxOs0_!!2219508162785-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01cD5oPg1WRa5K6sfXM_!!2219508162785-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01rmicGX1WRa5Jgvza2_!!2219508162785-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN017zU9Ws1WRa5Huqg1H_!!2219508162785-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01PTb7tE1WRa5BX62oP_!!2219508162785-0-cib.jpg"
+ ],
+ "商品属性": [
+  "材质:金属",
+  "产品类别:餐椅",
+  "功能:其他",
+  "饰面材质:皮革",
+  "品牌:金沐灶家具",
+  "风格:轻奢",
+  "框架:金属骨架",
+  "内部填充物:高弹泡沫海绵",
+  "货号:001",
+  "可否定做:可以",
+  "可否旋转:不可以",
+  "可否折叠:不可以",
+  "适用场合:客厅/酒吧/酒店/餐厅/其他",
+  "型号:餐椅",
+  "有无扶手:无",
+  "颜色:灰色/桔色/墨绿色/黑色",
+  "是否椅面软包:是",
+  "适用年龄段:成年",
+  "规格:多样",
+  "靠背高度:-",
+  "是否跨境出口专供货源:否",
+  "是否配送上门:送货至楼下",
+  "是否提供安装服务:否",
+  "空间:客厅",
+  "是否一般纳税人:是",
+  "是否有专利:否",
+  "适用对象:儿童/成人/老人",
+  "是否有3D模型:否"
+ ],
+ "包装信息": [
+  {
+   "volume": 0,
+   "sku1": "灰色",
+   "length": 0,
+   "width": 0,
+   "weight": 4,
+   "skuId": 5920916154975,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "桔色",
+   "length": 0,
+   "width": 0,
+   "weight": 4,
+   "skuId": 5920916154976,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "墨绿色",
+   "length": 0,
+   "width": 0,
+   "weight": 4,
+   "skuId": 5920916154977,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "黑色",
+   "length": 0,
+   "width": 0,
+   "weight": 4,
+   "skuId": 5920916154978,
+   "height": 0
+  }
+ ],
+ "url": "https://detail.1688.com/offer/898841487044.html",
+ "核页时间": "2026-10-08T13:55:42.249Z"
+}

@@ -1,0 +1,107 @@
+{
+ "offerId": "1066710955525",
+ "条目": "T0301",
+ "block": false,
+ "卖家公司": "南京柯柏蓝健康科技有限公司",
+ "旺旺名": "cablue",
+ "标题": "跨境新品便携水凝胶透气凉感车载车用坐垫释放压力防滑可折叠便携",
+ "状态": "PUBLISHED",
+ "类目": "凉垫",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "颜色",
+   "值": [
+    "黑色",
+    "灰色"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "黑色",
+   "价格": "62.00",
+   "库存": 1000
+  },
+  {
+   "规格": "灰色",
+   "价格": "62.00",
+   "库存": 1000
+  }
+ ],
+ "规格图": [
+  [
+   "黑色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01Cl8owN1ntNhmcpLce_!!2219017045147-0-cib.jpg"
+  ],
+  [
+   "灰色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN014Q064z1ntNhmijaz1_!!2219017045147-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "rangePrice",
+ "价格区间": "52.00-62.00",
+ "阶梯价_登录后": [
+  {
+   "price": "62.00",
+   "beginAmount": 10
+  },
+  {
+   "price": "57.00",
+   "beginAmount": 100
+  },
+  {
+   "price": "52.00",
+   "beginAmount": 500
+  }
+ ],
+ "到手价": {
+  "价": "61.5",
+  "说明": "新人价",
+  "件数": 10
+ },
+ "起订量": 10,
+ "单位": "只",
+ "可售总量": 2000,
+ "已售": 0,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01TJ5gCc1ntNhmSVTIz_!!2219017045147-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01YWS0uv1ntNhmQJ0ck_!!2219017045147-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01SVh8Y91ntNhmcfD3S_!!2219017045147-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01xbHtfE1ntNhmF1l3d_!!2219017045147-0-cib.jpg"
+ ],
+ "商品属性": [
+  "材质:其它材质",
+  "品牌:CABLUE",
+  "产地:江苏",
+  "规格:通用",
+  "货号:M5667",
+  "颜色:黑色/灰色",
+  "主要下游平台:ebay/亚马逊/wish/速卖通/独立站/LAZADA",
+  "主要销售地区:欧洲/北美",
+  "有可授权的自有品牌:是",
+  "是否跨境出口专供货源:是"
+ ],
+ "包装信息": [
+  {
+   "volume": 2184,
+   "sku1": "黑色",
+   "length": 42,
+   "width": 26,
+   "weight": 800,
+   "skuId": 6116674416028,
+   "height": 2
+  },
+  {
+   "volume": 2184,
+   "sku1": "灰色",
+   "length": 42,
+   "width": 26,
+   "weight": 800,
+   "skuId": 6116674416029,
+   "height": 2
+  }
+ ],
+ "url": "https://detail.1688.com/offer/1066710955525.html",
+ "核页时间": "2026-10-08T13:56:23.395Z"
+}

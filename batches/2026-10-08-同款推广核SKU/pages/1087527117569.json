@@ -1,0 +1,669 @@
+{
+ "offerId": "1087527117569",
+ "条目": "H0130",
+ "block": false,
+ "卖家公司": "义乌市卉汇电子商务商行(个体工商户)",
+ "旺旺名": "卉汇电子商务",
+ "标题": "厂家跨境宠物玩具现货棉毛绒宠物磨牙玩具耐咬猫狗玩具套装编编织",
+ "状态": "PUBLISHED",
+ "类目": "猫猫玩具",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "颜色",
+   "值": [
+    "冲锋鸭小号",
+    "冲锋鸭中号",
+    "冲锋鸭大号",
+    "菠萝格鲨鱼",
+    "玉米粒小猪",
+    "甜甜圈猴子",
+    "绳结兔子-青蛙",
+    "大眼蛙",
+    "胡萝卜",
+    "麻布大雁",
+    "薯条",
+    "长手大象",
+    "坐姿奶牛",
+    "猫薄荷小鱼（图片款都可定做）18-20CM鱼系列",
+    "抽绳系列",
+    "玉菠萝格犀牛",
+    "菠萝格大象",
+    "毛毡布蝙蝠翅膀40*18",
+    "热印冰淇淋",
+    "火烈鸟",
+    "蝴蝶结猫咪",
+    "绳结牛油果",
+    "绳结梅花鹿",
+    "8字史迪仔-库洛米",
+    "绳结魔方",
+    "网布大象",
+    "热印食物",
+    "响纸小飞鼠",
+    "热印面包",
+    "奶牛系列",
+    "绳结飞鼠"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "绳结魔方",
+   "价格": "3.92",
+   "库存": 10000
+  },
+  {
+   "规格": "绳结梅花鹿",
+   "价格": "3.50",
+   "库存": 10000
+  },
+  {
+   "规格": "薯条",
+   "价格": "4.55",
+   "库存": 10000
+  },
+  {
+   "规格": "菠萝格大象",
+   "价格": "7.00",
+   "库存": 10000
+  },
+  {
+   "规格": "奶牛系列",
+   "价格": "4.90",
+   "库存": 10000
+  },
+  {
+   "规格": "冲锋鸭中号",
+   "价格": "5.95",
+   "库存": 10000
+  },
+  {
+   "规格": "玉菠萝格犀牛",
+   "价格": "7.35",
+   "库存": 10000
+  },
+  {
+   "规格": "玉米粒小猪",
+   "价格": "6.30",
+   "库存": 10000
+  },
+  {
+   "规格": "绳结牛油果",
+   "价格": "6.30",
+   "库存": 10000
+  },
+  {
+   "规格": "热印冰淇淋",
+   "价格": "3.15",
+   "库存": 10000
+  },
+  {
+   "规格": "大眼蛙",
+   "价格": "7.00",
+   "库存": 10000
+  },
+  {
+   "规格": "坐姿奶牛",
+   "价格": "7.35",
+   "库存": 10000
+  },
+  {
+   "规格": "抽绳系列",
+   "价格": "7.35",
+   "库存": 10000
+  },
+  {
+   "规格": "响纸小飞鼠",
+   "价格": "3.22",
+   "库存": 10000
+  },
+  {
+   "规格": "网布大象",
+   "价格": "6.30",
+   "库存": 10000
+  },
+  {
+   "规格": "冲锋鸭小号",
+   "价格": "4.06",
+   "库存": 9956
+  },
+  {
+   "规格": "绳结飞鼠",
+   "价格": "6.30",
+   "库存": 10000
+  },
+  {
+   "规格": "热印面包",
+   "价格": "2.80",
+   "库存": 10000
+  },
+  {
+   "规格": "猫薄荷小鱼（图片款都可定做）18-20CM鱼系列",
+   "价格": "1.47",
+   "库存": 9922
+  },
+  {
+   "规格": "热印食物",
+   "价格": "1.47",
+   "库存": 10000
+  },
+  {
+   "规格": "毛毡布蝙蝠翅膀40*18",
+   "价格": "3.15",
+   "库存": 10000
+  },
+  {
+   "规格": "8字史迪仔-库洛米",
+   "价格": "6.30",
+   "库存": 10000
+  },
+  {
+   "规格": "麻布大雁",
+   "价格": "4.90",
+   "库存": 10000
+  },
+  {
+   "规格": "胡萝卜",
+   "价格": "2.10",
+   "库存": 10000
+  },
+  {
+   "规格": "蝴蝶结猫咪",
+   "价格": "3.92",
+   "库存": 10000
+  },
+  {
+   "规格": "火烈鸟",
+   "价格": "5.04",
+   "库存": 10000
+  },
+  {
+   "规格": "长手大象",
+   "价格": "6.65",
+   "库存": 10000
+  },
+  {
+   "规格": "菠萝格鲨鱼",
+   "价格": "7.00",
+   "库存": 10000
+  },
+  {
+   "规格": "甜甜圈猴子",
+   "价格": "7.00",
+   "库存": 10000
+  },
+  {
+   "规格": "冲锋鸭大号",
+   "价格": "8.61",
+   "库存": 10000
+  },
+  {
+   "规格": "绳结兔子-青蛙",
+   "价格": "2.80",
+   "库存": 10000
+  }
+ ],
+ "规格图": [
+  [
+   "冲锋鸭小号",
+   "https://cbu01.alicdn.com/img/ibank/O1CN011VSggveFGwE1chua_!!2222834391399-0-cib.jpg"
+  ],
+  [
+   "冲锋鸭中号",
+   "https://cbu01.alicdn.com/img/ibank/O1CN016MkJnc6v7iI0K0yd_!!2222834391399-0-cib.jpg"
+  ],
+  [
+   "冲锋鸭大号",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01ZmDLP3pB8HF0M9ey_!!2222834391399-0-cib.jpg"
+  ],
+  [
+   "菠萝格鲨鱼",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01JKtgIJmoM3I0GUS1_!!2222834391399-0-cib.jpg"
+  ],
+  [
+   "玉米粒小猪",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01TV2Bkicc8YF0INWe_!!2222834391399-0-cib.jpg"
+  ],
+  [
+   "甜甜圈猴子",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01KagjH0XGaNE0Ke08_!!2222834391399-0-cib.jpg"
+  ],
+  [
+   "绳结兔子-青蛙",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01PZAB5gua7cD0MuUO_!!2222834391399-0-cib.jpg"
+  ],
+  [
+   "大眼蛙",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01WVqDxFzCRJK17MYh_!!2222834391399-0-cib.jpg"
+  ],
+  [
+   "胡萝卜",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01DTysUPgVZSK0K8mW_!!2222834391399-0-cib.jpg"
+  ],
+  [
+   "麻布大雁",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01EVsyzyg8xYH0K8mW_!!2222834391399-0-cib.jpg"
+  ],
+  [
+   "薯条",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01zWsuUj2XrgJ0Mesa_!!2222834391399-0-cib.jpg"
+  ],
+  [
+   "长手大象",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01okT01TC39dE0M1r5_!!2222834391399-0-cib.jpg"
+  ],
+  [
+   "坐姿奶牛",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01dzfQQpsIssH0Ktbw_!!2222834391399-0-cib.jpg"
+  ],
+  [
+   "猫薄荷小鱼（图片款都可定做）18-20CM鱼系列",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01QC9UbQBPJKD0KOOK_!!2222834391399-0-cib.jpg"
+  ],
+  [
+   "抽绳系列",
+   "https://cbu01.alicdn.com/img/ibank/O1CN013cSBqsow0dB0KOOK_!!2222834391399-0-cib.jpg"
+  ],
+  [
+   "玉菠萝格犀牛",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01RloDYylKN2K0Ke08_!!2222834391399-0-cib.jpg"
+  ],
+  [
+   "菠萝格大象",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01Ip7dZCgxYAF0L9Dk_!!2222834391399-0-cib.jpg"
+  ],
+  [
+   "毛毡布蝙蝠翅膀40*18",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01BSTRCpA4yEE0L9D2_!!2222834391399-0-cib.jpg"
+  ],
+  [
+   "热印冰淇淋",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01E3kuBz5NK3B0NPhG_!!2222834391399-0-cib.jpg"
+  ],
+  [
+   "火烈鸟",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01E7JpVoJJSTH0K8mW_!!2222834391399-0-cib.jpg"
+  ],
+  [
+   "蝴蝶结猫咪",
+   "https://cbu01.alicdn.com/img/ibank/O1CN017735SOrQxiK0K8mW_!!2222834391399-0-cib.jpg"
+  ],
+  [
+   "绳结牛油果",
+   "https://cbu01.alicdn.com/img/ibank/O1CN010DvT1ucFhgH0K8mW_!!2222834391399-0-cib.jpg"
+  ],
+  [
+   "绳结梅花鹿",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01oCv4rr6RHzH0K8mW_!!2222834391399-0-cib.jpg"
+  ],
+  [
+   "8字史迪仔-库洛米",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01BFwjhPMqRUG0K8ls_!!2222834391399-0-cib.jpg"
+  ],
+  [
+   "绳结魔方",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01CdyJBOekePI0Ikvl_!!2222834391399-0-cib.jpg"
+  ],
+  [
+   "网布大象",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01gwvu1iM7lvK0K8ls_!!2222834391399-0-cib.jpg"
+  ],
+  [
+   "热印食物",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01cib2QqeIbpC0M9eE_!!2222834391399-0-cib.jpg"
+  ],
+  [
+   "响纸小飞鼠",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01vjy3ULqC28F0Lu3A_!!2222834391399-0-cib.jpg"
+  ],
+  [
+   "热印面包",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01UVUMOt4m3aF0PQaS_!!2222834391399-0-cib.jpg"
+  ],
+  [
+   "奶牛系列",
+   "https://cbu01.alicdn.com/img/ibank/O1CN012BhcFbBIhbD0Mesa_!!2222834391399-0-cib.jpg"
+  ],
+  [
+   "绳结飞鼠",
+   "https://cbu01.alicdn.com/img/ibank/O1CN0139A05AucwNE0Nuvc_!!2222834391399-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "skuPrice",
+ "价格区间": "2.10-12.30",
+ "阶梯价_登录后": [
+  {
+   "price": "1.47",
+   "beginAmount": 1
+  },
+  {
+   "price": "8.61",
+   "beginAmount": 1
+  }
+ ],
+ "到手价": {
+  "价": "0.47",
+  "说明": "新人价",
+  "件数": 1
+ },
+ "起订量": 1,
+ "单位": "个",
+ "可售总量": 309878,
+ "已售": 122,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01icXt9TWnhbC2b8G8_!!2222834391399-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01hlKIA03RM6K2b8G8_!!2222834391399-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01YO3NPhEPPTF1chua_!!2222834391399-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01x049rCd5R5G1chua_!!2222834391399-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01zDeKnh2DTMH0jJlA_!!2222834391399-0-cib.jpg"
+ ],
+ "商品属性": [
+  "材质:毛毡",
+  "品牌:LONGTENG-PETTOYS",
+  "产品类别:逗猫玩具",
+  "产地:浙江",
+  "是否进口:否",
+  "货号:宠物玩具",
+  "箱装数量:1200",
+  "重量:100",
+  "是否专利货源:否",
+  "颜色:冲锋鸭小号/冲锋鸭中号/冲锋鸭大号/菠萝格鲨鱼/玉米粒小猪/甜甜圈猴子/绳结兔子-青蛙/大眼蛙/胡萝卜/麻布大雁/薯条/长手大象/坐姿奶牛/猫薄荷小鱼（图片款都可定做）18-20CM鱼系列/抽绳系列/玉菠萝格犀牛/菠萝格大象/毛毡布蝙蝠翅膀40*18/热印冰淇淋/火烈鸟/蝴蝶结猫咪/绳结牛油果/绳结梅花鹿/8字史迪仔-库洛米/绳结魔方/网布大象/热印食物/响纸小飞鼠/热印面包/奶牛系列/绳结飞鼠",
+  "主要下游平台:ebay/亚马逊/wish/速卖通/独立站/LAZADA/其他",
+  "主要销售地区:非洲/欧洲/南美/东南亚/北美/东北亚/中东/其他",
+  "有可授权的自有品牌:否",
+  "是否跨境出口专供货源:是",
+  "适用送礼场合:婚庆/派对聚会/其他",
+  "适用送礼关系:情侣/夫妻/同事/朋友/孩子/同学/其他",
+  "适用节日:圣诞节/情人节/春节/元旦/七夕/万圣节/复活节/国庆节/儿童节/其他",
+  "是否属于礼品:是，个人礼品",
+  "是否IP授权:否",
+  "是否智能:否",
+  "安装方式:简易",
+  "供电方式:无",
+  "附加功能:安抚/发光/磨牙/清洁牙齿/智力开发/安全性/漏食/互动性",
+  "使用场景:室内"
+ ],
+ "包装信息": [
+  {
+   "volume": 1000,
+   "sku1": "冲锋鸭小号",
+   "length": 10,
+   "width": 10,
+   "weight": 200,
+   "skuId": 6306264950523,
+   "height": 10
+  },
+  {
+   "volume": 1000,
+   "sku1": "冲锋鸭中号",
+   "length": 10,
+   "width": 10,
+   "weight": 200,
+   "skuId": 6306264950524,
+   "height": 10
+  },
+  {
+   "volume": 1000,
+   "sku1": "冲锋鸭大号",
+   "length": 10,
+   "width": 10,
+   "weight": 200,
+   "skuId": 6306264950525,
+   "height": 10
+  },
+  {
+   "volume": 1000,
+   "sku1": "菠萝格鲨鱼",
+   "length": 10,
+   "width": 10,
+   "weight": 200,
+   "skuId": 6306264950526,
+   "height": 10
+  },
+  {
+   "volume": 1000,
+   "sku1": "玉米粒小猪",
+   "length": 10,
+   "width": 10,
+   "weight": 200,
+   "skuId": 6306264950527,
+   "height": 10
+  },
+  {
+   "volume": 1000,
+   "sku1": "甜甜圈猴子",
+   "length": 10,
+   "width": 10,
+   "weight": 200,
+   "skuId": 6306264950528,
+   "height": 10
+  },
+  {
+   "volume": 1000,
+   "sku1": "绳结兔子-青蛙",
+   "length": 10,
+   "width": 10,
+   "weight": 200,
+   "skuId": 6306264950529,
+   "height": 10
+  },
+  {
+   "volume": 1000,
+   "sku1": "大眼蛙",
+   "length": 10,
+   "width": 10,
+   "weight": 200,
+   "skuId": 6306264950530,
+   "height": 10
+  },
+  {
+   "volume": 1000,
+   "sku1": "胡萝卜",
+   "length": 10,
+   "width": 10,
+   "weight": 200,
+   "skuId": 6306264950531,
+   "height": 10
+  },
+  {
+   "volume": 1000,
+   "sku1": "麻布大雁",
+   "length": 10,
+   "width": 10,
+   "weight": 200,
+   "skuId": 6306264950532,
+   "height": 10
+  },
+  {
+   "volume": 1000,
+   "sku1": "薯条",
+   "length": 10,
+   "width": 10,
+   "weight": 200,
+   "skuId": 6306264950533,
+   "height": 10
+  },
+  {
+   "volume": 1000,
+   "sku1": "长手大象",
+   "length": 10,
+   "width": 10,
+   "weight": 200,
+   "skuId": 6306264950534,
+   "height": 10
+  },
+  {
+   "volume": 1000,
+   "sku1": "坐姿奶牛",
+   "length": 10,
+   "width": 10,
+   "weight": 200,
+   "skuId": 6306264950535,
+   "height": 10
+  },
+  {
+   "volume": 1000,
+   "sku1": "猫薄荷小鱼（图片款都可定做）18-20CM鱼系列",
+   "length": 10,
+   "width": 10,
+   "weight": 200,
+   "skuId": 6306264950536,
+   "height": 10
+  },
+  {
+   "volume": 1000,
+   "sku1": "抽绳系列",
+   "length": 10,
+   "width": 10,
+   "weight": 200,
+   "skuId": 6306264950537,
+   "height": 10
+  },
+  {
+   "volume": 1000,
+   "sku1": "玉菠萝格犀牛",
+   "length": 10,
+   "width": 10,
+   "weight": 200,
+   "skuId": 6306264950538,
+   "height": 10
+  },
+  {
+   "volume": 1000,
+   "sku1": "菠萝格大象",
+   "length": 10,
+   "width": 10,
+   "weight": 200,
+   "skuId": 6306264950539,
+   "height": 10
+  },
+  {
+   "volume": 1000,
+   "sku1": "毛毡布蝙蝠翅膀40*18",
+   "length": 10,
+   "width": 10,
+   "weight": 200,
+   "skuId": 6306264950540,
+   "height": 10
+  },
+  {
+   "volume": 1000,
+   "sku1": "热印冰淇淋",
+   "length": 10,
+   "width": 10,
+   "weight": 200,
+   "skuId": 6306264950541,
+   "height": 10
+  },
+  {
+   "volume": 1000,
+   "sku1": "火烈鸟",
+   "length": 10,
+   "width": 10,
+   "weight": 200,
+   "skuId": 6306264950542,
+   "height": 10
+  },
+  {
+   "volume": 1000,
+   "sku1": "蝴蝶结猫咪",
+   "length": 10,
+   "width": 10,
+   "weight": 200,
+   "skuId": 6306264950543,
+   "height": 10
+  },
+  {
+   "volume": 1000,
+   "sku1": "绳结牛油果",
+   "length": 10,
+   "width": 10,
+   "weight": 200,
+   "skuId": 6306264950544,
+   "height": 10
+  },
+  {
+   "volume": 1000,
+   "sku1": "绳结梅花鹿",
+   "length": 10,
+   "width": 10,
+   "weight": 200,
+   "skuId": 6306264950545,
+   "height": 10
+  },
+  {
+   "volume": 1000,
+   "sku1": "8字史迪仔-库洛米",
+   "length": 10,
+   "width": 10,
+   "weight": 200,
+   "skuId": 6306264950546,
+   "height": 10
+  },
+  {
+   "volume": 1000,
+   "sku1": "绳结魔方",
+   "length": 10,
+   "width": 10,
+   "weight": 200,
+   "skuId": 6306264950547,
+   "height": 10
+  },
+  {
+   "volume": 1000,
+   "sku1": "网布大象",
+   "length": 10,
+   "width": 10,
+   "weight": 200,
+   "skuId": 6306264950548,
+   "height": 10
+  },
+  {
+   "volume": 1000,
+   "sku1": "热印食物",
+   "length": 10,
+   "width": 10,
+   "weight": 200,
+   "skuId": 6306264950549,
+   "height": 10
+  },
+  {
+   "volume": 1000,
+   "sku1": "响纸小飞鼠",
+   "length": 10,
+   "width": 10,
+   "weight": 200,
+   "skuId": 6306264950550,
+   "height": 10
+  },
+  {
+   "volume": 1000,
+   "sku1": "热印面包",
+   "length": 10,
+   "width": 10,
+   "weight": 200,
+   "skuId": 6306264950551,
+   "height": 10
+  },
+  {
+   "volume": 1000,
+   "sku1": "奶牛系列",
+   "length": 10,
+   "width": 10,
+   "weight": 200,
+   "skuId": 6306264950552,
+   "height": 10
+  },
+  {
+   "volume": 1000,
+   "sku1": "绳结飞鼠",
+   "length": 10,
+   "width": 10,
+   "weight": 200,
+   "skuId": 6306264950553,
+   "height": 10
+  }
+ ],
+ "url": "https://detail.1688.com/offer/1087527117569.html",
+ "核页时间": "2026-10-08T12:21:06.131Z"
+}

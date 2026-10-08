@@ -1,0 +1,190 @@
+{
+ "offerId": "859294434664",
+ "条目": "T0186",
+ "block": false,
+ "卖家公司": "东莞市文锋硅胶制品有限公司",
+ "旺旺名": "文锋硅胶",
+ "标题": "宠物剃毛器套装多功能充电款猫狗电推剪可换刀头宠物剪毛工具用品",
+ "状态": "PUBLISHED",
+ "类目": "宠物电推剪",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "颜色",
+   "值": [
+    "DT70",
+    "DT65",
+    "DT66",
+    "DT67",
+    "DT20",
+    "DT50"
+   ]
+  },
+  {
+   "属性": "规格",
+   "值": [
+    "套装"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "DT65&gt;套装",
+   "价格": "49.00",
+   "库存": 10000
+  },
+  {
+   "规格": "DT20&gt;套装",
+   "价格": "19.00",
+   "库存": 10000
+  },
+  {
+   "规格": "DT50&gt;套装",
+   "价格": "20.00",
+   "库存": 10000
+  },
+  {
+   "规格": "DT67&gt;套装",
+   "价格": "45.00",
+   "库存": 10000
+  },
+  {
+   "规格": "DT70&gt;套装",
+   "价格": "50.00",
+   "库存": 9990
+  },
+  {
+   "规格": "DT66&gt;套装",
+   "价格": "45.00",
+   "库存": 10000
+  }
+ ],
+ "规格图": [
+  [
+   "DT70",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01uDnEa71TeSLVcpTVC_!!3194272407-0-cib.jpg"
+  ],
+  [
+   "DT65",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01nJFhwX1TeSLVcqPjl_!!3194272407-0-cib.jpg"
+  ],
+  [
+   "DT66",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01clcJed1TeSLXNQPAF_!!3194272407-0-cib.jpg"
+  ],
+  [
+   "DT67",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01tbBMbd1TeSLVcsxoS_!!3194272407-0-cib.jpg"
+  ],
+  [
+   "DT20",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01BNlnaE1TeSLYPWQsX_!!3194272407-0-cib.jpg"
+  ],
+  [
+   "DT50",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01hu6vCC1TeSLZ4kmcM_!!3194272407-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "skuPrice",
+ "价格区间": "19.00-50.00",
+ "阶梯价_登录后": [
+  {
+   "price": "19.00",
+   "beginAmount": 100
+  },
+  {
+   "price": "50.00",
+   "beginAmount": 100
+  }
+ ],
+ "到手价": {
+  "价": "18.98",
+  "说明": "新人价",
+  "件数": 100
+ },
+ "起订量": 100,
+ "单位": "个",
+ "可售总量": 59990,
+ "已售": 0,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01OYsU7z1TeSLXRyhX4_!!3194272407-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01FbsYJC1TeSLUuMvtR_!!3194272407-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01HkCowH1TeSLYOeerK_!!3194272407-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01wty9Ij1TeSLYOfC7i_!!3194272407-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01nPKTo71TeSLQZP9Xv_!!3194272407-0-cib.jpg"
+ ],
+ "商品属性": [
+  "品牌:文锋",
+  "材质:硅胶",
+  "是否专利货源:否",
+  "是否进口:否",
+  "货号:T65",
+  "颜色:DT70/DT65/DT66/DT67/DT20/DT50",
+  "是否跨境出口专供货源:是",
+  "规格:套装"
+ ],
+ "包装信息": [
+  {
+   "sku2": "套装",
+   "volume": 0,
+   "sku1": "DT70",
+   "length": 0,
+   "width": 0,
+   "weight": 85,
+   "skuId": 5840286486554,
+   "height": 0
+  },
+  {
+   "sku2": "套装",
+   "volume": 0,
+   "sku1": "DT65",
+   "length": 0,
+   "width": 0,
+   "weight": 85,
+   "skuId": 5840286486555,
+   "height": 0
+  },
+  {
+   "sku2": "套装",
+   "volume": 0,
+   "sku1": "DT66",
+   "length": 0,
+   "width": 0,
+   "weight": 85,
+   "skuId": 5840286486556,
+   "height": 0
+  },
+  {
+   "sku2": "套装",
+   "volume": 0,
+   "sku1": "DT67",
+   "length": 0,
+   "width": 0,
+   "weight": 85,
+   "skuId": 5840286486557,
+   "height": 0
+  },
+  {
+   "sku2": "套装",
+   "volume": 0,
+   "sku1": "DT20",
+   "length": 0,
+   "width": 0,
+   "weight": 85,
+   "skuId": 5840286486558,
+   "height": 0
+  },
+  {
+   "sku2": "套装",
+   "volume": 0,
+   "sku1": "DT50",
+   "length": 0,
+   "width": 0,
+   "weight": 85,
+   "skuId": 5840286486559,
+   "height": 0
+  }
+ ],
+ "url": "https://detail.1688.com/offer/859294434664.html",
+ "核页时间": "2026-10-08T13:25:38.987Z"
+}

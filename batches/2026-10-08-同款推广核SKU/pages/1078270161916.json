@@ -1,0 +1,84 @@
+{
+ "offerId": "1078270161916",
+ "条目": "T0074",
+ "block": false,
+ "卖家公司": "曹县森辉工艺品有限公司",
+ "旺旺名": "森辉工艺品",
+ "标题": "木质猫抓板轨道转盘逗猫玩具剑麻垫猫咪磨爪解闷自嗨球",
+ "状态": "PUBLISHED",
+ "类目": "猫抓板",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "颜色",
+   "值": [
+    "原木色"
+   ]
+  },
+  {
+   "属性": "规格",
+   "值": [
+    "可定制"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "原木色&gt;可定制",
+   "价格": null,
+   "库存": 9998
+  }
+ ],
+ "规格图": [
+  [
+   "原木色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01CnGZBgiLT9B21stE_!!2923423995-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "rangePrice",
+ "价格区间": null,
+ "阶梯价_登录后": [
+  {
+   "price": "28.69",
+   "beginAmount": 100
+  }
+ ],
+ "到手价": null,
+ "起订量": 100,
+ "单位": "件",
+ "可售总量": 9998,
+ "已售": 0,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01CnGZBgiLT9B21stE_!!2923423995-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN011BkIqP2r0uK21stE_!!2923423995-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01qGd1jbP2ChF21stB_!!2923423995-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN011vOYpPZbmcB21VTZ_!!2923423995-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01wmFiu6bRQpL21stE_!!2923423995-0-cib.jpg"
+ ],
+ "商品属性": [
+  "材质:木质",
+  "品牌:森辉",
+  "风格:简约",
+  "是否专利货源:否",
+  "是否跨境出口专供货源:否",
+  "货号:10",
+  "颜色:原木色",
+  "箱装数量:按需",
+  "规格:可定制",
+  "适用猫体型:中型猫",
+  "安装方式:-",
+  "主体材质:实木",
+  "是否IP授权:否"
+ ],
+ "包装信息": [
+  {
+   "volume": 0,
+   "length": 0,
+   "width": 0,
+   "weight": 32,
+   "height": 0
+  }
+ ],
+ "url": "https://detail.1688.com/offer/1078270161916.html",
+ "核页时间": "2026-10-08T13:01:15.398Z"
+}

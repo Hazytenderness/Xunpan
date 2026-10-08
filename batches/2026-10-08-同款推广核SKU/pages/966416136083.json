@@ -1,0 +1,90 @@
+{
+ "offerId": "966416136083",
+ "条目": "T0263",
+ "block": false,
+ "卖家公司": "泉州雅物贸易有限公司",
+ "旺旺名": "雅物贸易有限公司",
+ "标题": "马克杯350ml真空不锈钢简约办公室水杯带盖保冷咖啡杯印字LOGO",
+ "状态": "PUBLISHED",
+ "类目": "咖啡杯",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "颜色",
+   "值": [
+    "白色",
+    "黑色"
+   ]
+  },
+  {
+   "属性": "容量",
+   "值": [
+    "350ml"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "黑色&gt;350ml",
+   "价格": "205.00",
+   "库存": 9999
+  },
+  {
+   "规格": "白色&gt;350ml",
+   "价格": "205.00",
+   "库存": 9999
+  }
+ ],
+ "规格图": [],
+ "价格展示": "skuPrice",
+ "价格区间": null,
+ "阶梯价_登录后": [
+  {
+   "price": "205.00",
+   "beginAmount": 10
+  }
+ ],
+ "到手价": null,
+ "起订量": 10,
+ "单位": "个",
+ "可售总量": 19998,
+ "已售": 0,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01qmunnm26a7gEWXPkR_!!2207474017677-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01QuBCDk26a7gE9vaVK_!!2207474017677-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01vlXRhQ26a7gDtSivp_!!2207474017677-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN019Kw4VA26a7gCY4kQ0_!!2207474017677-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01Af01Pb26a7gEWWsTv_!!2207474017677-0-cib.jpg"
+ ],
+ "商品属性": [
+  "是否进口:否",
+  "颜色:白色/黑色",
+  "是否有专利:无",
+  "容量:350ml",
+  "风格类型:简约格调"
+ ],
+ "包装信息": [
+  {
+   "sku2": "350ml",
+   "volume": 0,
+   "sku1": "白色",
+   "length": 0,
+   "width": 0,
+   "weight": 200,
+   "skuId": 5907327496017,
+   "height": 0
+  },
+  {
+   "sku2": "350ml",
+   "volume": 0,
+   "sku1": "黑色",
+   "length": 0,
+   "width": 0,
+   "weight": 200,
+   "skuId": 5907327496018,
+   "height": 0
+  }
+ ],
+ "url": "https://detail.1688.com/offer/966416136083.html",
+ "核页时间": "2026-10-08T13:45:48.451Z"
+}

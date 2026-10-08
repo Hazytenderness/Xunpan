@@ -1,0 +1,131 @@
+{
+ "offerId": "1054327662537",
+ "条目": "T0045",
+ "block": false,
+ "卖家公司": "义乌市朝拾服饰有限公司",
+ "旺旺名": "朝拾小线童",
+ "标题": "跨境新品搞怪手工趣味钩织蜥蜴青蛙企鹅杯垫毛线钩织卡通解压杯垫",
+ "状态": "PUBLISHED",
+ "类目": "餐垫、杯垫",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "颜色",
+   "值": [
+    "解压青蛙杯垫",
+    "解压蜥蜴杯垫",
+    "解压企鹅杯垫"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "解压青蛙杯垫",
+   "价格": "13.00",
+   "库存": 9989
+  },
+  {
+   "规格": "解压蜥蜴杯垫",
+   "价格": "13.00",
+   "库存": 9989
+  },
+  {
+   "规格": "解压企鹅杯垫",
+   "价格": "13.00",
+   "库存": 9995
+  }
+ ],
+ "规格图": [
+  [
+   "解压青蛙杯垫",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01kB4jDl2NMFChjo9bk_!!2220838479948-0-cib.jpg"
+  ],
+  [
+   "解压蜥蜴杯垫",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01aMTs9p2NMFCiGNlrk_!!2220838479948-0-cib.jpg"
+  ],
+  [
+   "解压企鹅杯垫",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01mnIQwp2NMFChjmg72_!!2220838479948-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "rangePrice",
+ "价格区间": "11.00-13.00",
+ "阶梯价_登录后": [
+  {
+   "price": "13.00",
+   "beginAmount": 3
+  },
+  {
+   "price": "12.00",
+   "beginAmount": 20
+  },
+  {
+   "price": "11.00",
+   "beginAmount": 100
+  }
+ ],
+ "到手价": {
+  "价": "11.33",
+  "说明": "新人价",
+  "件数": 3
+ },
+ "起订量": 3,
+ "单位": "个",
+ "可售总量": 29973,
+ "已售": 21,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01Z3TMRu2NMFChjmbx9_!!2220838479948-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01BJdLW22NMFCjFuPHU_!!2220838479948-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01pBPqvS2NMFCjFuL7p_!!2220838479948-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01aMTs9p2NMFCiGNlrk_!!2220838479948-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01BBHsed2NMFCoILFv1_!!2220838479948-0-cib.jpg"
+ ],
+ "商品属性": [
+  "材质:毛线",
+  "品牌:锦成宝",
+  "形状:圆形",
+  "产品质量等级:合格品",
+  "风格:卡通",
+  "是否进口:否",
+  "货号:ZWO-260503",
+  "图案:卡通",
+  "产品上市时间:2026年夏",
+  "产地:义乌",
+  "是否有专利:无",
+  "颜色:解压青蛙杯垫/解压蜥蜴杯垫/解压企鹅杯垫",
+  "是否跨境出口专供货源:否",
+  "是否插电:否"
+ ],
+ "包装信息": [
+  {
+   "volume": 0,
+   "sku1": "解压青蛙杯垫",
+   "length": 0,
+   "width": 0,
+   "weight": 22,
+   "skuId": 6259950398415,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "解压蜥蜴杯垫",
+   "length": 0,
+   "width": 0,
+   "weight": 22,
+   "skuId": 6259950398416,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "解压企鹅杯垫",
+   "length": 0,
+   "width": 0,
+   "weight": 21,
+   "skuId": 6259950398417,
+   "height": 0
+  }
+ ],
+ "url": "https://detail.1688.com/offer/1054327662537.html",
+ "核页时间": "2026-10-08T12:52:27.698Z"
+}

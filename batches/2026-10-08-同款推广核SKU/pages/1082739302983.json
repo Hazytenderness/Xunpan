@@ -1,0 +1,83 @@
+{
+ "offerId": "1082739302983",
+ "条目": "H0082",
+ "block": false,
+ "卖家公司": "永康市原创工贸有限公司",
+ "旺旺名": "原创工贸",
+ "标题": "跨境 亚马逊 狗狗洗澡架 猫洗澡架 狗床 猫窝折叠洗澡架",
+ "状态": "PUBLISHED",
+ "类目": "狗狗窝/笼/垫",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "颜色",
+   "值": [
+    "天蓝色",
+    "黑色",
+    "浅灰色",
+    "灰色"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "天蓝色",
+   "价格": null,
+   "库存": 10000
+  },
+  {
+   "规格": "黑色",
+   "价格": null,
+   "库存": 0
+  },
+  {
+   "规格": "灰色",
+   "价格": null,
+   "库存": 0
+  },
+  {
+   "规格": "浅灰色",
+   "价格": null,
+   "库存": 0
+  }
+ ],
+ "规格图": [],
+ "价格展示": "rangePrice",
+ "价格区间": null,
+ "阶梯价_登录后": [
+  {
+   "price": "25.00",
+   "beginAmount": 50
+  },
+  {
+   "price": "21.50",
+   "beginAmount": 500
+  }
+ ],
+ "到手价": null,
+ "起订量": 50,
+ "单位": "套",
+ "可售总量": null,
+ "已售": 0,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01JWLuln9AkBG0y2vq_!!941631146-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01gFjBsPOAxNH1chua_!!941631146-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01SNrdalnetEF2BxHU_!!941631146-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01z5AgdsWTKaF1pIOu_!!941631146-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01sCJSUk5gsrH0y2vq_!!941631146-0-cib.jpg"
+ ],
+ "商品属性": [
+  "材质:布",
+  "产品类别:吊床",
+  "产地:浙江",
+  "是否进口:否",
+  "是否专利货源:否",
+  "颜色:天蓝色/黑色/浅灰色/灰色",
+  "有可授权的自有品牌:是",
+  "是否跨境出口专供货源:是",
+  "是否IP授权:否"
+ ],
+ "包装信息": null,
+ "url": "https://detail.1688.com/offer/1082739302983.html",
+ "核页时间": "2026-10-08T12:07:35.411Z"
+}

@@ -1,0 +1,72 @@
+{
+ "offerId": "1057129183325",
+ "条目": "H0125",
+ "block": false,
+ "卖家公司": "曹县达开工艺品有限公司",
+ "旺旺名": "达开工艺品",
+ "标题": "木质墙面猫咪台阶架跳台组合猫咪楼梯攀爬架简约款室内宠物玩具架",
+ "状态": "PUBLISHED",
+ "类目": "猫爬架",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "规格",
+   "值": [
+    "咨询"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "咨询",
+   "价格": null,
+   "库存": 5000
+  }
+ ],
+ "规格图": [],
+ "价格展示": "rangePrice",
+ "价格区间": null,
+ "阶梯价_登录后": [
+  {
+   "price": "20.00",
+   "beginAmount": 200
+  }
+ ],
+ "到手价": null,
+ "起订量": 200,
+ "单位": "个",
+ "可售总量": 5000,
+ "已售": 0,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01ZkarK11EBP7CecQok_!!2210907860313-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01VV9GLF1EBP7D05el1_!!2210907860313-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01hwuhsZ1EBP7Cebtbf_!!2210907860313-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01nJKZb81LxgAl19QTJ_!!6000000001366-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01MynshK1UMstZkDO1w_!!6000000002504-0-cib.jpg"
+ ],
+ "商品属性": [
+  "材质:实木",
+  "品牌:达开",
+  "风格:简约",
+  "是否专利货源:否",
+  "是否进口:否",
+  "货号:dk613",
+  "规格:咨询",
+  "是否跨境出口专供货源:否",
+  "适用猫体型:中型猫",
+  "属性:木质墙面猫咪台阶架"
+ ],
+ "包装信息": [
+  {
+   "volume": 0,
+   "sku1": "咨询",
+   "length": 0,
+   "width": 0,
+   "weight": 500,
+   "skuId": 6266324414175,
+   "height": 0
+  }
+ ],
+ "url": "https://detail.1688.com/offer/1057129183325.html",
+ "核页时间": "2026-10-08T12:19:55.729Z"
+}

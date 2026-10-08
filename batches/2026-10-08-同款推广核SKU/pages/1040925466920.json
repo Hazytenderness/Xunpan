@@ -1,0 +1,98 @@
+{
+ "offerId": "1040925466920",
+ "条目": "T0190",
+ "block": false,
+ "卖家公司": "曹县展图工艺品厂（个体工商户）",
+ "旺旺名": "曹县展图工艺品厂",
+ "标题": "木制仓鼠藏身处和隧道套装带爬梯的木屋探索管和观察棚仓鼠笼装饰",
+ "状态": "PUBLISHED",
+ "类目": "仓鼠生活用品",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "规格",
+   "值": [
+    "仓鼠藏身处",
+    "藏身处+隧道"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "藏身处+隧道",
+   "价格": "42.00",
+   "库存": 134043
+  },
+  {
+   "规格": "仓鼠藏身处",
+   "价格": "22.00",
+   "库存": 134193
+  }
+ ],
+ "规格图": [
+  [
+   "仓鼠藏身处",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01JIADbb1QT3l7TXEeA_!!2219468941976-0-cib.jpg"
+  ],
+  [
+   "藏身处+隧道",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01yziCjb1QT3l7w0zAW_!!2219468941976-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "skuPrice",
+ "价格区间": null,
+ "阶梯价_登录后": [
+  {
+   "price": "22.00",
+   "beginAmount": 200
+  },
+  {
+   "price": "42.00",
+   "beginAmount": 200
+  }
+ ],
+ "到手价": null,
+ "起订量": 200,
+ "单位": "件",
+ "可售总量": 268236,
+ "已售": 301,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01MwkUE11QT3l7viKDk_!!2219468941976-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN018xK7R41QT3l85tDJN_!!2219468941976-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN012MyiAT1QT3l7mcu0p_!!2219468941976-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01ZsFRai1QT3l7jUi0l_!!2219468941976-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01BJSvaT1QT3l7B2AoL_!!2219468941976-0-cib.jpg"
+ ],
+ "商品属性": [
+  "材质:木",
+  "品牌:展图",
+  "产地:山东",
+  "是否进口:否",
+  "货号:仓鼠隧道",
+  "是否专利货源:否",
+  "规格:仓鼠藏身处/藏身处+隧道",
+  "是否跨境出口专供货源:否"
+ ],
+ "包装信息": [
+  {
+   "volume": 0,
+   "sku1": "仓鼠藏身处",
+   "length": 0,
+   "width": 0,
+   "weight": 400,
+   "skuId": 6062413313011,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "藏身处+隧道",
+   "length": 0,
+   "width": 0,
+   "weight": 800,
+   "skuId": 6062413313012,
+   "height": 0
+  }
+ ],
+ "url": "https://detail.1688.com/offer/1040925466920.html",
+ "核页时间": "2026-10-08T13:26:47.102Z"
+}

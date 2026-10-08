@@ -1,0 +1,79 @@
+{
+ "offerId": "978687787179",
+ "条目": "T0151",
+ "block": false,
+ "卖家公司": "深圳裕欣电子有限公司",
+ "旺旺名": "深圳裕欣电子有限公司",
+ "标题": "跨境新品工厂批发直销狗狗指甲剪高速电动双灯液晶猫狗宠物磨甲器",
+ "状态": "PUBLISHED",
+ "类目": "狗狗清洁美容工具",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "规格",
+   "值": [
+    "橙色"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "橙色",
+   "价格": null,
+   "库存": 5000
+  }
+ ],
+ "规格图": [
+  [
+   "橙色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01TMB4Qq2AibUC3wkeL_!!2216945728237-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "rangePrice",
+ "价格区间": null,
+ "阶梯价_登录后": [
+  {
+   "price": "135.00",
+   "beginAmount": 1000
+  }
+ ],
+ "到手价": null,
+ "起订量": 1000,
+ "单位": "件",
+ "可售总量": 5000,
+ "已售": 0,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01TMB4Qq2AibUC3wkeL_!!2216945728237-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01BlNlC42AibU6LG6rL_!!2216945728237-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN010OGs5Q2AibUB6rbOw_!!2216945728237-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01yMo2NE2AibUBuaADI_!!2216945728237-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01sNM7cx2AibUBcAD4d_!!2216945728237-0-cib.jpg"
+ ],
+ "商品属性": [
+  "材质:塑料",
+  "品牌:其他",
+  "产品分类:指甲钳",
+  "是否进口:否",
+  "箱装数量:100",
+  "是否专利货源:否",
+  "规格:橙色",
+  "主要下游平台:ebay/亚马逊/wish/速卖通/LAZADA",
+  "主要销售地区:非洲/欧洲/南美/东南亚/北美/东北亚/中东",
+  "有可授权的自有品牌:否",
+  "是否跨境出口专供货源:是",
+  "是否属于礼品:否"
+ ],
+ "包装信息": [
+  {
+   "volume": 0,
+   "sku1": "橙色",
+   "length": 0,
+   "width": 0,
+   "weight": 1000,
+   "skuId": 5936990949523,
+   "height": 0
+  }
+ ],
+ "url": "https://detail.1688.com/offer/978687787179.html",
+ "核页时间": "2026-10-08T13:18:10.917Z"
+}

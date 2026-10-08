@@ -1,0 +1,122 @@
+{
+ "offerId": "1057335148811",
+ "条目": "T0044",
+ "block": false,
+ "卖家公司": "义乌市妙祺服饰厂",
+ "旺旺名": "sohomalls888",
+ "标题": "跨境手工动物杯垫毛线编织趣味钩编蜥蜴钩织摆烂企鹅丑萌青蛙隔热",
+ "状态": "PUBLISHED",
+ "类目": "餐垫、餐巾",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "颜色",
+   "值": [
+    "青蛙杯垫",
+    "绿色蜥蜴杯垫",
+    "企鹅杯垫"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "绿色蜥蜴杯垫",
+   "价格": "11.00",
+   "库存": 9845
+  },
+  {
+   "规格": "青蛙杯垫",
+   "价格": "11.00",
+   "库存": 9997
+  },
+  {
+   "规格": "企鹅杯垫",
+   "价格": "11.00",
+   "库存": 9976
+  }
+ ],
+ "规格图": [
+  [
+   "青蛙杯垫",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01QgRYYd2LUpOkdvxi6_!!2549909696-0-cib.jpg"
+  ],
+  [
+   "绿色蜥蜴杯垫",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01Y4Nwdv2LUpOkdvtX6_!!2549909696-0-cib.jpg"
+  ],
+  [
+   "企鹅杯垫",
+   "https://cbu01.alicdn.com/img/ibank/O1CN017JDfTp2LUpOkNgOqa_!!2549909696-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "skuPrice",
+ "价格区间": "11.00",
+ "阶梯价_登录后": [
+  {
+   "price": "11.00",
+   "beginAmount": 3
+  }
+ ],
+ "到手价": {
+  "价": "10",
+  "说明": "新人价",
+  "件数": 3
+ },
+ "起订量": 3,
+ "单位": "件",
+ "可售总量": 29818,
+ "已售": 179,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01f0mSnx2LUpOkXLHTn_!!2549909696-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01zHv0l72LUpOl6p6cR_!!2549909696-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01Y4Nwdv2LUpOkdvtX6_!!2549909696-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN017JDfTp2LUpOkNgOqa_!!2549909696-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01pmqEAV2LUpOl6qeED_!!2549909696-0-cib.jpg"
+ ],
+ "商品属性": [
+  "材质:毛绒",
+  "品牌:其他",
+  "风格:可爱风",
+  "形状:圆形",
+  "是否支持订制:否",
+  "面料主成分:聚丙烯腈纤维（腈纶）",
+  "面料主成分含量:60%",
+  "面料次成分:聚丙烯腈纤维（腈纶）",
+  "面料次成分含量:60%",
+  "货号:MQWO260503",
+  "颜色:青蛙杯垫/绿色蜥蜴杯垫/企鹅杯垫",
+  "空间:其他",
+  "是否有版权或专利:否"
+ ],
+ "包装信息": [
+  {
+   "volume": 0,
+   "sku1": "青蛙杯垫",
+   "length": 0,
+   "width": 0,
+   "weight": 25,
+   "skuId": 6097529965246,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "绿色蜥蜴杯垫",
+   "length": 0,
+   "width": 0,
+   "weight": 25,
+   "skuId": 6097529965248,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "企鹅杯垫",
+   "length": 0,
+   "width": 0,
+   "weight": 25,
+   "skuId": 6097529965247,
+   "height": 0
+  }
+ ],
+ "url": "https://detail.1688.com/offer/1057335148811.html",
+ "核页时间": "2026-10-08T12:52:04.399Z"
+}

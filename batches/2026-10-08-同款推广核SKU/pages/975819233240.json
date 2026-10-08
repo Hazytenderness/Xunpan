@@ -1,0 +1,240 @@
+{
+ "offerId": "975819233240",
+ "条目": "T0312",
+ "block": false,
+ "卖家公司": "万载县贵根电子商务工作室",
+ "旺旺名": "贵根家居",
+ "标题": "保温杯袋水杯保护套玻璃保温杯防摔烫隔热三厚加厚手提袋斜挎杯套",
+ "状态": "PUBLISHED",
+ "类目": "杯套/壶套/保温套",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "颜色",
+   "值": [
+    "灰黑8*26cm",
+    "灰黑9*30cm",
+    "灰黑10*35cm",
+    "灰黑12*35cm",
+    "粉红8*26cm",
+    "粉红9*30cm",
+    "粉红10*35cm",
+    "粉红12*35cm",
+    "否橘8*26cm"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "灰黑9*30cm",
+   "价格": "7.00",
+   "库存": 9989
+  },
+  {
+   "规格": "粉红9*30cm",
+   "价格": "7.00",
+   "库存": 9993
+  },
+  {
+   "规格": "灰黑8*26cm",
+   "价格": "5.90",
+   "库存": 9997
+  },
+  {
+   "规格": "粉红8*26cm",
+   "价格": "5.90",
+   "库存": 9994
+  },
+  {
+   "规格": "粉红10*35cm",
+   "价格": "7.70",
+   "库存": 9994
+  },
+  {
+   "规格": "灰黑12*35cm",
+   "价格": "8.50",
+   "库存": 9992
+  },
+  {
+   "规格": "否橘8*26cm",
+   "价格": "5.90",
+   "库存": 94
+  },
+  {
+   "规格": "灰黑10*35cm",
+   "价格": "7.70",
+   "库存": 9992
+  },
+  {
+   "规格": "粉红12*35cm",
+   "价格": "8.50",
+   "库存": 9995
+  }
+ ],
+ "规格图": [
+  [
+   "灰黑8*26cm",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01Q2wsb7AuaVC1chua_!!2220570109085-0-cib.jpg"
+  ],
+  [
+   "灰黑9*30cm",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01SR33Sw7jAdJ1chua_!!2220570109085-0-cib.jpg"
+  ],
+  [
+   "灰黑10*35cm",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01E0JKB6hAYtE1chua_!!2220570109085-0-cib.jpg"
+  ],
+  [
+   "灰黑12*35cm",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01gIprnGvv8gH1chua_!!2220570109085-0-cib.jpg"
+  ],
+  [
+   "粉红8*26cm",
+   "https://cbu01.alicdn.com/img/ibank/O1CN0124IE1y2GyzLaclL3T_!!2220570109085-0-cib.jpg"
+  ],
+  [
+   "粉红9*30cm",
+   "https://cbu01.alicdn.com/img/ibank/O1CN016Yytp42GyzLa3dtKL_!!2220570109085-0-cib.jpg"
+  ],
+  [
+   "粉红10*35cm",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01kHvtvB2GyzLa3dtKR_!!2220570109085-0-cib.jpg"
+  ],
+  [
+   "粉红12*35cm",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01VI2v5U2GyzLYnrGiT_!!2220570109085-0-cib.jpg"
+  ],
+  [
+   "否橘8*26cm",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01KXVm7H2GyzOU53m3f_!!2220570109085-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "skuPrice",
+ "价格区间": "5.90-8.50",
+ "阶梯价_登录后": [
+  {
+   "price": "5.90",
+   "beginAmount": 1
+  },
+  {
+   "price": "8.50",
+   "beginAmount": 1
+  }
+ ],
+ "到手价": null,
+ "起订量": 1,
+ "单位": "件",
+ "可售总量": 80040,
+ "已售": 32,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN0122iiQ5o84vH1chua_!!2220570109085-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01mkOqBYGKhDE1chua_!!2220570109085-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01pimbAvJUOaI1chua_!!2220570109085-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN016Kw2pqI9UHD1chua_!!2220570109085-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01yG6HdKlXY3L1chua_!!2220570109085-0-cib.jpg"
+ ],
+ "商品属性": [
+  "材质:布",
+  "品牌:不老虎",
+  "产品质量等级:合格品",
+  "风格:现代简约",
+  "颜色:灰黑8*26cm/灰黑9*30cm/灰黑10*35cm/灰黑12*35cm/粉红8*26cm/粉红9*30cm/粉红10*35cm/粉红12*35cm/否橘8*26cm",
+  "货号:保温杯袋",
+  "是否进口:否",
+  "加印LOGO:可以",
+  "加工定制:是",
+  "价格段:10-20元",
+  "是否有专利:否",
+  "包装规格:10*15",
+  "主要下游平台:亚马逊/速卖通/其他",
+  "主要销售地区:其他",
+  "有可授权的自有品牌:是",
+  "是否跨境出口专供货源:是",
+  "全国工业生产许可证编号 :无"
+ ],
+ "包装信息": [
+  {
+   "volume": 0,
+   "sku1": "灰黑8*26cm",
+   "length": 0,
+   "width": 0,
+   "weight": 120,
+   "skuId": 6094364934866,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "灰黑9*30cm",
+   "length": 0,
+   "width": 0,
+   "weight": 140,
+   "skuId": 6094364934867,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "灰黑10*35cm",
+   "length": 0,
+   "width": 0,
+   "weight": 160,
+   "skuId": 6094364934868,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "灰黑12*35cm",
+   "length": 0,
+   "width": 0,
+   "weight": 180,
+   "skuId": 6094364934869,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "粉红8*26cm",
+   "length": 0,
+   "width": 0,
+   "weight": 120,
+   "skuId": 6094364934870,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "粉红9*30cm",
+   "length": 0,
+   "width": 0,
+   "weight": 140,
+   "skuId": 6094364934871,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "粉红10*35cm",
+   "length": 0,
+   "width": 0,
+   "weight": 160,
+   "skuId": 6094364934872,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "粉红12*35cm",
+   "length": 0,
+   "width": 0,
+   "weight": 180,
+   "skuId": 6094364934873,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "否橘8*26cm",
+   "length": 0,
+   "width": 0,
+   "weight": 160,
+   "skuId": 6072222429993,
+   "height": 0
+  }
+ ],
+ "url": "https://detail.1688.com/offer/975819233240.html",
+ "核页时间": "2026-10-08T13:59:34.210Z"
+}

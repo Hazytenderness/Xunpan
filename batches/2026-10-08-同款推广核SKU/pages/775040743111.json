@@ -1,0 +1,678 @@
+{
+ "offerId": "775040743111",
+ "条目": "T0142",
+ "block": false,
+ "卖家公司": "义乌市旺流电子商务商行",
+ "旺旺名": "旺流电子商务",
+ "标题": "亚马逊跨境新品宠物生理裤 公狗礼貌带宠物吸水尿垫狗尿布公狗生",
+ "状态": "PUBLISHED",
+ "类目": "狗狗服装",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "颜色",
+   "值": [
+    "MGNK01",
+    "MGNK04",
+    "MGNK07",
+    "MGNK12",
+    "MGNK13",
+    "MGNK14",
+    "MGNK15",
+    "MGNK16",
+    "紫兰色MGNK17",
+    "MGNK18",
+    "MGNK19",
+    "MGNK20"
+   ]
+  },
+  {
+   "属性": "尺码",
+   "值": [
+    "S",
+    "M",
+    "L"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "MGNK01&gt;L",
+   "价格": "12.00",
+   "库存": 10000
+  },
+  {
+   "规格": "MGNK01&gt;M",
+   "价格": "10.00",
+   "库存": 9999
+  },
+  {
+   "规格": "MGNK20&gt;M",
+   "价格": "10.00",
+   "库存": 9859
+  },
+  {
+   "规格": "MGNK20&gt;L",
+   "价格": "12.00",
+   "库存": 9996
+  },
+  {
+   "规格": "MGNK07&gt;L",
+   "价格": "12.00",
+   "库存": 9997
+  },
+  {
+   "规格": "MGNK01&gt;S",
+   "价格": "8.00",
+   "库存": 9998
+  },
+  {
+   "规格": "MGNK07&gt;M",
+   "价格": "10.00",
+   "库存": 9998
+  },
+  {
+   "规格": "MGNK04&gt;M",
+   "价格": "10.00",
+   "库存": 9999
+  },
+  {
+   "规格": "MGNK20&gt;S",
+   "价格": "8.00",
+   "库存": 9947
+  },
+  {
+   "规格": "MGNK04&gt;L",
+   "价格": "12.00",
+   "库存": 10000
+  },
+  {
+   "规格": "MGNK07&gt;S",
+   "价格": "8.00",
+   "库存": 9997
+  },
+  {
+   "规格": "MGNK04&gt;S",
+   "价格": "8.00",
+   "库存": 9998
+  },
+  {
+   "规格": "MGNK12&gt;L",
+   "价格": "12.00",
+   "库存": 9985
+  },
+  {
+   "规格": "MGNK12&gt;M",
+   "价格": "10.00",
+   "库存": 9967
+  },
+  {
+   "规格": "MGNK13&gt;L",
+   "价格": "12.00",
+   "库存": 9988
+  },
+  {
+   "规格": "紫兰色MGNK17&gt;S",
+   "价格": "8.00",
+   "库存": 9724
+  },
+  {
+   "规格": "紫兰色MGNK17&gt;M",
+   "价格": "10.00",
+   "库存": 9907
+  },
+  {
+   "规格": "紫兰色MGNK17&gt;L",
+   "价格": "12.00",
+   "库存": 9974
+  },
+  {
+   "规格": "MGNK13&gt;S",
+   "价格": "8.00",
+   "库存": 9962
+  },
+  {
+   "规格": "MGNK19&gt;M",
+   "价格": "10.00",
+   "库存": 9936
+  },
+  {
+   "规格": "MGNK14&gt;S",
+   "价格": "8.00",
+   "库存": 9962
+  },
+  {
+   "规格": "MGNK18&gt;L",
+   "价格": "12.00",
+   "库存": 9996
+  },
+  {
+   "规格": "MGNK12&gt;S",
+   "价格": "8.00",
+   "库存": 9962
+  },
+  {
+   "规格": "MGNK18&gt;M",
+   "价格": "10.00",
+   "库存": 9856
+  },
+  {
+   "规格": "MGNK19&gt;L",
+   "价格": "12.00",
+   "库存": 9996
+  },
+  {
+   "规格": "MGNK15&gt;M",
+   "价格": "10.00",
+   "库存": 9871
+  },
+  {
+   "规格": "MGNK16&gt;L",
+   "价格": "12.00",
+   "库存": 9973
+  },
+  {
+   "规格": "MGNK16&gt;M",
+   "价格": "10.00",
+   "库存": 9825
+  },
+  {
+   "规格": "MGNK13&gt;M",
+   "价格": "10.00",
+   "库存": 9967
+  },
+  {
+   "规格": "MGNK14&gt;L",
+   "价格": "12.00",
+   "库存": 9988
+  },
+  {
+   "规格": "MGNK14&gt;M",
+   "价格": "10.00",
+   "库存": 9967
+  },
+  {
+   "规格": "MGNK15&gt;L",
+   "价格": "12.00",
+   "库存": 9940
+  },
+  {
+   "规格": "MGNK19&gt;S",
+   "价格": "8.00",
+   "库存": 9866
+  },
+  {
+   "规格": "MGNK18&gt;S",
+   "价格": "8.00",
+   "库存": 9947
+  },
+  {
+   "规格": "MGNK15&gt;S",
+   "价格": "8.00",
+   "库存": 9693
+  },
+  {
+   "规格": "MGNK16&gt;S",
+   "价格": "8.00",
+   "库存": 9808
+  }
+ ],
+ "规格图": [
+  [
+   "MGNK01",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01SYtY6O20cyIzi3aVf_!!2217597826871-0-cib.jpg"
+  ],
+  [
+   "MGNK04",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01aeYIn020cyIyC0tC2_!!2217597826871-0-cib.jpg"
+  ],
+  [
+   "MGNK07",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01HpBDDT20cyIwUu0MB_!!2217597826871-0-cib.jpg"
+  ],
+  [
+   "MGNK12",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01d4S85y20cyJ04t3QH_!!2217597826871-0-cib.jpg"
+  ],
+  [
+   "MGNK13",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01JW811A20cyJ0pSZc0_!!2217597826871-0-cib.jpg"
+  ],
+  [
+   "MGNK14",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01Gl6Hdz20cyIuKtRRz_!!2217597826871-0-cib.jpg"
+  ],
+  [
+   "MGNK15",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01qRGHGn20cyIwc8Blq_!!2217597826871-0-cib.jpg"
+  ],
+  [
+   "MGNK16",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01drGQim20cyJ1Tqp8V_!!2217597826871-0-cib.jpg"
+  ],
+  [
+   "紫兰色MGNK17",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01ymjiLS20cyIxIuDD6_!!2217597826871-0-cib.jpg"
+  ],
+  [
+   "MGNK18",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01j4IlIU20cyJ057UAO_!!2217597826871-0-cib.jpg"
+  ],
+  [
+   "MGNK19",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01V2bQdq20cyIukHkOS_!!2217597826871-0-cib.jpg"
+  ],
+  [
+   "MGNK20",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01QT7s3G20cyIypiJK1_!!2217597826871-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "skuPrice",
+ "价格区间": null,
+ "阶梯价_登录后": [
+  {
+   "price": "8.00",
+   "beginAmount": 3
+  },
+  {
+   "price": "12.00",
+   "beginAmount": 3
+  }
+ ],
+ "到手价": null,
+ "起订量": 3,
+ "单位": "件",
+ "可售总量": 357848,
+ "已售": 1521,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01ymESeG20cyItNJRG3_!!2217597826871-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01FrUp6U20cyIoqy0au_!!2217597826871-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01ym2kUf20cyJ1UgFWF_!!2217597826871-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01oJEonn20cyIwUxEL6_!!2217597826871-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01ttar5520cyJ05scN6_!!2217597826871-0-cib.jpg"
+ ],
+ "商品属性": [
+  "材质:涤纶",
+  "品牌:旺流",
+  "产品类别:背带裤",
+  "风格:休闲风",
+  "适用性别:公",
+  "产地:金华",
+  "是否进口:否",
+  "货号:MGNK",
+  "是否专利货源:否",
+  "颜色:MGNK01/MGNK04/MGNK07/MGNK12/MGNK13/MGNK14/MGNK15/MGNK16/紫兰色MGNK17/MGNK18/MGNK19/MGNK20",
+  "尺码:S/M/L",
+  "主要下游平台:ebay/亚马逊/wish/速卖通/独立站/LAZADA",
+  "主要销售地区:非洲/欧洲/南美/东南亚/北美/东北亚/中东",
+  "有可授权的自有品牌:否",
+  "是否跨境出口专供货源:是",
+  "是否属于礼品:否",
+  "是否IP授权:是",
+  "IP授权类型:其他"
+ ],
+ "包装信息": [
+  {
+   "sku2": "S",
+   "volume": 0,
+   "sku1": "MGNK01",
+   "length": 0,
+   "width": 0,
+   "weight": 55,
+   "skuId": 5470253978442,
+   "height": 0
+  },
+  {
+   "sku2": "M",
+   "volume": 0,
+   "sku1": "MGNK01",
+   "length": 0,
+   "width": 0,
+   "weight": 55,
+   "skuId": 5470253978443,
+   "height": 0
+  },
+  {
+   "sku2": "L",
+   "volume": 0,
+   "sku1": "MGNK01",
+   "length": 0,
+   "width": 0,
+   "weight": 55,
+   "skuId": 5470253978444,
+   "height": 0
+  },
+  {
+   "sku2": "S",
+   "volume": 0,
+   "sku1": "MGNK04",
+   "length": 0,
+   "width": 0,
+   "weight": 55,
+   "skuId": 5470253978445,
+   "height": 0
+  },
+  {
+   "sku2": "M",
+   "volume": 0,
+   "sku1": "MGNK04",
+   "length": 0,
+   "width": 0,
+   "weight": 55,
+   "skuId": 5470253978446,
+   "height": 0
+  },
+  {
+   "sku2": "L",
+   "volume": 0,
+   "sku1": "MGNK04",
+   "length": 0,
+   "width": 0,
+   "weight": 55,
+   "skuId": 5470253978447,
+   "height": 0
+  },
+  {
+   "sku2": "S",
+   "volume": 0,
+   "sku1": "MGNK07",
+   "length": 0,
+   "width": 0,
+   "weight": 55,
+   "skuId": 5470253978448,
+   "height": 0
+  },
+  {
+   "sku2": "M",
+   "volume": 0,
+   "sku1": "MGNK07",
+   "length": 0,
+   "width": 0,
+   "weight": 55,
+   "skuId": 5470253978449,
+   "height": 0
+  },
+  {
+   "sku2": "L",
+   "volume": 0,
+   "sku1": "MGNK07",
+   "length": 0,
+   "width": 0,
+   "weight": 55,
+   "skuId": 5470253978450,
+   "height": 0
+  },
+  {
+   "sku2": "S",
+   "volume": 0,
+   "sku1": "MGNK12",
+   "length": 0,
+   "width": 0,
+   "weight": 55,
+   "skuId": 5470253978451,
+   "height": 0
+  },
+  {
+   "sku2": "M",
+   "volume": 0,
+   "sku1": "MGNK12",
+   "length": 0,
+   "width": 0,
+   "weight": 55,
+   "skuId": 5470253978452,
+   "height": 0
+  },
+  {
+   "sku2": "L",
+   "volume": 0,
+   "sku1": "MGNK12",
+   "length": 0,
+   "width": 0,
+   "weight": 55,
+   "skuId": 5470253978453,
+   "height": 0
+  },
+  {
+   "sku2": "S",
+   "volume": 0,
+   "sku1": "MGNK13",
+   "length": 0,
+   "width": 0,
+   "weight": 55,
+   "skuId": 5470253978454,
+   "height": 0
+  },
+  {
+   "sku2": "M",
+   "volume": 0,
+   "sku1": "MGNK13",
+   "length": 0,
+   "width": 0,
+   "weight": 55,
+   "skuId": 5470253978455,
+   "height": 0
+  },
+  {
+   "sku2": "L",
+   "volume": 0,
+   "sku1": "MGNK13",
+   "length": 0,
+   "width": 0,
+   "weight": 55,
+   "skuId": 5470253978456,
+   "height": 0
+  },
+  {
+   "sku2": "S",
+   "volume": 0,
+   "sku1": "MGNK14",
+   "length": 0,
+   "width": 0,
+   "weight": 55,
+   "skuId": 5470253978457,
+   "height": 0
+  },
+  {
+   "sku2": "M",
+   "volume": 0,
+   "sku1": "MGNK14",
+   "length": 0,
+   "width": 0,
+   "weight": 55,
+   "skuId": 5470253978458,
+   "height": 0
+  },
+  {
+   "sku2": "L",
+   "volume": 0,
+   "sku1": "MGNK14",
+   "length": 0,
+   "width": 0,
+   "weight": 55,
+   "skuId": 5470253978459,
+   "height": 0
+  },
+  {
+   "sku2": "S",
+   "volume": 0,
+   "sku1": "MGNK15",
+   "length": 0,
+   "width": 0,
+   "weight": 55,
+   "skuId": 5470253978460,
+   "height": 0
+  },
+  {
+   "sku2": "M",
+   "volume": 0,
+   "sku1": "MGNK15",
+   "length": 0,
+   "width": 0,
+   "weight": 55,
+   "skuId": 5470253978461,
+   "height": 0
+  },
+  {
+   "sku2": "L",
+   "volume": 0,
+   "sku1": "MGNK15",
+   "length": 0,
+   "width": 0,
+   "weight": 55,
+   "skuId": 5470253978462,
+   "height": 0
+  },
+  {
+   "sku2": "S",
+   "volume": 0,
+   "sku1": "MGNK16",
+   "length": 0,
+   "width": 0,
+   "weight": 55,
+   "skuId": 5470253978463,
+   "height": 0
+  },
+  {
+   "sku2": "M",
+   "volume": 0,
+   "sku1": "MGNK16",
+   "length": 0,
+   "width": 0,
+   "weight": 55,
+   "skuId": 5470253978464,
+   "height": 0
+  },
+  {
+   "sku2": "L",
+   "volume": 0,
+   "sku1": "MGNK16",
+   "length": 0,
+   "width": 0,
+   "weight": 55,
+   "skuId": 5470253978465,
+   "height": 0
+  },
+  {
+   "sku2": "S",
+   "volume": 0,
+   "sku1": "紫兰色MGNK17",
+   "length": 0,
+   "width": 0,
+   "weight": 55,
+   "skuId": 5470253978466,
+   "height": 0
+  },
+  {
+   "sku2": "M",
+   "volume": 0,
+   "sku1": "紫兰色MGNK17",
+   "length": 0,
+   "width": 0,
+   "weight": 55,
+   "skuId": 5470253978467,
+   "height": 0
+  },
+  {
+   "sku2": "L",
+   "volume": 0,
+   "sku1": "紫兰色MGNK17",
+   "length": 0,
+   "width": 0,
+   "weight": 55,
+   "skuId": 5470253978468,
+   "height": 0
+  },
+  {
+   "sku2": "S",
+   "volume": 0,
+   "sku1": "MGNK18",
+   "length": 0,
+   "width": 0,
+   "weight": 55,
+   "skuId": 5470253978469,
+   "height": 0
+  },
+  {
+   "sku2": "M",
+   "volume": 0,
+   "sku1": "MGNK18",
+   "length": 0,
+   "width": 0,
+   "weight": 55,
+   "skuId": 5470253978470,
+   "height": 0
+  },
+  {
+   "sku2": "L",
+   "volume": 0,
+   "sku1": "MGNK18",
+   "length": 0,
+   "width": 0,
+   "weight": 55,
+   "skuId": 5470253978471,
+   "height": 0
+  },
+  {
+   "sku2": "S",
+   "volume": 0,
+   "sku1": "MGNK19",
+   "length": 0,
+   "width": 0,
+   "weight": 55,
+   "skuId": 5470253978472,
+   "height": 0
+  },
+  {
+   "sku2": "M",
+   "volume": 0,
+   "sku1": "MGNK19",
+   "length": 0,
+   "width": 0,
+   "weight": 55,
+   "skuId": 5470253978473,
+   "height": 0
+  },
+  {
+   "sku2": "L",
+   "volume": 0,
+   "sku1": "MGNK19",
+   "length": 0,
+   "width": 0,
+   "weight": 55,
+   "skuId": 5470253978474,
+   "height": 0
+  },
+  {
+   "sku2": "S",
+   "volume": 0,
+   "sku1": "MGNK20",
+   "length": 0,
+   "width": 0,
+   "weight": 55,
+   "skuId": 5470253978475,
+   "height": 0
+  },
+  {
+   "sku2": "M",
+   "volume": 0,
+   "sku1": "MGNK20",
+   "length": 0,
+   "width": 0,
+   "weight": 55,
+   "skuId": 5470253978476,
+   "height": 0
+  },
+  {
+   "sku2": "L",
+   "volume": 0,
+   "sku1": "MGNK20",
+   "length": 0,
+   "width": 0,
+   "weight": 55,
+   "skuId": 5470253978477,
+   "height": 0
+  }
+ ],
+ "url": "https://detail.1688.com/offer/775040743111.html",
+ "核页时间": "2026-10-08T13:16:52.338Z"
+}

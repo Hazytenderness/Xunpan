@@ -1,0 +1,182 @@
+{
+ "offerId": "1063711625927",
+ "条目": "T0132",
+ "block": false,
+ "卖家公司": "深圳市杰简科技有限公司",
+ "旺旺名": "深圳宠爱之家宠物用品",
+ "标题": "新品超声波止吠器 室外驱狗器 防噪音宠物训狗器室内防狗乱叫",
+ "状态": "PUBLISHED",
+ "类目": "训练用品",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "规格",
+   "值": [
+    "PU86",
+    "k4 黑色",
+    "K4 绿色",
+    "K6 绿色",
+    "K6 黑色",
+    "K3"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "K6 绿色",
+   "价格": "49.00",
+   "库存": 450
+  },
+  {
+   "规格": "K4 绿色",
+   "价格": "49.00",
+   "库存": 499
+  },
+  {
+   "规格": "PU86",
+   "价格": "50.00",
+   "库存": 191
+  },
+  {
+   "规格": "k4 黑色",
+   "价格": "49.00",
+   "库存": 7504
+  },
+  {
+   "规格": "K3",
+   "价格": "49.00",
+   "库存": 492
+  },
+  {
+   "规格": "K6 黑色",
+   "价格": "49.00",
+   "库存": 465
+  }
+ ],
+ "规格图": [
+  [
+   "PU86",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01D9hL0a2M6Nsjq78aN_!!3399009778-0-cib.jpg"
+  ],
+  [
+   "k4 黑色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01h2cHVY2M6Nsjb7n4R_!!3399009778-0-cib.jpg"
+  ],
+  [
+   "K4 绿色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01h5tVpt2M6Nsju60Le_!!3399009778-0-cib.jpg"
+  ],
+  [
+   "K6 绿色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01noPkx92M6NsjrpxO9_!!3399009778-0-cib.jpg"
+  ],
+  [
+   "K6 黑色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01LltMVH2M6Nsk0IW72_!!3399009778-0-cib.jpg"
+  ],
+  [
+   "K3",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01pi44nQ2M6NslPh7Ti_!!3399009778-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "skuPrice",
+ "价格区间": "49.00-50.00",
+ "阶梯价_登录后": [
+  {
+   "price": "49.00",
+   "beginAmount": 1
+  },
+  {
+   "price": "50.00",
+   "beginAmount": 1
+  }
+ ],
+ "到手价": {
+  "价": "44",
+  "说明": "新人价",
+  "件数": 1
+ },
+ "起订量": 1,
+ "单位": "套",
+ "可售总量": 9601,
+ "已售": 1278,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01vVg6wT2M6NsjxzaC6_!!3399009778-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN011carOq2M6Nsjax3JD_!!3399009778-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01dQahY12M6NsjtykdU_!!3399009778-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN016MGHES2M6Nsjtz5R2_!!3399009778-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01pWZAEl2M6NsjazOmP_!!3399009778-0-cib.jpg"
+ ],
+ "商品属性": [
+  "产品类别:驱赶器",
+  "材质:ABS",
+  "品牌:宠爱它",
+  "货号:PU86",
+  "是否进口:否",
+  "是否专利货源:否",
+  "规格:PU86/k4 黑色/K4 绿色/K6 绿色/K6 黑色/K3",
+  "主要下游平台:ebay/亚马逊/wish/速卖通/独立站",
+  "主要销售地区:欧洲/南美/东南亚/北美/东北亚/中东",
+  "有可授权的自有品牌:否",
+  "是否跨境出口专供货源:是",
+  "适用对象:狗"
+ ],
+ "包装信息": [
+  {
+   "volume": 669.76,
+   "sku1": "PU86",
+   "length": 9.2,
+   "width": 5.6,
+   "weight": 180,
+   "skuId": 6110259525202,
+   "height": 13
+  },
+  {
+   "volume": 669.76,
+   "sku1": "k4 黑色",
+   "length": 9.2,
+   "width": 5.6,
+   "weight": 180,
+   "skuId": 6110259525203,
+   "height": 13
+  },
+  {
+   "volume": 669.76,
+   "sku1": "K4 绿色",
+   "length": 9.2,
+   "width": 5.6,
+   "weight": 180,
+   "skuId": 6110259525204,
+   "height": 13
+  },
+  {
+   "volume": 669.76,
+   "sku1": "K6 绿色",
+   "length": 9.2,
+   "width": 5.6,
+   "weight": 180,
+   "skuId": 6110259525205,
+   "height": 13
+  },
+  {
+   "volume": 669.76,
+   "sku1": "K6 黑色",
+   "length": 9.2,
+   "width": 5.6,
+   "weight": 180,
+   "skuId": 6110259525206,
+   "height": 13
+  },
+  {
+   "volume": 669.76,
+   "sku1": "K3",
+   "length": 9.2,
+   "width": 5.6,
+   "weight": 180,
+   "skuId": 6110259525207,
+   "height": 13
+  }
+ ],
+ "url": "https://detail.1688.com/offer/1063711625927.html",
+ "核页时间": "2026-10-08T13:15:12.226Z"
+}

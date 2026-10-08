@@ -1,0 +1,82 @@
+{
+ "offerId": "1041153261337",
+ "条目": "T0073",
+ "block": false,
+ "卖家公司": "曹县天傲工艺品有限公司",
+ "旺旺名": "曹县天傲工艺品有限公司",
+ "标题": "跨境木制宠物猫爬架猫咪逗乐玩具宠物自嗨抓板猫咪解闷转盘玩具",
+ "状态": "PUBLISHED",
+ "类目": "猫抓板",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "颜色",
+   "值": [
+    "默认"
+   ]
+  },
+  {
+   "属性": "规格",
+   "值": [
+    "默认"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "默认&gt;默认",
+   "价格": null,
+   "库存": 4534534
+  }
+ ],
+ "规格图": [],
+ "价格展示": "rangePrice",
+ "价格区间": null,
+ "阶梯价_登录后": [
+  {
+   "price": "28.00",
+   "beginAmount": 200
+  },
+  {
+   "price": "27.00",
+   "beginAmount": 500
+  },
+  {
+   "price": "26.00",
+   "beginAmount": 1000
+  }
+ ],
+ "到手价": null,
+ "起订量": 200,
+ "单位": "件",
+ "可售总量": 4534534,
+ "已售": 0,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN012Op8gB271bUgQnW5b_!!2211808627737-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01l59nXe271bUfO9Pw7_!!2211808627737-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN0116496t271bUermKqT_!!2211808627737-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01VetNI1271bUfD63OT_!!2211808627737-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01sKkleB271bUfRtBhE_!!2211808627737-0-cib.jpg"
+ ],
+ "商品属性": [
+  "材质:木质",
+  "品牌:盛发木业",
+  "风格:简约",
+  "是否专利货源:否",
+  "是否跨境出口专供货源:否",
+  "货号:木制狗抓板",
+  "颜色:默认",
+  "规格:默认"
+ ],
+ "包装信息": [
+  {
+   "volume": 0,
+   "length": 0,
+   "width": 0,
+   "weight": 2,
+   "height": 0
+  }
+ ],
+ "url": "https://detail.1688.com/offer/1041153261337.html",
+ "核页时间": "2026-10-08T13:00:59.539Z"
+}

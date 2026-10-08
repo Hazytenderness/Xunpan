@@ -1,0 +1,121 @@
+{
+ "offerId": "614252775528",
+ "条目": "T0087",
+ "block": false,
+ "卖家公司": "山东小狗宠物用品有限公司",
+ "旺旺名": "山东小狗宠物用品有限公司",
+ "标题": "Dogs Supplies Pull Rope Chew Toy with Powerful Suction Cup",
+ "状态": "PUBLISHED",
+ "类目": "狗狗玩具",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "颜色",
+   "值": [
+    "Blue and red",
+    "Red and white",
+    "Green and yellow",
+    "Blue",
+    "Green"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "Red and white",
+   "价格": "18.00",
+   "库存": 98560
+  },
+  {
+   "规格": "Blue and red",
+   "价格": "18.00",
+   "库存": 98560
+  },
+  {
+   "规格": "Blue",
+   "价格": "18.00",
+   "库存": 98560
+  },
+  {
+   "规格": "Green and yellow",
+   "价格": "18.00",
+   "库存": 98560
+  },
+  {
+   "规格": "Green",
+   "价格": "18.00",
+   "库存": 98560
+  }
+ ],
+ "规格图": [
+  [
+   "Blue and red",
+   "https://cbu01.alicdn.com/img/ibank/O1CN017lV5OA1exC5Axi5vl_!!2201242993937-0-cib.jpg"
+  ],
+  [
+   "Red and white",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01NBesyI1exC5DJfovx_!!2201242993937-0-cib.jpg"
+  ],
+  [
+   "Green and yellow",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01CrSJkV1exC5Axlqm8_!!2201242993937-0-cib.jpg"
+  ],
+  [
+   "Blue",
+   "https://cbu01.alicdn.com/img/ibank/O1CN012iJrjR1exC5EbByWc_!!2201242993937-0-cib.jpg"
+  ],
+  [
+   "Green",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01B3z8LI1exC5BlJj84_!!2201242993937-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "skuPrice",
+ "价格区间": null,
+ "阶梯价_登录后": [
+  {
+   "price": "18.00",
+   "beginAmount": 50
+  }
+ ],
+ "到手价": null,
+ "起订量": 50,
+ "单位": "套",
+ "可售总量": 492800,
+ "已售": 0,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01Nu2UMk1exC2vLIZQC_!!2201242993937-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01HHZnBa1exC2yb5HQP_!!2201242993937-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN0190OunQ1exC2vCu0ZW_!!2201242993937-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01UAPK4f1exC2S4j1xQ_!!2201242993937-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/13800547727_1651413037.jpg"
+ ],
+ "商品属性": [
+  "材质:TPR",
+  "产品类别:啃咬玩具",
+  "品牌:XIAOGO",
+  "是否进口:否",
+  "重量:200",
+  "货号:LSQ-02",
+  "产地:山东",
+  "箱装数量:200个",
+  "是否专利货源:否",
+  "颜色:Blue and red/Red and white/Green and yellow/Blue/Green",
+  "主要下游平台:ebay/亚马逊/wish/速卖通/独立站/LAZADA",
+  "主要销售地区:非洲/欧洲/南美/东南亚/北美/东北亚/中东",
+  "有可授权的自有品牌:是",
+  "是否跨境出口专供货源:是",
+  "是否属于礼品:否",
+  "是否IP授权:否"
+ ],
+ "包装信息": [
+  {
+   "volume": 0,
+   "length": 0,
+   "width": 0,
+   "weight": 1000,
+   "height": 0
+  }
+ ],
+ "url": "https://detail.1688.com/offer/614252775528.html",
+ "核页时间": "2026-10-08T13:04:32.581Z"
+}

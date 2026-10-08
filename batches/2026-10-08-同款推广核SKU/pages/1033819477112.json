@@ -1,0 +1,83 @@
+{
+ "offerId": "1033819477112",
+ "条目": "T0189",
+ "block": false,
+ "卖家公司": "曹县锦隆木业有限公司",
+ "旺旺名": "曹县锦隆木业",
+ "标题": "新款创意木质金丝熊可拆卸观察藏身处仓鼠玩具屋探索造景房屋",
+ "状态": "PUBLISHED",
+ "类目": "仓鼠窝、笼",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "规格",
+   "值": [
+    "原木色"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "原木色",
+   "价格": null,
+   "库存": 4990
+  }
+ ],
+ "规格图": [
+  [
+   "原木色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01GckChS1N9sJiy1FcS_!!2215793091528-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "rangePrice",
+ "价格区间": null,
+ "阶梯价_登录后": [
+  {
+   "price": "20.00",
+   "beginAmount": 100
+  }
+ ],
+ "到手价": null,
+ "起订量": 200,
+ "单位": "个",
+ "可售总量": 4990,
+ "已售": 10,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01xxH5LG1N9sJjAqmkU_!!2215793091528-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01Xtq8Hb1N9sJjYvjcA_!!2215793091528-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01ThLak81N9sJjHIiW5_!!2215793091528-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01gdg8zE1N9sJidc0aV_!!2215793091528-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01NJV2l01N9sJjAug54_!!2215793091528-0-cib.jpg"
+ ],
+ "商品属性": [
+  "材质:木",
+  "功能:娱乐/休息躲藏",
+  "形状:长方形",
+  "适用场景:室内/室外",
+  "风格:简约风",
+  "适用季节:四季通用",
+  "产地:山东",
+  "是否进口:否",
+  "货号:0319",
+  "品牌:其他",
+  "是否专利货源:否",
+  "规格:原木色",
+  "主要下游平台:ebay/亚马逊/wish/速卖通/独立站/LAZADA",
+  "主要销售地区:非洲/欧洲/南美/东南亚/北美/东北亚/中东",
+  "有可授权的自有品牌:否",
+  "是否跨境出口专供货源:是"
+ ],
+ "包装信息": [
+  {
+   "volume": 0,
+   "sku1": "原木色",
+   "length": 0,
+   "width": 0,
+   "weight": 1,
+   "skuId": 6047366208265,
+   "height": 0
+  }
+ ],
+ "url": "https://detail.1688.com/offer/1033819477112.html",
+ "核页时间": "2026-10-08T13:26:30.616Z"
+}

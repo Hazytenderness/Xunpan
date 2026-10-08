@@ -1,0 +1,122 @@
+{
+ "offerId": "968066973003",
+ "条目": "T0048",
+ "block": false,
+ "卖家公司": "上海秋沪语工贸有限公司",
+ "旺旺名": "秋户语",
+ "标题": "LISSA抽真空茶叶罐密封储茶罐高档防潮咖啡豆陈皮干货收纳储存罐",
+ "状态": "PUBLISHED",
+ "类目": "食物收纳盒",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "颜色",
+   "值": [
+    "灰色 500ml",
+    "灰色 900ml",
+    "灰色 1200ml"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "灰色 1200ml",
+   "价格": "31.50",
+   "库存": 39
+  },
+  {
+   "规格": "灰色 500ml",
+   "价格": "27.50",
+   "库存": 20
+  },
+  {
+   "规格": "灰色 900ml",
+   "价格": "29.50",
+   "库存": 25
+  }
+ ],
+ "规格图": [
+  [
+   "灰色 500ml",
+   "https://cbu01.alicdn.com/img/ibank/O1CN016m9UJq2KkZKtj6aUj_!!2209427499595-0-cib.jpg"
+  ],
+  [
+   "灰色 900ml",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01XxTJxH2KkZKt4Rui9_!!2209427499595-0-cib.jpg"
+  ],
+  [
+   "灰色 1200ml",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01wA49mY2KkZKtxPwXE_!!2209427499595-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "skuPrice",
+ "价格区间": "27.50-31.50",
+ "阶梯价_登录后": [
+  {
+   "price": "27.50",
+   "beginAmount": 1
+  },
+  {
+   "price": "31.50",
+   "beginAmount": 1
+  }
+ ],
+ "到手价": null,
+ "起订量": 1,
+ "单位": "个",
+ "可售总量": 84,
+ "已售": 4,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN017R2ykv2KkZKsrT22P_!!2209427499595-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01lrPCN52KkZKtj5uuu_!!2209427499595-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01AuhCj82KkZKrxfmLE_!!2209427499595-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01v0j8mw2KkZKtaOn4S_!!2209427499595-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01Ft2Ouu2KkZKtUTpHj_!!2209427499595-0-cib.jpg"
+ ],
+ "商品属性": [
+  "材质:塑料",
+  "款式:方形新款",
+  "品牌:LISSA",
+  "是否有专利:否",
+  "货号:697597852899",
+  "加印LOGO:可以",
+  "价格段:10-20元",
+  "颜色:灰色 500ml/灰色 900ml/灰色 1200ml",
+  "产地:中国",
+  "风格:现代简约",
+  "主要下游平台:其他",
+  "有可授权的自有品牌:否",
+  "是否进口:国产"
+ ],
+ "包装信息": [
+  {
+   "volume": 0,
+   "sku1": "灰色 500ml",
+   "length": 0,
+   "width": 0,
+   "weight": 215,
+   "skuId": 6080418558765,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "灰色 900ml",
+   "length": 0,
+   "width": 0,
+   "weight": 257,
+   "skuId": 6080418558767,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "灰色 1200ml",
+   "length": 0,
+   "width": 0,
+   "weight": 266,
+   "skuId": 6080418558769,
+   "height": 0
+  }
+ ],
+ "url": "https://detail.1688.com/offer/968066973003.html",
+ "核页时间": "2026-10-08T12:53:23.369Z"
+}

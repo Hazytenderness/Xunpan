@@ -1,0 +1,299 @@
+{
+ "offerId": "922077289337",
+ "条目": "T0023",
+ "block": false,
+ "卖家公司": "台州市黄岩今益塑业有限公司",
+ "旺旺名": "黄岩今益塑业",
+ "标题": "脏衣篓可折叠家用卫生间浴室高颜值洗衣物衣篮子脏衣篮衣服收纳筐",
+ "状态": "PUBLISHED",
+ "类目": "脏衣篮",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "颜色",
+   "值": [
+    "小号-奶油白",
+    "中号-奶油白",
+    "大号-奶油白",
+    "小号-奶油白带轮",
+    "中号-奶油白带轮",
+    "大号-奶油白带轮",
+    "小号-珍珠白",
+    "中号-珍珠白",
+    "大号-珍珠白",
+    "小号-珍珠白带轮",
+    "中号-珍珠白带轮",
+    "大号-珍珠白带轮"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "中号-珍珠白",
+   "价格": "26.00",
+   "库存": 88888
+  },
+  {
+   "规格": "大号-珍珠白带轮",
+   "价格": "32.00",
+   "库存": 88884
+  },
+  {
+   "规格": "中号-奶油白",
+   "价格": "26.00",
+   "库存": 88888
+  },
+  {
+   "规格": "大号-珍珠白",
+   "价格": "30.00",
+   "库存": 88888
+  },
+  {
+   "规格": "大号-奶油白",
+   "价格": "30.00",
+   "库存": 88888
+  },
+  {
+   "规格": "小号-奶油白带轮",
+   "价格": "23.00",
+   "库存": 88888
+  },
+  {
+   "规格": "小号-珍珠白",
+   "价格": "21.00",
+   "库存": 88888
+  },
+  {
+   "规格": "中号-奶油白带轮",
+   "价格": "28.00",
+   "库存": 88886
+  },
+  {
+   "规格": "小号-奶油白",
+   "价格": "21.00",
+   "库存": 88868
+  },
+  {
+   "规格": "中号-珍珠白带轮",
+   "价格": "28.00",
+   "库存": 88885
+  },
+  {
+   "规格": "大号-奶油白带轮",
+   "价格": "32.00",
+   "库存": 88886
+  },
+  {
+   "规格": "小号-珍珠白带轮",
+   "价格": "23.00",
+   "库存": 88888
+  }
+ ],
+ "规格图": [
+  [
+   "小号-奶油白",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01kzTUo81cECDWImLv8_!!3188453568-0-cib.jpg"
+  ],
+  [
+   "中号-奶油白",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01LSRXUE1cECDVAzOju_!!3188453568-0-cib.jpg"
+  ],
+  [
+   "大号-奶油白",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01esKp8I1cECDWld20b_!!3188453568-0-cib.jpg"
+  ],
+  [
+   "小号-奶油白带轮",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01bfiMmW1cECDYIlkdH_!!3188453568-0-cib.jpg"
+  ],
+  [
+   "中号-奶油白带轮",
+   "https://cbu01.alicdn.com/img/ibank/O1CN013ncWYt1cECDYIoVAI_!!3188453568-0-cib.jpg"
+  ],
+  [
+   "大号-奶油白带轮",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01GgTPTq1cECDV5zR0J_!!3188453568-0-cib.jpg"
+  ],
+  [
+   "小号-珍珠白",
+   "https://cbu01.alicdn.com/img/ibank/O1CN018NobW61cECDUXZENw_!!3188453568-0-cib.jpg"
+  ],
+  [
+   "中号-珍珠白",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01ymzkcx1cECDV5xl5w_!!3188453568-0-cib.jpg"
+  ],
+  [
+   "大号-珍珠白",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01OiPRon1cECDWwWeMl_!!3188453568-0-cib.jpg"
+  ],
+  [
+   "小号-珍珠白带轮",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01vZ2kYQ1cECDWliSxy_!!3188453568-0-cib.jpg"
+  ],
+  [
+   "中号-珍珠白带轮",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01zy4IBC1cECDQGZITI_!!3188453568-0-cib.jpg"
+  ],
+  [
+   "大号-珍珠白带轮",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01MSB8Q21cECDW4kE86_!!3188453568-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "skuPrice",
+ "价格区间": "21.00-32.00",
+ "阶梯价_登录后": [
+  {
+   "price": "21.00",
+   "beginAmount": 1
+  },
+  {
+   "price": "32.00",
+   "beginAmount": 1
+  }
+ ],
+ "到手价": {
+  "价": "18",
+  "说明": "新人价",
+  "件数": 1
+ },
+ "起订量": 1,
+ "单位": "个",
+ "可售总量": 1066625,
+ "已售": 4,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01QwT0ms1cECDXHUGjs_!!3188453568-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01WatJBp1cECDUziCFj_!!3188453568-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN019EiYAt1cECDW7WcnS_!!3188453568-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01VTufTG1cECDY7iuVa_!!3188453568-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01x3bLRQ1cECDWzI04M_!!3188453568-0-cib.jpg"
+ ],
+ "商品属性": [
+  "材质:PP",
+  "品牌:新今益",
+  "风格:现代简约",
+  "是否进口:否",
+  "箱装数量:1",
+  "颜色:小号-奶油白/中号-奶油白/大号-奶油白/小号-奶油白带轮/中号-奶油白带轮/大号-奶油白带轮/小号-珍珠白/中号-珍珠白/大号-珍珠白/小号-珍珠白带轮/中号-珍珠白带轮/大号-珍珠白带轮",
+  "适用范围:衣物收纳",
+  "价格段:20-30",
+  "产地:台州",
+  "贸易属性:内贸+外贸",
+  "专利:否",
+  "货号:91002",
+  "主要下游平台:ebay/亚马逊/wish/速卖通/独立站/LAZADA",
+  "主要销售地区:非洲/欧洲/南美/东南亚/北美/东北亚/中东",
+  "是否跨境出口专供货源:是"
+ ],
+ "包装信息": [
+  {
+   "volume": 14017.5,
+   "sku1": "小号-奶油白",
+   "length": 35,
+   "width": 9,
+   "weight": 1190,
+   "skuId": 5963112866480,
+   "height": 44.5
+  },
+  {
+   "volume": 14017.5,
+   "sku1": "中号-奶油白",
+   "length": 35,
+   "width": 9,
+   "weight": 1370,
+   "skuId": 5963112866481,
+   "height": 44.5
+  },
+  {
+   "volume": 14017.5,
+   "sku1": "大号-奶油白",
+   "length": 35,
+   "width": 9,
+   "weight": 1470,
+   "skuId": 5963112866482,
+   "height": 44.5
+  },
+  {
+   "volume": 14017.5,
+   "sku1": "小号-奶油白带轮",
+   "length": 35,
+   "width": 9,
+   "weight": 1320,
+   "skuId": 5963112866483,
+   "height": 44.5
+  },
+  {
+   "volume": 14017.5,
+   "sku1": "中号-奶油白带轮",
+   "length": 35,
+   "width": 9,
+   "weight": 1470,
+   "skuId": 5963112866484,
+   "height": 44.5
+  },
+  {
+   "volume": 14017.5,
+   "sku1": "大号-奶油白带轮",
+   "length": 35,
+   "width": 9,
+   "weight": 1580,
+   "skuId": 5963112866485,
+   "height": 44.5
+  },
+  {
+   "volume": 14017.5,
+   "sku1": "小号-珍珠白",
+   "length": 35,
+   "width": 9,
+   "weight": 1190,
+   "skuId": 5963112866486,
+   "height": 44.5
+  },
+  {
+   "volume": 14017.5,
+   "sku1": "中号-珍珠白",
+   "length": 35,
+   "width": 9,
+   "weight": 1370,
+   "skuId": 5963112866487,
+   "height": 44.5
+  },
+  {
+   "volume": 14017.5,
+   "sku1": "大号-珍珠白",
+   "length": 35,
+   "width": 9,
+   "weight": 1470,
+   "skuId": 5963112866488,
+   "height": 44.5
+  },
+  {
+   "volume": 14017.5,
+   "sku1": "小号-珍珠白带轮",
+   "length": 35,
+   "width": 9,
+   "weight": 1320,
+   "skuId": 5963112866489,
+   "height": 44.5
+  },
+  {
+   "volume": 14017.5,
+   "sku1": "中号-珍珠白带轮",
+   "length": 35,
+   "width": 9,
+   "weight": 1470,
+   "skuId": 5963112866490,
+   "height": 44.5
+  },
+  {
+   "volume": 14017.5,
+   "sku1": "大号-珍珠白带轮",
+   "length": 35,
+   "width": 9,
+   "weight": 1580,
+   "skuId": 5963112866491,
+   "height": 44.5
+  }
+ ],
+ "url": "https://detail.1688.com/offer/922077289337.html",
+ "核页时间": "2026-10-08T12:46:59.061Z"
+}

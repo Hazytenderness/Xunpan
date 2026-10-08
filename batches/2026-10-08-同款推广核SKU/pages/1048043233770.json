@@ -1,0 +1,91 @@
+{
+ "offerId": "1048043233770",
+ "条目": "T0115",
+ "block": false,
+ "卖家公司": "曹县希能工艺品厂（个体工商户）",
+ "旺旺名": "曹县希能工艺品厂",
+ "标题": "跨境木制猫抓板可调节角度室内宠物玩具爬架可折叠收纳猫咪磨爪器",
+ "状态": "PUBLISHED",
+ "类目": "猫抓板",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "颜色",
+   "值": [
+    "原木色"
+   ]
+  },
+  {
+   "属性": "规格",
+   "值": [
+    "如图"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "原木色&gt;如图",
+   "价格": null,
+   "库存": 5825
+  }
+ ],
+ "规格图": [
+  [
+   "原木色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN010CGkWS1xsbARgKSOj_!!2218937216499-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "rangePrice",
+ "价格区间": null,
+ "阶梯价_登录后": [
+  {
+   "price": "27.00",
+   "beginAmount": 200
+  },
+  {
+   "price": "26.00",
+   "beginAmount": 500
+  },
+  {
+   "price": "25.00",
+   "beginAmount": 1000
+  }
+ ],
+ "到手价": null,
+ "起订量": 200,
+ "单位": "件",
+ "可售总量": 5825,
+ "已售": 0,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN019EZ4TF1xsbAXtIh1U_!!2218937216499-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01folWwa1xsbAWLYjLV_!!2218937216499-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01CEjhgK1xsbAWm1f7q_!!2218937216499-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01yexoDe1xsbAWS9reT_!!2218937216499-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN011h7R4A1xsbAWTcIto_!!2218937216499-0-cib.jpg"
+ ],
+ "商品属性": [
+  "材质:木质",
+  "品牌:希能",
+  "风格:简约",
+  "是否专利货源:否",
+  "是否跨境出口专供货源:否",
+  "货号:猫抓板",
+  "颜色:原木色",
+  "箱装数量:·",
+  "规格:如图"
+ ],
+ "包装信息": [
+  {
+   "sku2": "如图",
+   "volume": 0,
+   "sku1": "原木色",
+   "length": 0,
+   "width": 0,
+   "weight": 1,
+   "skuId": 6239432006403,
+   "height": 0
+  }
+ ],
+ "url": "https://detail.1688.com/offer/1048043233770.html",
+ "核页时间": "2026-10-08T13:11:34.704Z"
+}

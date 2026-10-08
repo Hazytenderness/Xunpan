@@ -1,0 +1,90 @@
+{
+ "offerId": "772160502480",
+ "条目": "T0133",
+ "block": false,
+ "卖家公司": "深圳市鸿运宠物用品有限公司",
+ "旺旺名": "深圳鸿运宠物",
+ "标题": "宠物超声波驱狗止吠器狗狗驱赶器 防狗乱叫训狗器防叫止吠器充电",
+ "状态": "PUBLISHED",
+ "类目": "其他宠物周边用品",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "规格",
+   "值": [
+    "黑色"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "黑色",
+   "价格": "60.00",
+   "库存": 954
+  }
+ ],
+ "规格图": [
+  [
+   "黑色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01afcRPK1qCjS38Hv1H_!!3256645460-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "rangePrice",
+ "价格区间": "58.00-60.00",
+ "阶梯价_登录后": [
+  {
+   "price": "60.00",
+   "beginAmount": 1
+  },
+  {
+   "price": "59.00",
+   "beginAmount": 50
+  },
+  {
+   "price": "58.00",
+   "beginAmount": 100
+  }
+ ],
+ "到手价": {
+  "价": "55",
+  "说明": "新人价",
+  "件数": 1
+ },
+ "起订量": 2,
+ "单位": "套",
+ "可售总量": 954,
+ "已售": 601,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01JLcVtl1qCjS0hkoNq_!!3256645460-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01TKXD4F1oC9hhZxH5V_!!2565805188-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01Ja9CbQ1oC9hgGJXRp_!!2565805188-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01iVXxLN1oC9ha7QukW_!!2565805188-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01MqpsaN1qCjSeF1Ic5_!!3256645460-0-cib.jpg"
+ ],
+ "商品属性": [
+  "品牌:其他",
+  "适用对象:狗",
+  "产地:广东深圳",
+  "是否进口:否",
+  "货号:K3",
+  "是否专利货源:否",
+  "规格:黑色",
+  "主要下游平台:ebay/亚马逊/wish/速卖通/独立站/LAZADA/其他",
+  "主要销售地区:欧洲/南美/东南亚/北美/东北亚/中东/其他",
+  "有可授权的自有品牌:否",
+  "是否跨境出口专供货源:是"
+ ],
+ "包装信息": [
+  {
+   "volume": 360.8,
+   "sku1": "黑色",
+   "length": 11,
+   "width": 8.2,
+   "weight": 190,
+   "skuId": 5286123156070,
+   "height": 4
+  }
+ ],
+ "url": "https://detail.1688.com/offer/772160502480.html",
+ "核页时间": "2026-10-08T13:15:32.084Z"
+}

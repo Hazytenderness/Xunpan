@@ -1,0 +1,95 @@
+{
+ "offerId": "694715480437",
+ "条目": "T0187",
+ "block": false,
+ "卖家公司": "东莞市达摩电子科技有限公司",
+ "旺旺名": "damo6688",
+ "标题": "跨境新款 宠物剃脚毛器带灯狗狗猫咪剃毛器小刀头剃毛器 工厂现货",
+ "状态": "PUBLISHED",
+ "类目": "猫猫清洁美容工具",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "规格",
+   "值": [
+    "T50-Pink",
+    "T50-Black",
+    "T50-White"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "T50-Pink",
+   "价格": "20.00",
+   "库存": 996866
+  },
+  {
+   "规格": "T50-White",
+   "价格": "20.00",
+   "库存": 996597
+  },
+  {
+   "规格": "T50-Black",
+   "价格": "20.00",
+   "库存": 996334
+  }
+ ],
+ "规格图": [
+  [
+   "T50-Pink",
+   "https://cbu01.alicdn.com/img/ibank/O1CN011RheA31BvFZeWE2xm_!!2211660510007-0-cib.jpg"
+  ],
+  [
+   "T50-Black",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01DM9t9U1BvFZaFavkI_!!2211660510007-0-cib.jpg"
+  ],
+  [
+   "T50-White",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01aEHES71BvFZnA6xRa_!!2211660510007-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "rangePrice",
+ "价格区间": "17.00-20.00",
+ "阶梯价_登录后": [
+  {
+   "price": "20.00",
+   "beginAmount": 1
+  },
+  {
+   "price": "18.00",
+   "beginAmount": 120
+  },
+  {
+   "price": "17.00",
+   "beginAmount": 2400
+  }
+ ],
+ "到手价": null,
+ "起订量": 2,
+ "单位": "台",
+ "可售总量": 2989797,
+ "已售": 141,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN010fjETQ1BvFZVSvaE0_!!2211660510007-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN016pvSZE1BvFZbb1AUG_!!2211660510007-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN019N3Xnl1BvFZaFcwV5_!!2211660510007-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01CBiR1r1BvFZl80gO0_!!2211660510007-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01INZ8xT1BvFZcKqIa8_!!2211660510007-0-cib.jpg"
+ ],
+ "商品属性": [
+  "产品分类:电推剪",
+  "品牌:奥西攸",
+  "是否进口:否",
+  "规格:T50-Pink/T50-Black/T50-White",
+  "箱装数量:120",
+  "是否专利货源:否",
+  "主要下游平台:ebay/亚马逊/速卖通/独立站/LAZADA/其他",
+  "主要销售地区:欧洲/东南亚/东北亚/中东",
+  "有可授权的自有品牌:是",
+  "是否跨境出口专供货源:是"
+ ],
+ "包装信息": null,
+ "url": "https://detail.1688.com/offer/694715480437.html",
+ "核页时间": "2026-10-08T13:25:55.983Z"
+}

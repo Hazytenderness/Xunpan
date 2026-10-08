@@ -1,0 +1,111 @@
+{
+ "offerId": "861395556904",
+ "条目": "T0336",
+ "block": false,
+ "卖家公司": "上海已舍家居用品中心",
+ "旺旺名": "日本okunai",
+ "标题": "LISSA按压式抽真空密封罐食品级五谷杂粮收纳干货防潮储物罐收纳",
+ "状态": "PUBLISHED",
+ "类目": "收纳罐、玻璃密封罐",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "颜色",
+   "值": [
+    "灰色500ml",
+    "灰色900ml",
+    "灰色1200ml"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "灰色500ml",
+   "价格": "27.50",
+   "库存": 8876
+  },
+  {
+   "规格": "灰色1200ml",
+   "价格": "31.50",
+   "库存": 8866
+  },
+  {
+   "规格": "灰色900ml",
+   "价格": "29.50",
+   "库存": 8888
+  }
+ ],
+ "规格图": [
+  [
+   "灰色500ml",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01FD9Cwv2Dya4ovhAVH_!!2210498198678-0-cib.jpg"
+  ],
+  [
+   "灰色900ml",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01qPudHq2Dya4ovhVLq_!!2210498198678-0-cib.jpg"
+  ],
+  [
+   "灰色1200ml",
+   "https://cbu01.alicdn.com/img/ibank/O1CN0106tyia2Dya4mEP8hx_!!2210498198678-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "skuPrice",
+ "价格区间": "27.50-31.50",
+ "阶梯价_登录后": [
+  {
+   "price": "27.50",
+   "beginAmount": 3
+  },
+  {
+   "price": "31.50",
+   "beginAmount": 3
+  }
+ ],
+ "到手价": {
+  "价": "26.83",
+  "说明": "新人价",
+  "件数": 3
+ },
+ "起订量": 3,
+ "单位": "个",
+ "可售总量": 26630,
+ "已售": 7,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01D8goeW2Dya4pcwFZ0_!!2210498198678-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01YVscS62Dya4lWG4KX_!!2210498198678-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01XtTz042Dya4qD9pzl_!!2210498198678-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01GSTEDG2Dya4pcv2iJ_!!2210498198678-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN016yAySG2Dya4oahI31_!!2210498198678-0-cib.jpg"
+ ],
+ "商品属性": [
+  "材质:塑料",
+  "容量:800",
+  "品牌:lissa",
+  "风格:现代简约风",
+  "是否进口:否",
+  "规格:1个",
+  "图案:纯色",
+  "外箱规格:55*45*65",
+  "箱装数量:60",
+  "用途:密封",
+  "专利:否",
+  "货号:LSR2899",
+  "毛重:210",
+  "颜色:灰色500ml/灰色900ml/灰色1200ml",
+  "主要下游平台:ebay/亚马逊/wish/速卖通/独立站/LAZADA/其他",
+  "主要销售地区:非洲/欧洲/南美/东南亚/北美/东北亚/中东/其他",
+  "有可授权的自有品牌:是",
+  "是否跨境出口专供货源:是"
+ ],
+ "包装信息": [
+  {
+   "volume": 3312,
+   "length": 23,
+   "width": 12,
+   "weight": 560,
+   "height": 12
+  }
+ ],
+ "url": "https://detail.1688.com/offer/861395556904.html",
+ "核页时间": "2026-10-08T14:06:18.278Z"
+}

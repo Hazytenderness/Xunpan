@@ -1,0 +1,81 @@
+{
+ "offerId": "711518969134",
+ "条目": "T0145",
+ "block": false,
+ "卖家公司": "曹县千树工艺品厂",
+ "旺旺名": "曹县千树工艺品",
+ "标题": "木制狗狗磨爪器抽拉盒式狗狗指甲刮板简易木制狗狗支架抓板",
+ "状态": "PUBLISHED",
+ "类目": "狗狗清洁美容工具",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "规格",
+   "值": [
+    "可定制"
+   ]
+  },
+  {
+   "属性": "货号",
+   "值": [
+    "宠物指甲刮板"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "可定制&gt;宠物指甲刮板",
+   "价格": null,
+   "库存": 786786786
+  }
+ ],
+ "规格图": [
+  [
+   "可定制",
+   "https://cbu01.alicdn.com/img/ibank/O1CN010a2tSo2KxOAcG42Uh_!!2211021519623-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "rangePrice",
+ "价格区间": null,
+ "阶梯价_登录后": [
+  {
+   "price": "22.00",
+   "beginAmount": 200
+  },
+  {
+   "price": "21.00",
+   "beginAmount": 500
+  },
+  {
+   "price": "20.00",
+   "beginAmount": 1000
+  }
+ ],
+ "到手价": null,
+ "起订量": 200,
+ "单位": "个",
+ "可售总量": 786786786,
+ "已售": 0,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01SPUyj62KxOAeEBndT_!!2211021519623-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01LctbIa2KxOAWL3gGE_!!2211021519623-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN017d41HP2KxOAa3JhD7_!!2211021519623-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01nvtfH72KxOAWL3gGS_!!2211021519623-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01Xan42J2KxOAYAWRKV_!!2211021519623-0-cib.jpg"
+ ],
+ "商品属性": [
+  "材质:木质",
+  "品牌:千树",
+  "产品分类:其他清洁美容用品",
+  "是否进口:否",
+  "箱装数量:咨询客服",
+  "是否专利货源:否",
+  "规格:可定制",
+  "货号:宠物指甲刮板",
+  "是否跨境出口专供货源:否",
+  "是否属于礼品:否"
+ ],
+ "包装信息": null,
+ "url": "https://detail.1688.com/offer/711518969134.html",
+ "核页时间": "2026-10-08T13:17:27.144Z"
+}

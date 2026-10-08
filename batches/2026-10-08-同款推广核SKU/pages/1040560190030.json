@@ -1,0 +1,112 @@
+{
+ "offerId": "1040560190030",
+ "条目": "T0224",
+ "block": false,
+ "卖家公司": "临沂乾都来宠物用品有限公司",
+ "旺旺名": "山东润凯宠物用品有限公司",
+ "标题": "金丝熊小仓鼠专用笼子超大别墅豪华亚克力透明箱特大号空间防啃咬",
+ "状态": "PUBLISHED",
+ "类目": "仓鼠窝、笼",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "规格",
+   "值": [
+    "43裸笼",
+    "43洋房款",
+    "43平台小屋",
+    "43三室一厅"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "43洋房款",
+   "价格": "50.00",
+   "库存": 8888
+  },
+  {
+   "规格": "43平台小屋",
+   "价格": "60.00",
+   "库存": 8886
+  },
+  {
+   "规格": "43裸笼",
+   "价格": "45.00",
+   "库存": 8888
+  },
+  {
+   "规格": "43三室一厅",
+   "价格": "65.00",
+   "库存": 8888
+  }
+ ],
+ "规格图": [
+  [
+   "43裸笼",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01pWG0r51q9Wsai9WEi_!!2209281805453-0-cib.jpg"
+  ],
+  [
+   "43洋房款",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01DL1zBe1q9WsasETTY_!!2209281805453-0-cib.jpg"
+  ],
+  [
+   "43平台小屋",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01PigzSn1q9Wsae2IG5_!!2209281805453-0-cib.jpg"
+  ],
+  [
+   "43三室一厅",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01vjFxIr1q9Wsb1bDTF_!!2209281805453-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "skuPrice",
+ "价格区间": "45.00-65.00",
+ "阶梯价_登录后": [
+  {
+   "price": "45.00",
+   "beginAmount": 1
+  },
+  {
+   "price": "65.00",
+   "beginAmount": 1
+  }
+ ],
+ "到手价": null,
+ "起订量": 1,
+ "单位": "套",
+ "可售总量": 35550,
+ "已售": 2,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01ocmSaS1q9WsaYWoKU_!!2209281805453-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01ZKJh4c1q9Wsb1YCCu_!!2209281805453-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01yjIla41q9WsasC7ra_!!2209281805453-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01qFSyvD1q9Wsb58vnh_!!2209281805453-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01wweCBo1q9WsaYYYPl_!!2209281805453-0-cib.jpg"
+ ],
+ "商品属性": [
+  "材质:pet",
+  "功能:易清洁",
+  "形状:长方形",
+  "适用场景:室内",
+  "风格:简约风",
+  "适用季节:四季通用",
+  "产地:山东临沂",
+  "是否进口:否",
+  "货号:43-01",
+  "品牌:润凯",
+  "是否专利货源:否",
+  "规格:43裸笼/43洋房款/43平台小屋/43三室一厅",
+  "是否跨境出口专供货源:否"
+ ],
+ "包装信息": [
+  {
+   "volume": 27000,
+   "length": 45,
+   "width": 30,
+   "weight": 4000,
+   "height": 20
+  }
+ ],
+ "url": "https://detail.1688.com/offer/1040560190030.html",
+ "核页时间": "2026-10-08T13:35:59.697Z"
+}

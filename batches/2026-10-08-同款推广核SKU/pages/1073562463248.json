@@ -1,0 +1,101 @@
+{
+ "offerId": "1073562463248",
+ "条目": "T0097",
+ "block": false,
+ "卖家公司": "义乌市冬之袄贸易有限公司",
+ "旺旺名": "冬之袄贸易",
+ "标题": "猫狗通用防滑镂空沥水可调节孔位设计洗澡架宠物洗澡架折叠美容台",
+ "状态": "PUBLISHED",
+ "类目": "美容台",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "颜色",
+   "值": [
+    "灰色",
+    "蓝色",
+    "粉色"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "蓝色",
+   "价格": "38.00",
+   "库存": 497
+  },
+  {
+   "规格": "粉色",
+   "价格": "38.00",
+   "库存": 498
+  },
+  {
+   "规格": "灰色",
+   "价格": "38.00",
+   "库存": 495
+  }
+ ],
+ "规格图": [
+  [
+   "灰色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01ZiVDXzrAyjG32pKq_!!2215819698300-0-cib.jpg"
+  ],
+  [
+   "蓝色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01U9d6TaJv7MD32pKq_!!2215819698300-0-cib.jpg"
+  ],
+  [
+   "粉色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01VqdnKnJGAQL32pKq_!!2215819698300-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "rangePrice",
+ "价格区间": "38.00",
+ "阶梯价_登录后": [
+  {
+   "price": "38.00",
+   "beginAmount": 1
+  }
+ ],
+ "到手价": {
+  "价": "37",
+  "说明": "新人价",
+  "件数": 1
+ },
+ "起订量": 1,
+ "单位": "件",
+ "可售总量": 1490,
+ "已售": 8,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01C1ge5mcXcfH1chua_!!2215819698300-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01xtnpDY5CT6H1chua_!!2215819698300-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01BGAxAiij3xC1chua_!!2215819698300-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01AYPiuD07jlI1chua_!!2215819698300-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01nT6X4aHQC2E1chua_!!2215819698300-0-cib.jpg"
+ ],
+ "商品属性": [
+  "材质:不锈钢",
+  "品牌:无",
+  "是否可升降:否",
+  "可否伸缩:不可以",
+  "是否可折叠:是",
+  "是否进口:否",
+  "颜色:灰色/蓝色/粉色",
+  "适用对象:通用",
+  "是否专利货源:否",
+  "是否跨境出口专供货源:否",
+  "产地:中国",
+  "季节:四季"
+ ],
+ "包装信息": [
+  {
+   "volume": 74400,
+   "length": 60,
+   "width": 31,
+   "weight": 120,
+   "height": 40
+  }
+ ],
+ "url": "https://detail.1688.com/offer/1073562463248.html",
+ "核页时间": "2026-10-08T13:06:40.989Z"
+}

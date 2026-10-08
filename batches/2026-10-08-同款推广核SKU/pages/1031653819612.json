@@ -1,0 +1,76 @@
+{
+ "offerId": "1031653819612",
+ "条目": "T0055",
+ "block": false,
+ "卖家公司": "曹县保益得工艺品有限公司",
+ "旺旺名": "保益得工艺品有限公司",
+ "标题": "跨境实木宠物纪念盒带磁吸盖圆形宠物骨灰盒毛发收藏盒实木存储盒",
+ "状态": "PUBLISHED",
+ "类目": "木质工艺品",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "颜色",
+   "值": [
+    "如图"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "如图",
+   "价格": null,
+   "库存": 4990
+  }
+ ],
+ "规格图": [
+  [
+   "如图",
+   "https://cbu01.alicdn.com/img/ibank/O1CN016zYS5q1ujwpdJ2OnH_!!2200707006074-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "rangePrice",
+ "价格区间": null,
+ "阶梯价_登录后": [
+  {
+   "price": "9.00",
+   "beginAmount": 500
+  }
+ ],
+ "到手价": null,
+ "起订量": 500,
+ "单位": "个",
+ "可售总量": 4990,
+ "已售": 0,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN016Jik2y1ujwpdylv3A_!!2200707006074-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01FiFiIc1ujwpdc6RD2_!!2200707006074-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01lzvj0c1ujwpe89BsS_!!2200707006074-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01ozmm0H1ujwpdc4Ucx_!!2200707006074-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01vSq99u1ujwpdofdcS_!!2200707006074-0-cib.jpg"
+ ],
+ "商品属性": [
+  "材质:实木",
+  "品牌:保益得",
+  "类别:其他木制品",
+  "风格:现代简约",
+  "货号:BYD-0318",
+  "是否专利货源:否",
+  "颜色:如图",
+  "是否属于礼品:否",
+  "是否IP授权:否"
+ ],
+ "包装信息": [
+  {
+   "volume": 0,
+   "sku1": "如图",
+   "length": 0,
+   "width": 0,
+   "weight": 1,
+   "skuId": 6046659032378,
+   "height": 0
+  }
+ ],
+ "url": "https://detail.1688.com/offer/1031653819612.html",
+ "核页时间": "2026-10-08T12:55:48.245Z"
+}

@@ -1,0 +1,109 @@
+{
+ "offerId": "1081716785744",
+ "条目": "T0103",
+ "block": false,
+ "卖家公司": "金湖萌选宠物用品有限公司",
+ "旺旺名": "萌选宠物用品厂家",
+ "标题": "剑麻鱼猫玩具木天蓼填充耐抓磨爪逗猫玩具小鱼老鼠造型猫咪猫薄荷",
+ "状态": "PUBLISHED",
+ "类目": "猫猫玩具",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "颜色",
+   "值": [
+    "麻布猫薄荷老鼠",
+    "麻布猫薄荷小鱼"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "麻布猫薄荷小鱼",
+   "价格": null,
+   "库存": 4940
+  },
+  {
+   "规格": "麻布猫薄荷老鼠",
+   "价格": null,
+   "库存": 4943
+  }
+ ],
+ "规格图": [
+  [
+   "麻布猫薄荷老鼠",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01wgRvkcIt19L3thOC_!!2222449983930-0-cib.jpg"
+  ],
+  [
+   "麻布猫薄荷小鱼",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01dLRNmyYJVuI3thOC_!!2222449983930-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "rangePrice",
+ "价格区间": null,
+ "阶梯价_登录后": [
+  {
+   "price": "5.00",
+   "beginAmount": 1
+  },
+  {
+   "price": "4.00",
+   "beginAmount": 100
+  },
+  {
+   "price": "3.00",
+   "beginAmount": 1000
+  }
+ ],
+ "到手价": null,
+ "起订量": 1,
+ "单位": "个",
+ "可售总量": 9883,
+ "已售": 2,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN012Uq7Pniad1L3thOC_!!2222449983930-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01w7e44ZHkU7L3thOC_!!2222449983930-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01Ef8mIYVka8B3thOC_!!2222449983930-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01B5iDOsrc4JB3thOC_!!2222449983930-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01ypkgamm2NUJ0jJlA_!!2222449983930-0-cib.jpg"
+ ],
+ "商品属性": [
+  "材质:麻布",
+  "品牌:其他",
+  "产品类别:啃咬玩具",
+  "产地:江苏",
+  "是否进口:否",
+  "货号:01",
+  "箱装数量:咨询客服",
+  "重量:40",
+  "是否专利货源:否",
+  "颜色:麻布猫薄荷老鼠/麻布猫薄荷小鱼",
+  "是否跨境出口专供货源:否",
+  "是否属于礼品:否",
+  "是否IP授权:否",
+  "是否智能:否",
+  "使用场景:多场景"
+ ],
+ "包装信息": [
+  {
+   "volume": 720,
+   "sku1": "麻布猫薄荷老鼠",
+   "length": 20,
+   "width": 4,
+   "weight": 40,
+   "skuId": 6298559510573,
+   "height": 9
+  },
+  {
+   "volume": 704,
+   "sku1": "麻布猫薄荷小鱼",
+   "length": 22,
+   "width": 4,
+   "weight": 40,
+   "skuId": 6298559510574,
+   "height": 8
+  }
+ ],
+ "url": "https://detail.1688.com/offer/1081716785744.html",
+ "核页时间": "2026-10-08T13:08:24.498Z"
+}

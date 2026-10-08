@@ -1,0 +1,296 @@
+{
+ "offerId": "688117315766",
+ "条目": "T0339",
+ "block": false,
+ "卖家公司": "潮州市潮安区乐可包装制品有限公司",
+ "旺旺名": "乐可包装",
+ "标题": "ins风一次性咖啡杯奶茶杯网红双层加厚美式热饮杯外卖杯带盖商用",
+ "状态": "PUBLISHED",
+ "类目": "纸杯",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "规格型号",
+   "值": [
+    "300ml牛皮色杯;PCS",
+    "400ml牛皮色杯;PCS",
+    "300ml白色杯;PCS",
+    "400ml白色杯;PCS",
+    "黑色U型盖;PCS",
+    "白色分体折叠盖;PCS",
+    "黑色分体折叠盖;PCS",
+    "白色开关盖;PCS",
+    "黑色开关盖;PCS",
+    "白色U型盖;PCS",
+    "透明U型盖;PCS",
+    "透明分体折叠盖;PCS"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "300ml牛皮色杯;PCS",
+   "价格": "0.32",
+   "库存": 22500
+  },
+  {
+   "规格": "白色开关盖;PCS",
+   "价格": "0.15",
+   "库存": 0
+  },
+  {
+   "规格": "400ml牛皮色杯;PCS",
+   "价格": "0.35",
+   "库存": 1700
+  },
+  {
+   "规格": "黑色分体折叠盖;PCS",
+   "价格": "0.24",
+   "库存": 4050
+  },
+  {
+   "规格": "400ml白色杯;PCS",
+   "价格": "0.35",
+   "库存": 9202
+  },
+  {
+   "规格": "300ml白色杯;PCS",
+   "价格": "0.32",
+   "库存": 1900
+  },
+  {
+   "规格": "透明分体折叠盖;PCS",
+   "价格": "0.25",
+   "库存": 0
+  },
+  {
+   "规格": "透明U型盖;PCS",
+   "价格": "0.24",
+   "库存": 0
+  },
+  {
+   "规格": "黑色开关盖;PCS",
+   "价格": "0.15",
+   "库存": 0
+  },
+  {
+   "规格": "白色分体折叠盖;PCS",
+   "价格": "0.25",
+   "库存": 50
+  },
+  {
+   "规格": "白色U型盖;PCS",
+   "价格": "0.24",
+   "库存": 0
+  },
+  {
+   "规格": "黑色U型盖;PCS",
+   "价格": "0.24",
+   "库存": 4000
+  }
+ ],
+ "规格图": [
+  [
+   "300ml牛皮色杯;PCS",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01VHN1Mc1QgnOef0vfy_!!2209541142006-0-cib.jpg"
+  ],
+  [
+   "400ml牛皮色杯;PCS",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01hNfDcp1QgnOiLIooG_!!2209541142006-0-cib.jpg"
+  ],
+  [
+   "300ml白色杯;PCS",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01IsXDJU1QgnIE90bX9_!!2209541142006-0-cib.jpg"
+  ],
+  [
+   "400ml白色杯;PCS",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01ybREwk1QgnIE0rgIV_!!2209541142006-0-cib.jpg"
+  ],
+  [
+   "黑色U型盖;PCS",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01DEQTfE1QgnIBcwB8r_!!2209541142006-0-cib.jpg"
+  ],
+  [
+   "白色分体折叠盖;PCS",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01vEjj7n1QgnXIJdFQg_!!2209541142006-0-cib.jpg"
+  ],
+  [
+   "黑色分体折叠盖;PCS",
+   "https://cbu01.alicdn.com/img/ibank/O1CN013o6sir1QgnXUK16sI_!!2209541142006-0-cib.jpg"
+  ],
+  [
+   "白色开关盖;PCS",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01QKr6Dc1QgnIBcwB3f_!!2209541142006-0-cib.jpg"
+  ],
+  [
+   "黑色开关盖;PCS",
+   "https://cbu01.alicdn.com/img/ibank/O1CN017AsbU61QgnI5RUHGn_!!2209541142006-0-cib.jpg"
+  ],
+  [
+   "白色U型盖;PCS",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01SBf5ww1QgnIGpgwix_!!2209541142006-0-cib.jpg"
+  ],
+  [
+   "透明U型盖;PCS",
+   "https://cbu01.alicdn.com/img/ibank/O1CN019ztAlP1QgnXJy9N3e_!!2209541142006-0-cib.jpg"
+  ],
+  [
+   "透明分体折叠盖;PCS",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01boUdfg1QgnXHrWjEL_!!2209541142006-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "skuPrice",
+ "价格区间": "0.24-0.35",
+ "阶梯价_登录后": [
+  {
+   "price": "0.15",
+   "beginAmount": 50
+  },
+  {
+   "price": "0.35",
+   "beginAmount": 50
+  }
+ ],
+ "到手价": {
+  "价": "0.13",
+  "说明": "新人价",
+  "件数": 50
+ },
+ "起订量": 50,
+ "单位": "PCS",
+ "可售总量": 43402,
+ "已售": 47600,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01UjubaR1QgnIBe85tR_!!2209541142006-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01npJisv1QgnIMCuQlf_!!2209541142006-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01BhD9DO1QgnIJ5rtzT_!!2209541142006-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN0170nA691QgnIEhs4AK_!!2209541142006-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01NKd3VH1QgnIMCudEs_!!2209541142006-0-cib.jpg"
+ ],
+ "商品属性": [
+  "undefined:",
+  "undefined:",
+  "产地:广东潮州",
+  "用途:热饮杯",
+  "品牌:乐可",
+  "货号:00",
+  "主要下游平台:亚马逊",
+  "主要销售地区:其他",
+  "是否跨境出口专供货源:否",
+  "上口*下口*高:320ml、420ml",
+  "适用场景:其他",
+  "是否可印logo:是"
+ ],
+ "包装信息": [
+  {
+   "volume": 477.9,
+   "sku1": "300ml牛皮色杯;PCS",
+   "length": 5.9,
+   "width": 9,
+   "weight": 1,
+   "skuId": 5346736233398,
+   "height": 9
+  },
+  {
+   "volume": 626.4,
+   "sku1": "400ml牛皮色杯;PCS",
+   "length": 6,
+   "width": 9,
+   "weight": 1,
+   "skuId": 5346736233399,
+   "height": 11.6
+  },
+  {
+   "volume": 477.9,
+   "sku1": "300ml白色杯;PCS",
+   "length": 5.9,
+   "width": 9,
+   "weight": 1,
+   "skuId": 5604101920322,
+   "height": 9
+  },
+  {
+   "volume": 626.4,
+   "sku1": "400ml白色杯;PCS",
+   "length": 6,
+   "width": 9,
+   "weight": 1,
+   "skuId": 5604101920323,
+   "height": 11.6
+  },
+  {
+   "volume": 729,
+   "sku1": "白色开关盖;PCS",
+   "length": 9,
+   "width": 9,
+   "weight": 1,
+   "skuId": 5346736233400,
+   "height": 9
+  },
+  {
+   "volume": 729,
+   "sku1": "黑色开关盖;PCS",
+   "length": 9,
+   "width": 9,
+   "weight": 1,
+   "skuId": 5346736233401,
+   "height": 9
+  },
+  {
+   "volume": 729,
+   "sku1": "白色U型盖;PCS",
+   "length": 9,
+   "width": 9,
+   "weight": 1,
+   "skuId": 5346736233402,
+   "height": 9
+  },
+  {
+   "volume": 729,
+   "sku1": "黑色U型盖;PCS",
+   "length": 9,
+   "width": 9,
+   "weight": 1,
+   "skuId": 5346736233403,
+   "height": 9
+  },
+  {
+   "volume": 729,
+   "sku1": "透明U型盖;PCS",
+   "length": 9,
+   "width": 9,
+   "weight": 1,
+   "skuId": 5715718453912,
+   "height": 9
+  },
+  {
+   "volume": 729,
+   "sku1": "白色分体折叠盖;PCS",
+   "length": 9,
+   "width": 9,
+   "weight": 1,
+   "skuId": 5881209398141,
+   "height": 9
+  },
+  {
+   "volume": 729,
+   "sku1": "黑色分体折叠盖;PCS",
+   "length": 9,
+   "width": 9,
+   "weight": 1,
+   "skuId": 5881209398142,
+   "height": 9
+  },
+  {
+   "volume": 729,
+   "sku1": "透明分体折叠盖;PCS",
+   "length": 9,
+   "width": 9,
+   "weight": 1,
+   "skuId": 5881209398143,
+   "height": 9
+  }
+ ],
+ "url": "https://detail.1688.com/offer/688117315766.html",
+ "核页时间": "2026-10-08T14:07:05.600Z"
+}

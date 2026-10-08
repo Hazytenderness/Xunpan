@@ -1,0 +1,81 @@
+{
+ "offerId": "1070106776180",
+ "条目": "T0229",
+ "block": false,
+ "卖家公司": "嘉兴魔仔宠物用品有限公司",
+ "旺旺名": "嘉兴魔仔宠物用品有限公司",
+ "标题": "源头工厂一键折叠猫咪书桌猫窝猫桌床可调节小猫桌床带逗猫棒玩具",
+ "状态": "PUBLISHED",
+ "类目": "狗狗窝/笼/垫",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "颜色",
+   "值": [
+    "灰色"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "灰色",
+   "价格": "65.00",
+   "库存": null
+  }
+ ],
+ "规格图": [
+  [
+   "灰色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01K0QzQN1aPWs0lOsXa_!!2220032783322-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "rangePrice",
+ "价格区间": "58.00-65.00",
+ "阶梯价_登录后": [
+  {
+   "price": "65.00",
+   "beginAmount": 100
+  },
+  {
+   "price": "60.00",
+   "beginAmount": 500
+  },
+  {
+   "price": "58.00",
+   "beginAmount": 2000
+  }
+ ],
+ "到手价": {
+  "价": "64.94",
+  "说明": "新人价",
+  "件数": 100
+ },
+ "起订量": 100,
+ "单位": "件",
+ "可售总量": null,
+ "已售": 0,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01YH4ohy1aPWrzE2U60_!!2220032783322-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01pMo7Lq1aPWrzXcjHV_!!2220032783322-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01EYooDl1aPWrzE2gZv_!!2220032783322-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01FGUPIb1aPWrz2hLKH_!!2220032783322-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01uXmWGd1aPWrzHzXbn_!!2220032783322-0-cib.jpg"
+ ],
+ "商品属性": [
+  "材质:涤纶（聚酯纤维）",
+  "品牌:其他",
+  "产品类别:宠物窝",
+  "产地:浙江",
+  "是否进口:否",
+  "是否专利货源:否",
+  "颜色:灰色",
+  "是否跨境出口专供货源:否",
+  "是否属于礼品:否",
+  "是否IP授权:否",
+  "适用季节:四季通用",
+  "使用场景:室内"
+ ],
+ "包装信息": null,
+ "url": "https://detail.1688.com/offer/1070106776180.html",
+ "核页时间": "2026-10-08T13:37:31.181Z"
+}

@@ -1,0 +1,93 @@
+{
+ "offerId": "1050355577808",
+ "条目": "T0116",
+ "block": false,
+ "卖家公司": "曹县硕涛工艺品厂（个体工商户）",
+ "旺旺名": "曹县硕涛工艺品",
+ "标题": "木质可调节猫抓板猫窝一体耐磨不易掉屑实木猫抓垫猫咪防抓沙发板",
+ "状态": "PUBLISHED",
+ "类目": "猫抓板",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "颜色",
+   "值": [
+    "原木色"
+   ]
+  },
+  {
+   "属性": "规格",
+   "值": [
+    "如图"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "原木色&gt;如图",
+   "价格": null,
+   "库存": 58700
+  }
+ ],
+ "规格图": [
+  [
+   "原木色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01c4ycLy1x9FxbCKMkO_!!2220637756400-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "rangePrice",
+ "价格区间": null,
+ "阶梯价_登录后": [
+  {
+   "price": "39.00",
+   "beginAmount": 200
+  },
+  {
+   "price": "38.00",
+   "beginAmount": 500
+  },
+  {
+   "price": "37.00",
+   "beginAmount": 1000
+  }
+ ],
+ "到手价": null,
+ "起订量": 200,
+ "单位": "个",
+ "可售总量": 58700,
+ "已售": 0,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01w7vUEj1x9FxWL9eMC_!!2220637756400-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN010ympTE1x9Fxb634ts_!!2220637756400-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01s7trF71x9Fxb7nd7Z_!!2220637756400-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN016lhHUN1x9FxbIuVdX_!!2220637756400-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01LCQfep1x9Fxb7k0ax_!!2220637756400-0-cib.jpg"
+ ],
+ "商品属性": [
+  "材质:木质",
+  "品牌:硕涛",
+  "风格:可爱风",
+  "是否专利货源:否",
+  "是否跨境出口专供货源:是",
+  "主要销售地区:非洲/韩国/北美/东北亚/拉丁美洲",
+  "主要下游平台:京东/亚马逊/wish/快手/LINIO/SHEIN",
+  "货号:猫抓板",
+  "颜色:原木色",
+  "箱装数量:其他",
+  "规格:如图"
+ ],
+ "包装信息": [
+  {
+   "sku2": "如图",
+   "volume": 0,
+   "sku1": "原木色",
+   "length": 0,
+   "width": 0,
+   "weight": 1,
+   "skuId": 6244810338620,
+   "height": 0
+  }
+ ],
+ "url": "https://detail.1688.com/offer/1050355577808.html",
+ "核页时间": "2026-10-08T13:11:51.445Z"
+}
