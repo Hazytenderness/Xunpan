@@ -13,7 +13,7 @@ ap.add_argument('--ids')
 ap.add_argument('--no-push', action='store_true')
 a = ap.parse_args()
 B = Path(a.batch)
-BRANCH = 'claude/claude-github-connection-mtu9fd'
+BRANCH = 'main'
 
 
 def push(msg):

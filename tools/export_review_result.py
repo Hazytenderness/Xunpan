@@ -18,7 +18,7 @@ if '--beijing-hours' in sys.argv:
     hours = {int(h) for h in sys.argv[sys.argv.index('--beijing-hours') + 1].split(',')}
     if datetime.now(timezone(timedelta(hours=8))).hour not in hours:
         sys.exit(0)
-BRANCH = 'claude/claude-github-connection-mtu9fd'
+BRANCH = 'main'
 token = (Path.home() / '.config/xunpan/ataous_review_token').read_text().strip()
 req = urllib.request.Request('https://ataous.com/api/jp/review-feed',
                              headers={'Authorization': f'Bearer {token}', 'User-Agent': 'xunpan-review-export'})

@@ -1,6 +1,6 @@
 # Xunpan 1688 询盘 · Mac mini 主控说明
 
-这份说明给跑在 Mac mini 上的 Claude Code 会话用。从现在起，询盘的整条流程都在这台机器上完成：发送、读回复、整理报价、追问、A/B 对比、出报告。仓库 `Hazytenderness/Xunpan`（分支 `claude/claude-github-connection-mtu9fd`）是唯一的记录本，每完成一步都提交并推送。
+这份说明给跑在 Mac mini 上的 Claude Code 会话用。从现在起，询盘的整条流程都在这台机器上完成：发送、读回复、整理报价、追问、A/B 对比、出报告。仓库 `Hazytenderness/Xunpan`（分支 `main`，10/8 起；旧分支 claude/claude-github-connection-mtu9fd 已合并停用）是唯一的记录本，每完成一步都提交并推送。
 
 ## 0. 每次开始前
 
