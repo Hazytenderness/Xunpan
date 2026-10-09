@@ -17,7 +17,6 @@ sys.path.insert(0, str(Path(__file__).resolve().parents[1] / 'lib'))
 from base import ROOT, BATCHES, CACHE, batch_dirs, load_queue, save_queue, now_bj
 
 SITE = Path.home() / 'ClaudeP/06_VibeCoding/ataous/ataous-site-night'  # 夜间任务的网站副本，货源候选和匹配度最新
-ACCOUNT = 'f451a19a9c22c7472e8c23bd4ca272d5'  # ataous-data 桶所在的 Cloudflare 账户（不是凭据）
 B = BATCHES / '补资料'
 TEXT = '{产品}单品包装尺寸多少（长宽高）、重量多少，500 个什么价？'
 PER_PRODUCT, ACTIVE_HOURS = 2, 72
@@ -30,10 +29,11 @@ a = ap.parse_args()
 
 purchase = Path(a.purchase) if a.purchase else CACHE / 'purchase.json'
 if not a.purchase:
-    r = subprocess.run(['npx', 'wrangler', 'r2', 'object', 'get', 'ataous-data/jp/宠物/purchase.json', '--remote', '--file', str(purchase)],
-                       cwd=SITE, env={**__import__('os').environ, 'CLOUDFLARE_ACCOUNT_ID': ACCOUNT}, capture_output=True, text=True, stdin=subprocess.DEVNULL)
+    # 10-09 起网站把选品记录分 16 片存，旧的整份 purchase.json 不再更新：用 拉记录.py 拼回整份
+    r = subprocess.run([sys.executable, str(Path(__file__).resolve().parents[1] / '拉记录.py'), 'jp', str(purchase)],
+                       cwd=SITE, capture_output=True, text=True, stdin=subprocess.DEVNULL)
     if r.returncode or not purchase.exists() or purchase.stat().st_size < 1000:
-        sys.exit('读线上 purchase.json 失败：' + (r.stderr or r.stdout)[-300:])
+        sys.exit('读线上选品记录失败：' + (r.stderr or r.stdout)[-300:])
 todo = json.loads(subprocess.run(['node', str(Path(__file__).parent / '待补款.mjs'), str(SITE), str(purchase)],
                                  check=True, capture_output=True, text=True).stdout)
 

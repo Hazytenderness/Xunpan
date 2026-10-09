@@ -7,7 +7,7 @@
 set -u
 export PATH=/opt/homebrew/bin:$HOME/.local/bin:/usr/bin:/bin:/usr/sbin:/sbin
 X=$HOME/ClaudeP/Xunpan; SITE=$HOME/ClaudeP/06_VibeCoding/ataous/ataous-site-night; C=$HOME/.cache/xunpan
-T=$X/tools/夜间; ACCOUNT=f451a19a9c22c7472e8c23bd4ca272d5
+T=$X/tools/夜间
 H=$(TZ=Asia/Shanghai date +%-H); D=$(TZ=Asia/Shanghai date +%F)
 [[ ${1:-} == now || $H == 19 ]] || exit 0
 [[ -e $C/night_$D ]] && exit 0
@@ -27,8 +27,8 @@ ai() { claude -p "$1" --allowedTools "Read" "Write" "Bash(python3:*)" "Bash(curl
 
 git -C $SITE pull -q --rebase || { notify "⚠ 夜间任务没跑：网站夜间副本 git pull 失败"; exit 1; }
 git -C $X pull -q --rebase --autostash || echo "询盘仓库 pull 失败，接着用本地"
-(cd $SITE && CLOUDFLARE_ACCOUNT_ID=$ACCOUNT npx wrangler r2 object get "ataous-data/jp/宠物/purchase.json" --remote --file $W/purchase.json >/dev/null 2>&1)
-[[ -s $W/purchase.json ]] || { notify "⚠ 夜间任务没跑：读不到线上 purchase.json"; exit 1; }
+# 10-09 起网站把选品记录分 16 片存，旧的整份 purchase.json 不再更新：用 拉记录.py 拼回整份
+(cd $SITE && python3 $X/tools/拉记录.py jp $W/purchase.json >/dev/null 2>&1) && [[ -s $W/purchase.json ]] || { notify "⚠ 夜间任务没跑：读不到线上选品记录"; exit 1; }
 
 # 另一个会话在跑的款：询盘仓库里非夜间、非补资料、36 小时内改过的批次，和供应商匹配里 36 小时内改过的非夜间批次
 busy() { python3 - "$1" <<'EOF'
