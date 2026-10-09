@@ -1,7 +1,7 @@
 #!/bin/zsh
 # 补资料定时任务入口（launchd 调用）。本机在美东，launchd 在冬夏令时两个可能的本地钟点都唤醒，这里按北京时间放行。
 #   每日.sh send 9      北京 9 点：建当天队列 → run.py 先发其他批次没发完的、再发补资料，到 18:00 或遇错停
-#   每日.sh read 9,…,17 北京 9:00–18:00 每 10 分钟：扫消息列表，有新回复才 claude -p 读、记报价、回商家、推网站；17:50 后推日报
+#   每日.sh read 9,…,18 北京 9:00–18:00 每 10 分钟：扫消息列表，有新回复才 claude -p 读、记报价、回商家、推网站；18 点那轮只发日报
 # 跑完把结果推给用户（微信，失败走飞书）。日志：~/Library/Logs/xunpan-buziliao.log
 set -u
 export PATH=/opt/homebrew/bin:$HOME/.local/bin:/usr/bin:/bin:/usr/sbin:/sbin
@@ -27,16 +27,20 @@ if [[ $mode == send ]]; then
     o=$(python3 tools/run.py $b 2>&1); rc=$?; out+=$'\n'"$o"; echo $o
     [[ $rc != 0 ]] && break
   done
-  n=$(grep -c " 成功$" <<< "$out")
-  msg="补资料 $D 发询盘 ${n} 家。排队情况：$(head -1 <<< "$plan")"
-  [[ $rc == 3 ]] && msg="⚠ 补资料发送停了，需要你看一下 1688（滑块、验证或聊天断线）：$(grep '停止' <<< "$out" | tail -1)
-$msg"
-  notify "$msg"
+  # 正常收工不发群（数字进 18 点后的日报）；停了才推一句【用户定·10/9】
+  if [[ $rc == 3 ]]; then
+    why=$(grep '停止：' <<< "$out" | tail -1 | python3 -c "import sys,json;s=sys.stdin.read();d=json.loads(s[s.index('{'):]) if '{' in s else {};print((d.get('结果') or d.get('错误') or '原因见日志').replace('停止:',''))")
+    notify "⚠ 发询盘停了（$(TZ=Asia/Shanghai date +%H:%M)）：$why。今天已发 $(grep -c " 成功$" <<< "$out") 家，需要你看一下 1688"
+  fi
 elif [[ $mode == read ]]; then
   # 每 10 分钟由 launchd 唤醒：先纯脚本扫一次消息列表，有新回复才启动 AI；上一轮还没跑完就跳过
   mkdir $C/buziliao_read.lock 2>/dev/null || exit 0
   trap 'rmdir $C/buziliao_read.lock' EXIT
-  day=$C/buziliao_day_$D.txt
+  # 北京 18 点那一轮只发当天日报（一天一次），不再扫描
+  if [[ $H == 18 ]]; then
+    [[ -e $C/buziliao_daily_$D ]] || { touch $C/buziliao_daily_$D; notify "$(python3 tools/补资料/日报.py daily)"; }
+    exit 0
+  fi
   scan=$(python3 tools/watch.py 0.01 2>&1)
   if grep -q "停止" <<< "$scan"; then
     [[ -e $C/buziliao_scanstop_$D ]] || { touch $C/buziliao_scanstop_$D; notify "⚠ 读回复扫消息列表停了，需要你看一下 1688：$(grep 停止 <<< "$scan" | tail -1)"; }
@@ -49,25 +53,21 @@ elif [[ $mode == read ]]; then
     claude -p "$(cat tools/补资料/读回复提示词.md)
 
 本次扫到的新回复：
-$(grep '^新回复|' <<< "$scan")" \
+$(grep '^新回复|' <<< "$scan")
+
+今天已经报过的「要你定」（不要再报）：
+$(python3 tools/补资料/日报.py asked)" \
       --allowedTools "Bash(python3:*)" "Bash(TZ=Asia/Shanghai date:*)" "Read" \
       < /dev/null > $C/buziliao_read.out 2> $C/buziliao_read.err
     rc=$?; cat $C/buziliao_read.out; [[ -s $C/buziliao_read.err ]] && tail -5 $C/buziliao_read.err
     # 提交这次有回复的条目所在批次（只提交这些目录，别的会话没提交的批次不碰）
     dirs=($(python3 -c "import sys;sys.path.insert(0,'tools/lib');from base import find;print(' '.join(sorted({str(find(l.split('|')[1])[0].relative_to('$X')) for l in sys.stdin if l.startswith('新回复|')})))" <<< "$scan"))
     (( ${#dirs} )) && git add $dirs && git commit -q -m "补资料读回复 $(TZ=Asia/Shanghai date '+%F %H:%M')" -- $dirs && { git pull -q --rebase --autostash; git push -q; }
-    if [[ $rc != 0 || ! -s $C/buziliao_read.out ]]; then notify "⚠ 补资料读回复没跑成（rc=$rc）：$(tail -c 300 $C/buziliao_read.err)"
+    if [[ $rc != 0 || ! -s $C/buziliao_read.out ]]; then notify "⚠ 读回复没跑成（$(TZ=Asia/Shanghai date +%H:%M)），原因在日志 xunpan-buziliao.log"
     else
-      { echo "【$(TZ=Asia/Shanghai date +%H:%M)】"; cat $C/buziliao_read.out; } >> $day
-      # 只在停了或要用户处理时立刻推；其余攒进日报
-      if grep -q "⚠" $C/buziliao_read.out; then notify "$(cat $C/buziliao_read.out)"
-      elif grep "需要你处理" $C/buziliao_read.out | grep -qv "需要你处理：无"; then notify "补资料读回复 $(TZ=Asia/Shanghai date +%H:%M)：
-$(cat $C/buziliao_read.out)"; fi
+      # 累加当天统计；只把「停了」和新出现的「要你定」当场推，其余进 18 点日报
+      now=$(python3 tools/补资料/日报.py round $C/buziliao_read.out)
+      [[ -n $now ]] && notify "$now"
     fi
-  fi
-  # 北京 17:50 以后那一轮推当天日报（一天一次）
-  if [[ $(TZ=Asia/Shanghai date +%H%M) -ge 1750 && ! -e $C/buziliao_daily_$D ]]; then
-    touch $C/buziliao_daily_$D
-    notify "补资料读回复日报 $D：$([[ -s $day ]] && cat $day || echo 今天没有新回复)"
   fi
 fi
