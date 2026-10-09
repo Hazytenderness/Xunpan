@@ -38,9 +38,9 @@ def pts(v):
     return f'{v * 100:.1f}%' if v is not None else '—'
 
 
-def evaluate(items, site):
+def evaluate(items, site, 站='jp'):
     payload = json.dumps([{k: v for k, v in i.items() if not k.startswith('_')} for i in items], ensure_ascii=False)
-    res = subprocess.run(['node', str(Path(__file__).with_name('site_eval.mjs')), str(site)], input=payload,
+    res = subprocess.run(['node', str(Path(__file__).with_name('site_eval.mjs')), str(site), 站], input=payload,
                          capture_output=True, text=True, check=True)
     return json.loads(res.stdout)
 
@@ -87,8 +87,8 @@ def judge(item, ev):
     return '需判断', ''
 
 
-def triage(items, site=SITE):
-    evs = evaluate(items, site)
+def triage(items, site=SITE, 站='jp'):
+    evs = evaluate(items, site, 站)
     out = []
     for item, ev in zip(items, evs):
         action, reason = judge(item, ev)

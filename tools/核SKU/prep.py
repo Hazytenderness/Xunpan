@@ -11,7 +11,7 @@ lst = lambda v: ast.literal_eval(v) if isinstance(v, str) and v.startswith('[') 
 jobs, rows = [], []
 for 序 in ids:
     x = P[序]; ms = x.get('市场快照') or {}
-    item = {'序': 序, 'asin': x['asin'], '亚马逊标题': x['名'], '类目': x.get('类'), '日元价': ms.get('日元价'), 'FBA日元': ms.get('FBA日元'),
+    item = {'序': 序, 'asin': x['asin'], '亚马逊标题': x['名'], '类目': x.get('类'), **({'站': 'au', '澳元价': ms.get('澳元价'), 'FBA澳元': ms.get('FBA澳元')} if x.get('站') == 'au' else {'日元价': ms.get('日元价'), 'FBA日元': ms.get('FBA日元')}),
             '亚马逊图': f'img/amazon_{序}.jpg', '候选': []}
     if x.get('图'): jobs.append((x['图'], out / 'img' / f'amazon_{序}.jpg'))
     for e in q:

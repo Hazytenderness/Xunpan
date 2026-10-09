@@ -4,9 +4,13 @@ import json, glob, os, shutil, sys
 from pathlib import Path
 S = Path(os.environ['XUNPAN_WORK']); B = Path(sys.argv[1]); (B / 'pages').mkdir(parents=True, exist_ok=True)
 P = json.load(open(S / 'products.json'))
+站 = 'au' if any(x.get('站') == 'au' for x in P) else 'jp'  # 取款.mjs 带 au 时商品带 站:'au'
 done = set()
 for f in glob.glob('batches/*/review_feed.json'):
-    for i in json.load(open(f))['条目']:
+    feed = json.load(open(f))
+    if feed.get('站', 'jp') != 站:  # 两站编号会撞号，只和同站点的旧批次去重
+        continue
+    for i in feed['条目']:
         done.add((int(i['序']), str(i['候选ID'])))
 for k, r in json.load(open(S / 'purchase.json'))['行'].items():
     for e in (r.get('复核') or {}).values():
@@ -22,7 +26,7 @@ for x in P:
                               '供应商_站点记录': c.get('供应商'), '对应款': []})
         e['对应款'].append({'序': x['序'], 'asin': x['asin'], '日文名': x['名'], '细类': x.get('细类'), '规格': '', '数量': None,
                           '候选排名': (c.get('推荐') or {}).get('排名')})
-q = [{'id': f'H{n:04d}', '类目': e['对应款'][0]['细类'], '组': None, **e, 'r1_text': None, 'r2_text': None, '状态': '待核页', '备注': ''}
+q = [{'id': f'H{n:04d}', '站': 站, '类目': e['对应款'][0]['细类'], '组': None, **e, 'r1_text': None, 'r2_text': None, '状态': '待核页', '备注': ''}
      for n, (o, e) in enumerate(by.items(), 1)]
 (B / 'queue.json').write_text(json.dumps(q, ensure_ascii=False, indent=1))
 reuse = 0
@@ -30,4 +34,4 @@ for f in glob.glob('batches/*/pages/*.json'):
     o = Path(f).stem
     if o in by and not (B / 'pages' / f'{o}.json').exists():
         shutil.copy(f, B / 'pages' / f'{o}.json'); reuse += 1
-print('商品页', len(q), '款×商品', sum(len(e['对应款']) for e in q), '款', len({k['序'] for e in q for k in e['对应款']}), '复用页', reuse)
+print('站点', 站, '商品页', len(q), '款×商品', sum(len(e['对应款']) for e in q), '款', len({k['序'] for e in q for k in e['对应款']}), '复用页', reuse)

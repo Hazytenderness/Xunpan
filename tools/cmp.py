@@ -15,8 +15,9 @@ B, x = find(a.key)
 out = CACHE / 'img' / x['id']
 out.mkdir(parents=True, exist_ok=True)
 js = 'const fs=require("fs"),c={};c.window=c;require("vm").runInNewContext(fs.readFileSync(process.argv[1],"utf8"),c);' \
-     'process.stdout.write(JSON.stringify(Object.fromEntries(c.DECK.map(d=>[d.序,d.图||""]))))'
-pics = json.loads(subprocess.run(['node', '-e', js, f'{a.site}/build/js/products.js'], capture_output=True, text=True).stdout)
+     'process.stdout.write(JSON.stringify(Object.fromEntries((c.DECK_AU||c.DECK).map(d=>[d.序,d.图||""]))))'
+deck = 'products-au.js' if x.get('站') == 'au' else 'products.js'  # 两站编号会撞号，按条目记的站点取图
+pics = json.loads(subprocess.run(['node', '-e', js, f'{a.site}/build/js/{deck}'], capture_output=True, text=True).stdout)
 
 
 def get(src, name):

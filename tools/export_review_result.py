@@ -20,10 +20,15 @@ if '--beijing-hours' in sys.argv:
         sys.exit(0)
 BRANCH = 'main'
 token = (Path.home() / '.config/xunpan/ataous_review_token').read_text().strip()
-req = urllib.request.Request('https://ataous.com/api/jp/review-feed',
-                             headers={'Authorization': f'Bearer {token}', 'User-Agent': 'xunpan-review-export'})
-with urllib.request.urlopen(req, timeout=60) as r:
-    data = json.loads(r.read())
+# 两站都导出（澳洲 10-09 起）；澳洲条目带 站:au，日本站条目格式不变
+data = {'条数': 0, '条目': []}
+for 站 in ('jp', 'au'):
+    req = urllib.request.Request(f'https://ataous.com/api/{站}/review-feed',
+                                 headers={'Authorization': f'Bearer {token}', 'User-Agent': 'xunpan-review-export'})
+    with urllib.request.urlopen(req, timeout=60) as r:
+        part = json.loads(r.read())
+    data['条数'] += part['条数']
+    data['条目'] += [dict(e, 站=站) if 站 == 'au' else e for e in part['条目']]
 
 
 def git(*args):
@@ -34,7 +39,7 @@ push = '--no-push' not in sys.argv
 if push:
     git('pull', '-q', '--rebase', '--autostash', 'origin', BRANCH)  # 别的会话没提交的改动不挡导出（10-09 补资料队列未提交致 12:02 失败）
 
-keep = ['id', '序', '候选ID', '供应商', '字段', '状态', '原值', '新值', '采纳值', '依据', '证据', '来源', '采集时间',
+keep = ['站', 'id', '序', '候选ID', '供应商', '字段', '状态', '原值', '新值', '采纳值', '依据', '证据', '来源', '采集时间',
         '导入时间', '处理人', '处理时间']
 groups = defaultdict(list)
 for e in data['条目']:

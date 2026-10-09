@@ -18,18 +18,20 @@ from pathlib import Path
 
 ap = argparse.ArgumentParser()
 ap.add_argument('batch')
-ap.add_argument('--candidates', help='缺省时直接读 ataous 站点的 products.js')
+ap.add_argument('--candidates', help='缺省时直接读 ataous 站点的 products.js（澳洲站读 products-au.js）')
+ap.add_argument('--站', choices=['jp', 'au'], help='缺省按 queue.json 里记的站点（建批次.py 写入），旧批次没有记就是日本站')
 ap.add_argument('--site', default=str(Path.home() / 'ClaudeP/06_VibeCoding/ataous/ataous-site'), help='ataous 站点目录，用它的公式做 AI 预判')
 args = ap.parse_args()
 
 B = Path(args.batch)
 queue = json.loads((B / 'queue.json').read_text())
+站 = args.站 or next((x.get('站') for x in queue if x.get('站')), 'jp')
 if args.candidates:
     raw = json.loads(Path(args.candidates).read_text())
 else:
     import subprocess
-    site = Path(args.site) / 'build/js/products.js'
-    js = "globalThis.window=globalThis;require(process.argv[1]);const fs=require('fs'),src=process.argv[1].replace(/products\\.js$/,'products-sources.js');if(fs.existsSync(src))require(src);const o={};for(const x of DECK){const c=x.货源候选||(globalThis.DECK_SOURCES||{})[x.序];if(c)o[x.序]=c.map(c=>({候选ID:String(c.候选ID)}));}process.stdout.write(JSON.stringify(o))"
+    site = Path(args.site) / 'build/js' / ('products-au.js' if 站 == 'au' else 'products.js')
+    js = "globalThis.window=globalThis;require(process.argv[1]);const fs=require('fs'),src=process.argv[1].replace(/products\\.js$/,'products-sources.js');if(fs.existsSync(src))require(src);const o={};for(const x of (globalThis.DECK_AU||DECK)){const c=x.货源候选||(globalThis.DECK_SOURCES||{})[x.序];if(c)o[x.序]=c.map(c=>({候选ID:String(c.候选ID)}));}process.stdout.write(JSON.stringify(o))"
     raw = json.loads(subprocess.run(['node', '-e', js, str(site)], check=True, capture_output=True, text=True).stdout)
 candidates = {int(k): {c['候选ID'] for c in v} for k, v in raw.items()}
 match = {(m['id'], m['序'], m['offerId']): m for m in json.loads((B / '核页规格匹配.json').read_text())}
@@ -129,8 +131,8 @@ for x in queue:
 
 sys.path.insert(0, str(Path(__file__).parent))
 from review_triage import triage
-items = triage(items, Path(args.site))
-feed = {'批次': batch_name, '来源': '询盘与核页', '生成时间': max((i['采集时间'] for i in items), default=''), '条目': items}
+items = triage(items, Path(args.site), 站)
+feed = {'批次': batch_name, '站': 站, '来源': '询盘与核页', '生成时间': max((i['采集时间'] for i in items), default=''), '条目': items}
 out = B / 'review_feed.json'
 out.write_text(json.dumps(feed, ensure_ascii=False, indent=1))
 from collections import Counter

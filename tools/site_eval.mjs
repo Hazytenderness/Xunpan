@@ -1,15 +1,16 @@
 // 用 ATAO 运营台同一套公式评估复核条目：当前值、采纳前后的单价成本、利润率和计费重。
-// 用法：node tools/site_eval.mjs <站点目录> < 条目.json > 结果.json
+// 用法：node tools/site_eval.mjs <站点目录> [jp|au] < 条目.json > 结果.json（au＝按澳洲目录和澳洲利润口径）
 import fs from 'node:fs';
 import vm from 'node:vm';
 import path from 'node:path';
 
-const site = process.argv[2];
+const site = process.argv[2], au = process.argv[3] === 'au';
 const ctx = vm.createContext({ URL, console });
 ctx.window = ctx;
 const js = f => path.join(site, 'build/js', f);
-vm.runInContext(fs.readFileSync(js('products.js'), 'utf8'), ctx);
-if (fs.existsSync(js('products-sources.js'))) {
+vm.runInContext(fs.readFileSync(js(au ? 'products-au.js' : 'products.js'), 'utf8'), ctx);
+if (au) ctx.DECK = ctx.DECK_AU;
+else if (fs.existsSync(js('products-sources.js'))) {
   vm.runInContext(fs.readFileSync(js('products-sources.js'), 'utf8'), ctx);
   for (const x of ctx.DECK) if (!x.货源候选 && ctx.DECK_SOURCES?.[x.序]) x.货源候选 = ctx.DECK_SOURCES[x.序];
 }
