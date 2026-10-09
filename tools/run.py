@@ -14,6 +14,7 @@ ap.add_argument('--no-push', action='store_true')
 a = ap.parse_args()
 B = Path(a.batch)
 BRANCH = 'main'
+ASK = '图上这款有吗？'
 SITE_JS = Path.home() / 'ClaudeP/06_VibeCoding/ataous/ataous-site-night/build/js'  # 网站夜间副本，每款都存了亚马逊主图
 
 
@@ -61,6 +62,9 @@ for n, lid in enumerate(order):
     if x['状态'] != '待发R1':
         continue
     job = {'ww': x['旺旺名'], 'offerId': x['商品'][0]['offerId'], 'text': x['r1_text']}
+    if not x['r1_text'].startswith(ASK):  # 先问图上这款有没有，再问价和包装【用户定·10/9】
+        x['r1_text'] = job['text'] = ASK + x['r1_text']
+        save_queue(B, q)
     if not x.get('图已发'):
         job['img'] = main_image(x['对应款'][0]['asin'])
         if not job['img']:

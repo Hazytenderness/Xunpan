@@ -142,6 +142,16 @@ if [[ -s $W/appended.json && $(<$W/appended.json) != "[]" ]]; then
   else git -C $SITE checkout -- build/js; say "⚠ 新旧合并没通过保护核对，今晚网站改动全部撤回：$(head -3 $W/protect3.txt 2>/dev/null)"; fi
 fi
 
+# ---------- 2c 询盘确认的款式写进匹配度：商家看图说有且关键规格确认＝完全匹配，没有或不是＝不匹配【用户定·10/9】----------
+QD=$(cd $X && python3 tools/补资料/询盘匹配度.py $W)
+if [[ -n $QD ]]; then
+  python3 -c "import json;json.dump(sorted({x['序'] for x in json.load(open('$QD/核页规格匹配.json'))}),open('$W/confirm_ids.json','w'))"
+  node $T/保护核对.mjs snap $SITE $W/before_confirm.json >/dev/null
+  if (cd $SITE && node scripts/import-match.mjs $QD --apply > $W/confirm.out) && node $T/保护核对.mjs diff $SITE $W/before_confirm.json $W/confirm_ids.json 货源候选 > $W/protect4.txt; then
+    CHK+="${CHK:+；}询盘确认改匹配度 $(grep -o '写入 [0-9]* 家（[0-9]* 款）' $W/confirm.out)"
+  else git -C $SITE checkout -- build/js; say "⚠ 询盘确认的匹配度没通过保护核对，今晚网站改动全部撤回：$(head -3 $W/protect4.txt 2>/dev/null)"; fi
+fi
+
 # ---------- 3 上线 ----------
 cd $SITE
 if git diff --quiet build/js; then :
