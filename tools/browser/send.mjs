@@ -29,16 +29,17 @@ const s0 = await state();
 if (!s0) await stop("找不到聊天输入框");
 out.打开时 = { 页头: s0.hd, 对方昵称: s0.nicks, 我方条数: s0.mine.length };
 if (!s0.ok) await stop("收件人对不上");
-if (s0.box.trim()) await stop("输入框原本有内容");
+const norm = (x) => (x || "").replace(/\r/g, "").trim();
+// 输入框里正好是这条话术＝上次断线没发出去的草稿，直接核对后发送；别的内容照旧停下
+const draft = norm(s0.box) === norm(job.text);
+if (s0.box.trim() && !draft) await stop("输入框原本有内容");
 if (job.dry) await done({ ...out, 结果: "演练通过" });
 const snap0 = await chat.snapshot();
 const ed = snap0.match(/text "请输入消息[^"]*"\s*\n\s*container \[ref=(\d+)\]/);
 if (!ed) await stop("找不到输入框位置");
-await chat.click("@" + ed[1], { label: "点击输入框" });
-await chat.keyboard.paste(job.text);
+if (!draft) { await chat.click("@" + ed[1], { label: "点击输入框" }); await chat.keyboard.paste(job.text); }
 await chat.waitForTimeout(1000);
 const s1 = await state();
-const norm = (x) => (x || "").replace(/\r/g, "").trim();
 out.核对 = { 收件人: s1.ok, 内容一致: norm(s1.box) === norm(job.text), 未误发: s1.mine.length === s0.mine.length };
 if (!out.核对.收件人 || !out.核对.内容一致 || !out.核对.未误发) await stop("发送前核对不通过");
 const snap = await chat.snapshot();

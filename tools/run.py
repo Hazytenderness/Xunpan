@@ -46,7 +46,15 @@ for n, lid in enumerate(order):
     x = next(i for i in q if i['id'] == lid)
     if x['状态'] != '待发R1':
         continue
-    r = browser('send.mjs', {'ww': x['旺旺名'], 'offerId': x['商品'][0]['offerId'], 'text': x['r1_text']}, sending=True) or {'结果': '无结果'}
+    job = {'ww': x['旺旺名'], 'offerId': x['商品'][0]['offerId'], 'text': x['r1_text']}
+    r = browser('send.mjs', job, sending=True) or {'结果': '无结果'}
+    # 1688 聊天临时断线（点此重连）不算风控：等 5、10、15 分钟各重试一次，还断才停【用户定·10/9】
+    for k in (1, 2, 3):
+        if '聊天连接断开' not in str(r.get('结果')) or not in_work_hours():
+            break
+        print(f'{now_bj():%H:%M:%S} {lid} 聊天断线，{5 * k} 分钟后重试', flush=True)
+        time.sleep(300 * k)
+        r = browser('send.mjs', job, sending=True) or {'结果': '无结果'}
     print(f"{now_bj():%H:%M:%S} {lid} {x['组']} {x['旺旺名']} {r.get('结果')}", flush=True)
     if r.get('结果') != '成功':
         print('停止：' + json.dumps(r, ensure_ascii=False), flush=True)
