@@ -1,5 +1,5 @@
-// 发一条消息：job = {ww, offerId, text, dry}
-// 打开聊天 → 核对收件人 → 粘贴 → 核对内容一字不差、没有误发 → 点「发送」→ 核对我方只多 1 条
+// 发一条消息：job = {ww, offerId, text, dry, img?}
+// 打开聊天 → 核对收件人 →（有 img 先发图，核对我方只多 1 条图片）→ 粘贴 → 核对内容一字不差、没有误发 → 点「发送」→ 核对我方只多 1 条
 const chat = await pageFor("p1");
 const out = { ww: job.ww, offerId: job.offerId };
 const stop = (why) => done({ ...out, 结果: "停止:" + why });
@@ -34,6 +34,17 @@ const norm = (x) => (x || "").replace(/\r/g, "").trim();
 const draft = norm(s0.box) === norm(job.text);
 if (s0.box.trim() && !draft) await stop("输入框原本有内容");
 if (job.dry) await done({ ...out, 结果: "演练通过" });
+// 带图（job.img＝本地图片路径）：先发图再发字。1688 选完图就直接发出，不出预览【用户定·10/9】
+if (job.img && !draft) {
+  await chat.setInputFiles("input[type=file][accept='image/*']", [job.img]);
+  await chat.waitForFunction((n) => [...document.querySelectorAll("iframe")].some(f => { try {
+    const m = [...f.contentDocument.querySelectorAll(".message-item.self")]; return m.length === n + 1 && !!m[n].querySelector(".content img");
+  } catch { return false; } }), s0.mine.length, { timeout: 30000 }).catch(() => {});
+  const si = await state();
+  out.图已发 = si.mine.length === s0.mine.length + 1;
+  if (!out.图已发) await stop("图片没发出去（我方新增 " + (si.mine.length - s0.mine.length) + " 条）");
+  s0.mine = si.mine;
+}
 const snap0 = await chat.snapshot();
 const ed = snap0.match(/text "请输入消息[^"]*"\s*\n\s*container \[ref=(\d+)\]/);
 if (!ed) await stop("找不到输入框位置");
