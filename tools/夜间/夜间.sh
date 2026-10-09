@@ -84,9 +84,14 @@ $(cat $W/need-kw.txt)"
   node $T/保护核对.mjs snap $SITE $W/before_src.json >/dev/null
   # 已有候选的款不整组替换，新候选先追加、核完 SKU 再挑 3 家【用户定·10/8】
   if (cd $SITE && node scripts/night-candidates.mjs append $FB/seeds.json $W/appended.json > $W/append.out) && node $T/保护核对.mjs diff $SITE $W/before_src.json $W/source_ids.json 参考成本,参考成本说明,货源候选,图搜记录 > $W/protect1.txt; then
-    python3 - $LEDGER $W/source_ids.json <<'EOF'
+    python3 - $LEDGER $FB <<'EOF'
+# 找到的记日期（14 天内不重找）；主图和文字都搜不到的记「跳过」，以后不再找【用户定·10/9】（「跳过」排在任何日期之后，取款时自然被筛掉）
 import json, sys, datetime
-led = json.load(open(sys.argv[1])); led.update({str(s): datetime.date.today().isoformat() for s in json.load(open(sys.argv[2]))})
+from pathlib import Path
+led, B = json.load(open(sys.argv[1])), Path(sys.argv[2])
+none = {a for a, v in json.loads((B / 'seeds.json').read_text()).items() if v.get('图搜无结果')}
+for x in json.loads((B / '任务清单.json').read_text()):
+    led[str(x['序'])] = '跳过' if x['asin'] in none else datetime.date.today().isoformat()
 json.dump(led, open(sys.argv[1], 'w'), ensure_ascii=False, indent=0)
 EOF
   else
