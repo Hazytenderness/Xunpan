@@ -1,0 +1,120 @@
+{
+ "offerId": "1063815572708",
+ "条目": "H0031",
+ "block": false,
+ "卖家公司": "义乌市梓唐电子商务商行",
+ "旺旺名": "梓唐电子",
+ "标题": "万圣节派对装饰挂饰弹性蜘蛛网编织诡异纱布，适用于派对鬼屋装饰",
+ "状态": "PUBLISHED",
+ "类目": "万圣节布置摆件",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "颜色",
+   "值": [
+    "万圣节黑纱",
+    "万圣节白纱",
+    "万圣节红白纱"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "万圣节红白纱",
+   "价格": "3.70",
+   "库存": 5395
+  },
+  {
+   "规格": "万圣节白纱",
+   "价格": "3.70",
+   "库存": 5395
+  },
+  {
+   "规格": "万圣节黑纱",
+   "价格": "3.70",
+   "库存": 5390
+  }
+ ],
+ "规格图": [
+  [
+   "万圣节黑纱",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01gwGc8O1htwUWDMsU8_!!2217192994336-0-cib.jpg"
+  ],
+  [
+   "万圣节白纱",
+   "https://cbu01.alicdn.com/img/ibank/O1CN019kwd351htwUWDOUKA_!!2217192994336-0-cib.jpg"
+  ],
+  [
+   "万圣节红白纱",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01IhkK5j1htwUW8MM93_!!2217192994336-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "skuPrice",
+ "价格区间": null,
+ "阶梯价_登录后": [
+  {
+   "price": "3.70",
+   "beginAmount": 2
+  }
+ ],
+ "到手价": null,
+ "起订量": 2,
+ "单位": "件",
+ "可售总量": 16180,
+ "已售": 83,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01WQqJ9s1htwUWOUqiq_!!2217192994336-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01ZOHadf1htwUWdtEqj_!!2217192994336-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01r0YcYj1htwUWduNX3_!!2217192994336-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01hyDava1htwUWD0zUX_!!2217192994336-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01l89uGF1htwUWNTM3i_!!2217192994336-0-cib.jpg"
+ ],
+ "商品属性": [
+  "材质:pet",
+  "品牌:无",
+  "风格:万圣节风",
+  "货号:2606305",
+  "是否专利货源:否",
+  "加工定制:否",
+  "加印LOGO:不可以",
+  "是否进口:否",
+  "颜色:万圣节黑纱/万圣节白纱/万圣节红白纱",
+  "是否跨境出口专供货源:是",
+  "主要销售地区:非洲/欧洲/南美/东南亚/北美/东北亚/中东",
+  "主要下游平台:ebay/亚马逊/wish/速卖通/独立站/LAZADA",
+  "有可授权的自有品牌:否",
+  "是否属于礼品:否",
+  "是否IP授权:否"
+ ],
+ "包装信息": [
+  {
+   "volume": 0,
+   "sku1": "万圣节黑纱",
+   "length": 0,
+   "width": 0,
+   "weight": 50,
+   "skuId": 6273508967181,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "万圣节白纱",
+   "length": 0,
+   "width": 0,
+   "weight": 50,
+   "skuId": 6273508967182,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "万圣节红白纱",
+   "length": 0,
+   "width": 0,
+   "weight": 50,
+   "skuId": 6273508967183,
+   "height": 0
+  }
+ ],
+ "url": "https://detail.1688.com/offer/1063815572708.html",
+ "核页时间": "2026-10-09T15:14:25.962Z"
+}

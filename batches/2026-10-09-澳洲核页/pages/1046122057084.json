@@ -1,0 +1,120 @@
+{
+ "offerId": "1046122057084",
+ "条目": "H0057",
+ "block": false,
+ "卖家公司": "义乌市钟意纸制品厂",
+ "旺旺名": "钟意like_u",
+ "标题": "简约艺术大师杂志假书摆件马蒂斯毕加索仿真书摆件咖啡桌装饰书模",
+ "状态": "PUBLISHED",
+ "类目": "仿真书工艺品",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "颜色",
+   "值": [
+    "FH-68",
+    "YH-24",
+    "BH-626"
+   ]
+  },
+  {
+   "属性": "规格",
+   "值": [
+    "折叠款（需组装）"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "YH-24&gt;折叠款（需组装）",
+   "价格": "2.40",
+   "库存": 9768
+  },
+  {
+   "规格": "FH-68&gt;折叠款（需组装）",
+   "价格": "2.40",
+   "库存": 9768
+  },
+  {
+   "规格": "BH-626&gt;折叠款（需组装）",
+   "价格": "2.40",
+   "库存": 9768
+  }
+ ],
+ "规格图": [
+  [
+   "FH-68",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01DIDDlB27Uuq6OfJso_!!2211359817801-0-cib.jpg"
+  ],
+  [
+   "YH-24",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01ikSnOO27Uuq7pDPCc_!!2211359817801-0-cib.jpg"
+  ],
+  [
+   "BH-626",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01kYZAq927UumXGgsV0_!!2211359817801-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "rangePrice",
+ "价格区间": "2.30-2.40",
+ "阶梯价_登录后": [
+  {
+   "price": "2.40",
+   "beginAmount": 5
+  },
+  {
+   "price": "2.35",
+   "beginAmount": 50
+  },
+  {
+   "price": "2.30",
+   "beginAmount": 100
+  }
+ ],
+ "到手价": {
+  "价": "2.2",
+  "说明": "新人价",
+  "件数": 5
+ },
+ "起订量": 5,
+ "单位": "本",
+ "可售总量": 29304,
+ "已售": 693,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01QaSl3i27UuqKjTfZi_!!2211359817801-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01gtOZqi27UuqJqAYx2_!!2211359817801-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01qR09FZ27UuqKQ5pys_!!2211359817801-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01WVfivO27UuqK1bOku_!!2211359817801-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01e5Ho3S27UuqKBgMbq_!!2211359817801-0-cib.jpg"
+ ],
+ "商品属性": [
+  "材质:灰板纸",
+  "工艺:半手工半机械",
+  "造型:几何形",
+  "类别:工艺模型",
+  "风格:现代简约",
+  "是否进口:否",
+  "品牌:other/其他",
+  "摆挂形式:摆饰",
+  "包装:普通包装",
+  "产地:浙江",
+  "颜色:FH-68/YH-24/BH-626",
+  "主要下游平台:wish/速卖通/独立站/LAZADA",
+  "主要销售地区:欧洲/东南亚/北美/东北亚",
+  "是否跨境出口专供货源:是",
+  "是否属于礼品:否",
+  "规格:折叠款（需组装）",
+  "是否IP授权:否"
+ ],
+ "包装信息": [
+  {
+   "volume": 390,
+   "length": 37.5,
+   "width": 26,
+   "weight": 120,
+   "height": 0.4
+  }
+ ],
+ "url": "https://detail.1688.com/offer/1046122057084.html",
+ "核页时间": "2026-10-09T15:22:18.685Z"
+}

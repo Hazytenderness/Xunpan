@@ -1,0 +1,413 @@
+{
+ "offerId": "1071800777974",
+ "条目": "H0114",
+ "block": false,
+ "卖家公司": "诸暨市晨途服饰有限公司",
+ "旺旺名": "诸暨市晨途服饰有限公司",
+ "标题": "DIY 新品Coloring Blanket with Markers带记号笔的 DIY 着色毛毯",
+ "状态": "PUBLISHED",
+ "类目": "画纸、画布",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "颜色",
+   "值": [
+    "蘑菇A",
+    "熊B",
+    "蜡笔C",
+    "蝙蝠D",
+    "恐龙E",
+    "花F",
+    "花G",
+    "水果H",
+    "万圣节I",
+    "快乐涂鸦J",
+    "高地牛K",
+    "驼鹿M",
+    "怪物L",
+    "南瓜N",
+    "科幻O",
+    "骨架P",
+    "12色画笔",
+    "24色画笔"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "恐龙E",
+   "价格": "26.00",
+   "库存": 99975
+  },
+  {
+   "规格": "水果H",
+   "价格": "26.00",
+   "库存": 99769
+  },
+  {
+   "规格": "12色画笔",
+   "价格": "3.00",
+   "库存": 99092
+  },
+  {
+   "规格": "蘑菇A",
+   "价格": "26.00",
+   "库存": 99218
+  },
+  {
+   "规格": "万圣节I",
+   "价格": "26.00",
+   "库存": 99823
+  },
+  {
+   "规格": "南瓜N",
+   "价格": "26.00",
+   "库存": 99998
+  },
+  {
+   "规格": "快乐涂鸦J",
+   "价格": "26.00",
+   "库存": 97222
+  },
+  {
+   "规格": "高地牛K",
+   "价格": "26.00",
+   "库存": 99834
+  },
+  {
+   "规格": "蝙蝠D",
+   "价格": "26.00",
+   "库存": 99995
+  },
+  {
+   "规格": "科幻O",
+   "价格": "26.00",
+   "库存": 99986
+  },
+  {
+   "规格": "骨架P",
+   "价格": "26.00",
+   "库存": 99917
+  },
+  {
+   "规格": "熊B",
+   "价格": "26.00",
+   "库存": 99985
+  },
+  {
+   "规格": "花G",
+   "价格": "26.00",
+   "库存": 97941
+  },
+  {
+   "规格": "24色画笔",
+   "价格": "5.00",
+   "库存": 94799
+  },
+  {
+   "规格": "蜡笔C",
+   "价格": "26.00",
+   "库存": 99995
+  },
+  {
+   "规格": "花F",
+   "价格": "26.00",
+   "库存": 99847
+  },
+  {
+   "规格": "怪物L",
+   "价格": "26.00",
+   "库存": 99501
+  },
+  {
+   "规格": "驼鹿M",
+   "价格": "26.00",
+   "库存": 99968
+  }
+ ],
+ "规格图": [
+  [
+   "蘑菇A",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01LEkOMwCnpnC24uCu_!!2220406162376-0-cib.jpg"
+  ],
+  [
+   "熊B",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01u54Jdf950wD24uCu_!!2220406162376-0-cib.jpg"
+  ],
+  [
+   "蜡笔C",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01yd7HZanysCL24uCu_!!2220406162376-0-cib.jpg"
+  ],
+  [
+   "蝙蝠D",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01fU3wJVF8PdH32pKq_!!2220406162376-0-cib.jpg"
+  ],
+  [
+   "恐龙E",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01hMg7ues1RnF24uCu_!!2220406162376-0-cib.jpg"
+  ],
+  [
+   "花F",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01Z9tAzlze6FB24uCu_!!2220406162376-0-cib.jpg"
+  ],
+  [
+   "花G",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01wGKCfYmKpqJ24uCu_!!2220406162376-0-cib.jpg"
+  ],
+  [
+   "水果H",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01a4txjFpyJ3D24uCu_!!2220406162376-0-cib.jpg"
+  ],
+  [
+   "万圣节I",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01Vr4TWYyjv3F3144Q_!!2220406162376-0-cib.jpg"
+  ],
+  [
+   "快乐涂鸦J",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01Yqo5huwJopD24uCu_!!2220406162376-0-cib.jpg"
+  ],
+  [
+   "高地牛K",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01ynlN02iggjH24uCu_!!2220406162376-0-cib.jpg"
+  ],
+  [
+   "驼鹿M",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01T8afIFpZC2B32pKq_!!2220406162376-0-cib.jpg"
+  ],
+  [
+   "怪物L",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01fEAB1xkoomF32pKq_!!2220406162376-0-cib.jpg"
+  ],
+  [
+   "南瓜N",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01rqRbDMS0T2C32pKq_!!2220406162376-0-cib.jpg"
+  ],
+  [
+   "科幻O",
+   "https://cbu01.alicdn.com/img/ibank/O1CN014BsEEhtPBdB32pKq_!!2220406162376-0-cib.jpg"
+  ],
+  [
+   "骨架P",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01IJgWBjxIOrF32pKq_!!2220406162376-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "skuPrice",
+ "价格区间": "3.00-26.00",
+ "阶梯价_登录后": [
+  {
+   "price": "3.00",
+   "beginAmount": 1
+  },
+  {
+   "price": "26.00",
+   "beginAmount": 1
+  }
+ ],
+ "到手价": {
+  "价": "1",
+  "说明": "新人价",
+  "件数": 1
+ },
+ "起订量": 1,
+ "单位": "张",
+ "可售总量": 1786865,
+ "已售": 9702,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN018dvynjq3JqG24uCu_!!2220406162376-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01ptu8wSe8XQE2wmhU_!!2220406162376-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01MyQH2BD7rZG32pKq_!!2220406162376-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01FeYC92pVHCB32pKq_!!2220406162376-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01mRrDZWU3XgB32pKq_!!2220406162376-0-cib.jpg"
+ ],
+ "商品属性": [
+  "产品类别:其他画纸画布",
+  "材质:布",
+  "品牌:其他",
+  "用途:其它",
+  "开本:1",
+  "适合墨水:颜料",
+  "货号:其他",
+  "颜色:蘑菇A/熊B/蜡笔C/蝙蝠D/恐龙E/花F/花G/水果H/万圣节I/快乐涂鸦J/高地牛K/驼鹿M/怪物L/南瓜N/科幻O/骨架P/12色画笔/24色画笔",
+  "长度:150",
+  "宽幅:125",
+  "是否进口:否",
+  "主要下游平台:ebay/亚马逊/wish/速卖通/独立站/LAZADA/其他",
+  "主要销售地区:非洲/欧洲/南美/东南亚/北美/东北亚/中东/其他",
+  "有可授权的自有品牌:否",
+  "是否跨境出口专供货源:是",
+  "是否属于礼品:否",
+  "送礼用途:积分换购礼品/商务礼品/广告礼品/促销赠品/会议礼品/福利礼品/节庆礼品/嘉奖纪念/公关礼品/其他",
+  "适用节日:圣诞节/情人节/春节/父亲节/母亲节/教师节/元旦/七夕/万圣节/复活节/国庆节/儿童节/妇女节/其他",
+  "适用送礼场合:婚庆/满月/旅游纪念/毕业/乔迁/派对聚会/探病慰问/其他",
+  "适用送礼关系:晚辈/情侣/夫妻/同事/朋友/长辈/孩子/同学/恩师/其他",
+  "是否IP授权:否",
+  "生产企业:工厂",
+  "包装种类:基础包装"
+ ],
+ "包装信息": [
+  {
+   "volume": 0,
+   "sku1": "蘑菇A",
+   "length": 0,
+   "width": 0,
+   "weight": 440,
+   "skuId": 6120934780626,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "熊B",
+   "length": 0,
+   "width": 0,
+   "weight": 440,
+   "skuId": 6120934780627,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "蜡笔C",
+   "length": 0,
+   "width": 0,
+   "weight": 440,
+   "skuId": 6120934780628,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "蝙蝠D",
+   "length": 0,
+   "width": 0,
+   "weight": 440,
+   "skuId": 6120934780629,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "恐龙E",
+   "length": 0,
+   "width": 0,
+   "weight": 440,
+   "skuId": 6120934780630,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "花F",
+   "length": 0,
+   "width": 0,
+   "weight": 440,
+   "skuId": 6120934780631,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "花G",
+   "length": 0,
+   "width": 0,
+   "weight": 440,
+   "skuId": 6120934780632,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "水果H",
+   "length": 0,
+   "width": 0,
+   "weight": 440,
+   "skuId": 6120934780633,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "万圣节I",
+   "length": 0,
+   "width": 0,
+   "weight": 440,
+   "skuId": 6120934780634,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "快乐涂鸦J",
+   "length": 0,
+   "width": 0,
+   "weight": 440,
+   "skuId": 6120934780635,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "高地牛K",
+   "length": 0,
+   "width": 0,
+   "weight": 440,
+   "skuId": 6120934780636,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "驼鹿M",
+   "length": 0,
+   "width": 0,
+   "weight": 440,
+   "skuId": 6120934780637,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "怪物L",
+   "length": 0,
+   "width": 0,
+   "weight": 440,
+   "skuId": 6120934780638,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "南瓜N",
+   "length": 0,
+   "width": 0,
+   "weight": 440,
+   "skuId": 6120934780639,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "科幻O",
+   "length": 0,
+   "width": 0,
+   "weight": 440,
+   "skuId": 6120934780640,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "骨架P",
+   "length": 0,
+   "width": 0,
+   "weight": 440,
+   "skuId": 6120934780641,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "12色画笔",
+   "length": 0,
+   "width": 0,
+   "weight": 150,
+   "skuId": 6120934780642,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "24色画笔",
+   "length": 0,
+   "width": 0,
+   "weight": 200,
+   "skuId": 6120934780643,
+   "height": 0
+  }
+ ],
+ "url": "https://detail.1688.com/offer/1071800777974.html",
+ "核页时间": "2026-10-09T15:38:34.954Z"
+}

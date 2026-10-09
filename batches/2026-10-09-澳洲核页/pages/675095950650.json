@@ -1,0 +1,135 @@
+{
+ "offerId": "675095950650",
+ "条目": "H0146",
+ "block": false,
+ "卖家公司": "义乌市韶承电子商务有限公司",
+ "旺旺名": "xuxiangfei123feixiang",
+ "标题": "抖音爆款仰卧起坐脚蹬四管拉力器腿部拉力绳女健腹锻炼健身器材",
+ "状态": "PUBLISHED",
+ "类目": "拉力器、握力器",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "颜色",
+   "值": [
+    "四管粉色（OPP袋包）",
+    "四管紫色（OPP袋包）",
+    "四管蓝色（OPP袋包）"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "四管紫色（OPP袋包）",
+   "价格": "5.80",
+   "库存": 9999651
+  },
+  {
+   "规格": "四管蓝色（OPP袋包）",
+   "价格": "5.80",
+   "库存": 9999843
+  },
+  {
+   "规格": "四管粉色（OPP袋包）",
+   "价格": "5.80",
+   "库存": 9999768
+  }
+ ],
+ "规格图": [
+  [
+   "四管粉色（OPP袋包）",
+   "https://cbu01.alicdn.com/img/ibank/O1CN011kLc3z2C9RzFjMKWr_!!2212038438431-0-cib.jpg"
+  ],
+  [
+   "四管紫色（OPP袋包）",
+   "https://cbu01.alicdn.com/img/ibank/O1CN013CNGzE2C9RzDsFnhm_!!2212038438431-0-cib.jpg"
+  ],
+  [
+   "四管蓝色（OPP袋包）",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01EQ7L1d2C9RzLEn22w_!!2212038438431-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "rangePrice",
+ "价格区间": "5.60-5.80",
+ "阶梯价_登录后": [
+  {
+   "price": "5.80",
+   "beginAmount": 1
+  },
+  {
+   "price": "5.70",
+   "beginAmount": 20
+  },
+  {
+   "price": "5.60",
+   "beginAmount": 100
+  }
+ ],
+ "到手价": {
+  "价": "4.8",
+  "说明": "新人价",
+  "件数": 1
+ },
+ "起订量": 1,
+ "单位": "件",
+ "可售总量": 29999262,
+ "已售": 275,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01uSPo7Y2C9RzAnXPwC_!!2212038438431-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01ZG0PTm2C9RzG9t84t_!!2212038438431-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01aZmmhx2C9RzMPGPHT_!!2212038438431-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01jFHtuW2C9RzIQu2kD_!!2212038438431-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01pae8Fy2C9RzLEHCyr_!!2212038438431-0-cib.jpg"
+ ],
+ "商品属性": [
+  "材质:TPE",
+  "品牌:启屿则",
+  "产品类别:拉力器",
+  "规格:四管拉力器",
+  "货号:X0157",
+  "产地:浙江金华",
+  "适用场景:其它",
+  "颜色:四管粉色（OPP袋包）/四管紫色（OPP袋包）/四管蓝色（OPP袋包）",
+  "主要下游平台:ebay/亚马逊/wish/速卖通/独立站/LAZADA",
+  "主要销售地区:非洲/欧洲/南美/东南亚/北美/东北亚/中东",
+  "有可授权的自有品牌:是",
+  "是否跨境出口专供货源:是",
+  "拉力器分类:脚蹬拉力器",
+  "按健身效果选择:综合训练",
+  "适用对象:青少年",
+  "专利类型:无",
+  "外贸出口认证:有",
+  "质检报告编号:有"
+ ],
+ "包装信息": [
+  {
+   "volume": 2500,
+   "sku1": "四管粉色（OPP袋包）",
+   "length": 25,
+   "width": 20,
+   "weight": 100,
+   "skuId": 5025264378067,
+   "height": 5
+  },
+  {
+   "volume": 2500,
+   "sku1": "四管紫色（OPP袋包）",
+   "length": 25,
+   "width": 20,
+   "weight": 100,
+   "skuId": 5025264378068,
+   "height": 5
+  },
+  {
+   "volume": 2500,
+   "sku1": "四管蓝色（OPP袋包）",
+   "length": 25,
+   "width": 20,
+   "weight": 100,
+   "skuId": 5025264378070,
+   "height": 5
+  }
+ ],
+ "url": "https://detail.1688.com/offer/675095950650.html",
+ "核页时间": "2026-10-09T15:48:18.733Z"
+}

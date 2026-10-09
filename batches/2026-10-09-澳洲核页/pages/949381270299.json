@@ -1,0 +1,478 @@
+{
+ "offerId": "949381270299",
+ "条目": "H0088",
+ "block": false,
+ "卖家公司": "HOME HODO/红豆家纺品牌旗舰店",
+ "旺旺名": "智悠惠纺织品",
+ "标题": "枕套2026新款纯棉全棉ins枕套一对装48cmx74cm单个内胆套",
+ "状态": "PUBLISHED",
+ "类目": "枕套",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "花型",
+   "值": [
+    "INS淡紫【100%可水洗全棉】单只装",
+    "INS淡紫【100%可水洗全棉】一对装",
+    "INS淡粉【100%可水洗全棉】单只装",
+    "INS淡粉【100%可水洗全棉】一对装",
+    "INS脏粉【100%可水洗全棉】单只装",
+    "INS脏粉【100%可水洗全棉】一对装",
+    "INS天蓝【100%可水洗全棉】单只装",
+    "INS天蓝【100%可水洗全棉】一对装",
+    "INS奶黄【100%可水洗全棉】单只装",
+    "INS奶黄【100%可水洗全棉】一对装",
+    "INS墨绿【100%可水洗全棉】单只装",
+    "INS墨绿【100%可水洗全棉】一对装",
+    "INS蓝灰【100%可水洗全棉】单只装",
+    "INS蓝灰【100%可水洗全棉】一对装",
+    "INS卡其【100%可水洗全棉】单只装",
+    "INS卡其【100%可水洗全棉】一对装",
+    "INS黄【100%可水洗全棉】单只装",
+    "INS黄【100%可水洗全棉】一对装",
+    "INS豆绿【100%可水洗全棉】单只装",
+    "INS豆绿【100%可水洗全棉】一对装"
+   ]
+  },
+  {
+   "属性": "尺寸规格",
+   "值": [
+    "48cmX74cm"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "INS豆绿【100%可水洗全棉】一对装&gt;48cmX74cm",
+   "价格": "28.00",
+   "库存": 35
+  },
+  {
+   "规格": "INS淡紫【100%可水洗全棉】单只装&gt;48cmX74cm",
+   "价格": "18.00",
+   "库存": 50
+  },
+  {
+   "规格": "INS脏粉【100%可水洗全棉】一对装&gt;48cmX74cm",
+   "价格": "28.00",
+   "库存": 25
+  },
+  {
+   "规格": "INS卡其【100%可水洗全棉】一对装&gt;48cmX74cm",
+   "价格": "28.00",
+   "库存": 24
+  },
+  {
+   "规格": "INS黄【100%可水洗全棉】一对装&gt;48cmX74cm",
+   "价格": "28.00",
+   "库存": 25
+  },
+  {
+   "规格": "INS淡粉【100%可水洗全棉】一对装&gt;48cmX74cm",
+   "价格": "28.00",
+   "库存": 30
+  },
+  {
+   "规格": "INS卡其【100%可水洗全棉】单只装&gt;48cmX74cm",
+   "价格": "18.00",
+   "库存": 50
+  },
+  {
+   "规格": "INS墨绿【100%可水洗全棉】单只装&gt;48cmX74cm",
+   "价格": "18.00",
+   "库存": 50
+  },
+  {
+   "规格": "INS淡紫【100%可水洗全棉】一对装&gt;48cmX74cm",
+   "价格": "28.00",
+   "库存": 25
+  },
+  {
+   "规格": "INS奶黄【100%可水洗全棉】一对装&gt;48cmX74cm",
+   "价格": "28.00",
+   "库存": 25
+  },
+  {
+   "规格": "INS天蓝【100%可水洗全棉】一对装&gt;48cmX74cm",
+   "价格": "28.00",
+   "库存": 22
+  },
+  {
+   "规格": "INS蓝灰【100%可水洗全棉】一对装&gt;48cmX74cm",
+   "价格": "28.00",
+   "库存": 35
+  },
+  {
+   "规格": "INS脏粉【100%可水洗全棉】单只装&gt;48cmX74cm",
+   "价格": "18.00",
+   "库存": 62
+  },
+  {
+   "规格": "INS墨绿【100%可水洗全棉】一对装&gt;48cmX74cm",
+   "价格": "28.00",
+   "库存": 25
+  },
+  {
+   "规格": "INS蓝灰【100%可水洗全棉】单只装&gt;48cmX74cm",
+   "价格": "18.00",
+   "库存": 70
+  },
+  {
+   "规格": "INS豆绿【100%可水洗全棉】单只装&gt;48cmX74cm",
+   "价格": "18.00",
+   "库存": 50
+  },
+  {
+   "规格": "INS天蓝【100%可水洗全棉】单只装&gt;48cmX74cm",
+   "价格": "18.00",
+   "库存": 45
+  },
+  {
+   "规格": "INS奶黄【100%可水洗全棉】单只装&gt;48cmX74cm",
+   "价格": "18.00",
+   "库存": 50
+  },
+  {
+   "规格": "INS黄【100%可水洗全棉】单只装&gt;48cmX74cm",
+   "价格": "18.00",
+   "库存": 50
+  },
+  {
+   "规格": "INS淡粉【100%可水洗全棉】单只装&gt;48cmX74cm",
+   "价格": "18.00",
+   "库存": 61
+  }
+ ],
+ "规格图": [
+  [
+   "INS淡紫【100%可水洗全棉】单只装",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01QoTHNu1PLRUnkTHae_!!2219320141824-0-cib.jpg"
+  ],
+  [
+   "INS淡紫【100%可水洗全棉】一对装",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01dBAWOc1PLRUmUagJH_!!2219320141824-0-cib.jpg"
+  ],
+  [
+   "INS淡粉【100%可水洗全棉】单只装",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01ZUWfez1PLRUnBc3L0_!!2219320141824-0-cib.jpg"
+  ],
+  [
+   "INS淡粉【100%可水洗全棉】一对装",
+   "https://cbu01.alicdn.com/img/ibank/O1CN016LcCr51PLRUnJKpDy_!!2219320141824-0-cib.jpg"
+  ],
+  [
+   "INS脏粉【100%可水洗全棉】单只装",
+   "https://cbu01.alicdn.com/img/ibank/O1CN015sbWLl1PLRUmUZPKC_!!2219320141824-0-cib.jpg"
+  ],
+  [
+   "INS脏粉【100%可水洗全棉】一对装",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01bv7kol1PLRUnJMMsw_!!2219320141824-0-cib.jpg"
+  ],
+  [
+   "INS天蓝【100%可水洗全棉】单只装",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01gkdyhb1PLRUkujzcp_!!2219320141824-0-cib.jpg"
+  ],
+  [
+   "INS天蓝【100%可水洗全棉】一对装",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01I5Pa8H1PLRUmDSYLR_!!2219320141824-0-cib.jpg"
+  ],
+  [
+   "INS奶黄【100%可水洗全棉】单只装",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01r8z0va1PLRUo1GsMG_!!2219320141824-0-cib.jpg"
+  ],
+  [
+   "INS奶黄【100%可水洗全棉】一对装",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01Mfiu4f1PLRUmUbUD5_!!2219320141824-0-cib.jpg"
+  ],
+  [
+   "INS墨绿【100%可水洗全棉】单只装",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01pcM9UF1PLRUkujWX3_!!2219320141824-0-cib.jpg"
+  ],
+  [
+   "INS墨绿【100%可水洗全棉】一对装",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01GW8off1PLRUo1HPeC_!!2219320141824-0-cib.jpg"
+  ],
+  [
+   "INS蓝灰【100%可水洗全棉】单只装",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01DmwaaB1PLRUnAQA8q_!!2219320141824-0-cib.jpg"
+  ],
+  [
+   "INS蓝灰【100%可水洗全棉】一对装",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01p6wGr41PLRUlQMajT_!!2219320141824-0-cib.jpg"
+  ],
+  [
+   "INS卡其【100%可水洗全棉】单只装",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01dJSXoI1PLRUmoZatU_!!2219320141824-0-cib.jpg"
+  ],
+  [
+   "INS卡其【100%可水洗全棉】一对装",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01z4hRhj1PLRUnJKDqv_!!2219320141824-0-cib.jpg"
+  ],
+  [
+   "INS黄【100%可水洗全棉】单只装",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01FEVPyA1PLRUmDRTrL_!!2219320141824-0-cib.jpg"
+  ],
+  [
+   "INS黄【100%可水洗全棉】一对装",
+   "https://cbu01.alicdn.com/img/ibank/O1CN012xOSRZ1PLRUmUbcX7_!!2219320141824-0-cib.jpg"
+  ],
+  [
+   "INS豆绿【100%可水洗全棉】单只装",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01YpRrLz1PLRUnJMIlZ_!!2219320141824-0-cib.jpg"
+  ],
+  [
+   "INS豆绿【100%可水洗全棉】一对装",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01u33GnG1PLRUnBeOuQ_!!2219320141824-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "skuPrice",
+ "价格区间": "18.00-28.00",
+ "阶梯价_登录后": [
+  {
+   "price": "18.00",
+   "beginAmount": 1
+  },
+  {
+   "price": "28.00",
+   "beginAmount": 1
+  }
+ ],
+ "到手价": {
+  "价": "13",
+  "说明": "新人价",
+  "件数": 1
+ },
+ "起订量": 1,
+ "单位": "件",
+ "可售总量": 809,
+ "已售": 692,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01l0sFiF1PLRUnAR26e_!!2219320141824-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01TydVDd1PLRUo1G4Qk_!!2219320141824-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN010Zm9KO1PLRUnKTVvS_!!2219320141824-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01gvNbb81PLRUmDTUVP_!!2219320141824-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01QdnETP1PLRUmUeAGY_!!2219320141824-0-cib.jpg"
+ ],
+ "商品属性": [
+  "材质:纯棉",
+  "织造工艺:水洗",
+  "面料支数:30支",
+  "品牌:HOME HODO/红豆家纺",
+  "印染工艺:活性印染",
+  "风格:ins风",
+  "颜色分类:紫色",
+  "货号:28",
+  "加工定制:否",
+  "是否支持一件代发:支持",
+  "面料主成分:棉",
+  "面料主成分含量:100",
+  "产品等级:合格品",
+  "花型:INS淡紫【100%可水洗全棉】单只装/INS淡紫【100%可水洗全棉】一对装/INS淡粉【100%可水洗全棉】单只装/INS淡粉【100%可水洗全棉】一对装/INS脏粉【100%可水洗全棉】单只装/INS脏粉【100%可水洗全棉】一对装/INS天蓝【100%可水洗全棉】单只装/INS天蓝【100%可水洗全棉】一对装/INS奶黄【100%可水洗全棉】单只装/INS奶黄【100%可水洗全棉】一对装/INS墨绿【100%可水洗全棉】单只装/INS墨绿【100%可水洗全棉】一对装/INS蓝灰【100%可水洗全棉】单只装/INS蓝灰【100%可水洗全棉】一对装/INS卡其【100%可水洗全棉】单只装/INS卡其【100%可水洗全棉】一对装/INS黄【100%可水洗全棉】单只装/INS黄【100%可水洗全棉】一对装/INS豆绿【100%可水洗全棉】单只装/INS豆绿【100%可水洗全棉】一对装",
+  "尺寸规格:48cmX74cm",
+  "是否跨境出口专供货源:否"
+ ],
+ "包装信息": [
+  {
+   "sku2": "48cmX74cm",
+   "volume": 0,
+   "sku1": "INS淡紫【100%可水洗全棉】单只装",
+   "length": 0,
+   "width": 0,
+   "weight": 500,
+   "skuId": 5863557329553,
+   "height": 0
+  },
+  {
+   "sku2": "48cmX74cm",
+   "volume": 0,
+   "sku1": "INS淡紫【100%可水洗全棉】一对装",
+   "length": 0,
+   "width": 0,
+   "weight": 1000,
+   "skuId": 5863557329554,
+   "height": 0
+  },
+  {
+   "sku2": "48cmX74cm",
+   "volume": 0,
+   "sku1": "INS淡粉【100%可水洗全棉】单只装",
+   "length": 0,
+   "width": 0,
+   "weight": 500,
+   "skuId": 5863557329555,
+   "height": 0
+  },
+  {
+   "sku2": "48cmX74cm",
+   "volume": 0,
+   "sku1": "INS淡粉【100%可水洗全棉】一对装",
+   "length": 0,
+   "width": 0,
+   "weight": 1000,
+   "skuId": 5863557329556,
+   "height": 0
+  },
+  {
+   "sku2": "48cmX74cm",
+   "volume": 0,
+   "sku1": "INS脏粉【100%可水洗全棉】单只装",
+   "length": 0,
+   "width": 0,
+   "weight": 500,
+   "skuId": 5863557329557,
+   "height": 0
+  },
+  {
+   "sku2": "48cmX74cm",
+   "volume": 0,
+   "sku1": "INS脏粉【100%可水洗全棉】一对装",
+   "length": 0,
+   "width": 0,
+   "weight": 1000,
+   "skuId": 5863557329558,
+   "height": 0
+  },
+  {
+   "sku2": "48cmX74cm",
+   "volume": 0,
+   "sku1": "INS天蓝【100%可水洗全棉】单只装",
+   "length": 0,
+   "width": 0,
+   "weight": 500,
+   "skuId": 5863557329559,
+   "height": 0
+  },
+  {
+   "sku2": "48cmX74cm",
+   "volume": 0,
+   "sku1": "INS天蓝【100%可水洗全棉】一对装",
+   "length": 0,
+   "width": 0,
+   "weight": 1000,
+   "skuId": 5863557329560,
+   "height": 0
+  },
+  {
+   "sku2": "48cmX74cm",
+   "volume": 0,
+   "sku1": "INS奶黄【100%可水洗全棉】单只装",
+   "length": 0,
+   "width": 0,
+   "weight": 500,
+   "skuId": 5863557329561,
+   "height": 0
+  },
+  {
+   "sku2": "48cmX74cm",
+   "volume": 0,
+   "sku1": "INS奶黄【100%可水洗全棉】一对装",
+   "length": 0,
+   "width": 0,
+   "weight": 1000,
+   "skuId": 5863557329562,
+   "height": 0
+  },
+  {
+   "sku2": "48cmX74cm",
+   "volume": 0,
+   "sku1": "INS墨绿【100%可水洗全棉】单只装",
+   "length": 0,
+   "width": 0,
+   "weight": 500,
+   "skuId": 5863557329563,
+   "height": 0
+  },
+  {
+   "sku2": "48cmX74cm",
+   "volume": 0,
+   "sku1": "INS墨绿【100%可水洗全棉】一对装",
+   "length": 0,
+   "width": 0,
+   "weight": 1000,
+   "skuId": 5863557329564,
+   "height": 0
+  },
+  {
+   "sku2": "48cmX74cm",
+   "volume": 0,
+   "sku1": "INS蓝灰【100%可水洗全棉】单只装",
+   "length": 0,
+   "width": 0,
+   "weight": 500,
+   "skuId": 5863557329565,
+   "height": 0
+  },
+  {
+   "sku2": "48cmX74cm",
+   "volume": 0,
+   "sku1": "INS蓝灰【100%可水洗全棉】一对装",
+   "length": 0,
+   "width": 0,
+   "weight": 1000,
+   "skuId": 5863557329566,
+   "height": 0
+  },
+  {
+   "sku2": "48cmX74cm",
+   "volume": 0,
+   "sku1": "INS卡其【100%可水洗全棉】单只装",
+   "length": 0,
+   "width": 0,
+   "weight": 500,
+   "skuId": 5863557329567,
+   "height": 0
+  },
+  {
+   "sku2": "48cmX74cm",
+   "volume": 0,
+   "sku1": "INS卡其【100%可水洗全棉】一对装",
+   "length": 0,
+   "width": 0,
+   "weight": 1000,
+   "skuId": 5863557329568,
+   "height": 0
+  },
+  {
+   "sku2": "48cmX74cm",
+   "volume": 0,
+   "sku1": "INS黄【100%可水洗全棉】单只装",
+   "length": 0,
+   "width": 0,
+   "weight": 500,
+   "skuId": 5863557329569,
+   "height": 0
+  },
+  {
+   "sku2": "48cmX74cm",
+   "volume": 0,
+   "sku1": "INS黄【100%可水洗全棉】一对装",
+   "length": 0,
+   "width": 0,
+   "weight": 1000,
+   "skuId": 5863557329570,
+   "height": 0
+  },
+  {
+   "sku2": "48cmX74cm",
+   "volume": 0,
+   "sku1": "INS豆绿【100%可水洗全棉】单只装",
+   "length": 0,
+   "width": 0,
+   "weight": 500,
+   "skuId": 5863557329571,
+   "height": 0
+  },
+  {
+   "sku2": "48cmX74cm",
+   "volume": 0,
+   "sku1": "INS豆绿【100%可水洗全棉】一对装",
+   "length": 0,
+   "width": 0,
+   "weight": 1000,
+   "skuId": 5863557329572,
+   "height": 0
+  }
+ ],
+ "url": "https://detail.1688.com/offer/949381270299.html",
+ "核页时间": "2026-10-09T15:31:01.157Z"
+}

@@ -1,0 +1,216 @@
+{
+ "offerId": "1062127908667",
+ "条目": "H0061",
+ "block": false,
+ "卖家公司": "南昌寰宇三维打印有限公司",
+ "旺旺名": "江西云腾三维打印有限公司",
+ "标题": "3D打印洗衣机排水盘接水托通用防漏滴水不漏家用收纳清洁用具",
+ "状态": "PUBLISHED",
+ "类目": "其他家务清洁用具",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "颜色",
+   "值": [
+    "接水盘 单件",
+    "接水盘+通用导流片（两件套）",
+    "接水盘+通用导流片+螺母（三件套）",
+    "接水盘+螺母",
+    "导流片",
+    "白色螺母",
+    "黑色螺母",
+    "LG接水盘"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "接水盘+通用导流片+螺母（三件套）",
+   "价格": "17.90",
+   "库存": 500
+  },
+  {
+   "规格": "导流片",
+   "价格": "2.90",
+   "库存": 500
+  },
+  {
+   "规格": "接水盘 单件",
+   "价格": "12.30",
+   "库存": 470
+  },
+  {
+   "规格": "接水盘+螺母",
+   "价格": "15.90",
+   "库存": 500
+  },
+  {
+   "规格": "黑色螺母",
+   "价格": "4.90",
+   "库存": 500
+  },
+  {
+   "规格": "接水盘+通用导流片（两件套）",
+   "价格": "12.60",
+   "库存": 500
+  },
+  {
+   "规格": "LG接水盘",
+   "价格": "12.90",
+   "库存": 500
+  },
+  {
+   "规格": "白色螺母",
+   "价格": "4.90",
+   "库存": 500
+  }
+ ],
+ "规格图": [
+  [
+   "接水盘 单件",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01gD5z4d1fGtUMBBHGG_!!2217152763980-0-cib.jpg"
+  ],
+  [
+   "接水盘+通用导流片（两件套）",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01E2uM541fGtUHTsYlL_!!2217152763980-0-cib.jpg"
+  ],
+  [
+   "接水盘+通用导流片+螺母（三件套）",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01DRIDqS1fGtULlzVR3_!!2217152763980-0-cib.jpg"
+  ],
+  [
+   "接水盘+螺母",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01NWnvHm1dNBhYHFQ8I_!!2219155283723-0-cib.jpg"
+  ],
+  [
+   "导流片",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01hguibN1dNBhYYLVEV_!!2219155283723-0-cib.jpg"
+  ],
+  [
+   "白色螺母",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01Un711y1dNBhYNw0im_!!2219155283723-0-cib.jpg"
+  ],
+  [
+   "黑色螺母",
+   "https://cbu01.alicdn.com/img/ibank/O1CN017lLyzu1dNBhU1evBb_!!2219155283723-0-cib.jpg"
+  ],
+  [
+   "LG接水盘",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01Lj6x9H1dNBhYIE21a_!!2219155283723-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "skuPrice",
+ "价格区间": null,
+ "阶梯价_登录后": [
+  {
+   "price": "2.90",
+   "beginAmount": 1
+  },
+  {
+   "price": "17.90",
+   "beginAmount": 1
+  }
+ ],
+ "到手价": null,
+ "起订量": 1,
+ "单位": "件",
+ "可售总量": 3970,
+ "已售": 0,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN013vGGI41dNBhYGnhHS_!!2219155283723-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01Y7p8oh1dNBhYZne8Y_!!2219155283723-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01yGnVHq1dNBhYZmZcV_!!2219155283723-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01sxLjlR1dNBhYblR2H_!!2219155283723-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01nWlrog1dNBhYWrDvW_!!2219155283723-0-cib.jpg"
+ ],
+ "商品属性": [
+  "材质:PP",
+  "品牌:炫鸿",
+  "类别:家具用品",
+  "是否进口:否",
+  "货号:洗衣机接水盘",
+  "产地:中国",
+  "箱装数量:咨询客服",
+  "贸易属性:内贸",
+  "价格段:10-20元",
+  "颜色:接水盘 单件/接水盘+通用导流片（两件套）/接水盘+通用导流片+螺母（三件套）/接水盘+螺母/导流片/白色螺母/黑色螺母/LG接水盘",
+  "是否跨境出口专供货源:否",
+  "是否有专利:否"
+ ],
+ "包装信息": [
+  {
+   "volume": 1845,
+   "sku1": "接水盘 单件",
+   "length": 20.5,
+   "width": 18,
+   "weight": 80,
+   "skuId": 6270259978421,
+   "height": 5
+  },
+  {
+   "volume": 1845,
+   "sku1": "接水盘+通用导流片（两件套）",
+   "length": 20.5,
+   "width": 18,
+   "weight": 100,
+   "skuId": 6270259978422,
+   "height": 5
+  },
+  {
+   "volume": 1845,
+   "sku1": "接水盘+通用导流片+螺母（三件套）",
+   "length": 20.5,
+   "width": 18,
+   "weight": 130,
+   "skuId": 6270259978423,
+   "height": 5
+  },
+  {
+   "volume": 0,
+   "sku1": "接水盘+螺母",
+   "length": 0,
+   "width": 0,
+   "weight": 110,
+   "skuId": 6270259978424,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "导流片",
+   "length": 0,
+   "width": 0,
+   "weight": 20,
+   "skuId": 6270259978425,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "白色螺母",
+   "length": 0,
+   "width": 0,
+   "weight": 30,
+   "skuId": 6270259978426,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "黑色螺母",
+   "length": 0,
+   "width": 0,
+   "weight": 30,
+   "skuId": 6270259978427,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "LG接水盘",
+   "length": 0,
+   "width": 0,
+   "weight": 100,
+   "skuId": 6270259978428,
+   "height": 0
+  }
+ ],
+ "url": "https://detail.1688.com/offer/1062127908667.html",
+ "核页时间": "2026-10-09T15:23:28.828Z"
+}

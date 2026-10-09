@@ -1,0 +1,202 @@
+{
+ "offerId": "1028559639674",
+ "条目": "H0071",
+ "block": false,
+ "卖家公司": "南宁市垠帛被芯加工部",
+ "旺旺名": "垠帛家纺工厂",
+ "标题": "长方形酒店宾馆宿舍枕头睡觉双人批发专用全棉纯棉睡眠高级感枕头",
+ "状态": "PUBLISHED",
+ "类目": "其他枕芯",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "尺寸规格",
+   "值": [
+    "12x12Inch,30x30cm,200 GRAM",
+    "12x20Inch,30x51cm,350 GRAM",
+    "16x16Inch,41x41cm,400 GRAM",
+    "18x18Inch,46x46cm,450 GRAM",
+    "20x20Inch,51x51cm,580 GRAM",
+    "22x22Inch,56x56cm,680 GRAM",
+    "24x24Inch,61x61cm,800 GRAM",
+    "26x26Inch,66x66cm,1000 GRAM"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "20x20Inch,51x51cm,580 GRAM",
+   "价格": "11.80",
+   "库存": 4998
+  },
+  {
+   "规格": "18x18Inch,46x46cm,450 GRAM",
+   "价格": "10.80",
+   "库存": 4996
+  },
+  {
+   "规格": "22x22Inch,56x56cm,680 GRAM",
+   "价格": "12.80",
+   "库存": 4998
+  },
+  {
+   "规格": "26x26Inch,66x66cm,1000 GRAM",
+   "价格": "19.80",
+   "库存": 4999
+  },
+  {
+   "规格": "12x12Inch,30x30cm,200 GRAM",
+   "价格": "6.30",
+   "库存": 4998
+  },
+  {
+   "规格": "24x24Inch,61x61cm,800 GRAM",
+   "价格": "16.80",
+   "库存": 5000
+  },
+  {
+   "规格": "16x16Inch,41x41cm,400 GRAM",
+   "价格": "8.80",
+   "库存": 5000
+  },
+  {
+   "规格": "12x20Inch,30x51cm,350 GRAM",
+   "价格": "7.80",
+   "库存": 4986
+  }
+ ],
+ "规格图": [],
+ "价格展示": "skuPrice",
+ "价格区间": "6.30-19.80",
+ "阶梯价_登录后": [
+  {
+   "price": "6.30",
+   "beginAmount": 1
+  },
+  {
+   "price": "19.80",
+   "beginAmount": 1
+  }
+ ],
+ "到手价": {
+  "价": "1.3",
+  "说明": "新人价",
+  "件数": 1
+ },
+ "起订量": 1,
+ "单位": "个",
+ "可售总量": 39975,
+ "已售": 21,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN019Ja5P41vPcqppYF7Q_!!2219483006165-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01BZZWFu1vPcqvL94mb_!!2219483006165-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01hZPZ9C1vPcqvad7YE_!!2219483006165-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01h3bq0O1vPcqv8KPrW_!!2219483006165-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01HikT2L1vPcs9Vmu2A_!!2219483006165-0-cib.jpg"
+ ],
+ "商品属性": [
+  "填充物:聚酯纤维",
+  "填充物主成分:聚酯纤维（涤纶）",
+  "面料主成分:全棉",
+  "枕芯面料:棉",
+  "品牌:垠帛",
+  "产品等级:一等品",
+  "货号:JK007",
+  "填充物主成分含量:100",
+  "填充物次成分:棉",
+  "填充物次成分含量:100",
+  "面料主成分含量:100",
+  "面料次成分:棉",
+  "面料次成分含量:100",
+  "枕芯高度:5.1-10cm",
+  "枕头形状:长方形",
+  "枕头重量:1.1-2斤",
+  "加工定制:是",
+  "是否支持一件代发:支持",
+  "适用人数:单人",
+  "颜色分类:白色",
+  "适用对象:成人",
+  "尺寸规格:12x12Inch,30x30cm,200 GRAM/12x20Inch,30x51cm,350 GRAM/16x16Inch,41x41cm,400 GRAM/18x18Inch,46x46cm,450 GRAM/20x20Inch,51x51cm,580 GRAM/22x22Inch,56x56cm,680 GRAM/24x24Inch,61x61cm,800 GRAM/26x26Inch,66x66cm,1000 GRAM",
+  "主要下游平台:亚马逊/wish/速卖通/独立站/LAZADA/其他",
+  "主要销售地区:欧洲/南美/东南亚/北美/东北亚/中东/其他",
+  "有可授权的自有品牌:是",
+  "是否跨境出口专供货源:是",
+  "风格:简约"
+ ],
+ "包装信息": [
+  {
+   "volume": 1800,
+   "sku1": "12x12Inch,30x30cm,200 GRAM",
+   "length": 30,
+   "width": 30,
+   "weight": 200,
+   "skuId": 6206952574789,
+   "height": 2
+  },
+  {
+   "volume": 3000,
+   "sku1": "12x20Inch,30x51cm,350 GRAM",
+   "length": 30,
+   "width": 50,
+   "weight": 350,
+   "skuId": 6206952574790,
+   "height": 2
+  },
+  {
+   "volume": 3200,
+   "sku1": "16x16Inch,41x41cm,400 GRAM",
+   "length": 40,
+   "width": 40,
+   "weight": 400,
+   "skuId": 6206952574791,
+   "height": 2
+  },
+  {
+   "volume": 4050,
+   "sku1": "18x18Inch,46x46cm,450 GRAM",
+   "length": 45,
+   "width": 45,
+   "weight": 450,
+   "skuId": 6206952574792,
+   "height": 2
+  },
+  {
+   "volume": 5000,
+   "sku1": "20x20Inch,51x51cm,580 GRAM",
+   "length": 50,
+   "width": 50,
+   "weight": 580,
+   "skuId": 6206952574793,
+   "height": 2
+  },
+  {
+   "volume": 6050,
+   "sku1": "22x22Inch,56x56cm,680 GRAM",
+   "length": 55,
+   "width": 55,
+   "weight": 680,
+   "skuId": 6206952574794,
+   "height": 2
+  },
+  {
+   "volume": 7200,
+   "sku1": "24x24Inch,61x61cm,800 GRAM",
+   "length": 60,
+   "width": 60,
+   "weight": 800,
+   "skuId": 6206952574795,
+   "height": 2
+  },
+  {
+   "volume": 8712,
+   "sku1": "26x26Inch,66x66cm,1000 GRAM",
+   "length": 66,
+   "width": 66,
+   "weight": 1000,
+   "skuId": 6206952574796,
+   "height": 2
+  }
+ ],
+ "url": "https://detail.1688.com/offer/1028559639674.html",
+ "核页时间": "2026-10-09T15:26:15.010Z"
+}

@@ -1,0 +1,186 @@
+{
+ "offerId": "877876934509",
+ "条目": "H0005",
+ "block": false,
+ "卖家公司": "潮州市潮安区彩塘镇金贤不锈钢制品经营部",
+ "旺旺名": "金贤五金厂",
+ "标题": "浴室收纳架三件套卫生间三角置物架铁艺免打孔洗漱台收纳置物架",
+ "状态": "PUBLISHED",
+ "类目": "浴室角架",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "尺寸",
+   "值": [
+    "角架两件套",
+    "角架三件套",
+    "角架四件套",
+    "角架五件套",
+    "肥皂架单个",
+    "牙刷架单个"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "角架四件套",
+   "价格": "25.00",
+   "库存": 895452
+  },
+  {
+   "规格": "角架三件套",
+   "价格": "22.00",
+   "库存": 895150
+  },
+  {
+   "规格": "牙刷架单个",
+   "价格": "6.00",
+   "库存": 895404
+  },
+  {
+   "规格": "角架两件套",
+   "价格": "17.00",
+   "库存": 895347
+  },
+  {
+   "规格": "角架五件套",
+   "价格": "29.00",
+   "库存": 895399
+  },
+  {
+   "规格": "肥皂架单个",
+   "价格": "4.00",
+   "库存": 895447
+  }
+ ],
+ "规格图": [
+  [
+   "角架两件套",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01wcWDjp2LqoIGNK2Zr_!!2751489744-0-cib.jpg"
+  ],
+  [
+   "角架三件套",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01pil5XR2LqoIIV2hUN_!!2751489744-0-cib.jpg"
+  ],
+  [
+   "角架四件套",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01KLblmc2LqoIIsoZN5_!!2751489744-0-cib.jpg"
+  ],
+  [
+   "角架五件套",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01AbpwQD2LqoIBL6qOD_!!2751489744-0-cib.jpg"
+  ],
+  [
+   "肥皂架单个",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01CAkFxp2LqoIInepBV_!!2751489744-0-cib.jpg"
+  ],
+  [
+   "牙刷架单个",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01foBQnE2LqoIH6qmoq_!!2751489744-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "skuPrice",
+ "价格区间": "4.00-29.00",
+ "阶梯价_登录后": [
+  {
+   "price": "4.00",
+   "beginAmount": 1
+  },
+  {
+   "price": "29.00",
+   "beginAmount": 1
+  }
+ ],
+ "到手价": {
+  "价": "3",
+  "说明": "新人价",
+  "件数": 1
+ },
+ "起订量": 1,
+ "单位": "套",
+ "可售总量": 5372199,
+ "已售": 304,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01exfqHJ2LqoKcCaIIJ_!!2751489744-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01eFoqLZ2LqoIFoIick_!!2751489744-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01ksdQTo2LqoIIi6gjy_!!2751489744-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01HoEIpW2LqoLSfsImu_!!2751489744-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN014xvlfD2LqoII5UGm6_!!2751489744-0-cib.jpg"
+ ],
+ "商品属性": [
+  "材质:铁",
+  "品牌:金贤",
+  "承重:10kg",
+  "层数:3层",
+  "表面处理:喷漆",
+  "外形:方形",
+  "认证:无",
+  "风格:现代简约风",
+  "是否一般纳税人:否",
+  "货号:127",
+  "产地:潮州",
+  "尺寸:角架两件套/角架三件套/角架四件套/角架五件套/肥皂架单个/牙刷架单个",
+  "是否跨境出口专供货源:是",
+  "主要下游平台:亚马逊/wish/速卖通/独立站/LAZADA/其他",
+  "主要销售地区:欧洲/南美/东南亚/北美/东北亚/中东/其他",
+  "有可授权的自有品牌:是"
+ ],
+ "包装信息": [
+  {
+   "volume": 1920,
+   "sku1": "角架两件套",
+   "length": 20,
+   "width": 12,
+   "weight": 200,
+   "skuId": 5885038922683,
+   "height": 8
+  },
+  {
+   "volume": 1920,
+   "sku1": "角架三件套",
+   "length": 20,
+   "width": 12,
+   "weight": 200,
+   "skuId": 5885038922684,
+   "height": 8
+  },
+  {
+   "volume": 1920,
+   "sku1": "角架四件套",
+   "length": 20,
+   "width": 12,
+   "weight": 200,
+   "skuId": 5885038922685,
+   "height": 8
+  },
+  {
+   "volume": 1920,
+   "sku1": "角架五件套",
+   "length": 20,
+   "width": 12,
+   "weight": 200,
+   "skuId": 5885038922686,
+   "height": 8
+  },
+  {
+   "volume": 1920,
+   "sku1": "肥皂架单个",
+   "length": 20,
+   "width": 12,
+   "weight": 200,
+   "skuId": 5885038922687,
+   "height": 8
+  },
+  {
+   "volume": 1920,
+   "sku1": "牙刷架单个",
+   "length": 20,
+   "width": 12,
+   "weight": 200,
+   "skuId": 5885038922688,
+   "height": 8
+  }
+ ],
+ "url": "https://detail.1688.com/offer/877876934509.html",
+ "核页时间": "2026-10-09T15:06:45.707Z"
+}

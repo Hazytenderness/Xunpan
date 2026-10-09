@@ -1,0 +1,78 @@
+{
+ "offerId": "928546257117",
+ "条目": "H0006",
+ "block": false,
+ "卖家公司": "江门市初心家居有限公司",
+ "旺旺名": "supsort",
+ "标题": "亚马逊浴室置物架卫生间化妆品洗漱用品壁挂整理收纳架壁龛免打孔",
+ "状态": "PUBLISHED",
+ "类目": "卫浴置物架",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "尺寸",
+   "值": [
+    "五合一浴室架"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "五合一浴室架",
+   "价格": "29.50",
+   "库存": 1000
+  }
+ ],
+ "规格图": [
+  [
+   "五合一浴室架",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01zOhgjA1SVvOWBEMt6_!!4221982253-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "skuPrice",
+ "价格区间": null,
+ "阶梯价_登录后": [
+  {
+   "price": "29.50",
+   "beginAmount": 1000
+  }
+ ],
+ "到手价": null,
+ "起订量": 1000,
+ "单位": "套",
+ "可售总量": 1000,
+ "已售": 0,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01e9AiUa1SVvOWBDUl5_!!4221982253-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01xbYsFN1SVvOVMEvQN_!!4221982253-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN0142zAPs1SVvOXEzat4_!!4221982253-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01X3OzEE1SVvOWTpHYr_!!4221982253-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01rbblxi1SVvOVsBwsW_!!4221982253-0-cib.jpg"
+ ],
+ "商品属性": [
+  "材质:铁",
+  "层数:5层",
+  "表面处理:粉末喷涂",
+  "风格:现代简约风",
+  "认证:无",
+  "尺寸:五合一浴室架",
+  "是否一般纳税人:是",
+  "是否跨境出口专供货源:是",
+  "主要下游平台:独立站/LAZADA/其他",
+  "主要销售地区:北美/东北亚/中东/其他",
+  "有可授权的自有品牌:否"
+ ],
+ "包装信息": [
+  {
+   "volume": 6850.415,
+   "sku1": "五合一浴室架",
+   "length": 33.5,
+   "width": 14.3,
+   "weight": 1265,
+   "skuId": 5810254848399,
+   "height": 14.3
+  }
+ ],
+ "url": "https://detail.1688.com/offer/928546257117.html",
+ "核页时间": "2026-10-09T15:07:07.529Z"
+}
