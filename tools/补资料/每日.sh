@@ -29,7 +29,7 @@ if [[ $mode == send ]]; then
   done
   n=$(grep -c " 成功$" <<< "$out")
   msg="补资料 $D 发询盘 ${n} 家。排队情况：$(head -1 <<< "$plan")"
-  [[ $rc == 3 ]] && msg="⚠ 补资料发送停了，需要你看一下 1688（多半是滑块/验证）：$(grep '停止' <<< "$out" | tail -1)
+  [[ $rc == 3 ]] && msg="⚠ 补资料发送停了，需要你看一下 1688（滑块、验证或聊天断线）：$(grep '停止' <<< "$out" | tail -1)
 $msg"
   notify "$msg"
 elif [[ $mode == read ]]; then

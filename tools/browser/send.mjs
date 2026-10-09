@@ -13,6 +13,8 @@ try {
 } catch {}
 await chat.waitForTimeout(3000);
 if (await blocked(chat)) await stop("出现验证或风控提示");
+// 聊天客户端断线（会话列表显示「点此重连」、页头店名为空）：10/6 弹滑块前也是这样，当风控前兆停下【10/9】
+if (await chat.evaluate(() => [...document.querySelectorAll("iframe")].some(f => { try { return /若长时间未加载/.test(f.contentDocument.body.innerText); } catch { return false; } }))) await stop("聊天连接断开（页头空、提示点此重连），疑似风控前兆");
 const state = () => chat.evaluate((ww) => {
   for (const f of document.querySelectorAll("iframe")) { try {
     const d = f.contentDocument, ed = d.querySelector("pre[contenteditable=true]"); if (!ed) continue;
