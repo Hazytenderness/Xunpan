@@ -32,15 +32,20 @@ git -C $X pull -q --rebase --autostash || echo "询盘仓库 pull 失败，接�
 
 # 另一个会话在跑的款：询盘仓库里非夜间、非补资料、36 小时内改过的批次，和供应商匹配里 36 小时内改过的非夜间批次
 busy() { python3 - "$1" <<'EOF'
+# 别的会话正在处理的款【10/9 改】：询盘仓库里还有「待核页」条目的批次（核页没跑完）；供应商匹配里最近 6 小时还有文件写入的批次。
+# 只看改动时间会把定时发询盘、读回复改过的批次和早已做完的批次也当成在处理（10-09 夜里 63 款缺货源全被跳过）
 import json, sys, time, glob, os
 from pathlib import Path
-cut, s = time.time() - 36 * 3600, set()
+cut, s = time.time() - 6 * 3600, set()
 for q in glob.glob(os.path.expanduser('~/ClaudeP/Xunpan/batches/*/queue.json')):
     n = Path(q).parent.name
-    if n == '补资料' or n.endswith('夜间核页') or os.path.getmtime(q) < cut: continue
-    s |= {k['序'] for x in json.load(open(q)) for k in x['对应款']}
+    if n == '补资料' or n.endswith('夜间核页'): continue
+    Q = json.load(open(q))
+    if any(x.get('状态') == '待核页' for x in Q):
+        s |= {k['序'] for x in Q for k in x['对应款']}
 for d in glob.glob(os.path.expanduser('~/ClaudeP/06_VibeCoding/ataous/供应商匹配/*/')):
-    if d.rstrip('/').endswith('_夜间') or os.path.getmtime(d) < cut: continue
+    if d.rstrip('/').endswith('_夜间'): continue
+    if max((os.path.getmtime(f) for f in glob.glob(d + '**/*', recursive=True)), default=0) < cut: continue
     for f in glob.glob(d + '任务清单*.json'):
         s |= {int(x['序']) for x in json.load(open(f))}
 json.dump(sorted(s), open(sys.argv[1], 'w'))
@@ -60,7 +65,7 @@ cut = (datetime.date.today() - datetime.timedelta(days=14)).isoformat()
 json.dump([x for x in todo if led.get(str(x['序']), '') < cut], open(sys.argv[3], 'w'), ensure_ascii=False)
 EOF
 NS=$(python3 -c "import json;print(len(json.load(open('$FB/任务清单.json'))))")
-NALL=$(python3 -c "import json;print(len(json.load(open('$W/source.json'))))"); (( NS < NALL )) && SRC="缺货源 $NALL 款，14 天内找过的 $((NALL-NS)) 款跳过；" || SRC=""
+NALL=$(python3 -c "import json;print(len(json.load(open('$W/source.json'))))"); (( NALL == 0 )) || { (( NS < NALL )) && SRC="缺货源 $NALL 款，14 天内找过或搜不到的 $((NALL-NS)) 款跳过；" || SRC=""; }  # 0 款时保留默认「今晚没有缺货源的款要找」
 if [[ $NS -gt 0 ]]; then
   python3 $T/找货源.py search $FB > $W/search.out 2>&1 || say "⚠ 遨虾搜索中断：$(tail -1 $W/search.out)"
   python3 $T/找货源.py screen $FB | tail -1
