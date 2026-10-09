@@ -12,7 +12,7 @@ from pathlib import Path
 from PIL import Image, ImageDraw, ImageFont
 sys.path.insert(0, str(Path.home() / 'ClaudeP/04_工具/aoxia'))
 
-QUAL = {'SUPER_FACTORY': '超级工厂', 'POWER_FACTORY': '实力商家'}
+QUAL = {'SUPER_FACTORY': '超级工厂', 'POWER_FACTORY': '实力商家', 'SOURCE_FACTORY': '源头工厂'}  # 优质供应商标签，源头工厂 10/9 用户加
 PLAIN_KEEP, TASK_SIZE = 5, 12
 NEAR = ('上海', '江苏', '安徽', '江西', '福建')
 cmd, B = sys.argv[1], Path(sys.argv[2])
