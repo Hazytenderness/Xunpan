@@ -1,0 +1,79 @@
+{
+ "offerId": "731465078808",
+ "条目": "H0089",
+ "block": false,
+ "卖家公司": "广东摩美卫浴有限公司",
+ "旺旺名": "momei摩美卫浴",
+ "标题": "MOMEI摩美奶白色家用除氯淋浴花洒833专用过滤配件",
+ "状态": "PUBLISHED",
+ "类目": "花洒，淋浴器及配件",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "规格",
+   "值": [
+    "2个装"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "2个装",
+   "价格": "50.00",
+   "库存": 172
+  }
+ ],
+ "规格图": [
+  [
+   "2个装",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01g6SLRn1cuKSsKXKU3_!!2213006813660-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "rangePrice",
+ "价格区间": "50.00",
+ "阶梯价_登录后": [
+  {
+   "price": "50.00",
+   "beginAmount": 1
+  }
+ ],
+ "到手价": null,
+ "起订量": 1,
+ "单位": "件",
+ "可售总量": 172,
+ "已售": 198,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01PLf3sd1cuKS8OHe4U_!!2213006813660-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01g6SLRn1cuKSsKXKU3_!!2213006813660-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01AmS0T91cuKhy7vQcp_!!2213006813660-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01at7ksA1cuKht0JgKG_!!2213006813660-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01Jo5AgL1cuKhyMASTW_!!2213006813660-0-cib.jpg"
+ ],
+ "商品属性": [
+  "材质:ABS",
+  "功能:其它",
+  "品牌:other/其他",
+  "认证:无",
+  "产品类别:花洒/淋浴器",
+  "工艺:喷塑",
+  "安装型式:挂墙式",
+  "是否一般纳税人:否",
+  "种类:其他",
+  "加工定制:否",
+  "规格:2个装",
+  "风格:现代简约"
+ ],
+ "包装信息": [
+  {
+   "volume": 32,
+   "sku1": "2个装",
+   "length": 8,
+   "width": 2,
+   "weight": 50,
+   "skuId": 5239434931804,
+   "height": 2
+  }
+ ],
+ "url": "https://detail.1688.com/offer/731465078808.html",
+ "核页时间": "2026-10-09T11:47:17.074Z"
+}

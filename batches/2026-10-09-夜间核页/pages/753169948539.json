@@ -1,0 +1,180 @@
+{
+ "offerId": "753169948539",
+ "条目": "H0028",
+ "block": false,
+ "卖家公司": "德立金属制品有限公司",
+ "旺旺名": "江门德立家居",
+ "标题": "顶天立地架浴室免打孔三角置物架卫生间角落墙角收纳架落地转角架",
+ "状态": "PUBLISHED",
+ "类目": "卫浴置物架",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "尺寸",
+   "值": [
+    "扇形UV板套装LD300151",
+    "扇形UV板含3件套款LD300152",
+    "L形转角含3件套款-LD300153",
+    "扇形转角含3件套款-LD300154",
+    "扇形UV板(22管)白色LD3500-WH",
+    "600套装起订扇形UV板套装LD300151-SL银色"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "600套装起订扇形UV板套装LD300151-SL银色",
+   "价格": "72.30",
+   "库存": 0
+  },
+  {
+   "规格": "扇形UV板(22管)白色LD3500-WH",
+   "价格": "72.20",
+   "库存": 99936
+  },
+  {
+   "规格": "扇形UV板含3件套款LD300152",
+   "价格": "73.40",
+   "库存": 99923
+  },
+  {
+   "规格": "L形转角含3件套款-LD300153",
+   "价格": "71.10",
+   "库存": 99903
+  },
+  {
+   "规格": "扇形转角含3件套款-LD300154",
+   "价格": "66.60",
+   "库存": 99433
+  },
+  {
+   "规格": "扇形UV板套装LD300151",
+   "价格": "72.30",
+   "库存": 90226
+  }
+ ],
+ "规格图": [
+  [
+   "扇形UV板套装LD300151",
+   "https://cbu01.alicdn.com/img/ibank/O1CN019Xhg1W1WUKWCBQLJX_!!2215670152791-0-cib.jpg"
+  ],
+  [
+   "扇形UV板含3件套款LD300152",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01RpNkri1WUKWC1dILt_!!2215670152791-0-cib.jpg"
+  ],
+  [
+   "L形转角含3件套款-LD300153",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01e9grEh1WUKWCBQXnO_!!2215670152791-0-cib.jpg"
+  ],
+  [
+   "扇形转角含3件套款-LD300154",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01q5fAX81WUKXXMbBwG_!!2215670152791-0-cib.jpg"
+  ],
+  [
+   "扇形UV板(22管)白色LD3500-WH",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01NYKu5D1WUKY04L6m3_!!2215670152791-0-cib.jpg"
+  ],
+  [
+   "600套装起订扇形UV板套装LD300151-SL银色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01S7bkwe1WUKXyzT6R5_!!2215670152791-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "skuPrice",
+ "价格区间": "66.60-73.40",
+ "阶梯价_登录后": [
+  {
+   "price": "66.60",
+   "beginAmount": 1
+  },
+  {
+   "price": "73.40",
+   "beginAmount": 1
+  }
+ ],
+ "到手价": null,
+ "起订量": 1,
+ "单位": "件",
+ "可售总量": 489421,
+ "已售": 1503,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN0116JSPf1WUKWBJOhnv_!!2215670152791-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01OrXkQc1WUKWBIgrV2_!!2215670152791-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01SBPcBP1WUKWBIhCIe_!!2215670152791-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01dNvN7j1WUKNCPMIY4_!!2215670152791-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01A9AUJ61WUKNBozV7x_!!2215670152791-0-cib.jpg"
+ ],
+ "商品属性": [
+  "材质:铁",
+  "品牌:DALEE",
+  "层数:4层",
+  "表面处理:粉末喷涂",
+  "风格:简约风",
+  "认证:无",
+  "尺寸:扇形UV板套装LD300151/扇形UV板含3件套款LD300152/L形转角含3件套款-LD300153/扇形转角含3件套款-LD300154/扇形UV板(22管)白色LD3500-WH/600套装起订扇形UV板套装LD300151-SL银色",
+  "是否一般纳税人:是",
+  "产地:广东江门",
+  "承重:5-10kg(含)",
+  "是否跨境出口专供货源:是",
+  "主要下游平台:其他",
+  "主要销售地区:其他",
+  "有可授权的自有品牌:是"
+ ],
+ "包装信息": [
+  {
+   "volume": 11781,
+   "sku1": "扇形UV板套装LD300151",
+   "length": 44,
+   "width": 31.5,
+   "weight": 3500,
+   "skuId": 6121352174379,
+   "height": 8.5
+  },
+  {
+   "volume": 11781,
+   "sku1": "扇形UV板含3件套款LD300152",
+   "length": 44,
+   "width": 31.5,
+   "weight": 3500,
+   "skuId": 6121352174380,
+   "height": 8.5
+  },
+  {
+   "volume": 13104.25,
+   "sku1": "L形转角含3件套款-LD300153",
+   "length": 43,
+   "width": 26.5,
+   "weight": 3600,
+   "skuId": 6121352174381,
+   "height": 11.5
+  },
+  {
+   "volume": 13104.25,
+   "sku1": "扇形转角含3件套款-LD300154",
+   "length": 43,
+   "width": 26.5,
+   "weight": 2890,
+   "skuId": 6121352174378,
+   "height": 11.5
+  },
+  {
+   "volume": 11723.25,
+   "sku1": "扇形UV板(22管)白色LD3500-WH",
+   "length": 43.5,
+   "width": 24.5,
+   "weight": 2500,
+   "skuId": 6120385391910,
+   "height": 11
+  },
+  {
+   "volume": 11781,
+   "sku1": "600套装起订扇形UV板套装LD300151-SL银色",
+   "length": 44,
+   "width": 31.5,
+   "weight": 3500,
+   "skuId": 6271008919838,
+   "height": 8.5
+  }
+ ],
+ "url": "https://detail.1688.com/offer/753169948539.html",
+ "核页时间": "2026-10-09T11:31:31.132Z"
+}

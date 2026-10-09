@@ -1,0 +1,129 @@
+{
+ "offerId": "655773105602",
+ "条目": "H0098",
+ "block": false,
+ "卖家公司": "金华纳典家居用品有限公司",
+ "旺旺名": "馨友优品",
+ "标题": "厨房沥水架家用不锈钢可伸缩水槽架置物架餐具加粗收纳碗碟整理架",
+ "状态": "PUBLISHED",
+ "类目": "厨房置物架",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "层数（规格）",
+   "值": [
+    "小号灰色",
+    "大号灰色",
+    "大号黑色"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "小号灰色",
+   "价格": "6.95",
+   "库存": 34
+  },
+  {
+   "规格": "大号黑色",
+   "价格": "9.45",
+   "库存": 24
+  },
+  {
+   "规格": "大号灰色",
+   "价格": "9.45",
+   "库存": 132
+  }
+ ],
+ "规格图": [
+  [
+   "小号灰色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01toabER24kzXWmuyQi_!!3199397430-0-cib.jpg"
+  ],
+  [
+   "大号灰色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01mnLcIW24kzTak517y_!!3199397430-0-cib.jpg"
+  ],
+  [
+   "大号黑色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01VdQKbm24kzTaGZX7c_!!3199397430-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "skuPrice",
+ "价格区间": null,
+ "阶梯价_登录后": [
+  {
+   "price": "6.95",
+   "beginAmount": 2
+  },
+  {
+   "price": "9.45",
+   "beginAmount": 2
+  }
+ ],
+ "到手价": null,
+ "起订量": 2,
+ "单位": "个",
+ "可售总量": 190,
+ "已售": 4179,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01MNfZlj24kzVpvSfJn_!!3199397430-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01EtXeZA24kzTTMu2Iq_!!3199397430-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN015iRP0h24kzTbWtMaO_!!3199397430-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01a8E7Kx24kzTbWthNr_!!3199397430-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01mvwzJp24kzTfVUtix_!!3199397430-0-cib.jpg"
+ ],
+ "商品属性": [
+  "材质:不锈钢",
+  "功能:可移动",
+  "置物架分类:置地式",
+  "品牌:无",
+  "风格:现代简约风",
+  "货号:C010504002",
+  "是否进口:否",
+  "产地:浙江",
+  "产品上市时间:2021年秋",
+  "价格段:10-20元",
+  "层数（规格）:小号灰色/大号灰色/大号黑色",
+  "是否有专利:无",
+  "主要下游平台:其他",
+  "主要销售地区:中东/其他",
+  "有可授权的自有品牌:否",
+  "是否跨境出口专供货源:是",
+  "版权:无",
+  "适用位置:台面",
+  "置物用品类型:沥水架",
+  "造型设计:长方形"
+ ],
+ "包装信息": [
+  {
+   "volume": 5700,
+   "sku1": "小号灰色",
+   "length": 30,
+   "width": 19,
+   "weight": 700,
+   "skuId": 4909269687811,
+   "height": 10
+  },
+  {
+   "volume": 7200,
+   "sku1": "大号灰色",
+   "length": 30,
+   "width": 24,
+   "weight": 910,
+   "skuId": 4909269687814,
+   "height": 10
+  },
+  {
+   "volume": 7200,
+   "sku1": "大号黑色",
+   "length": 30,
+   "width": 24,
+   "weight": 910,
+   "skuId": 4909269687813,
+   "height": 10
+  }
+ ],
+ "url": "https://detail.1688.com/offer/655773105602.html",
+ "核页时间": "2026-10-09T11:49:38.213Z"
+}

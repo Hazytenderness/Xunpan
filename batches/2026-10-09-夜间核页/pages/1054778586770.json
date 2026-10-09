@@ -1,0 +1,225 @@
+{
+ "offerId": "1054778586770",
+ "条目": "H0092",
+ "block": false,
+ "卖家公司": "政和县竹里居茶具店（个体工商户）",
+ "旺旺名": "竹里居茶具工厂",
+ "标题": "浴室收纳架，5层竹制置物架，多功能置物架，适用于客厅卧室厨房",
+ "状态": "PUBLISHED",
+ "类目": "收纳整理架、置物架",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "颜色",
+   "值": [
+    "5层自然色",
+    "5层胡桃木色",
+    "5层白色",
+    "5层黑色",
+    "4层黑色",
+    "4层胡桃木色",
+    "4层自然色",
+    "4层白色"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "4层胡桃木色",
+   "价格": "73.98",
+   "库存": 999
+  },
+  {
+   "规格": "4层白色",
+   "价格": "73.98",
+   "库存": 999
+  },
+  {
+   "规格": "5层白色",
+   "价格": "94.61",
+   "库存": 999
+  },
+  {
+   "规格": "5层胡桃木色",
+   "价格": "94.61",
+   "库存": 999
+  },
+  {
+   "规格": "5层黑色",
+   "价格": "94.86",
+   "库存": 999
+  },
+  {
+   "规格": "5层自然色",
+   "价格": "94.61",
+   "库存": 999
+  },
+  {
+   "规格": "4层自然色",
+   "价格": "73.98",
+   "库存": 999
+  },
+  {
+   "规格": "4层黑色",
+   "价格": "73.98",
+   "库存": 999
+  }
+ ],
+ "规格图": [
+  [
+   "5层自然色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01TSNQMg1juybsTBo4P_!!2220760164609-0-cib.jpg"
+  ],
+  [
+   "5层胡桃木色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01q6yMT91juybwrJ2lb_!!2220760164609-0-cib.jpg"
+  ],
+  [
+   "5层白色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01BWVyeU1juybsT8SAl_!!2220760164609-0-cib.jpg"
+  ],
+  [
+   "5层黑色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01hm0jFI1juybwt9BU2_!!2220760164609-0-cib.jpg"
+  ],
+  [
+   "4层黑色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01h7yaF61juybx2a0AU_!!2220760164609-0-cib.jpg"
+  ],
+  [
+   "4层胡桃木色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN019Ya4jy1juybxEfcwz_!!2220760164609-0-cib.jpg"
+  ],
+  [
+   "4层自然色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01IFQkNi1juybwtXxLK_!!2220760164609-0-cib.jpg"
+  ],
+  [
+   "4层白色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01UO4Mhm1juybsTtqd6_!!2220760164609-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "skuPrice",
+ "价格区间": "73.98-94.86",
+ "阶梯价_登录后": [
+  {
+   "price": "73.98",
+   "beginAmount": 50
+  },
+  {
+   "price": "94.86",
+   "beginAmount": 50
+  }
+ ],
+ "到手价": {
+  "价": "73.94",
+  "说明": "新人价",
+  "件数": 50
+ },
+ "起订量": 50,
+ "单位": "套",
+ "可售总量": 7992,
+ "已售": 0,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN012iEdpc1juybx6ufbF_!!2220760164609-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01dP3tdG1juybx22ZN1_!!2220760164609-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01orWw8x1juybwn80bk_!!2220760164609-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01AE4VeE1juybwn4vOh_!!2220760164609-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01hdkIuO1juybx4nmaV_!!2220760164609-0-cib.jpg"
+ ],
+ "商品属性": [
+  "材质:竹",
+  "功能:整理/多层收纳/置物",
+  "层数:4层",
+  "品牌:无",
+  "款式:多层置物架",
+  "收纳场景:卧室收纳/储物间/客厅收纳",
+  "安装方式:组装",
+  "是否进口:否",
+  "风格:简约风",
+  "贸易属性:内贸+外贸",
+  "箱装数量:其他",
+  "产品上市时间:2026年春",
+  "货号:AJ-010412",
+  "颜色:5层自然色/5层胡桃木色/5层白色/5层黑色/4层黑色/4层胡桃木色/4层自然色/4层白色",
+  "专利:否",
+  "是否跨境出口专供货源:否",
+  "适用物品:鞋子/书籍/杂物"
+ ],
+ "包装信息": [
+  {
+   "volume": 0,
+   "sku1": "5层自然色",
+   "length": 0,
+   "width": 0,
+   "weight": 1,
+   "skuId": 6095837724124,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "5层胡桃木色",
+   "length": 0,
+   "width": 0,
+   "weight": 1,
+   "skuId": 6095837724125,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "5层白色",
+   "length": 0,
+   "width": 0,
+   "weight": 1,
+   "skuId": 6095837724126,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "5层黑色",
+   "length": 0,
+   "width": 0,
+   "weight": 1,
+   "skuId": 6095837724127,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "4层黑色",
+   "length": 0,
+   "width": 0,
+   "weight": 1,
+   "skuId": 6095837724128,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "4层胡桃木色",
+   "length": 0,
+   "width": 0,
+   "weight": 1,
+   "skuId": 6095837724129,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "4层自然色",
+   "length": 0,
+   "width": 0,
+   "weight": 1,
+   "skuId": 6095837724130,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "4层白色",
+   "length": 0,
+   "width": 0,
+   "weight": 1,
+   "skuId": 6095837724131,
+   "height": 0
+  }
+ ],
+ "url": "https://detail.1688.com/offer/1054778586770.html",
+ "核页时间": "2026-10-09T11:48:00.282Z"
+}

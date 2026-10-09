@@ -1,0 +1,103 @@
+{
+ "offerId": "992548156664",
+ "条目": "H0059",
+ "block": false,
+ "卖家公司": "深圳市森宇通科技有限公司",
+ "旺旺名": "aosend",
+ "标题": "新款彩屏自动止吠器智能止吠项圈双震动狗项圈亚马逊爆款专供",
+ "状态": "PUBLISHED",
+ "类目": "止吠器",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "规格",
+   "值": [
+    "黑色",
+    "灰色",
+    "橙色"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "黑色",
+   "价格": "59.00",
+   "库存": 2970
+  },
+  {
+   "规格": "橙色",
+   "价格": "59.00",
+   "库存": 954
+  },
+  {
+   "规格": "灰色",
+   "价格": "59.00",
+   "库存": 965
+  }
+ ],
+ "规格图": [
+  [
+   "黑色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01XxVYyl1Mzna3jR5BR_!!2052041506-0-cib.jpg"
+  ],
+  [
+   "灰色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01hXPP8M1MznZubknD6_!!2052041506-0-cib.jpg"
+  ],
+  [
+   "橙色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01kiJPrA1MznZwQG2ZU_!!2052041506-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "rangePrice",
+ "价格区间": "53.00-59.00",
+ "阶梯价_登录后": [
+  {
+   "price": "59.00",
+   "beginAmount": 2
+  },
+  {
+   "price": "56.00",
+   "beginAmount": 5000
+  },
+  {
+   "price": "53.00",
+   "beginAmount": 10000
+  }
+ ],
+ "到手价": null,
+ "起订量": 2,
+ "单位": "件",
+ "可售总量": 4889,
+ "已售": 34,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01XxVYyl1Mzna3jR5BR_!!2052041506-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01JbKKag1MznZqXwqHb_!!2052041506-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN017vqr0r1MznZqMwZFD_!!2052041506-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN017mcpXr1MznZqqp5EQ_!!2052041506-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01hXPP8M1MznZubknD6_!!2052041506-0-cib.jpg"
+ ],
+ "商品属性": [
+  "材质:塑料",
+  "品牌:Rpet",
+  "适用对象:狗",
+  "规格:黑色/灰色/橙色",
+  "是否专利货源:否",
+  "是否跨境出口专供货源:是",
+  "是否进口:否",
+  "有可授权的自有品牌:是",
+  "主要下游平台:ebay/亚马逊/wish/LINIO/SHEIN/速卖通/独立站/LAZADA/shopee",
+  "主要销售地区:非洲/欧洲/南美/东南亚/北美/东北亚/中东/拉丁美洲"
+ ],
+ "包装信息": [
+  {
+   "volume": 465.6,
+   "length": 9.7,
+   "width": 8,
+   "weight": 113,
+   "height": 6
+  }
+ ],
+ "url": "https://detail.1688.com/offer/992548156664.html",
+ "核页时间": "2026-10-09T11:39:39.322Z"
+}

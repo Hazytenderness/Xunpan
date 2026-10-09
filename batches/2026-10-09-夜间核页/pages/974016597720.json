@@ -1,0 +1,202 @@
+{
+ "offerId": "974016597720",
+ "条目": "H0041",
+ "block": false,
+ "卖家公司": "义乌市轩烨工艺品有限公司",
+ "旺旺名": "水云微景观",
+ "标题": "迷你卡通小猫咪公仔玩偶创意车载中控台显示屏装饰品微景观小摆件",
+ "状态": "PUBLISHED",
+ "类目": "玩偶",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "颜色",
+   "值": [
+    "猫咪01#",
+    "猫咪02#",
+    "猫咪03#",
+    "猫咪04#",
+    "猫咪05#",
+    "猫咪07#",
+    "猫咪08#"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "猫咪05#",
+   "价格": "0.50",
+   "库存": 55592
+  },
+  {
+   "规格": "猫咪08#",
+   "价格": "0.50",
+   "库存": 966476
+  },
+  {
+   "规格": "猫咪07#",
+   "价格": "0.50",
+   "库存": 53316
+  },
+  {
+   "规格": "猫咪02#",
+   "价格": "0.40",
+   "库存": 966551
+  },
+  {
+   "规格": "猫咪01#",
+   "价格": "0.40",
+   "库存": 966495
+  },
+  {
+   "规格": "猫咪04#",
+   "价格": "0.50",
+   "库存": 966537
+  },
+  {
+   "规格": "猫咪03#",
+   "价格": "0.40",
+   "库存": 966541
+  }
+ ],
+ "规格图": [
+  [
+   "猫咪01#",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01q1ppMX1LgjSalcK8q_!!2074831329-0-cib.jpg"
+  ],
+  [
+   "猫咪02#",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01bj5Rlu1LgjSa77DeE_!!2074831329-0-cib.jpg"
+  ],
+  [
+   "猫咪03#",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01vFKPgu1LgjSZcyltQ_!!2074831329-0-cib.jpg"
+  ],
+  [
+   "猫咪04#",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01cYjreg1LgjSZczVfW_!!2074831329-0-cib.jpg"
+  ],
+  [
+   "猫咪05#",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01Jk0SxV1LgjSaCOMYI_!!2074831329-0-cib.jpg"
+  ],
+  [
+   "猫咪07#",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01WK7QCN1LgjSalePB7_!!2074831329-0-cib.jpg"
+  ],
+  [
+   "猫咪08#",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01GzkA1z1LgjSaCPVJa_!!2074831329-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "skuPrice",
+ "价格区间": null,
+ "阶梯价_登录后": [
+  {
+   "price": "0.40",
+   "beginAmount": 1
+  },
+  {
+   "price": "0.50",
+   "beginAmount": 1
+  }
+ ],
+ "到手价": null,
+ "起订量": 1,
+ "单位": "个",
+ "可售总量": 4941508,
+ "已售": 250,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN019kSXNK1LgjSa8E9a6_!!2074831329-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN011dZTbC1LgjSZXRr60_!!2074831329-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01tAaABq1LgjSZXSape_!!2074831329-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01OMCGuf1LgjSZXPmB0_!!2074831329-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01B0NfVs1LgjSalEgxU_!!2074831329-0-cib.jpg"
+ ],
+ "商品属性": [
+  "材质:树脂",
+  "品牌:轩烨",
+  "适用年龄:青年（15-35岁）",
+  "造型类别:动物",
+  "包装方式:其它",
+  "产地:浙江",
+  "进口地:中国",
+  "专利及著作权申请时间:其它",
+  "货号:迷你卡通小猫咪公仔玩偶",
+  "是否有导购视频:是",
+  "是否专供外贸:否",
+  "3C配置类别:14岁以上的玩具",
+  "颜色:猫咪01#/猫咪02#/猫咪03#/猫咪04#/猫咪05#/猫咪07#/猫咪08#",
+  "主要下游平台:独立站/LAZADA/其他",
+  "主要销售地区:北美/东北亚/中东/其他",
+  "有可授权的自有品牌:否",
+  "是否跨境出口专供货源:是"
+ ],
+ "包装信息": [
+  {
+   "volume": 7.82,
+   "sku1": "猫咪01#",
+   "length": 2,
+   "width": 2.3,
+   "weight": 6,
+   "skuId": 5926428877820,
+   "height": 1.7
+  },
+  {
+   "volume": 7.2,
+   "sku1": "猫咪02#",
+   "length": 2,
+   "width": 2,
+   "weight": 6,
+   "skuId": 5926428877821,
+   "height": 1.8
+  },
+  {
+   "volume": 8.64,
+   "sku1": "猫咪03#",
+   "length": 2,
+   "width": 2.4,
+   "weight": 6,
+   "skuId": 5926428877822,
+   "height": 1.8
+  },
+  {
+   "volume": 12.88,
+   "sku1": "猫咪04#",
+   "length": 2,
+   "width": 2.8,
+   "weight": 6,
+   "skuId": 5926428877823,
+   "height": 2.3
+  },
+  {
+   "volume": 11.6,
+   "sku1": "猫咪05#",
+   "length": 2,
+   "width": 2.9,
+   "weight": 6,
+   "skuId": 5926428877824,
+   "height": 2
+  },
+  {
+   "volume": 9.18,
+   "sku1": "猫咪07#",
+   "length": 2,
+   "width": 1.7,
+   "weight": 6,
+   "skuId": 5926428877826,
+   "height": 2.7
+  },
+  {
+   "volume": 10,
+   "sku1": "猫咪08#",
+   "length": 2,
+   "width": 2,
+   "weight": 6,
+   "skuId": 5926428877827,
+   "height": 2.5
+  }
+ ],
+ "url": "https://detail.1688.com/offer/974016597720.html",
+ "核页时间": "2026-10-09T11:34:42.763Z"
+}

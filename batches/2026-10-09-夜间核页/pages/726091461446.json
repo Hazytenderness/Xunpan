@@ -1,0 +1,116 @@
+{
+ "offerId": "726091461446",
+ "条目": "H0073",
+ "block": false,
+ "卖家公司": "义乌市岚居日用品有限公司",
+ "旺旺名": "义乌市天恋饰品有限公司",
+ "标题": "书包挂钩课桌侧边挂包神器小学生便携免打孔可拆卸办公室包包挂钩",
+ "状态": "PUBLISHED",
+ "类目": "衣钩、挂钩、粘钩、钩子",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "颜色",
+   "值": [
+    "熊猫",
+    "黄猫",
+    "浣熊",
+    "粉猫"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "浣熊",
+   "价格": null,
+   "库存": 272
+  },
+  {
+   "规格": "黄猫",
+   "价格": null,
+   "库存": 440
+  },
+  {
+   "规格": "粉猫",
+   "价格": null,
+   "库存": 41
+  },
+  {
+   "规格": "熊猫",
+   "价格": null,
+   "库存": 219
+  }
+ ],
+ "规格图": [
+  [
+   "熊猫",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01SDcF921J0TSAGDEWB_!!2206368070966-0-cib.jpg"
+  ],
+  [
+   "黄猫",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01bBje6j1J0TS7zq3Na_!!2206368070966-0-cib.jpg"
+  ],
+  [
+   "浣熊",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01o0zO581J0TS7iEqV3_!!2206368070966-0-cib.jpg"
+  ],
+  [
+   "粉猫",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01xpT9sS1J0TSAGE6em_!!2206368070966-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "rangePrice",
+ "价格区间": null,
+ "阶梯价_登录后": [
+  {
+   "price": "1.86",
+   "beginAmount": 1
+  },
+  {
+   "price": "1.72",
+   "beginAmount": 100
+  }
+ ],
+ "到手价": null,
+ "起订量": 1,
+ "单位": "个",
+ "可售总量": 972,
+ "已售": 7037,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN015GkLTw1J0TSBfkeLT_!!2206368070966-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN017HxyB21J0TS7tYL2V_!!2206368070966-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN0162pOC21J0TS7bxOyE_!!2206368070966-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01qH2qMn1J0TSDXe7LE_!!2206368070966-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01DQ1OMt1J0Tje9TSfH_!!2206368070966-0-cib.jpg"
+ ],
+ "商品属性": [
+  "材质:ABS",
+  "产品类别:折叠挂钩",
+  "品牌:自主",
+  "款式:单钩",
+  "最大承重:0-1kg（含）",
+  "是否进口:否",
+  "颜色:熊猫/黄猫/浣熊/粉猫",
+  "货号:4422",
+  "价格段:5元以内",
+  "产品上市时间:2023年",
+  "专利:否",
+  "个数:1",
+  "主要下游平台:ebay/亚马逊/wish/速卖通/独立站/LAZADA",
+  "主要销售地区:非洲/欧洲/南美/东南亚/北美/东北亚/中东",
+  "有可授权的自有品牌:否",
+  "是否跨境出口专供货源:是",
+  "风格:卡通萌趣"
+ ],
+ "包装信息": [
+  {
+   "volume": 0,
+   "length": 0,
+   "width": 0,
+   "weight": 20,
+   "height": 0
+  }
+ ],
+ "url": "https://detail.1688.com/offer/726091461446.html",
+ "核页时间": "2026-10-09T11:43:01.899Z"
+}

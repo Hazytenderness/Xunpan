@@ -1,0 +1,73 @@
+{
+ "offerId": "560254151446",
+ "条目": "H0072",
+ "block": false,
+ "卖家公司": "余姚市泛威包装容器有限公司",
+ "旺旺名": "jules10037766",
+ "标题": "220MLPE便携按压旅游沐浴洗发水乳液空瓶瓶子 厂家批发",
+ "状态": "PUBLISHED",
+ "类目": "化妆品包装",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "规格型号",
+   "值": [
+    "200ML;200ml;塑料"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "200ML;200ml;塑料",
+   "价格": null,
+   "库存": 99999
+  }
+ ],
+ "规格图": [],
+ "价格展示": "rangePrice",
+ "价格区间": null,
+ "阶梯价_登录后": [
+  {
+   "price": "2.80",
+   "beginAmount": 10000
+  }
+ ],
+ "到手价": null,
+ "起订量": 10000,
+ "单位": "个",
+ "可售总量": 99999,
+ "已售": 0,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01a9vXbc21iIIUBoi37_!!3002467018-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01b9mwg121iIG5h0pDj_!!3002467018-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01m7igYJ21iIG39Vmwt_!!3002467018-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01gFtI6x21iIGCUjQRy_!!3002467018-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01pye7Mn21iIG6or8py_!!3002467018-0-cib.jpg"
+ ],
+ "商品属性": [
+  "产地:中国宁波",
+  "是否进口:否",
+  "货号:FW0666",
+  "塑料品种:PE",
+  "工艺:注塑，吹瓶",
+  "品牌:FW",
+  "是否跨境出口专供货源:是",
+  "误差:1",
+  "成品外包装:外包小塑料袋",
+  "配盖:可定制",
+  "适用对象:洗发水瓶",
+  "配附件:泵头",
+  "是否可加工定制:是"
+ ],
+ "包装信息": [
+  {
+   "volume": 9000,
+   "length": 30,
+   "width": 10,
+   "weight": 45,
+   "height": 30
+  }
+ ],
+ "url": "https://detail.1688.com/offer/560254151446.html",
+ "核页时间": "2026-10-09T11:42:45.905Z"
+}

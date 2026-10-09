@@ -1,0 +1,96 @@
+{
+ "offerId": "985736662517",
+ "条目": "H0058",
+ "block": false,
+ "卖家公司": "深圳市帕帕尼宠物用品有限公司",
+ "旺旺名": "帕帕尼宠物用品",
+ "标题": "2026新款彩屏自动止吠器智能止吠项圈亚马逊爆款专供狗狗项圈充电",
+ "状态": "PUBLISHED",
+ "类目": "止吠器",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "规格",
+   "值": [
+    "BC4S【震动-电击-蜂鸣】"
+   ]
+  },
+  {
+   "属性": "颜色",
+   "值": [
+    "黑色"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "BC4S【震动-电击-蜂鸣】&gt;黑色",
+   "价格": "68.00",
+   "库存": 9948
+  }
+ ],
+ "规格图": [
+  [
+   "BC4S【震动-电击-蜂鸣】",
+   "https://cbu01.alicdn.com/img/ibank/O1CN018icsxv1FY8LDNCD2q_!!3159500498-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "rangePrice",
+ "价格区间": "63.00-68.00",
+ "阶梯价_登录后": [
+  {
+   "price": "68.00",
+   "beginAmount": 1
+  },
+  {
+   "price": "65.00",
+   "beginAmount": 500
+  },
+  {
+   "price": "63.00",
+   "beginAmount": 1000
+  }
+ ],
+ "到手价": null,
+ "起订量": 1,
+ "单位": "个",
+ "可售总量": 9948,
+ "已售": 42,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01nN8pgf1FY8Lx21puy_!!3159500498-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN016YLDG61FY8KzrIY2M_!!3159500498-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01Ehhsb61FY8KzTGtfD_!!3159500498-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01yBudZU1FY8L1Rw0DV_!!3159500498-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN018icsxv1FY8LDNCD2q_!!3159500498-0-cib.jpg"
+ ],
+ "商品属性": [
+  "材质:橡胶",
+  "品牌:中性",
+  "适用对象:通用",
+  "规格:BC4S【震动-电击-蜂鸣】",
+  "颜色:黑色",
+  "是否专利货源:否",
+  "是否跨境出口专供货源:是",
+  "是否进口:否",
+  "有可授权的自有品牌:否",
+  "主要下游平台:ebay/亚马逊/wish/LINIO/SHEIN/速卖通/独立站/LAZADA/shopee",
+  "主要销售地区:非洲/欧洲/南美/东南亚/北美/东北亚/中东/拉丁美洲",
+  "工作原理:自动止吠器",
+  "充电方式:USB充电",
+  "适用场景:场景"
+ ],
+ "包装信息": [
+  {
+   "sku2": "黑色",
+   "volume": 402.325,
+   "sku1": "BC4S【震动-电击-蜂鸣】",
+   "length": 9.5,
+   "width": 7.7,
+   "weight": 147,
+   "skuId": 6119165698224,
+   "height": 5.5
+  }
+ ],
+ "url": "https://detail.1688.com/offer/985736662517.html",
+ "核页时间": "2026-10-09T11:39:22.835Z"
+}

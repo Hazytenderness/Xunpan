@@ -1,0 +1,140 @@
+{
+ "offerId": "866394591242",
+ "条目": "H0051",
+ "block": false,
+ "卖家公司": "霸州市立升家居用品有限公司",
+ "旺旺名": "澎业家居制品",
+ "标题": "跨境微波炉置物架层架可伸缩台面烤箱架子家用电饭煲双层收纳厂家",
+ "状态": "PUBLISHED",
+ "类目": "微波炉层架",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "颜色",
+   "值": [
+    "黑色单层款",
+    "白色单层款",
+    "黑色双层款",
+    "白色双层款"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "黑色双层款",
+   "价格": "55.00",
+   "库存": 79662
+  },
+  {
+   "规格": "黑色单层款",
+   "价格": "30.00",
+   "库存": 80765
+  },
+  {
+   "规格": "白色双层款",
+   "价格": "55.00",
+   "库存": 79791
+  },
+  {
+   "规格": "白色单层款",
+   "价格": "30.00",
+   "库存": 79161
+  }
+ ],
+ "规格图": [
+  [
+   "黑色单层款",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01tw46oO2JLXmVDFXSx_!!2214110029405-0-cib.jpg"
+  ],
+  [
+   "白色单层款",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01LgZEOz2JLXmQdu4Qg_!!2214110029405-0-cib.jpg"
+  ],
+  [
+   "黑色双层款",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01retzdx2JLXmTsMnIl_!!2214110029405-0-cib.jpg"
+  ],
+  [
+   "白色双层款",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01rl68TA2JLXmc9ryRE_!!2214110029405-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "skuPrice",
+ "价格区间": "30.00-55.00",
+ "阶梯价_登录后": [
+  {
+   "price": "30.00",
+   "beginAmount": 1
+  },
+  {
+   "price": "55.00",
+   "beginAmount": 1
+  }
+ ],
+ "到手价": {
+  "价": "25",
+  "说明": "新人价",
+  "件数": 1
+ },
+ "起订量": 1,
+ "单位": "个",
+ "可售总量": 319379,
+ "已售": 1311,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01w99v2k2JLY1PmQIzo_!!2214110029405-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01NEBSFd2JLXmeEfspj_!!2214110029405-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01fCTjPb2JLXmc9fgbA_!!2214110029405-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01CnEzqf2JLXmV59Mur_!!2214110029405-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN013GiqTc2JLY1LWigKW_!!2214110029405-0-cib.jpg"
+ ],
+ "商品属性": [
+  "材质:碳钢",
+  "品牌:澎业",
+  "货号:678",
+  "规格:伸缩款",
+  "颜色:黑色单层款/白色单层款/黑色双层款/白色双层款",
+  "是否跨境出口专供货源:是",
+  "主要销售地区:非洲/欧洲/南美/东南亚/北美/东北亚/中东/其他",
+  "风格:现代简约"
+ ],
+ "包装信息": [
+  {
+   "volume": 10944,
+   "sku1": "黑色单层款",
+   "length": 48,
+   "width": 38,
+   "weight": 2,
+   "skuId": 5694259321529,
+   "height": 6
+  },
+  {
+   "volume": 10944,
+   "sku1": "白色单层款",
+   "length": 48,
+   "width": 38,
+   "weight": 2,
+   "skuId": 5694259321530,
+   "height": 6
+  },
+  {
+   "volume": 18240,
+   "sku1": "黑色双层款",
+   "length": 80,
+   "width": 38,
+   "weight": 4,
+   "skuId": 5694259321531,
+   "height": 6
+  },
+  {
+   "volume": 18240,
+   "sku1": "白色双层款",
+   "length": 80,
+   "width": 38,
+   "weight": 4,
+   "skuId": 5694259321532,
+   "height": 6
+  }
+ ],
+ "url": "https://detail.1688.com/offer/866394591242.html",
+ "核页时间": "2026-10-09T11:37:34.639Z"
+}

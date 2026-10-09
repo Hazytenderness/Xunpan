@@ -1,0 +1,278 @@
+{
+ "offerId": "830754123841",
+ "条目": "H0023",
+ "block": false,
+ "卖家公司": "石家庄查姆纸制品有限公司",
+ "旺旺名": "查姆纸制品",
+ "标题": "网红咖啡杯子一次性奶茶纸杯带盖冷热饮通用外带打包商用批发",
+ "状态": "PUBLISHED",
+ "类目": "纸杯",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "规格型号",
+   "值": [
+    "400ml+蝴蝶白盖25套;只",
+    "400ml+蝴蝶白盖50套;只",
+    "400ml+蝴蝶黑盖25套;只",
+    "400ml+蝴蝶黑盖50套;只",
+    "400ml+蝴蝶透明盖25套;只",
+    "400ml+蝴蝶透明盖50套;只",
+    "400ml+多功能白盖25套;只",
+    "400ml+多功能黑盖25套;只",
+    "400ml+多功能透明盖25套;只",
+    "400ml(不带盖)500只;只",
+    "90口径蝴蝶多功能白盖 500只;只"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "400ml+蝴蝶黑盖25套;只",
+   "价格": "22.90",
+   "库存": 267
+  },
+  {
+   "规格": "400ml+蝴蝶黑盖50套;只",
+   "价格": "44.50",
+   "库存": 133
+  },
+  {
+   "规格": "400ml+多功能白盖25套;只",
+   "价格": "22.90",
+   "库存": 276
+  },
+  {
+   "规格": "400ml+蝴蝶透明盖25套;只",
+   "价格": "22.90",
+   "库存": 267
+  },
+  {
+   "规格": "400ml+蝴蝶透明盖50套;只",
+   "价格": "44.50",
+   "库存": 56
+  },
+  {
+   "规格": "90口径蝴蝶多功能白盖 500只;只",
+   "价格": "95.00",
+   "库存": 627
+  },
+  {
+   "规格": "400ml+蝴蝶白盖50套;只",
+   "价格": "44.50",
+   "库存": 124
+  },
+  {
+   "规格": "400ml+蝴蝶白盖25套;只",
+   "价格": "22.90",
+   "库存": 89
+  },
+  {
+   "规格": "400ml+多功能黑盖25套;只",
+   "价格": "22.90",
+   "库存": 267
+  },
+  {
+   "规格": "400ml(不带盖)500只;只",
+   "价格": "285.00",
+   "库存": 13
+  },
+  {
+   "规格": "400ml+多功能透明盖25套;只",
+   "价格": "22.90",
+   "库存": 150
+  }
+ ],
+ "规格图": [
+  [
+   "400ml+蝴蝶白盖25套;只",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01fur2xW1v4YVy5FInO_!!2214284176119-0-cib.jpg"
+  ],
+  [
+   "400ml+蝴蝶白盖50套;只",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01bjbBGR1v4YW09eeV7_!!2214284176119-0-cib.jpg"
+  ],
+  [
+   "400ml+蝴蝶黑盖25套;只",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01YRsHcH1v4YVv10Z89_!!2214284176119-0-cib.jpg"
+  ],
+  [
+   "400ml+蝴蝶黑盖50套;只",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01hvDTAC1v4YVwt2M7z_!!2214284176119-0-cib.jpg"
+  ],
+  [
+   "400ml+蝴蝶透明盖25套;只",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01GtESCg1v4YVuiqmux_!!2214284176119-0-cib.jpg"
+  ],
+  [
+   "400ml+蝴蝶透明盖50套;只",
+   "https://cbu01.alicdn.com/img/ibank/O1CN011bbybS1v4YVyr3Dli_!!2214284176119-0-cib.jpg"
+  ],
+  [
+   "400ml+多功能白盖25套;只",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01isCJW71v4YVv0xToe_!!2214284176119-0-cib.jpg"
+  ],
+  [
+   "400ml+多功能黑盖25套;只",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01EVUKrA1v4YVzdNVR5_!!2214284176119-0-cib.jpg"
+  ],
+  [
+   "400ml+多功能透明盖25套;只",
+   "https://cbu01.alicdn.com/img/ibank/O1CN019Ott5Y1v4YVy5EEIA_!!2214284176119-0-cib.jpg"
+  ],
+  [
+   "400ml(不带盖)500只;只",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01mDcgR91v4YVv0yghZ_!!2214284176119-0-cib.jpg"
+  ],
+  [
+   "90口径蝴蝶多功能白盖 500只;只",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01H48b4W1v4YY3J18nE_!!2214284176119-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "skuPrice",
+ "价格区间": "22.90-285.00",
+ "阶梯价_登录后": [
+  {
+   "price": "22.90",
+   "beginAmount": 1
+  },
+  {
+   "price": "285.00",
+   "beginAmount": 1
+  }
+ ],
+ "到手价": null,
+ "起订量": 1,
+ "单位": "个",
+ "可售总量": 2269,
+ "已售": 1,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01BCcrB11v4YVtoRq20_!!2214284176119-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01sRLniv1v4YVuLf3vd_!!2214284176119-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN013I4KvR1v4YVv3sYzB_!!2214284176119-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01H3YlLC1v4YVtgwjXC_!!2214284176119-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01ybwHbS1v4YVvVsT5j_!!2214284176119-0-cib.jpg"
+ ],
+ "商品属性": [
+  "undefined:",
+  "undefined:",
+  "产地:中国大陆",
+  "原产国/地区:中国",
+  "用途:冷、热饮杯",
+  "是否有盖:是",
+  "品牌:查姆",
+  "货号:loving",
+  "主要下游平台:wish/亚马逊/ebay",
+  "主要销售地区:东南亚/中国/北美",
+  "有可授权的自有品牌:是",
+  "是否跨境出口专供货源:是",
+  "全国工业生产许可证编号:冀XK16-205-00036",
+  "是否可印logo:是",
+  "是否独立包装:是",
+  "类型:咖啡杯",
+  "适用场景:咖啡杯"
+ ],
+ "包装信息": [
+  {
+   "volume": 0,
+   "sku1": "400ml+蝴蝶白盖25套;只",
+   "length": 0,
+   "width": 0,
+   "weight": 1,
+   "skuId": 5574675977603,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "400ml+蝴蝶白盖50套;只",
+   "length": 0,
+   "width": 0,
+   "weight": 1,
+   "skuId": 5574675977604,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "400ml+蝴蝶黑盖25套;只",
+   "length": 0,
+   "width": 0,
+   "weight": 1,
+   "skuId": 5574675977605,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "400ml+蝴蝶黑盖50套;只",
+   "length": 0,
+   "width": 0,
+   "weight": 1,
+   "skuId": 5574675977606,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "400ml+蝴蝶透明盖25套;只",
+   "length": 0,
+   "width": 0,
+   "weight": 1,
+   "skuId": 5574675977607,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "400ml+蝴蝶透明盖50套;只",
+   "length": 0,
+   "width": 0,
+   "weight": 1,
+   "skuId": 5574675977608,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "400ml+多功能白盖25套;只",
+   "length": 0,
+   "width": 0,
+   "weight": 1,
+   "skuId": 5574675977609,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "400ml+多功能黑盖25套;只",
+   "length": 0,
+   "width": 0,
+   "weight": 1,
+   "skuId": 5574675977610,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "400ml+多功能透明盖25套;只",
+   "length": 0,
+   "width": 0,
+   "weight": 1,
+   "skuId": 5574675977611,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "400ml(不带盖)500只;只",
+   "length": 0,
+   "width": 0,
+   "weight": 1,
+   "skuId": 5574675977612,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "90口径蝴蝶多功能白盖 500只;只",
+   "length": 0,
+   "width": 0,
+   "weight": 1,
+   "skuId": 5751641816349,
+   "height": 0
+  }
+ ],
+ "url": "https://detail.1688.com/offer/830754123841.html",
+ "核页时间": "2026-10-09T11:30:09.007Z"
+}

@@ -1,0 +1,767 @@
+{
+ "offerId": "1073362279642",
+ "条目": "H0078",
+ "block": false,
+ "卖家公司": "义乌市恒摇电子商务商行",
+ "旺旺名": "恒摇电子商务",
+ "标题": "dimoo瞬间的奇遇汽车车载摆件车内屏幕中控台装饰可爱卡通摆玩偶",
+ "状态": "PUBLISHED",
+ "类目": "汽车摆件",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "颜色分类",
+   "值": [
+    "春天亮起来",
+    "带我去远方",
+    "捕捉春天",
+    "它住在靴子里",
+    "被春天接住",
+    "头顶春天",
+    "坠入花海",
+    "吹响春天",
+    "抱紧春天",
+    "吹一口花香",
+    "春天的后坐力",
+    "打包春天",
+    "解锁时间",
+    "雪球里的秘密",
+    "谢谢你的拥抱【隐藏款】",
+    "云朵小兔",
+    "旋转木马",
+    "粉色旋转木马",
+    "熊奶爸",
+    "蓝色小米",
+    "小米坐",
+    "吉他男孩",
+    "风筝秘境",
+    "三眼仔",
+    "火腿",
+    "草莓",
+    "咖啡杯",
+    "胡迪【新】",
+    "裹被子",
+    "蓝色衣架",
+    "粉色小米",
+    "看书",
+    "袜子",
+    "趴趴狗",
+    "飞过春天",
+    "秋千dimo",
+    "飞行员dimo"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "打包春天",
+   "价格": "3.98",
+   "库存": 4885
+  },
+  {
+   "规格": "抱紧春天",
+   "价格": "3.98",
+   "库存": 4860
+  },
+  {
+   "规格": "蓝色衣架",
+   "价格": "3.58",
+   "库存": 4979
+  },
+  {
+   "规格": "飞行员dimo",
+   "价格": "3.98",
+   "库存": 0
+  },
+  {
+   "规格": "吹响春天",
+   "价格": "3.98",
+   "库存": 4790
+  },
+  {
+   "规格": "咖啡杯",
+   "价格": "3.98",
+   "库存": 4939
+  },
+  {
+   "规格": "捕捉春天",
+   "价格": "3.98",
+   "库存": 4727
+  },
+  {
+   "规格": "坠入花海",
+   "价格": "3.98",
+   "库存": 4853
+  },
+  {
+   "规格": "三眼仔",
+   "价格": "4.38",
+   "库存": 4975
+  },
+  {
+   "规格": "带我去远方",
+   "价格": "3.98",
+   "库存": 4660
+  },
+  {
+   "规格": "解锁时间",
+   "价格": "3.98",
+   "库存": 4913
+  },
+  {
+   "规格": "粉色旋转木马",
+   "价格": "3.68",
+   "库存": 4892
+  },
+  {
+   "规格": "吉他男孩",
+   "价格": "4.66",
+   "库存": 4992
+  },
+  {
+   "规格": "谢谢你的拥抱【隐藏款】",
+   "价格": "4.38",
+   "库存": 4999
+  },
+  {
+   "规格": "粉色小米",
+   "价格": "3.98",
+   "库存": 4957
+  },
+  {
+   "规格": "雪球里的秘密",
+   "价格": "3.98",
+   "库存": 4929
+  },
+  {
+   "规格": "蓝色小米",
+   "价格": "3.98",
+   "库存": 4945
+  },
+  {
+   "规格": "小米坐",
+   "价格": "3.88",
+   "库存": 5000
+  },
+  {
+   "规格": "袜子",
+   "价格": "3.68",
+   "库存": 4997
+  },
+  {
+   "规格": "胡迪【新】",
+   "价格": "4.66",
+   "库存": 4943
+  },
+  {
+   "规格": "飞过春天",
+   "价格": "3.98",
+   "库存": 0
+  },
+  {
+   "规格": "旋转木马",
+   "价格": "3.68",
+   "库存": 4890
+  },
+  {
+   "规格": "云朵小兔",
+   "价格": "3.68",
+   "库存": 4946
+  },
+  {
+   "规格": "裹被子",
+   "价格": "3.68",
+   "库存": 4978
+  },
+  {
+   "规格": "风筝秘境",
+   "价格": "3.68",
+   "库存": 4884
+  },
+  {
+   "规格": "趴趴狗",
+   "价格": "3.68",
+   "库存": 4997
+  },
+  {
+   "规格": "头顶春天",
+   "价格": "3.98",
+   "库存": 4870
+  },
+  {
+   "规格": "看书",
+   "价格": "3.68",
+   "库存": 4996
+  },
+  {
+   "规格": "被春天接住",
+   "价格": "3.98",
+   "库存": 4697
+  },
+  {
+   "规格": "秋千dimo",
+   "价格": "3.98",
+   "库存": 0
+  },
+  {
+   "规格": "熊奶爸",
+   "价格": "3.98",
+   "库存": 4952
+  },
+  {
+   "规格": "火腿",
+   "价格": "4.38",
+   "库存": 4973
+  },
+  {
+   "规格": "草莓",
+   "价格": "4.38",
+   "库存": 4976
+  },
+  {
+   "规格": "它住在靴子里",
+   "价格": "3.98",
+   "库存": 4827
+  },
+  {
+   "规格": "吹一口花香",
+   "价格": "3.36",
+   "库存": 4894
+  },
+  {
+   "规格": "春天亮起来",
+   "价格": "3.98",
+   "库存": 4683
+  },
+  {
+   "规格": "春天的后坐力",
+   "价格": "3.98",
+   "库存": 4812
+  }
+ ],
+ "规格图": [
+  [
+   "春天亮起来",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01jeOgDuJuCIE3thOC_!!2220125299569-0-cib.jpg"
+  ],
+  [
+   "带我去远方",
+   "https://cbu01.alicdn.com/img/ibank/O1CN017Leo8WqkomC3thOC_!!2220125299569-0-cib.jpg"
+  ],
+  [
+   "捕捉春天",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01Na2zLG6vJcF3thOC_!!2220125299569-0-cib.jpg"
+  ],
+  [
+   "它住在靴子里",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01XJTr7xvigVI3thOC_!!2220125299569-0-cib.jpg"
+  ],
+  [
+   "被春天接住",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01jkDuHZwycrE3thOC_!!2220125299569-0-cib.jpg"
+  ],
+  [
+   "头顶春天",
+   "https://cbu01.alicdn.com/img/ibank/O1CN010OsjOnsuMnG3thOC_!!2220125299569-0-cib.jpg"
+  ],
+  [
+   "坠入花海",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01OQlckezvk5E3thOC_!!2220125299569-0-cib.jpg"
+  ],
+  [
+   "吹响春天",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01OQbiLClnd3E3thOC_!!2220125299569-0-cib.jpg"
+  ],
+  [
+   "抱紧春天",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01AoBuxw3ePMG3thOC_!!2220125299569-0-cib.jpg"
+  ],
+  [
+   "吹一口花香",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01RuuF2z2uHlJ3thOC_!!2220125299569-0-cib.jpg"
+  ],
+  [
+   "春天的后坐力",
+   "https://cbu01.alicdn.com/img/ibank/O1CN019UwRqEH0UfK3thOC_!!2220125299569-0-cib.jpg"
+  ],
+  [
+   "打包春天",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01fwvydt8pRNC3thOC_!!2220125299569-0-cib.jpg"
+  ],
+  [
+   "解锁时间",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01CGy0dhEfrYI1chua_!!2220125299569-0-cib.jpg"
+  ],
+  [
+   "雪球里的秘密",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01V2QOUhmef3F3thOC_!!2220125299569-0-cib.jpg"
+  ],
+  [
+   "谢谢你的拥抱【隐藏款】",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01OMF0RbCxEwF3thOC_!!2220125299569-0-cib.jpg"
+  ],
+  [
+   "云朵小兔",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01uIJ19jgwAqD3thOC_!!2220125299569-0-cib.jpg"
+  ],
+  [
+   "旋转木马",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01RJ5HZVwlG0C3thOC_!!2220125299569-0-cib.jpg"
+  ],
+  [
+   "粉色旋转木马",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01rWJIJaPsPZE3thOC_!!2220125299569-0-cib.jpg"
+  ],
+  [
+   "熊奶爸",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01qMNldUwkWzK3thOC_!!2220125299569-0-cib.jpg"
+  ],
+  [
+   "蓝色小米",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01Q01GOYxSTKL3thOC_!!2220125299569-0-cib.jpg"
+  ],
+  [
+   "小米坐",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01HABh8og2o2G3thOC_!!2220125299569-0-cib.jpg"
+  ],
+  [
+   "吉他男孩",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01aTR4TA5UHOJ3thOC_!!2220125299569-0-cib.jpg"
+  ],
+  [
+   "风筝秘境",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01VOMI3DPWNSK3thOC_!!2220125299569-0-cib.jpg"
+  ],
+  [
+   "三眼仔",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01z6RA2hyCLLE2BxHU_!!2220125299569-0-cib.jpg"
+  ],
+  [
+   "火腿",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01qbqSTbextsD3thOC_!!2220125299569-0-cib.jpg"
+  ],
+  [
+   "草莓",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01ke3WS0FJinB3thOC_!!2220125299569-0-cib.jpg"
+  ],
+  [
+   "咖啡杯",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01VHMZywAAE3B3thMX_!!2220125299569-0-cib.jpg"
+  ],
+  [
+   "胡迪【新】",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01IdNorY7pNoH2vH2e_!!2220125299569-0-cib.jpg"
+  ],
+  [
+   "裹被子",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01Gp4ODUJgrsK3thOC_!!2220125299569-0-cib.jpg"
+  ],
+  [
+   "蓝色衣架",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01W3bdeO2kzFL3thOC_!!2220125299569-0-cib.jpg"
+  ],
+  [
+   "粉色小米",
+   "https://cbu01.alicdn.com/img/ibank/O1CN011Fc8pO3pjfD3thOC_!!2220125299569-0-cib.jpg"
+  ],
+  [
+   "看书",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01Diy9ohOrTaC3thOC_!!2220125299569-0-cib.jpg"
+  ],
+  [
+   "袜子",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01WrGcL5z7BCC3thOC_!!2220125299569-0-cib.jpg"
+  ],
+  [
+   "趴趴狗",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01QQrbtNYIFvJ3thOC_!!2220125299569-0-cib.jpg"
+  ],
+  [
+   "飞过春天",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01zTgbXpPeBHB3thOC_!!2220125299569-0-cib.jpg"
+  ],
+  [
+   "秋千dimo",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01WB7K5z4d2yJ3thOC_!!2220125299569-0-cib.jpg"
+  ],
+  [
+   "飞行员dimo",
+   "https://cbu01.alicdn.com/img/ibank/O1CN015aSbBB5WgRE3thOC_!!2220125299569-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "skuPrice",
+ "价格区间": null,
+ "阶梯价_登录后": [
+  {
+   "price": "3.36",
+   "beginAmount": 1
+  },
+  {
+   "price": "4.66",
+   "beginAmount": 1
+  }
+ ],
+ "到手价": null,
+ "起订量": 1,
+ "单位": "个",
+ "可售总量": 166610,
+ "已售": 3216,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01ht7hjfPe1AB3thOC_!!2220125299569-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01evt07sCbQ7L3thOC_!!2220125299569-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN019sBzatbhUzF3thOC_!!2220125299569-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01jXUPNuMlQYF3thOC_!!2220125299569-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01F7KByEadu6K3FPpA_!!2220125299569-0-cib.jpg"
+ ],
+ "商品属性": [
+  "风格:创意风",
+  "材质:环保PVC",
+  "功能:装饰",
+  "品牌:其他",
+  "加工定制:否",
+  "是否专利货源:否",
+  "货号:088",
+  "颜色分类:春天亮起来/带我去远方/飞过春天/捕捉春天/它住在靴子里/被春天接住/头顶春天/坠入花海/吹响春天/抱紧春天/吹一口花香/春天的后坐力/打包春天/解锁时间/秋千dimo/雪球里的秘密/谢谢你的拥抱【隐藏款】/云朵小兔/旋转木马/粉色旋转木马/飞行员dimo/熊奶爸/蓝色小米/小米坐/吉他男孩/风筝秘境/三眼仔/火腿/草莓/咖啡杯/胡迪【新】/裹被子/蓝色衣架/粉色小米/看书/袜子/趴趴狗",
+  "外观造型:卡通",
+  "安装方式:粘",
+  "适用位置:仪表台",
+  "是否IP授权:否"
+ ],
+ "包装信息": [
+  {
+   "volume": 0,
+   "sku1": "春天亮起来",
+   "length": 0,
+   "width": 0,
+   "weight": 15,
+   "skuId": 6290301287930,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "带我去远方",
+   "length": 0,
+   "width": 0,
+   "weight": 15,
+   "skuId": 6290301287931,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "飞过春天",
+   "length": 0,
+   "width": 0,
+   "weight": 15,
+   "skuId": 6290301287932,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "捕捉春天",
+   "length": 0,
+   "width": 0,
+   "weight": 15,
+   "skuId": 6290301287933,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "它住在靴子里",
+   "length": 0,
+   "width": 0,
+   "weight": 15,
+   "skuId": 6290301287934,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "被春天接住",
+   "length": 0,
+   "width": 0,
+   "weight": 15,
+   "skuId": 6290301287935,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "头顶春天",
+   "length": 0,
+   "width": 0,
+   "weight": 15,
+   "skuId": 6290301287936,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "坠入花海",
+   "length": 0,
+   "width": 0,
+   "weight": 15,
+   "skuId": 6290301287937,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "吹响春天",
+   "length": 0,
+   "width": 0,
+   "weight": 15,
+   "skuId": 6290301287938,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "抱紧春天",
+   "length": 0,
+   "width": 0,
+   "weight": 15,
+   "skuId": 6290301287939,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "吹一口花香",
+   "length": 0,
+   "width": 0,
+   "weight": 15,
+   "skuId": 6290301287940,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "春天的后坐力",
+   "length": 0,
+   "width": 0,
+   "weight": 15,
+   "skuId": 6290301287941,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "打包春天",
+   "length": 0,
+   "width": 0,
+   "weight": 15,
+   "skuId": 6290301287942,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "解锁时间",
+   "length": 0,
+   "width": 0,
+   "weight": 15,
+   "skuId": 6290301287943,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "秋千dimo",
+   "length": 0,
+   "width": 0,
+   "weight": 15,
+   "skuId": 6290301287944,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "雪球里的秘密",
+   "length": 0,
+   "width": 0,
+   "weight": 15,
+   "skuId": 6290301287945,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "谢谢你的拥抱【隐藏款】",
+   "length": 0,
+   "width": 0,
+   "weight": 16,
+   "skuId": 6309592506120,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "云朵小兔",
+   "length": 0,
+   "width": 0,
+   "weight": 16,
+   "skuId": 6302322639175,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "旋转木马",
+   "length": 0,
+   "width": 0,
+   "weight": 15,
+   "skuId": 6290301287946,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "粉色旋转木马",
+   "length": 0,
+   "width": 0,
+   "weight": 15,
+   "skuId": 6290301287947,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "飞行员dimo",
+   "length": 0,
+   "width": 0,
+   "weight": 15,
+   "skuId": 6290301287948,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "熊奶爸",
+   "length": 0,
+   "width": 0,
+   "weight": 15,
+   "skuId": 6291588318504,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "蓝色小米",
+   "length": 0,
+   "width": 0,
+   "weight": 15,
+   "skuId": 6303198594089,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "小米坐",
+   "length": 0,
+   "width": 0,
+   "weight": 16,
+   "skuId": 6309592506121,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "吉他男孩",
+   "length": 0,
+   "width": 0,
+   "weight": 15,
+   "skuId": 6134788176776,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "风筝秘境",
+   "length": 0,
+   "width": 0,
+   "weight": 15,
+   "skuId": 6134788176779,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "三眼仔",
+   "length": 0,
+   "width": 0,
+   "weight": 16,
+   "skuId": 6134788176775,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "火腿",
+   "length": 0,
+   "width": 0,
+   "weight": 16,
+   "skuId": 6134788176778,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "草莓",
+   "length": 0,
+   "width": 0,
+   "weight": 16,
+   "skuId": 6134788176781,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "咖啡杯",
+   "length": 0,
+   "width": 0,
+   "weight": 16,
+   "skuId": 6134788176777,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "胡迪【新】",
+   "length": 0,
+   "width": 0,
+   "weight": 16,
+   "skuId": 6134788176780,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "裹被子",
+   "length": 0,
+   "width": 0,
+   "weight": 16,
+   "skuId": 6136255296215,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "蓝色衣架",
+   "length": 0,
+   "width": 0,
+   "weight": 16,
+   "skuId": 6302322639174,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "粉色小米",
+   "length": 0,
+   "width": 0,
+   "weight": 16,
+   "skuId": 6303198594090,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "看书",
+   "length": 0,
+   "width": 0,
+   "weight": 16,
+   "skuId": 6143893849814,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "袜子",
+   "length": 0,
+   "width": 0,
+   "weight": 16,
+   "skuId": 6143893849813,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "趴趴狗",
+   "length": 0,
+   "width": 0,
+   "weight": 16,
+   "skuId": 6143893849812,
+   "height": 0
+  }
+ ],
+ "url": "https://detail.1688.com/offer/1073362279642.html",
+ "核页时间": "2026-10-09T11:44:18.781Z"
+}

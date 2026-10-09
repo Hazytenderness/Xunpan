@@ -1,0 +1,75 @@
+{
+ "offerId": "987286413302",
+ "条目": "H0085",
+ "block": false,
+ "卖家公司": "台州市黄岩北威模具工业有限公司",
+ "旺旺名": "hymuju",
+ "标题": "五层重载仓储货架91*46*191CM工厂仓库置物架超市多层展示架",
+ "状态": "PUBLISHED",
+ "类目": "商超货架",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "规格型号",
+   "值": [
+    "91*46*191CM"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "91*46*191CM",
+   "价格": null,
+   "库存": 9999
+  }
+ ],
+ "规格图": [],
+ "价格展示": "rangePrice",
+ "价格区间": null,
+ "阶梯价_登录后": [
+  {
+   "price": "190.00",
+   "beginAmount": 50
+  },
+  {
+   "price": "170.00",
+   "beginAmount": 300
+  }
+ ],
+ "到手价": null,
+ "起订量": 50,
+ "单位": "套",
+ "可售总量": 9999,
+ "已售": 0,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01ejUv4x2FxmhLtGucO_!!950088947-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01rEFN5k2FxmhL2F2q3_!!950088947-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN014t7Ucj2FxmhMbk8xy_!!950088947-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01uVXjZv2FxmhLUcvmA_!!950088947-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN017Za1Gs2FxmhLxC502_!!950088947-0-cib.jpg"
+ ],
+ "商品属性": [
+  "材质:Virgin PP",
+  "品牌:北威",
+  "单双面:单面",
+  "货架量级:中量级",
+  "主要下游平台:wish/亚马逊/独立站/速卖通/LAZADA/ebay/国际站alibaba",
+  "主要销售地区:东南亚/东北亚/拉丁美洲/非洲/欧洲/中东/中国/其他/南美/北美",
+  "是否跨境出口专供货源:是",
+  "货号:OD18-5",
+  "应用场景:商超，物流仓储"
+ ],
+ "包装信息": [
+  {
+   "volume": 117208,
+   "sku1": "91*46*191CM",
+   "length": 91,
+   "width": 46,
+   "weight": 10000,
+   "skuId": 6116750015324,
+   "height": 28
+  }
+ ],
+ "url": "https://detail.1688.com/offer/987286413302.html",
+ "核页时间": "2026-10-09T11:46:13.992Z"
+}
