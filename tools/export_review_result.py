@@ -32,7 +32,7 @@ def git(*args):
 
 push = '--no-push' not in sys.argv
 if push:
-    git('pull', '-q', '--rebase', 'origin', BRANCH)
+    git('pull', '-q', '--rebase', '--autostash', 'origin', BRANCH)  # 别的会话没提交的改动不挡导出（10-09 补资料队列未提交致 12:02 失败）
 
 keep = ['id', '序', '候选ID', '供应商', '字段', '状态', '原值', '新值', '采纳值', '依据', '证据', '来源', '采集时间',
         '导入时间', '处理人', '处理时间']

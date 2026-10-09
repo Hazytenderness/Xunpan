@@ -19,6 +19,8 @@ if [[ $mode == send ]]; then
   git -C $HOME/ClaudeP/06_VibeCoding/ataous/ataous-site-night pull -q --rebase || echo "网站夜间副本 pull 失败，接着用本地"
   plan=$(python3 tools/补资料/建队列.py 2>&1) || { notify "补资料：建队列失败 $plan"; exit 1; }
   echo $plan
+  # 建完就提交队列，发送中途停了也不留未提交改动（10-09 发送一开始就停，队列没提交，挡了 12:02 的复核导出）
+  git add batches/补资料 && git commit -q -m "补资料 $D 建队列" -- batches/补资料 && git push -q
   # 其他批次没发完的待发R1（建队列已把对应款不缺资料的改成不用发）先发，再发补资料；任何一批停了就都停
   out=""; rc=0
   for b in $(python3 -c "import sys;sys.path.insert(0,'tools/lib');from base import batch_dirs,load_queue;print(' '.join(str(b) for b in batch_dirs() if b.name!='补资料' and any(x['状态']=='待发R1' and x.get('旺旺名') for x in load_queue(b))))") batches/补资料; do
