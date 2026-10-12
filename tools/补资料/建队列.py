@@ -20,11 +20,12 @@ SITE = Path.home() / 'ClaudeP/06_VibeCoding/ataous/ataous-site-night'  # 夜间�
 B = BATCHES / '补资料'
 TEXT = '{产品}单品包装尺寸多少（长宽高）、重量多少，500 个什么价？'
 PER_PRODUCT, ACTIVE_HOURS = 2, 72
-ELSEWHERE = {'待发R1', '已发R1', '已回', '已发R2', '已催', '拒绝', '无货'}
+ELSEWHERE = {'待发R1', '待人工核实', '已发R1', '已回', '已发R2', '已催', '拒绝', '无货'}
 
 ap = argparse.ArgumentParser()
 ap.add_argument('--purchase')
 ap.add_argument('--dry', action='store_true')
+ap.add_argument('--policy', help='网站最新可询盘范围JSON（含食品排除与倍数>2）')
 a = ap.parse_args()
 
 purchase = Path(a.purchase) if a.purchase else CACHE / 'purchase.json'
@@ -34,7 +35,7 @@ if not a.purchase:
                        cwd=SITE, capture_output=True, text=True, stdin=subprocess.DEVNULL, encoding='utf-8')
     if r.returncode or not purchase.exists() or purchase.stat().st_size < 1000:
         sys.exit('读线上选品记录失败：' + (r.stderr or r.stdout)[-300:])
-todo = json.loads(subprocess.run(['node', str(Path(__file__).parent / '待补款.mjs'), str(SITE), str(purchase)],
+todo = json.loads(subprocess.run(['node', str(Path(__file__).parent / '待补款.mjs'), str(SITE), str(purchase)] + ([a.policy] if a.policy else []),
                                  check=True, capture_output=True, text=True, encoding='utf-8').stdout)
 
 
@@ -74,7 +75,7 @@ now = now_bj()
 
 
 def active(x):
-    if x['状态'] == '待发R1':
+    if x['状态'] in ('待发R1','待人工核实'):
         return True
     t = sent.get(x['id'])
     return x['状态'] not in ('不用发', '拒绝', '无货') and t is not None and now - t < timedelta(hours=ACTIVE_HOURS)

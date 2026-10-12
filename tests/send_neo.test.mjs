@@ -5,11 +5,12 @@ const source=await fs.readFile(new URL('../tools/browser/send_neo.mjs',import.me
 const AsyncFunction=Object.getPrototypeOf(async function(){}).constructor;
 async function simulate(states, {dry=false,blocked=false,snapshots=[],text='原话'}={}){
   const actions=[];let result;
-  const page={goto:async()=>{},evaluate:async()=>states.shift(),snapshot:async()=>snapshots.shift()||'',
+  const policy=()=>{};
+  const page={goto:async()=>{},evaluate:async fn=>fn===policy?{采纳失败:[],变更款:[],可询盘:[{序:24}]}:states.shift(),snapshot:async()=>snapshots.shift()||'',
     click:async ref=>actions.push(['click',ref]),insertText:async t=>actions.push(['paste',t]),
     waitForFunction:async()=>true};
-  try{await new AsyncFunction('pageFor','job','done','blocked','chatUrl',source)(async()=>page,
-    {ww:'supplier',offerId:'123',text,dry},async r=>{result=r;throw {done:true};},async()=>blocked,()=> 'fixture');}
+  try{await new AsyncFunction('pageFor','job','done','blocked','chatUrl','sitePolicy',source)(async()=>page,
+    {ww:'supplier',offerId:'123',seqs:[24],text,dry},async r=>{result=r;throw {done:true};},async()=>blocked,()=> 'fixture',policy);}
   catch(e){if(!e.done)throw e;}
   return {result,actions};
 }

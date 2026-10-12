@@ -14,7 +14,7 @@ if not dry and not in_work_hours():
     raise SystemExit('不在北京 9:00–18:00，不发')
 b, x = find(key)
 ww = x['旺旺名']
-r = browser('send.mjs', {'ww': ww, 'offerId': x['商品'][0]['offerId'], 'text': text, 'dry': dry}, sending=not dry) or {'结果': '无结果'}
+r = browser('send.mjs', {'ww': ww, 'offerId': x['商品'][0]['offerId'], 'text': text, 'dry': dry,'seqs':[k['序'] for k in x['对应款']]}, sending=not dry) or {'结果': '无结果'}
 if not dry:
     append_log(b, {'id': x['id'], '组': x['组'], '轮次': '回复', '旺旺名': ww, 'offerId': x['商品'][0]['offerId'],
                    '时间': now_bj().isoformat(timespec='seconds'), '文本': text, '核对': r.get('核对'),

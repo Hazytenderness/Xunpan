@@ -17,8 +17,8 @@ print(f'开始盯回复 {minutes:g} 分钟，每 {every:g} 秒一次，已发询
 while True:
     mine = sent_texts()
     r = browser('chat_list.mjs', timeout=120)
-    if r and '错误' in r and '验证' in r['错误']:
-        print('停止：' + r['错误'], flush=True); break
+    if not r or '错误' in r:
+        print('停止：' + (r or {}).get('错误','浏览器无结果'), flush=True); break
     for it in (r or {}).get('会话', []):
         name = it['名']
         if name not in E:

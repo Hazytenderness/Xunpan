@@ -60,11 +60,12 @@ for n, lid in enumerate(order):
         break
     if n:
         time.sleep(random.uniform(120, 240))
+        if not in_work_hours():break
     q = load_queue(B)
     x = next(i for i in q if i['id'] == lid)
     if x['状态'] != '待发R1':
         continue
-    job = {'ww': x['旺旺名'], 'offerId': x['商品'][0]['offerId'], 'text': x['r1_text']}
+    job = {'ww': x['旺旺名'], 'offerId': x['商品'][0]['offerId'], 'text': x['r1_text'], 'seqs':[k['序'] for k in x['对应款']]}
     if not x['r1_text'].startswith(ASK):  # 先问图上这款有没有，再问价和包装【用户定·10/9】
         x['r1_text'] = job['text'] = ASK + x['r1_text']
         save_queue(B, q)
@@ -74,13 +75,16 @@ for n, lid in enumerate(order):
             print(f"{now_bj():%H:%M:%S} {lid} 网站数据里找不到 {x['对应款'][0]['asin']} 的主图，跳过", flush=True)
             continue
     r = browser('send.mjs', job, sending=True) or {'结果': '无结果'}
-    # 1688 聊天临时断线（点此重连）不算风控：等 5、10、15 分钟各重试一次，还断才停【用户定·10/9】
     # Windows 接管：断线、验证、收件人异常立即停，不自动重试。
+    if str(r.get('结果','')).startswith('跳过:'):
+        x['状态']='不用发';x['备注']=(x.get('备注') or '')+'；'+r['结果'];save_queue(B,q)
+        print(lid,r['结果'],flush=True);continue
     print(f"{now_bj():%H:%M:%S} {lid} {x['组']} {x['旺旺名']} {r.get('结果')}", flush=True)
     if r.get('图已发') and r.get('结果') != '成功':  # 图发出去了、字没发成：下次只补发字，不重复发图
         x['图已发'] = True
         save_queue(B, q)
     if r.get('结果') != '成功':
+        x['状态']='待人工核实';save_queue(B,q)
         print('停止：' + json.dumps(r, ensure_ascii=False), flush=True)
         push(f'R1 发送停止于 {lid}（{B.name}）')
         sys.exit(3)

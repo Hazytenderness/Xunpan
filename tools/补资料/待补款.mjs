@@ -1,7 +1,8 @@
 // 货源核实里还没核对完的款（缺资料＋待跑＋重新跑）和每款能问的家。判定直接用网站的 SelectionCore，⛔别在这里另写一份。
 // 用法：node 待补款.mjs <ataous-site 目录> <purchase.json>  → stdout JSON 数组
 import fs from 'node:fs';import vm from 'node:vm';
-const [site,purchase]=process.argv.slice(2);
+const [site,purchase,policy]=process.argv.slice(2);
+const permitted=policy?new Set(JSON.parse(fs.readFileSync(policy,'utf8')).可询盘.map(x=>x.序)):null;
 globalThis.window=globalThis;
 for(const f of ['products.js','products-sources.js','selection-core.js'])vm.runInThisContext(fs.readFileSync(site+'/build/js/'+f,'utf8'),{filename:f});
 const core=globalThis.SelectionCore,sources=globalThis.DECK_SOURCES||{},rows=JSON.parse(fs.readFileSync(purchase,'utf8')).行||{};
@@ -9,7 +10,10 @@ const val=e=>e.状态==='已采纳'&&e.采纳值!==undefined?e.采纳值:e.新�
 const out=[];
 for(const p of globalThis.DECK){
  if(p.历史目录)continue;
+ if(permitted&&!permitted.has(p.序))continue;
  const row=rows[p.序]||{};
+ const latest=core.multiple(core.metrics(p,row));
+ if(!Number.isFinite(latest)||latest<=2||row.选品?.阶段==='不做')continue;
  // 待核对（缺资料＋待跑），加上人点了「重新跑」还没跑完的（多半原本已完成）【用户定·10/8】
  const rs=core.reviewState(p,row,[]),rerun=core.rerunPending(row)&&rs!=='已放弃'&&rs!=='不进流程';
  if(rs!=='待核对'&&!rerun)continue;

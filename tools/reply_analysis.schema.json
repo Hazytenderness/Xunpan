@@ -1,0 +1,17 @@
+{
+  "type":"object","additionalProperties":false,"required":["items"],
+  "properties":{"items":{"type":"array","items":{
+    "type":"object","additionalProperties":false,"required":["id","quotes","reply","needs_user"],
+    "properties":{
+      "id":{"type":"string"},"reply":{"type":"string"},"needs_user":{"type":"string"},
+      "quotes":{"type":"array","items":{
+        "type":"object","additionalProperties":false,"required":["field","value_json","source_indexes","image_files","image_quote","conversion"],
+        "properties":{
+          "field":{"type":"string","enum":["阶梯价","包装尺寸毛重","起订量","现货","匹配确认","箱规","产品尺寸净重","中性包装","定制","打样","交期","开票点数"]},
+          "value_json":{"type":"string"},"source_indexes":{"type":"array","items":{"type":"integer"}},
+          "image_files":{"type":"array","items":{"type":"string"}},"image_quote":{"type":"string"},"conversion":{"type":"string"}
+        }
+      }}
+    }
+  }}}
+}

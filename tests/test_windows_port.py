@@ -9,6 +9,8 @@ ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT / 'tools/lib'))
 import base
 import port
+sys.path.insert(0,str(ROOT/'tools'))
+import analyze_replies
 
 
 class WindowsPortTests(unittest.TestCase):
@@ -57,6 +59,25 @@ class WindowsPortTests(unittest.TestCase):
     def test_beijing_and_minimum_gap(self):
         self.assertEqual(base.now_bj().utcoffset().total_seconds(),8*3600)
         self.assertEqual(base.GAP_SECONDS,60)
+
+    def test_quote_cannot_cite_our_question_as_supplier_fact(self):
+        record={'历史':[{'发送方':'我方','内容':'是500个4元吗？','文件':[],'时间':'2026-10-13'}]}
+        quote={'field':'阶梯价','value_json':'{"单价":4}','source_indexes':[0],
+               'image_files':[],'image_quote':'','conversion':''}
+        with self.assertRaises(ValueError):analyze_replies.validate_quote(quote,record,ROOT)
+
+    def test_queue_preserves_concurrent_other_field_and_rejects_conflict(self):
+        import tempfile
+        with tempfile.TemporaryDirectory(dir=ROOT.parent/'temp') as folder:
+            batch=Path(folder);target=batch/'queue.json'
+            target.write_text(json.dumps([{'id':'test','状态':'待发R1','备注':''}]),encoding='utf-8')
+            local=base.load_queue(batch);local[0]['状态']='已发R1'
+            target.write_text(json.dumps([{'id':'test','状态':'待发R1','备注':'另一进程补记'}]),encoding='utf-8')
+            base.save_queue(batch,local)
+            self.assertEqual(json.loads(target.read_text(encoding='utf-8'))[0]['备注'],'另一进程补记')
+            local=base.load_queue(batch);local[0]['状态']='已回'
+            target.write_text(json.dumps([{'id':'test','状态':'不用发','备注':'另一进程补记'}]),encoding='utf-8')
+            with self.assertRaises(RuntimeError):base.save_queue(batch,local)
 
 
 if __name__=='__main__': unittest.main()

@@ -3,19 +3,30 @@ import fs from 'node:fs/promises';
 import os from 'node:os';
 import path from 'node:path';
 import {fileURLToPath} from 'node:url';
+import {policyAction as sitePolicy} from '../lib/operating-policy.mjs';
 
 const C = path.join(os.homedir(), '.cache', 'xunpan');
 const dir = path.dirname(fileURLToPath(import.meta.url));
 const script = process.argv[2];
-if (!['probe.mjs','page.mjs','chat_list.mjs','chat_read.mjs','send.mjs'].includes(script)) throw Error('未知浏览器任务');
+if (!['probe.mjs','page.mjs','chat_list.mjs','chat_read.mjs','send.mjs','site_policy.mjs'].includes(script)) throw Error('未知浏览器任务');
 const NAME = path.parse(script).name;
+if(script==='send.mjs')await fs.unlink(path.join(C,'send.progress.json')).catch(()=>{});
 const job = JSON.parse(await fs.readFile(path.join(C, 'job.json'), 'utf8'));
 let policy={};try{policy=JSON.parse(await fs.readFile(path.join(C,'windows_permissions.json'),'utf8'));}catch{}
 if(script==='send.mjs'&&policy.send!==true)throw Error('发送未授权');
+if(script==='site_policy.mjs'&&job.apply&&policy.site_policy!==true)throw Error('网站采纳/排除未授权');
 if(script==='chat_list.mjs'&&policy.scan!==true)throw Error('扫描未授权');
 if(script==='chat_read.mjs'){
   const eligible=JSON.parse(await fs.readFile(path.join(dir,'../windows_pending_chats.json'),'utf8'));
-  if(!policy.chat_read_ww?.includes(job.ww)||!eligible.some(x=>x.ww===job.ww))throw Error('聊天读取未授权或不在交接39家中');
+  if(policy.runtime_chats===true){
+    let known=false;const batches=path.join(dir,'../../batches');
+    for(const folder of await fs.readdir(batches,{withFileTypes:true})){
+      if(!folder.isDirectory())continue;
+      const queue=JSON.parse(await fs.readFile(path.join(batches,folder.name,'queue.json'),'utf8').catch(()=>'[]'));
+      if(queue.some(x=>x.旺旺名===job.ww))known=true;
+    }
+    if(!known)throw Error('聊天对象不在本地询盘队列');
+  }else if(!policy.chat_read_ww?.includes(job.ww)||!eligible.some(x=>x.ww===job.ww))throw Error('聊天读取未授权或不在交接39家中');
 }
 const endpoint = process.env.XUNPAN_NEO_URL || 'http://127.0.0.1:9010/mcp';
 const endpointUrl = new URL(endpoint);
@@ -40,7 +51,17 @@ async function call(name, args = {}) {
   if (result.isError) throw Error('neo 工具失败：' + name);
   if (result.structuredContent) return result.structuredContent;
   const text = (result.content || []).filter(x=>x.type==='text').map(x=>x.text).join('\n');
-  try { return JSON.parse(text); } catch { if(['name_session','tabs'].includes(name))return {text};throw Error('neo 返回缺少结构化结果：' + name); }
+  try { return JSON.parse(text); } catch {
+    if(['name_session','tabs'].includes(name))return {text};
+    if(name==='evaluate'){
+      const saved=text.match(/saved to:\s*(.+)$/m)?.[1]?.trim();
+      const full=saved?await fs.readFile(saved,'utf8'):text;
+      const clean=full.replace(/^\[UNTRUSTED_PAGE_CONTENT[^\n]*\n/,'').replace(/\n\[END_UNTRUSTED_PAGE_CONTENT[^\]]*\][\s\S]*$/,'').trim();
+      try{return {value:JSON.parse(clean)};}catch{}
+      await fs.writeFile(path.join(C,'neo_evaluate_protocol.txt'),text);
+    }
+    throw Error('neo 返回缺少结构化结果：' + name);
+  }
 }
 async function run(code) {
   const result = await call('run', {code,timeout:30000});
@@ -69,18 +90,32 @@ if (listedGroup||groupId) { st.groupId=listedGroup||groupId; await fs.writeFile(
 const done = async value => { await fs.writeFile(path.join(C,NAME+'.out.json'),JSON.stringify(value)); throw {done:true}; };
 function pageHandle(id) {
   const execute = code => run(`const p=browser.page(${id}); ${code}`);
+  const nativeNode=selector=>execute(`const r=await p.cdp('Runtime.evaluate',JSON.stringify({expression:${JSON.stringify(`(()=>{for(const f of document.querySelectorAll('iframe')){try{const d=f.contentDocument;if(d.querySelector('pre[contenteditable=true]'))return d.querySelector(${JSON.stringify(selector)});}catch{}}return null;})()`)},returnByValue:false}));if(!r.result?.objectId)throw Error('找不到已核实聊天控件');const d=await p.cdp('DOM.describeNode',JSON.stringify({objectId:r.result.objectId}));return {backendNodeId:d.node.backendNodeId,name:d.node.localName,attributes:d.node.attributes};`);
   return {label:'neo-'+id,
     goto: url=>execute(`await p.goto(${JSON.stringify(url)}); return true;`),
-    evaluate:(fn,arg)=>execute(`return await p.evaluate(${fn.toString()},${JSON.stringify(arg)??'undefined'});`),
-    waitForFunction:(fn,arg,options={})=>execute(`return await p.evaluate(async arg=>{const end=Date.now()+${Math.min(options.timeout||10000,25000)};const fn=${fn.toString()};while(Date.now()<end){if(fn(arg))return true;await new Promise(r=>setTimeout(r,250));}throw Error('等待条件超时');},${JSON.stringify(arg)??'undefined'});`),
+    evaluate:async(fn,arg)=>{
+      const result=await call('evaluate',{page:id,code:`return await (${fn.toString()})(${JSON.stringify(arg)??'undefined'});`,maxChars:200000});
+      if(result.file){const text=await fs.readFile(result.file,'utf8');return JSON.parse(text.slice(text.indexOf('{'),text.lastIndexOf('}')+1));}
+      return result.value;
+    },
+    waitForFunction:(fn,arg,options={})=>execute(`const result=await p.evaluate(async arg=>{const end=Date.now()+${Math.min(options.timeout||10000,25000)};const fn=${fn.toString()};while(Date.now()<end){if(fn(arg))return true;await new Promise(r=>setTimeout(r,250));}throw Error('等待条件超时');},${JSON.stringify(arg)??'undefined'});if(result.value!==true)throw Error('等待条件未满足');return true;`),
     waitForTimeout: async ()=>{},
     snapshot:()=>execute('return (await p.snapshot()).text;'),
     click:ref=>execute(`return await p.click(${JSON.stringify(ref)});`),
     insertText:text=>execute(`return await p.insertText(${JSON.stringify(text)});`),
     upload:(ref,files)=>execute(`return await p.upload(${JSON.stringify(ref)},${JSON.stringify(files)});`),
+    nativeNode,
+    focusEditor:async()=>{const node=await nativeNode('pre[contenteditable=true]');if(node.name!=='pre')throw Error('输入框类型错误');return execute(`return await p.cdp('DOM.focus',JSON.stringify({backendNodeId:${node.backendNodeId}}));`);},
+    uploadImage:async files=>{const node=await nativeNode("input[type=file][accept='image/*']");if(node.name!=='input')throw Error('上传控件类型错误');return execute(`return await p.cdp('DOM.setFileInputFiles',JSON.stringify({backendNodeId:${node.backendNodeId},files:${JSON.stringify(files)}}));`);},
     url:()=>execute('return (await p.snapshot()).url;')};
 }
-const pageFor = async ()=>pageHandle(pageId);
+const jobPages=new Map();
+const pageFor = async label=>{
+  if(jobPages.has(label))return jobPages.get(label);
+  let id=pageId;
+  if(jobPages.size)id=await run("const page=await browser.open('about:blank');return page.id;");
+  const handle=pageHandle(id);jobPages.set(label,handle);return handle;
+};
 const blocked = async p=>{
   const detected=await p.evaluate(()=>{
     const visible=element=>{const r=element.getBoundingClientRect(),s=getComputedStyle(element);return r.width>0&&r.height>0&&s.display!=='none'&&s.visibility!=='hidden';};
@@ -104,12 +139,19 @@ try {
   const source=await fs.readFile(path.join(dir,script==='send.mjs'?'send_neo.mjs':script),'utf8');
   const AsyncFunction=Object.getPrototypeOf(async function(){}).constructor;
   const cacheFs={...fs,writeFile:(filename,...args)=>fs.writeFile(path.basename(filename)==='state.json'?stFile:filename,...args)};
-  await new AsyncFunction('pageFor','st','fs','path','C','job','done','blocked','chatUrl',source)(pageFor,st,cacheFs,path,C,job,done,blocked,chatUrl);
+  await new AsyncFunction('pageFor','st','fs','path','C','job','done','blocked','chatUrl','sitePolicy',source)(pageFor,st,cacheFs,path,C,job,done,blocked,chatUrl,sitePolicy);
 } catch(error) {
-  if (!error?.done) await fs.writeFile(path.join(C,NAME+'.out.json'),JSON.stringify({错误:'BrowserOS neo 停止：'+String(error.message||error).slice(0,200)}));
+  if (!error?.done){
+    let progress={};if(script==='send.mjs')progress=JSON.parse(await fs.readFile(path.join(C,'send.progress.json'),'utf8').catch(()=>'{}'));
+    const message='BrowserOS neo 停止：'+String(error.message||error).slice(0,200);
+    await fs.writeFile(path.join(C,NAME+'.out.json'),JSON.stringify({...progress,错误:message,...(script==='send.mjs'?{结果:'停止:'+message}:{})}));
+  }
 } finally {
   if(script!=='probe.mjs'){
     const result=JSON.parse(await fs.readFile(path.join(C,NAME+'.out.json'),'utf8').catch(()=>'{}'));
-    if(!result.错误&&!String(result.结果||'').startsWith('停止'))await run(`await browser.page(${pageId}).close();return true;`).catch(()=>{});
+    if(!result.错误&&!String(result.结果||'').startsWith('停止')){
+      const ids=[...jobPages.values()].map(p=>+p.label.slice(4));if(!ids.length)ids.push(pageId);
+      await run(`for(const id of ${JSON.stringify(ids)})await browser.page(id).close();return true;`).catch(()=>{});
+    }
   }
 }

@@ -5,6 +5,8 @@
 发送、读聊天、扫消息列表、核页不会同时操作浏览器。
 """
 import os
+import copy
+import tempfile
 from port import file_lock, require, permissions
 import json
 import subprocess
@@ -23,6 +25,7 @@ BJ = timezone(timedelta(hours=8))
 
 GAP_SECONDS = 60          # 任意两条消息之间的最短间隔
 WORK_HOURS = (9, 18)      # 北京时间可发消息的时段
+_queue_baselines = {}
 
 
 def now_bj():
@@ -48,11 +51,37 @@ def batch_dirs():
 
 
 def load_queue(batch):
-    return json.loads((Path(batch) / 'queue.json').read_text(encoding='utf-8'))
+    key=Path(batch).resolve()
+    rows=json.loads((key / 'queue.json').read_text(encoding='utf-8'))
+    _queue_baselines[key]=copy.deepcopy(rows)
+    return rows
 
 
 def save_queue(batch, q):
-    (Path(batch) / 'queue.json').write_text(json.dumps(q, ensure_ascii=False, indent=1), encoding='utf-8')
+    key=Path(batch).resolve();target=key/'queue.json'
+    with file_lock(CACHE/'queue_write.lock'):
+        current=json.loads(target.read_text(encoding='utf-8')) if target.exists() else []
+        old={x['id']:x for x in _queue_baselines.get(key,[])};by={x['id']:x for x in current};missing=object()
+        for wanted in q:
+            ident=wanted['id']
+            if ident not in old:
+                if ident in by and by[ident]!=wanted:raise RuntimeError('询盘队列新增ID冲突，停止')
+                if ident not in by:current.append(copy.deepcopy(wanted));by[ident]=current[-1]
+                continue
+            if ident not in by:raise RuntimeError('询盘条目已被其他操作移除，停止')
+            for field in old[ident].keys()|wanted.keys():
+                before=old[ident].get(field,missing);after=wanted.get(field,missing)
+                if before==after:continue
+                actual=by[ident].get(field,missing)
+                if actual!=before and actual!=after:raise RuntimeError('询盘队列同字段并发冲突，停止')
+                if after is missing:by[ident].pop(field,None)
+                else:by[ident][field]=copy.deepcopy(after)
+        temp_root=ROOT.parent/'temp';temp_root.mkdir(exist_ok=True)
+        with tempfile.NamedTemporaryFile(mode='w',encoding='utf-8',newline='\n',prefix='xunpan_queue_',suffix='.json',dir=temp_root,delete=False) as f:
+            json.dump(current,f,ensure_ascii=False,indent=1);temporary=Path(f.name)
+        try:os.replace(temporary,target)
+        finally:temporary.unlink(missing_ok=True)
+        _queue_baselines[key]=copy.deepcopy(current)
 
 
 def entries(include_unsent=True):
@@ -116,7 +145,9 @@ def browser(script, job=None, timeout=300, sending=False):
         if script == 'chat_read.mjs':
             allowed = permissions().get('chat_read_ww', [])
             pending = json.loads((ROOT / 'tools/windows_pending_chats.json').read_text(encoding='utf-8'))
-            eligible = {x['ww'] for x in pending}
+            eligible = set(entries()) if permissions().get('runtime_chats') is True else {x['ww'] for x in pending}
+            if permissions().get('runtime_chats') is True:
+                allowed = eligible
             if not job or job.get('ww') not in allowed or job.get('ww') not in eligible:
                 raise SystemExit('聊天读取未授权：会标为已读，必须先经用户确认指定条目')
         if script == 'chat_list.mjs':
@@ -124,6 +155,8 @@ def browser(script, job=None, timeout=300, sending=False):
     with file_lock(LOCK):
         if sending:
             wait_gap()
+            if not in_work_hours():
+                return {'结果':'停止:不在北京时间9:00–18:00'}
         (CACHE / 'job.json').write_text(json.dumps(job or {}, ensure_ascii=False), encoding='utf-8')
         out.unlink(missing_ok=True)
         if os.name == 'nt':

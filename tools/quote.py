@@ -6,7 +6,8 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).parent / 'lib'))
 from base import find
 
-qid, add = sys.argv[1], json.loads(sys.argv[2])
+qid = sys.argv[1]
+add = json.loads(Path(sys.argv[3]).read_text(encoding='utf-8')) if sys.argv[2]=='--file' else json.loads(sys.argv[2])
 b, _ = find(qid)
 f = b / 'quotes.jsonl'
 rows = [json.loads(l) for l in f.read_text(encoding='utf-8').splitlines() if l.strip()] if f.exists() else []
