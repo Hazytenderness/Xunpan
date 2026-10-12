@@ -18,8 +18,8 @@ args = ap.parse_args()
 
 ROOT = Path(__file__).resolve().parent.parent
 B = ROOT / 'batches/2026-10-05-洗衣'
-queue = {x['id']: x for x in json.loads((B / 'queue.json').read_text())}
-match = {(m['id'], m['序'], m['offerId']): m for m in json.loads((B / '核页规格匹配.json').read_text())}
+queue = {x['id']: x for x in json.loads((B / 'queue.json').read_text(encoding='utf-8'))}
+match = {(m['id'], m['序'], m['offerId']): m for m in json.loads((B / '核页规格匹配.json').read_text(encoding='utf-8'))}
 BATCH = '演示·询盘回复'
 
 replies = [
@@ -61,7 +61,7 @@ items = triage(items, Path(args.site))
 out = ROOT / 'demo/review_feed_demo.json'
 out.parent.mkdir(exist_ok=True)
 out.write_text(json.dumps({'批次': BATCH, '来源': '询盘回复', '生成时间': max(i['采集时间'] for i in items), '条目': items},
-                          ensure_ascii=False, indent=1))
+                          ensure_ascii=False, indent=1), encoding='utf-8')
 for i in items:
     print(i['序'], i['字段'], i['新值'], '|', i['建议'])
 print(out)

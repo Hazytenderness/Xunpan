@@ -4,8 +4,8 @@ from pathlib import Path
 from concurrent.futures import ThreadPoolExecutor
 S = Path(os.environ['XUNPAN_WORK']); B = Path(os.environ['XUNPAN_BATCH'])
 name, ids = sys.argv[1], [int(i) for i in sys.argv[2].split(',')]
-P = {x['序']: x for x in json.load(open(S / 'products.json'))}
-q = json.load(open(B / 'queue.json'))
+P = {x['序']: x for x in json.load(open(S / 'products.json', encoding='utf-8'))}
+q = json.load(open(B / 'queue.json', encoding='utf-8'))
 out = S / 'chunks' / name; (out / 'img').mkdir(parents=True, exist_ok=True)
 lst = lambda v: ast.literal_eval(v) if isinstance(v, str) and v.startswith('[') else (v or [])
 jobs, rows = [], []
@@ -20,7 +20,7 @@ for 序 in ids:
         c = {'条目': e['id'], 'offerId': o, '链接': e['商品'][0]['商品链接']}
         if not f.exists():
             c['核页'] = '未抓到'; item['候选'].append(c); continue
-        d = json.loads(f.read_text())
+        d = json.loads(f.read_text(encoding='utf-8'))
         if d.get('noContext') or not d.get('标题'):
             c['核页'] = '页面无商品数据（可能下架/打不开）'; c['页面开头'] = (d.get('textHead') or '')[:120]; item['候选'].append(c); continue
         mains = lst(d.get('主图'))
@@ -58,5 +58,5 @@ for r in rows:
     for i in ims: sheet.paste(i, (x, 0)); x += i.width + 8
     sheet.save(out / 'img' / f"sheet_{r['序']}.jpg", quality=80)
     r['对照图'] = f"img/sheet_{r['序']}.jpg"
-(out / 'input.json').write_text(json.dumps(rows, ensure_ascii=False, indent=1))
+(out / 'input.json').write_text(json.dumps(rows, ensure_ascii=False, indent=1), encoding='utf-8')
 print(name, '款', len(rows), '候选', sum(len(r['候选']) for r in rows), '图', len(jobs))

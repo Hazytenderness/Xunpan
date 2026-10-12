@@ -6,6 +6,8 @@ import argparse, json, random, re, subprocess, sys, time, urllib.request
 from pathlib import Path
 sys.path.insert(0, str(Path(__file__).parent / 'lib'))
 from base import ROOT, CACHE, browser, load_queue, save_queue, append_log, to_beijing, in_work_hours, now_bj
+from port import require
+require('send')
 
 ap = argparse.ArgumentParser()
 ap.add_argument('batch')
@@ -23,7 +25,7 @@ def main_image(asin):
     f = CACHE / 'img' / f'{asin}.jpg'
     if not f.exists():
         url = next((u for js in ('products.js', 'products-au.js')
-                    for u in re.findall(r'"asin":"%s"[^{}]*?"图":"([^"]+)"' % asin, (SITE_JS / js).read_text())), None)
+                    for u in re.findall(r'"asin":"%s"[^{}]*?"图":"([^"]+)"' % asin, (SITE_JS / js).read_text(encoding='utf-8'))), None)
         if not url:
             return None
         f.parent.mkdir(exist_ok=True)
@@ -34,6 +36,7 @@ def main_image(asin):
 def push(msg):
     if a.no_push:
         return
+    require('github_push')
     subprocess.run(['git', '-C', str(ROOT), 'add', str(B)])
     subprocess.run(['git', '-C', str(ROOT), 'commit', '-q', '-m', msg])
     subprocess.run(['git', '-C', str(ROOT), 'pull', '-q', '--rebase'])
@@ -72,12 +75,7 @@ for n, lid in enumerate(order):
             continue
     r = browser('send.mjs', job, sending=True) or {'结果': '无结果'}
     # 1688 聊天临时断线（点此重连）不算风控：等 5、10、15 分钟各重试一次，还断才停【用户定·10/9】
-    for k in (1, 2, 3):
-        if '聊天连接断开' not in str(r.get('结果')) or not in_work_hours():
-            break
-        print(f'{now_bj():%H:%M:%S} {lid} 聊天断线，{5 * k} 分钟后重试', flush=True)
-        time.sleep(300 * k)
-        r = browser('send.mjs', job, sending=True) or {'结果': '无结果'}
+    # Windows 接管：断线、验证、收件人异常立即停，不自动重试。
     print(f"{now_bj():%H:%M:%S} {lid} {x['组']} {x['旺旺名']} {r.get('结果')}", flush=True)
     if r.get('图已发') and r.get('结果') != '成功':  # 图发出去了、字没发成：下次只补发字，不重复发图
         x['图已发'] = True

@@ -11,7 +11,7 @@ minutes = float(sys.argv[1]) if len(sys.argv) > 1 else 10
 every = float(sys.argv[2]) if len(sys.argv) > 2 else 60
 E = entries(include_unsent=False)
 state_f = CACHE / 'watch_state.json'
-state = json.loads(state_f.read_text()) if state_f.exists() else {}
+state = json.loads(state_f.read_text(encoding='utf-8')) if state_f.exists() else {}
 end = time.time() + minutes * 60
 print(f'开始盯回复 {minutes:g} 分钟，每 {every:g} 秒一次，已发询盘的店 {len(E)} 家', flush=True)
 while True:
@@ -29,7 +29,7 @@ while True:
         if changed and not ours and not SYSTEM.search(last):
             print(f"新回复|{E[name][1]['id']}|{name}|未读{it['未读']}|{last[:50]}", flush=True)
         state[name] = last
-    state_f.write_text(json.dumps(state, ensure_ascii=False))
+    state_f.write_text(json.dumps(state, ensure_ascii=False), encoding='utf-8')
     if time.time() + every > end:
         break
     time.sleep(every)

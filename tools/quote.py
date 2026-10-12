@@ -9,12 +9,12 @@ from base import find
 qid, add = sys.argv[1], json.loads(sys.argv[2])
 b, _ = find(qid)
 f = b / 'quotes.jsonl'
-rows = [json.loads(l) for l in f.read_text().splitlines() if l.strip()] if f.exists() else []
+rows = [json.loads(l) for l in f.read_text(encoding='utf-8').splitlines() if l.strip()] if f.exists() else []
 row = next((r for r in rows if r['id'] == qid), None)
 if not row:
     row = {'id': qid, '状态': '已回'}
     rows.append(row)
 for k, (v, said, t) in add.items():
     row[k] = {'值': v, '原话': said, '时间': t}
-f.write_text('\n'.join(json.dumps(r, ensure_ascii=False) for r in rows) + '\n')
+f.write_text('\n'.join(json.dumps(r, ensure_ascii=False) for r in rows) + '\n', encoding='utf-8')
 print(b.name, qid, list(add))

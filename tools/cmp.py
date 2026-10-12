@@ -8,7 +8,7 @@ from base import CACHE, find
 
 ap = argparse.ArgumentParser()
 ap.add_argument('key')
-ap.add_argument('--site', default=str(Path.home() / 'ClaudeP/06_VibeCoding/ataous/ataous-site'))
+ap.add_argument('--site', default=str(Path.home() / 'ClaudeP/06_VibeCoding/ataous/ataous-site-night'))
 ap.add_argument('--main', type=int, default=3)
 a = ap.parse_args()
 B, x = find(a.key)
@@ -17,7 +17,7 @@ out.mkdir(parents=True, exist_ok=True)
 js = 'const fs=require("fs"),c={};c.window=c;require("vm").runInNewContext(fs.readFileSync(process.argv[1],"utf8"),c);' \
      'process.stdout.write(JSON.stringify(Object.fromEntries((c.DECK_AU||c.DECK).map(d=>[d.序,d.图||""]))))'
 deck = 'products-au.js' if x.get('站') == 'au' else 'products.js'  # 两站编号会撞号，按条目记的站点取图
-pics = json.loads(subprocess.run(['node', '-e', js, f'{a.site}/build/js/{deck}'], capture_output=True, text=True).stdout)
+pics = json.loads(subprocess.run(['node', '-e', js, f'{a.site}/build/js/{deck}'], capture_output=True, text=True, encoding='utf-8').stdout)
 
 
 def get(src, name):
@@ -45,7 +45,7 @@ for p in x['商品']:
     if not f.exists():
         print(f"没有核页数据 {p['offerId']}，先跑 hepage.py")
         continue
-    d = json.loads(f.read_text())
+    d = json.loads(f.read_text(encoding='utf-8'))
     for i, u in enumerate(lst(d.get('主图'))[:a.main]):
         get(u, f"1688_{p['offerId']}_main{i + 1}.jpg")
     for i, (spec, u) in enumerate(lst(d.get('规格图'))):

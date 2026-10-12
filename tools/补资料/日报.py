@@ -16,13 +16,13 @@ from base import CACHE, batch_dirs, now_bj
 D = now_bj().strftime('%Y-%m-%d')
 F = CACHE / f'buziliao_day_{D}.json'
 KEYS = ['新回复', '回了', '单价', '尺寸', '推网站']
-st = json.loads(F.read_text()) if F.exists() else {'轮': 0, **{k: 0 for k in KEYS}, '要你定': []}
+st = json.loads(F.read_text(encoding='utf-8')) if F.exists() else {'轮': 0, **{k: 0 for k in KEYS}, '要你定': []}
 cmd = sys.argv[1]
 
 if cmd == 'asked':
     print('\n'.join(st['要你定']) or '（今天还没有）')
 elif cmd == 'round':
-    text = Path(sys.argv[2]).read_text()
+    text = Path(sys.argv[2]).read_text(encoding='utf-8')
     st['轮'] += 1
     m = re.search(r'^统计\s+(.*)$', text, re.M)
     for k, v in re.findall(r'(\S+?)=(\d+)', m.group(1) if m else ''):
@@ -31,7 +31,7 @@ elif cmd == 'round':
     new = [l.strip() for l in text.splitlines() if l.strip().startswith('要你定：') and l.strip() not in st['要你定']]
     st['要你定'] += new
     stop = [l.strip() for l in text.splitlines() if l.strip().startswith('⚠')]
-    F.write_text(json.dumps(st, ensure_ascii=False))
+    F.write_text(json.dumps(st, ensure_ascii=False), encoding='utf-8')
     hm = now_bj().strftime('%H:%M')
     out = stop[:1] + new
     if out:
@@ -41,12 +41,12 @@ elif cmd == 'daily':
     for b in batch_dirs():
         f = b / 'sent_log.jsonl'
         if f.exists():
-            for l in f.read_text().splitlines():
+            for l in f.read_text(encoding='utf-8').splitlines():
                 x = json.loads(l) if l.strip() else {}
                 if str(x.get('时间', '')).startswith(D) and x.get('结果') == '成功':
                     r1 += x.get('轮次') == 'R1'
                     rp += x.get('轮次') != 'R1'
-    left = sum(1 for x in json.loads((Path(__file__).resolve().parents[2] / 'batches/补资料/queue.json').read_text()) if x['状态'] == '待发R1')
+    left = sum(1 for x in json.loads((Path(__file__).resolve().parents[2] / 'batches/补资料/queue.json').read_text(encoding='utf-8')) if x['状态'] == '待发R1')
     lines = [f'补资料日报 {D[5:]}',
              f'发询盘 {r1} 家，跟进回复 {rp} 条；队列还剩 {left} 家',
              f"收到回复 {st['新回复']} 家，记到单价 {st['单价']} 家、包装尺寸 {st['尺寸']} 家，推到网站 {st['推网站']} 条"]

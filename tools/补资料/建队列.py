@@ -31,11 +31,11 @@ purchase = Path(a.purchase) if a.purchase else CACHE / 'purchase.json'
 if not a.purchase:
     # 10-09 起网站把选品记录分 16 片存，旧的整份 purchase.json 不再更新：用 拉记录.py 拼回整份
     r = subprocess.run([sys.executable, str(Path(__file__).resolve().parents[1] / '拉记录.py'), 'jp', str(purchase)],
-                       cwd=SITE, capture_output=True, text=True, stdin=subprocess.DEVNULL)
+                       cwd=SITE, capture_output=True, text=True, stdin=subprocess.DEVNULL, encoding='utf-8')
     if r.returncode or not purchase.exists() or purchase.stat().st_size < 1000:
         sys.exit('读线上选品记录失败：' + (r.stderr or r.stdout)[-300:])
 todo = json.loads(subprocess.run(['node', str(Path(__file__).parent / '待补款.mjs'), str(SITE), str(purchase)],
-                                 check=True, capture_output=True, text=True).stdout)
+                                 check=True, capture_output=True, text=True, encoding='utf-8').stdout)
 
 
 def short(spec):
@@ -66,7 +66,7 @@ for b in batch_dirs():
 q = load_queue(B) if (B / 'queue.json').exists() else []
 sent = {}
 if (B / 'sent_log.jsonl').exists():
-    for line in (B / 'sent_log.jsonl').read_text().splitlines():
+    for line in (B / 'sent_log.jsonl').read_text(encoding='utf-8').splitlines():
         if line.strip():
             r = json.loads(line)
             sent[r['id']] = datetime.fromisoformat(r['时间'])
@@ -139,6 +139,6 @@ save_queue(B, q)
 for b in other_drop:
     save_queue(b, others[b])
 if not (B / '核页规格匹配.json').exists():
-    (B / '核页规格匹配.json').write_text('[]')
+    (B / '核页规格匹配.json').write_text('[]', encoding='utf-8')
 (B / 'batch.json').write_text(json.dumps({'批次': '补资料', '来源': '每天北京 8:50 由 tools/补资料/建队列.py 从 ataous 货源核实待核对款滚动生成',
-                                         '最近一次': now.isoformat(timespec='seconds'), '本次': summary}, ensure_ascii=False, indent=1))
+                                         '最近一次': now.isoformat(timespec='seconds'), '本次': summary}, ensure_ascii=False, indent=1), encoding='utf-8')

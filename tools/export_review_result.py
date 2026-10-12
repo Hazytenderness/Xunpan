@@ -19,7 +19,13 @@ if '--beijing-hours' in sys.argv:
     if datetime.now(timezone(timedelta(hours=8))).hour not in hours:
         sys.exit(0)
 BRANCH = 'main'
-token = (Path.home() / '.config/xunpan/ataous_review_token').read_text().strip()
+sys.path.insert(0, str(ROOT / 'tools/lib'))
+from port import require
+if '--dry' not in sys.argv:
+    require('local_export')
+if '--push' in sys.argv:
+    require('github_push')
+token = (Path.home() / '.config/xunpan/ataous_review_token').read_text(encoding='utf-8').strip()
 # 两站都导出（澳洲 10-09 起）；澳洲条目带 站:au，日本站条目格式不变
 data = {'条数': 0, '条目': []}
 for 站 in ('jp', 'au'):
@@ -32,10 +38,10 @@ for 站 in ('jp', 'au'):
 
 
 def git(*args):
-    return subprocess.run(['git', '-C', str(ROOT), *args], check=True, capture_output=True, text=True).stdout
+    return subprocess.run(['git', '-C', str(ROOT), *args], check=True, capture_output=True, text=True, encoding='utf-8').stdout
 
 
-push = '--no-push' not in sys.argv
+push = '--push' in sys.argv
 if push:
     git('pull', '-q', '--rebase', '--autostash', 'origin', BRANCH)  # 别的会话没提交的改动不挡导出（10-09 补资料队列未提交致 12:02 失败）
 
@@ -52,17 +58,19 @@ for batch, rows in groups.items():
     folder = ROOT / 'batches' / batch
     if not folder.is_dir():
         folder = ROOT / 'batches' / '_未分批'
-        folder.mkdir(parents=True, exist_ok=True)
+        if '--dry' not in sys.argv:
+            folder.mkdir(parents=True, exist_ok=True)
     out = folder / 'review_result.json'
     body = {'批次': batch, '统计': dict(Counter(r['状态'] for r in rows)),
             '条数': len(rows), '条目': rows}
     text = json.dumps(body, ensure_ascii=False, indent=1) + '\n'
-    if not out.exists() or out.read_text() != text:
-        out.write_text(text)
+    if not out.exists() or out.read_text(encoding='utf-8') != text:
+        if '--dry' not in sys.argv:
+            out.write_text(text, encoding='utf-8')
         changed.append(str(out.relative_to(ROOT)))
 
 today = datetime.now(timezone(timedelta(hours=8))).strftime('%Y-%m-%d')
-print(today, '复核记录', data['条数'], '条', '有变化' if changed else '无变化', changed)
+print(today, '复核记录', data['条数'], '条', '只读试算：预计更新' if '--dry' in sys.argv and changed else '有变化' if changed else '无变化', changed)
 if changed and push:
     git('add', *changed)
     git('commit', '-q', '-m', f'复核结果导出 {today}（北京时间）')

@@ -9,10 +9,13 @@ import json
 import sys
 import urllib.request
 from pathlib import Path
+sys.path.insert(0, str(Path(__file__).resolve().parent / 'lib'))
+from port import require
+require('review_push')
 
 feed = Path(sys.argv[1]) / 'review_feed.json'
-token = (Path.home() / '.config/xunpan/ataous_review_token').read_text().strip()
-站 = json.loads(feed.read_text()).get('站', 'jp')
+token = (Path.home() / '.config/xunpan/ataous_review_token').read_text(encoding='utf-8').strip()
+站 = json.loads(feed.read_text(encoding='utf-8')).get('站', 'jp')
 assert 站 in ('jp', 'au'), 站
 print('推送到', 站, '站')
 req = urllib.request.Request(f'https://ataous.com/api/{站}/review-feed', data=feed.read_bytes(), method='POST',

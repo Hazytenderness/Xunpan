@@ -4,7 +4,8 @@
 脚本把结果写进 ~/.cache/xunpan/<脚本名>.out.json。整个调用过程持有同一把浏览器锁，
 发送、读聊天、扫消息列表、核页不会同时操作浏览器。
 """
-import fcntl
+import os
+from port import file_lock, require, permissions
 import json
 import subprocess
 import time
@@ -47,11 +48,11 @@ def batch_dirs():
 
 
 def load_queue(batch):
-    return json.loads((Path(batch) / 'queue.json').read_text())
+    return json.loads((Path(batch) / 'queue.json').read_text(encoding='utf-8'))
 
 
 def save_queue(batch, q):
-    (Path(batch) / 'queue.json').write_text(json.dumps(q, ensure_ascii=False, indent=1))
+    (Path(batch) / 'queue.json').write_text(json.dumps(q, ensure_ascii=False, indent=1), encoding='utf-8')
 
 
 def entries(include_unsent=True):
@@ -78,7 +79,7 @@ def find(key):
 
 
 def append_log(batch, row):
-    with open(Path(batch) / 'sent_log.jsonl', 'a') as f:
+    with open(Path(batch) / 'sent_log.jsonl', 'a', encoding='utf-8') as f:
         f.write(json.dumps(row, ensure_ascii=False) + '\n')
 
 
@@ -87,7 +88,7 @@ def sent_texts():
     for b in batch_dirs():
         f = b / 'sent_log.jsonl'
         if f.exists():
-            for l in f.read_text().splitlines():
+            for l in f.read_text(encoding='utf-8').splitlines():
                 if l.strip():
                     out.add(json.loads(l)['文本'][:20])
     return out
@@ -95,30 +96,46 @@ def sent_texts():
 
 def wait_gap():
     if LAST.exists():
-        left = GAP_SECONDS - (time.time() - float(LAST.read_text() or 0))
+        left = GAP_SECONDS - (time.time() - float(LAST.read_text(encoding='utf-8') or 0))
         if left > 0:
             time.sleep(left)
 
 
 def mark_sent():
-    LAST.write_text(str(time.time()))
+    LAST.write_text(str(time.time()), encoding='utf-8')
 
 
 def browser(script, job=None, timeout=300, sending=False):
     """在浏览器锁内运行 tools/browser/<script>，返回脚本写出的 JSON；失败返回 None。"""
     out = CACHE / (Path(script).stem + '.out.json')
-    with open(LOCK, 'w') as lk:
-        fcntl.flock(lk, fcntl.LOCK_EX)
+    if os.name == 'nt':
+        if script != 'probe.mjs' and (CACHE / 'neo_paused.json').exists():
+            raise SystemExit('浏览器已暂停：用户处理验证并明确说继续后才能恢复')
+        if script == 'send.mjs':
+            require('send')
+        if script == 'chat_read.mjs':
+            allowed = permissions().get('chat_read_ww', [])
+            pending = json.loads((ROOT / 'tools/windows_pending_chats.json').read_text(encoding='utf-8'))
+            eligible = {x['ww'] for x in pending}
+            if not job or job.get('ww') not in allowed or job.get('ww') not in eligible:
+                raise SystemExit('聊天读取未授权：会标为已读，必须先经用户确认指定条目')
+        if script == 'chat_list.mjs':
+            require('scan')
+    with file_lock(LOCK):
         if sending:
             wait_gap()
-        (CACHE / 'job.json').write_text(json.dumps(job or {}, ensure_ascii=False))
+        (CACHE / 'job.json').write_text(json.dumps(job or {}, ensure_ascii=False), encoding='utf-8')
         out.unlink(missing_ok=True)
-        code = f'const NAME = {json.dumps(Path(script).stem)};\n' + (BROWSER / '_prelude.txt').read_text() + '\n' + (BROWSER / script).read_text()
-        r = subprocess.run(['ego-browser', 'nodejs', '-e', code],
-                           capture_output=True, text=True, timeout=timeout, stdin=subprocess.DEVNULL)
+        if os.name == 'nt':
+            command = ['node', str(BROWSER / 'neo_bridge.mjs'), script]
+        else:
+            code = f'const NAME = {json.dumps(Path(script).stem)};\n' + (BROWSER / '_prelude.txt').read_text(encoding='utf-8') + '\n' + (BROWSER / script).read_text(encoding='utf-8')
+            command = ['ego-browser', 'nodejs', '-e', code]
+        r = subprocess.run(command, capture_output=True, text=True, encoding='utf-8',
+                           errors='replace', timeout=timeout, stdin=subprocess.DEVNULL)
         if sending:
             mark_sent()
     if out.exists():
-        return json.loads(out.read_text())
-    (CACHE / 'last_error.txt').write_text(r.stdout[-3000:] + '\n' + r.stderr[-3000:])
+        return json.loads(out.read_text(encoding='utf-8'))
+    (CACHE / 'last_error.txt').write_text(r.stdout[-3000:] + '\n' + r.stderr[-3000:], encoding='utf-8')
     return None

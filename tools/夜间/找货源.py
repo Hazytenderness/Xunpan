@@ -16,13 +16,17 @@ QUAL = {'SUPER_FACTORY': '超级工厂', 'POWER_FACTORY': '实力商家', 'SOURC
 PLAIN_KEEP, TASK_SIZE = 5, 12
 NEAR = ('上海', '江苏', '安徽', '江西', '福建')
 cmd, B = sys.argv[1], Path(sys.argv[2])
+sys.path.insert(0, str(Path(__file__).resolve().parents[1] / 'lib'))
+from port import require
+if cmd in ('search', 'kw'):
+    require('paid_search')
 DATE = datetime.date.today().isoformat()
-L = {str(x['序']): x for x in json.loads((B / '任务清单.json').read_text())}
+L = {str(x['序']): x for x in json.loads((B / '任务清单.json').read_text(encoding='utf-8'))}
 
 
 def jload(name, default=None):
     f = B / name
-    return json.loads(f.read_text()) if f.exists() else default
+    return json.loads(f.read_text(encoding='utf-8')) if f.exists() else default
 
 
 def num(v):
@@ -39,7 +43,7 @@ def lab(lst, label):
 
 
 def offers_of(f):
-    return ((json.loads(f.read_text()).get('result') or {}).get('result') or {}).get('offerInfo', {}).get('offerList') or []
+    return ((json.loads(f.read_text(encoding='utf-8')).get('result') or {}).get('result') or {}).get('offerInfo', {}).get('offerList') or []
 
 
 def cand(o, i, total, kw=None):
@@ -115,14 +119,14 @@ def tasks(pool, folder, sheet_folder):
             lines.append(f"## 序 {s}\n亚马逊商品：{L[s]['名']}\n亚马逊类目：{L[s]['类']}\n对照图：{B / sheet_folder / (s + '.jpg')}（左上 AMZ=亚马逊原品，#n=下列候选）")
             lines += [f"- #{i} offerId={c['offerId']} ¥{c['价格']} 1688类别={c['1688类别']} 标题：{c['标题']}" for i, c in enumerate(v['候选'], 1)]
             lines.append('')
-        (B / folder / f'task_{k + 1}.md').write_text('\n'.join(lines))
+        (B / folder / f'task_{k + 1}.md').write_text('\n'.join(lines), encoding='utf-8')
     print(folder, '款', len(items), '候选', sum(len(v['候选']) for _, v in items), '任务包', math.ceil(len(items) / TASK_SIZE))
 
 
 def reviews():
     rev = {}
     for f in sorted(B.glob('review*/batch_*.json')):
-        for s, d in json.loads(f.read_text()).items():
+        for s, d in json.loads(f.read_text(encoding='utf-8')).items():
             rev.setdefault(str(s), {}).update(d)
     return rev
 
@@ -134,7 +138,7 @@ def kept(s, pools, rev):
 def search(field, value, raw, logname, items):
     from aoxia_api import post
     (B / raw).mkdir(exist_ok=True)
-    log = open(B / logname, 'a')
+    log = open(B / logname, 'a', encoding='utf-8')
     for s, v in items:
         f = B / raw / f'{s}.json'
         if f.exists():
@@ -145,7 +149,7 @@ def search(field, value, raw, logname, items):
         log.write(json.dumps({'序': s, '输入': v, '开始': t0, '完成': datetime.datetime.now().isoformat(timespec='seconds'),
                               'resultCode': r.get('resultCode'), '条数': n, '错误': r.get('_http') and r.get('_body')}, ensure_ascii=False) + '\n'); log.flush()
         if r.get('resultCode') == 'SUCCESS':
-            f.write_text(json.dumps(r, ensure_ascii=False))
+            f.write_text(json.dumps(r, ensure_ascii=False), encoding='utf-8')
         print(s, r.get('resultCode'), n, flush=True)
         if r.get('resultCode') in ('FAIL_ACCOUNT_POINT_NOT_ENOUGH', 'FAIL_ACCOUNT_ERROR'):
             sys.exit('遨虾账户：' + r.get('resultCode'))
@@ -156,7 +160,7 @@ if cmd == 'search':
     search('searchImageUrl', None, 'raw', 'calls.jsonl', [(s, x['图']) for s, x in L.items() if x.get('图')])
 elif cmd == 'screen':
     pool = {s: {'候选': screen_offers(s, offers_of(B / 'raw' / f'{s}.json')) if (B / 'raw' / f'{s}.json').exists() else []} for s in L}
-    (B / 'pool.json').write_text(json.dumps(pool, ensure_ascii=False, indent=1))
+    (B / 'pool.json').write_text(json.dumps(pool, ensure_ascii=False, indent=1), encoding='utf-8')
     sheets(pool, 'sheets'); tasks(pool, 'review', 'sheets')
 elif cmd == 'need-kw':
     pool, rev = jload('pool.json', {}), reviews()
@@ -174,7 +178,7 @@ elif cmd == 'kw':
         prev = pool.get(s, {}).get('候选') or []
         mine = {c['memberId'] or c['公司'] for c in kept(s, [pool], rev)}
         pk[s] = {'候选': screen_offers(s, offers_of(f), q, mine, {c['offerId'] for c in prev})}
-    (B / 'pool_kw.json').write_text(json.dumps(pk, ensure_ascii=False, indent=1))
+    (B / 'pool_kw.json').write_text(json.dumps(pk, ensure_ascii=False, indent=1), encoding='utf-8')
     sheets(pk, 'sheets_kw'); tasks(pk, 'review_kw', 'sheets_kw')
 elif cmd == 'rank':
     pool, pk, rev = jload('pool.json', {}), jload('pool_kw.json', {}), reviews()
@@ -221,8 +225,8 @@ elif cmd == 'rank':
         seeds[x['asin']] = {'匹配模式': '主图搜索排名', '参考成本': rows[0]['参考价'],
                             '参考成本说明': '采用排名第一的图搜采购参考成本（1688 搜索起价，人民币）；同类相似货源，实际规格与装数按SKU选择；人工报价优先。', '货源候选': rows}
         summary[s]['入选'] = [q['候选ID'] for q in rows]; summary[s]['审图同款'] = sum(map(same, ks)); summary[s]['入选同款'] = sum(map(same, ks[:3]))
-    (B / 'seeds.json').write_text(json.dumps(seeds, ensure_ascii=False, indent=1))
-    (B / '汇总.json').write_text(json.dumps(summary, ensure_ascii=False, indent=1))
+    (B / 'seeds.json').write_text(json.dumps(seeds, ensure_ascii=False, indent=1), encoding='utf-8')
+    (B / '汇总.json').write_text(json.dumps(summary, ensure_ascii=False, indent=1), encoding='utf-8')
     has = sum(1 for v in seeds.values() if not v.get('图搜无结果'))
     print(json.dumps({'款': len(seeds), '找到': has, '无结果': len(seeds) - has, '候选条': sum(len(v.get('货源候选', [])) for v in seeds.values()),
                       '有未审候选的款': sum(1 for v in summary.values() if v['未审']),

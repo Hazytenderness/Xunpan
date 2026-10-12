@@ -33,7 +33,7 @@ for key in sys.argv[1:]:
         m['文件'] = files
     (b / 'chats').mkdir(exist_ok=True)
     (b / 'chats' / f'{offer}.json').write_text(json.dumps({'offerId': offer, '旺旺名': ww, '条目': x['id'], '批次': b.name,
-                                                            '读取时间': now_bj().isoformat(timespec='seconds'), '消息': msgs}, ensure_ascii=False, indent=1))
+                                                            '读取时间': now_bj().isoformat(timespec='seconds'), '消息': msgs}, ensure_ascii=False, indent=1), encoding='utf-8')
     mine = [i for i, m in enumerate(msgs) if m['发送方'] == '我方']
     start = mine[-2] if len(mine) >= 2 else (mine[-1] if mine else 0)
     print(f"## {x['id']} {ww} | 询：{' / '.join(k['规格'] for k in x['对应款'])} | 我方共 {len(mine)} 条")
