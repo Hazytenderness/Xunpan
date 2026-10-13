@@ -68,6 +68,8 @@ def run(args, cwd=None, input=None, env=None, timeout=3600):
         CACHE.mkdir(parents=True,exist_ok=True)
         result_log=CACHE/f'failed_{Path(str(args[1])).stem if len(args)>1 else "process"}_{os.getpid()}.err'
         result_log.write_text(result.stderr,encoding='utf-8')
+        if 'XUNPAN_REVIEW_SYNC_NETWORK' in result.stderr:
+            raise RuntimeError('XUNPAN_REVIEW_SYNC_NETWORK: 网站报价同步连接失败，保留本地资料')
         raise RuntimeError(f'{Path(str(args[0])).name} 执行失败，退出码 {result.returncode}')
     return result.stdout
 

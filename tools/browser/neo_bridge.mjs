@@ -105,7 +105,7 @@ function pageHandle(id) {
     goto: url=>execute(`const current=await p.snapshot();if(current.url.split('#')[0]!==${JSON.stringify(url)}.split('#')[0])await p.goto(${JSON.stringify(url)});return true;`),
     evaluate:async(fn,arg)=>{
       if(fn!==sitePolicy){
-        return execute(`const result=await p.evaluate(${fn.toString()},${JSON.stringify(arg)??'undefined'});return result.value;`);
+        return execute(`const result=await p.evaluate(${fn.toString()},${JSON.stringify(arg)??'undefined'});if(result.value===undefined)throw Error('页面读取没有有效返回值');return result.value;`);
       }
       const result=await call('evaluate',{page:id,code:`return await (${fn.toString()})(${JSON.stringify(arg)??'undefined'});`,maxChars:200000});
       if(result.file){const text=await fs.readFile(result.file,'utf8');return JSON.parse(text.slice(text.indexOf('{'),text.lastIndexOf('}')+1));}
@@ -149,6 +149,7 @@ const blocked = async p=>{
         [...d.querySelectorAll('#nc_1_wrapper,.nc-container,[id*="captcha"],input[placeholder*="验证码"]')].some(visible);
     });
   });
+  if(detected!==true&&detected!==false)throw Error('风险检查没有有效结果，停止');
   if(detected)await fs.writeFile(path.join(C,'neo_paused.json'),JSON.stringify({原因:'出现验证、风险或掉登录；等待用户明确继续',时间:new Date().toISOString()}));
   return detected;
 };
