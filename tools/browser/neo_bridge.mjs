@@ -94,6 +94,9 @@ function pageHandle(id) {
   return {label:'neo-'+id,
     goto: url=>execute(`await p.goto(${JSON.stringify(url)}); return true;`),
     evaluate:async(fn,arg)=>{
+      if(fn!==sitePolicy){
+        return execute(`const result=await p.evaluate(${fn.toString()},${JSON.stringify(arg)??'undefined'});return result.value;`);
+      }
       const result=await call('evaluate',{page:id,code:`return await (${fn.toString()})(${JSON.stringify(arg)??'undefined'});`,maxChars:200000});
       if(result.file){const text=await fs.readFile(result.file,'utf8');return JSON.parse(text.slice(text.indexOf('{'),text.lastIndexOf('}')+1));}
       return result.value;

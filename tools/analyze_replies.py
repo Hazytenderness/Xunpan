@@ -28,11 +28,19 @@ def context(ids):
 def validate_quote(q,record,batch,visible_images=None):
     if q['field'] not in FIELDS:raise ValueError('未知报价字段')
     value=json.loads(q['value_json'])
+    if q['field']=='现货' and value is False:value='无货'
     indices=q['source_indexes']
     sources=[record['历史'][i] for i in indices if 0<=i<len(record['历史']) and record['历史'][i]['发送方']=='对方']
     if len(sources)!=len(indices):raise ValueError('引用必须来自实际商家消息')
-    actual_files={name for m in record['历史'] if m['发送方']=='对方' for name in m['文件']}
-    if any(name not in actual_files for name in q['image_files']):raise ValueError('图片引用不在聊天证据中')
+    actual_files={(batch/name).resolve():name for m in record['历史'] if m['发送方']=='对方' for name in m['文件']}
+    # 附图清单用仓库相对路径，聊天记录用批次相对路径；只归一化同一已存在证据。
+    normalized=[]
+    for name in q['image_files']:
+        candidate=(ROOT/name).resolve() if name.replace('\\','/').startswith('batches/') else (batch/name).resolve()
+        if not candidate.is_relative_to((batch/'media').resolve()):raise ValueError('图片引用越出本条批次')
+        if candidate not in actual_files:raise ValueError('图片引用不在聊天证据中')
+        normalized.append(actual_files[candidate])
+    q['image_files']=normalized
     if visible_images is not None and any((batch/name).resolve() not in visible_images for name in q['image_files']):raise ValueError('图片未实际提供给Codex，不能作为报价证据')
     if not sources and not q['image_files']:raise ValueError('报价缺原始证据')
     if q['field']=='阶梯价' and (not isinstance(value,dict) or not isinstance(value.get('单价'),(int,float)) or value['单价']<=0):raise ValueError('采购单价无效')

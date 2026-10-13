@@ -66,6 +66,16 @@ class WindowsPortTests(unittest.TestCase):
                'image_files':[],'image_quote':'','conversion':''}
         with self.assertRaises(ValueError):analyze_replies.validate_quote(quote,record,ROOT)
 
+    def test_root_relative_image_resolves_to_same_supplier_evidence(self):
+        batch=ROOT/'batches/补资料'
+        photo='media/test/image.jpg'
+        record={'历史':[{'发送方':'对方','内容':'见图','文件':[photo],'时间':'2026-10-13'}]}
+        quote={'field':'包装尺寸毛重','value_json':'{"重量克":100}','source_indexes':[0],
+               'image_files':['batches/补资料/'+photo],'image_quote':'100g','conversion':''}
+        value=analyze_replies.validate_quote(quote,record,batch,{(batch/photo).resolve()})
+        self.assertEqual(value[0]['重量克'],100)
+        self.assertEqual(quote['image_files'],[photo])
+
     def test_queue_preserves_concurrent_other_field_and_rejects_conflict(self):
         import tempfile
         with tempfile.TemporaryDirectory(dir=ROOT.parent/'temp') as folder:

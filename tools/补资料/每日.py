@@ -29,6 +29,7 @@ def main():
     ap.add_argument('mode', choices=['send', 'read'])
     ap.add_argument('hours', nargs='?', default='9,10,11,12,13,14,15,16,17,18')
     ap.add_argument('--execute', action='store_true')
+    ap.add_argument('--resume', action='store_true',help='在工作时段从已保存的发送队列继续，不重发成功项')
     a = ap.parse_args()
     now = now_bj(); day = now.date().isoformat()
     plan = {'模式': a.mode, '北京时间': now.isoformat(), '允许小时': a.hours,
@@ -48,7 +49,7 @@ def main():
             if a.mode == 'send':
                 require('send')
                 stamp = CACHE / f'buziliao_send_{day}_{now.hour}'
-                if stamp.exists(): return
+                if stamp.exists() and not a.resume: return
                 # 仅允许已经只读核实过的断点补字，不重复发图。
                 for b in batch_dirs():
                     if any(x['id'] == 'BZ0097' and x['状态'] == '待发R1' and not x.get('断点核实',{}).get('允许补文字') for x in load_queue(b)):

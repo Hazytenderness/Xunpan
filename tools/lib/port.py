@@ -64,6 +64,9 @@ def run(args, cwd=None, input=None, env=None, timeout=3600):
                             timeout=timeout, stdin=subprocess.DEVNULL if input is None else None)
     if result.returncode:
         # 不把凭据或第三方原始响应写进异常。
+        CACHE.mkdir(parents=True,exist_ok=True)
+        result_log=CACHE/f'failed_{Path(str(args[1])).stem if len(args)>1 else "process"}_{os.getpid()}.err'
+        result_log.write_text(result.stderr,encoding='utf-8')
         raise RuntimeError(f'{Path(str(args[0])).name} 执行失败，退出码 {result.returncode}')
     return result.stdout
 

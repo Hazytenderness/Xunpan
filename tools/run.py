@@ -7,6 +7,7 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).parent / 'lib'))
 from base import ROOT, CACHE, browser, load_queue, save_queue, append_log, to_beijing, in_work_hours, now_bj
 from port import require
+from images import download_image
 require('send')
 
 ap = argparse.ArgumentParser()
@@ -29,7 +30,7 @@ def main_image(asin):
         if not url:
             return None
         f.parent.mkdir(exist_ok=True)
-        f.write_bytes(urllib.request.urlopen(re.sub(r'\._[^/]*_\.jpg$', '.jpg', url), timeout=30).read())  # 去掉尺寸后缀取原图（加 SL1000 有的图会变成小图）
+        download_image(url,f)
     return str(f)
 
 
@@ -70,7 +71,10 @@ for n, lid in enumerate(order):
         x['r1_text'] = job['text'] = ASK + x['r1_text']
         save_queue(B, q)
     if not x.get('图已发'):
-        job['img'] = main_image(x['对应款'][0]['asin'])
+        try:job['img'] = main_image(x['对应款'][0]['asin'])
+        except RuntimeError:
+            print(f'{lid} 商品主图下载失败，保持待发并跳过本条',flush=True)
+            continue
         if not job['img']:
             print(f"{now_bj():%H:%M:%S} {lid} 网站数据里找不到 {x['对应款'][0]['asin']} 的主图，跳过", flush=True)
             continue

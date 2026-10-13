@@ -12,7 +12,7 @@ for key in sys.argv[1:]:
     ww, offer = x['旺旺名'], x['商品'][0]['offerId']
     r = browser('chat_read.mjs', {'ww': ww, 'offerId': offer}, timeout=180)
     if not r or '错误' in r:
-        print(json.dumps({'id': x['id'], '旺旺名': ww, '错误': (r or {}).get('错误', '浏览器无结果')}, ensure_ascii=False)); continue
+        print(json.dumps({'id': x['id'], '旺旺名': ww, '错误': (r or {}).get('错误', '浏览器无结果'),'实际页头':(r or {}).get('实际页头',[])}, ensure_ascii=False)); continue
     msgs = []
     for m in r['消息']:
         who = '我方' if m['我方'] else ('系统' if m['模板'] or SYSTEM.search(m['内容'] or '') else '对方')

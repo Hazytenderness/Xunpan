@@ -11,7 +11,10 @@ try {
 } catch {}
 await p.waitForTimeout(2500);
 if (await blocked(p)) await done({ 错误: "出现验证或风控提示" });
-if (!ok) await done({ 错误: "打开的不是这家店的聊天" });
+if (!ok) {
+  const actual=await p.evaluate(()=>[...document.querySelectorAll('iframe')].map(f=>{try{return f.contentDocument.querySelector('.conversation-header')?.textContent.trim()||'';}catch{return '';}}).filter(Boolean));
+  await done({ 错误: "聊天页未完成收件人核验，不读取", 期望:job.ww,实际页头:actual });
+}
 const msgs = await p.evaluate(() => {
   for (const f of document.querySelectorAll("iframe")) { try {
     const d = f.contentDocument; if (!d.querySelector("pre[contenteditable=true]")) continue;
