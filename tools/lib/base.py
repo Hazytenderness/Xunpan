@@ -168,7 +168,7 @@ def browser(script, job=None, timeout=300, sending=False):
                            errors='replace', timeout=timeout, stdin=subprocess.DEVNULL)
         if sending:
             mark_sent()
-    if out.exists():
-        return json.loads(out.read_text(encoding='utf-8'))
-    (CACHE / 'last_error.txt').write_text(r.stdout[-3000:] + '\n' + r.stderr[-3000:], encoding='utf-8')
-    return None
+        if out.exists():
+            return json.loads(out.read_text(encoding='utf-8'))
+        (CACHE / 'last_error.txt').write_text(r.stdout[-3000:] + '\n' + r.stderr[-3000:], encoding='utf-8')
+        return None
