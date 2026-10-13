@@ -28,6 +28,8 @@ def context(ids):
 def validate_quote(q,record,batch,visible_images=None):
     if q['field'] not in FIELDS:raise ValueError('未知报价字段')
     value=json.loads(q['value_json'])
+    if q['field']=='匹配确认' and isinstance(value,dict) and set(value)=={'状态'}:
+        value=value['状态']
     if q['field']=='现货' and value is False:value='无货'
     indices=q['source_indexes']
     sources=[record['历史'][i] for i in indices if 0<=i<len(record['历史']) and record['历史'][i]['发送方']=='对方']
