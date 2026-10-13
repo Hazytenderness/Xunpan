@@ -12,7 +12,7 @@ def download_image(url,target):
     for source in urls:
         try:
             if os.name=='nt':
-                result=subprocess.run(['curl.exe','--fail','--location','--max-time','30',source],capture_output=True)
+                result=subprocess.run(['curl.exe','--fail','--location','--max-time','30',source],capture_output=True,creationflags=subprocess.CREATE_NO_WINDOW)
                 if result.returncode:continue
                 data=result.stdout
             else:data=urllib.request.urlopen(source,timeout=30).read()

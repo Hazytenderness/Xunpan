@@ -15,6 +15,7 @@ from datetime import datetime, timedelta
 from pathlib import Path
 sys.path.insert(0, str(Path(__file__).resolve().parents[1] / 'lib'))
 from base import ROOT, BATCHES, CACHE, batch_dirs, load_queue, save_queue, now_bj
+from port import HIDDEN
 
 SITE = Path.home() / 'ClaudeP/06_VibeCoding/ataous/ataous-site-night'  # 夜间任务的网站副本，货源候选和匹配度最新
 B = BATCHES / '补资料'
@@ -32,11 +33,11 @@ purchase = Path(a.purchase) if a.purchase else CACHE / 'purchase.json'
 if not a.purchase:
     # 10-09 起网站把选品记录分 16 片存，旧的整份 purchase.json 不再更新：用 拉记录.py 拼回整份
     r = subprocess.run([sys.executable, str(Path(__file__).resolve().parents[1] / '拉记录.py'), 'jp', str(purchase)],
-                       cwd=SITE, capture_output=True, text=True, stdin=subprocess.DEVNULL, encoding='utf-8')
+                       cwd=SITE, capture_output=True, text=True, stdin=subprocess.DEVNULL, encoding='utf-8',creationflags=HIDDEN)
     if r.returncode or not purchase.exists() or purchase.stat().st_size < 1000:
         sys.exit('读线上选品记录失败：' + (r.stderr or r.stdout)[-300:])
 todo = json.loads(subprocess.run(['node', str(Path(__file__).parent / '待补款.mjs'), str(SITE), str(purchase)] + ([a.policy] if a.policy else []),
-                                 check=True, capture_output=True, text=True, encoding='utf-8').stdout)
+                                 check=True, capture_output=True, text=True, encoding='utf-8',creationflags=HIDDEN).stdout)
 
 
 def short(spec):

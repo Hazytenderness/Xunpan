@@ -2,7 +2,7 @@
 const p = await pageFor(st.readPage || "p2"); if (!st.readPage) { st.readPage = p.label; await fs.writeFile(path.join(C, "state.json"), JSON.stringify(st)); }
 const home = "https://air.1688.com/app/ocms-fusion-components-1688/def_cbu_web_im/index.html";
 await p.goto(home, { timeout: 30000 }).catch(() => {});
-try { await p.waitForFunction(() => [...document.querySelectorAll("iframe")].some(f => { try { return f.contentDocument.querySelector(".conversation-item"); } catch { return false; } }), undefined, { timeout: 20000 }); } catch {}
+try { await p.waitForFunction(() => [...document.querySelectorAll("iframe")].some(f => { try { return f.contentDocument.querySelector(".conversation-item"); } catch { return false; } }), undefined, { timeout: 60000 }); } catch {}
 await p.waitForTimeout(1500);
 if (await blocked(p)) await done({ 错误: "出现验证或风控提示" });
 const items = await p.evaluate(() => {

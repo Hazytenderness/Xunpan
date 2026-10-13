@@ -7,7 +7,7 @@
 import os
 import copy
 import tempfile
-from port import file_lock, require, permissions
+from port import file_lock, require, permissions,HIDDEN
 import json
 import subprocess
 import time
@@ -165,7 +165,7 @@ def browser(script, job=None, timeout=300, sending=False):
             code = f'const NAME = {json.dumps(Path(script).stem)};\n' + (BROWSER / '_prelude.txt').read_text(encoding='utf-8') + '\n' + (BROWSER / script).read_text(encoding='utf-8')
             command = ['ego-browser', 'nodejs', '-e', code]
         r = subprocess.run(command, capture_output=True, text=True, encoding='utf-8',
-                           errors='replace', timeout=timeout, stdin=subprocess.DEVNULL)
+                           errors='replace', timeout=timeout, stdin=subprocess.DEVNULL,creationflags=HIDDEN)
         if sending:
             mark_sent()
         if out.exists():

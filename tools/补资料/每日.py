@@ -9,7 +9,7 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parents[1] / 'lib'))
 from base import ROOT, CACHE, batch_dirs, load_queue, find, now_bj, browser
-from port import file_lock, run, require, notify, commit_paths, permissions
+from port import file_lock, run, require, notify, commit_paths, permissions,HIDDEN
 
 SITE = Path.home() / 'ClaudeP/06_VibeCoding/ataous/ataous-site-night'
 
@@ -65,7 +65,7 @@ def main():
                     log=CACHE/'logs'/f'{day}_R1_{b.name}.log';log.parent.mkdir(exist_ok=True)
                     with log.open('a',encoding='utf-8') as output:
                         child=subprocess.run([sys.executable,'-X','utf8',str(ROOT/'tools/run.py'),str(b),'--no-push'],cwd=ROOT,
-                            env={**os.environ,'PYTHONUTF8':'1','PYTHONUNBUFFERED':'1'},stdout=output,stderr=output,stdin=subprocess.DEVNULL)
+                            env={**os.environ,'PYTHONUTF8':'1','PYTHONUNBUFFERED':'1'},stdout=output,stderr=output,stdin=subprocess.DEVNULL,creationflags=HIDDEN)
                     commit_paths(ROOT,[b],f'R1 发送记录 {day}',push=permissions().get('github_push') is True)
                     if child.returncode:raise RuntimeError(f'发送在{b.name}停止，退出码{child.returncode}')
                 notify(f'Windows发询盘任务本轮结束（{now_bj():%H:%M}）。发送记录已保存，18点会汇总。')
@@ -102,19 +102,32 @@ def main():
                 keys=active[:5]
                 pending_file.write_text(json.dumps(pending,ensure_ascii=False),encoding='utf-8')
                 if not keys:return
-                news=[pending[key] for key in keys]
+                readable=[]
                 # 先由已验收的工具取证，AI只读缓存和图片，避免漏读或二次扫描丢消息。
                 for key in keys:
                     text=py('chat.py',key);print(text,flush=True)
-                    if '"错误"' in text:raise RuntimeError('读聊天失败，保留待处理列表')
+                    if '"错误"' in text:
+                        if (CACHE/'neo_paused.json').exists():raise RuntimeError('出现验证或风控，停止读取')
+                        if '聊天页未完成收件人核验' not in text and '读不到消息' not in text:
+                            raise RuntimeError('浏览器连接或工具读取失败，停止本轮并保留队列')
+                        pending[key]=pending.pop(key)
+                        print(f'会话暂缓|{key}|读取未通过，保留待处理并继续其他会话',flush=True)
+                    else:readable.append(key)
+                pending_file.write_text(json.dumps(pending,ensure_ascii=False),encoding='utf-8')
+                keys=readable
+                if not keys:return
+                news=[pending[key] for key in keys]
                 # Codex只输出结构化分析，工具执行由父程序控制，不依赖CLI的Shell权限。
                 text = py('analyze_replies.py',*keys)
                 (CACHE/'buziliao_read.out').write_text(text,encoding='utf-8')
                 print(text)
                 completed=re.search(r'^完成ID[：:]\s*(.*)$',text,re.M)
                 if completed:
-                    for key in re.findall(r'[A-Z]+\d+',completed.group(1)):
+                    finished=re.findall(r'[A-Z]+\d+',completed.group(1))
+                    for key in finished:
                         if key in keys:pending.pop(key,None)
+                    for key in keys:
+                        if key not in finished and key in pending:pending[key]=pending.pop(key)
                 pending_file.write_text(json.dumps(pending,ensure_ascii=False),encoding='utf-8')
                 report = py('补资料/日报.py', 'round', CACHE / 'buziliao_read.out')
                 if report.strip(): notify(report)

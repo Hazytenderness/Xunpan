@@ -7,7 +7,7 @@ try {
     const d = f.contentDocument; if (!d.querySelector(".message-item")) return false;
     const hd = (d.querySelector(".conversation-header")?.textContent.trim() || ""), nicks = [...new Set([...d.querySelectorAll(".message-item:not(.self) .nick")].map(n => n.textContent.trim()))];
     return hd ? hd.startsWith(ww) : nicks.length ? nicks.every(n => n.startsWith(ww)) : decodeURIComponent(location.href).includes("cnalichn" + ww + "&");
-  } catch { return false; } }), job.ww, { timeout: 25000 }); ok = true;
+  } catch { return false; } }), job.ww, { timeout: 60000 }); ok = true;
 } catch {}
 await p.waitForTimeout(2500);
 if (await blocked(p)) await done({ 错误: "出现验证或风控提示" });

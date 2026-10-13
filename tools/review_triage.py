@@ -10,6 +10,7 @@
 import json
 import re
 import subprocess
+import os
 from pathlib import Path
 
 SITE = Path.home() / 'ClaudeP/06_VibeCoding/ataous/ataous-site-night'
@@ -41,7 +42,7 @@ def pts(v):
 def evaluate(items, site, 站='jp'):
     payload = json.dumps([{k: v for k, v in i.items() if not k.startswith('_')} for i in items], ensure_ascii=False)
     res = subprocess.run(['node', str(Path(__file__).with_name('site_eval.mjs')), str(site), 站], input=payload,
-                         capture_output=True, text=True, check=True, encoding='utf-8')
+                         capture_output=True, text=True, check=True, encoding='utf-8',creationflags=subprocess.CREATE_NO_WINDOW if os.name=='nt' else 0)
     return json.loads(res.stdout)
 
 

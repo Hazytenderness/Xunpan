@@ -7,7 +7,7 @@ from pathlib import Path
 
 sys.path.insert(0,str(Path(__file__).resolve().parent/'lib'))
 from base import ROOT,CACHE,now_bj
-from port import notify,permissions
+from port import notify,permissions,HIDDEN
 
 def main():
     ap=argparse.ArgumentParser();ap.add_argument('mode',choices=['send','read']);ap.add_argument('--verify',action='store_true');ap.add_argument('--resume',action='store_true');a=ap.parse_args()
@@ -22,7 +22,7 @@ def main():
     env={**os.environ,'PYTHONUTF8':'1','PYTHONIOENCODING':'utf-8','PYTHONUNBUFFERED':'1'}
     env['PATH']=str(Path.home()/'AppData/Roaming/npm')+os.pathsep+r'C:\Program Files\nodejs'+os.pathsep+r'C:\Program Files\Git\cmd'+os.pathsep+env.get('PATH','')
     with out.open('w',encoding='utf-8') as stdout,err.open('w',encoding='utf-8') as stderr:
-        result=subprocess.run(command,cwd=ROOT,env=env,stdout=stdout,stderr=stderr,stdin=subprocess.DEVNULL)
+        result=subprocess.run(command,cwd=ROOT,env=env,stdout=stdout,stderr=stderr,stdin=subprocess.DEVNULL,creationflags=HIDDEN)
     if result.returncode and permissions().get('notify') is True:
         warning=CACHE/f'alert_{a.mode}_{now_bj():%Y%m%d}'
         why='程序停止，请检查本机日志'

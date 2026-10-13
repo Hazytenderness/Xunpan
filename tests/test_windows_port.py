@@ -89,5 +89,54 @@ class WindowsPortTests(unittest.TestCase):
             target.write_text(json.dumps([{'id':'test','状态':'不用发','备注':'另一进程补记'}]),encoding='utf-8')
             with self.assertRaises(RuntimeError):base.save_queue(batch,local)
 
+    def test_unreadable_chat_is_retained_while_other_chats_are_processed(self):
+        import importlib.util,tempfile
+        from contextlib import nullcontext
+        from datetime import datetime
+        spec=importlib.util.spec_from_file_location('daily',ROOT/'tools/补资料/每日.py')
+        daily=importlib.util.module_from_spec(spec);spec.loader.exec_module(daily)
+        with tempfile.TemporaryDirectory(dir=ROOT.parent/'temp') as folder:
+            cache=Path(folder);(cache/'recovered_39_seeded').touch()
+            pending={f'X{i}':f'新回复|X{i}|店铺' for i in range(1,7)}
+            (cache/'pending_replies.json').write_text(json.dumps(pending),encoding='utf8')
+            calls=[]
+            def child(args,**kwargs):
+                name=Path(args[1]).name
+                if name=='chat.py':return '{"错误":"聊天页未完成收件人核验"}' if args[2]=='X1' else '聊天读取成功'
+                if name=='analyze_replies.py':calls.extend(args[2:]);return '统计 新回复=4\n完成ID：X2,X3,X4,X5'
+                return ''
+            with patch.object(sys,'argv',['daily','read','15','--execute']),patch.object(daily,'CACHE',cache),\
+                 patch.object(daily,'now_bj',return_value=datetime(2026,10,13,15,tzinfo=base.BJ)),\
+                 patch.object(daily,'file_lock',return_value=nullcontext()),patch.object(daily,'require'),\
+                 patch.object(daily,'notify'),patch.object(daily,'commit_paths'),\
+                 patch.object(daily,'find',return_value=(cache,{'对应款':[{'序':1}]})),\
+                 patch.object(daily,'current_policy',return_value={'可询盘':[{'序':1}]}),patch.object(daily,'run',side_effect=child):
+                daily.main()
+            self.assertEqual(calls,['X2','X3','X4','X5'])
+            self.assertEqual(list(json.loads((cache/'pending_replies.json').read_text())),['X6','X1'])
+
+    def test_quote_upload_precedes_followup_and_failure_is_quarantined(self):
+        import tempfile
+        with tempfile.TemporaryDirectory(dir=ROOT.parent/'temp') as folder:
+            cache=Path(folder);commands=[];queue=[{'id':'X1','状态':'已发R1'}]
+            record={'id':'X1','历史':[{'发送方':'对方','内容':'13元','文件':[],'时间':'2026-10-13T15:00:00+08:00'}]}
+            result={'items':[{'id':'X1','needs_user':'','reply':'包装尺寸多少？','quotes':[{'field':'阶梯价','value_json':'{"单价":13}',
+                'source_indexes':[0],'image_files':[],'image_quote':'','conversion':''}]}]}
+            def analyze(prompt,output,*args,**kwargs):output.write_text(json.dumps(result),encoding='utf8')
+            def child(args,**kwargs):
+                name=Path(args[1]).name;commands.append(name)
+                if name=='push_review_feed.py':return '{"新增":1}'
+                if name=='reply.py':return '{"结果":"停止:未加载"}'
+                return ''
+            with patch.object(sys,'argv',['analyze','X1']),patch.object(analyze_replies,'CACHE',cache),\
+                 patch.object(analyze_replies,'context',return_value=([record],[])),patch.object(analyze_replies,'codex',side_effect=analyze),\
+                 patch.object(analyze_replies,'find',return_value=(cache,{})),patch.object(analyze_replies,'run',side_effect=child),\
+                 patch.object(analyze_replies,'load_queue',return_value=queue),patch.object(analyze_replies,'save_queue'),\
+                 patch.object(analyze_replies,'in_work_hours',return_value=True):
+                analyze_replies.main()
+            self.assertLess(commands.index('push_review_feed.py'),commands.index('reply.py'))
+            self.assertEqual(queue[0]['状态'],'待人工核实')
+            self.assertIn('回复暂停',queue[0])
+
 
 if __name__=='__main__': unittest.main()

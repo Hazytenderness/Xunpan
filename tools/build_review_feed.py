@@ -15,6 +15,8 @@ import sys
 import json
 import re
 from pathlib import Path
+sys.path.insert(0,str(Path(__file__).parent/'lib'))
+from port import HIDDEN
 
 ap = argparse.ArgumentParser()
 ap.add_argument('batch')
@@ -32,7 +34,7 @@ else:
     import subprocess
     site = Path(args.site) / 'build/js' / ('products-au.js' if 站 == 'au' else 'products.js')
     js = "globalThis.window=globalThis;require(process.argv[1]);const fs=require('fs'),src=process.argv[1].replace(/products\\.js$/,'products-sources.js');if(fs.existsSync(src))require(src);const o={};for(const x of (globalThis.DECK_AU||DECK)){const c=x.货源候选||(globalThis.DECK_SOURCES||{})[x.序];if(c)o[x.序]=c.map(c=>({候选ID:String(c.候选ID)}));}process.stdout.write(JSON.stringify(o))"
-    raw = json.loads(subprocess.run(['node', '-e', js, str(site)], check=True, capture_output=True, text=True, encoding='utf-8').stdout)
+    raw = json.loads(subprocess.run(['node', '-e', js, str(site)], check=True, capture_output=True, text=True, encoding='utf-8',creationflags=HIDDEN).stdout)
 candidates = {int(k): {c['候选ID'] for c in v} for k, v in raw.items()}
 match = {(m['id'], m['序'], m['offerId']): m for m in json.loads((B / '核页规格匹配.json').read_text(encoding='utf-8'))}
 quotes = {}

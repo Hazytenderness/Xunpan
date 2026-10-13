@@ -48,7 +48,10 @@ async function rpc(method, params = {}, notification = false) {
 async function call(name, args = {}) {
   const result = await rpc('tools/call', {name, arguments:{...args,...(session ? {session}: {})}});
   session = result._meta?.['com.browseros.neo/session'] || session;
-  if (result.isError) throw Error('neo 工具失败：' + name);
+  if (result.isError) {
+    await fs.writeFile(path.join(C,'neo_tool_error.json'),JSON.stringify({name,time:new Date().toISOString(),content:result.content}));
+    throw Error('neo 工具失败：' + name);
+  }
   if (result.structuredContent) return result.structuredContent;
   const text = (result.content || []).filter(x=>x.type==='text').map(x=>x.text).join('\n');
   try { return JSON.parse(text); } catch {
@@ -81,6 +84,13 @@ const own = await run("return (await browser.pages.list()).filter(p=>p.ownership
 const active = own.find(p=>p.url==='about:blank');
 if (!active) throw Error('找不到本次新建的 neo 标签');
 let pageId = active.id;
+const chatJob=['chat_list.mjs','chat_read.mjs','send.mjs'].includes(script);
+const persistentChat=chatJob?own.find(p=>p.url.startsWith('https://air.1688.com/')):null;
+if(persistentChat){
+  const redundant=own.filter(p=>p.id!==persistentChat.id&&(p.url.startsWith('https://air.1688.com/')||p.id===active.id)).map(p=>p.id);
+  await run(`for(const id of ${JSON.stringify(redundant)})await browser.page(id).close();return true;`);
+  pageId=persistentChat.id;
+}
 // 保存 groupId，后续工具重连回到同一任务组。
 const inventory = await call('tabs',{action:'list'});
 // groupId 仅在 tabs 公开返回中存在时保存，不猜测页面句柄。
@@ -92,7 +102,7 @@ function pageHandle(id) {
   const execute = code => run(`const p=browser.page(${id}); ${code}`);
   const nativeNode=selector=>execute(`const r=await p.cdp('Runtime.evaluate',JSON.stringify({expression:${JSON.stringify(`(()=>{for(const f of document.querySelectorAll('iframe')){try{const d=f.contentDocument;if(d.querySelector('pre[contenteditable=true]'))return d.querySelector(${JSON.stringify(selector)});}catch{}}return null;})()`)},returnByValue:false}));if(!r.result?.objectId)throw Error('找不到已核实聊天控件');const d=await p.cdp('DOM.describeNode',JSON.stringify({objectId:r.result.objectId}));return {backendNodeId:d.node.backendNodeId,name:d.node.localName,attributes:d.node.attributes};`);
   return {label:'neo-'+id,
-    goto: url=>execute(`await p.goto(${JSON.stringify(url)}); return true;`),
+    goto: url=>execute(`const current=await p.snapshot();if(current.url.split('#')[0]!==${JSON.stringify(url)}.split('#')[0])await p.goto(${JSON.stringify(url)});return true;`),
     evaluate:async(fn,arg)=>{
       if(fn!==sitePolicy){
         return execute(`const result=await p.evaluate(${fn.toString()},${JSON.stringify(arg)??'undefined'});return result.value;`);
@@ -101,7 +111,16 @@ function pageHandle(id) {
       if(result.file){const text=await fs.readFile(result.file,'utf8');return JSON.parse(text.slice(text.indexOf('{'),text.lastIndexOf('}')+1));}
       return result.value;
     },
-    waitForFunction:(fn,arg,options={})=>execute(`const result=await p.evaluate(async arg=>{const end=Date.now()+${Math.min(options.timeout||10000,25000)};const fn=${fn.toString()};while(Date.now()<end){if(fn(arg))return true;await new Promise(r=>setTimeout(r,250));}throw Error('等待条件超时');},${JSON.stringify(arg)??'undefined'});if(result.value!==true)throw Error('等待条件未满足');return true;`),
+    waitForFunction:async(fn,arg,options={})=>{
+      const end=Date.now()+(options.timeout||10000);
+      do{
+        const duration=Math.max(1,Math.min(20000,end-Date.now()));
+        const matched=await execute(`const result=await p.evaluate(async arg=>{const end=Date.now()+${duration};const fn=${fn.toString()};while(Date.now()<end){if(fn(arg))return true;await new Promise(r=>setTimeout(r,250));}return false;},${JSON.stringify(arg)??'undefined'});return result.value;`);
+        if(matched===true)return true;
+        if(matched!==false)throw Error('等待页面返回无效结果');
+      }while(Date.now()<end);
+      throw Error('等待条件超时');
+    },
     waitForTimeout: async ()=>{},
     snapshot:()=>execute('return (await p.snapshot()).text;'),
     click:ref=>execute(`return await p.click(${JSON.stringify(ref)});`),
@@ -153,7 +172,7 @@ try {
   if(script!=='probe.mjs'){
     const result=JSON.parse(await fs.readFile(path.join(C,NAME+'.out.json'),'utf8').catch(()=>'{}'));
     if(!result.错误&&!String(result.结果||'').startsWith('停止')){
-      const ids=[...jobPages.values()].map(p=>+p.label.slice(4));if(!ids.length)ids.push(pageId);
+      const ids=[...jobPages.values()].map(p=>+p.label.slice(4)).filter(id=>!chatJob||id!==pageId);if(!ids.length&&!chatJob)ids.push(pageId);
       await run(`for(const id of ${JSON.stringify(ids)})await browser.page(id).close();return true;`).catch(()=>{});
     }
   }

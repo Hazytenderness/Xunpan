@@ -1,7 +1,7 @@
 ﻿param([switch]$VerifyOnly)
 $ErrorActionPreference = 'Stop'
 $taskRoot = Split-Path -Parent $PSScriptRoot
-$taskPython = (Get-Command python.exe -ErrorAction Stop).Source
+$taskPython = (Get-Command pythonw.exe -ErrorAction Stop).Source
 $taskUser = [System.Security.Principal.WindowsIdentity]::GetCurrent().Name
 $taskStart = [datetime]'2026-10-13T09:00:00'
 if (-not $VerifyOnly) {

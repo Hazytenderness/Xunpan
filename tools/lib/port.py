@@ -9,6 +9,7 @@ from pathlib import Path
 
 CACHE = Path.home() / '.cache/xunpan'
 POLICY = CACHE / 'windows_permissions.json'
+HIDDEN = subprocess.CREATE_NO_WINDOW if os.name=='nt' else 0
 
 
 def permissions():
@@ -61,7 +62,7 @@ def run(args, cwd=None, input=None, env=None, timeout=3600):
     result = subprocess.run([str(a) for a in args], cwd=cwd, input=input,
                             capture_output=True, text=True, encoding='utf-8', errors='replace',
                             env={**os.environ, 'PYTHONUTF8': '1', 'PYTHONIOENCODING': 'utf-8', **(env or {})},
-                            timeout=timeout, stdin=subprocess.DEVNULL if input is None else None)
+                            timeout=timeout, stdin=subprocess.DEVNULL if input is None else None,creationflags=HIDDEN)
     if result.returncode:
         # 不把凭据或第三方原始响应写进异常。
         CACHE.mkdir(parents=True,exist_ok=True)
@@ -100,7 +101,7 @@ def codex(prompt, output, cwd, *, write=False, images=(), schema=None, analysis_
     if analysis_only:restrictions='只分析提供的数据和附图，禁止调用任何工具或执行Shell；只输出指定schema JSON。\n'
     result = subprocess.run(command, input=restrictions + prompt, cwd=cwd, capture_output=True,
                             text=True, encoding='utf-8', errors='replace', timeout=1800,
-                            env={**os.environ, 'PYTHONUTF8': '1'})
+                            env={**os.environ, 'PYTHONUTF8': '1'},creationflags=HIDDEN)
     output.with_suffix('.err').write_text(result.stderr, encoding='utf-8')
     if result.returncode:
         raise RuntimeError(f'Codex 调用失败，退出码 {result.returncode}；见独立 stderr 日志')

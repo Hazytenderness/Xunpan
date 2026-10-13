@@ -46,6 +46,7 @@ def validate_quote(q,record,batch,visible_images=None):
     if visible_images is not None and any((batch/name).resolve() not in visible_images for name in q['image_files']):raise ValueError('图片未实际提供给Codex，不能作为报价证据')
     if not sources and not q['image_files']:raise ValueError('报价缺原始证据')
     if q['field']=='阶梯价' and (not isinstance(value,dict) or not isinstance(value.get('单价'),(int,float)) or value['单价']<=0):raise ValueError('采购单价无效')
+    if q['field']=='阶梯价':value={'单价':value['单价']}
     if q['field']=='包装尺寸毛重' and (not isinstance(value,dict) or any(v is not None and (not isinstance(v,(int,float)) or v<=0) for v in value.values())):raise ValueError('包装数值无效')
     if q['field']=='匹配确认' and value not in ('完全匹配','不匹配'):raise ValueError('匹配确认无效')
     original='；'.join(m['内容'] for m in sources if m['内容'])
@@ -79,9 +80,13 @@ def main():
     # 在执行任何外部动作前，先验证整份输出。
     planned=[]
     for item in result['items']:
-        if len({q['field'] for q in item['quotes']})!=len(item['quotes']):raise ValueError('同一字段重复报价，不能静默覆盖')
-        batch,entry=find(item['id']);quotes={q['field']:validate_quote(q,by[item['id']],batch,set(images)) for q in item['quotes']}
-        if '\n' in item['reply'] or len(item['reply'])>120:raise ValueError('追问必须一行且不超过120字')
+        try:
+            if len({q['field'] for q in item['quotes']})!=len(item['quotes']):raise ValueError('同一字段重复报价，不能静默覆盖')
+            batch,entry=find(item['id']);quotes={q['field']:validate_quote(q,by[item['id']],batch,set(images)) for q in item['quotes']}
+            if '\n' in item['reply'] or len(item['reply'])>120:raise ValueError('追问必须一行且不超过120字')
+        except (ValueError,TypeError,IndexError) as error:
+            print('分析暂缓|'+item['id']+'|'+str(error),flush=True)
+            continue
         planned.append((item,batch,entry,quotes))
     if a.dry:print(json.dumps(result,ensure_ascii=False,indent=2));return
     stats={'新回复':len(a.ids),'回了':0,'单价':0,'尺寸':0,'推网站':0};completed=[];changed=set();asks=[]
@@ -93,23 +98,34 @@ def main():
             changed.add(batch);stats['单价']+='阶梯价' in quotes;stats['尺寸']+='包装尺寸毛重' in quotes
             q=load_queue(batch)
             for row in q:
-                if row['id']==key:row['状态']='无货' if quotes.get('现货',[None])[0]=='无货' else '已回'
+                if row['id']==key and not row.get('回复暂停'):row['状态']='无货' if quotes.get('现货',[None])[0]=='无货' else '已回'
             save_queue(batch,q)
-        if item['needs_user']:asks.append('要你定：'+key+'：'+item['needs_user'][:80])
-        elif item['reply'] and in_work_hours():
-            check=json.loads(run([sys.executable,ROOT/'tools/reply.py',key,item['reply'],'--dry'],cwd=ROOT))
-            if check['结果']!='演练通过':raise RuntimeError('回复演练失败，停止')
-            sent=json.loads(run([sys.executable,ROOT/'tools/reply.py',key,item['reply']],cwd=ROOT))
-            if sent['结果']=='成功':stats['回了']+=1
-            elif not sent['结果'].startswith('跳过:'):raise RuntimeError('回复发送停止，不重试')
-        completed.append(key)
+    # 已核实的报价先同步；个别追问故障不能挡住其他商家的已得资料。
     for batch in changed:
         run([sys.executable,ROOT/'tools/build_review_feed.py',batch,'--site',Path.home()/'ClaudeP/06_VibeCoding/ataous/ataous-site-night'],cwd=ROOT)
         pushed=run([sys.executable,ROOT/'tools/push_review_feed.py',batch],cwd=ROOT)
         receipt=json.loads(pushed.splitlines()[-1])
         if receipt.get('未导入'):raise RuntimeError('报价有未导入项，保留待处理列表')
         stats['推网站']+=receipt.get('新增',0)
+    stopped=''
+    for item,batch,entry,quotes in planned:
+        key=item['id']
+        if item['needs_user']:asks.append('要你定：'+key+'：'+item['needs_user'][:80])
+        elif item['reply'] and in_work_hours() and not entry.get('回复暂停'):
+            # 实发工具内部已包含完整核对，不再另开一次dry会话造成二次加载。
+            sent=json.loads(run([sys.executable,ROOT/'tools/reply.py',key,item['reply']],cwd=ROOT))
+            if sent['结果']=='成功':stats['回了']+=1
+            elif not sent['结果'].startswith('跳过:'):
+                q=load_queue(batch)
+                for row in q:
+                    if row['id']==key:row['状态']='待人工核实';row['回复暂停']={'时间':now_bj().isoformat(),'原因':sent['结果']}
+                save_queue(batch,q)
+                if (CACHE/'neo_paused.json').exists():raise RuntimeError('验证或风控，停止所有操作')
+                stopped='⚠ 跟进暂停：'+key+'：'+sent['结果']+'；已保存报价和断点，本轮不再发回复'
+                break
+        completed.append(key)
     print('统计 '+' '.join(f'{k}={v}' for k,v in stats.items()))
+    if stopped:print(stopped)
     print('\n'.join(asks));print('完成ID：'+','.join(completed))
 
 if __name__=='__main__':main()

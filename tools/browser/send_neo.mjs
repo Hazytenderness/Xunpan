@@ -4,7 +4,7 @@ const out={ww:job.ww,offerId:job.offerId};
 const stop=why=>done({...out,结果:'停止:'+why});
 await chat.goto(chatUrl(job.ww,job.offerId));
 if(await blocked(chat))await stop('出现验证或掉登录');
-try{await chat.waitForFunction(()=>[...document.querySelectorAll('iframe')].some(f=>{try{const d=f.contentDocument,h=d.querySelector('.conversation-header .go-shop-container');return !!d.querySelector('pre[contenteditable=true]')&&!!h&&[...h.childNodes].some(n=>n.nodeType===3&&n.textContent.trim());}catch{return false;}}),undefined,{timeout:20000});}
+try{await chat.waitForFunction(()=>[...document.querySelectorAll('iframe')].some(f=>{try{const d=f.contentDocument,h=d.querySelector('.conversation-header .go-shop-container');return !!d.querySelector('pre[contenteditable=true]')&&!!h&&[...h.childNodes].some(n=>n.nodeType===3&&n.textContent.trim());}catch{return false;}}),undefined,{timeout:60000});}
 catch{await stop('聊天输入框未加载，不重试');}
 if(await blocked(chat))await stop('出现验证或掉登录');
 const state=()=>chat.evaluate(ww=>{
