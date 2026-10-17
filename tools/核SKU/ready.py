@@ -2,10 +2,10 @@
 import os, json, sys, glob
 from pathlib import Path
 S = Path(os.environ['XUNPAN_WORK']); B = Path(os.environ['XUNPAN_BATCH'])
-q = json.load(open(B / 'queue.json'))
+q = json.load(open(B / 'queue.json', encoding='utf-8'))
 done = set()
 for f in glob.glob(str(S / 'chunks/*/input.json')):
-    done |= {r['序'] for r in json.load(open(f))}
+    done |= {r['序'] for r in json.load(open(f, encoding='utf-8'))}
 need = {}
 for e in q:
     for k in e['对应款']:

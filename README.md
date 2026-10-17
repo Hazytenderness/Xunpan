@@ -1,3 +1,7 @@
+# 本分支：Windows 核页与核SKU接手准备
+
+这是独立核SKU代码分支，未切换任何定时任务；不要运行旧夜间混合入口或询盘每日脚本。运行范围见 sku-runtime-files.json；接手包及说明在 Hazytenderness/ataous-site 的 docs/sku-handoff-20261017.md。本分支不包含完整Windows询盘迁移。
+
 # Xunpan · 1688 询盘工作流
 
 每两周从 ataous 站点拿一批选品清单（每款 3 家 1688 候选），给每家发询盘，收回复，抽成结构化报价，最后回写站点。

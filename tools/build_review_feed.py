@@ -15,29 +15,31 @@ import sys
 import json
 import re
 from pathlib import Path
+sys.path.insert(0,str(Path(__file__).parent/'lib'))
+from port import HIDDEN,site_root
 
 ap = argparse.ArgumentParser()
 ap.add_argument('batch')
 ap.add_argument('--candidates', help='缺省时直接读 ataous 站点的 products.js（澳洲站读 products-au.js）')
 ap.add_argument('--站', choices=['jp', 'au'], help='缺省按 queue.json 里记的站点（建批次.py 写入），旧批次没有记就是日本站')
-ap.add_argument('--site', default=str(Path.home() / 'ClaudeP/06_VibeCoding/ataous/ataous-site'), help='ataous 站点目录，用它的公式做 AI 预判')
+ap.add_argument('--site', default=str(site_root()), help='当前已发布的网站资料目录，用其公式预判')
 args = ap.parse_args()
 
 B = Path(args.batch)
-queue = json.loads((B / 'queue.json').read_text())
+queue = json.loads((B / 'queue.json').read_text(encoding='utf-8'))
 站 = args.站 or next((x.get('站') for x in queue if x.get('站')), 'jp')
 if args.candidates:
-    raw = json.loads(Path(args.candidates).read_text())
+    raw = json.loads(Path(args.candidates).read_text(encoding='utf-8'))
 else:
     import subprocess
     site = Path(args.site) / 'build/js' / ('products-au.js' if 站 == 'au' else 'products.js')
     js = "globalThis.window=globalThis;require(process.argv[1]);const fs=require('fs'),src=process.argv[1].replace(/products\\.js$/,'products-sources.js');if(fs.existsSync(src))require(src);const o={};for(const x of (globalThis.DECK_AU||DECK)){const c=x.货源候选||(globalThis.DECK_SOURCES||{})[x.序];if(c)o[x.序]=c.map(c=>({候选ID:String(c.候选ID)}));}process.stdout.write(JSON.stringify(o))"
-    raw = json.loads(subprocess.run(['node', '-e', js, str(site)], check=True, capture_output=True, text=True).stdout)
+    raw = json.loads(subprocess.run(['node', '-e', js, str(site)], check=True, capture_output=True, text=True, encoding='utf-8',creationflags=HIDDEN).stdout)
 candidates = {int(k): {c['候选ID'] for c in v} for k, v in raw.items()}
-match = {(m['id'], m['序'], m['offerId']): m for m in json.loads((B / '核页规格匹配.json').read_text())}
+match = {(m['id'], m['序'], m['offerId']): m for m in json.loads((B / '核页规格匹配.json').read_text(encoding='utf-8'))}
 quotes = {}
 if (B / 'quotes.jsonl').exists():
-    for line in (B / 'quotes.jsonl').read_text().splitlines():
+    for line in (B / 'quotes.jsonl').read_text(encoding='utf-8').splitlines():
         if line.strip():
             q = json.loads(line)
             quotes[q['id']] = q
@@ -75,7 +77,7 @@ for x in queue:
             f = B / 'pages' / f'{offer}.json'
             if not f.exists():
                 continue
-            page = json.loads(f.read_text())
+            page = json.loads(f.read_text(encoding='utf-8'))
             seller = page.get('卖家公司') or x.get('页面卖家') or ''
             when = page.get('核页时间') or ''
             link = p['商品链接']
@@ -123,8 +125,16 @@ for x in queue:
                               ('交期', '交期'), ('打样', '打样'), ('开票点数', '开票'), ('定制', '定制')]:
             v = said(field)
             if v:
-                value = v['值'] if target == '起订量' and str(v['值']).isdigit() else str(v['值'])
-                add(序, offer, seller, target, int(value) if target == '起订量' else value, v['原话'], link, v.get('时间', ''), '询盘回复')
+                if target == '起订量':
+                    # 包/套/定制等条件不能直接当成件数，原始报价保留待核实。
+                    value = v['值']
+                    if isinstance(value, bool) or not str(value).isdigit():
+                        print(f"起订量待核实|{x['id']}|{v['原话']}")
+                        continue
+                    value = int(value)
+                else:
+                    value = str(v['值'])
+                add(序, offer, seller, target, value, v['原话'], link, v.get('时间', ''), '询盘回复')
         pack = said('包装尺寸毛重')
         if pack and isinstance(pack['值'], dict):
             add(序, offer, seller, '单品包装', pack['值'], pack['原话'], link, pack.get('时间', ''), '询盘回复')
@@ -134,6 +144,6 @@ from review_triage import triage
 items = triage(items, Path(args.site), 站)
 feed = {'批次': batch_name, '站': 站, '来源': '询盘与核页', '生成时间': max((i['采集时间'] for i in items), default=''), '条目': items}
 out = B / 'review_feed.json'
-out.write_text(json.dumps(feed, ensure_ascii=False, indent=1))
+out.write_text(json.dumps(feed, ensure_ascii=False, indent=1), encoding='utf-8')
 from collections import Counter
 print(out, len(items), dict(Counter(i['字段'] for i in items)), '产品', len({i['序'] for i in items}))

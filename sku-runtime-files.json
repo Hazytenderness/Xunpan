@@ -1,0 +1,101 @@
+{
+  "role": "Windows neo核页核SKU代码准备；不是完整询盘迁移；不自动建立任务或启用权限",
+  "files": [
+    {
+      "path": "requirements-sku.txt",
+      "sha256": "570c9387510a35edf1e287600993944ebc8ee5af602c809cf00cd57e2b723779"
+    },
+    {
+      "path": "tests/neo_protocol.test.mjs",
+      "sha256": "7fd4b7804c52848c22593dcd06ae17f24b9ee23e650e37c827e3e4abc2a40d6a"
+    },
+    {
+      "path": "tests/test_resilience.py",
+      "sha256": "5212d3d1d116ce7da83d03da87354a6212dd13bcaa038814421692d1d8848b21"
+    },
+    {
+      "path": "tests/test_sku_handoff.py",
+      "sha256": "67ac04e3d1999d9b1659a6cadede9f0460663ac655aa7ce9ed7ffa200f257d76"
+    },
+    {
+      "path": "tools/browser/_prelude.txt",
+      "sha256": "1559fd1361e4993aea9de831997a2a0bb24f9028e4875be4b3b438dbcc660705"
+    },
+    {
+      "path": "tools/browser/neo_bridge.mjs",
+      "sha256": "86a2287b9d9dd188e7dfb10b4b05327c8990b212d5c2bb7af082a0189b74f2f8"
+    },
+    {
+      "path": "tools/browser/neo_protocol.mjs",
+      "sha256": "2b0c0aa667845c1f5b790b533ad18b369664ca81b727d917d4faad2e271f729f"
+    },
+    {
+      "path": "tools/browser/page.mjs",
+      "sha256": "1e7d720847f1225fd872a6a90f15a2dbbdb9234037643fb0f28a4b89c92f22b0"
+    },
+    {
+      "path": "tools/build_review_feed.py",
+      "sha256": "74261f46dd86d3b0aa297a8a99b177e9c8bb8ab27fc4b011d116c26fcd13512a"
+    },
+    {
+      "path": "tools/hepage.py",
+      "sha256": "256cdc8f554b3037478988838ab1ee008030ab2263f21cf9a0e1382b8ada7b77"
+    },
+    {
+      "path": "tools/lib/analysis_cache.py",
+      "sha256": "2996ccf830d819947f9c4819483c50a36e2dbc0a4b376aae4d003a80b8e19dd7"
+    },
+    {
+      "path": "tools/lib/base.py",
+      "sha256": "09b50cf14ce94fb96fb64219e086bb8761b3b15a420c285d86533951cc77ed26"
+    },
+    {
+      "path": "tools/lib/operating-policy.mjs",
+      "sha256": "dd78216f9d89cf4439850f23a5733b2c4a2ae5b4fb5dc472b591498a9343b606"
+    },
+    {
+      "path": "tools/lib/port.py",
+      "sha256": "df2410ba11893395c947ca5d3e1ec52ae7f31ed341759bf56b97ab0cb9d7ed73"
+    },
+    {
+      "path": "tools/lib/resilience.py",
+      "sha256": "1ee2ed7ece8ba13652b1e19e7e782f1a9060ebd51f4dd6c8de61b2fe4fb60426"
+    },
+    {
+      "path": "tools/lib/review_sync.py",
+      "sha256": "cf1abe8bd44050e769938b00b4e9137707061d7229699bd9274cb150ce095e6b"
+    },
+    {
+      "path": "tools/push_review_feed.py",
+      "sha256": "4a64b44ed4d80c88ef904629935301be341e38925f5d1985fff41da99e5efe11"
+    },
+    {
+      "path": "tools/review_triage.py",
+      "sha256": "c6b782d10890e4a85cd039657f4c3007b79753a5231950c1135505d36d4ca32d"
+    },
+    {
+      "path": "tools/核SKU/merge.py",
+      "sha256": "67c3ddbd3667e7d783dadfdd49f6c31edc11e49fc763b63a9f1206f53a9ef480"
+    },
+    {
+      "path": "tools/核SKU/prep.py",
+      "sha256": "6696cc849a5f32ecefcbb7947a367ab143f7665e599f525c988d4fede42bc6ca"
+    },
+    {
+      "path": "tools/核SKU/ready.py",
+      "sha256": "4307343586cfad7684b21a81b2d608ac99fe136f7ec495aa3e6209ebdc63e8c7"
+    },
+    {
+      "path": "tools/核SKU/匹配说明.md",
+      "sha256": "9fbbbb1fef3a5b6eb5a11f807321407631bc994e80ec896d9384867571e27d65"
+    },
+    {
+      "path": "tools/核SKU/取款.mjs",
+      "sha256": "78b43d2f3fd15dca9a74ebdead2e7af25f45ab73b13ed32fe4d52832ee864258"
+    },
+    {
+      "path": "tools/核SKU/建批次.py",
+      "sha256": "73cd9016cd9e97fdc98ad329ac2761ccdc99d2efe4dddf3f021098a9a6ed5481"
+    }
+  ]
+}

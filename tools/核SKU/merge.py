@@ -2,10 +2,10 @@
 import os, json, glob, re, html
 from pathlib import Path
 S = Path(os.environ['XUNPAN_WORK']); B = Path(os.environ['XUNPAN_BATCH'])
-q = json.load(open(B / 'queue.json'))
+q = json.load(open(B / 'queue.json', encoding='utf-8'))
 spec, pairs, bad = {}, {}, []
 for f in sorted(glob.glob(str(S / 'chunks/*/match.json'))):
-    for k in json.load(open(f))['款']:
+    for k in json.load(open(f, encoding='utf-8'))['款']:
         n = int(k.get('装数') or 1); s = k['规格']
         if n > 1 and not re.search(rf'{n}\s*个装', s): s += f'（{n}个装）'
         spec[k['序']] = s
@@ -28,9 +28,9 @@ for e in q:
                       'confidence': '低' if c['结论'] == '近似' or '装数待确认' in (c.get('note') or '') else c.get('confidence'),
                       'note': ('近似款，' if c['结论'] == '近似' else '') + (c.get('note') or ''), '结论': c['结论']})
     if res:
-        e['状态'] = '已核页' if any(r in ('同款', '近似') for r in res) else ('下架' if all(r in ('下架', '未抓到') for r in res) else '款不对')
+        e['状态'] = '已核页' if any(r in ('同款', '近似') for r in res) else ('下架' if all(r == '下架' for r in res) else '待核页' if '未抓到' in res else '款不对')
         e['备注'] = '；'.join(f"{pairs[(e['id'], k['序'], o)]['结论']}：{pairs[(e['id'], k['序'], o)].get('note') or ''}" for k in e['对应款'] if (e['id'], k['序'], o) in pairs)
-(B / '核页规格匹配.json').write_text(json.dumps(match, ensure_ascii=False, indent=1))
-(B / 'queue.json').write_text(json.dumps(q, ensure_ascii=False, indent=1))
+(B / '核页规格匹配.json').write_text(json.dumps(match, ensure_ascii=False, indent=1), encoding='utf-8')
+(B / 'queue.json').write_text(json.dumps(q, ensure_ascii=False, indent=1), encoding='utf-8')
 from collections import Counter
 print('款', len(spec), '家', len(match), Counter(m['结论'] for m in match), Counter(e['状态'] for e in q), '漏', bad[:10])

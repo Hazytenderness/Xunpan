@@ -31,14 +31,14 @@ for x in q:
             print(json.dumps({'停止': (r or {}).get('错误', '浏览器无结果'), 'id': x['id'], 'offerId': p['offerId']}, ensure_ascii=False))
             sys.exit(3)
         r = {'offerId': p['offerId'], '条目': x['id'], **r}
-        f.write_text(json.dumps(r, ensure_ascii=False, indent=1))
+        f.write_text(json.dumps(r, ensure_ascii=False, indent=1), encoding='utf-8')
         print(x['id'], p['offerId'], r.get('状态') or '无数据', r.get('卖家公司'), r.get('旺旺名'), f"规格{len(r.get('规格价格') or [])}", f"起订{r.get('起订量')}", flush=True)
 for x in q:
     sellers, wws = [], []
     for p in x['商品']:
         f = B / 'pages' / f"{p['offerId']}.json"
         if f.exists():
-            d = json.loads(f.read_text())
+            d = json.loads(f.read_text(encoding='utf-8'))
             for k, lst in (('卖家公司', sellers), ('旺旺名', wws)):
                 if d.get(k) and d[k] not in lst:
                     lst.append(d[k])
