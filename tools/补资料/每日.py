@@ -57,7 +57,7 @@ def main():
             with file_lock(CACHE/'git_record.lock',timeout=30):
                 commit_paths(ROOT,paths,message,push=permissions().get('github_push') is True)
             if permissions().get('github_push') is True and sync_note.exists():
-                alert('询盘GitHub同步已恢复，main和执行分支均已更新。');sync_note.unlink(missing_ok=True)
+                if alert('询盘GitHub同步已恢复，main和执行分支均已更新。'):sync_note.unlink(missing_ok=True)
         except Exception:
             print('GitHub同步暂缓，业务文件已保留；不强推或覆盖其他机器提交',flush=True)
             if permissions().get('github_push') is True and not sync_note.exists():
