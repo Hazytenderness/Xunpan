@@ -1,0 +1,145 @@
+{
+ "offerId": "1074850409853",
+ "条目": "H0373",
+ "block": false,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01g8K6LDCBQpI1IZ7y_!!2217607539060-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01cXSxiOe5S3D1chua_!!2217607539060-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01GGEyI70QIhG1chua_!!2217607539060-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01or0F8M5d7uH1chua_!!2217607539060-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01B3l8j5La1aD1chua_!!2217607539060-0-cib.jpg"
+ ],
+ "价格区间": null,
+ "价格展示": "skuPrice",
+ "到手价": null,
+ "包装信息": [
+  {
+   "height": 5,
+   "length": 10,
+   "sku1": "沉木5-10cm",
+   "skuId": 6289796071670,
+   "volume": 250,
+   "weight": 30,
+   "width": 5
+  },
+  {
+   "height": 10,
+   "length": 15,
+   "sku1": "沉木10-15cm",
+   "skuId": 6132939340855,
+   "volume": 1500,
+   "weight": 30,
+   "width": 10
+  },
+  {
+   "height": 15,
+   "length": 20,
+   "sku1": "沉木15-20cm",
+   "skuId": 6132939340854,
+   "volume": 4500,
+   "weight": 30,
+   "width": 15
+  },
+  {
+   "height": 20,
+   "length": 30,
+   "sku1": "沉木20-30cm",
+   "skuId": 6132939340856,
+   "volume": 12000,
+   "weight": 30,
+   "width": 20
+  }
+ ],
+ "单位": "个",
+ "卖家公司": "新乡市鱼之道宠物用品有限公司",
+ "可售总量": 3961,
+ "商品属性": [
+  "材质:沉木",
+  "品牌:无",
+  "功能:鱼缸造景/水族装饰/鱼缸造景装饰/鱼缸装鉓",
+  "款式:仿真树桩",
+  "产品类别:鱼缸造景木材",
+  "主要用途:鱼缸造景装饰装",
+  "产地:中国",
+  "是否进口:否",
+  "尺码:小型",
+  "货号:鱼缸造景沉木",
+  "箱装数量:咨询客服",
+  "重量:咨询客服",
+  "规格:沉木5-10cm/沉木10-15cm/沉木15-20cm/沉木20-30cm",
+  "是否跨境出口专供货源:否",
+  "造景素材分类:沉木",
+  "尺寸:5-10cm",
+  "是否IP授权:否"
+ ],
+ "已售": 25,
+ "已登录": true,
+ "旺旺名": "鱼之道工厂店",
+ "标题": "鱼缸造景天然小沉木秒沉紫柚木虾木微景观乌龟缸虾缸躲避晒台木头",
+ "状态": "PUBLISHED",
+ "类目": "造景/装饰",
+ "规格价格": [
+  {
+   "价格": "0.98",
+   "库存": 969,
+   "规格": "沉木5-10cm"
+  },
+  {
+   "价格": "5.28",
+   "库存": 996,
+   "规格": "沉木20-30cm"
+  },
+  {
+   "价格": "2.88",
+   "库存": 997,
+   "规格": "沉木10-15cm"
+  },
+  {
+   "价格": "3.58",
+   "库存": 999,
+   "规格": "沉木15-20cm"
+  }
+ ],
+ "规格图": [
+  [
+   "沉木5-10cm",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01sLQoPiZTysG1chua_!!2217607539060-0-cib.jpg"
+  ],
+  [
+   "沉木10-15cm",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01Q1pEEiH8zAF1chua_!!2217607539060-0-cib.jpg"
+  ],
+  [
+   "沉木15-20cm",
+   "https://cbu01.alicdn.com/img/ibank/O1CN012Bni8j7rqgE1chua_!!2217607539060-0-cib.jpg"
+  ],
+  [
+   "沉木20-30cm",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01LG6XfIkOThH1chua_!!2217607539060-0-cib.jpg"
+  ]
+ ],
+ "规格属性": [
+  {
+   "值": [
+    "沉木5-10cm",
+    "沉木10-15cm",
+    "沉木15-20cm",
+    "沉木20-30cm"
+   ],
+   "属性": "规格"
+  }
+ ],
+ "起订量": 1,
+ "阶梯价_登录后": [
+  {
+   "beginAmount": 1,
+   "price": "0.98"
+  },
+  {
+   "beginAmount": 1,
+   "price": "5.28"
+  }
+ ],
+ "url": "https://detail.1688.com/offer/1074850409853.html",
+ "核页时间": "2026-10-16T00:45:10.254Z"
+}

@@ -1,0 +1,129 @@
+{
+ "offerId": "1013916230473",
+ "条目": "H0018",
+ "block": false,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN011cu9iP1UcSKkQTk0o_!!967532538-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01RkBzji1UcSKjhBlSP_!!967532538-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01pESYde1UcSKk9SKMb_!!967532538-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01JXCv7G1UcSKkj6h8d_!!967532538-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01uTVAyO1UcSKk1MMKp_!!967532538-0-cib.jpg"
+ ],
+ "价格区间": null,
+ "价格展示": "skuPrice",
+ "到手价": null,
+ "包装信息": [
+  {
+   "height": 23,
+   "length": 44.5,
+   "sku1": "本色宽肩衣架",
+   "skuId": 6184991419954,
+   "volume": 2047,
+   "weight": 120,
+   "width": 2
+  },
+  {
+   "height": 26,
+   "length": 38,
+   "sku1": "复古色扁钩大衣架",
+   "skuId": 6184991419955,
+   "volume": 1976,
+   "weight": 150,
+   "width": 2
+  },
+  {
+   "height": 26,
+   "length": 45,
+   "sku1": "复古色防滑豪华衣架",
+   "skuId": 6184991419956,
+   "volume": 2925,
+   "weight": 150,
+   "width": 2.5
+  }
+ ],
+ "单位": "个",
+ "卖家公司": "桂林佰客喜家居用品有限责任公司",
+ "可售总量": 2930,
+ "商品属性": [
+  "材质:荷木",
+  "品牌:佰客喜",
+  "产品类别:其它",
+  "包装数量:10",
+  "是否进口:否",
+  "形象:无",
+  "产地:荔浦",
+  "产品上市时间:2019",
+  "货号:98177",
+  "加工定制:否",
+  "箱装数量:其他",
+  "颜色:本色宽肩衣架/复古色扁钩大衣架/复古色防滑豪华衣架",
+  "主要下游平台:ebay/亚马逊/wish/独立站/LAZADA/Shopee虾皮/AE速卖通/拼多多Temu",
+  "主要销售地区:欧洲/南美/东南亚/北美/东北亚/中东/大洋洲",
+  "有可授权的自有品牌:是",
+  "是否跨境出口专供货源:是",
+  "风格:现代简约",
+  "是否有专利:否",
+  "版权:无",
+  "升降方式:无操控方式"
+ ],
+ "已售": 70,
+ "已登录": true,
+ "旺旺名": "zhoushanmao",
+ "标题": "防霉防虫天然实木衣架无痕成人实木账目衣撑子木质衣柜衣架衣挂",
+ "状态": "PUBLISHED",
+ "类目": "衣架",
+ "规格价格": [
+  {
+   "价格": "7.59",
+   "库存": 1000,
+   "规格": "复古色扁钩大衣架"
+  },
+  {
+   "价格": "5.98",
+   "库存": 945,
+   "规格": "本色宽肩衣架"
+  },
+  {
+   "价格": "8.90",
+   "库存": 985,
+   "规格": "复古色防滑豪华衣架"
+  }
+ ],
+ "规格图": [
+  [
+   "本色宽肩衣架",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01uTVAyO1UcSKk1MMKp_!!967532538-0-cib.jpg"
+  ],
+  [
+   "复古色扁钩大衣架",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01K9txyM1UcSKkWKxM5_!!967532538-0-cib.jpg"
+  ],
+  [
+   "复古色防滑豪华衣架",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01iULtNb1UcSKkQUD5t_!!967532538-0-cib.jpg"
+  ]
+ ],
+ "规格属性": [
+  {
+   "值": [
+    "本色宽肩衣架",
+    "复古色扁钩大衣架",
+    "复古色防滑豪华衣架"
+   ],
+   "属性": "颜色"
+  }
+ ],
+ "起订量": 1,
+ "阶梯价_登录后": [
+  {
+   "beginAmount": 1,
+   "price": "5.98"
+  },
+  {
+   "beginAmount": 1,
+   "price": "8.90"
+  }
+ ],
+ "url": "https://detail.1688.com/offer/1013916230473.html",
+ "核页时间": "2026-10-17T23:03:35.177Z"
+}

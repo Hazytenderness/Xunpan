@@ -1,0 +1,512 @@
+{
+ "offerId": "1079005730563",
+ "条目": "H0064",
+ "block": false,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01Nl2HuhM0DLL1chua_!!1028367663-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01W1pzwX4IpJE1chua_!!1028367663-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01Atqx343IN3D1chua_!!1028367663-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01FyCcVLl2qWD1chua_!!1028367663-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN013pgtjB2xBtF1chua_!!1028367663-0-cib.jpg"
+ ],
+ "价格区间": null,
+ "价格展示": "skuPrice",
+ "到手价": null,
+ "包装信息": [
+  {
+   "height": 3,
+   "length": 3,
+   "sku1": "【建议】便携眼罩",
+   "skuId": 6300001283302,
+   "volume": 27,
+   "weight": 50,
+   "width": 3
+  },
+  {
+   "height": 2,
+   "length": 5,
+   "sku1": "【建议】防脏收纳袋",
+   "skuId": 6298715426089,
+   "volume": 50,
+   "weight": 50,
+   "width": 5
+  },
+  {
+   "height": 3,
+   "length": 6,
+   "sku1": "皇冠U形枕■灰色",
+   "skuId": 6298712066926,
+   "volume": 108,
+   "weight": 100,
+   "width": 6
+  },
+  {
+   "height": 3,
+   "length": 6,
+   "sku1": "皇冠U形枕■湖蓝",
+   "skuId": 6298712066927,
+   "volume": 108,
+   "weight": 100,
+   "width": 6
+  },
+  {
+   "height": 3,
+   "length": 6,
+   "sku1": "皇冠U形枕■卡其",
+   "skuId": 6298712066928,
+   "volume": 108,
+   "weight": 100,
+   "width": 6
+  },
+  {
+   "height": 3,
+   "length": 6,
+   "sku1": "皇冠U形枕■粉色",
+   "skuId": 6298712066929,
+   "volume": 108,
+   "weight": 100,
+   "width": 6
+  },
+  {
+   "height": 3,
+   "length": 6,
+   "sku1": "皇冠U形枕■宝蓝",
+   "skuId": 6298712066930,
+   "volume": 108,
+   "weight": 100,
+   "width": 6
+  },
+  {
+   "height": 3,
+   "length": 6,
+   "sku1": "U形枕一灰色",
+   "skuId": 6298712066936,
+   "volume": 108,
+   "weight": 100,
+   "width": 6
+  },
+  {
+   "height": 3,
+   "length": 6,
+   "sku1": "U形枕一湖蓝",
+   "skuId": 6298712066937,
+   "volume": 108,
+   "weight": 100,
+   "width": 6
+  },
+  {
+   "height": 3,
+   "length": 6,
+   "sku1": "U形枕一藏青",
+   "skuId": 6298712066938,
+   "volume": 108,
+   "weight": 100,
+   "width": 6
+  },
+  {
+   "height": 3,
+   "length": 6,
+   "sku1": "U形枕一粉色",
+   "skuId": 6298712066939,
+   "volume": 108,
+   "weight": 100,
+   "width": 6
+  },
+  {
+   "height": 3,
+   "length": 6,
+   "sku1": "U形枕一宝蓝",
+   "skuId": 6298712066940,
+   "volume": 108,
+   "weight": 100,
+   "width": 6
+  },
+  {
+   "height": 3,
+   "length": 6,
+   "sku1": "U形枕一天蓝",
+   "skuId": 6298712066941,
+   "volume": 108,
+   "weight": 100,
+   "width": 6
+  },
+  {
+   "height": 3,
+   "length": 6,
+   "sku1": "长方形枕■灰色",
+   "skuId": 6298712066942,
+   "volume": 108,
+   "weight": 120,
+   "width": 6
+  },
+  {
+   "height": 3,
+   "length": 6,
+   "sku1": "长方形枕■湖蓝",
+   "skuId": 6298712066931,
+   "volume": 108,
+   "weight": 120,
+   "width": 6
+  },
+  {
+   "height": 3,
+   "length": 6,
+   "sku1": "长方形枕■藏青",
+   "skuId": 6298712066932,
+   "volume": 108,
+   "weight": 120,
+   "width": 6
+  },
+  {
+   "height": 3,
+   "length": 6,
+   "sku1": "长方形枕■粉色",
+   "skuId": 6298712066933,
+   "volume": 108,
+   "weight": 120,
+   "width": 6
+  },
+  {
+   "height": 3,
+   "length": 6,
+   "sku1": "长方形枕■宝蓝",
+   "skuId": 6298712066934,
+   "volume": 108,
+   "weight": 120,
+   "width": 6
+  },
+  {
+   "height": 3,
+   "length": 6,
+   "sku1": "长方形枕■天蓝",
+   "skuId": 6298712066935,
+   "volume": 108,
+   "weight": 120,
+   "width": 6
+  },
+  {
+   "height": 3,
+   "length": 6,
+   "sku1": "【配套】3D高级眼罩.黑色",
+   "skuId": 6143787841851,
+   "volume": 108,
+   "weight": 100,
+   "width": 6
+  },
+  {
+   "height": 3,
+   "length": 6,
+   "sku1": "【配套】3D高级眼罩.灰色",
+   "skuId": 6143787841849,
+   "volume": 108,
+   "weight": 100,
+   "width": 6
+  },
+  {
+   "height": 3,
+   "length": 6,
+   "sku1": "【配套】3D高级眼罩.粉色",
+   "skuId": 6143787841850,
+   "volume": 108,
+   "weight": 100,
+   "width": 6
+  },
+  {
+   "height": 3,
+   "length": 6,
+   "sku1": "【配套】3D高级眼罩.绿色",
+   "skuId": 6143787841852,
+   "volume": 108,
+   "weight": 100,
+   "width": 6
+  }
+ ],
+ "单位": "个",
+ "卖家公司": "义乌旷逸户外用品有限公司",
+ "可售总量": 22999606,
+ "商品属性": [
+  "材质:PVC植绒",
+  "产品类别:自动按压护颈枕",
+  "品牌:凯路德",
+  "样式:U型",
+  "厚度:17",
+  "可否定做:是",
+  "型号:U型",
+  "种类:按压充气护颈枕",
+  "重量:79",
+  "适用人群:通用",
+  "贸易属性:通用",
+  "材质属性:植绒PVC",
+  "规格:20*28",
+  "颜色:【建议】便携眼罩/【建议】防脏收纳袋/皇冠U形枕■灰色/皇冠U形枕■湖蓝/皇冠U形枕■卡其/皇冠U形枕■粉色/皇冠U形枕■宝蓝/U形枕一灰色/U形枕一湖蓝/U形枕一藏青/U形枕一粉色/U形枕一宝蓝/U形枕一天蓝/长方形枕■灰色/长方形枕■湖蓝/长方形枕■藏青/长方形枕■粉色/长方形枕■宝蓝/长方形枕■天蓝/【配套】3D高级眼罩.黑色/【配套】3D高级眼罩.灰色/【配套】3D高级眼罩.粉色/【配套】3D高级眼罩.绿色",
+  "是否跨境出口专供货源:否",
+  "风格:时尚，旅行，办公家居必备神器",
+  "是否一般纳税人:否",
+  "适用场景:通用",
+  "印刷工艺:无",
+  "产地:中国",
+  "充气方式:按压充气",
+  "收纳方式:折叠",
+  "是否IP授权:否"
+ ],
+ "已售": 10381,
+ "已登录": true,
+ "旺旺名": "ewaspal",
+ "标题": "按压式充气枕头便携长途旅行护颈枕飞机午睡车载颈椎支撑U型枕",
+ "状态": "PUBLISHED",
+ "类目": "充气旅行枕",
+ "规格价格": [
+  {
+   "价格": "3.98",
+   "库存": 999997,
+   "规格": "长方形枕■天蓝"
+  },
+  {
+   "价格": "4.98",
+   "库存": 999999,
+   "规格": "【配套】3D高级眼罩.绿色"
+  },
+  {
+   "价格": "2.88",
+   "库存": 1000000,
+   "规格": "U形枕一天蓝"
+  },
+  {
+   "价格": "2.88",
+   "库存": 999999,
+   "规格": "U形枕一灰色"
+  },
+  {
+   "价格": "2.88",
+   "库存": 1000000,
+   "规格": "U形枕一宝蓝"
+  },
+  {
+   "价格": "0.58",
+   "库存": 999944,
+   "规格": "【建议】便携眼罩"
+  },
+  {
+   "价格": "4.98",
+   "库存": 999999,
+   "规格": "【配套】3D高级眼罩.黑色"
+  },
+  {
+   "价格": "2.88",
+   "库存": 1000000,
+   "规格": "U形枕一湖蓝"
+  },
+  {
+   "价格": "2.88",
+   "库存": 999998,
+   "规格": "U形枕一藏青"
+  },
+  {
+   "价格": "4.68",
+   "库存": 999958,
+   "规格": "皇冠U形枕■卡其"
+  },
+  {
+   "价格": "4.98",
+   "库存": 1000000,
+   "规格": "【配套】3D高级眼罩.粉色"
+  },
+  {
+   "价格": "3.98",
+   "库存": 1000000,
+   "规格": "长方形枕■湖蓝"
+  },
+  {
+   "价格": "3.98",
+   "库存": 999999,
+   "规格": "长方形枕■粉色"
+  },
+  {
+   "价格": "4.68",
+   "库存": 999977,
+   "规格": "皇冠U形枕■湖蓝"
+  },
+  {
+   "价格": "4.68",
+   "库存": 999996,
+   "规格": "皇冠U形枕■粉色"
+  },
+  {
+   "价格": "2.88",
+   "库存": 1000000,
+   "规格": "U形枕一粉色"
+  },
+  {
+   "价格": "4.98",
+   "库存": 999996,
+   "规格": "【配套】3D高级眼罩.灰色"
+  },
+  {
+   "价格": "0.98",
+   "库存": 999983,
+   "规格": "【建议】防脏收纳袋"
+  },
+  {
+   "价格": "4.68",
+   "库存": 999994,
+   "规格": "皇冠U形枕■宝蓝"
+  },
+  {
+   "价格": "3.98",
+   "库存": 1000000,
+   "规格": "长方形枕■藏青"
+  },
+  {
+   "价格": "3.98",
+   "库存": 1000000,
+   "规格": "长方形枕■宝蓝"
+  },
+  {
+   "价格": "4.68",
+   "库存": 999771,
+   "规格": "皇冠U形枕■灰色"
+  },
+  {
+   "价格": "3.98",
+   "库存": 999996,
+   "规格": "长方形枕■灰色"
+  }
+ ],
+ "规格图": [
+  [
+   "【建议】便携眼罩",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01RzupGLQjEyB1chua_!!1028367663-0-cib.jpg"
+  ],
+  [
+   "【建议】防脏收纳袋",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01gkHKrUqrloD1chua_!!1028367663-0-cib.jpg"
+  ],
+  [
+   "皇冠U形枕■灰色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN019Fr76480PxI1chua_!!1028367663-0-cib.jpg"
+  ],
+  [
+   "皇冠U形枕■湖蓝",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01lRl946ZuzzC1chua_!!1028367663-0-cib.jpg"
+  ],
+  [
+   "皇冠U形枕■卡其",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01pDHd7cWFEHL1chua_!!1028367663-0-cib.jpg"
+  ],
+  [
+   "皇冠U形枕■粉色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN014vwgu3yl5yC1chua_!!1028367663-0-cib.jpg"
+  ],
+  [
+   "皇冠U形枕■宝蓝",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01NPuHfQm604L1chua_!!1028367663-0-cib.jpg"
+  ],
+  [
+   "U形枕一灰色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01UlRngiemvDK1chua_!!1028367663-0-cib.jpg"
+  ],
+  [
+   "U形枕一湖蓝",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01czWFvv0veAF1chua_!!1028367663-0-cib.jpg"
+  ],
+  [
+   "U形枕一藏青",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01jEvZxYU31mI1chua_!!1028367663-0-cib.jpg"
+  ],
+  [
+   "U形枕一粉色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01AEnhR9xjJ8J1chua_!!1028367663-0-cib.jpg"
+  ],
+  [
+   "U形枕一宝蓝",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01OQ9zm1WCnoL1chua_!!1028367663-0-cib.jpg"
+  ],
+  [
+   "U形枕一天蓝",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01qGTEjqW4ymI1chua_!!1028367663-0-cib.jpg"
+  ],
+  [
+   "长方形枕■灰色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01sSEE0oW1mKJ1chua_!!1028367663-0-cib.jpg"
+  ],
+  [
+   "长方形枕■湖蓝",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01CkvjngxiHWG1chua_!!1028367663-0-cib.jpg"
+  ],
+  [
+   "长方形枕■藏青",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01f7frdFHae5C1chua_!!1028367663-0-cib.jpg"
+  ],
+  [
+   "长方形枕■粉色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01OxU7t1Tk9dL1chua_!!1028367663-0-cib.jpg"
+  ],
+  [
+   "长方形枕■宝蓝",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01SYyqhCKV8qI1chua_!!1028367663-0-cib.jpg"
+  ],
+  [
+   "长方形枕■天蓝",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01RWKR1hqFkgK1chua_!!1028367663-0-cib.jpg"
+  ],
+  [
+   "【配套】3D高级眼罩.黑色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN012nnjxiUNPNF1chua_!!1028367663-0-cib.jpg"
+  ],
+  [
+   "【配套】3D高级眼罩.灰色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01fVk91n1p1MH1chua_!!1028367663-0-cib.jpg"
+  ],
+  [
+   "【配套】3D高级眼罩.粉色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01HMmHQE2u5uC1chua_!!1028367663-0-cib.jpg"
+  ],
+  [
+   "【配套】3D高级眼罩.绿色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01k8fJrDfxrrB1chua_!!1028367663-0-cib.jpg"
+  ]
+ ],
+ "规格属性": [
+  {
+   "值": [
+    "【建议】便携眼罩",
+    "【建议】防脏收纳袋",
+    "皇冠U形枕■灰色",
+    "皇冠U形枕■湖蓝",
+    "皇冠U形枕■卡其",
+    "皇冠U形枕■粉色",
+    "皇冠U形枕■宝蓝",
+    "U形枕一灰色",
+    "U形枕一湖蓝",
+    "U形枕一藏青",
+    "U形枕一粉色",
+    "U形枕一宝蓝",
+    "U形枕一天蓝",
+    "长方形枕■灰色",
+    "长方形枕■湖蓝",
+    "长方形枕■藏青",
+    "长方形枕■粉色",
+    "长方形枕■宝蓝",
+    "长方形枕■天蓝",
+    "【配套】3D高级眼罩.黑色",
+    "【配套】3D高级眼罩.灰色",
+    "【配套】3D高级眼罩.粉色",
+    "【配套】3D高级眼罩.绿色"
+   ],
+   "属性": "颜色"
+  }
+ ],
+ "起订量": 1,
+ "阶梯价_登录后": [
+  {
+   "beginAmount": 1,
+   "price": "0.58"
+  },
+  {
+   "beginAmount": 1,
+   "price": "4.98"
+  }
+ ],
+ "url": "https://detail.1688.com/offer/1079005730563.html",
+ "核页时间": "2026-10-15T23:27:36.402Z"
+}

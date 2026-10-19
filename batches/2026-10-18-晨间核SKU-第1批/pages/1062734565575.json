@@ -1,0 +1,444 @@
+{
+ "offerId": "1062734565575",
+ "条目": "H0013",
+ "block": false,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN019rZi141H8bXq9l8jL_!!2222544600713-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01S01Lxc1H8bXqKjjGc_!!2222544600713-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01bG9tC51H8bXrta7st_!!2222544600713-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01wAWmeW1H8bXqDFjBR_!!2222544600713-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01H7G57S1H8bXq6rO4E_!!2222544600713-0-cib.jpg"
+ ],
+ "价格区间": null,
+ "价格展示": "skuPrice",
+ "到手价": null,
+ "包装信息": [
+  {
+   "height": 11.1,
+   "length": 6.8,
+   "sku1": "T06蓝色苹果专业",
+   "skuId": 6272954662204,
+   "volume": 233.988,
+   "weight": 32,
+   "width": 3.1
+  },
+  {
+   "height": 11.1,
+   "length": 6.8,
+   "sku1": "T06粉色苹果专业",
+   "skuId": 6272954662205,
+   "volume": 233.988,
+   "weight": 32,
+   "width": 3.1
+  },
+  {
+   "height": 11.1,
+   "length": 6.8,
+   "sku1": "T06黄色苹果专业",
+   "skuId": 6272954662206,
+   "volume": 233.988,
+   "weight": 32,
+   "width": 3.1
+  },
+  {
+   "height": 11.1,
+   "length": 6.8,
+   "sku1": "T06紫色苹果专业",
+   "skuId": 6272954662207,
+   "volume": 233.988,
+   "weight": 32,
+   "width": 3.1
+  },
+  {
+   "height": 11.1,
+   "length": 6.8,
+   "sku1": "T06蓝色通用",
+   "skuId": 6117498916686,
+   "volume": 233.988,
+   "weight": 32,
+   "width": 3.1
+  },
+  {
+   "height": 11.1,
+   "length": 6.8,
+   "sku1": "T06粉色通用",
+   "skuId": 6117498916685,
+   "volume": 233.988,
+   "weight": 32,
+   "width": 3.1
+  },
+  {
+   "height": 11.1,
+   "length": 6.8,
+   "sku1": "T06黄色通用",
+   "skuId": 6117498916683,
+   "volume": 233.988,
+   "weight": 32,
+   "width": 3.1
+  },
+  {
+   "height": 11.1,
+   "length": 6.8,
+   "sku1": "T06紫色通用",
+   "skuId": 6117498916680,
+   "volume": 233.988,
+   "weight": 32,
+   "width": 3.1
+  },
+  {
+   "height": 11.1,
+   "length": 6.8,
+   "sku1": "T06金色通用",
+   "skuId": 6117498916682,
+   "volume": 233.988,
+   "weight": 32,
+   "width": 3.1
+  },
+  {
+   "height": 11.1,
+   "length": 6.8,
+   "sku1": "T06咖色通用",
+   "skuId": 6117498916684,
+   "volume": 233.988,
+   "weight": 32,
+   "width": 3.1
+  },
+  {
+   "height": 11.1,
+   "length": 6.8,
+   "sku1": "T06银色通用",
+   "skuId": 6117498916681,
+   "volume": 233.988,
+   "weight": 32,
+   "width": 3.1
+  },
+  {
+   "height": 1.5,
+   "length": 12,
+   "sku1": "AK08苹果专用狗狗白色",
+   "skuId": 6120767885426,
+   "volume": 144,
+   "weight": 30,
+   "width": 8
+  },
+  {
+   "height": 1.5,
+   "length": 12,
+   "sku1": "AK08苹果专用狗狗黑色",
+   "skuId": 6120767885425,
+   "volume": 144,
+   "weight": 30,
+   "width": 8
+  },
+  {
+   "height": 1.5,
+   "length": 12,
+   "sku1": "AK08苹果专用猫咪白色",
+   "skuId": 6120767885427,
+   "volume": 144,
+   "weight": 30,
+   "width": 8
+  },
+  {
+   "height": 1.5,
+   "length": 12,
+   "sku1": "AK08苹果专用猫咪黑色",
+   "skuId": 6120767885421,
+   "volume": 144,
+   "weight": 30,
+   "width": 8
+  },
+  {
+   "height": 1.5,
+   "length": 12,
+   "sku1": "AK08B通用狗狗黑色",
+   "skuId": 6120767885423,
+   "volume": 144,
+   "weight": 30,
+   "width": 8
+  },
+  {
+   "height": 1.5,
+   "length": 12,
+   "sku1": "AK08B通用狗狗白色",
+   "skuId": 6120767885424,
+   "volume": 144,
+   "weight": 30,
+   "width": 8
+  },
+  {
+   "height": 1.5,
+   "length": 12,
+   "sku1": "AK08通用猫咪白色",
+   "skuId": 6120767885420,
+   "volume": 144,
+   "weight": 30,
+   "width": 8
+  },
+  {
+   "height": 1.5,
+   "length": 12,
+   "sku1": "AK08通用猫咪黑色",
+   "skuId": 6120767885422,
+   "volume": 144,
+   "weight": 30,
+   "width": 8
+  }
+ ],
+ "单位": "个",
+ "卖家公司": "深圳市英利成科技有限公司",
+ "可售总量": 59346,
+ "商品属性": [
+  "品牌:英利成",
+  "兼容平台:iOS",
+  "无线距离:50",
+  "电池容量:210",
+  "材质:ABS",
+  "附加功能:FindMy查找",
+  "型号:T06苹果",
+  "货号:T06苹果",
+  "上市时间:2026",
+  "货源类别:现货",
+  "加工方式:贴片",
+  "加印LOGO:支持",
+  "接口:无",
+  "适用对象:通用",
+  "适用平台:苹果iOS平台",
+  "适用人群:通用",
+  "佩戴方式:项圈",
+  "产品重量:4.8g",
+  "产品尺寸:24.5*26.5mm",
+  "最快出货时间:1-3天",
+  "是否支持一件代发:支持",
+  "是否支持混批:支持",
+  "是否支持代理加盟:支持",
+  "售后服务:店面三包",
+  "发票:不提供发票",
+  "包装清单:防丢器+项圈+说明书+彩盒+吸塑",
+  "颜色:T06蓝色苹果专业/T06粉色苹果专业/T06黄色苹果专业/T06紫色苹果专业/T06蓝色通用/T06粉色通用/T06黄色通用/T06紫色通用/T06金色通用/T06咖色通用/T06银色通用/AK08苹果专用狗狗白色/AK08苹果专用狗狗黑色/AK08苹果专用猫咪白色/AK08苹果专用猫咪黑色/AK08B通用狗狗黑色/AK08B通用狗狗白色/AK08通用猫咪白色/AK08通用猫咪黑色",
+  "主要下游平台:wish/速卖通/LAZADA/其他",
+  "主要销售地区:南美/东南亚/北美/东北亚/中东/其他",
+  "有可授权的自有品牌:是",
+  "是否跨境出口专供货源:是"
+ ],
+ "已售": 146,
+ "已登录": true,
+ "旺旺名": "英利成科技有限公司",
+ "标题": "跨境新款宠物定位器FindMy查找防丢器狗狗猫咪项圈小型追踪定位仪",
+ "状态": "PUBLISHED",
+ "类目": "智能防丢器",
+ "规格价格": [
+  {
+   "价格": "26.00",
+   "库存": 993,
+   "规格": "T06黄色苹果专业"
+  },
+  {
+   "价格": "48.00",
+   "库存": 1068,
+   "规格": "T06紫色通用"
+  },
+  {
+   "价格": "48.00",
+   "库存": 1026,
+   "规格": "T06黄色通用"
+  },
+  {
+   "价格": "43.00",
+   "库存": 6145,
+   "规格": "AK08通用猫咪白色"
+  },
+  {
+   "价格": "26.00",
+   "库存": 886,
+   "规格": "T06蓝色苹果专业"
+  },
+  {
+   "价格": "25.00",
+   "库存": 6483,
+   "规格": "AK08苹果专用狗狗白色"
+  },
+  {
+   "价格": "26.00",
+   "库存": 993,
+   "规格": "T06粉色苹果专业"
+  },
+  {
+   "价格": "25.00",
+   "库存": 6187,
+   "规格": "AK08苹果专用猫咪白色"
+  },
+  {
+   "价格": "43.00",
+   "库存": 6123,
+   "规格": "AK08B通用狗狗白色"
+  },
+  {
+   "价格": "48.00",
+   "库存": 1048,
+   "规格": "T06蓝色通用"
+  },
+  {
+   "价格": "25.00",
+   "库存": 5767,
+   "规格": "AK08苹果专用狗狗黑色"
+  },
+  {
+   "价格": "48.00",
+   "库存": 1082,
+   "规格": "T06粉色通用"
+  },
+  {
+   "价格": "48.00",
+   "库存": 1377,
+   "规格": "T06金色通用"
+  },
+  {
+   "价格": "43.00",
+   "库存": 5012,
+   "规格": "AK08B通用狗狗黑色"
+  },
+  {
+   "价格": "25.00",
+   "库存": 6152,
+   "规格": "AK08苹果专用猫咪黑色"
+  },
+  {
+   "价格": "26.00",
+   "库存": 996,
+   "规格": "T06紫色苹果专业"
+  },
+  {
+   "价格": "48.00",
+   "库存": 1924,
+   "规格": "T06银色通用"
+  },
+  {
+   "价格": "43.00",
+   "库存": 5061,
+   "规格": "AK08通用猫咪黑色"
+  },
+  {
+   "价格": "48.00",
+   "库存": 1023,
+   "规格": "T06咖色通用"
+  }
+ ],
+ "规格图": [
+  [
+   "T06蓝色苹果专业",
+   "https://cbu01.alicdn.com/img/ibank/O1CN011C64AQ1H8bXlt2vqG_!!2222544600713-0-cib.jpg"
+  ],
+  [
+   "T06粉色苹果专业",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01UIetWL1H8bXq60y0j_!!2222544600713-0-cib.jpg"
+  ],
+  [
+   "T06黄色苹果专业",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01lszl6v1H8bXq61RAv_!!2222544600713-0-cib.jpg"
+  ],
+  [
+   "T06紫色苹果专业",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01WuXBCK1H8bXqLe3OL_!!2222544600713-0-cib.jpg"
+  ],
+  [
+   "T06蓝色通用",
+   "https://cbu01.alicdn.com/img/ibank/O1CN019oiguo1H8bY9uMSHQ_!!2222544600713-0-cib.jpg"
+  ],
+  [
+   "T06粉色通用",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01PRB7GP1H8bY9fWAlG_!!2222544600713-0-cib.jpg"
+  ],
+  [
+   "T06黄色通用",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01Nsl4Vd1H8bY9gppWP_!!2222544600713-0-cib.jpg"
+  ],
+  [
+   "T06紫色通用",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01ruv1Pl1H8bY9gsiNA_!!2222544600713-0-cib.jpg"
+  ],
+  [
+   "T06金色通用",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01W0Fy1S1H8bYA1gk5e_!!2222544600713-0-cib.jpg"
+  ],
+  [
+   "T06咖色通用",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01uMpJBK1H8bY9uUuiy_!!2222544600713-0-cib.jpg"
+  ],
+  [
+   "T06银色通用",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01fv8mOl1H8bYA52agf_!!2222544600713-0-cib.jpg"
+  ],
+  [
+   "AK08苹果专用狗狗白色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01tR9rcIiE2dI3thOC_!!2222544600713-0-cib.jpg"
+  ],
+  [
+   "AK08苹果专用狗狗黑色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01iz8CmtNnqTF3thOC_!!2222544600713-0-cib.jpg"
+  ],
+  [
+   "AK08苹果专用猫咪白色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01D9EQmKyjBvL3thOC_!!2222544600713-0-cib.jpg"
+  ],
+  [
+   "AK08苹果专用猫咪黑色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01O3qUfvvGQ5J3thOC_!!2222544600713-0-cib.jpg"
+  ],
+  [
+   "AK08B通用狗狗黑色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01vuh0wLmmTSB3thOC_!!2222544600713-0-cib.jpg"
+  ],
+  [
+   "AK08B通用狗狗白色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01HZe5XgxteAH3thOC_!!2222544600713-0-cib.jpg"
+  ],
+  [
+   "AK08通用猫咪白色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01S3ARIYGnLDF3thOC_!!2222544600713-0-cib.jpg"
+  ],
+  [
+   "AK08通用猫咪黑色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01esySQVJVqlL3thOC_!!2222544600713-0-cib.jpg"
+  ]
+ ],
+ "规格属性": [
+  {
+   "值": [
+    "T06蓝色苹果专业",
+    "T06粉色苹果专业",
+    "T06黄色苹果专业",
+    "T06紫色苹果专业",
+    "T06蓝色通用",
+    "T06粉色通用",
+    "T06黄色通用",
+    "T06紫色通用",
+    "T06金色通用",
+    "T06咖色通用",
+    "T06银色通用",
+    "AK08苹果专用狗狗白色",
+    "AK08苹果专用狗狗黑色",
+    "AK08苹果专用猫咪白色",
+    "AK08苹果专用猫咪黑色",
+    "AK08B通用狗狗黑色",
+    "AK08B通用狗狗白色",
+    "AK08通用猫咪白色",
+    "AK08通用猫咪黑色"
+   ],
+   "属性": "颜色"
+  }
+ ],
+ "起订量": 1,
+ "阶梯价_登录后": [
+  {
+   "beginAmount": 1,
+   "price": "25.00"
+  },
+  {
+   "beginAmount": 1,
+   "price": "48.00"
+  }
+ ],
+ "url": "https://detail.1688.com/offer/1062734565575.html",
+ "核页时间": "2026-10-17T23:02:42.150Z"
+}

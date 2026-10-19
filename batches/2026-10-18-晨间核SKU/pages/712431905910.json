@@ -1,0 +1,445 @@
+{
+ "offerId": "712431905910",
+ "条目": "H0036",
+ "block": false,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01Jbo2LV28TpDX4AM7P_!!2215653127934-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01P1IbRD28TpDPbuekC_!!2215653127934-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01LLhw0q28TpDTV7CBh_!!2215653127934-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01Ry1iRm28TpDX49Ptc_!!2215653127934-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01s5b2ul28TpTpbOnvw_!!2215653127934-0-cib.jpg"
+ ],
+ "价格区间": "8.50-23.00",
+ "价格展示": "skuPrice",
+ "到手价": {
+  "件数": 1,
+  "价": "7.5",
+  "说明": "新人价"
+ },
+ "包装信息": [
+  {
+   "height": 1.5,
+   "length": 32,
+   "sku1": "PEVA侧网款小号",
+   "skuId": 5287166416423,
+   "volume": 1200,
+   "weight": 160,
+   "width": 25
+  },
+  {
+   "height": 1.5,
+   "length": 33,
+   "sku1": "推车开窗拉链款（PEVA外贸专供）",
+   "skuId": 5287166416426,
+   "volume": 1188,
+   "weight": 175,
+   "width": 24
+  },
+  {
+   "height": 1.5,
+   "length": 28,
+   "sku1": "高景观开窗拉链款（PEVA外贸专供）",
+   "skuId": 5287166416425,
+   "volume": 1050,
+   "weight": 190,
+   "width": 25
+  },
+  {
+   "height": 1.5,
+   "length": 28,
+   "sku1": "高景观开窗拉链侧网款（PEVA外贸专供）",
+   "skuId": 5778132125974,
+   "volume": 1050,
+   "weight": 190,
+   "width": 25
+  },
+  {
+   "height": 1.5,
+   "length": 34,
+   "sku1": "遛娃神器雨罩-PEVA食品级环保材质",
+   "skuId": 5287166416410,
+   "volume": 1479,
+   "weight": 190,
+   "width": 29
+  },
+  {
+   "height": 1.5,
+   "length": 34,
+   "sku1": "【遛娃神器雨罩】带高清视窗-PEVA食品级环保材质",
+   "skuId": 5287166416413,
+   "volume": 1479,
+   "weight": 295,
+   "width": 29
+  },
+  {
+   "height": 1.5,
+   "length": 34,
+   "sku1": "U型拉链款-护目镜防雨罩【中号】",
+   "skuId": 5241980613907,
+   "volume": 1479,
+   "weight": 265,
+   "width": 29
+  },
+  {
+   "height": 1.5,
+   "length": 34,
+   "sku1": "U型拉链款-护目镜防雨罩【大号】",
+   "skuId": 5241980613908,
+   "volume": 1479,
+   "weight": 295,
+   "width": 29
+  },
+  {
+   "height": 1.5,
+   "length": 34,
+   "sku1": "双拉链款-护目镜防雨罩【中号】",
+   "skuId": 5241980613909,
+   "volume": 1479,
+   "weight": 265,
+   "width": 29
+  },
+  {
+   "height": 1.5,
+   "length": 34,
+   "sku1": "双拉链款-护目镜防雨罩【大号】",
+   "skuId": 5241980613910,
+   "volume": 1479,
+   "weight": 265,
+   "width": 29
+  },
+  {
+   "height": 1.5,
+   "length": 34,
+   "sku1": "双拉链开门【中号】-PEVA食品级环保材质",
+   "skuId": 5287166416411,
+   "volume": 1479,
+   "weight": 225,
+   "width": 29
+  },
+  {
+   "height": 1.5,
+   "length": 34,
+   "sku1": "双拉链开门【大号】-PEVA食品级环保材质",
+   "skuId": 5287166416412,
+   "volume": 1479,
+   "weight": 260,
+   "width": 29
+  },
+  {
+   "height": 3,
+   "length": 34,
+   "sku1": "PEVA透明款【提篮雨罩】",
+   "skuId": 5287166416415,
+   "volume": 2958,
+   "weight": 130,
+   "width": 29
+  },
+  {
+   "height": 2,
+   "length": 28,
+   "sku1": "黑色【提篮雨罩】",
+   "skuId": 5287166416414,
+   "volume": 1400,
+   "weight": 245,
+   "width": 25
+  },
+  {
+   "height": 2,
+   "length": 28,
+   "sku1": "灰色【提篮雨罩】",
+   "skuId": 5287166416416,
+   "volume": 1400,
+   "weight": 245,
+   "width": 25
+  },
+  {
+   "height": 4,
+   "length": 34,
+   "sku1": "灰色加绒款【提篮雨罩】",
+   "skuId": 5287166416422,
+   "volume": 3944,
+   "weight": 440,
+   "width": 29
+  },
+  {
+   "height": 1.5,
+   "length": 28,
+   "sku1": "亚马逊爆款PEVA雨罩",
+   "skuId": 5575297768435,
+   "volume": 1050,
+   "weight": 170,
+   "width": 25
+  },
+  {
+   "height": 1.5,
+   "length": 28,
+   "sku1": "宠物提篮雨罩",
+   "skuId": 6126572796385,
+   "volume": 1008,
+   "weight": 120,
+   "width": 24
+  },
+  {
+   "height": 2,
+   "length": 28,
+   "sku1": "大号宠物雨罩",
+   "skuId": 6126572796386,
+   "volume": 1344,
+   "weight": 240,
+   "width": 24
+  },
+  {
+   "height": 6,
+   "length": 32,
+   "sku1": "露营车雨罩",
+   "skuId": 6126572796384,
+   "volume": 4800,
+   "weight": 560,
+   "width": 25
+  }
+ ],
+ "单位": "件",
+ "卖家公司": "舒城县柏菲雅儿童用品厂",
+ "可售总量": 270405,
+ "商品属性": [
+  "材质:PVC",
+  "品牌:其他",
+  "货号:婴儿车防风雨罩",
+  "产品类别:推车雨衣",
+  "是否进口:否",
+  "产地:其他",
+  "颜色:PEVA侧网款小号/推车开窗拉链款（PEVA外贸专供）/高景观开窗拉链款（PEVA外贸专供）/高景观开窗拉链侧网款（PEVA外贸专供）/遛娃神器雨罩-PEVA食品级环保材质/【遛娃神器雨罩】带高清视窗-PEVA食品级环保材质/U型拉链款-护目镜防雨罩【中号】/U型拉链款-护目镜防雨罩【大号】/双拉链款-护目镜防雨罩【中号】/双拉链款-护目镜防雨罩【大号】/双拉链开门【中号】-PEVA食品级环保材质/双拉链开门【大号】-PEVA食品级环保材质/PEVA透明款【提篮雨罩】/黑色【提篮雨罩】/灰色【提篮雨罩】/灰色加绒款【提篮雨罩】/亚马逊爆款PEVA雨罩/宠物提篮雨罩/大号宠物雨罩/露营车雨罩",
+  "是否跨境出口专供货源:否",
+  "是否IP授权:否"
+ ],
+ "已售": 10006,
+ "已登录": true,
+ "旺旺名": "柏菲雅儿童用品厂",
+ "标题": "亚马逊跨境推车雨罩 婴儿车童车宝宝车通用 挡风罩 防飞沫 防雨罩",
+ "状态": "PUBLISHED",
+ "类目": "童车/座椅配件",
+ "规格价格": [
+  {
+   "价格": "18.00",
+   "库存": 994,
+   "规格": "大号宠物雨罩"
+  },
+  {
+   "价格": "18.50",
+   "库存": 9378,
+   "规格": "U型拉链款-护目镜防雨罩【大号】"
+  },
+  {
+   "价格": "15.50",
+   "库存": 998,
+   "规格": "宠物提篮雨罩"
+  },
+  {
+   "价格": "14.50",
+   "库存": 4993,
+   "规格": "遛娃神器雨罩-PEVA食品级环保材质"
+  },
+  {
+   "价格": "11.30",
+   "库存": 65739,
+   "规格": "高景观开窗拉链款（PEVA外贸专供）"
+  },
+  {
+   "价格": "18.00",
+   "库存": 4813,
+   "规格": "双拉链开门【大号】-PEVA食品级环保材质"
+  },
+  {
+   "价格": "22.00",
+   "库存": 869,
+   "规格": "露营车雨罩"
+  },
+  {
+   "价格": "18.50",
+   "库存": 9930,
+   "规格": "双拉链款-护目镜防雨罩【大号】"
+  },
+  {
+   "价格": "10.80",
+   "库存": 4873,
+   "规格": "PEVA透明款【提篮雨罩】"
+  },
+  {
+   "价格": "15.50",
+   "库存": 8970,
+   "规格": "双拉链款-护目镜防雨罩【中号】"
+  },
+  {
+   "价格": "23.00",
+   "库存": 10059,
+   "规格": "灰色加绒款【提篮雨罩】"
+  },
+  {
+   "价格": "15.00",
+   "库存": 4802,
+   "规格": "双拉链开门【中号】-PEVA食品级环保材质"
+  },
+  {
+   "价格": "15.50",
+   "库存": 8949,
+   "规格": "U型拉链款-护目镜防雨罩【中号】"
+  },
+  {
+   "价格": "11.00",
+   "库存": 8711,
+   "规格": "亚马逊爆款PEVA雨罩"
+  },
+  {
+   "价格": "11.80",
+   "库存": 9452,
+   "规格": "高景观开窗拉链侧网款（PEVA外贸专供）"
+  },
+  {
+   "价格": "9.50",
+   "库存": 99593,
+   "规格": "推车开窗拉链款（PEVA外贸专供）"
+  },
+  {
+   "价格": "14.60",
+   "库存": 3138,
+   "规格": "黑色【提篮雨罩】"
+  },
+  {
+   "价格": "14.60",
+   "库存": 4628,
+   "规格": "灰色【提篮雨罩】"
+  },
+  {
+   "价格": "8.50",
+   "库存": 4530,
+   "规格": "PEVA侧网款小号"
+  },
+  {
+   "价格": "15.50",
+   "库存": 4986,
+   "规格": "【遛娃神器雨罩】带高清视窗-PEVA食品级环保材质"
+  }
+ ],
+ "规格图": [
+  [
+   "PEVA侧网款小号",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01hyA5MX28TpJil6s3z_!!2215653127934-0-cib.jpg"
+  ],
+  [
+   "推车开窗拉链款（PEVA外贸专供）",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01S4RsIi28TpDPbzUQS_!!2215653127934-0-cib.jpg"
+  ],
+  [
+   "高景观开窗拉链款（PEVA外贸专供）",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01Hc9FDA28TpQag8g7p_!!2215653127934-0-cib.jpg"
+  ],
+  [
+   "高景观开窗拉链侧网款（PEVA外贸专供）",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01oQ8eN228TpR2IV3Hc_!!2215653127934-0-cib.jpg"
+  ],
+  [
+   "遛娃神器雨罩-PEVA食品级环保材质",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01HmznKi28TpRvqYFW3_!!2215653127934-0-cib.jpg"
+  ],
+  [
+   "【遛娃神器雨罩】带高清视窗-PEVA食品级环保材质",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01rrc6as28TpRvGgsq7_!!2215653127934-0-cib.jpg"
+  ],
+  [
+   "U型拉链款-护目镜防雨罩【中号】",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01D3BfOp28TpIhy7Cu6_!!2215653127934-0-cib.jpg"
+  ],
+  [
+   "U型拉链款-护目镜防雨罩【大号】",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01mZiqw128TpIge9GC2_!!2215653127934-0-cib.jpg"
+  ],
+  [
+   "双拉链款-护目镜防雨罩【中号】",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01InRbSUrSMvI1chua_!!2215653127934-0-cib.jpg"
+  ],
+  [
+   "双拉链款-护目镜防雨罩【大号】",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01uzav5o8OZ4L1chua_!!2215653127934-0-cib.jpg"
+  ],
+  [
+   "双拉链开门【中号】-PEVA食品级环保材质",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01LybkLY28TpJm4cW0k_!!2215653127934-0-cib.jpg"
+  ],
+  [
+   "双拉链开门【大号】-PEVA食品级环保材质",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01pUGxcj28TpJeEY9Q9_!!2215653127934-0-cib.jpg"
+  ],
+  [
+   "PEVA透明款【提篮雨罩】",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01WkrwsF28TpJqNJDPf_!!2215653127934-0-cib.jpg"
+  ],
+  [
+   "黑色【提篮雨罩】",
+   "https://cbu01.alicdn.com/img/ibank/O1CN0120Vz2c28TpJkAptzd_!!2215653127934-0-cib.jpg"
+  ],
+  [
+   "灰色【提篮雨罩】",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01MGGhRR28TpJmiXygb_!!2215653127934-0-cib.jpg"
+  ],
+  [
+   "灰色加绒款【提篮雨罩】",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01D79GmH28TpJkApV6G_!!2215653127934-0-cib.jpg"
+  ],
+  [
+   "亚马逊爆款PEVA雨罩",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01Hy3Ujm28TpNJQ2XD6_!!2215653127934-0-cib.jpg"
+  ],
+  [
+   "宠物提篮雨罩",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01DnBZH7WwY5H1chua_!!2215653127934-0-cib.jpg"
+  ],
+  [
+   "大号宠物雨罩",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01a6n7bcbTlmE3FPpA_!!2215653127934-0-cib.jpg"
+  ],
+  [
+   "露营车雨罩",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01euvEP8H4yTD3FPpA_!!2215653127934-0-cib.jpg"
+  ]
+ ],
+ "规格属性": [
+  {
+   "值": [
+    "PEVA侧网款小号",
+    "推车开窗拉链款（PEVA外贸专供）",
+    "高景观开窗拉链款（PEVA外贸专供）",
+    "高景观开窗拉链侧网款（PEVA外贸专供）",
+    "遛娃神器雨罩-PEVA食品级环保材质",
+    "【遛娃神器雨罩】带高清视窗-PEVA食品级环保材质",
+    "U型拉链款-护目镜防雨罩【中号】",
+    "U型拉链款-护目镜防雨罩【大号】",
+    "双拉链款-护目镜防雨罩【中号】",
+    "双拉链款-护目镜防雨罩【大号】",
+    "双拉链开门【中号】-PEVA食品级环保材质",
+    "双拉链开门【大号】-PEVA食品级环保材质",
+    "PEVA透明款【提篮雨罩】",
+    "黑色【提篮雨罩】",
+    "灰色【提篮雨罩】",
+    "灰色加绒款【提篮雨罩】",
+    "亚马逊爆款PEVA雨罩",
+    "宠物提篮雨罩",
+    "大号宠物雨罩",
+    "露营车雨罩"
+   ],
+   "属性": "颜色"
+  }
+ ],
+ "起订量": 1,
+ "阶梯价_登录后": [
+  {
+   "beginAmount": 1,
+   "price": "8.50"
+  },
+  {
+   "beginAmount": 1,
+   "price": "23.00"
+  }
+ ],
+ "url": "https://detail.1688.com/offer/712431905910.html",
+ "核页时间": "2026-10-16T23:08:14.569Z"
+}

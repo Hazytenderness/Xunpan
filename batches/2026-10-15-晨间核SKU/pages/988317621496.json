@@ -1,0 +1,88 @@
+{
+ "offerId": "988317621496",
+ "条目": "H0017",
+ "block": false,
+ "卖家公司": "深圳市洛嘉奇实业有限公司",
+ "旺旺名": "洛嘉奇实业有限公司",
+ "标题": "工厂直供6080家居创意长柄窄款地板刷轻便家务刷 清洁刷板缝隙刷",
+ "状态": "PUBLISHED",
+ "类目": "清洁刷、钢丝球",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "颜色",
+   "值": [
+    "白色"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "白色",
+   "价格": null,
+   "库存": 999999
+  }
+ ],
+ "规格图": [
+  [
+   "白色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01HQoYHv1eQgHyu1LEg_!!2925463866-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "rangePrice",
+ "价格区间": null,
+ "阶梯价_登录后": [
+  {
+   "price": "4.20",
+   "beginAmount": 24
+  },
+  {
+   "price": "4.10",
+   "beginAmount": 192
+  }
+ ],
+ "到手价": null,
+ "起订量": 24,
+ "单位": "件",
+ "可售总量": 999999,
+ "已售": 0,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01PE2Z4v1eQgHz2itAh_!!2925463866-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01Unw5ZZ1eQgHtTzIc0_!!2925463866-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01xWsfED1eQgHzKsING_!!2925463866-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01DMk6ZL1eQgHyc6TGz_!!2925463866-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01TqjcT61eQgHzrwwfB_!!2925463866-0-cib.jpg"
+ ],
+ "商品属性": [
+  "产品类别:地板缝隙刷",
+  "材质:PP",
+  "功能:清洁",
+  "只数:1",
+  "品牌:NHS",
+  "货号:6080",
+  "是否进口:否",
+  "产地:广州",
+  "箱装数量:24/192",
+  "贸易属性:内贸",
+  "重量:40g（g）",
+  "价格段:5元以内",
+  "产品上市时间:2016",
+  "颜色:白色",
+  "专利:否",
+  "主要下游平台:速卖通",
+  "主要销售地区:欧洲/东南亚",
+  "有可授权的自有品牌:是",
+  "是否跨境出口专供货源:是"
+ ],
+ "包装信息": [
+  {
+   "volume": 0,
+   "length": 0,
+   "width": 0,
+   "weight": 50,
+   "height": 0
+  }
+ ],
+ "url": "https://detail.1688.com/offer/988317621496.html",
+ "核页时间": "2026-10-08T11:49:30.389Z"
+}

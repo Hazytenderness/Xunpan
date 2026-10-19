@@ -1,0 +1,262 @@
+{
+ "offerId": "1038976397255",
+ "条目": "H0009",
+ "block": false,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01qA9YyG1xz0hwKbWA4_!!2218506636513-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01Zg1kYV1xz0hwORfKX_!!2218506636513-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01vYCn3l1xz0hwOTLJW_!!2218506636513-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01XP3qtT1xz0hwOUcJx_!!2218506636513-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01gvB6O11xz0hwKbS68_!!2218506636513-0-cib.jpg"
+ ],
+ "价格区间": null,
+ "价格展示": "rangePrice",
+ "到手价": null,
+ "包装信息": [
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "粉红色",
+   "skuId": 6057288601087,
+   "volume": 0,
+   "weight": 1,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "香槟色",
+   "skuId": 6057288601088,
+   "volume": 0,
+   "weight": 1,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "浅紫色",
+   "skuId": 6057288601089,
+   "volume": 0,
+   "weight": 1,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "紫罗兰",
+   "skuId": 6057288601090,
+   "volume": 0,
+   "weight": 1,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "紫色",
+   "skuId": 6057288601091,
+   "volume": 0,
+   "weight": 1,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "黄色",
+   "skuId": 6057288601092,
+   "volume": 0,
+   "weight": 1,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "蓝色",
+   "skuId": 6057288601093,
+   "volume": 0,
+   "weight": 1,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "天蓝色",
+   "skuId": 6057288601094,
+   "volume": 0,
+   "weight": 1,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "浅蓝色",
+   "skuId": 6057288601095,
+   "volume": 0,
+   "weight": 1,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "绿色",
+   "skuId": 6057288601096,
+   "volume": 0,
+   "weight": 1,
+   "width": 0
+  }
+ ],
+ "单位": "枝",
+ "卖家公司": "天津市武清区俊禾源工艺品厂(个体工商户)",
+ "可售总量": 99980,
+ "商品属性": [
+  "材质:绢花",
+  "工艺:定型",
+  "品种:雏菊",
+  "用途:户外/酒店装饰/企业礼品/节日装饰/商业展示/摄影道具/餐厅装饰/办公室绿植/家居装扮/礼品伴手/其他",
+  "品牌:俊禾源",
+  "货号:233",
+  "是否专利货源:否",
+  "颜色:粉红色/香槟色/浅紫色/紫罗兰/紫色/黄色/蓝色/天蓝色/浅蓝色/绿色",
+  "花朵数量:1",
+  "产品形态:单枝",
+  "重量:1",
+  "场景风格:ins风",
+  "适用空间:1",
+  "摆放类别:插花",
+  "是否IP授权:否",
+  "花瓣材质:PU"
+ ],
+ "已售": 10,
+ "已登录": true,
+ "旺旺名": "俊禾源工艺品厂",
+ "标题": "非洲菊单枝仿真扶朗菊家居装饰花莫奈花园雏菊植物花墙瀑布假花",
+ "状态": "PUBLISHED",
+ "类目": "仿真花",
+ "规格价格": [
+  {
+   "价格": null,
+   "库存": 9999,
+   "规格": "浅蓝色"
+  },
+  {
+   "价格": null,
+   "库存": 9999,
+   "规格": "香槟色"
+  },
+  {
+   "价格": null,
+   "库存": 9999,
+   "规格": "紫罗兰"
+  },
+  {
+   "价格": null,
+   "库存": 9999,
+   "规格": "天蓝色"
+  },
+  {
+   "价格": null,
+   "库存": 9999,
+   "规格": "浅紫色"
+  },
+  {
+   "价格": null,
+   "库存": 9999,
+   "规格": "蓝色"
+  },
+  {
+   "价格": null,
+   "库存": 9999,
+   "规格": "紫色"
+  },
+  {
+   "价格": null,
+   "库存": 9989,
+   "规格": "粉红色"
+  },
+  {
+   "价格": null,
+   "库存": 9999,
+   "规格": "绿色"
+  },
+  {
+   "价格": null,
+   "库存": 9999,
+   "规格": "黄色"
+  }
+ ],
+ "规格图": [
+  [
+   "粉红色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN010e0u8n1xz0hwd18G4_!!2218506636513-0-cib.jpg"
+  ],
+  [
+   "香槟色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01p6WXFt1xz0hwd0ljH_!!2218506636513-0-cib.jpg"
+  ],
+  [
+   "浅紫色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01o6LLDR1xz0hwd6TWv_!!2218506636513-0-cib.jpg"
+  ],
+  [
+   "紫罗兰",
+   "https://cbu01.alicdn.com/img/ibank/O1CN010PYvHy1xz0hwL5GDJ_!!2218506636513-0-cib.jpg"
+  ],
+  [
+   "紫色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01Ytu90g1xz0hwd8NcI_!!2218506636513-0-cib.jpg"
+  ],
+  [
+   "黄色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01klLC9I1xz0hwGGea9_!!2218506636513-0-cib.jpg"
+  ],
+  [
+   "蓝色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01fMH6l51xz0hwKQ3ut_!!2218506636513-0-cib.jpg"
+  ],
+  [
+   "天蓝色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01oWXNdQ1xz0hwL6CI0_!!2218506636513-0-cib.jpg"
+  ],
+  [
+   "浅蓝色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01XZ5vWz1xz0hvpHhz4_!!2218506636513-0-cib.jpg"
+  ],
+  [
+   "绿色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN015Mmy441xz0hvhWsrY_!!2218506636513-0-cib.jpg"
+  ]
+ ],
+ "规格属性": [
+  {
+   "值": [
+    "粉红色",
+    "香槟色",
+    "浅紫色",
+    "紫罗兰",
+    "紫色",
+    "黄色",
+    "蓝色",
+    "天蓝色",
+    "浅蓝色",
+    "绿色"
+   ],
+   "属性": "颜色"
+  }
+ ],
+ "起订量": 10,
+ "阶梯价_登录后": [
+  {
+   "beginAmount": 10,
+   "price": "1.40"
+  },
+  {
+   "beginAmount": 200,
+   "price": "1.30"
+  },
+  {
+   "beginAmount": 600,
+   "price": "1.20"
+  }
+ ],
+ "url": "https://detail.1688.com/offer/1038976397255.html",
+ "核页时间": "2026-10-17T23:01:42.217Z"
+}

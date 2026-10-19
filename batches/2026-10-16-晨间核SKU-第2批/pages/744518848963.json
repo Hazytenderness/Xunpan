@@ -1,0 +1,106 @@
+{
+ "offerId": "744518848963",
+ "条目": "H0043",
+ "block": false,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN018G9rnw2JxYqkfkMBh_!!2209673289488-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01OIxvi82JxYlFNlrPd_!!2209673289488-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01lfQd182JxYlHRk1NB_!!2209673289488-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN0190lJeR2JxYlAdFxQ3_!!2209673289488-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01SGc10R2JxYlFOfJup_!!2209673289488-0-cib.jpg"
+ ],
+ "价格区间": null,
+ "价格展示": "skuPrice",
+ "到手价": null,
+ "包装信息": [
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "【浴巾】奶黄色条纹",
+   "sku2": "【浴巾70*140cm】【毛巾35*75cm】",
+   "skuId": 5309089119744,
+   "volume": 0,
+   "weight": 300,
+   "width": 0
+  },
+  {
+   "height": 3.5,
+   "length": 19,
+   "sku1": "【毛巾】奶黄色条纹",
+   "sku2": "【浴巾70*140cm】【毛巾35*75cm】",
+   "skuId": 5309089119745,
+   "volume": 997.5,
+   "weight": 79,
+   "width": 15
+  }
+ ],
+ "单位": "条",
+ "卖家公司": "金华佰居网络科技有限公司",
+ "可售总量": 1858,
+ "商品属性": [
+  "材质:超细纤维",
+  "克重:170g（含）-200g（不含）",
+  "制作工艺:其他",
+  "货号:Y5696  M5696",
+  "加工定制:否",
+  "颜色:【浴巾】奶黄色条纹/【毛巾】奶黄色条纹",
+  "规格（长*宽cm）:【浴巾70*140cm】【毛巾35*75cm】",
+  "纱线规格:32支"
+ ],
+ "已售": 36,
+ "已登录": true,
+ "旺旺名": "金华佰居网络科技有限公司",
+ "标题": "全身不掉毛条纹浴巾毛巾套装加厚柔软洗澡成人大家居吸水超柔软",
+ "状态": "PUBLISHED",
+ "类目": "浴巾、沙滩巾",
+ "规格价格": [
+  {
+   "价格": "9.99",
+   "库存": 935,
+   "规格": "【浴巾】奶黄色条纹&gt;【浴巾70*140cm】【毛巾35*75cm】"
+  },
+  {
+   "价格": "2.93",
+   "库存": 923,
+   "规格": "【毛巾】奶黄色条纹&gt;【浴巾70*140cm】【毛巾35*75cm】"
+  }
+ ],
+ "规格图": [
+  [
+   "【浴巾】奶黄色条纹",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01jacbzU2JxYlAdGdG5_!!2209673289488-0-cib.jpg"
+  ],
+  [
+   "【毛巾】奶黄色条纹",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01SCvUbA2JxYlCMdLTO_!!2209673289488-0-cib.jpg"
+  ]
+ ],
+ "规格属性": [
+  {
+   "值": [
+    "【浴巾】奶黄色条纹",
+    "【毛巾】奶黄色条纹"
+   ],
+   "属性": "颜色"
+  },
+  {
+   "值": [
+    "【浴巾70*140cm】【毛巾35*75cm】"
+   ],
+   "属性": "规格（长*宽cm）"
+  }
+ ],
+ "起订量": 2,
+ "阶梯价_登录后": [
+  {
+   "beginAmount": 2,
+   "price": "2.93"
+  },
+  {
+   "beginAmount": 2,
+   "price": "9.99"
+  }
+ ],
+ "url": "https://detail.1688.com/offer/744518848963.html",
+ "核页时间": "2026-10-15T23:21:10.624Z"
+}

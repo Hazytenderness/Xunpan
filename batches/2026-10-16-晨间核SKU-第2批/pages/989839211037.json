@@ -1,0 +1,4384 @@
+{
+ "offerId": "989839211037",
+ "条目": "H0160",
+ "block": false,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01Pkp41m1J6tFIauC1V_!!2221096840980-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN017D8Ieq1J6tFJM5fPG_!!2221096840980-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01YcyeCc1J6tFIhkYxb_!!2221096840980-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01uSuL1C1J6tFJZ7WFr_!!2221096840980-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01WCK4A71J6tFIkiktC_!!2221096840980-0-cib.jpg"
+ ],
+ "价格区间": "35.00-168.00",
+ "价格展示": "skuPrice",
+ "到手价": null,
+ "包装信息": [
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "珊瑚绒咖啡棕",
+   "sku2": "定制尺寸",
+   "skuId": 6126198771109,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "珊瑚绒咖啡棕",
+   "sku2": "异形专拍",
+   "skuId": 6126198771110,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "珊瑚绒咖啡棕",
+   "sku2": "80*200",
+   "skuId": 6126198771111,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "珊瑚绒咖啡棕",
+   "sku2": "100*200",
+   "skuId": 6126198771112,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "珊瑚绒咖啡棕",
+   "sku2": "120*200",
+   "skuId": 6126198771113,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "珊瑚绒咖啡棕",
+   "sku2": "150*200",
+   "skuId": 6126198771114,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "珊瑚绒咖啡棕",
+   "sku2": "180*200",
+   "skuId": 6126198771115,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "珊瑚绒咖啡棕",
+   "sku2": "200*200",
+   "skuId": 6126198771116,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "珊瑚绒咖啡棕",
+   "sku2": "200*220",
+   "skuId": 6126198771117,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "珊瑚绒咖啡棕",
+   "sku2": "200*240",
+   "skuId": 6126198771118,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "珊瑚绒咖啡棕",
+   "sku2": "200*250",
+   "skuId": 6126198771119,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "珊瑚绒咖啡棕",
+   "sku2": "200*280",
+   "skuId": 6126198771120,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "珊瑚绒咖啡棕",
+   "sku2": "200*300",
+   "skuId": 6126198771121,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "珊瑚绒咖啡棕",
+   "sku2": "超大缝合尺寸",
+   "skuId": 6126198771122,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "珊瑚绒天蓝",
+   "sku2": "定制尺寸",
+   "skuId": 6126198771123,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "珊瑚绒天蓝",
+   "sku2": "异形专拍",
+   "skuId": 6126198771124,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "珊瑚绒天蓝",
+   "sku2": "80*200",
+   "skuId": 6126198771125,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "珊瑚绒天蓝",
+   "sku2": "100*200",
+   "skuId": 6126198771126,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "珊瑚绒天蓝",
+   "sku2": "120*200",
+   "skuId": 6126198771127,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "珊瑚绒天蓝",
+   "sku2": "150*200",
+   "skuId": 6126198771128,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "珊瑚绒天蓝",
+   "sku2": "180*200",
+   "skuId": 6126198771129,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "珊瑚绒天蓝",
+   "sku2": "200*200",
+   "skuId": 6126198771130,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "珊瑚绒天蓝",
+   "sku2": "200*220",
+   "skuId": 6126198771131,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "珊瑚绒天蓝",
+   "sku2": "200*240",
+   "skuId": 6126198771132,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "珊瑚绒天蓝",
+   "sku2": "200*250",
+   "skuId": 6126198771133,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "珊瑚绒天蓝",
+   "sku2": "200*280",
+   "skuId": 6126198771134,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "珊瑚绒天蓝",
+   "sku2": "200*300",
+   "skuId": 6126198771135,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "珊瑚绒天蓝",
+   "sku2": "超大缝合尺寸",
+   "skuId": 6126198771136,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "珊瑚绒浅咖啡棕",
+   "sku2": "定制尺寸",
+   "skuId": 6126198771137,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "珊瑚绒浅咖啡棕",
+   "sku2": "异形专拍",
+   "skuId": 6126198771138,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "珊瑚绒浅咖啡棕",
+   "sku2": "80*200",
+   "skuId": 6126198771139,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "珊瑚绒浅咖啡棕",
+   "sku2": "100*200",
+   "skuId": 6126198771140,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "珊瑚绒浅咖啡棕",
+   "sku2": "120*200",
+   "skuId": 6126198771141,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "珊瑚绒浅咖啡棕",
+   "sku2": "150*200",
+   "skuId": 6126198771142,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "珊瑚绒浅咖啡棕",
+   "sku2": "180*200",
+   "skuId": 6126198771143,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "珊瑚绒浅咖啡棕",
+   "sku2": "200*200",
+   "skuId": 6126198771144,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "珊瑚绒浅咖啡棕",
+   "sku2": "200*220",
+   "skuId": 6126198771145,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "珊瑚绒浅咖啡棕",
+   "sku2": "200*240",
+   "skuId": 6126198771146,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "珊瑚绒浅咖啡棕",
+   "sku2": "200*250",
+   "skuId": 6126198771147,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "珊瑚绒浅咖啡棕",
+   "sku2": "200*280",
+   "skuId": 6126198771148,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "珊瑚绒浅咖啡棕",
+   "sku2": "200*300",
+   "skuId": 6126198771149,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "珊瑚绒浅咖啡棕",
+   "sku2": "超大缝合尺寸",
+   "skuId": 6126198771150,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "珊瑚绒深蓝",
+   "sku2": "定制尺寸",
+   "skuId": 6126198771151,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "珊瑚绒深蓝",
+   "sku2": "异形专拍",
+   "skuId": 6126198771152,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "珊瑚绒深蓝",
+   "sku2": "80*200",
+   "skuId": 6126198771153,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "珊瑚绒深蓝",
+   "sku2": "100*200",
+   "skuId": 6126198771154,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "珊瑚绒深蓝",
+   "sku2": "120*200",
+   "skuId": 6126198771155,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "珊瑚绒深蓝",
+   "sku2": "150*200",
+   "skuId": 6126198771156,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "珊瑚绒深蓝",
+   "sku2": "180*200",
+   "skuId": 6126198771157,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "珊瑚绒深蓝",
+   "sku2": "200*200",
+   "skuId": 6126198771158,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "珊瑚绒深蓝",
+   "sku2": "200*220",
+   "skuId": 6126198771159,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "珊瑚绒深蓝",
+   "sku2": "200*240",
+   "skuId": 6126198771160,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "珊瑚绒深蓝",
+   "sku2": "200*250",
+   "skuId": 6126198771161,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "珊瑚绒深蓝",
+   "sku2": "200*280",
+   "skuId": 6126198771162,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "珊瑚绒深蓝",
+   "sku2": "200*300",
+   "skuId": 6126198771163,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "珊瑚绒深蓝",
+   "sku2": "超大缝合尺寸",
+   "skuId": 6126198771164,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "珊瑚绒橄榄绿",
+   "sku2": "定制尺寸",
+   "skuId": 6126198771165,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "珊瑚绒橄榄绿",
+   "sku2": "异形专拍",
+   "skuId": 6126198771166,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "珊瑚绒橄榄绿",
+   "sku2": "80*200",
+   "skuId": 6126198771167,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "珊瑚绒橄榄绿",
+   "sku2": "100*200",
+   "skuId": 6126198771168,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "珊瑚绒橄榄绿",
+   "sku2": "120*200",
+   "skuId": 6126198771169,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "珊瑚绒橄榄绿",
+   "sku2": "150*200",
+   "skuId": 6126198771170,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "珊瑚绒橄榄绿",
+   "sku2": "180*200",
+   "skuId": 6126198771171,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "珊瑚绒橄榄绿",
+   "sku2": "200*200",
+   "skuId": 6126198771172,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "珊瑚绒橄榄绿",
+   "sku2": "200*220",
+   "skuId": 6126198771173,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "珊瑚绒橄榄绿",
+   "sku2": "200*240",
+   "skuId": 6126198771174,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "珊瑚绒橄榄绿",
+   "sku2": "200*250",
+   "skuId": 6126198771175,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "珊瑚绒橄榄绿",
+   "sku2": "200*280",
+   "skuId": 6126198771176,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "珊瑚绒橄榄绿",
+   "sku2": "200*300",
+   "skuId": 6126198771177,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "珊瑚绒橄榄绿",
+   "sku2": "超大缝合尺寸",
+   "skuId": 6126198771178,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "珊瑚绒天然棕",
+   "sku2": "定制尺寸",
+   "skuId": 6126198771179,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "珊瑚绒天然棕",
+   "sku2": "异形专拍",
+   "skuId": 6126198771180,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "珊瑚绒天然棕",
+   "sku2": "80*200",
+   "skuId": 6126198771181,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "珊瑚绒天然棕",
+   "sku2": "100*200",
+   "skuId": 6126198771182,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "珊瑚绒天然棕",
+   "sku2": "120*200",
+   "skuId": 6126198771183,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "珊瑚绒天然棕",
+   "sku2": "150*200",
+   "skuId": 6126198771184,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "珊瑚绒天然棕",
+   "sku2": "180*200",
+   "skuId": 6126198771185,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "珊瑚绒天然棕",
+   "sku2": "200*200",
+   "skuId": 6126198771186,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "珊瑚绒天然棕",
+   "sku2": "200*220",
+   "skuId": 6126198771187,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "珊瑚绒天然棕",
+   "sku2": "200*240",
+   "skuId": 6126198771188,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "珊瑚绒天然棕",
+   "sku2": "200*250",
+   "skuId": 6126198771189,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "珊瑚绒天然棕",
+   "sku2": "200*280",
+   "skuId": 6126198771190,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "珊瑚绒天然棕",
+   "sku2": "200*300",
+   "skuId": 6126198771191,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "珊瑚绒天然棕",
+   "sku2": "超大缝合尺寸",
+   "skuId": 6126198771192,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "珊瑚绒蓝绿",
+   "sku2": "定制尺寸",
+   "skuId": 6126198771193,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "珊瑚绒蓝绿",
+   "sku2": "异形专拍",
+   "skuId": 6126198771194,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "珊瑚绒蓝绿",
+   "sku2": "80*200",
+   "skuId": 6126198771195,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "珊瑚绒蓝绿",
+   "sku2": "100*200",
+   "skuId": 6126198771196,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "珊瑚绒蓝绿",
+   "sku2": "120*200",
+   "skuId": 6126198771197,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "珊瑚绒蓝绿",
+   "sku2": "150*200",
+   "skuId": 6126198771198,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "珊瑚绒蓝绿",
+   "sku2": "180*200",
+   "skuId": 6126198771199,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "珊瑚绒蓝绿",
+   "sku2": "200*200",
+   "skuId": 6126198771200,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "珊瑚绒蓝绿",
+   "sku2": "200*220",
+   "skuId": 6126198771201,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "珊瑚绒蓝绿",
+   "sku2": "200*240",
+   "skuId": 6126198771202,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "珊瑚绒蓝绿",
+   "sku2": "200*250",
+   "skuId": 6126198771203,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "珊瑚绒蓝绿",
+   "sku2": "200*280",
+   "skuId": 6126198771204,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "珊瑚绒蓝绿",
+   "sku2": "200*300",
+   "skuId": 6126198771205,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "珊瑚绒蓝绿",
+   "sku2": "超大缝合尺寸",
+   "skuId": 6126198771206,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "珊瑚绒葡萄红",
+   "sku2": "定制尺寸",
+   "skuId": 6126198771207,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "珊瑚绒葡萄红",
+   "sku2": "异形专拍",
+   "skuId": 6126198771208,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "珊瑚绒葡萄红",
+   "sku2": "80*200",
+   "skuId": 6126198771209,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "珊瑚绒葡萄红",
+   "sku2": "100*200",
+   "skuId": 6126198771210,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "珊瑚绒葡萄红",
+   "sku2": "120*200",
+   "skuId": 6126198771211,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "珊瑚绒葡萄红",
+   "sku2": "150*200",
+   "skuId": 6126198771212,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "珊瑚绒葡萄红",
+   "sku2": "180*200",
+   "skuId": 6126198771213,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "珊瑚绒葡萄红",
+   "sku2": "200*200",
+   "skuId": 6126198771214,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "珊瑚绒葡萄红",
+   "sku2": "200*220",
+   "skuId": 6126198771215,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "珊瑚绒葡萄红",
+   "sku2": "200*240",
+   "skuId": 6126198771216,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "珊瑚绒葡萄红",
+   "sku2": "200*250",
+   "skuId": 6126198771217,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "珊瑚绒葡萄红",
+   "sku2": "200*280",
+   "skuId": 6126198771218,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "珊瑚绒葡萄红",
+   "sku2": "200*300",
+   "skuId": 6126198771219,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "珊瑚绒葡萄红",
+   "sku2": "超大缝合尺寸",
+   "skuId": 6126198771220,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "珊瑚绒紫罗兰",
+   "sku2": "定制尺寸",
+   "skuId": 6126198771221,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "珊瑚绒紫罗兰",
+   "sku2": "异形专拍",
+   "skuId": 6126198771222,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "珊瑚绒紫罗兰",
+   "sku2": "80*200",
+   "skuId": 6126198771223,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "珊瑚绒紫罗兰",
+   "sku2": "100*200",
+   "skuId": 6126198771224,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "珊瑚绒紫罗兰",
+   "sku2": "120*200",
+   "skuId": 6126198771225,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "珊瑚绒紫罗兰",
+   "sku2": "150*200",
+   "skuId": 6126198771226,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "珊瑚绒紫罗兰",
+   "sku2": "180*200",
+   "skuId": 6126198771227,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "珊瑚绒紫罗兰",
+   "sku2": "200*200",
+   "skuId": 6126198771228,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "珊瑚绒紫罗兰",
+   "sku2": "200*220",
+   "skuId": 6126198771229,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "珊瑚绒紫罗兰",
+   "sku2": "200*240",
+   "skuId": 6126198771230,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "珊瑚绒紫罗兰",
+   "sku2": "200*250",
+   "skuId": 6126198771231,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "珊瑚绒紫罗兰",
+   "sku2": "200*280",
+   "skuId": 6126198771232,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "珊瑚绒紫罗兰",
+   "sku2": "200*300",
+   "skuId": 6126198771233,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "珊瑚绒紫罗兰",
+   "sku2": "超大缝合尺寸",
+   "skuId": 6126198771234,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "珊瑚绒苔绿",
+   "sku2": "定制尺寸",
+   "skuId": 6126198771235,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "珊瑚绒苔绿",
+   "sku2": "异形专拍",
+   "skuId": 6126198771236,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "珊瑚绒苔绿",
+   "sku2": "80*200",
+   "skuId": 6126198771237,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "珊瑚绒苔绿",
+   "sku2": "100*200",
+   "skuId": 6126198771238,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "珊瑚绒苔绿",
+   "sku2": "120*200",
+   "skuId": 6126198771239,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "珊瑚绒苔绿",
+   "sku2": "150*200",
+   "skuId": 6126198771240,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "珊瑚绒苔绿",
+   "sku2": "180*200",
+   "skuId": 6126198771241,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "珊瑚绒苔绿",
+   "sku2": "200*200",
+   "skuId": 6126198771242,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "珊瑚绒苔绿",
+   "sku2": "200*220",
+   "skuId": 6126198771243,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "珊瑚绒苔绿",
+   "sku2": "200*240",
+   "skuId": 6126198771244,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "珊瑚绒苔绿",
+   "sku2": "200*250",
+   "skuId": 6126198771245,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "珊瑚绒苔绿",
+   "sku2": "200*280",
+   "skuId": 6126198771246,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "珊瑚绒苔绿",
+   "sku2": "200*300",
+   "skuId": 6126198771247,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "珊瑚绒苔绿",
+   "sku2": "超大缝合尺寸",
+   "skuId": 6126198771248,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "珊瑚绒玫瑰粉",
+   "sku2": "定制尺寸",
+   "skuId": 6126198771249,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "珊瑚绒玫瑰粉",
+   "sku2": "异形专拍",
+   "skuId": 6126198771250,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "珊瑚绒玫瑰粉",
+   "sku2": "80*200",
+   "skuId": 6126198771251,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "珊瑚绒玫瑰粉",
+   "sku2": "100*200",
+   "skuId": 6126198771252,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "珊瑚绒玫瑰粉",
+   "sku2": "120*200",
+   "skuId": 6126198771253,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "珊瑚绒玫瑰粉",
+   "sku2": "150*200",
+   "skuId": 6126198771254,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "珊瑚绒玫瑰粉",
+   "sku2": "180*200",
+   "skuId": 6126198771255,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "珊瑚绒玫瑰粉",
+   "sku2": "200*200",
+   "skuId": 6126198771256,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "珊瑚绒玫瑰粉",
+   "sku2": "200*220",
+   "skuId": 6126198771257,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "珊瑚绒玫瑰粉",
+   "sku2": "200*240",
+   "skuId": 6126198771258,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "珊瑚绒玫瑰粉",
+   "sku2": "200*250",
+   "skuId": 6126198771259,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "珊瑚绒玫瑰粉",
+   "sku2": "200*280",
+   "skuId": 6126198771260,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "珊瑚绒玫瑰粉",
+   "sku2": "200*300",
+   "skuId": 6126198771261,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "珊瑚绒玫瑰粉",
+   "sku2": "超大缝合尺寸",
+   "skuId": 6126198771262,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "珊瑚绒银灰",
+   "sku2": "定制尺寸",
+   "skuId": 6126198771263,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "珊瑚绒银灰",
+   "sku2": "异形专拍",
+   "skuId": 6126198771264,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "珊瑚绒银灰",
+   "sku2": "80*200",
+   "skuId": 6126198771265,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "珊瑚绒银灰",
+   "sku2": "100*200",
+   "skuId": 6126198771266,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "珊瑚绒银灰",
+   "sku2": "120*200",
+   "skuId": 6126198771267,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "珊瑚绒银灰",
+   "sku2": "150*200",
+   "skuId": 6126198771268,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "珊瑚绒银灰",
+   "sku2": "180*200",
+   "skuId": 6126198771269,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "珊瑚绒银灰",
+   "sku2": "200*200",
+   "skuId": 6126198771270,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "珊瑚绒银灰",
+   "sku2": "200*220",
+   "skuId": 6126198771271,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "珊瑚绒银灰",
+   "sku2": "200*240",
+   "skuId": 6126198771272,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "珊瑚绒银灰",
+   "sku2": "200*250",
+   "skuId": 6126198771273,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "珊瑚绒银灰",
+   "sku2": "200*280",
+   "skuId": 6126198771274,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "珊瑚绒银灰",
+   "sku2": "200*300",
+   "skuId": 6126198771275,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "珊瑚绒银灰",
+   "sku2": "超大缝合尺寸",
+   "skuId": 6126198771276,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "宇宙飞人",
+   "sku2": "定制尺寸",
+   "skuId": 6126198771277,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "宇宙飞人",
+   "sku2": "异形专拍",
+   "skuId": 6126198771278,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "宇宙飞人",
+   "sku2": "80*200",
+   "skuId": 6126198771279,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "宇宙飞人",
+   "sku2": "100*200",
+   "skuId": 6126198771280,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "宇宙飞人",
+   "sku2": "120*200",
+   "skuId": 6126198771281,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "宇宙飞人",
+   "sku2": "150*200",
+   "skuId": 6126198771282,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "宇宙飞人",
+   "sku2": "180*200",
+   "skuId": 6126198771283,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "宇宙飞人",
+   "sku2": "200*200",
+   "skuId": 6126198771284,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "宇宙飞人",
+   "sku2": "200*220",
+   "skuId": 6126198771285,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "宇宙飞人",
+   "sku2": "200*240",
+   "skuId": 6126198771286,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "宇宙飞人",
+   "sku2": "200*250",
+   "skuId": 6126198771287,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "宇宙飞人",
+   "sku2": "200*280",
+   "skuId": 6126198771288,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "宇宙飞人",
+   "sku2": "200*300",
+   "skuId": 6126198771289,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "宇宙飞人",
+   "sku2": "超大缝合尺寸",
+   "skuId": 6126198771290,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "开心家园",
+   "sku2": "定制尺寸",
+   "skuId": 6126198771291,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "开心家园",
+   "sku2": "异形专拍",
+   "skuId": 6126198771292,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "开心家园",
+   "sku2": "80*200",
+   "skuId": 6126198771293,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "开心家园",
+   "sku2": "100*200",
+   "skuId": 6126198771294,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "开心家园",
+   "sku2": "120*200",
+   "skuId": 6126198771295,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "开心家园",
+   "sku2": "150*200",
+   "skuId": 6126198771296,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "开心家园",
+   "sku2": "180*200",
+   "skuId": 6126198771297,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "开心家园",
+   "sku2": "200*200",
+   "skuId": 6126198771298,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "开心家园",
+   "sku2": "200*220",
+   "skuId": 6126198771299,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "开心家园",
+   "sku2": "200*240",
+   "skuId": 6126198771300,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "开心家园",
+   "sku2": "200*250",
+   "skuId": 6126198771301,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "开心家园",
+   "sku2": "200*280",
+   "skuId": 6126198771302,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "开心家园",
+   "sku2": "200*300",
+   "skuId": 6126198771303,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "开心家园",
+   "sku2": "超大缝合尺寸",
+   "skuId": 6126198771304,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "草莓乐园",
+   "sku2": "定制尺寸",
+   "skuId": 6126198771305,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "草莓乐园",
+   "sku2": "异形专拍",
+   "skuId": 6126198771306,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "草莓乐园",
+   "sku2": "80*200",
+   "skuId": 6126198771307,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "草莓乐园",
+   "sku2": "100*200",
+   "skuId": 6126198771308,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "草莓乐园",
+   "sku2": "120*200",
+   "skuId": 6126198771309,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "草莓乐园",
+   "sku2": "150*200",
+   "skuId": 6126198771310,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "草莓乐园",
+   "sku2": "180*200",
+   "skuId": 6126198771311,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "草莓乐园",
+   "sku2": "200*200",
+   "skuId": 6126198771312,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "草莓乐园",
+   "sku2": "200*220",
+   "skuId": 6126198771313,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "草莓乐园",
+   "sku2": "200*240",
+   "skuId": 6126198771314,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "草莓乐园",
+   "sku2": "200*250",
+   "skuId": 6126198771315,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "草莓乐园",
+   "sku2": "200*280",
+   "skuId": 6126198771316,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "草莓乐园",
+   "sku2": "200*300",
+   "skuId": 6126198771317,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "草莓乐园",
+   "sku2": "超大缝合尺寸",
+   "skuId": 6126198771318,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "黑色棋盘",
+   "sku2": "定制尺寸",
+   "skuId": 6126198771319,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "黑色棋盘",
+   "sku2": "异形专拍",
+   "skuId": 6126198771320,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "黑色棋盘",
+   "sku2": "80*200",
+   "skuId": 6126198771321,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "黑色棋盘",
+   "sku2": "100*200",
+   "skuId": 6126198771322,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "黑色棋盘",
+   "sku2": "120*200",
+   "skuId": 6126198771323,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "黑色棋盘",
+   "sku2": "150*200",
+   "skuId": 6126198771324,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "黑色棋盘",
+   "sku2": "180*200",
+   "skuId": 6126198771325,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "黑色棋盘",
+   "sku2": "200*200",
+   "skuId": 6126198771326,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "黑色棋盘",
+   "sku2": "200*220",
+   "skuId": 6126198771327,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "黑色棋盘",
+   "sku2": "200*240",
+   "skuId": 6126198771328,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "黑色棋盘",
+   "sku2": "200*250",
+   "skuId": 6126198771329,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "黑色棋盘",
+   "sku2": "200*280",
+   "skuId": 6126198771330,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "黑色棋盘",
+   "sku2": "200*300",
+   "skuId": 6126198771331,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "黑色棋盘",
+   "sku2": "超大缝合尺寸",
+   "skuId": 6126198771332,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "缤纷花语",
+   "sku2": "定制尺寸",
+   "skuId": 6126198771333,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "缤纷花语",
+   "sku2": "异形专拍",
+   "skuId": 6126198771334,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "缤纷花语",
+   "sku2": "80*200",
+   "skuId": 6126198771335,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "缤纷花语",
+   "sku2": "100*200",
+   "skuId": 6126198771336,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "缤纷花语",
+   "sku2": "120*200",
+   "skuId": 6126198771337,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "缤纷花语",
+   "sku2": "150*200",
+   "skuId": 6126198771338,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "缤纷花语",
+   "sku2": "180*200",
+   "skuId": 6126198771339,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "缤纷花语",
+   "sku2": "200*200",
+   "skuId": 6126198771340,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "缤纷花语",
+   "sku2": "200*220",
+   "skuId": 6126198771341,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "缤纷花语",
+   "sku2": "200*240",
+   "skuId": 6126198771342,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "缤纷花语",
+   "sku2": "200*250",
+   "skuId": 6126198771343,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "缤纷花语",
+   "sku2": "200*280",
+   "skuId": 6126198771344,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "缤纷花语",
+   "sku2": "200*300",
+   "skuId": 6126198771345,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "缤纷花语",
+   "sku2": "超大缝合尺寸",
+   "skuId": 6126198771346,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "萝卜兔",
+   "sku2": "定制尺寸",
+   "skuId": 6126198771347,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "萝卜兔",
+   "sku2": "异形专拍",
+   "skuId": 6126198771348,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "萝卜兔",
+   "sku2": "80*200",
+   "skuId": 6126198771349,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "萝卜兔",
+   "sku2": "100*200",
+   "skuId": 6126198771350,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "萝卜兔",
+   "sku2": "120*200",
+   "skuId": 6126198771351,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "萝卜兔",
+   "sku2": "150*200",
+   "skuId": 6126198771352,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "萝卜兔",
+   "sku2": "180*200",
+   "skuId": 6126198771353,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "萝卜兔",
+   "sku2": "200*200",
+   "skuId": 6126198771354,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "萝卜兔",
+   "sku2": "200*220",
+   "skuId": 6126198771355,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "萝卜兔",
+   "sku2": "200*240",
+   "skuId": 6126198771356,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "萝卜兔",
+   "sku2": "200*250",
+   "skuId": 6126198771357,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "萝卜兔",
+   "sku2": "200*280",
+   "skuId": 6126198771358,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "萝卜兔",
+   "sku2": "200*300",
+   "skuId": 6126198771359,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "萝卜兔",
+   "sku2": "超大缝合尺寸",
+   "skuId": 6126198771360,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "爱心气球",
+   "sku2": "定制尺寸",
+   "skuId": 6126198771361,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "爱心气球",
+   "sku2": "异形专拍",
+   "skuId": 6126198771362,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "爱心气球",
+   "sku2": "80*200",
+   "skuId": 6126198771363,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "爱心气球",
+   "sku2": "100*200",
+   "skuId": 6126198771364,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "爱心气球",
+   "sku2": "120*200",
+   "skuId": 6126198771365,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "爱心气球",
+   "sku2": "150*200",
+   "skuId": 6126198771366,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "爱心气球",
+   "sku2": "180*200",
+   "skuId": 6126198771367,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "爱心气球",
+   "sku2": "200*200",
+   "skuId": 6126198771368,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "爱心气球",
+   "sku2": "200*220",
+   "skuId": 6126198771369,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "爱心气球",
+   "sku2": "200*240",
+   "skuId": 6126198771370,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "爱心气球",
+   "sku2": "200*250",
+   "skuId": 6126198771371,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "爱心气球",
+   "sku2": "200*280",
+   "skuId": 6126198771372,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "爱心气球",
+   "sku2": "200*300",
+   "skuId": 6126198771373,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "爱心气球",
+   "sku2": "超大缝合尺寸",
+   "skuId": 6126198771374,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "珊瑚绒比翼双飞",
+   "sku2": "定制尺寸",
+   "skuId": 6126198771375,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "珊瑚绒比翼双飞",
+   "sku2": "异形专拍",
+   "skuId": 6126198771376,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "珊瑚绒比翼双飞",
+   "sku2": "80*200",
+   "skuId": 6126198771377,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "珊瑚绒比翼双飞",
+   "sku2": "100*200",
+   "skuId": 6126198771378,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "珊瑚绒比翼双飞",
+   "sku2": "120*200",
+   "skuId": 6126198771379,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "珊瑚绒比翼双飞",
+   "sku2": "150*200",
+   "skuId": 6126198771380,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "珊瑚绒比翼双飞",
+   "sku2": "180*200",
+   "skuId": 6126198771381,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "珊瑚绒比翼双飞",
+   "sku2": "200*200",
+   "skuId": 6126198771382,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "珊瑚绒比翼双飞",
+   "sku2": "200*220",
+   "skuId": 6126198771383,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "珊瑚绒比翼双飞",
+   "sku2": "200*240",
+   "skuId": 6126198771384,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "珊瑚绒比翼双飞",
+   "sku2": "200*250",
+   "skuId": 6126198771385,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "珊瑚绒比翼双飞",
+   "sku2": "200*280",
+   "skuId": 6126198771386,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "珊瑚绒比翼双飞",
+   "sku2": "200*300",
+   "skuId": 6126198771387,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "珊瑚绒比翼双飞",
+   "sku2": "超大缝合尺寸",
+   "skuId": 6126198771388,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  }
+ ],
+ "单位": "块",
+ "卖家公司": "南通情缘忆家纺有限公司",
+ "可售总量": 2238716,
+ "商品属性": [
+  "材质:聚酯纤维（涤纶）",
+  "工艺:印花",
+  "风格:日式",
+  "清洗类型:可清洗",
+  "形状:长方形",
+  "品牌:无",
+  "货号:0008",
+  "图案:草",
+  "加工定制:是",
+  "颜色:珊瑚绒咖啡棕/珊瑚绒天蓝/珊瑚绒浅咖啡棕/珊瑚绒深蓝/珊瑚绒橄榄绿/珊瑚绒天然棕/珊瑚绒蓝绿/珊瑚绒葡萄红/珊瑚绒紫罗兰/珊瑚绒苔绿/珊瑚绒玫瑰粉/珊瑚绒银灰/宇宙飞人/开心家园/草莓乐园/黑色棋盘/缤纷花语/萝卜兔/爱心气球/珊瑚绒比翼双飞",
+  "尺寸:定制尺寸/异形专拍/80*200/100*200/120*200/150*200/180*200/200*200/200*220/200*240/200*250/200*280/200*300/超大缝合尺寸",
+  "空间:客厅",
+  "是否有版权或专利:否"
+ ],
+ "已售": 4023,
+ "已登录": true,
+ "旺旺名": "鸿辉煌有限公司2",
+ "标题": "【新店】2厘米会员专属连接加厚珊瑚绒榻榻米地垫地毯床边垫",
+ "状态": "PUBLISHED",
+ "类目": "地垫",
+ "规格价格": [
+  {
+   "价格": "112.00",
+   "库存": 9986,
+   "规格": "珊瑚绒橄榄绿&gt;200*200"
+  },
+  {
+   "价格": "123.20",
+   "库存": 9812,
+   "规格": "黑色棋盘&gt;200*220"
+  },
+  {
+   "价格": "84.00",
+   "库存": 9912,
+   "规格": "珊瑚绒咖啡棕&gt;150*200"
+  },
+  {
+   "价格": "134.40",
+   "库存": 9968,
+   "规格": "宇宙飞人&gt;200*240"
+  },
+  {
+   "价格": "140.00",
+   "库存": 9985,
+   "规格": "缤纷花语&gt;200*250"
+  },
+  {
+   "价格": "100.80",
+   "库存": 9796,
+   "规格": "开心家园&gt;180*200"
+  },
+  {
+   "价格": "35.00",
+   "库存": 995,
+   "规格": "珊瑚绒天然棕&gt;异形专拍"
+  },
+  {
+   "价格": "168.00",
+   "库存": 9990,
+   "规格": "珊瑚绒紫罗兰&gt;200*300"
+  },
+  {
+   "价格": "123.20",
+   "库存": 9989,
+   "规格": "珊瑚绒咖啡棕&gt;200*220"
+  },
+  {
+   "价格": "123.20",
+   "库存": 9981,
+   "规格": "珊瑚绒天蓝&gt;200*220"
+  },
+  {
+   "价格": "84.00",
+   "库存": 9906,
+   "规格": "珊瑚绒天蓝&gt;150*200"
+  },
+  {
+   "价格": "35.00",
+   "库存": 9863,
+   "规格": "珊瑚绒玫瑰粉&gt;定制尺寸"
+  },
+  {
+   "价格": "123.20",
+   "库存": 9982,
+   "规格": "珊瑚绒深蓝&gt;200*220"
+  },
+  {
+   "价格": "35.00",
+   "库存": 1000,
+   "规格": "珊瑚绒浅咖啡棕&gt;异形专拍"
+  },
+  {
+   "价格": "168.00",
+   "库存": 9944,
+   "规格": "珊瑚绒天然棕&gt;200*300"
+  },
+  {
+   "价格": "38.00",
+   "库存": 999,
+   "规格": "珊瑚绒咖啡棕&gt;超大缝合尺寸"
+  },
+  {
+   "价格": "156.80",
+   "库存": 997,
+   "规格": "开心家园&gt;200*280"
+  },
+  {
+   "价格": "140.00",
+   "库存": 9979,
+   "规格": "宇宙飞人&gt;200*250"
+  },
+  {
+   "价格": "56.00",
+   "库存": 9934,
+   "规格": "珊瑚绒苔绿&gt;100*200"
+  },
+  {
+   "价格": "134.40",
+   "库存": 9991,
+   "规格": "萝卜兔&gt;200*240"
+  },
+  {
+   "价格": "35.00",
+   "库存": 1000,
+   "规格": "黑色棋盘&gt;异形专拍"
+  },
+  {
+   "价格": "123.20",
+   "库存": 9935,
+   "规格": "草莓乐园&gt;200*220"
+  },
+  {
+   "价格": "38.00",
+   "库存": 1000,
+   "规格": "珊瑚绒蓝绿&gt;超大缝合尺寸"
+  },
+  {
+   "价格": "134.40",
+   "库存": 9967,
+   "规格": "缤纷花语&gt;200*240"
+  },
+  {
+   "价格": "35.00",
+   "库存": 9838,
+   "规格": "黑色棋盘&gt;定制尺寸"
+  },
+  {
+   "价格": "44.80",
+   "库存": 9864,
+   "规格": "珊瑚绒天蓝&gt;80*200"
+  },
+  {
+   "价格": "35.00",
+   "库存": 999,
+   "规格": "宇宙飞人&gt;异形专拍"
+  },
+  {
+   "价格": "112.00",
+   "库存": 9965,
+   "规格": "珊瑚绒蓝绿&gt;200*200"
+  },
+  {
+   "价格": "38.00",
+   "库存": 999,
+   "规格": "珊瑚绒浅咖啡棕&gt;超大缝合尺寸"
+  },
+  {
+   "价格": "168.00",
+   "库存": 9975,
+   "规格": "珊瑚绒苔绿&gt;200*300"
+  },
+  {
+   "价格": "56.00",
+   "库存": 9941,
+   "规格": "珊瑚绒紫罗兰&gt;100*200"
+  },
+  {
+   "价格": "100.80",
+   "库存": 9915,
+   "规格": "珊瑚绒比翼双飞&gt;180*200"
+  },
+  {
+   "价格": "84.00",
+   "库存": 9998,
+   "规格": "爱心气球&gt;150*200"
+  },
+  {
+   "价格": "156.80",
+   "库存": 1000,
+   "规格": "珊瑚绒比翼双飞&gt;200*280"
+  },
+  {
+   "价格": "84.00",
+   "库存": 9805,
+   "规格": "黑色棋盘&gt;150*200"
+  },
+  {
+   "价格": "44.80",
+   "库存": 9987,
+   "规格": "爱心气球&gt;80*200"
+  },
+  {
+   "价格": "134.40",
+   "库存": 9997,
+   "规格": "爱心气球&gt;200*240"
+  },
+  {
+   "价格": "67.20",
+   "库存": 9924,
+   "规格": "珊瑚绒苔绿&gt;120*200"
+  },
+  {
+   "价格": "168.00",
+   "库存": 9961,
+   "规格": "珊瑚绒橄榄绿&gt;200*300"
+  },
+  {
+   "价格": "134.40",
+   "库存": 9814,
+   "规格": "黑色棋盘&gt;200*240"
+  },
+  {
+   "价格": "38.00",
+   "库存": 1000,
+   "规格": "萝卜兔&gt;超大缝合尺寸"
+  },
+  {
+   "价格": "67.20",
+   "库存": 9978,
+   "规格": "珊瑚绒葡萄红&gt;120*200"
+  },
+  {
+   "价格": "35.00",
+   "库存": 9925,
+   "规格": "珊瑚绒浅咖啡棕&gt;定制尺寸"
+  },
+  {
+   "价格": "112.00",
+   "库存": 9980,
+   "规格": "珊瑚绒咖啡棕&gt;200*200"
+  },
+  {
+   "价格": "134.40",
+   "库存": 9980,
+   "规格": "珊瑚绒天蓝&gt;200*240"
+  },
+  {
+   "价格": "44.80",
+   "库存": 9860,
+   "规格": "缤纷花语&gt;80*200"
+  },
+  {
+   "价格": "112.00",
+   "库存": 9963,
+   "规格": "珊瑚绒深蓝&gt;200*200"
+  },
+  {
+   "价格": "67.20",
+   "库存": 9871,
+   "规格": "珊瑚绒天然棕&gt;120*200"
+  },
+  {
+   "价格": "156.80",
+   "库存": 989,
+   "规格": "珊瑚绒银灰&gt;200*280"
+  },
+  {
+   "价格": "140.00",
+   "库存": 9998,
+   "规格": "爱心气球&gt;200*250"
+  },
+  {
+   "价格": "140.00",
+   "库存": 9885,
+   "规格": "黑色棋盘&gt;200*250"
+  },
+  {
+   "价格": "123.20",
+   "库存": 9970,
+   "规格": "缤纷花语&gt;200*220"
+  },
+  {
+   "价格": "100.80",
+   "库存": 9966,
+   "规格": "珊瑚绒葡萄红&gt;180*200"
+  },
+  {
+   "价格": "123.20",
+   "库存": 9988,
+   "规格": "萝卜兔&gt;200*220"
+  },
+  {
+   "价格": "140.00",
+   "库存": 9984,
+   "规格": "珊瑚绒天蓝&gt;200*250"
+  },
+  {
+   "价格": "100.80",
+   "库存": 9940,
+   "规格": "珊瑚绒玫瑰粉&gt;180*200"
+  },
+  {
+   "价格": "35.00",
+   "库存": 10000,
+   "规格": "爱心气球&gt;定制尺寸"
+  },
+  {
+   "价格": "112.00",
+   "库存": 9925,
+   "规格": "草莓乐园&gt;200*200"
+  },
+  {
+   "价格": "67.20",
+   "库存": 9939,
+   "规格": "珊瑚绒玫瑰粉&gt;120*200"
+  },
+  {
+   "价格": "35.00",
+   "库存": 1000,
+   "规格": "开心家园&gt;异形专拍"
+  },
+  {
+   "价格": "156.80",
+   "库存": 996,
+   "规格": "珊瑚绒浅咖啡棕&gt;200*280"
+  },
+  {
+   "价格": "123.20",
+   "库存": 9971,
+   "规格": "珊瑚绒蓝绿&gt;200*220"
+  },
+  {
+   "价格": "44.80",
+   "库存": 9772,
+   "规格": "珊瑚绒天然棕&gt;80*200"
+  },
+  {
+   "价格": "67.20",
+   "库存": 9956,
+   "规格": "珊瑚绒紫罗兰&gt;120*200"
+  },
+  {
+   "价格": "35.00",
+   "库存": 1000,
+   "规格": "珊瑚绒葡萄红&gt;异形专拍"
+  },
+  {
+   "价格": "44.80",
+   "库存": 9419,
+   "规格": "开心家园&gt;80*200"
+  },
+  {
+   "价格": "38.00",
+   "库存": 1000,
+   "规格": "珊瑚绒天蓝&gt;超大缝合尺寸"
+  },
+  {
+   "价格": "35.00",
+   "库存": 9816,
+   "规格": "珊瑚绒苔绿&gt;定制尺寸"
+  },
+  {
+   "价格": "56.00",
+   "库存": 9969,
+   "规格": "珊瑚绒橄榄绿&gt;100*200"
+  },
+  {
+   "价格": "56.00",
+   "库存": 9746,
+   "规格": "珊瑚绒银灰&gt;100*200"
+  },
+  {
+   "价格": "84.00",
+   "库存": 9857,
+   "规格": "珊瑚绒苔绿&gt;150*200"
+  },
+  {
+   "价格": "35.00",
+   "库存": 1000,
+   "规格": "珊瑚绒咖啡棕&gt;异形专拍"
+  },
+  {
+   "价格": "168.00",
+   "库存": 9985,
+   "规格": "珊瑚绒葡萄红&gt;200*300"
+  },
+  {
+   "价格": "168.00",
+   "库存": 9908,
+   "规格": "黑色棋盘&gt;200*300"
+  },
+  {
+   "价格": "112.00",
+   "库存": 9973,
+   "规格": "宇宙飞人&gt;200*200"
+  },
+  {
+   "价格": "35.00",
+   "库存": 998,
+   "规格": "珊瑚绒紫罗兰&gt;异形专拍"
+  },
+  {
+   "价格": "168.00",
+   "库存": 9965,
+   "规格": "珊瑚绒咖啡棕&gt;200*300"
+  },
+  {
+   "价格": "44.80",
+   "库存": 9878,
+   "规格": "珊瑚绒玫瑰粉&gt;80*200"
+  },
+  {
+   "价格": "123.20",
+   "库存": 9995,
+   "规格": "珊瑚绒紫罗兰&gt;200*220"
+  },
+  {
+   "价格": "168.00",
+   "库存": 9949,
+   "规格": "珊瑚绒深蓝&gt;200*300"
+  },
+  {
+   "价格": "35.00",
+   "库存": 998,
+   "规格": "珊瑚绒深蓝&gt;异形专拍"
+  },
+  {
+   "价格": "35.00",
+   "库存": 995,
+   "规格": "珊瑚绒天蓝&gt;异形专拍"
+  },
+  {
+   "价格": "56.00",
+   "库存": 9936,
+   "规格": "珊瑚绒咖啡棕&gt;100*200"
+  },
+  {
+   "价格": "67.20",
+   "库存": 9656,
+   "规格": "开心家园&gt;120*200"
+  },
+  {
+   "价格": "112.00",
+   "库存": 9976,
+   "规格": "萝卜兔&gt;200*200"
+  },
+  {
+   "价格": "38.00",
+   "库存": 994,
+   "规格": "珊瑚绒天然棕&gt;超大缝合尺寸"
+  },
+  {
+   "价格": "35.00",
+   "库存": 9962,
+   "规格": "珊瑚绒比翼双飞&gt;定制尺寸"
+  },
+  {
+   "价格": "38.00",
+   "库存": 999,
+   "规格": "开心家园&gt;超大缝合尺寸"
+  },
+  {
+   "价格": "56.00",
+   "库存": 9915,
+   "规格": "黑色棋盘&gt;100*200"
+  },
+  {
+   "价格": "134.40",
+   "库存": 9939,
+   "规格": "开心家园&gt;200*240"
+  },
+  {
+   "价格": "67.20",
+   "库存": 9947,
+   "规格": "珊瑚绒蓝绿&gt;120*200"
+  },
+  {
+   "价格": "140.00",
+   "库存": 9902,
+   "规格": "珊瑚绒银灰&gt;200*250"
+  },
+  {
+   "价格": "44.80",
+   "库存": 9886,
+   "规格": "珊瑚绒苔绿&gt;80*200"
+  },
+  {
+   "价格": "84.00",
+   "库存": 9908,
+   "规格": "珊瑚绒比翼双飞&gt;150*200"
+  },
+  {
+   "价格": "35.00",
+   "库存": 9761,
+   "规格": "珊瑚绒咖啡棕&gt;定制尺寸"
+  },
+  {
+   "价格": "156.80",
+   "库存": 998,
+   "规格": "缤纷花语&gt;200*280"
+  },
+  {
+   "价格": "100.80",
+   "库存": 9921,
+   "规格": "缤纷花语&gt;180*200"
+  },
+  {
+   "价格": "134.40",
+   "库存": 9971,
+   "规格": "珊瑚绒蓝绿&gt;200*240"
+  },
+  {
+   "价格": "56.00",
+   "库存": 9945,
+   "规格": "珊瑚绒玫瑰粉&gt;100*200"
+  },
+  {
+   "价格": "168.00",
+   "库存": 9984,
+   "规格": "珊瑚绒玫瑰粉&gt;200*300"
+  },
+  {
+   "价格": "100.80",
+   "库存": 9762,
+   "规格": "黑色棋盘&gt;180*200"
+  },
+  {
+   "价格": "56.00",
+   "库存": 9984,
+   "规格": "珊瑚绒葡萄红&gt;100*200"
+  },
+  {
+   "价格": "156.80",
+   "库存": 1000,
+   "规格": "爱心气球&gt;200*280"
+  },
+  {
+   "价格": "123.20",
+   "库存": 9987,
+   "规格": "珊瑚绒苔绿&gt;200*220"
+  },
+  {
+   "价格": "100.80",
+   "库存": 9883,
+   "规格": "宇宙飞人&gt;180*200"
+  },
+  {
+   "价格": "123.20",
+   "库存": 9969,
+   "规格": "宇宙飞人&gt;200*220"
+  },
+  {
+   "价格": "56.00",
+   "库存": 9934,
+   "规格": "萝卜兔&gt;100*200"
+  },
+  {
+   "价格": "156.80",
+   "库存": 997,
+   "规格": "珊瑚绒天蓝&gt;200*280"
+  },
+  {
+   "价格": "134.40",
+   "库存": 9892,
+   "规格": "珊瑚绒银灰&gt;200*240"
+  },
+  {
+   "价格": "112.00",
+   "库存": 9837,
+   "规格": "黑色棋盘&gt;200*200"
+  },
+  {
+   "价格": "112.00",
+   "库存": 9994,
+   "规格": "珊瑚绒葡萄红&gt;200*200"
+  },
+  {
+   "价格": "38.00",
+   "库存": 999,
+   "规格": "珊瑚绒橄榄绿&gt;超大缝合尺寸"
+  },
+  {
+   "价格": "67.20",
+   "库存": 9812,
+   "规格": "珊瑚绒银灰&gt;120*200"
+  },
+  {
+   "价格": "112.00",
+   "库存": 9976,
+   "规格": "珊瑚绒紫罗兰&gt;200*200"
+  },
+  {
+   "价格": "140.00",
+   "库存": 9966,
+   "规格": "草莓乐园&gt;200*250"
+  },
+  {
+   "价格": "140.00",
+   "库存": 9978,
+   "规格": "珊瑚绒蓝绿&gt;200*250"
+  },
+  {
+   "价格": "84.00",
+   "库存": 9920,
+   "规格": "萝卜兔&gt;150*200"
+  },
+  {
+   "价格": "44.80",
+   "库存": 9922,
+   "规格": "珊瑚绒紫罗兰&gt;80*200"
+  },
+  {
+   "价格": "100.80",
+   "库存": 9737,
+   "规格": "珊瑚绒银灰&gt;180*200"
+  },
+  {
+   "价格": "84.00",
+   "库存": 9941,
+   "规格": "珊瑚绒橄榄绿&gt;150*200"
+  },
+  {
+   "价格": "56.00",
+   "库存": 9919,
+   "规格": "珊瑚绒比翼双飞&gt;100*200"
+  },
+  {
+   "价格": "168.00",
+   "库存": 9994,
+   "规格": "萝卜兔&gt;200*300"
+  },
+  {
+   "价格": "156.80",
+   "库存": 987,
+   "规格": "珊瑚绒天然棕&gt;200*280"
+  },
+  {
+   "价格": "67.20",
+   "库存": 9906,
+   "规格": "缤纷花语&gt;120*200"
+  },
+  {
+   "价格": "67.20",
+   "库存": 9625,
+   "规格": "草莓乐园&gt;120*200"
+  },
+  {
+   "价格": "84.00",
+   "库存": 9909,
+   "规格": "珊瑚绒浅咖啡棕&gt;150*200"
+  },
+  {
+   "价格": "168.00",
+   "库存": 9964,
+   "规格": "珊瑚绒比翼双飞&gt;200*300"
+  },
+  {
+   "价格": "84.00",
+   "库存": 9858,
+   "规格": "珊瑚绒深蓝&gt;150*200"
+  },
+  {
+   "价格": "35.00",
+   "库存": 998,
+   "规格": "珊瑚绒玫瑰粉&gt;异形专拍"
+  },
+  {
+   "价格": "44.80",
+   "库存": 9920,
+   "规格": "黑色棋盘&gt;80*200"
+  },
+  {
+   "价格": "100.80",
+   "库存": 9758,
+   "规格": "草莓乐园&gt;180*200"
+  },
+  {
+   "价格": "35.00",
+   "库存": 9865,
+   "规格": "珊瑚绒天蓝&gt;定制尺寸"
+  },
+  {
+   "价格": "134.40",
+   "库存": 9934,
+   "规格": "草莓乐园&gt;200*240"
+  },
+  {
+   "价格": "44.80",
+   "库存": 9891,
+   "规格": "珊瑚绒比翼双飞&gt;80*200"
+  },
+  {
+   "价格": "38.00",
+   "库存": 998,
+   "规格": "珊瑚绒葡萄红&gt;超大缝合尺寸"
+  },
+  {
+   "价格": "112.00",
+   "库存": 9972,
+   "规格": "珊瑚绒玫瑰粉&gt;200*200"
+  },
+  {
+   "价格": "140.00",
+   "库存": 9948,
+   "规格": "开心家园&gt;200*250"
+  },
+  {
+   "价格": "112.00",
+   "库存": 9963,
+   "规格": "珊瑚绒苔绿&gt;200*200"
+  },
+  {
+   "价格": "35.00",
+   "库存": 1000,
+   "规格": "爱心气球&gt;异形专拍"
+  },
+  {
+   "价格": "123.20",
+   "库存": 9905,
+   "规格": "珊瑚绒银灰&gt;200*220"
+  },
+  {
+   "价格": "123.20",
+   "库存": 9999,
+   "规格": "珊瑚绒葡萄红&gt;200*220"
+  },
+  {
+   "价格": "67.20",
+   "库存": 9771,
+   "规格": "宇宙飞人&gt;120*200"
+  },
+  {
+   "价格": "84.00",
+   "库存": 9404,
+   "规格": "珊瑚绒银灰&gt;150*200"
+  },
+  {
+   "价格": "38.00",
+   "库存": 998,
+   "规格": "草莓乐园&gt;超大缝合尺寸"
+  },
+  {
+   "价格": "112.00",
+   "库存": 9939,
+   "规格": "开心家园&gt;200*200"
+  },
+  {
+   "价格": "156.80",
+   "库存": 995,
+   "规格": "珊瑚绒橄榄绿&gt;200*280"
+  },
+  {
+   "价格": "100.80",
+   "库存": 9962,
+   "规格": "珊瑚绒橄榄绿&gt;180*200"
+  },
+  {
+   "价格": "84.00",
+   "库存": 9951,
+   "规格": "珊瑚绒葡萄红&gt;150*200"
+  },
+  {
+   "价格": "67.20",
+   "库存": 9917,
+   "规格": "萝卜兔&gt;120*200"
+  },
+  {
+   "价格": "140.00",
+   "库存": 9992,
+   "规格": "珊瑚绒苔绿&gt;200*250"
+  },
+  {
+   "价格": "156.80",
+   "库存": 995,
+   "规格": "珊瑚绒蓝绿&gt;200*280"
+  },
+  {
+   "价格": "100.80",
+   "库存": 9926,
+   "规格": "珊瑚绒蓝绿&gt;180*200"
+  },
+  {
+   "价格": "112.00",
+   "库存": 9968,
+   "规格": "珊瑚绒比翼双飞&gt;200*200"
+  },
+  {
+   "价格": "38.00",
+   "库存": 999,
+   "规格": "珊瑚绒玫瑰粉&gt;超大缝合尺寸"
+  },
+  {
+   "价格": "168.00",
+   "库存": 9979,
+   "规格": "珊瑚绒浅咖啡棕&gt;200*300"
+  },
+  {
+   "价格": "123.20",
+   "库存": 9986,
+   "规格": "珊瑚绒玫瑰粉&gt;200*220"
+  },
+  {
+   "价格": "35.00",
+   "库存": 9891,
+   "规格": "草莓乐园&gt;定制尺寸"
+  },
+  {
+   "价格": "38.00",
+   "库存": 998,
+   "规格": "珊瑚绒紫罗兰&gt;超大缝合尺寸"
+  },
+  {
+   "价格": "56.00",
+   "库存": 9941,
+   "规格": "珊瑚绒浅咖啡棕&gt;100*200"
+  },
+  {
+   "价格": "56.00",
+   "库存": 9888,
+   "规格": "缤纷花语&gt;100*200"
+  },
+  {
+   "价格": "67.20",
+   "库存": 9993,
+   "规格": "爱心气球&gt;120*200"
+  },
+  {
+   "价格": "44.80",
+   "库存": 9596,
+   "规格": "宇宙飞人&gt;80*200"
+  },
+  {
+   "价格": "140.00",
+   "库存": 9970,
+   "规格": "珊瑚绒天然棕&gt;200*250"
+  },
+  {
+   "价格": "38.00",
+   "库存": 1000,
+   "规格": "黑色棋盘&gt;超大缝合尺寸"
+  },
+  {
+   "价格": "112.00",
+   "库存": 9883,
+   "规格": "珊瑚绒银灰&gt;200*200"
+  },
+  {
+   "价格": "100.80",
+   "库存": 9936,
+   "规格": "珊瑚绒苔绿&gt;180*200"
+  },
+  {
+   "价格": "134.40",
+   "库存": 9993,
+   "规格": "珊瑚绒葡萄红&gt;200*240"
+  },
+  {
+   "价格": "67.20",
+   "库存": 9923,
+   "规格": "珊瑚绒天蓝&gt;120*200"
+  },
+  {
+   "价格": "35.00",
+   "库存": 1000,
+   "规格": "缤纷花语&gt;异形专拍"
+  },
+  {
+   "价格": "168.00",
+   "库存": 9976,
+   "规格": "宇宙飞人&gt;200*300"
+  },
+  {
+   "价格": "44.80",
+   "库存": 9548,
+   "规格": "珊瑚绒银灰&gt;80*200"
+  },
+  {
+   "价格": "156.80",
+   "库存": 996,
+   "规格": "珊瑚绒咖啡棕&gt;200*280"
+  },
+  {
+   "价格": "67.20",
+   "库存": 9921,
+   "规格": "黑色棋盘&gt;120*200"
+  },
+  {
+   "价格": "35.00",
+   "库存": 998,
+   "规格": "草莓乐园&gt;异形专拍"
+  },
+  {
+   "价格": "56.00",
+   "库存": 9453,
+   "规格": "草莓乐园&gt;100*200"
+  },
+  {
+   "价格": "100.80",
+   "库存": 9930,
+   "规格": "珊瑚绒天蓝&gt;180*200"
+  },
+  {
+   "价格": "44.80",
+   "库存": 9841,
+   "规格": "萝卜兔&gt;80*200"
+  },
+  {
+   "价格": "38.00",
+   "库存": 987,
+   "规格": "珊瑚绒银灰&gt;超大缝合尺寸"
+  },
+  {
+   "价格": "134.40",
+   "库存": 9988,
+   "规格": "珊瑚绒紫罗兰&gt;200*240"
+  },
+  {
+   "价格": "134.40",
+   "库存": 9971,
+   "规格": "珊瑚绒天然棕&gt;200*240"
+  },
+  {
+   "价格": "100.80",
+   "库存": 9886,
+   "规格": "珊瑚绒天然棕&gt;180*200"
+  },
+  {
+   "价格": "100.80",
+   "库存": 9947,
+   "规格": "珊瑚绒紫罗兰&gt;180*200"
+  },
+  {
+   "价格": "56.00",
+   "库存": 9988,
+   "规格": "爱心气球&gt;100*200"
+  },
+  {
+   "价格": "123.20",
+   "库存": 9953,
+   "规格": "开心家园&gt;200*220"
+  },
+  {
+   "价格": "56.00",
+   "库存": 9725,
+   "规格": "宇宙飞人&gt;100*200"
+  },
+  {
+   "价格": "123.20",
+   "库存": 9966,
+   "规格": "珊瑚绒比翼双飞&gt;200*220"
+  },
+  {
+   "价格": "140.00",
+   "库存": 9994,
+   "规格": "珊瑚绒葡萄红&gt;200*250"
+  },
+  {
+   "价格": "168.00",
+   "库存": 9998,
+   "规格": "爱心气球&gt;200*300"
+  },
+  {
+   "价格": "134.40",
+   "库存": 9976,
+   "规格": "珊瑚绒玫瑰粉&gt;200*240"
+  },
+  {
+   "价格": "156.80",
+   "库存": 994,
+   "规格": "珊瑚绒深蓝&gt;200*280"
+  },
+  {
+   "价格": "156.80",
+   "库存": 998,
+   "规格": "草莓乐园&gt;200*280"
+  },
+  {
+   "价格": "38.00",
+   "库存": 996,
+   "规格": "珊瑚绒深蓝&gt;超大缝合尺寸"
+  },
+  {
+   "价格": "84.00",
+   "库存": 9739,
+   "规格": "珊瑚绒玫瑰粉&gt;150*200"
+  },
+  {
+   "价格": "112.00",
+   "库存": 9988,
+   "规格": "珊瑚绒浅咖啡棕&gt;200*200"
+  },
+  {
+   "价格": "35.00",
+   "库存": 9810,
+   "规格": "珊瑚绒橄榄绿&gt;定制尺寸"
+  },
+  {
+   "价格": "56.00",
+   "库存": 9908,
+   "规格": "珊瑚绒深蓝&gt;100*200"
+  },
+  {
+   "价格": "140.00",
+   "库存": 9992,
+   "规格": "珊瑚绒紫罗兰&gt;200*250"
+  },
+  {
+   "价格": "44.80",
+   "库存": 8984,
+   "规格": "草莓乐园&gt;80*200"
+  },
+  {
+   "价格": "35.00",
+   "库存": 9776,
+   "规格": "珊瑚绒深蓝&gt;定制尺寸"
+  },
+  {
+   "价格": "35.00",
+   "库存": 9301,
+   "规格": "珊瑚绒银灰&gt;定制尺寸"
+  },
+  {
+   "价格": "134.40",
+   "库存": 9982,
+   "规格": "珊瑚绒苔绿&gt;200*240"
+  },
+  {
+   "价格": "168.00",
+   "库存": 9894,
+   "规格": "珊瑚绒银灰&gt;200*300"
+  },
+  {
+   "价格": "134.40",
+   "库存": 9987,
+   "规格": "珊瑚绒橄榄绿&gt;200*240"
+  },
+  {
+   "价格": "38.00",
+   "库存": 1000,
+   "规格": "爱心气球&gt;超大缝合尺寸"
+  },
+  {
+   "价格": "67.20",
+   "库存": 9967,
+   "规格": "珊瑚绒橄榄绿&gt;120*200"
+  },
+  {
+   "价格": "168.00",
+   "库存": 9977,
+   "规格": "珊瑚绒天蓝&gt;200*300"
+  },
+  {
+   "价格": "140.00",
+   "库存": 9984,
+   "规格": "珊瑚绒玫瑰粉&gt;200*250"
+  },
+  {
+   "价格": "35.00",
+   "库存": 1000,
+   "规格": "萝卜兔&gt;异形专拍"
+  },
+  {
+   "价格": "123.20",
+   "库存": 9961,
+   "规格": "珊瑚绒天然棕&gt;200*220"
+  },
+  {
+   "价格": "100.80",
+   "库存": 9944,
+   "规格": "萝卜兔&gt;180*200"
+  },
+  {
+   "价格": "156.80",
+   "库存": 1000,
+   "规格": "萝卜兔&gt;200*280"
+  },
+  {
+   "价格": "84.00",
+   "库存": 9941,
+   "规格": "珊瑚绒紫罗兰&gt;150*200"
+  },
+  {
+   "价格": "44.80",
+   "库存": 9906,
+   "规格": "珊瑚绒蓝绿&gt;80*200"
+  },
+  {
+   "价格": "84.00",
+   "库存": 9335,
+   "规格": "珊瑚绒天然棕&gt;150*200"
+  },
+  {
+   "价格": "44.80",
+   "库存": 9936,
+   "规格": "珊瑚绒浅咖啡棕&gt;80*200"
+  },
+  {
+   "价格": "38.00",
+   "库存": 1000,
+   "规格": "珊瑚绒比翼双飞&gt;超大缝合尺寸"
+  },
+  {
+   "价格": "112.00",
+   "库存": 9978,
+   "规格": "缤纷花语&gt;200*200"
+  },
+  {
+   "价格": "84.00",
+   "库存": 9912,
+   "规格": "珊瑚绒蓝绿&gt;150*200"
+  },
+  {
+   "价格": "112.00",
+   "库存": 9995,
+   "规格": "爱心气球&gt;200*200"
+  },
+  {
+   "价格": "84.00",
+   "库存": 9907,
+   "规格": "缤纷花语&gt;150*200"
+  },
+  {
+   "价格": "168.00",
+   "库存": 9951,
+   "规格": "草莓乐园&gt;200*300"
+  },
+  {
+   "价格": "67.20",
+   "库存": 9922,
+   "规格": "珊瑚绒比翼双飞&gt;120*200"
+  },
+  {
+   "价格": "140.00",
+   "库存": 9991,
+   "规格": "珊瑚绒橄榄绿&gt;200*250"
+  },
+  {
+   "价格": "134.40",
+   "库存": 9960,
+   "规格": "珊瑚绒比翼双飞&gt;200*240"
+  },
+  {
+   "价格": "35.00",
+   "库存": 997,
+   "规格": "珊瑚绒蓝绿&gt;异形专拍"
+  },
+  {
+   "价格": "35.00",
+   "库存": 9954,
+   "规格": "珊瑚绒紫罗兰&gt;定制尺寸"
+  },
+  {
+   "价格": "56.00",
+   "库存": 9924,
+   "规格": "珊瑚绒天蓝&gt;100*200"
+  },
+  {
+   "价格": "123.20",
+   "库存": 9989,
+   "规格": "珊瑚绒浅咖啡棕&gt;200*220"
+  },
+  {
+   "价格": "56.00",
+   "库存": 9559,
+   "规格": "开心家园&gt;100*200"
+  },
+  {
+   "价格": "44.80",
+   "库存": 9969,
+   "规格": "珊瑚绒橄榄绿&gt;80*200"
+  },
+  {
+   "价格": "44.80",
+   "库存": 9865,
+   "规格": "珊瑚绒深蓝&gt;80*200"
+  },
+  {
+   "价格": "100.80",
+   "库存": 9993,
+   "规格": "爱心气球&gt;180*200"
+  },
+  {
+   "价格": "84.00",
+   "库存": 9775,
+   "规格": "宇宙飞人&gt;150*200"
+  },
+  {
+   "价格": "156.80",
+   "库存": 999,
+   "规格": "宇宙飞人&gt;200*280"
+  },
+  {
+   "价格": "44.80",
+   "库存": 9915,
+   "规格": "珊瑚绒咖啡棕&gt;80*200"
+  },
+  {
+   "价格": "156.80",
+   "库存": 996,
+   "规格": "黑色棋盘&gt;200*280"
+  },
+  {
+   "价格": "35.00",
+   "库存": 1000,
+   "规格": "珊瑚绒比翼双飞&gt;异形专拍"
+  },
+  {
+   "价格": "35.00",
+   "库存": 9917,
+   "规格": "开心家园&gt;定制尺寸"
+  },
+  {
+   "价格": "156.80",
+   "库存": 997,
+   "规格": "珊瑚绒苔绿&gt;200*280"
+  },
+  {
+   "价格": "44.80",
+   "库存": 9970,
+   "规格": "珊瑚绒葡萄红&gt;80*200"
+  },
+  {
+   "价格": "140.00",
+   "库存": 9991,
+   "规格": "珊瑚绒浅咖啡棕&gt;200*250"
+  },
+  {
+   "价格": "134.40",
+   "库存": 9980,
+   "规格": "珊瑚绒咖啡棕&gt;200*240"
+  },
+  {
+   "价格": "100.80",
+   "库存": 9923,
+   "规格": "珊瑚绒咖啡棕&gt;180*200"
+  },
+  {
+   "价格": "140.00",
+   "库存": 9975,
+   "规格": "珊瑚绒比翼双飞&gt;200*250"
+  },
+  {
+   "价格": "123.20",
+   "库存": 9984,
+   "规格": "珊瑚绒橄榄绿&gt;200*220"
+  },
+  {
+   "价格": "35.00",
+   "库存": 9930,
+   "规格": "宇宙飞人&gt;定制尺寸"
+  },
+  {
+   "价格": "35.00",
+   "库存": 9947,
+   "规格": "珊瑚绒葡萄红&gt;定制尺寸"
+  },
+  {
+   "价格": "140.00",
+   "库存": 9979,
+   "规格": "珊瑚绒深蓝&gt;200*250"
+  },
+  {
+   "价格": "112.00",
+   "库存": 9975,
+   "规格": "珊瑚绒天蓝&gt;200*200"
+  },
+  {
+   "价格": "56.00",
+   "库存": 9940,
+   "规格": "珊瑚绒蓝绿&gt;100*200"
+  },
+  {
+   "价格": "67.20",
+   "库存": 9943,
+   "规格": "珊瑚绒咖啡棕&gt;120*200"
+  },
+  {
+   "价格": "168.00",
+   "库存": 9947,
+   "规格": "开心家园&gt;200*300"
+  },
+  {
+   "价格": "156.80",
+   "库存": 999,
+   "规格": "珊瑚绒紫罗兰&gt;200*280"
+  },
+  {
+   "价格": "35.00",
+   "库存": 9859,
+   "规格": "珊瑚绒蓝绿&gt;定制尺寸"
+  },
+  {
+   "价格": "112.00",
+   "库存": 9952,
+   "规格": "珊瑚绒天然棕&gt;200*200"
+  },
+  {
+   "价格": "35.00",
+   "库存": 1000,
+   "规格": "珊瑚绒橄榄绿&gt;异形专拍"
+  },
+  {
+   "价格": "134.40",
+   "库存": 9973,
+   "规格": "珊瑚绒深蓝&gt;200*240"
+  },
+  {
+   "价格": "35.00",
+   "库存": 1000,
+   "规格": "珊瑚绒苔绿&gt;异形专拍"
+  },
+  {
+   "价格": "38.00",
+   "库存": 1000,
+   "规格": "缤纷花语&gt;超大缝合尺寸"
+  },
+  {
+   "价格": "168.00",
+   "库存": 9979,
+   "规格": "缤纷花语&gt;200*300"
+  },
+  {
+   "价格": "67.20",
+   "库存": 9913,
+   "规格": "珊瑚绒深蓝&gt;120*200"
+  },
+  {
+   "价格": "84.00",
+   "库存": 9685,
+   "规格": "开心家园&gt;150*200"
+  },
+  {
+   "价格": "35.00",
+   "库存": 972,
+   "规格": "珊瑚绒银灰&gt;异形专拍"
+  },
+  {
+   "价格": "156.80",
+   "库存": 996,
+   "规格": "珊瑚绒葡萄红&gt;200*280"
+  },
+  {
+   "价格": "67.20",
+   "库存": 9939,
+   "规格": "珊瑚绒浅咖啡棕&gt;120*200"
+  },
+  {
+   "价格": "140.00",
+   "库存": 9978,
+   "规格": "珊瑚绒咖啡棕&gt;200*250"
+  },
+  {
+   "价格": "134.40",
+   "库存": 9984,
+   "规格": "珊瑚绒浅咖啡棕&gt;200*240"
+  },
+  {
+   "价格": "100.80",
+   "库存": 9957,
+   "规格": "珊瑚绒浅咖啡棕&gt;180*200"
+  },
+  {
+   "价格": "168.00",
+   "库存": 9962,
+   "规格": "珊瑚绒蓝绿&gt;200*300"
+  },
+  {
+   "价格": "35.00",
+   "库存": 9969,
+   "规格": "缤纷花语&gt;定制尺寸"
+  },
+  {
+   "价格": "35.00",
+   "库存": 9988,
+   "规格": "萝卜兔&gt;定制尺寸"
+  },
+  {
+   "价格": "38.00",
+   "库存": 1000,
+   "规格": "宇宙飞人&gt;超大缝合尺寸"
+  },
+  {
+   "价格": "100.80",
+   "库存": 9890,
+   "规格": "珊瑚绒深蓝&gt;180*200"
+  },
+  {
+   "价格": "38.00",
+   "库存": 995,
+   "规格": "珊瑚绒苔绿&gt;超大缝合尺寸"
+  },
+  {
+   "价格": "156.80",
+   "库存": 999,
+   "规格": "珊瑚绒玫瑰粉&gt;200*280"
+  },
+  {
+   "价格": "84.00",
+   "库存": 9651,
+   "规格": "草莓乐园&gt;150*200"
+  },
+  {
+   "价格": "56.00",
+   "库存": 9859,
+   "规格": "珊瑚绒天然棕&gt;100*200"
+  },
+  {
+   "价格": "35.00",
+   "库存": 9562,
+   "规格": "珊瑚绒天然棕&gt;定制尺寸"
+  },
+  {
+   "价格": "140.00",
+   "库存": 9988,
+   "规格": "萝卜兔&gt;200*250"
+  },
+  {
+   "价格": "123.20",
+   "库存": 9999,
+   "规格": "爱心气球&gt;200*220"
+  }
+ ],
+ "规格图": [
+  [
+   "珊瑚绒咖啡棕",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01yVohDY1J6tFJVdSaS_!!2221096840980-0-cib.jpg"
+  ],
+  [
+   "珊瑚绒天蓝",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01cZzoDf1J6tFHrxxUr_!!2221096840980-0-cib.jpg"
+  ],
+  [
+   "珊瑚绒浅咖啡棕",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01BDwrIU1J6tFIQL9fK_!!2221096840980-0-cib.jpg"
+  ],
+  [
+   "珊瑚绒深蓝",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01kxpL9e1J6tFJM5X6l_!!2221096840980-0-cib.jpg"
+  ],
+  [
+   "珊瑚绒橄榄绿",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01C9RGrz1J6tFIawPCJ_!!2221096840980-0-cib.jpg"
+  ],
+  [
+   "珊瑚绒天然棕",
+   "https://cbu01.alicdn.com/img/ibank/O1CN019pPcHi1J6tFJM6jvi_!!2221096840980-0-cib.jpg"
+  ],
+  [
+   "珊瑚绒蓝绿",
+   "https://cbu01.alicdn.com/img/ibank/O1CN019j3Wyj1J6tFHryUm2_!!2221096840980-0-cib.jpg"
+  ],
+  [
+   "珊瑚绒葡萄红",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01sksj6M1J6tFIawPCP_!!2221096840980-0-cib.jpg"
+  ],
+  [
+   "珊瑚绒紫罗兰",
+   "https://cbu01.alicdn.com/img/ibank/O1CN0193hCSP1J6tFJVdjDj_!!2221096840980-0-cib.jpg"
+  ],
+  [
+   "珊瑚绒苔绿",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01u6erPc1J6tFHrxQEc_!!2221096840980-0-cib.jpg"
+  ],
+  [
+   "珊瑚绒玫瑰粉",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01lemD1p1J6tFHry9yo_!!2221096840980-0-cib.jpg"
+  ],
+  [
+   "珊瑚绒银灰",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01Pkp41m1J6tFIauC1V_!!2221096840980-0-cib.jpg"
+  ],
+  [
+   "宇宙飞人",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01A8xpVh1J6tFIQHGTy_!!2221096840980-0-cib.jpg"
+  ],
+  [
+   "开心家园",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01igyebY1J6tFJVd7nH_!!2221096840980-0-cib.jpg"
+  ],
+  [
+   "草莓乐园",
+   "https://cbu01.alicdn.com/img/ibank/O1CN0109Jft21J6tFIhkQde_!!2221096840980-0-cib.jpg"
+  ],
+  [
+   "黑色棋盘",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01919tke1J6tFIawjzM_!!2221096840980-0-cib.jpg"
+  ],
+  [
+   "缤纷花语",
+   "https://cbu01.alicdn.com/img/ibank/O1CN017QPymx1J6tFIIo6xh_!!2221096840980-0-cib.jpg"
+  ],
+  [
+   "萝卜兔",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01Rzf79v1J6tFJZ5qIi_!!2221096840980-0-cib.jpg"
+  ],
+  [
+   "爱心气球",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01V9Veqt1J6tFJM43eM_!!2221096840980-0-cib.jpg"
+  ],
+  [
+   "珊瑚绒比翼双飞",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01cVIVph1J6tFIkhHJU_!!2221096840980-0-cib.jpg"
+  ]
+ ],
+ "规格属性": [
+  {
+   "值": [
+    "珊瑚绒咖啡棕",
+    "珊瑚绒天蓝",
+    "珊瑚绒浅咖啡棕",
+    "珊瑚绒深蓝",
+    "珊瑚绒橄榄绿",
+    "珊瑚绒天然棕",
+    "珊瑚绒蓝绿",
+    "珊瑚绒葡萄红",
+    "珊瑚绒紫罗兰",
+    "珊瑚绒苔绿",
+    "珊瑚绒玫瑰粉",
+    "珊瑚绒银灰",
+    "宇宙飞人",
+    "开心家园",
+    "草莓乐园",
+    "黑色棋盘",
+    "缤纷花语",
+    "萝卜兔",
+    "爱心气球",
+    "珊瑚绒比翼双飞"
+   ],
+   "属性": "颜色"
+  },
+  {
+   "值": [
+    "定制尺寸",
+    "异形专拍",
+    "80*200",
+    "100*200",
+    "120*200",
+    "150*200",
+    "180*200",
+    "200*200",
+    "200*220",
+    "200*240",
+    "200*250",
+    "200*280",
+    "200*300",
+    "超大缝合尺寸"
+   ],
+   "属性": "尺寸"
+  }
+ ],
+ "起订量": 1,
+ "阶梯价_登录后": [
+  {
+   "beginAmount": 1,
+   "price": "35.00"
+  },
+  {
+   "beginAmount": 1,
+   "price": "168.00"
+  }
+ ],
+ "url": "https://detail.1688.com/offer/989839211037.html",
+ "核页时间": "2026-10-15T23:09:57.390Z"
+}

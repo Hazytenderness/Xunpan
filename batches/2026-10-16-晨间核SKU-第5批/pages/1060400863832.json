@@ -1,0 +1,306 @@
+{
+ "offerId": "1060400863832",
+ "条目": "H0216",
+ "block": false,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01V2ogHu1KE36Fhzqqs_!!2215600321131-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01hVUe2T1KE36BEXtai_!!2215600321131-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01anKzGl1KE36Fhwld9_!!2215600321131-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01ugAIsk1KE36Fyfunx_!!2215600321131-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01Rog9i21zgoDX03pwI_!!6000000006744-0-cib.jpg"
+ ],
+ "价格区间": null,
+ "价格展示": "rangePrice",
+ "到手价": null,
+ "包装信息": [
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "粉色",
+   "skuId": 6107097392393,
+   "volume": 0,
+   "weight": 80,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "青绿色",
+   "skuId": 6107097392394,
+   "volume": 0,
+   "weight": 80,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "绿色",
+   "skuId": 6107097392395,
+   "volume": 0,
+   "weight": 80,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "紫色",
+   "skuId": 6107097392396,
+   "volume": 0,
+   "weight": 80,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "玛瑙色",
+   "skuId": 6107097392397,
+   "volume": 0,
+   "weight": 80,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "黄色",
+   "skuId": 6107097392398,
+   "volume": 0,
+   "weight": 80,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "橙色",
+   "skuId": 6107097392399,
+   "volume": 0,
+   "weight": 80,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "蓝色",
+   "skuId": 6107097392400,
+   "volume": 0,
+   "weight": 80,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "紫红色",
+   "skuId": 6107097392401,
+   "volume": 0,
+   "weight": 80,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "白色",
+   "skuId": 6107097392402,
+   "volume": 0,
+   "weight": 80,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "蓝橘色",
+   "skuId": 6107097392403,
+   "volume": 0,
+   "weight": 80,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "蓝粉色",
+   "skuId": 6107097392404,
+   "volume": 0,
+   "weight": 80,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "黄粉紫色",
+   "skuId": 6107097392405,
+   "volume": 0,
+   "weight": 80,
+   "width": 0
+  }
+ ],
+ "单位": "件",
+ "卖家公司": "浦江县艺歌水晶工艺品有限公司",
+ "可售总量": 11460,
+ "商品属性": [
+  "材质:玻璃",
+  "类别:植物",
+  "品牌:艺歌",
+  "包装:纸盒包装",
+  "风格:中式",
+  "货号:核桃",
+  "是否专利货源:否",
+  "纯度:粉色/青绿色/绿色/紫色/玛瑙色/黄色/橙色/蓝色/紫红色/白色/蓝橘色/蓝粉色/黄粉紫色",
+  "是否属于礼品:否",
+  "是否IP授权:否",
+  "颜色:红色"
+ ],
+ "已售": 1500,
+ "已登录": true,
+ "旺旺名": "艺歌水晶工艺品",
+ "标题": "琉璃核桃文玩多色玻璃健身球手指锻炼球黄水晶仿真高透核桃手把件",
+ "状态": "PUBLISHED",
+ "类目": "水晶工艺品",
+ "规格价格": [
+  {
+   "价格": null,
+   "库存": 494,
+   "规格": "青绿色"
+  },
+  {
+   "价格": null,
+   "库存": 999,
+   "规格": "黄粉紫色"
+  },
+  {
+   "价格": null,
+   "库存": 999,
+   "规格": "蓝粉色"
+  },
+  {
+   "价格": null,
+   "库存": 1000,
+   "规格": "蓝色"
+  },
+  {
+   "价格": null,
+   "库存": 972,
+   "规格": "粉色"
+  },
+  {
+   "价格": null,
+   "库存": 899,
+   "规格": "紫色"
+  },
+  {
+   "价格": null,
+   "库存": 999,
+   "规格": "玛瑙色"
+  },
+  {
+   "价格": null,
+   "库存": 1000,
+   "规格": "橙色"
+  },
+  {
+   "价格": null,
+   "库存": 999,
+   "规格": "蓝橘色"
+  },
+  {
+   "价格": null,
+   "库存": 1000,
+   "规格": "白色"
+  },
+  {
+   "价格": null,
+   "库存": 99,
+   "规格": "绿色"
+  },
+  {
+   "价格": null,
+   "库存": 1000,
+   "规格": "黄色"
+  },
+  {
+   "价格": null,
+   "库存": 1000,
+   "规格": "紫红色"
+  }
+ ],
+ "规格图": [
+  [
+   "粉色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01js3tql1KE36FZwmZX_!!2215600321131-0-cib.jpg"
+  ],
+  [
+   "青绿色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN017wLOAi1KE36FkdwKT_!!2215600321131-0-cib.jpg"
+  ],
+  [
+   "绿色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01iCVw211KE36FhxZV3_!!2215600321131-0-cib.jpg"
+  ],
+  [
+   "紫色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01QMAGpJ1KE36HGUhay_!!2215600321131-0-cib.jpg"
+  ],
+  [
+   "玛瑙色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01mTuF4T1KE36FydIcu_!!2215600321131-0-cib.jpg"
+  ],
+  [
+   "黄色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01QUZXkW1KE36FTugaa_!!2215600321131-0-cib.jpg"
+  ],
+  [
+   "橙色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01VubV401KE36FkhAwb_!!2215600321131-0-cib.jpg"
+  ],
+  [
+   "蓝色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN012hshbR1KE36FTv5XQ_!!2215600321131-0-cib.jpg"
+  ],
+  [
+   "紫红色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01iu8wgP1KE36BEXMKh_!!2215600321131-0-cib.jpg"
+  ],
+  [
+   "白色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN014fkFiL1KE36FmUweG_!!2215600321131-0-cib.jpg"
+  ],
+  [
+   "蓝橘色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN012p0k331KE36FWbQ8A_!!2215600321131-0-cib.jpg"
+  ],
+  [
+   "蓝粉色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01udymk11KE36FTu9Kk_!!2215600321131-0-cib.jpg"
+  ],
+  [
+   "黄粉紫色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01x4uWGt1KE36FkfY5Y_!!2215600321131-0-cib.jpg"
+  ]
+ ],
+ "规格属性": [
+  {
+   "值": [
+    "粉色",
+    "青绿色",
+    "绿色",
+    "紫色",
+    "玛瑙色",
+    "黄色",
+    "橙色",
+    "蓝色",
+    "紫红色",
+    "白色",
+    "蓝橘色",
+    "蓝粉色",
+    "黄粉紫色"
+   ],
+   "属性": "纯度"
+  }
+ ],
+ "起订量": 5,
+ "阶梯价_登录后": [
+  {
+   "beginAmount": 1,
+   "price": "2.80"
+  }
+ ],
+ "url": "https://detail.1688.com/offer/1060400863832.html",
+ "核页时间": "2026-10-16T00:05:54.414Z"
+}

@@ -1,0 +1,141 @@
+{
+ "offerId": "1044600263398",
+ "条目": "H0030",
+ "block": false,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01vePGJB1JGVb7LKGOc_!!956521001-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01b9c8q21JGVb6dzQGO_!!956521001-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN011K5j8h1JGVb7DKELH_!!956521001-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN019sNtZV1JGVb6m6bgW_!!956521001-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01aKh61s1JGVb78Oqtl_!!956521001-0-cib.jpg"
+ ],
+ "价格区间": null,
+ "价格展示": "rangePrice",
+ "到手价": null,
+ "包装信息": [
+  {
+   "height": 0.2,
+   "length": 30,
+   "sku1": "卡其色",
+   "skuId": 6070599529769,
+   "volume": 180,
+   "weight": 27,
+   "width": 30
+  },
+  {
+   "height": 0.2,
+   "length": 30,
+   "sku1": "驼色",
+   "skuId": 6070599529770,
+   "volume": 180,
+   "weight": 27,
+   "width": 30
+  },
+  {
+   "height": 0.2,
+   "length": 30,
+   "sku1": "深灰色",
+   "skuId": 6070599529771,
+   "volume": 180,
+   "weight": 27,
+   "width": 30
+  },
+  {
+   "height": 0.2,
+   "length": 30,
+   "sku1": "黑色",
+   "skuId": 6070599529775,
+   "volume": 180,
+   "weight": 27,
+   "width": 30
+  }
+ ],
+ "单位": "个",
+ "卖家公司": "德州汇佳纺织品有限公司",
+ "可售总量": 1856,
+ "商品属性": [
+  "材质:纯棉",
+  "吸水性:0-5s",
+  "品牌:德州汇佳纺织品",
+  "制作工艺:平织",
+  "克重:其他",
+  "产品类别:茶巾",
+  "货号:34341",
+  "加工定制:是",
+  "加印LOGO:可以",
+  "纱线规格:21股",
+  "是否定制:是",
+  "是否支持一件代发:支持",
+  "颜色:卡其色/驼色/深灰色/黑色"
+ ],
+ "已售": 3364,
+ "已登录": true,
+ "旺旺名": "qizhenlin118",
+ "标题": "纯棉方巾擦手巾华夫格茶巾蜂窝抹布亚马逊跨境吸水厨房不沾油毛巾",
+ "状态": "PUBLISHED",
+ "类目": "茶巾",
+ "规格价格": [
+  {
+   "价格": null,
+   "库存": 306,
+   "规格": "深灰色"
+  },
+  {
+   "价格": null,
+   "库存": 1000,
+   "规格": "黑色"
+  },
+  {
+   "价格": null,
+   "库存": 500,
+   "规格": "驼色"
+  },
+  {
+   "价格": null,
+   "库存": 50,
+   "规格": "卡其色"
+  }
+ ],
+ "规格图": [
+  [
+   "卡其色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01aTEXmA1JGVb7DLOBO_!!956521001-0-cib.jpg"
+  ],
+  [
+   "驼色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01b9c8q21JGVb6dzQGO_!!956521001-0-cib.jpg"
+  ],
+  [
+   "深灰色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN011K5j8h1JGVb7DKELH_!!956521001-0-cib.jpg"
+  ],
+  [
+   "黑色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01Vm6lge1JGVb8Ij7AM_!!956521001-0-cib.jpg"
+  ]
+ ],
+ "规格属性": [
+  {
+   "值": [
+    "卡其色",
+    "驼色",
+    "深灰色",
+    "黑色"
+   ],
+   "属性": "颜色"
+  }
+ ],
+ "起订量": 50,
+ "阶梯价_登录后": [
+  {
+   "beginAmount": 50,
+   "price": "2.25"
+  },
+  {
+   "beginAmount": 2000,
+   "price": "2.20"
+  }
+ ],
+ "url": "https://detail.1688.com/offer/1044600263398.html",
+ "核页时间": "2026-10-15T23:17:48.508Z"
+}

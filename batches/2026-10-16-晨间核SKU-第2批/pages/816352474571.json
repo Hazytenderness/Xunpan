@@ -1,0 +1,227 @@
+{
+ "offerId": "816352474571",
+ "条目": "H0039",
+ "block": false,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN013SVoVH1NvxfwDWnc9_!!2200537621633-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN017kTCne1NvxfgiO728_!!2200537621633-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN017nd0O91NvxfySlljs_!!2200537621633-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01EljVrx1Nvxiw6BvAY_!!2200537621633-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01ndOeoU1NvxkTOLBpU_!!2200537621633-0-cib.jpg"
+ ],
+ "价格区间": null,
+ "价格展示": "skuPrice",
+ "到手价": null,
+ "包装信息": [
+  {
+   "height": 0.5,
+   "length": 5,
+   "sku1": "默认厚度5mm不带双面胶和软磁",
+   "skuId": 6263237138542,
+   "volume": 12.5,
+   "weight": 8,
+   "width": 5
+  },
+  {
+   "height": 0.5,
+   "length": 4.5,
+   "sku1": "透明板4.5cm*7.5cm长方形",
+   "skuId": 6263237138544,
+   "volume": 16.875,
+   "weight": 8,
+   "width": 7.5
+  },
+  {
+   "height": 0.5,
+   "length": 5,
+   "sku1": "透明5cm*5cm正方形",
+   "skuId": 6263237138541,
+   "volume": 12.5,
+   "weight": 8,
+   "width": 5
+  },
+  {
+   "height": 0.5,
+   "length": 4.2,
+   "sku1": "透明4.2cm*4.2cm圆形",
+   "skuId": 6263237138543,
+   "volume": 8.82,
+   "weight": 8,
+   "width": 4.2
+  },
+  {
+   "height": 0.5,
+   "length": 5,
+   "sku1": "透明5cm*5cm猫爪",
+   "skuId": 6263237138540,
+   "volume": 12.5,
+   "weight": 8,
+   "width": 5
+  },
+  {
+   "height": 0.5,
+   "length": 4,
+   "sku1": "透明4cm*4cm五角星",
+   "skuId": 6263237138539,
+   "volume": 8,
+   "weight": 8,
+   "width": 4
+  },
+  {
+   "height": 0.5,
+   "length": 4,
+   "sku1": "透明4cm*5cm爱心",
+   "skuId": 6263237138538,
+   "volume": 10,
+   "weight": 8,
+   "width": 5
+  },
+  {
+   "height": 0.5,
+   "length": 5,
+   "sku1": "透明5cm*5cm圆形",
+   "skuId": 6263237138537,
+   "volume": 12.5,
+   "weight": 8,
+   "width": 5
+  },
+  {
+   "height": 0.1,
+   "length": 9.5,
+   "sku1": "软磁9.5*9.5cm一张（赠高透双面胶）",
+   "skuId": 6263237138545,
+   "volume": 9.025,
+   "weight": 10,
+   "width": 9.5
+  }
+ ],
+ "单位": "片",
+ "卖家公司": "苍南县辰业纸塑制品厂",
+ "可售总量": 200771,
+ "商品属性": [
+  "材质:亚克力",
+  "品牌:辰业",
+  "是否IP授权:否",
+  "是否专利货源:否",
+  "颜色:默认厚度5mm不带双面胶和软磁/透明板4.5cm*7.5cm长方形/透明5cm*5cm正方形/透明4.2cm*4.2cm圆形/透明5cm*5cm猫爪/透明4cm*4cm五角星/透明4cm*5cm爱心/透明5cm*5cm圆形/软磁9.5*9.5cm一张（赠高透双面胶）",
+  "加工定制:是",
+  "货号:cy2544122",
+  "是否属于礼品:否",
+  "是否跨境出口专供货源:是",
+  "主要销售地区:南美/东南亚/北美/东北亚/中东/其他",
+  "主要下游平台:wish/速卖通/独立站/LAZADA/其他",
+  "有可授权的自有品牌:是"
+ ],
+ "已售": 16664,
+ "已登录": true,
+ "旺旺名": "辰业纸塑制品",
+ "标题": "冰箱贴材料包diy手工材料自制高透亚克力板 创意模具空白亚克力片",
+ "状态": "PUBLISHED",
+ "类目": "电影道具/周边",
+ "规格价格": [
+  {
+   "价格": "0.40",
+   "库存": 99,
+   "规格": "透明5cm*5cm圆形"
+  },
+  {
+   "价格": "1.00",
+   "库存": 99999,
+   "规格": "默认厚度5mm不带双面胶和软磁"
+  },
+  {
+   "价格": "0.50",
+   "库存": 539,
+   "规格": "透明板4.5cm*7.5cm长方形"
+  },
+  {
+   "价格": "0.25",
+   "库存": 99,
+   "规格": "透明4.2cm*4.2cm圆形"
+  },
+  {
+   "价格": "0.35",
+   "库存": 9,
+   "规格": "透明5cm*5cm猫爪"
+  },
+  {
+   "价格": "0.20",
+   "库存": 9,
+   "规格": "透明4cm*4cm五角星"
+  },
+  {
+   "价格": "0.40",
+   "库存": 9,
+   "规格": "透明5cm*5cm正方形"
+  },
+  {
+   "价格": "0.30",
+   "库存": 9,
+   "规格": "透明4cm*5cm爱心"
+  },
+  {
+   "价格": "0.40",
+   "库存": 99999,
+   "规格": "软磁9.5*9.5cm一张（赠高透双面胶）"
+  }
+ ],
+ "规格图": [
+  [
+   "透明板4.5cm*7.5cm长方形",
+   "https://cbu01.alicdn.com/img/ibank/O1CN013SVoVH1NvxfwDWnc9_!!2200537621633-0-cib.jpg"
+  ],
+  [
+   "透明5cm*5cm正方形",
+   "https://cbu01.alicdn.com/img/ibank/O1CN013SVoVH1NvxfwDWnc9_!!2200537621633-0-cib.jpg"
+  ],
+  [
+   "透明4.2cm*4.2cm圆形",
+   "https://cbu01.alicdn.com/img/ibank/O1CN013SVoVH1NvxfwDWnc9_!!2200537621633-0-cib.jpg"
+  ],
+  [
+   "透明5cm*5cm猫爪",
+   "https://cbu01.alicdn.com/img/ibank/O1CN013SVoVH1NvxfwDWnc9_!!2200537621633-0-cib.jpg"
+  ],
+  [
+   "透明4cm*4cm五角星",
+   "https://cbu01.alicdn.com/img/ibank/O1CN013SVoVH1NvxfwDWnc9_!!2200537621633-0-cib.jpg"
+  ],
+  [
+   "透明4cm*5cm爱心",
+   "https://cbu01.alicdn.com/img/ibank/O1CN013SVoVH1NvxfwDWnc9_!!2200537621633-0-cib.jpg"
+  ],
+  [
+   "透明5cm*5cm圆形",
+   "https://cbu01.alicdn.com/img/ibank/O1CN013SVoVH1NvxfwDWnc9_!!2200537621633-0-cib.jpg"
+  ]
+ ],
+ "规格属性": [
+  {
+   "值": [
+    "默认厚度5mm不带双面胶和软磁",
+    "透明板4.5cm*7.5cm长方形",
+    "透明5cm*5cm正方形",
+    "透明4.2cm*4.2cm圆形",
+    "透明5cm*5cm猫爪",
+    "透明4cm*4cm五角星",
+    "透明4cm*5cm爱心",
+    "透明5cm*5cm圆形",
+    "软磁9.5*9.5cm一张（赠高透双面胶）"
+   ],
+   "属性": "颜色"
+  }
+ ],
+ "起订量": 2,
+ "阶梯价_登录后": [
+  {
+   "beginAmount": 1,
+   "price": "0.20"
+  },
+  {
+   "beginAmount": 2,
+   "price": "1.00"
+  }
+ ],
+ "url": "https://detail.1688.com/offer/816352474571.html",
+ "核页时间": "2026-10-15T23:20:08.498Z"
+}

@@ -1,0 +1,5312 @@
+{
+ "offerId": "994915774385",
+ "条目": "H0197",
+ "block": false,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01FSeRY61yBplvQ5gW5_!!2218610206541-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01916qbl1yBplueNSQs_!!2218610206541-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN0146SwP11yBpltv2NCE_!!2218610206541-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01ZjcW0A1yBplvZoR6A_!!2218610206541-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01hDYk371yBpluYtPCX_!!2218610206541-0-cib.jpg"
+ ],
+ "价格区间": "20.00-140.00",
+ "价格展示": "skuPrice",
+ "到手价": {
+  "件数": 1,
+  "价": "18",
+  "说明": "新人价"
+ },
+ "包装信息": [
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "森屿几何【小花边】-横版",
+   "sku2": "50*80cm",
+   "skuId": 6159669855108,
+   "volume": 0,
+   "weight": 500,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "森屿几何【小花边】-横版",
+   "sku2": "60*90cm",
+   "skuId": 6159669855295,
+   "volume": 0,
+   "weight": 675,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "森屿几何【小花边】-横版",
+   "sku2": "60*120cm",
+   "skuId": 6159669855380,
+   "volume": 0,
+   "weight": 900,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "森屿几何【小花边】-横版",
+   "sku2": "60*150cm",
+   "skuId": 6159669855278,
+   "volume": 0,
+   "weight": 1125,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "森屿几何【小花边】-横版",
+   "sku2": "80*100cm",
+   "skuId": 6159669855346,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "森屿几何【小花边】-横版",
+   "sku2": "80*120cm",
+   "skuId": 6159669855227,
+   "volume": 0,
+   "weight": 1200,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "森屿几何【小花边】-横版",
+   "sku2": "100*100cm",
+   "skuId": 6159669855142,
+   "volume": 0,
+   "weight": 1250,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "森屿几何【小花边】-横版",
+   "sku2": "100*110cm",
+   "skuId": 6159669855176,
+   "volume": 0,
+   "weight": 1375,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "森屿几何【小花边】-横版",
+   "sku2": "100*120cm",
+   "skuId": 6159669855193,
+   "volume": 0,
+   "weight": 1500,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "森屿几何【小花边】-横版",
+   "sku2": "100*140cm",
+   "skuId": 6159669855210,
+   "volume": 0,
+   "weight": 1750,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "森屿几何【小花边】-横版",
+   "sku2": "100*160cm",
+   "skuId": 6159669855414,
+   "volume": 0,
+   "weight": 2000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "森屿几何【小花边】-横版",
+   "sku2": "120*120cm",
+   "skuId": 6159669855244,
+   "volume": 0,
+   "weight": 1800,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "森屿几何【小花边】-横版",
+   "sku2": "120*140cm",
+   "skuId": 6159669855312,
+   "volume": 0,
+   "weight": 2100,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "森屿几何【小花边】-横版",
+   "sku2": "120*160cm",
+   "skuId": 6159669855363,
+   "volume": 0,
+   "weight": 2400,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "森屿几何【小花边】-横版",
+   "sku2": "120*180cm",
+   "skuId": 6159669855125,
+   "volume": 0,
+   "weight": 2700,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "森屿几何【小花边】-横版",
+   "sku2": "120*200cm",
+   "skuId": 6159669855397,
+   "volume": 0,
+   "weight": 3000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "森屿几何【小花边】-横版",
+   "sku2": "140*160cm",
+   "skuId": 6159669855329,
+   "volume": 0,
+   "weight": 2800,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "森屿几何【小花边】-横版",
+   "sku2": "140*200cm",
+   "skuId": 6159669855261,
+   "volume": 0,
+   "weight": 3500,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "森屿几何【小花边】-横版",
+   "sku2": "定制联系客服",
+   "skuId": 6159669855159,
+   "volume": 0,
+   "weight": 2000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "春日抹茶序曲【小花边】-横",
+   "sku2": "50*80cm",
+   "skuId": 6159669855124,
+   "volume": 0,
+   "weight": 500,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "春日抹茶序曲【小花边】-横",
+   "sku2": "60*90cm",
+   "skuId": 6159669855311,
+   "volume": 0,
+   "weight": 675,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "春日抹茶序曲【小花边】-横",
+   "sku2": "60*120cm",
+   "skuId": 6159669855396,
+   "volume": 0,
+   "weight": 900,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "春日抹茶序曲【小花边】-横",
+   "sku2": "60*150cm",
+   "skuId": 6159669855294,
+   "volume": 0,
+   "weight": 1125,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "春日抹茶序曲【小花边】-横",
+   "sku2": "80*100cm",
+   "skuId": 6159669855362,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "春日抹茶序曲【小花边】-横",
+   "sku2": "80*120cm",
+   "skuId": 6159669855243,
+   "volume": 0,
+   "weight": 1200,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "春日抹茶序曲【小花边】-横",
+   "sku2": "100*100cm",
+   "skuId": 6159669855158,
+   "volume": 0,
+   "weight": 1250,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "春日抹茶序曲【小花边】-横",
+   "sku2": "100*110cm",
+   "skuId": 6159669855192,
+   "volume": 0,
+   "weight": 1375,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "春日抹茶序曲【小花边】-横",
+   "sku2": "100*120cm",
+   "skuId": 6159669855209,
+   "volume": 0,
+   "weight": 1500,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "春日抹茶序曲【小花边】-横",
+   "sku2": "100*140cm",
+   "skuId": 6159669855226,
+   "volume": 0,
+   "weight": 1750,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "春日抹茶序曲【小花边】-横",
+   "sku2": "100*160cm",
+   "skuId": 6159669855430,
+   "volume": 0,
+   "weight": 2000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "春日抹茶序曲【小花边】-横",
+   "sku2": "120*120cm",
+   "skuId": 6159669855260,
+   "volume": 0,
+   "weight": 1800,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "春日抹茶序曲【小花边】-横",
+   "sku2": "120*140cm",
+   "skuId": 6159669855328,
+   "volume": 0,
+   "weight": 2100,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "春日抹茶序曲【小花边】-横",
+   "sku2": "120*160cm",
+   "skuId": 6159669855379,
+   "volume": 0,
+   "weight": 2400,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "春日抹茶序曲【小花边】-横",
+   "sku2": "120*180cm",
+   "skuId": 6159669855141,
+   "volume": 0,
+   "weight": 2700,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "春日抹茶序曲【小花边】-横",
+   "sku2": "120*200cm",
+   "skuId": 6159669855413,
+   "volume": 0,
+   "weight": 3000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "春日抹茶序曲【小花边】-横",
+   "sku2": "140*160cm",
+   "skuId": 6159669855345,
+   "volume": 0,
+   "weight": 2800,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "春日抹茶序曲【小花边】-横",
+   "sku2": "140*200cm",
+   "skuId": 6159669855277,
+   "volume": 0,
+   "weight": 3500,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "春日抹茶序曲【小花边】-横",
+   "sku2": "定制联系客服",
+   "skuId": 6159669855175,
+   "volume": 0,
+   "weight": 2000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "森屿绿意【小花边】-横版",
+   "sku2": "50*80cm",
+   "skuId": 6159669855109,
+   "volume": 0,
+   "weight": 500,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "森屿绿意【小花边】-横版",
+   "sku2": "60*90cm",
+   "skuId": 6159669855296,
+   "volume": 0,
+   "weight": 675,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "森屿绿意【小花边】-横版",
+   "sku2": "60*120cm",
+   "skuId": 6159669855381,
+   "volume": 0,
+   "weight": 900,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "森屿绿意【小花边】-横版",
+   "sku2": "60*150cm",
+   "skuId": 6159669855279,
+   "volume": 0,
+   "weight": 1125,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "森屿绿意【小花边】-横版",
+   "sku2": "80*100cm",
+   "skuId": 6159669855347,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "森屿绿意【小花边】-横版",
+   "sku2": "80*120cm",
+   "skuId": 6159669855228,
+   "volume": 0,
+   "weight": 1200,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "森屿绿意【小花边】-横版",
+   "sku2": "100*100cm",
+   "skuId": 6159669855143,
+   "volume": 0,
+   "weight": 1250,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "森屿绿意【小花边】-横版",
+   "sku2": "100*110cm",
+   "skuId": 6159669855177,
+   "volume": 0,
+   "weight": 1375,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "森屿绿意【小花边】-横版",
+   "sku2": "100*120cm",
+   "skuId": 6159669855194,
+   "volume": 0,
+   "weight": 1500,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "森屿绿意【小花边】-横版",
+   "sku2": "100*140cm",
+   "skuId": 6159669855211,
+   "volume": 0,
+   "weight": 1750,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "森屿绿意【小花边】-横版",
+   "sku2": "100*160cm",
+   "skuId": 6159669855415,
+   "volume": 0,
+   "weight": 2000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "森屿绿意【小花边】-横版",
+   "sku2": "120*120cm",
+   "skuId": 6159669855245,
+   "volume": 0,
+   "weight": 1800,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "森屿绿意【小花边】-横版",
+   "sku2": "120*140cm",
+   "skuId": 6159669855313,
+   "volume": 0,
+   "weight": 2100,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "森屿绿意【小花边】-横版",
+   "sku2": "120*160cm",
+   "skuId": 6159669855364,
+   "volume": 0,
+   "weight": 2400,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "森屿绿意【小花边】-横版",
+   "sku2": "120*180cm",
+   "skuId": 6159669855126,
+   "volume": 0,
+   "weight": 2700,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "森屿绿意【小花边】-横版",
+   "sku2": "120*200cm",
+   "skuId": 6159669855398,
+   "volume": 0,
+   "weight": 3000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "森屿绿意【小花边】-横版",
+   "sku2": "140*160cm",
+   "skuId": 6159669855330,
+   "volume": 0,
+   "weight": 2800,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "森屿绿意【小花边】-横版",
+   "sku2": "140*200cm",
+   "skuId": 6159669855262,
+   "volume": 0,
+   "weight": 3500,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "森屿绿意【小花边】-横版",
+   "sku2": "定制联系客服",
+   "skuId": 6159669855160,
+   "volume": 0,
+   "weight": 2000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "青藤小憩【小花边】-横版",
+   "sku2": "50*80cm",
+   "skuId": 6159669855110,
+   "volume": 0,
+   "weight": 500,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "青藤小憩【小花边】-横版",
+   "sku2": "60*90cm",
+   "skuId": 6159669855297,
+   "volume": 0,
+   "weight": 675,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "青藤小憩【小花边】-横版",
+   "sku2": "60*120cm",
+   "skuId": 6159669855382,
+   "volume": 0,
+   "weight": 900,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "青藤小憩【小花边】-横版",
+   "sku2": "60*150cm",
+   "skuId": 6159669855280,
+   "volume": 0,
+   "weight": 1125,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "青藤小憩【小花边】-横版",
+   "sku2": "80*100cm",
+   "skuId": 6159669855348,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "青藤小憩【小花边】-横版",
+   "sku2": "80*120cm",
+   "skuId": 6159669855229,
+   "volume": 0,
+   "weight": 1200,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "青藤小憩【小花边】-横版",
+   "sku2": "100*100cm",
+   "skuId": 6159669855144,
+   "volume": 0,
+   "weight": 1250,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "青藤小憩【小花边】-横版",
+   "sku2": "100*110cm",
+   "skuId": 6159669855178,
+   "volume": 0,
+   "weight": 1375,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "青藤小憩【小花边】-横版",
+   "sku2": "100*120cm",
+   "skuId": 6159669855195,
+   "volume": 0,
+   "weight": 1500,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "青藤小憩【小花边】-横版",
+   "sku2": "100*140cm",
+   "skuId": 6159669855212,
+   "volume": 0,
+   "weight": 1750,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "青藤小憩【小花边】-横版",
+   "sku2": "100*160cm",
+   "skuId": 6159669855416,
+   "volume": 0,
+   "weight": 2000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "青藤小憩【小花边】-横版",
+   "sku2": "120*120cm",
+   "skuId": 6159669855246,
+   "volume": 0,
+   "weight": 1800,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "青藤小憩【小花边】-横版",
+   "sku2": "120*140cm",
+   "skuId": 6159669855314,
+   "volume": 0,
+   "weight": 2100,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "青藤小憩【小花边】-横版",
+   "sku2": "120*160cm",
+   "skuId": 6159669855365,
+   "volume": 0,
+   "weight": 2400,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "青藤小憩【小花边】-横版",
+   "sku2": "120*180cm",
+   "skuId": 6159669855127,
+   "volume": 0,
+   "weight": 2700,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "青藤小憩【小花边】-横版",
+   "sku2": "120*200cm",
+   "skuId": 6159669855399,
+   "volume": 0,
+   "weight": 3000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "青藤小憩【小花边】-横版",
+   "sku2": "140*160cm",
+   "skuId": 6159669855331,
+   "volume": 0,
+   "weight": 2800,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "青藤小憩【小花边】-横版",
+   "sku2": "140*200cm",
+   "skuId": 6159669855263,
+   "volume": 0,
+   "weight": 3500,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "青藤小憩【小花边】-横版",
+   "sku2": "定制联系客服",
+   "skuId": 6159669855161,
+   "volume": 0,
+   "weight": 2000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "青格絮梦【小花边】-横版",
+   "sku2": "50*80cm",
+   "skuId": 6159669855111,
+   "volume": 0,
+   "weight": 500,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "青格絮梦【小花边】-横版",
+   "sku2": "60*90cm",
+   "skuId": 6159669855298,
+   "volume": 0,
+   "weight": 675,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "青格絮梦【小花边】-横版",
+   "sku2": "60*120cm",
+   "skuId": 6159669855383,
+   "volume": 0,
+   "weight": 900,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "青格絮梦【小花边】-横版",
+   "sku2": "60*150cm",
+   "skuId": 6159669855281,
+   "volume": 0,
+   "weight": 1125,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "青格絮梦【小花边】-横版",
+   "sku2": "80*100cm",
+   "skuId": 6159669855349,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "青格絮梦【小花边】-横版",
+   "sku2": "80*120cm",
+   "skuId": 6159669855230,
+   "volume": 0,
+   "weight": 1200,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "青格絮梦【小花边】-横版",
+   "sku2": "100*100cm",
+   "skuId": 6159669855145,
+   "volume": 0,
+   "weight": 1250,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "青格絮梦【小花边】-横版",
+   "sku2": "100*110cm",
+   "skuId": 6159669855179,
+   "volume": 0,
+   "weight": 1375,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "青格絮梦【小花边】-横版",
+   "sku2": "100*120cm",
+   "skuId": 6159669855196,
+   "volume": 0,
+   "weight": 1500,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "青格絮梦【小花边】-横版",
+   "sku2": "100*140cm",
+   "skuId": 6159669855213,
+   "volume": 0,
+   "weight": 1750,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "青格絮梦【小花边】-横版",
+   "sku2": "100*160cm",
+   "skuId": 6159669855417,
+   "volume": 0,
+   "weight": 2000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "青格絮梦【小花边】-横版",
+   "sku2": "120*120cm",
+   "skuId": 6159669855247,
+   "volume": 0,
+   "weight": 1800,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "青格絮梦【小花边】-横版",
+   "sku2": "120*140cm",
+   "skuId": 6159669855315,
+   "volume": 0,
+   "weight": 2100,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "青格絮梦【小花边】-横版",
+   "sku2": "120*160cm",
+   "skuId": 6159669855366,
+   "volume": 0,
+   "weight": 2400,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "青格絮梦【小花边】-横版",
+   "sku2": "120*180cm",
+   "skuId": 6159669855128,
+   "volume": 0,
+   "weight": 2700,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "青格絮梦【小花边】-横版",
+   "sku2": "120*200cm",
+   "skuId": 6159669855400,
+   "volume": 0,
+   "weight": 3000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "青格絮梦【小花边】-横版",
+   "sku2": "140*160cm",
+   "skuId": 6159669855332,
+   "volume": 0,
+   "weight": 2800,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "青格絮梦【小花边】-横版",
+   "sku2": "140*200cm",
+   "skuId": 6159669855264,
+   "volume": 0,
+   "weight": 3500,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "青格絮梦【小花边】-横版",
+   "sku2": "定制联系客服",
+   "skuId": 6159669855162,
+   "volume": 0,
+   "weight": 2000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "森系涟漪【小花边】-横版",
+   "sku2": "50*80cm",
+   "skuId": 6159669855112,
+   "volume": 0,
+   "weight": 500,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "森系涟漪【小花边】-横版",
+   "sku2": "60*90cm",
+   "skuId": 6159669855299,
+   "volume": 0,
+   "weight": 675,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "森系涟漪【小花边】-横版",
+   "sku2": "60*120cm",
+   "skuId": 6159669855384,
+   "volume": 0,
+   "weight": 900,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "森系涟漪【小花边】-横版",
+   "sku2": "60*150cm",
+   "skuId": 6159669855282,
+   "volume": 0,
+   "weight": 1125,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "森系涟漪【小花边】-横版",
+   "sku2": "80*100cm",
+   "skuId": 6159669855350,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "森系涟漪【小花边】-横版",
+   "sku2": "80*120cm",
+   "skuId": 6159669855231,
+   "volume": 0,
+   "weight": 1200,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "森系涟漪【小花边】-横版",
+   "sku2": "100*100cm",
+   "skuId": 6159669855146,
+   "volume": 0,
+   "weight": 1250,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "森系涟漪【小花边】-横版",
+   "sku2": "100*110cm",
+   "skuId": 6159669855180,
+   "volume": 0,
+   "weight": 1375,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "森系涟漪【小花边】-横版",
+   "sku2": "100*120cm",
+   "skuId": 6159669855197,
+   "volume": 0,
+   "weight": 1500,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "森系涟漪【小花边】-横版",
+   "sku2": "100*140cm",
+   "skuId": 6159669855214,
+   "volume": 0,
+   "weight": 1750,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "森系涟漪【小花边】-横版",
+   "sku2": "100*160cm",
+   "skuId": 6159669855418,
+   "volume": 0,
+   "weight": 2000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "森系涟漪【小花边】-横版",
+   "sku2": "120*120cm",
+   "skuId": 6159669855248,
+   "volume": 0,
+   "weight": 1800,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "森系涟漪【小花边】-横版",
+   "sku2": "120*140cm",
+   "skuId": 6159669855316,
+   "volume": 0,
+   "weight": 2100,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "森系涟漪【小花边】-横版",
+   "sku2": "120*160cm",
+   "skuId": 6159669855367,
+   "volume": 0,
+   "weight": 2400,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "森系涟漪【小花边】-横版",
+   "sku2": "120*180cm",
+   "skuId": 6159669855129,
+   "volume": 0,
+   "weight": 2700,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "森系涟漪【小花边】-横版",
+   "sku2": "120*200cm",
+   "skuId": 6159669855401,
+   "volume": 0,
+   "weight": 3000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "森系涟漪【小花边】-横版",
+   "sku2": "140*160cm",
+   "skuId": 6159669855333,
+   "volume": 0,
+   "weight": 2800,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "森系涟漪【小花边】-横版",
+   "sku2": "140*200cm",
+   "skuId": 6159669855265,
+   "volume": 0,
+   "weight": 3500,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "森系涟漪【小花边】-横版",
+   "sku2": "定制联系客服",
+   "skuId": 6159669855163,
+   "volume": 0,
+   "weight": 2000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "柔棕漫语【小花边】-横版",
+   "sku2": "50*80cm",
+   "skuId": 6159669855113,
+   "volume": 0,
+   "weight": 500,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "柔棕漫语【小花边】-横版",
+   "sku2": "60*90cm",
+   "skuId": 6159669855300,
+   "volume": 0,
+   "weight": 675,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "柔棕漫语【小花边】-横版",
+   "sku2": "60*120cm",
+   "skuId": 6159669855385,
+   "volume": 0,
+   "weight": 900,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "柔棕漫语【小花边】-横版",
+   "sku2": "60*150cm",
+   "skuId": 6159669855283,
+   "volume": 0,
+   "weight": 1125,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "柔棕漫语【小花边】-横版",
+   "sku2": "80*100cm",
+   "skuId": 6159669855351,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "柔棕漫语【小花边】-横版",
+   "sku2": "80*120cm",
+   "skuId": 6159669855232,
+   "volume": 0,
+   "weight": 1200,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "柔棕漫语【小花边】-横版",
+   "sku2": "100*100cm",
+   "skuId": 6159669855147,
+   "volume": 0,
+   "weight": 1250,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "柔棕漫语【小花边】-横版",
+   "sku2": "100*110cm",
+   "skuId": 6159669855181,
+   "volume": 0,
+   "weight": 1375,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "柔棕漫语【小花边】-横版",
+   "sku2": "100*120cm",
+   "skuId": 6159669855198,
+   "volume": 0,
+   "weight": 1500,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "柔棕漫语【小花边】-横版",
+   "sku2": "100*140cm",
+   "skuId": 6159669855215,
+   "volume": 0,
+   "weight": 1750,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "柔棕漫语【小花边】-横版",
+   "sku2": "100*160cm",
+   "skuId": 6159669855419,
+   "volume": 0,
+   "weight": 2000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "柔棕漫语【小花边】-横版",
+   "sku2": "120*120cm",
+   "skuId": 6159669855249,
+   "volume": 0,
+   "weight": 1800,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "柔棕漫语【小花边】-横版",
+   "sku2": "120*140cm",
+   "skuId": 6159669855317,
+   "volume": 0,
+   "weight": 2100,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "柔棕漫语【小花边】-横版",
+   "sku2": "120*160cm",
+   "skuId": 6159669855368,
+   "volume": 0,
+   "weight": 2400,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "柔棕漫语【小花边】-横版",
+   "sku2": "120*180cm",
+   "skuId": 6159669855130,
+   "volume": 0,
+   "weight": 2700,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "柔棕漫语【小花边】-横版",
+   "sku2": "120*200cm",
+   "skuId": 6159669855402,
+   "volume": 0,
+   "weight": 3000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "柔棕漫语【小花边】-横版",
+   "sku2": "140*160cm",
+   "skuId": 6159669855334,
+   "volume": 0,
+   "weight": 2800,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "柔棕漫语【小花边】-横版",
+   "sku2": "140*200cm",
+   "skuId": 6159669855266,
+   "volume": 0,
+   "weight": 3500,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "柔棕漫语【小花边】-横版",
+   "sku2": "定制联系客服",
+   "skuId": 6159669855164,
+   "volume": 0,
+   "weight": 2000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "绯韵漫语【小花边】-横版",
+   "sku2": "50*80cm",
+   "skuId": 6159669855114,
+   "volume": 0,
+   "weight": 500,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "绯韵漫语【小花边】-横版",
+   "sku2": "60*90cm",
+   "skuId": 6159669855301,
+   "volume": 0,
+   "weight": 675,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "绯韵漫语【小花边】-横版",
+   "sku2": "60*120cm",
+   "skuId": 6159669855386,
+   "volume": 0,
+   "weight": 900,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "绯韵漫语【小花边】-横版",
+   "sku2": "60*150cm",
+   "skuId": 6159669855284,
+   "volume": 0,
+   "weight": 1125,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "绯韵漫语【小花边】-横版",
+   "sku2": "80*100cm",
+   "skuId": 6159669855352,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "绯韵漫语【小花边】-横版",
+   "sku2": "80*120cm",
+   "skuId": 6159669855233,
+   "volume": 0,
+   "weight": 1200,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "绯韵漫语【小花边】-横版",
+   "sku2": "100*100cm",
+   "skuId": 6159669855148,
+   "volume": 0,
+   "weight": 1250,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "绯韵漫语【小花边】-横版",
+   "sku2": "100*110cm",
+   "skuId": 6159669855182,
+   "volume": 0,
+   "weight": 1375,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "绯韵漫语【小花边】-横版",
+   "sku2": "100*120cm",
+   "skuId": 6159669855199,
+   "volume": 0,
+   "weight": 1500,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "绯韵漫语【小花边】-横版",
+   "sku2": "100*140cm",
+   "skuId": 6159669855216,
+   "volume": 0,
+   "weight": 1750,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "绯韵漫语【小花边】-横版",
+   "sku2": "100*160cm",
+   "skuId": 6159669855420,
+   "volume": 0,
+   "weight": 2000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "绯韵漫语【小花边】-横版",
+   "sku2": "120*120cm",
+   "skuId": 6159669855250,
+   "volume": 0,
+   "weight": 1800,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "绯韵漫语【小花边】-横版",
+   "sku2": "120*140cm",
+   "skuId": 6159669855318,
+   "volume": 0,
+   "weight": 2100,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "绯韵漫语【小花边】-横版",
+   "sku2": "120*160cm",
+   "skuId": 6159669855369,
+   "volume": 0,
+   "weight": 2400,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "绯韵漫语【小花边】-横版",
+   "sku2": "120*180cm",
+   "skuId": 6159669855131,
+   "volume": 0,
+   "weight": 2700,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "绯韵漫语【小花边】-横版",
+   "sku2": "120*200cm",
+   "skuId": 6159669855403,
+   "volume": 0,
+   "weight": 3000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "绯韵漫语【小花边】-横版",
+   "sku2": "140*160cm",
+   "skuId": 6159669855335,
+   "volume": 0,
+   "weight": 2800,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "绯韵漫语【小花边】-横版",
+   "sku2": "140*200cm",
+   "skuId": 6159669855267,
+   "volume": 0,
+   "weight": 3500,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "绯韵漫语【小花边】-横版",
+   "sku2": "定制联系客服",
+   "skuId": 6159669855165,
+   "volume": 0,
+   "weight": 2000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "午后碎石小路【小花边】-横版",
+   "sku2": "50*80cm",
+   "skuId": 6159669855115,
+   "volume": 0,
+   "weight": 500,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "午后碎石小路【小花边】-横版",
+   "sku2": "60*90cm",
+   "skuId": 6159669855302,
+   "volume": 0,
+   "weight": 675,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "午后碎石小路【小花边】-横版",
+   "sku2": "60*120cm",
+   "skuId": 6159669855387,
+   "volume": 0,
+   "weight": 900,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "午后碎石小路【小花边】-横版",
+   "sku2": "60*150cm",
+   "skuId": 6159669855285,
+   "volume": 0,
+   "weight": 1125,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "午后碎石小路【小花边】-横版",
+   "sku2": "80*100cm",
+   "skuId": 6159669855353,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "午后碎石小路【小花边】-横版",
+   "sku2": "80*120cm",
+   "skuId": 6159669855234,
+   "volume": 0,
+   "weight": 1200,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "午后碎石小路【小花边】-横版",
+   "sku2": "100*100cm",
+   "skuId": 6159669855149,
+   "volume": 0,
+   "weight": 1250,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "午后碎石小路【小花边】-横版",
+   "sku2": "100*110cm",
+   "skuId": 6159669855183,
+   "volume": 0,
+   "weight": 1375,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "午后碎石小路【小花边】-横版",
+   "sku2": "100*120cm",
+   "skuId": 6159669855200,
+   "volume": 0,
+   "weight": 1500,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "午后碎石小路【小花边】-横版",
+   "sku2": "100*140cm",
+   "skuId": 6159669855217,
+   "volume": 0,
+   "weight": 1750,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "午后碎石小路【小花边】-横版",
+   "sku2": "100*160cm",
+   "skuId": 6159669855421,
+   "volume": 0,
+   "weight": 2000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "午后碎石小路【小花边】-横版",
+   "sku2": "120*120cm",
+   "skuId": 6159669855251,
+   "volume": 0,
+   "weight": 1800,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "午后碎石小路【小花边】-横版",
+   "sku2": "120*140cm",
+   "skuId": 6159669855319,
+   "volume": 0,
+   "weight": 2100,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "午后碎石小路【小花边】-横版",
+   "sku2": "120*160cm",
+   "skuId": 6159669855370,
+   "volume": 0,
+   "weight": 2400,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "午后碎石小路【小花边】-横版",
+   "sku2": "120*180cm",
+   "skuId": 6159669855132,
+   "volume": 0,
+   "weight": 2700,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "午后碎石小路【小花边】-横版",
+   "sku2": "120*200cm",
+   "skuId": 6159669855404,
+   "volume": 0,
+   "weight": 3000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "午后碎石小路【小花边】-横版",
+   "sku2": "140*160cm",
+   "skuId": 6159669855336,
+   "volume": 0,
+   "weight": 2800,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "午后碎石小路【小花边】-横版",
+   "sku2": "140*200cm",
+   "skuId": 6159669855268,
+   "volume": 0,
+   "weight": 3500,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "午后碎石小路【小花边】-横版",
+   "sku2": "定制联系客服",
+   "skuId": 6159669855166,
+   "volume": 0,
+   "weight": 2000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "春日抹茶序曲【小花边】-竖版",
+   "sku2": "50*80cm",
+   "skuId": 6159669855116,
+   "volume": 0,
+   "weight": 500,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "春日抹茶序曲【小花边】-竖版",
+   "sku2": "60*90cm",
+   "skuId": 6159669855303,
+   "volume": 0,
+   "weight": 675,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "春日抹茶序曲【小花边】-竖版",
+   "sku2": "60*120cm",
+   "skuId": 6159669855388,
+   "volume": 0,
+   "weight": 900,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "春日抹茶序曲【小花边】-竖版",
+   "sku2": "60*150cm",
+   "skuId": 6159669855286,
+   "volume": 0,
+   "weight": 1125,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "春日抹茶序曲【小花边】-竖版",
+   "sku2": "80*100cm",
+   "skuId": 6159669855354,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "春日抹茶序曲【小花边】-竖版",
+   "sku2": "80*120cm",
+   "skuId": 6159669855235,
+   "volume": 0,
+   "weight": 1200,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "春日抹茶序曲【小花边】-竖版",
+   "sku2": "100*100cm",
+   "skuId": 6159669855150,
+   "volume": 0,
+   "weight": 1250,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "春日抹茶序曲【小花边】-竖版",
+   "sku2": "100*110cm",
+   "skuId": 6159669855184,
+   "volume": 0,
+   "weight": 1375,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "春日抹茶序曲【小花边】-竖版",
+   "sku2": "100*120cm",
+   "skuId": 6159669855201,
+   "volume": 0,
+   "weight": 1500,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "春日抹茶序曲【小花边】-竖版",
+   "sku2": "100*140cm",
+   "skuId": 6159669855218,
+   "volume": 0,
+   "weight": 1750,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "春日抹茶序曲【小花边】-竖版",
+   "sku2": "100*160cm",
+   "skuId": 6159669855422,
+   "volume": 0,
+   "weight": 2000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "春日抹茶序曲【小花边】-竖版",
+   "sku2": "120*120cm",
+   "skuId": 6159669855252,
+   "volume": 0,
+   "weight": 1800,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "春日抹茶序曲【小花边】-竖版",
+   "sku2": "120*140cm",
+   "skuId": 6159669855320,
+   "volume": 0,
+   "weight": 2100,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "春日抹茶序曲【小花边】-竖版",
+   "sku2": "120*160cm",
+   "skuId": 6159669855371,
+   "volume": 0,
+   "weight": 2400,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "春日抹茶序曲【小花边】-竖版",
+   "sku2": "120*180cm",
+   "skuId": 6159669855133,
+   "volume": 0,
+   "weight": 2700,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "春日抹茶序曲【小花边】-竖版",
+   "sku2": "120*200cm",
+   "skuId": 6159669855405,
+   "volume": 0,
+   "weight": 3000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "春日抹茶序曲【小花边】-竖版",
+   "sku2": "140*160cm",
+   "skuId": 6159669855337,
+   "volume": 0,
+   "weight": 2800,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "春日抹茶序曲【小花边】-竖版",
+   "sku2": "140*200cm",
+   "skuId": 6159669855269,
+   "volume": 0,
+   "weight": 3500,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "春日抹茶序曲【小花边】-竖版",
+   "sku2": "定制联系客服",
+   "skuId": 6159669855167,
+   "volume": 0,
+   "weight": 2000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "森屿几何【小花边】-竖版",
+   "sku2": "50*80cm",
+   "skuId": 6159669855117,
+   "volume": 0,
+   "weight": 500,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "森屿几何【小花边】-竖版",
+   "sku2": "60*90cm",
+   "skuId": 6159669855304,
+   "volume": 0,
+   "weight": 675,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "森屿几何【小花边】-竖版",
+   "sku2": "60*120cm",
+   "skuId": 6159669855389,
+   "volume": 0,
+   "weight": 900,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "森屿几何【小花边】-竖版",
+   "sku2": "60*150cm",
+   "skuId": 6159669855287,
+   "volume": 0,
+   "weight": 1125,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "森屿几何【小花边】-竖版",
+   "sku2": "80*100cm",
+   "skuId": 6159669855355,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "森屿几何【小花边】-竖版",
+   "sku2": "80*120cm",
+   "skuId": 6159669855236,
+   "volume": 0,
+   "weight": 1200,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "森屿几何【小花边】-竖版",
+   "sku2": "100*100cm",
+   "skuId": 6159669855151,
+   "volume": 0,
+   "weight": 1250,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "森屿几何【小花边】-竖版",
+   "sku2": "100*110cm",
+   "skuId": 6159669855185,
+   "volume": 0,
+   "weight": 1375,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "森屿几何【小花边】-竖版",
+   "sku2": "100*120cm",
+   "skuId": 6159669855202,
+   "volume": 0,
+   "weight": 1500,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "森屿几何【小花边】-竖版",
+   "sku2": "100*140cm",
+   "skuId": 6159669855219,
+   "volume": 0,
+   "weight": 1750,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "森屿几何【小花边】-竖版",
+   "sku2": "100*160cm",
+   "skuId": 6159669855423,
+   "volume": 0,
+   "weight": 2000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "森屿几何【小花边】-竖版",
+   "sku2": "120*120cm",
+   "skuId": 6159669855253,
+   "volume": 0,
+   "weight": 1800,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "森屿几何【小花边】-竖版",
+   "sku2": "120*140cm",
+   "skuId": 6159669855321,
+   "volume": 0,
+   "weight": 2100,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "森屿几何【小花边】-竖版",
+   "sku2": "120*160cm",
+   "skuId": 6159669855372,
+   "volume": 0,
+   "weight": 2400,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "森屿几何【小花边】-竖版",
+   "sku2": "120*180cm",
+   "skuId": 6159669855134,
+   "volume": 0,
+   "weight": 2700,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "森屿几何【小花边】-竖版",
+   "sku2": "120*200cm",
+   "skuId": 6159669855406,
+   "volume": 0,
+   "weight": 3000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "森屿几何【小花边】-竖版",
+   "sku2": "140*160cm",
+   "skuId": 6159669855338,
+   "volume": 0,
+   "weight": 2800,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "森屿几何【小花边】-竖版",
+   "sku2": "140*200cm",
+   "skuId": 6159669855270,
+   "volume": 0,
+   "weight": 3500,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "森屿几何【小花边】-竖版",
+   "sku2": "定制联系客服",
+   "skuId": 6159669855168,
+   "volume": 0,
+   "weight": 2000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "森屿绿意【小花边】-竖版",
+   "sku2": "50*80cm",
+   "skuId": 6159669855118,
+   "volume": 0,
+   "weight": 500,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "森屿绿意【小花边】-竖版",
+   "sku2": "60*90cm",
+   "skuId": 6159669855305,
+   "volume": 0,
+   "weight": 675,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "森屿绿意【小花边】-竖版",
+   "sku2": "60*120cm",
+   "skuId": 6159669855390,
+   "volume": 0,
+   "weight": 900,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "森屿绿意【小花边】-竖版",
+   "sku2": "60*150cm",
+   "skuId": 6159669855288,
+   "volume": 0,
+   "weight": 1125,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "森屿绿意【小花边】-竖版",
+   "sku2": "80*100cm",
+   "skuId": 6159669855356,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "森屿绿意【小花边】-竖版",
+   "sku2": "80*120cm",
+   "skuId": 6159669855237,
+   "volume": 0,
+   "weight": 1200,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "森屿绿意【小花边】-竖版",
+   "sku2": "100*100cm",
+   "skuId": 6159669855152,
+   "volume": 0,
+   "weight": 1250,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "森屿绿意【小花边】-竖版",
+   "sku2": "100*110cm",
+   "skuId": 6159669855186,
+   "volume": 0,
+   "weight": 1375,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "森屿绿意【小花边】-竖版",
+   "sku2": "100*120cm",
+   "skuId": 6159669855203,
+   "volume": 0,
+   "weight": 1500,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "森屿绿意【小花边】-竖版",
+   "sku2": "100*140cm",
+   "skuId": 6159669855220,
+   "volume": 0,
+   "weight": 1750,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "森屿绿意【小花边】-竖版",
+   "sku2": "100*160cm",
+   "skuId": 6159669855424,
+   "volume": 0,
+   "weight": 2000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "森屿绿意【小花边】-竖版",
+   "sku2": "120*120cm",
+   "skuId": 6159669855254,
+   "volume": 0,
+   "weight": 1800,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "森屿绿意【小花边】-竖版",
+   "sku2": "120*140cm",
+   "skuId": 6159669855322,
+   "volume": 0,
+   "weight": 2100,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "森屿绿意【小花边】-竖版",
+   "sku2": "120*160cm",
+   "skuId": 6159669855373,
+   "volume": 0,
+   "weight": 2400,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "森屿绿意【小花边】-竖版",
+   "sku2": "120*180cm",
+   "skuId": 6159669855135,
+   "volume": 0,
+   "weight": 2700,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "森屿绿意【小花边】-竖版",
+   "sku2": "120*200cm",
+   "skuId": 6159669855407,
+   "volume": 0,
+   "weight": 3000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "森屿绿意【小花边】-竖版",
+   "sku2": "140*160cm",
+   "skuId": 6159669855339,
+   "volume": 0,
+   "weight": 2800,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "森屿绿意【小花边】-竖版",
+   "sku2": "140*200cm",
+   "skuId": 6159669855271,
+   "volume": 0,
+   "weight": 3500,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "森屿绿意【小花边】-竖版",
+   "sku2": "定制联系客服",
+   "skuId": 6159669855169,
+   "volume": 0,
+   "weight": 2000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "青藤小憩【小花边】-竖版",
+   "sku2": "50*80cm",
+   "skuId": 6159669855119,
+   "volume": 0,
+   "weight": 500,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "青藤小憩【小花边】-竖版",
+   "sku2": "60*90cm",
+   "skuId": 6159669855306,
+   "volume": 0,
+   "weight": 675,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "青藤小憩【小花边】-竖版",
+   "sku2": "60*120cm",
+   "skuId": 6159669855391,
+   "volume": 0,
+   "weight": 900,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "青藤小憩【小花边】-竖版",
+   "sku2": "60*150cm",
+   "skuId": 6159669855289,
+   "volume": 0,
+   "weight": 1125,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "青藤小憩【小花边】-竖版",
+   "sku2": "80*100cm",
+   "skuId": 6159669855357,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "青藤小憩【小花边】-竖版",
+   "sku2": "80*120cm",
+   "skuId": 6159669855238,
+   "volume": 0,
+   "weight": 1200,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "青藤小憩【小花边】-竖版",
+   "sku2": "100*100cm",
+   "skuId": 6159669855153,
+   "volume": 0,
+   "weight": 1250,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "青藤小憩【小花边】-竖版",
+   "sku2": "100*110cm",
+   "skuId": 6159669855187,
+   "volume": 0,
+   "weight": 1375,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "青藤小憩【小花边】-竖版",
+   "sku2": "100*120cm",
+   "skuId": 6159669855204,
+   "volume": 0,
+   "weight": 1500,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "青藤小憩【小花边】-竖版",
+   "sku2": "100*140cm",
+   "skuId": 6159669855221,
+   "volume": 0,
+   "weight": 1750,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "青藤小憩【小花边】-竖版",
+   "sku2": "100*160cm",
+   "skuId": 6159669855425,
+   "volume": 0,
+   "weight": 2000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "青藤小憩【小花边】-竖版",
+   "sku2": "120*120cm",
+   "skuId": 6159669855255,
+   "volume": 0,
+   "weight": 1800,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "青藤小憩【小花边】-竖版",
+   "sku2": "120*140cm",
+   "skuId": 6159669855323,
+   "volume": 0,
+   "weight": 2100,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "青藤小憩【小花边】-竖版",
+   "sku2": "120*160cm",
+   "skuId": 6159669855374,
+   "volume": 0,
+   "weight": 2400,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "青藤小憩【小花边】-竖版",
+   "sku2": "120*180cm",
+   "skuId": 6159669855136,
+   "volume": 0,
+   "weight": 2700,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "青藤小憩【小花边】-竖版",
+   "sku2": "120*200cm",
+   "skuId": 6159669855408,
+   "volume": 0,
+   "weight": 3000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "青藤小憩【小花边】-竖版",
+   "sku2": "140*160cm",
+   "skuId": 6159669855340,
+   "volume": 0,
+   "weight": 2800,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "青藤小憩【小花边】-竖版",
+   "sku2": "140*200cm",
+   "skuId": 6159669855272,
+   "volume": 0,
+   "weight": 3500,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "青藤小憩【小花边】-竖版",
+   "sku2": "定制联系客服",
+   "skuId": 6159669855170,
+   "volume": 0,
+   "weight": 2000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "青格絮梦【小花边】-竖版",
+   "sku2": "50*80cm",
+   "skuId": 6159669855120,
+   "volume": 0,
+   "weight": 500,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "青格絮梦【小花边】-竖版",
+   "sku2": "60*90cm",
+   "skuId": 6159669855307,
+   "volume": 0,
+   "weight": 675,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "青格絮梦【小花边】-竖版",
+   "sku2": "60*120cm",
+   "skuId": 6159669855392,
+   "volume": 0,
+   "weight": 900,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "青格絮梦【小花边】-竖版",
+   "sku2": "60*150cm",
+   "skuId": 6159669855290,
+   "volume": 0,
+   "weight": 1125,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "青格絮梦【小花边】-竖版",
+   "sku2": "80*100cm",
+   "skuId": 6159669855358,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "青格絮梦【小花边】-竖版",
+   "sku2": "80*120cm",
+   "skuId": 6159669855239,
+   "volume": 0,
+   "weight": 1200,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "青格絮梦【小花边】-竖版",
+   "sku2": "100*100cm",
+   "skuId": 6159669855154,
+   "volume": 0,
+   "weight": 1250,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "青格絮梦【小花边】-竖版",
+   "sku2": "100*110cm",
+   "skuId": 6159669855188,
+   "volume": 0,
+   "weight": 1375,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "青格絮梦【小花边】-竖版",
+   "sku2": "100*120cm",
+   "skuId": 6159669855205,
+   "volume": 0,
+   "weight": 1500,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "青格絮梦【小花边】-竖版",
+   "sku2": "100*140cm",
+   "skuId": 6159669855222,
+   "volume": 0,
+   "weight": 1750,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "青格絮梦【小花边】-竖版",
+   "sku2": "100*160cm",
+   "skuId": 6159669855426,
+   "volume": 0,
+   "weight": 2000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "青格絮梦【小花边】-竖版",
+   "sku2": "120*120cm",
+   "skuId": 6159669855256,
+   "volume": 0,
+   "weight": 1800,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "青格絮梦【小花边】-竖版",
+   "sku2": "120*140cm",
+   "skuId": 6159669855324,
+   "volume": 0,
+   "weight": 2100,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "青格絮梦【小花边】-竖版",
+   "sku2": "120*160cm",
+   "skuId": 6159669855375,
+   "volume": 0,
+   "weight": 2400,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "青格絮梦【小花边】-竖版",
+   "sku2": "120*180cm",
+   "skuId": 6159669855137,
+   "volume": 0,
+   "weight": 2700,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "青格絮梦【小花边】-竖版",
+   "sku2": "120*200cm",
+   "skuId": 6159669855409,
+   "volume": 0,
+   "weight": 3000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "青格絮梦【小花边】-竖版",
+   "sku2": "140*160cm",
+   "skuId": 6159669855341,
+   "volume": 0,
+   "weight": 2800,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "青格絮梦【小花边】-竖版",
+   "sku2": "140*200cm",
+   "skuId": 6159669855273,
+   "volume": 0,
+   "weight": 3500,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "青格絮梦【小花边】-竖版",
+   "sku2": "定制联系客服",
+   "skuId": 6159669855171,
+   "volume": 0,
+   "weight": 2000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "森系涟漪【小花边】-竖版",
+   "sku2": "50*80cm",
+   "skuId": 6159669855121,
+   "volume": 0,
+   "weight": 500,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "森系涟漪【小花边】-竖版",
+   "sku2": "60*90cm",
+   "skuId": 6159669855308,
+   "volume": 0,
+   "weight": 675,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "森系涟漪【小花边】-竖版",
+   "sku2": "60*120cm",
+   "skuId": 6159669855393,
+   "volume": 0,
+   "weight": 900,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "森系涟漪【小花边】-竖版",
+   "sku2": "60*150cm",
+   "skuId": 6159669855291,
+   "volume": 0,
+   "weight": 1125,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "森系涟漪【小花边】-竖版",
+   "sku2": "80*100cm",
+   "skuId": 6159669855359,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "森系涟漪【小花边】-竖版",
+   "sku2": "80*120cm",
+   "skuId": 6159669855240,
+   "volume": 0,
+   "weight": 1200,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "森系涟漪【小花边】-竖版",
+   "sku2": "100*100cm",
+   "skuId": 6159669855155,
+   "volume": 0,
+   "weight": 1250,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "森系涟漪【小花边】-竖版",
+   "sku2": "100*110cm",
+   "skuId": 6159669855189,
+   "volume": 0,
+   "weight": 1375,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "森系涟漪【小花边】-竖版",
+   "sku2": "100*120cm",
+   "skuId": 6159669855206,
+   "volume": 0,
+   "weight": 1500,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "森系涟漪【小花边】-竖版",
+   "sku2": "100*140cm",
+   "skuId": 6159669855223,
+   "volume": 0,
+   "weight": 1750,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "森系涟漪【小花边】-竖版",
+   "sku2": "100*160cm",
+   "skuId": 6159669855427,
+   "volume": 0,
+   "weight": 2000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "森系涟漪【小花边】-竖版",
+   "sku2": "120*120cm",
+   "skuId": 6159669855257,
+   "volume": 0,
+   "weight": 1800,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "森系涟漪【小花边】-竖版",
+   "sku2": "120*140cm",
+   "skuId": 6159669855325,
+   "volume": 0,
+   "weight": 2100,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "森系涟漪【小花边】-竖版",
+   "sku2": "120*160cm",
+   "skuId": 6159669855376,
+   "volume": 0,
+   "weight": 2400,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "森系涟漪【小花边】-竖版",
+   "sku2": "120*180cm",
+   "skuId": 6159669855138,
+   "volume": 0,
+   "weight": 2700,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "森系涟漪【小花边】-竖版",
+   "sku2": "120*200cm",
+   "skuId": 6159669855410,
+   "volume": 0,
+   "weight": 3000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "森系涟漪【小花边】-竖版",
+   "sku2": "140*160cm",
+   "skuId": 6159669855342,
+   "volume": 0,
+   "weight": 2800,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "森系涟漪【小花边】-竖版",
+   "sku2": "140*200cm",
+   "skuId": 6159669855274,
+   "volume": 0,
+   "weight": 3500,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "森系涟漪【小花边】-竖版",
+   "sku2": "定制联系客服",
+   "skuId": 6159669855172,
+   "volume": 0,
+   "weight": 2000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "柔棕漫语【小花边】-竖版",
+   "sku2": "50*80cm",
+   "skuId": 6140601187559,
+   "volume": 0,
+   "weight": 500,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "柔棕漫语【小花边】-竖版",
+   "sku2": "60*90cm",
+   "skuId": 6140601187560,
+   "volume": 0,
+   "weight": 675,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "柔棕漫语【小花边】-竖版",
+   "sku2": "60*120cm",
+   "skuId": 6140601187561,
+   "volume": 0,
+   "weight": 900,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "柔棕漫语【小花边】-竖版",
+   "sku2": "60*150cm",
+   "skuId": 6140601187562,
+   "volume": 0,
+   "weight": 1125,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "柔棕漫语【小花边】-竖版",
+   "sku2": "80*100cm",
+   "skuId": 6140601187563,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "柔棕漫语【小花边】-竖版",
+   "sku2": "80*120cm",
+   "skuId": 6140601187564,
+   "volume": 0,
+   "weight": 1200,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "柔棕漫语【小花边】-竖版",
+   "sku2": "100*100cm",
+   "skuId": 6140601187565,
+   "volume": 0,
+   "weight": 1250,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "柔棕漫语【小花边】-竖版",
+   "sku2": "100*110cm",
+   "skuId": 6140601187566,
+   "volume": 0,
+   "weight": 1375,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "柔棕漫语【小花边】-竖版",
+   "sku2": "100*120cm",
+   "skuId": 6140601187567,
+   "volume": 0,
+   "weight": 1500,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "柔棕漫语【小花边】-竖版",
+   "sku2": "100*140cm",
+   "skuId": 6140601187568,
+   "volume": 0,
+   "weight": 1750,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "柔棕漫语【小花边】-竖版",
+   "sku2": "100*160cm",
+   "skuId": 6140601187569,
+   "volume": 0,
+   "weight": 2000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "柔棕漫语【小花边】-竖版",
+   "sku2": "120*120cm",
+   "skuId": 6140601187570,
+   "volume": 0,
+   "weight": 1800,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "柔棕漫语【小花边】-竖版",
+   "sku2": "120*140cm",
+   "skuId": 6140601187571,
+   "volume": 0,
+   "weight": 2100,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "柔棕漫语【小花边】-竖版",
+   "sku2": "120*160cm",
+   "skuId": 6140601187572,
+   "volume": 0,
+   "weight": 2400,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "柔棕漫语【小花边】-竖版",
+   "sku2": "120*180cm",
+   "skuId": 6140601187573,
+   "volume": 0,
+   "weight": 2700,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "柔棕漫语【小花边】-竖版",
+   "sku2": "120*200cm",
+   "skuId": 6140601187574,
+   "volume": 0,
+   "weight": 3000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "柔棕漫语【小花边】-竖版",
+   "sku2": "140*160cm",
+   "skuId": 6140601187575,
+   "volume": 0,
+   "weight": 2800,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "柔棕漫语【小花边】-竖版",
+   "sku2": "140*200cm",
+   "skuId": 6140601187576,
+   "volume": 0,
+   "weight": 3500,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "柔棕漫语【小花边】-竖版",
+   "sku2": "定制联系客服",
+   "skuId": 6140601187577,
+   "volume": 0,
+   "weight": 2000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "绯韵漫语【小花边】-竖版",
+   "sku2": "50*80cm",
+   "skuId": 6159669855122,
+   "volume": 0,
+   "weight": 500,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "绯韵漫语【小花边】-竖版",
+   "sku2": "60*90cm",
+   "skuId": 6159669855309,
+   "volume": 0,
+   "weight": 675,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "绯韵漫语【小花边】-竖版",
+   "sku2": "60*120cm",
+   "skuId": 6159669855394,
+   "volume": 0,
+   "weight": 900,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "绯韵漫语【小花边】-竖版",
+   "sku2": "60*150cm",
+   "skuId": 6159669855292,
+   "volume": 0,
+   "weight": 1125,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "绯韵漫语【小花边】-竖版",
+   "sku2": "80*100cm",
+   "skuId": 6159669855360,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "绯韵漫语【小花边】-竖版",
+   "sku2": "80*120cm",
+   "skuId": 6159669855241,
+   "volume": 0,
+   "weight": 1200,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "绯韵漫语【小花边】-竖版",
+   "sku2": "100*100cm",
+   "skuId": 6159669855156,
+   "volume": 0,
+   "weight": 1250,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "绯韵漫语【小花边】-竖版",
+   "sku2": "100*110cm",
+   "skuId": 6159669855190,
+   "volume": 0,
+   "weight": 1375,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "绯韵漫语【小花边】-竖版",
+   "sku2": "100*120cm",
+   "skuId": 6159669855207,
+   "volume": 0,
+   "weight": 1500,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "绯韵漫语【小花边】-竖版",
+   "sku2": "100*140cm",
+   "skuId": 6159669855224,
+   "volume": 0,
+   "weight": 1750,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "绯韵漫语【小花边】-竖版",
+   "sku2": "100*160cm",
+   "skuId": 6159669855428,
+   "volume": 0,
+   "weight": 2000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "绯韵漫语【小花边】-竖版",
+   "sku2": "120*120cm",
+   "skuId": 6159669855258,
+   "volume": 0,
+   "weight": 1800,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "绯韵漫语【小花边】-竖版",
+   "sku2": "120*140cm",
+   "skuId": 6159669855326,
+   "volume": 0,
+   "weight": 2100,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "绯韵漫语【小花边】-竖版",
+   "sku2": "120*160cm",
+   "skuId": 6159669855377,
+   "volume": 0,
+   "weight": 2400,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "绯韵漫语【小花边】-竖版",
+   "sku2": "120*180cm",
+   "skuId": 6159669855139,
+   "volume": 0,
+   "weight": 2700,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "绯韵漫语【小花边】-竖版",
+   "sku2": "120*200cm",
+   "skuId": 6159669855411,
+   "volume": 0,
+   "weight": 3000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "绯韵漫语【小花边】-竖版",
+   "sku2": "140*160cm",
+   "skuId": 6159669855343,
+   "volume": 0,
+   "weight": 2800,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "绯韵漫语【小花边】-竖版",
+   "sku2": "140*200cm",
+   "skuId": 6159669855275,
+   "volume": 0,
+   "weight": 3500,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "绯韵漫语【小花边】-竖版",
+   "sku2": "定制联系客服",
+   "skuId": 6159669855173,
+   "volume": 0,
+   "weight": 2000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "午后碎石小路【小花边】-竖版",
+   "sku2": "50*80cm",
+   "skuId": 6159669855123,
+   "volume": 0,
+   "weight": 500,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "午后碎石小路【小花边】-竖版",
+   "sku2": "60*90cm",
+   "skuId": 6159669855310,
+   "volume": 0,
+   "weight": 675,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "午后碎石小路【小花边】-竖版",
+   "sku2": "60*120cm",
+   "skuId": 6159669855395,
+   "volume": 0,
+   "weight": 900,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "午后碎石小路【小花边】-竖版",
+   "sku2": "60*150cm",
+   "skuId": 6159669855293,
+   "volume": 0,
+   "weight": 1125,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "午后碎石小路【小花边】-竖版",
+   "sku2": "80*100cm",
+   "skuId": 6159669855361,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "午后碎石小路【小花边】-竖版",
+   "sku2": "80*120cm",
+   "skuId": 6159669855242,
+   "volume": 0,
+   "weight": 1200,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "午后碎石小路【小花边】-竖版",
+   "sku2": "100*100cm",
+   "skuId": 6159669855157,
+   "volume": 0,
+   "weight": 1250,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "午后碎石小路【小花边】-竖版",
+   "sku2": "100*110cm",
+   "skuId": 6159669855191,
+   "volume": 0,
+   "weight": 1375,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "午后碎石小路【小花边】-竖版",
+   "sku2": "100*120cm",
+   "skuId": 6159669855208,
+   "volume": 0,
+   "weight": 1500,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "午后碎石小路【小花边】-竖版",
+   "sku2": "100*140cm",
+   "skuId": 6159669855225,
+   "volume": 0,
+   "weight": 1750,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "午后碎石小路【小花边】-竖版",
+   "sku2": "100*160cm",
+   "skuId": 6159669855429,
+   "volume": 0,
+   "weight": 2000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "午后碎石小路【小花边】-竖版",
+   "sku2": "120*120cm",
+   "skuId": 6159669855259,
+   "volume": 0,
+   "weight": 1800,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "午后碎石小路【小花边】-竖版",
+   "sku2": "120*140cm",
+   "skuId": 6159669855327,
+   "volume": 0,
+   "weight": 2100,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "午后碎石小路【小花边】-竖版",
+   "sku2": "120*160cm",
+   "skuId": 6159669855378,
+   "volume": 0,
+   "weight": 2400,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "午后碎石小路【小花边】-竖版",
+   "sku2": "120*180cm",
+   "skuId": 6159669855140,
+   "volume": 0,
+   "weight": 2700,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "午后碎石小路【小花边】-竖版",
+   "sku2": "120*200cm",
+   "skuId": 6159669855412,
+   "volume": 0,
+   "weight": 3000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "午后碎石小路【小花边】-竖版",
+   "sku2": "140*160cm",
+   "skuId": 6159669855344,
+   "volume": 0,
+   "weight": 2800,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "午后碎石小路【小花边】-竖版",
+   "sku2": "140*200cm",
+   "skuId": 6159669855276,
+   "volume": 0,
+   "weight": 3500,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "午后碎石小路【小花边】-竖版",
+   "sku2": "定制联系客服",
+   "skuId": 6159669855174,
+   "volume": 0,
+   "weight": 2000,
+   "width": 0
+  }
+ ],
+ "单位": "件",
+ "卖家公司": "嘉兴希陌家居有限公司",
+ "可售总量": 303147,
+ "商品属性": [
+  "材质:混纺",
+  "工艺:数码印花",
+  "风格:现代简约",
+  "清洗类型:其他",
+  "形状:方形",
+  "品牌:纤苏",
+  "图案:色块",
+  "加工定制:是",
+  "颜色:森屿几何【小花边】-横版/春日抹茶序曲【小花边】-横/森屿绿意【小花边】-横版/青藤小憩【小花边】-横版/青格絮梦【小花边】-横版/森系涟漪【小花边】-横版/柔棕漫语【小花边】-横版/绯韵漫语【小花边】-横版/午后碎石小路【小花边】-横版/春日抹茶序曲【小花边】-竖版/森屿几何【小花边】-竖版/森屿绿意【小花边】-竖版/青藤小憩【小花边】-竖版/青格絮梦【小花边】-竖版/森系涟漪【小花边】-竖版/柔棕漫语【小花边】-竖版/绯韵漫语【小花边】-竖版/午后碎石小路【小花边】-竖版",
+  "尺寸:50*80cm/60*90cm/60*120cm/60*150cm/80*100cm/80*120cm/100*100cm/100*110cm/100*120cm/100*140cm/100*160cm/120*120cm/120*140cm/120*160cm/120*180cm/120*200cm/140*160cm/140*200cm/定制联系客服",
+  "空间:玄关",
+  "是否有版权或专利:否"
+ ],
+ "已售": 511,
+ "已登录": true,
+ "旺旺名": "桐乡希陌家居有限公司",
+ "标题": "高级感中古风入户门地垫家用门口进门耐脏脚垫专用玄关防滑地毯子",
+ "状态": "PUBLISHED",
+ "类目": "地垫",
+ "规格价格": [
+  {
+   "价格": "40.00",
+   "库存": 886,
+   "规格": "青格絮梦【小花边】-横版&gt;80*100cm"
+  },
+  {
+   "价格": "72.00",
+   "库存": 888,
+   "规格": "青藤小憩【小花边】-横版&gt;120*120cm"
+  },
+  {
+   "价格": "50.00",
+   "库存": 888,
+   "规格": "森屿绿意【小花边】-横版&gt;100*100cm"
+  },
+  {
+   "价格": "55.00",
+   "库存": 888,
+   "规格": "森屿绿意【小花边】-竖版&gt;100*110cm"
+  },
+  {
+   "价格": "72.00",
+   "库存": 887,
+   "规格": "青格絮梦【小花边】-竖版&gt;120*120cm"
+  },
+  {
+   "价格": "20.00",
+   "库存": 888,
+   "规格": "森系涟漪【小花边】-竖版&gt;50*80cm"
+  },
+  {
+   "价格": "20.00",
+   "库存": 888,
+   "规格": "青藤小憩【小花边】-竖版&gt;50*80cm"
+  },
+  {
+   "价格": "60.00",
+   "库存": 888,
+   "规格": "青藤小憩【小花边】-横版&gt;100*120cm"
+  },
+  {
+   "价格": "55.00",
+   "库存": 886,
+   "规格": "春日抹茶序曲【小花边】-横&gt;100*110cm"
+  },
+  {
+   "价格": "48.00",
+   "库存": 887,
+   "规格": "森系涟漪【小花边】-竖版&gt;80*120cm"
+  },
+  {
+   "价格": "36.00",
+   "库存": 888,
+   "规格": "森系涟漪【小花边】-竖版&gt;60*120cm"
+  },
+  {
+   "价格": "20.00",
+   "库存": 888,
+   "规格": "青格絮梦【小花边】-竖版&gt;50*80cm"
+  },
+  {
+   "价格": "45.00",
+   "库存": 888,
+   "规格": "森系涟漪【小花边】-横版&gt;60*150cm"
+  },
+  {
+   "价格": "60.00",
+   "库存": 887,
+   "规格": "柔棕漫语【小花边】-横版&gt;100*120cm"
+  },
+  {
+   "价格": "27.00",
+   "库存": 818,
+   "规格": "森屿几何【小花边】-横版&gt;60*90cm"
+  },
+  {
+   "价格": "48.00",
+   "库存": 888,
+   "规格": "青格絮梦【小花边】-竖版&gt;80*120cm"
+  },
+  {
+   "价格": "27.00",
+   "库存": 883,
+   "规格": "柔棕漫语【小花边】-横版&gt;60*90cm"
+  },
+  {
+   "价格": "55.00",
+   "库存": 888,
+   "规格": "青格絮梦【小花边】-横版&gt;100*110cm"
+  },
+  {
+   "价格": "27.00",
+   "库存": 888,
+   "规格": "绯韵漫语【小花边】-竖版&gt;60*90cm"
+  },
+  {
+   "价格": "55.00",
+   "库存": 886,
+   "规格": "森屿几何【小花边】-竖版&gt;100*110cm"
+  },
+  {
+   "价格": "36.00",
+   "库存": 888,
+   "规格": "青格絮梦【小花边】-竖版&gt;60*120cm"
+  },
+  {
+   "价格": "45.00",
+   "库存": 888,
+   "规格": "柔棕漫语【小花边】-竖版&gt;60*150cm"
+  },
+  {
+   "价格": "72.00",
+   "库存": 888,
+   "规格": "柔棕漫语【小花边】-横版&gt;120*120cm"
+  },
+  {
+   "价格": "65.00",
+   "库存": 888,
+   "规格": "午后碎石小路【小花边】-竖版&gt;定制联系客服"
+  },
+  {
+   "价格": "65.00",
+   "库存": 888,
+   "规格": "午后碎石小路【小花边】-横版&gt;定制联系客服"
+  },
+  {
+   "价格": "140.00",
+   "库存": 888,
+   "规格": "绯韵漫语【小花边】-竖版&gt;140*200cm"
+  },
+  {
+   "价格": "108.00",
+   "库存": 888,
+   "规格": "柔棕漫语【小花边】-竖版&gt;120*180cm"
+  },
+  {
+   "价格": "112.00",
+   "库存": 885,
+   "规格": "森屿几何【小花边】-竖版&gt;140*160cm"
+  },
+  {
+   "价格": "112.00",
+   "库存": 888,
+   "规格": "青格絮梦【小花边】-横版&gt;140*160cm"
+  },
+  {
+   "价格": "55.00",
+   "库存": 888,
+   "规格": "春日抹茶序曲【小花边】-竖版&gt;100*110cm"
+  },
+  {
+   "价格": "96.00",
+   "库存": 887,
+   "规格": "青格絮梦【小花边】-横版&gt;120*160cm"
+  },
+  {
+   "价格": "120.00",
+   "库存": 888,
+   "规格": "绯韵漫语【小花边】-竖版&gt;120*200cm"
+  },
+  {
+   "价格": "65.00",
+   "库存": 888,
+   "规格": "森屿绿意【小花边】-横版&gt;定制联系客服"
+  },
+  {
+   "价格": "120.00",
+   "库存": 888,
+   "规格": "午后碎石小路【小花边】-横版&gt;120*200cm"
+  },
+  {
+   "价格": "50.00",
+   "库存": 883,
+   "规格": "森屿几何【小花边】-横版&gt;100*100cm"
+  },
+  {
+   "价格": "27.00",
+   "库存": 881,
+   "规格": "森屿几何【小花边】-竖版&gt;60*90cm"
+  },
+  {
+   "价格": "140.00",
+   "库存": 888,
+   "规格": "午后碎石小路【小花边】-横版&gt;140*200cm"
+  },
+  {
+   "价格": "36.00",
+   "库存": 888,
+   "规格": "青藤小憩【小花边】-竖版&gt;60*120cm"
+  },
+  {
+   "价格": "27.00",
+   "库存": 888,
+   "规格": "柔棕漫语【小花边】-竖版&gt;60*90cm"
+  },
+  {
+   "价格": "96.00",
+   "库存": 887,
+   "规格": "森系涟漪【小花边】-竖版&gt;120*160cm"
+  },
+  {
+   "价格": "80.00",
+   "库存": 886,
+   "规格": "春日抹茶序曲【小花边】-横&gt;100*160cm"
+  },
+  {
+   "价格": "80.00",
+   "库存": 888,
+   "规格": "青格絮梦【小花边】-横版&gt;100*160cm"
+  },
+  {
+   "价格": "112.00",
+   "库存": 888,
+   "规格": "森系涟漪【小花边】-竖版&gt;140*160cm"
+  },
+  {
+   "价格": "80.00",
+   "库存": 885,
+   "规格": "森屿几何【小花边】-竖版&gt;100*160cm"
+  },
+  {
+   "价格": "108.00",
+   "库存": 888,
+   "规格": "青藤小憩【小花边】-竖版&gt;120*180cm"
+  },
+  {
+   "价格": "40.00",
+   "库存": 887,
+   "规格": "柔棕漫语【小花边】-竖版&gt;80*100cm"
+  },
+  {
+   "价格": "80.00",
+   "库存": 888,
+   "规格": "森系涟漪【小花边】-竖版&gt;100*160cm"
+  },
+  {
+   "价格": "36.00",
+   "库存": 887,
+   "规格": "森屿绿意【小花边】-竖版&gt;60*120cm"
+  },
+  {
+   "价格": "96.00",
+   "库存": 883,
+   "规格": "森屿几何【小花边】-竖版&gt;120*160cm"
+  },
+  {
+   "价格": "84.00",
+   "库存": 888,
+   "规格": "绯韵漫语【小花边】-竖版&gt;120*140cm"
+  },
+  {
+   "价格": "70.00",
+   "库存": 888,
+   "规格": "绯韵漫语【小花边】-竖版&gt;100*140cm"
+  },
+  {
+   "价格": "40.00",
+   "库存": 887,
+   "规格": "森系涟漪【小花边】-横版&gt;80*100cm"
+  },
+  {
+   "价格": "140.00",
+   "库存": 888,
+   "规格": "午后碎石小路【小花边】-竖版&gt;140*200cm"
+  },
+  {
+   "价格": "65.00",
+   "库存": 887,
+   "规格": "青格絮梦【小花边】-竖版&gt;定制联系客服"
+  },
+  {
+   "价格": "65.00",
+   "库存": 888,
+   "规格": "柔棕漫语【小花边】-横版&gt;定制联系客服"
+  },
+  {
+   "价格": "108.00",
+   "库存": 888,
+   "规格": "青格絮梦【小花边】-竖版&gt;120*180cm"
+  },
+  {
+   "价格": "140.00",
+   "库存": 888,
+   "规格": "绯韵漫语【小花边】-横版&gt;140*200cm"
+  },
+  {
+   "价格": "60.00",
+   "库存": 885,
+   "规格": "春日抹茶序曲【小花边】-竖版&gt;100*120cm"
+  },
+  {
+   "价格": "112.00",
+   "库存": 887,
+   "规格": "森屿几何【小花边】-横版&gt;140*160cm"
+  },
+  {
+   "价格": "108.00",
+   "库存": 888,
+   "规格": "青藤小憩【小花边】-横版&gt;120*180cm"
+  },
+  {
+   "价格": "96.00",
+   "库存": 888,
+   "规格": "春日抹茶序曲【小花边】-横&gt;120*160cm"
+  },
+  {
+   "价格": "65.00",
+   "库存": 887,
+   "规格": "森屿绿意【小花边】-竖版&gt;定制联系客服"
+  },
+  {
+   "价格": "80.00",
+   "库存": 887,
+   "规格": "森屿绿意【小花边】-横版&gt;100*160cm"
+  },
+  {
+   "价格": "55.00",
+   "库存": 888,
+   "规格": "青格絮梦【小花边】-竖版&gt;100*110cm"
+  },
+  {
+   "价格": "40.00",
+   "库存": 885,
+   "规格": "森屿绿意【小花边】-横版&gt;80*100cm"
+  },
+  {
+   "价格": "140.00",
+   "库存": 888,
+   "规格": "青藤小憩【小花边】-竖版&gt;140*200cm"
+  },
+  {
+   "价格": "48.00",
+   "库存": 888,
+   "规格": "青藤小憩【小花边】-竖版&gt;80*120cm"
+  },
+  {
+   "价格": "96.00",
+   "库存": 888,
+   "规格": "森屿绿意【小花边】-竖版&gt;120*160cm"
+  },
+  {
+   "价格": "70.00",
+   "库存": 888,
+   "规格": "午后碎石小路【小花边】-竖版&gt;100*140cm"
+  },
+  {
+   "价格": "20.00",
+   "库存": 883,
+   "规格": "森系涟漪【小花边】-横版&gt;50*80cm"
+  },
+  {
+   "价格": "20.00",
+   "库存": 887,
+   "规格": "春日抹茶序曲【小花边】-竖版&gt;50*80cm"
+  },
+  {
+   "价格": "48.00",
+   "库存": 884,
+   "规格": "森屿几何【小花边】-竖版&gt;80*120cm"
+  },
+  {
+   "价格": "108.00",
+   "库存": 888,
+   "规格": "午后碎石小路【小花边】-横版&gt;120*180cm"
+  },
+  {
+   "价格": "70.00",
+   "库存": 888,
+   "规格": "午后碎石小路【小花边】-横版&gt;100*140cm"
+  },
+  {
+   "价格": "48.00",
+   "库存": 887,
+   "规格": "午后碎石小路【小花边】-横版&gt;80*120cm"
+  },
+  {
+   "价格": "60.00",
+   "库存": 888,
+   "规格": "青藤小憩【小花边】-竖版&gt;100*120cm"
+  },
+  {
+   "价格": "50.00",
+   "库存": 887,
+   "规格": "森系涟漪【小花边】-竖版&gt;100*100cm"
+  },
+  {
+   "价格": "120.00",
+   "库存": 888,
+   "规格": "柔棕漫语【小花边】-竖版&gt;120*200cm"
+  },
+  {
+   "价格": "72.00",
+   "库存": 887,
+   "规格": "柔棕漫语【小花边】-竖版&gt;120*120cm"
+  },
+  {
+   "价格": "45.00",
+   "库存": 881,
+   "规格": "森屿几何【小花边】-横版&gt;60*150cm"
+  },
+  {
+   "价格": "65.00",
+   "库存": 886,
+   "规格": "春日抹茶序曲【小花边】-横&gt;定制联系客服"
+  },
+  {
+   "价格": "55.00",
+   "库存": 888,
+   "规格": "青藤小憩【小花边】-横版&gt;100*110cm"
+  },
+  {
+   "价格": "36.00",
+   "库存": 887,
+   "规格": "绯韵漫语【小花边】-横版&gt;60*120cm"
+  },
+  {
+   "价格": "55.00",
+   "库存": 888,
+   "规格": "森屿绿意【小花边】-横版&gt;100*110cm"
+  },
+  {
+   "价格": "112.00",
+   "库存": 888,
+   "规格": "森屿绿意【小花边】-横版&gt;140*160cm"
+  },
+  {
+   "价格": "50.00",
+   "库存": 887,
+   "规格": "春日抹茶序曲【小花边】-横&gt;100*100cm"
+  },
+  {
+   "价格": "80.00",
+   "库存": 884,
+   "规格": "森屿几何【小花边】-横版&gt;100*160cm"
+  },
+  {
+   "价格": "36.00",
+   "库存": 884,
+   "规格": "春日抹茶序曲【小花边】-横&gt;60*120cm"
+  },
+  {
+   "价格": "50.00",
+   "库存": 887,
+   "规格": "青格絮梦【小花边】-横版&gt;100*100cm"
+  },
+  {
+   "价格": "96.00",
+   "库存": 887,
+   "规格": "春日抹茶序曲【小花边】-竖版&gt;120*160cm"
+  },
+  {
+   "价格": "45.00",
+   "库存": 888,
+   "规格": "青藤小憩【小花边】-横版&gt;60*150cm"
+  },
+  {
+   "价格": "48.00",
+   "库存": 888,
+   "规格": "春日抹茶序曲【小花边】-竖版&gt;80*120cm"
+  },
+  {
+   "价格": "70.00",
+   "库存": 888,
+   "规格": "绯韵漫语【小花边】-横版&gt;100*140cm"
+  },
+  {
+   "价格": "108.00",
+   "库存": 888,
+   "规格": "绯韵漫语【小花边】-横版&gt;120*180cm"
+  },
+  {
+   "价格": "65.00",
+   "库存": 878,
+   "规格": "森屿几何【小花边】-横版&gt;定制联系客服"
+  },
+  {
+   "价格": "96.00",
+   "库存": 888,
+   "规格": "森系涟漪【小花边】-横版&gt;120*160cm"
+  },
+  {
+   "价格": "112.00",
+   "库存": 888,
+   "规格": "青格絮梦【小花边】-竖版&gt;140*160cm"
+  },
+  {
+   "价格": "27.00",
+   "库存": 884,
+   "规格": "青藤小憩【小花边】-横版&gt;60*90cm"
+  },
+  {
+   "价格": "50.00",
+   "库存": 885,
+   "规格": "春日抹茶序曲【小花边】-竖版&gt;100*100cm"
+  },
+  {
+   "价格": "20.00",
+   "库存": 888,
+   "规格": "柔棕漫语【小花边】-竖版&gt;50*80cm"
+  },
+  {
+   "价格": "108.00",
+   "库存": 888,
+   "规格": "春日抹茶序曲【小花边】-横&gt;120*180cm"
+  },
+  {
+   "价格": "84.00",
+   "库存": 887,
+   "规格": "森屿绿意【小花边】-横版&gt;120*140cm"
+  },
+  {
+   "价格": "80.00",
+   "库存": 888,
+   "规格": "青藤小憩【小花边】-横版&gt;100*160cm"
+  },
+  {
+   "价格": "96.00",
+   "库存": 888,
+   "规格": "青藤小憩【小花边】-横版&gt;120*160cm"
+  },
+  {
+   "价格": "65.00",
+   "库存": 887,
+   "规格": "春日抹茶序曲【小花边】-竖版&gt;定制联系客服"
+  },
+  {
+   "价格": "80.00",
+   "库存": 888,
+   "规格": "午后碎石小路【小花边】-竖版&gt;100*160cm"
+  },
+  {
+   "价格": "36.00",
+   "库存": 885,
+   "规格": "森屿绿意【小花边】-横版&gt;60*120cm"
+  },
+  {
+   "价格": "36.00",
+   "库存": 886,
+   "规格": "柔棕漫语【小花边】-横版&gt;60*120cm"
+  },
+  {
+   "价格": "20.00",
+   "库存": 887,
+   "规格": "森屿几何【小花边】-竖版&gt;50*80cm"
+  },
+  {
+   "价格": "48.00",
+   "库存": 885,
+   "规格": "青藤小憩【小花边】-横版&gt;80*120cm"
+  },
+  {
+   "价格": "80.00",
+   "库存": 888,
+   "规格": "柔棕漫语【小花边】-横版&gt;100*160cm"
+  },
+  {
+   "价格": "20.00",
+   "库存": 877,
+   "规格": "春日抹茶序曲【小花边】-横&gt;50*80cm"
+  },
+  {
+   "价格": "96.00",
+   "库存": 888,
+   "规格": "午后碎石小路【小花边】-竖版&gt;120*160cm"
+  },
+  {
+   "价格": "72.00",
+   "库存": 887,
+   "规格": "午后碎石小路【小花边】-横版&gt;120*120cm"
+  },
+  {
+   "价格": "36.00",
+   "库存": 888,
+   "规格": "青藤小憩【小花边】-横版&gt;60*120cm"
+  },
+  {
+   "价格": "55.00",
+   "库存": 888,
+   "规格": "森系涟漪【小花边】-横版&gt;100*110cm"
+  },
+  {
+   "价格": "84.00",
+   "库存": 888,
+   "规格": "柔棕漫语【小花边】-竖版&gt;120*140cm"
+  },
+  {
+   "价格": "40.00",
+   "库存": 888,
+   "规格": "午后碎石小路【小花边】-竖版&gt;80*100cm"
+  },
+  {
+   "价格": "40.00",
+   "库存": 886,
+   "规格": "午后碎石小路【小花边】-横版&gt;80*100cm"
+  },
+  {
+   "价格": "60.00",
+   "库存": 887,
+   "规格": "森屿绿意【小花边】-竖版&gt;100*120cm"
+  },
+  {
+   "价格": "20.00",
+   "库存": 888,
+   "规格": "森屿绿意【小花边】-竖版&gt;50*80cm"
+  },
+  {
+   "价格": "140.00",
+   "库存": 888,
+   "规格": "森系涟漪【小花边】-横版&gt;140*200cm"
+  },
+  {
+   "价格": "60.00",
+   "库存": 886,
+   "规格": "春日抹茶序曲【小花边】-横&gt;100*120cm"
+  },
+  {
+   "价格": "72.00",
+   "库存": 886,
+   "规格": "春日抹茶序曲【小花边】-横&gt;120*120cm"
+  },
+  {
+   "价格": "108.00",
+   "库存": 888,
+   "规格": "春日抹茶序曲【小花边】-竖版&gt;120*180cm"
+  },
+  {
+   "价格": "55.00",
+   "库存": 888,
+   "规格": "柔棕漫语【小花边】-竖版&gt;100*110cm"
+  },
+  {
+   "价格": "72.00",
+   "库存": 888,
+   "规格": "绯韵漫语【小花边】-横版&gt;120*120cm"
+  },
+  {
+   "价格": "70.00",
+   "库存": 875,
+   "规格": "森屿几何【小花边】-横版&gt;100*140cm"
+  },
+  {
+   "价格": "72.00",
+   "库存": 888,
+   "规格": "青格絮梦【小花边】-横版&gt;120*120cm"
+  },
+  {
+   "价格": "60.00",
+   "库存": 887,
+   "规格": "青格絮梦【小花边】-横版&gt;100*120cm"
+  },
+  {
+   "价格": "40.00",
+   "库存": 881,
+   "规格": "春日抹茶序曲【小花边】-横&gt;80*100cm"
+  },
+  {
+   "价格": "72.00",
+   "库存": 883,
+   "规格": "森屿几何【小花边】-竖版&gt;120*120cm"
+  },
+  {
+   "价格": "50.00",
+   "库存": 887,
+   "规格": "绯韵漫语【小花边】-竖版&gt;100*100cm"
+  },
+  {
+   "价格": "108.00",
+   "库存": 888,
+   "规格": "绯韵漫语【小花边】-竖版&gt;120*180cm"
+  },
+  {
+   "价格": "140.00",
+   "库存": 888,
+   "规格": "森屿绿意【小花边】-横版&gt;140*200cm"
+  },
+  {
+   "价格": "55.00",
+   "库存": 886,
+   "规格": "午后碎石小路【小花边】-竖版&gt;100*110cm"
+  },
+  {
+   "价格": "40.00",
+   "库存": 887,
+   "规格": "春日抹茶序曲【小花边】-竖版&gt;80*100cm"
+  },
+  {
+   "价格": "72.00",
+   "库存": 887,
+   "规格": "森系涟漪【小花边】-竖版&gt;120*120cm"
+  },
+  {
+   "价格": "60.00",
+   "库存": 888,
+   "规格": "森系涟漪【小花边】-竖版&gt;100*120cm"
+  },
+  {
+   "价格": "40.00",
+   "库存": 888,
+   "规格": "绯韵漫语【小花边】-竖版&gt;80*100cm"
+  },
+  {
+   "价格": "120.00",
+   "库存": 888,
+   "规格": "森屿绿意【小花边】-横版&gt;120*200cm"
+  },
+  {
+   "价格": "50.00",
+   "库存": 888,
+   "规格": "森系涟漪【小花边】-横版&gt;100*100cm"
+  },
+  {
+   "价格": "27.00",
+   "库存": 886,
+   "规格": "森系涟漪【小花边】-竖版&gt;60*90cm"
+  },
+  {
+   "价格": "45.00",
+   "库存": 887,
+   "规格": "午后碎石小路【小花边】-横版&gt;60*150cm"
+  },
+  {
+   "价格": "55.00",
+   "库存": 888,
+   "规格": "森系涟漪【小花边】-竖版&gt;100*110cm"
+  },
+  {
+   "价格": "36.00",
+   "库存": 888,
+   "规格": "森屿几何【小花边】-竖版&gt;60*120cm"
+  },
+  {
+   "价格": "48.00",
+   "库存": 888,
+   "规格": "森屿绿意【小花边】-竖版&gt;80*120cm"
+  },
+  {
+   "价格": "140.00",
+   "库存": 888,
+   "规格": "青格絮梦【小花边】-竖版&gt;140*200cm"
+  },
+  {
+   "价格": "72.00",
+   "库存": 886,
+   "规格": "春日抹茶序曲【小花边】-竖版&gt;120*120cm"
+  },
+  {
+   "价格": "36.00",
+   "库存": 886,
+   "规格": "青格絮梦【小花边】-横版&gt;60*120cm"
+  },
+  {
+   "价格": "108.00",
+   "库存": 888,
+   "规格": "柔棕漫语【小花边】-横版&gt;120*180cm"
+  },
+  {
+   "价格": "140.00",
+   "库存": 888,
+   "规格": "森系涟漪【小花边】-竖版&gt;140*200cm"
+  },
+  {
+   "价格": "50.00",
+   "库存": 886,
+   "规格": "青藤小憩【小花边】-横版&gt;100*100cm"
+  },
+  {
+   "价格": "40.00",
+   "库存": 851,
+   "规格": "森屿几何【小花边】-横版&gt;80*100cm"
+  },
+  {
+   "价格": "112.00",
+   "库存": 888,
+   "规格": "森屿绿意【小花边】-竖版&gt;140*160cm"
+  },
+  {
+   "价格": "84.00",
+   "库存": 887,
+   "规格": "青格絮梦【小花边】-竖版&gt;120*140cm"
+  },
+  {
+   "价格": "140.00",
+   "库存": 888,
+   "规格": "柔棕漫语【小花边】-横版&gt;140*200cm"
+  },
+  {
+   "价格": "55.00",
+   "库存": 887,
+   "规格": "青藤小憩【小花边】-竖版&gt;100*110cm"
+  },
+  {
+   "价格": "60.00",
+   "库存": 887,
+   "规格": "森屿绿意【小花边】-横版&gt;100*120cm"
+  },
+  {
+   "价格": "20.00",
+   "库存": 885,
+   "规格": "青藤小憩【小花边】-横版&gt;50*80cm"
+  },
+  {
+   "价格": "60.00",
+   "库存": 887,
+   "规格": "柔棕漫语【小花边】-竖版&gt;100*120cm"
+  },
+  {
+   "价格": "140.00",
+   "库存": 888,
+   "规格": "柔棕漫语【小花边】-竖版&gt;140*200cm"
+  },
+  {
+   "价格": "55.00",
+   "库存": 888,
+   "规格": "绯韵漫语【小花边】-竖版&gt;100*110cm"
+  },
+  {
+   "价格": "50.00",
+   "库存": 888,
+   "规格": "午后碎石小路【小花边】-竖版&gt;100*100cm"
+  },
+  {
+   "价格": "50.00",
+   "库存": 888,
+   "规格": "午后碎石小路【小花边】-横版&gt;100*100cm"
+  },
+  {
+   "价格": "45.00",
+   "库存": 888,
+   "规格": "春日抹茶序曲【小花边】-竖版&gt;60*150cm"
+  },
+  {
+   "价格": "45.00",
+   "库存": 888,
+   "规格": "绯韵漫语【小花边】-竖版&gt;60*150cm"
+  },
+  {
+   "价格": "140.00",
+   "库存": 888,
+   "规格": "青格絮梦【小花边】-横版&gt;140*200cm"
+  },
+  {
+   "价格": "48.00",
+   "库存": 887,
+   "规格": "绯韵漫语【小花边】-横版&gt;80*120cm"
+  },
+  {
+   "价格": "65.00",
+   "库存": 887,
+   "规格": "柔棕漫语【小花边】-竖版&gt;定制联系客服"
+  },
+  {
+   "价格": "65.00",
+   "库存": 887,
+   "规格": "青格絮梦【小花边】-横版&gt;定制联系客服"
+  },
+  {
+   "价格": "80.00",
+   "库存": 888,
+   "规格": "青藤小憩【小花边】-竖版&gt;100*160cm"
+  },
+  {
+   "价格": "50.00",
+   "库存": 887,
+   "规格": "绯韵漫语【小花边】-横版&gt;100*100cm"
+  },
+  {
+   "价格": "108.00",
+   "库存": 888,
+   "规格": "青格絮梦【小花边】-横版&gt;120*180cm"
+  },
+  {
+   "价格": "65.00",
+   "库存": 888,
+   "规格": "青藤小憩【小花边】-竖版&gt;定制联系客服"
+  },
+  {
+   "价格": "45.00",
+   "库存": 888,
+   "规格": "森系涟漪【小花边】-竖版&gt;60*150cm"
+  },
+  {
+   "价格": "72.00",
+   "库存": 888,
+   "规格": "青藤小憩【小花边】-竖版&gt;120*120cm"
+  },
+  {
+   "价格": "45.00",
+   "库存": 887,
+   "规格": "青藤小憩【小花边】-竖版&gt;60*150cm"
+  },
+  {
+   "价格": "72.00",
+   "库存": 888,
+   "规格": "绯韵漫语【小花边】-竖版&gt;120*120cm"
+  },
+  {
+   "价格": "60.00",
+   "库存": 888,
+   "规格": "青格絮梦【小花边】-竖版&gt;100*120cm"
+  },
+  {
+   "价格": "55.00",
+   "库存": 886,
+   "规格": "柔棕漫语【小花边】-横版&gt;100*110cm"
+  },
+  {
+   "价格": "96.00",
+   "库存": 886,
+   "规格": "森屿几何【小花边】-横版&gt;120*160cm"
+  },
+  {
+   "价格": "108.00",
+   "库存": 888,
+   "规格": "森系涟漪【小花边】-竖版&gt;120*180cm"
+  },
+  {
+   "价格": "50.00",
+   "库存": 887,
+   "规格": "森屿几何【小花边】-竖版&gt;100*100cm"
+  },
+  {
+   "价格": "36.00",
+   "库存": 887,
+   "规格": "柔棕漫语【小花边】-竖版&gt;60*120cm"
+  },
+  {
+   "价格": "80.00",
+   "库存": 888,
+   "规格": "森系涟漪【小花边】-横版&gt;100*160cm"
+  },
+  {
+   "价格": "120.00",
+   "库存": 888,
+   "规格": "森屿绿意【小花边】-竖版&gt;120*200cm"
+  },
+  {
+   "价格": "80.00",
+   "库存": 887,
+   "规格": "春日抹茶序曲【小花边】-竖版&gt;100*160cm"
+  },
+  {
+   "价格": "72.00",
+   "库存": 888,
+   "规格": "森系涟漪【小花边】-横版&gt;120*120cm"
+  },
+  {
+   "价格": "48.00",
+   "库存": 887,
+   "规格": "森系涟漪【小花边】-横版&gt;80*120cm"
+  },
+  {
+   "价格": "80.00",
+   "库存": 888,
+   "规格": "绯韵漫语【小花边】-竖版&gt;100*160cm"
+  },
+  {
+   "价格": "48.00",
+   "库存": 853,
+   "规格": "森屿几何【小花边】-横版&gt;80*120cm"
+  },
+  {
+   "价格": "20.00",
+   "库存": 886,
+   "规格": "绯韵漫语【小花边】-横版&gt;50*80cm"
+  },
+  {
+   "价格": "70.00",
+   "库存": 887,
+   "规格": "春日抹茶序曲【小花边】-竖版&gt;100*140cm"
+  },
+  {
+   "价格": "40.00",
+   "库存": 888,
+   "规格": "森屿绿意【小花边】-竖版&gt;80*100cm"
+  },
+  {
+   "价格": "27.00",
+   "库存": 887,
+   "规格": "春日抹茶序曲【小花边】-竖版&gt;60*90cm"
+  },
+  {
+   "价格": "36.00",
+   "库存": 873,
+   "规格": "森屿几何【小花边】-横版&gt;60*120cm"
+  },
+  {
+   "价格": "84.00",
+   "库存": 888,
+   "规格": "春日抹茶序曲【小花边】-横&gt;120*140cm"
+  },
+  {
+   "价格": "45.00",
+   "库存": 888,
+   "规格": "绯韵漫语【小花边】-横版&gt;60*150cm"
+  },
+  {
+   "价格": "72.00",
+   "库存": 888,
+   "规格": "午后碎石小路【小花边】-竖版&gt;120*120cm"
+  },
+  {
+   "价格": "40.00",
+   "库存": 887,
+   "规格": "青藤小憩【小花边】-竖版&gt;80*100cm"
+  },
+  {
+   "价格": "84.00",
+   "库存": 887,
+   "规格": "森屿绿意【小花边】-竖版&gt;120*140cm"
+  },
+  {
+   "价格": "65.00",
+   "库存": 887,
+   "规格": "绯韵漫语【小花边】-横版&gt;定制联系客服"
+  },
+  {
+   "价格": "50.00",
+   "库存": 887,
+   "规格": "柔棕漫语【小花边】-竖版&gt;100*100cm"
+  },
+  {
+   "价格": "140.00",
+   "库存": 886,
+   "规格": "春日抹茶序曲【小花边】-竖版&gt;140*200cm"
+  },
+  {
+   "价格": "120.00",
+   "库存": 887,
+   "规格": "春日抹茶序曲【小花边】-竖版&gt;120*200cm"
+  },
+  {
+   "价格": "60.00",
+   "库存": 888,
+   "规格": "午后碎石小路【小花边】-竖版&gt;100*120cm"
+  },
+  {
+   "价格": "120.00",
+   "库存": 887,
+   "规格": "春日抹茶序曲【小花边】-横&gt;120*200cm"
+  },
+  {
+   "价格": "80.00",
+   "库存": 888,
+   "规格": "午后碎石小路【小花边】-横版&gt;100*160cm"
+  },
+  {
+   "价格": "96.00",
+   "库存": 888,
+   "规格": "午后碎石小路【小花边】-横版&gt;120*160cm"
+  },
+  {
+   "价格": "112.00",
+   "库存": 888,
+   "规格": "午后碎石小路【小花边】-横版&gt;140*160cm"
+  },
+  {
+   "价格": "140.00",
+   "库存": 888,
+   "规格": "春日抹茶序曲【小花边】-横&gt;140*200cm"
+  },
+  {
+   "价格": "40.00",
+   "库存": 888,
+   "规格": "绯韵漫语【小花边】-横版&gt;80*100cm"
+  },
+  {
+   "价格": "50.00",
+   "库存": 887,
+   "规格": "青藤小憩【小花边】-竖版&gt;100*100cm"
+  },
+  {
+   "价格": "108.00",
+   "库存": 888,
+   "规格": "森屿绿意【小花边】-横版&gt;120*180cm"
+  },
+  {
+   "价格": "108.00",
+   "库存": 888,
+   "规格": "森系涟漪【小花边】-横版&gt;120*180cm"
+  },
+  {
+   "价格": "96.00",
+   "库存": 888,
+   "规格": "绯韵漫语【小花边】-横版&gt;120*160cm"
+  },
+  {
+   "价格": "80.00",
+   "库存": 888,
+   "规格": "绯韵漫语【小花边】-横版&gt;100*160cm"
+  },
+  {
+   "价格": "27.00",
+   "库存": 885,
+   "规格": "午后碎石小路【小花边】-横版&gt;60*90cm"
+  },
+  {
+   "价格": "27.00",
+   "库存": 881,
+   "规格": "森屿绿意【小花边】-横版&gt;60*90cm"
+  },
+  {
+   "价格": "108.00",
+   "库存": 887,
+   "规格": "森屿几何【小花边】-横版&gt;120*180cm"
+  },
+  {
+   "价格": "84.00",
+   "库存": 885,
+   "规格": "春日抹茶序曲【小花边】-竖版&gt;120*140cm"
+  },
+  {
+   "价格": "112.00",
+   "库存": 888,
+   "规格": "绯韵漫语【小花边】-横版&gt;140*160cm"
+  },
+  {
+   "价格": "120.00",
+   "库存": 888,
+   "规格": "青格絮梦【小花边】-竖版&gt;120*200cm"
+  },
+  {
+   "价格": "27.00",
+   "库存": 888,
+   "规格": "青藤小憩【小花边】-竖版&gt;60*90cm"
+  },
+  {
+   "价格": "120.00",
+   "库存": 888,
+   "规格": "柔棕漫语【小花边】-横版&gt;120*200cm"
+  },
+  {
+   "价格": "55.00",
+   "库存": 887,
+   "规格": "绯韵漫语【小花边】-横版&gt;100*110cm"
+  },
+  {
+   "价格": "48.00",
+   "库存": 888,
+   "规格": "柔棕漫语【小花边】-竖版&gt;80*120cm"
+  },
+  {
+   "价格": "48.00",
+   "库存": 887,
+   "规格": "青格絮梦【小花边】-横版&gt;80*120cm"
+  },
+  {
+   "价格": "20.00",
+   "库存": 852,
+   "规格": "森屿几何【小花边】-横版&gt;50*80cm"
+  },
+  {
+   "价格": "72.00",
+   "库存": 888,
+   "规格": "森屿绿意【小花边】-横版&gt;120*120cm"
+  },
+  {
+   "价格": "70.00",
+   "库存": 888,
+   "规格": "青格絮梦【小花边】-竖版&gt;100*140cm"
+  },
+  {
+   "价格": "20.00",
+   "库存": 883,
+   "规格": "柔棕漫语【小花边】-横版&gt;50*80cm"
+  },
+  {
+   "价格": "40.00",
+   "库存": 888,
+   "规格": "森系涟漪【小花边】-竖版&gt;80*100cm"
+  },
+  {
+   "价格": "70.00",
+   "库存": 887,
+   "规格": "青藤小憩【小花边】-横版&gt;100*140cm"
+  },
+  {
+   "价格": "27.00",
+   "库存": 885,
+   "规格": "森屿绿意【小花边】-竖版&gt;60*90cm"
+  },
+  {
+   "价格": "140.00",
+   "库存": 887,
+   "规格": "青藤小憩【小花边】-横版&gt;140*200cm"
+  },
+  {
+   "价格": "50.00",
+   "库存": 887,
+   "规格": "柔棕漫语【小花边】-横版&gt;100*100cm"
+  },
+  {
+   "价格": "40.00",
+   "库存": 887,
+   "规格": "柔棕漫语【小花边】-横版&gt;80*100cm"
+  },
+  {
+   "价格": "20.00",
+   "库存": 888,
+   "规格": "绯韵漫语【小花边】-竖版&gt;50*80cm"
+  },
+  {
+   "价格": "108.00",
+   "库存": 888,
+   "规格": "午后碎石小路【小花边】-竖版&gt;120*180cm"
+  },
+  {
+   "价格": "84.00",
+   "库存": 887,
+   "规格": "柔棕漫语【小花边】-横版&gt;120*140cm"
+  },
+  {
+   "价格": "20.00",
+   "库存": 888,
+   "规格": "午后碎石小路【小花边】-竖版&gt;50*80cm"
+  },
+  {
+   "价格": "45.00",
+   "库存": 889,
+   "规格": "春日抹茶序曲【小花边】-横&gt;60*150cm"
+  },
+  {
+   "价格": "27.00",
+   "库存": 876,
+   "规格": "春日抹茶序曲【小花边】-横&gt;60*90cm"
+  },
+  {
+   "价格": "140.00",
+   "库存": 887,
+   "规格": "森屿几何【小花边】-竖版&gt;140*200cm"
+  },
+  {
+   "价格": "112.00",
+   "库存": 888,
+   "规格": "柔棕漫语【小花边】-竖版&gt;140*160cm"
+  },
+  {
+   "价格": "80.00",
+   "库存": 888,
+   "规格": "柔棕漫语【小花边】-竖版&gt;100*160cm"
+  },
+  {
+   "价格": "45.00",
+   "库存": 888,
+   "规格": "森屿绿意【小花边】-竖版&gt;60*150cm"
+  },
+  {
+   "价格": "120.00",
+   "库存": 888,
+   "规格": "青格絮梦【小花边】-横版&gt;120*200cm"
+  },
+  {
+   "价格": "36.00",
+   "库存": 888,
+   "规格": "午后碎石小路【小花边】-竖版&gt;60*120cm"
+  },
+  {
+   "价格": "96.00",
+   "库存": 888,
+   "规格": "青藤小憩【小花边】-竖版&gt;120*160cm"
+  },
+  {
+   "价格": "70.00",
+   "库存": 888,
+   "规格": "森屿绿意【小花边】-竖版&gt;100*140cm"
+  },
+  {
+   "价格": "70.00",
+   "库存": 884,
+   "规格": "森屿几何【小花边】-竖版&gt;100*140cm"
+  },
+  {
+   "价格": "72.00",
+   "库存": 886,
+   "规格": "森屿几何【小花边】-横版&gt;120*120cm"
+  },
+  {
+   "价格": "120.00",
+   "库存": 888,
+   "规格": "森系涟漪【小花边】-竖版&gt;120*200cm"
+  },
+  {
+   "价格": "84.00",
+   "库存": 887,
+   "规格": "森系涟漪【小花边】-竖版&gt;120*140cm"
+  },
+  {
+   "价格": "27.00",
+   "库存": 887,
+   "规格": "青格絮梦【小花边】-竖版&gt;60*90cm"
+  },
+  {
+   "价格": "84.00",
+   "库存": 888,
+   "规格": "青格絮梦【小花边】-横版&gt;120*140cm"
+  },
+  {
+   "价格": "45.00",
+   "库存": 888,
+   "规格": "青格絮梦【小花边】-竖版&gt;60*150cm"
+  },
+  {
+   "价格": "55.00",
+   "库存": 887,
+   "规格": "午后碎石小路【小花边】-横版&gt;100*110cm"
+  },
+  {
+   "价格": "48.00",
+   "库存": 887,
+   "规格": "绯韵漫语【小花边】-竖版&gt;80*120cm"
+  },
+  {
+   "价格": "108.00",
+   "库存": 887,
+   "规格": "森屿几何【小花边】-竖版&gt;120*180cm"
+  },
+  {
+   "价格": "140.00",
+   "库存": 888,
+   "规格": "森屿绿意【小花边】-竖版&gt;140*200cm"
+  },
+  {
+   "价格": "60.00",
+   "库存": 887,
+   "规格": "绯韵漫语【小花边】-竖版&gt;100*120cm"
+  },
+  {
+   "价格": "36.00",
+   "库存": 888,
+   "规格": "森系涟漪【小花边】-横版&gt;60*120cm"
+  },
+  {
+   "价格": "60.00",
+   "库存": 888,
+   "规格": "森系涟漪【小花边】-横版&gt;100*120cm"
+  },
+  {
+   "价格": "96.00",
+   "库存": 888,
+   "规格": "绯韵漫语【小花边】-竖版&gt;120*160cm"
+  },
+  {
+   "价格": "112.00",
+   "库存": 888,
+   "规格": "柔棕漫语【小花边】-横版&gt;140*160cm"
+  },
+  {
+   "价格": "96.00",
+   "库存": 888,
+   "规格": "柔棕漫语【小花边】-横版&gt;120*160cm"
+  },
+  {
+   "价格": "55.00",
+   "库存": 884,
+   "规格": "森屿几何【小花边】-横版&gt;100*110cm"
+  },
+  {
+   "价格": "80.00",
+   "库存": 888,
+   "规格": "青格絮梦【小花边】-竖版&gt;100*160cm"
+  },
+  {
+   "价格": "96.00",
+   "库存": 888,
+   "规格": "青格絮梦【小花边】-竖版&gt;120*160cm"
+  },
+  {
+   "价格": "65.00",
+   "库存": 887,
+   "规格": "青藤小憩【小花边】-横版&gt;定制联系客服"
+  },
+  {
+   "价格": "112.00",
+   "库存": 888,
+   "规格": "青藤小憩【小花边】-横版&gt;140*160cm"
+  },
+  {
+   "价格": "70.00",
+   "库存": 888,
+   "规格": "森屿绿意【小花边】-横版&gt;100*140cm"
+  },
+  {
+   "价格": "48.00",
+   "库存": 887,
+   "规格": "柔棕漫语【小花边】-横版&gt;80*120cm"
+  },
+  {
+   "价格": "48.00",
+   "库存": 888,
+   "规格": "森屿绿意【小花边】-横版&gt;80*120cm"
+  },
+  {
+   "价格": "27.00",
+   "库存": 888,
+   "规格": "午后碎石小路【小花边】-竖版&gt;60*90cm"
+  },
+  {
+   "价格": "27.00",
+   "库存": 884,
+   "规格": "青格絮梦【小花边】-横版&gt;60*90cm"
+  },
+  {
+   "价格": "108.00",
+   "库存": 888,
+   "规格": "森屿绿意【小花边】-竖版&gt;120*180cm"
+  },
+  {
+   "价格": "60.00",
+   "库存": 888,
+   "规格": "午后碎石小路【小花边】-横版&gt;100*120cm"
+  },
+  {
+   "价格": "120.00",
+   "库存": 886,
+   "规格": "森屿几何【小花边】-横版&gt;120*200cm"
+  },
+  {
+   "价格": "45.00",
+   "库存": 888,
+   "规格": "午后碎石小路【小花边】-竖版&gt;60*150cm"
+  },
+  {
+   "价格": "112.00",
+   "库存": 888,
+   "规格": "午后碎石小路【小花边】-竖版&gt;140*160cm"
+  },
+  {
+   "价格": "40.00",
+   "库存": 883,
+   "规格": "森屿几何【小花边】-竖版&gt;80*100cm"
+  },
+  {
+   "价格": "27.00",
+   "库存": 885,
+   "规格": "森系涟漪【小花边】-横版&gt;60*90cm"
+  },
+  {
+   "价格": "140.00",
+   "库存": 887,
+   "规格": "森屿几何【小花边】-横版&gt;140*200cm"
+  },
+  {
+   "价格": "70.00",
+   "库存": 888,
+   "规格": "青藤小憩【小花边】-竖版&gt;100*140cm"
+  },
+  {
+   "价格": "70.00",
+   "库存": 887,
+   "规格": "柔棕漫语【小花边】-竖版&gt;100*140cm"
+  },
+  {
+   "价格": "84.00",
+   "库存": 888,
+   "规格": "青藤小憩【小花边】-竖版&gt;120*140cm"
+  },
+  {
+   "价格": "72.00",
+   "库存": 888,
+   "规格": "森屿绿意【小花边】-竖版&gt;120*120cm"
+  },
+  {
+   "价格": "20.00",
+   "库存": 886,
+   "规格": "森屿绿意【小花边】-横版&gt;50*80cm"
+  },
+  {
+   "价格": "65.00",
+   "库存": 888,
+   "规格": "森系涟漪【小花边】-竖版&gt;定制联系客服"
+  },
+  {
+   "价格": "45.00",
+   "库存": 888,
+   "规格": "柔棕漫语【小花边】-横版&gt;60*150cm"
+  },
+  {
+   "价格": "50.00",
+   "库存": 888,
+   "规格": "青格絮梦【小花边】-竖版&gt;100*100cm"
+  },
+  {
+   "价格": "84.00",
+   "库存": 882,
+   "规格": "森屿几何【小花边】-横版&gt;120*140cm"
+  },
+  {
+   "价格": "60.00",
+   "库存": 881,
+   "规格": "森屿几何【小花边】-竖版&gt;100*120cm"
+  },
+  {
+   "价格": "84.00",
+   "库存": 888,
+   "规格": "森系涟漪【小花边】-横版&gt;120*140cm"
+  },
+  {
+   "价格": "60.00",
+   "库存": 888,
+   "规格": "绯韵漫语【小花边】-横版&gt;100*120cm"
+  },
+  {
+   "价格": "70.00",
+   "库存": 888,
+   "规格": "森系涟漪【小花边】-横版&gt;100*140cm"
+  },
+  {
+   "价格": "20.00",
+   "库存": 884,
+   "规格": "午后碎石小路【小花边】-横版&gt;50*80cm"
+  },
+  {
+   "价格": "112.00",
+   "库存": 888,
+   "规格": "春日抹茶序曲【小花边】-横&gt;140*160cm"
+  },
+  {
+   "价格": "27.00",
+   "库存": 886,
+   "规格": "绯韵漫语【小花边】-横版&gt;60*90cm"
+  },
+  {
+   "价格": "120.00",
+   "库存": 888,
+   "规格": "午后碎石小路【小花边】-竖版&gt;120*200cm"
+  },
+  {
+   "价格": "20.00",
+   "库存": 888,
+   "规格": "青格絮梦【小花边】-横版&gt;50*80cm"
+  },
+  {
+   "价格": "84.00",
+   "库存": 887,
+   "规格": "青藤小憩【小花边】-横版&gt;120*140cm"
+  },
+  {
+   "价格": "65.00",
+   "库存": 888,
+   "规格": "绯韵漫语【小花边】-竖版&gt;定制联系客服"
+  },
+  {
+   "价格": "96.00",
+   "库存": 888,
+   "规格": "森屿绿意【小花边】-横版&gt;120*160cm"
+  },
+  {
+   "价格": "84.00",
+   "库存": 888,
+   "规格": "午后碎石小路【小花边】-横版&gt;120*140cm"
+  },
+  {
+   "价格": "120.00",
+   "库存": 888,
+   "规格": "森系涟漪【小花边】-横版&gt;120*200cm"
+  },
+  {
+   "价格": "80.00",
+   "库存": 887,
+   "规格": "森屿绿意【小花边】-竖版&gt;100*160cm"
+  },
+  {
+   "价格": "84.00",
+   "库存": 888,
+   "规格": "午后碎石小路【小花边】-竖版&gt;120*140cm"
+  },
+  {
+   "价格": "65.00",
+   "库存": 888,
+   "规格": "森系涟漪【小花边】-横版&gt;定制联系客服"
+  },
+  {
+   "价格": "70.00",
+   "库存": 888,
+   "规格": "柔棕漫语【小花边】-横版&gt;100*140cm"
+  },
+  {
+   "价格": "120.00",
+   "库存": 888,
+   "规格": "绯韵漫语【小花边】-横版&gt;120*200cm"
+  },
+  {
+   "价格": "120.00",
+   "库存": 888,
+   "规格": "青藤小憩【小花边】-横版&gt;120*200cm"
+  },
+  {
+   "价格": "40.00",
+   "库存": 887,
+   "规格": "青格絮梦【小花边】-竖版&gt;80*100cm"
+  },
+  {
+   "价格": "40.00",
+   "库存": 886,
+   "规格": "青藤小憩【小花边】-横版&gt;80*100cm"
+  },
+  {
+   "价格": "120.00",
+   "库存": 888,
+   "规格": "青藤小憩【小花边】-竖版&gt;120*200cm"
+  },
+  {
+   "价格": "96.00",
+   "库存": 888,
+   "规格": "柔棕漫语【小花边】-竖版&gt;120*160cm"
+  },
+  {
+   "价格": "65.00",
+   "库存": 883,
+   "规格": "森屿几何【小花边】-竖版&gt;定制联系客服"
+  },
+  {
+   "价格": "45.00",
+   "库存": 888,
+   "规格": "青格絮梦【小花边】-横版&gt;60*150cm"
+  },
+  {
+   "价格": "36.00",
+   "库存": 886,
+   "规格": "午后碎石小路【小花边】-横版&gt;60*120cm"
+  },
+  {
+   "价格": "120.00",
+   "库存": 885,
+   "规格": "森屿几何【小花边】-竖版&gt;120*200cm"
+  },
+  {
+   "价格": "60.00",
+   "库存": 874,
+   "规格": "森屿几何【小花边】-横版&gt;100*120cm"
+  },
+  {
+   "价格": "50.00",
+   "库存": 888,
+   "规格": "森屿绿意【小花边】-竖版&gt;100*100cm"
+  },
+  {
+   "价格": "112.00",
+   "库存": 887,
+   "规格": "森系涟漪【小花边】-横版&gt;140*160cm"
+  },
+  {
+   "价格": "112.00",
+   "库存": 887,
+   "规格": "春日抹茶序曲【小花边】-竖版&gt;140*160cm"
+  },
+  {
+   "价格": "84.00",
+   "库存": 888,
+   "规格": "绯韵漫语【小花边】-横版&gt;120*140cm"
+  },
+  {
+   "价格": "70.00",
+   "库存": 884,
+   "规格": "春日抹茶序曲【小花边】-横&gt;100*140cm"
+  },
+  {
+   "价格": "45.00",
+   "库存": 887,
+   "规格": "森屿绿意【小花边】-横版&gt;60*150cm"
+  },
+  {
+   "价格": "112.00",
+   "库存": 888,
+   "规格": "青藤小憩【小花边】-竖版&gt;140*160cm"
+  },
+  {
+   "价格": "84.00",
+   "库存": 878,
+   "规格": "森屿几何【小花边】-竖版&gt;120*140cm"
+  },
+  {
+   "价格": "48.00",
+   "库存": 888,
+   "规格": "午后碎石小路【小花边】-竖版&gt;80*120cm"
+  },
+  {
+   "价格": "70.00",
+   "库存": 888,
+   "规格": "青格絮梦【小花边】-横版&gt;100*140cm"
+  },
+  {
+   "价格": "70.00",
+   "库存": 888,
+   "规格": "森系涟漪【小花边】-竖版&gt;100*140cm"
+  },
+  {
+   "价格": "45.00",
+   "库存": 888,
+   "规格": "森屿几何【小花边】-竖版&gt;60*150cm"
+  },
+  {
+   "价格": "48.00",
+   "库存": 882,
+   "规格": "春日抹茶序曲【小花边】-横&gt;80*120cm"
+  },
+  {
+   "价格": "36.00",
+   "库存": 888,
+   "规格": "绯韵漫语【小花边】-竖版&gt;60*120cm"
+  },
+  {
+   "价格": "36.00",
+   "库存": 888,
+   "规格": "春日抹茶序曲【小花边】-竖版&gt;60*120cm"
+  },
+  {
+   "价格": "112.00",
+   "库存": 888,
+   "规格": "绯韵漫语【小花边】-竖版&gt;140*160cm"
+  }
+ ],
+ "规格图": [
+  [
+   "森屿几何【小花边】-横版",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01nDQNjo1yBpltbOojD_!!2218610206541-0-cib.jpg"
+  ],
+  [
+   "春日抹茶序曲【小花边】-横",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01hAKBI81yBpluh6dhI_!!2218610206541-0-cib.jpg"
+  ],
+  [
+   "森屿绿意【小花边】-横版",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01QBK2891yBpluxSZjw_!!2218610206541-0-cib.jpg"
+  ],
+  [
+   "青藤小憩【小花边】-横版",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01Mlowil1yBplv2Ou9D_!!2218610206541-0-cib.jpg"
+  ],
+  [
+   "青格絮梦【小花边】-横版",
+   "https://cbu01.alicdn.com/img/ibank/O1CN015cVFVe1yBplugZKgb_!!2218610206541-0-cib.jpg"
+  ],
+  [
+   "森系涟漪【小花边】-横版",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01U29wBN1yBplugccUI_!!2218610206541-0-cib.jpg"
+  ],
+  [
+   "柔棕漫语【小花边】-横版",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01FY4VIQ1yBplpIGUmk_!!2218610206541-0-cib.jpg"
+  ],
+  [
+   "绯韵漫语【小花边】-横版",
+   "https://cbu01.alicdn.com/img/ibank/O1CN010nxwg61yBpluoM0oQ_!!2218610206541-0-cib.jpg"
+  ],
+  [
+   "午后碎石小路【小花边】-横版",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01DJYgAw1yBplvcrYP5_!!2218610206541-0-cib.jpg"
+  ],
+  [
+   "春日抹茶序曲【小花边】-竖版",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01CXFf2V1yBpltwM98X_!!2218610206541-0-cib.jpg"
+  ],
+  [
+   "森屿几何【小花边】-竖版",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01o5eHmt1yBplubvzAQ_!!2218610206541-0-cib.jpg"
+  ],
+  [
+   "森屿绿意【小花边】-竖版",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01JrKyHI1yBplvctVEf_!!2218610206541-0-cib.jpg"
+  ],
+  [
+   "青藤小憩【小花边】-竖版",
+   "https://cbu01.alicdn.com/img/ibank/O1CN010GPyo81yBplv4uuzx_!!2218610206541-0-cib.jpg"
+  ],
+  [
+   "青格絮梦【小花边】-竖版",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01QP9QXr1yBplty3g4p_!!2218610206541-0-cib.jpg"
+  ],
+  [
+   "森系涟漪【小花边】-竖版",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01uBBQd51yBplvT7OLy_!!2218610206541-0-cib.jpg"
+  ],
+  [
+   "柔棕漫语【小花边】-竖版",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01dGi6DK1yBplugrK8k_!!2218610206541-0-cib.jpg"
+  ],
+  [
+   "绯韵漫语【小花边】-竖版",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01mnICA71yBplugv52A_!!2218610206541-0-cib.jpg"
+  ],
+  [
+   "午后碎石小路【小花边】-竖版",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01TBPbHO1yBplv4zkgc_!!2218610206541-0-cib.jpg"
+  ]
+ ],
+ "规格属性": [
+  {
+   "值": [
+    "森屿几何【小花边】-横版",
+    "春日抹茶序曲【小花边】-横",
+    "森屿绿意【小花边】-横版",
+    "青藤小憩【小花边】-横版",
+    "青格絮梦【小花边】-横版",
+    "森系涟漪【小花边】-横版",
+    "柔棕漫语【小花边】-横版",
+    "绯韵漫语【小花边】-横版",
+    "午后碎石小路【小花边】-横版",
+    "春日抹茶序曲【小花边】-竖版",
+    "森屿几何【小花边】-竖版",
+    "森屿绿意【小花边】-竖版",
+    "青藤小憩【小花边】-竖版",
+    "青格絮梦【小花边】-竖版",
+    "森系涟漪【小花边】-竖版",
+    "柔棕漫语【小花边】-竖版",
+    "绯韵漫语【小花边】-竖版",
+    "午后碎石小路【小花边】-竖版"
+   ],
+   "属性": "颜色"
+  },
+  {
+   "值": [
+    "50*80cm",
+    "60*90cm",
+    "60*120cm",
+    "60*150cm",
+    "80*100cm",
+    "80*120cm",
+    "100*100cm",
+    "100*110cm",
+    "100*120cm",
+    "100*140cm",
+    "100*160cm",
+    "120*120cm",
+    "120*140cm",
+    "120*160cm",
+    "120*180cm",
+    "120*200cm",
+    "140*160cm",
+    "140*200cm",
+    "定制联系客服"
+   ],
+   "属性": "尺寸"
+  }
+ ],
+ "起订量": 1,
+ "阶梯价_登录后": [
+  {
+   "beginAmount": 1,
+   "price": "20.00"
+  },
+  {
+   "beginAmount": 1,
+   "price": "140.00"
+  }
+ ],
+ "url": "https://detail.1688.com/offer/994915774385.html",
+ "核页时间": "2026-10-16T00:00:35.586Z"
+}

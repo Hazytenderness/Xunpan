@@ -1,0 +1,82 @@
+{
+ "offerId": "1050609185042",
+ "条目": "H0257",
+ "block": false,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01EPk36K1jxiz0nRL3v_!!2200757714615-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01UIdEGg1jxiz0nSwo4_!!2200757714615-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01evsrx21jxiz0MJyeW_!!2200757714615-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01cPmuGe1jxiz0j7B7D_!!2200757714615-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01n2bUaV1jxiz0UCPUF_!!2200757714615-0-cib.jpg"
+ ],
+ "价格区间": "15.00-16.00",
+ "价格展示": "rangePrice",
+ "到手价": null,
+ "包装信息": [
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "6款河狸变身",
+   "skuId": 6081166265163,
+   "volume": 0,
+   "weight": 150,
+   "width": 0
+  }
+ ],
+ "单位": "个",
+ "卖家公司": "深圳市龙华区开心动漫商行(个体工商户)",
+ "可售总量": 1000,
+ "商品属性": [
+  "材质:PVC",
+  "品牌:其它",
+  "规格:00",
+  "包装方式:袋装",
+  "是否有动漫形象:否",
+  "货号:0",
+  "是否拼装:否",
+  "是否专供外贸:是(本商品仅供外贸用途，可能不符合境内产品标准。请境内买家谨慎购入)",
+  "3C配置类别:14岁以上的玩具",
+  "颜色:6款河狸变身",
+  "适用年龄:成年（18岁及以上）"
+ ],
+ "已售": 0,
+ "已登录": true,
+ "旺旺名": "开心动漫工厂",
+ "标题": "跨境6款河狸变身计划手办公仔 绿色蜥蜴和河狸动物模型摆件玩具",
+ "状态": "PUBLISHED",
+ "类目": "手办模型",
+ "规格价格": [
+  {
+   "价格": "16.00",
+   "库存": 1000,
+   "规格": "6款河狸变身"
+  }
+ ],
+ "规格图": [
+  [
+   "6款河狸变身",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01DDoPD71jxiz0llcMh_!!2200757714615-0-cib.jpg"
+  ]
+ ],
+ "规格属性": [
+  {
+   "值": [
+    "6款河狸变身"
+   ],
+   "属性": "颜色"
+  }
+ ],
+ "起订量": 2,
+ "阶梯价_登录后": [
+  {
+   "beginAmount": 2,
+   "price": "16.00"
+  },
+  {
+   "beginAmount": 100,
+   "price": "15.00"
+  }
+ ],
+ "url": "https://detail.1688.com/offer/1050609185042.html",
+ "核页时间": "2026-10-16T00:16:05.997Z"
+}

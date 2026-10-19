@@ -1,0 +1,102 @@
+{
+ "offerId": "1050002873923",
+ "条目": "H0375",
+ "block": false,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01iwALfu1wLnBWVVW3x_!!2218193816292-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN0197I39N1wLnBWYLUQz_!!2218193816292-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01HrqFrT1wLnBWTlUGi_!!2218193816292-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01yqYOwo1wLnBWX7Mfg_!!2218193816292-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01eQstxi1wLnBWcow2t_!!2218193816292-0-cib.jpg"
+ ],
+ "价格区间": "8.50-9.00",
+ "价格展示": "skuPrice",
+ "到手价": null,
+ "包装信息": [
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "【绿色】圣诞树秋千",
+   "skuId": 6244555007437,
+   "volume": 0,
+   "weight": 90,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "【黄色】月亮秋千",
+   "skuId": 6244555007438,
+   "volume": 0,
+   "weight": 90,
+   "width": 0
+  }
+ ],
+ "单位": "个",
+ "卖家公司": "济宁宠大条商贸有限公司",
+ "可售总量": 180000,
+ "商品属性": [
+  "品牌:宠大条",
+  "材质:木",
+  "产地:山东",
+  "是否进口:否",
+  "货号:CX72019",
+  "适用对象:通用",
+  "是否专利货源:否",
+  "主要下游平台:ebay/亚马逊/wish/速卖通/独立站/LAZADA/其他",
+  "主要销售地区:非洲/欧洲/南美/东南亚/北美/东北亚/中东/其他",
+  "有可授权的自有品牌:否",
+  "规格:【绿色】圣诞树秋千/【黄色】月亮秋千",
+  "是否跨境出口专供货源:是"
+ ],
+ "已售": 468,
+ "已登录": true,
+ "旺旺名": "宠大条生物科技公司",
+ "标题": "鹦鹉秋千彩色麻绳实木站架虎皮牡丹玄凤解闷磨爪攀爬玩具代发跨境",
+ "状态": "PUBLISHED",
+ "类目": "其他小宠用品",
+ "规格价格": [
+  {
+   "价格": "8.50",
+   "库存": 90000,
+   "规格": "【黄色】月亮秋千"
+  },
+  {
+   "价格": "9.00",
+   "库存": 90000,
+   "规格": "【绿色】圣诞树秋千"
+  }
+ ],
+ "规格图": [
+  [
+   "【绿色】圣诞树秋千",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01LDZUoG1wLnBWFp0G2_!!2218193816292-0-cib.jpg"
+  ],
+  [
+   "【黄色】月亮秋千",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01vFBTYV1wLnBW7tQ5Z_!!2218193816292-0-cib.jpg"
+  ]
+ ],
+ "规格属性": [
+  {
+   "值": [
+    "【绿色】圣诞树秋千",
+    "【黄色】月亮秋千"
+   ],
+   "属性": "规格"
+  }
+ ],
+ "起订量": 1,
+ "阶梯价_登录后": [
+  {
+   "beginAmount": 1,
+   "price": "8.50"
+  },
+  {
+   "beginAmount": 1,
+   "price": "9.00"
+  }
+ ],
+ "url": "https://detail.1688.com/offer/1050002873923.html",
+ "核页时间": "2026-10-16T00:45:40.404Z"
+}

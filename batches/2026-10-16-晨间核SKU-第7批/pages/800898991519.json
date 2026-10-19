@@ -1,0 +1,131 @@
+{
+ "offerId": "800898991519",
+ "条目": "H0366",
+ "block": false,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01HlEOue1nkfzoshHFz_!!2216449895128-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01CMjstI1nkgApXBdqf_!!2216449895128-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01LpcL9n1nkg5IbhHir_!!2216449895128-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01KKy7rH1nkgAqFGY4F_!!2216449895128-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01WZ8rhh1nkfzC2SgTu_!!2216449895128-0-cib.jpg"
+ ],
+ "价格区间": null,
+ "价格展示": "rangePrice",
+ "到手价": null,
+ "包装信息": [
+  {
+   "height": 0,
+   "length": 0,
+   "volume": 0,
+   "weight": 170,
+   "width": 0
+  }
+ ],
+ "单位": "包",
+ "卖家公司": "青岛稻进食品有限公司",
+ "可售总量": 3760,
+ "商品属性": [
+  "品牌:伊纳宝",
+  "适用阶段:成年",
+  "口味:鸡肉配方扇贝味/鸡肉配方添加鲣鱼节/鸡肉配方添加宗田鲣鱼/鸡肉配方添加小银鱼/鸡肉配方添加牛肉",
+  "是否进口:否",
+  "重量:60g",
+  "货号:IC-13~17C",
+  "产地:青岛",
+  "箱装数量:48",
+  "规格:60g",
+  "是否专利货源:否",
+  "是否跨境出口专供货源:否",
+  "是否属于礼品:否"
+ ],
+ "已售": 982,
+ "已登录": true,
+ "旺旺名": "青岛稻进食品有限公司",
+ "标题": "【定制】伊纳宝妙好全价金味道猫湿粮包鸡胸肉猫咪零食营养妙鲜包",
+ "状态": "PUBLISHED",
+ "类目": "猫猫湿粮",
+ "规格价格": [
+  {
+   "价格": null,
+   "库存": 0,
+   "规格": "鸡肉配方添加鲣鱼节&gt;60g"
+  },
+  {
+   "价格": null,
+   "库存": 940,
+   "规格": "鸡肉配方扇贝味&gt;60g"
+  },
+  {
+   "价格": null,
+   "库存": 940,
+   "规格": "鸡肉配方添加宗田鲣鱼&gt;60g"
+  },
+  {
+   "价格": null,
+   "库存": 940,
+   "规格": "鸡肉配方添加牛肉&gt;60g"
+  },
+  {
+   "价格": null,
+   "库存": 940,
+   "规格": "鸡肉配方添加小银鱼&gt;60g"
+  }
+ ],
+ "规格图": [
+  [
+   "鸡肉配方扇贝味",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01ZRBML81nkfzphCUlb_!!2216449895128-0-cib.jpg"
+  ],
+  [
+   "鸡肉配方添加鲣鱼节",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01Sw4z8v1nkfzmME8fR_!!2216449895128-0-cib.jpg"
+  ],
+  [
+   "鸡肉配方添加宗田鲣鱼",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01BgZbSc1nkfzhnQa5R_!!2216449895128-0-cib.jpg"
+  ],
+  [
+   "鸡肉配方添加小银鱼",
+   "https://cbu01.alicdn.com/img/ibank/O1CN016Kl3UG1nkfznArwqP_!!2216449895128-0-cib.jpg"
+  ],
+  [
+   "鸡肉配方添加牛肉",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01XX9KDs1nkfzquIPbX_!!2216449895128-0-cib.jpg"
+  ]
+ ],
+ "规格属性": [
+  {
+   "值": [
+    "鸡肉配方扇贝味",
+    "鸡肉配方添加鲣鱼节",
+    "鸡肉配方添加宗田鲣鱼",
+    "鸡肉配方添加小银鱼",
+    "鸡肉配方添加牛肉"
+   ],
+   "属性": "口味"
+  },
+  {
+   "值": [
+    "60g"
+   ],
+   "属性": "规格"
+  }
+ ],
+ "起订量": 3,
+ "阶梯价_登录后": [
+  {
+   "beginAmount": 3,
+   "price": "4.00"
+  },
+  {
+   "beginAmount": 10,
+   "price": "2.80"
+  },
+  {
+   "beginAmount": 48,
+   "price": "2.67"
+  }
+ ],
+ "url": "https://detail.1688.com/offer/800898991519.html",
+ "核页时间": "2026-10-16T00:43:36.998Z"
+}

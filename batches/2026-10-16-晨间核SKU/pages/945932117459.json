@@ -1,0 +1,93 @@
+{
+ "offerId": "945932117459",
+ "条目": "H0294",
+ "block": false,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01cwsnWG1ZRzJIZmFHo_!!2217861163192-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01O611UR1ZRzJHD1oG8_!!2217861163192-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01gNU0Sn1ZRzJJUxal6_!!2217861163192-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01bYmHlZ1ZRzJHD1oH3_!!2217861163192-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01rEmvwD1ZRzJJByDlv_!!2217861163192-0-cib.jpg"
+ ],
+ "价格区间": "4.00-6.00",
+ "价格展示": "rangePrice",
+ "到手价": {
+  "件数": 1,
+  "价": "3",
+  "说明": "新人价"
+ },
+ "包装信息": [
+  {
+   "height": 12.2,
+   "length": 3.6,
+   "sku1": "60ml",
+   "skuId": 5850366288149,
+   "volume": 158.112,
+   "weight": 75,
+   "width": 3.6
+  }
+ ],
+ "单位": "瓶",
+ "卖家公司": "深圳西之月选品跨境供应链有限公司",
+ "可售总量": 99730,
+ "商品属性": [
+  "容量:60ml",
+  "品牌:YEGBONG",
+  "适用对象:猫",
+  "货号:YE-G03-0032-01",
+  "是否进口:否",
+  "箱装数量:268pcs",
+  "是否专利货源:否",
+  "规格:60ml",
+  "主要下游平台:ebay/亚马逊/wish/速卖通/LAZADA",
+  "主要销售地区:欧洲/南美/东南亚/北美/东北亚",
+  "有可授权的自有品牌:是",
+  "是否跨境出口专供货源:是",
+  "箱规:56*36*21cm",
+  "产品分类:宠物用品-猫狗用品"
+ ],
+ "已售": 170,
+ "已登录": true,
+ "旺旺名": "eelhoetrade",
+ "标题": "YEGBONG 猫咪护理喷雾 安抚情绪猫咪防抓挠乱尿行为温和护理喷雾",
+ "状态": "PUBLISHED",
+ "类目": "禁区喷剂",
+ "规格价格": [
+  {
+   "价格": "6.00",
+   "库存": 99730,
+   "规格": "60ml"
+  }
+ ],
+ "规格图": [
+  [
+   "60ml",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01rEmvwD1ZRzJJByDlv_!!2217861163192-0-cib.jpg"
+  ]
+ ],
+ "规格属性": [
+  {
+   "值": [
+    "60ml"
+   ],
+   "属性": "规格"
+  }
+ ],
+ "起订量": 3,
+ "阶梯价_登录后": [
+  {
+   "beginAmount": 1,
+   "price": "6.00"
+  },
+  {
+   "beginAmount": 100,
+   "price": "5.00"
+  },
+  {
+   "beginAmount": 1000,
+   "price": "4.00"
+  }
+ ],
+ "url": "https://detail.1688.com/offer/945932117459.html",
+ "核页时间": "2026-10-16T00:24:46.195Z"
+}

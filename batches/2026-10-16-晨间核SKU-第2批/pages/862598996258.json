@@ -1,0 +1,327 @@
+{
+ "offerId": "862598996258",
+ "条目": "H0003",
+ "block": false,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01IAwZTP25TQCnvinsp_!!2208617607527-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN015C8MDT25TQCnCWg8l_!!2208617607527-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01SIuNQL25TQCqGFFvA_!!2208617607527-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01rE6onQ25TQCnCYpAa_!!2208617607527-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01g5xYYv25TQCqhUdTJ_!!2208617607527-0-cib.jpg"
+ ],
+ "价格区间": null,
+ "价格展示": "skuPrice",
+ "到手价": {
+  "件数": 2,
+  "价": "2.49"
+ },
+ "包装信息": [
+  {
+   "height": 0.1,
+   "length": 74,
+   "volume": 251.6,
+   "weight": 105,
+   "width": 34
+  }
+ ],
+ "单位": "条",
+ "卖家公司": "保定牧休纺织品制造有限公司",
+ "可售总量": 500,
+ "商品属性": [
+  "材质:纯棉",
+  "品牌:牧休",
+  "克重:100g（含）-120g（不含）",
+  "制作工艺:包边/平织/断档",
+  "纱线规格:32股",
+  "货号:14弱捻",
+  "加工定制:是",
+  "颜色:千鸟格-绿色/千鸟格-蓝色/千鸟格-灰绿色/彩虹条-粉色/彩虹条-蓝色/彩虹条-黄色/丝带格-粉色/丝带格-黄色/丝带格-蓝色/水波纹-蓝色/水波纹-棕色/水波纹-白色/三段毛巾-绿色/三段毛巾-米白/三段毛巾-浅粉/三段毛巾-棕色/金丝断档-米白色/金丝断档-蓝色/金丝断档-咖色/星光断档-棕色/星光断档-蓝色/星光断档-白色/圆点宽锻-蓝色/圆点宽锻-灰色/圆点宽锻-白色",
+  "规格（长*宽cm）:34*74cm"
+ ],
+ "已售": 27,
+ "已登录": true,
+ "旺旺名": "牧休纺织品制造有限公司",
+ "标题": "彩虹条毛巾独立包装柔软洗脸面巾加厚吸水礼品刺绣毛巾伴手礼批发",
+ "状态": "PUBLISHED",
+ "类目": "毛巾",
+ "规格价格": [
+  {
+   "价格": "4.19",
+   "库存": 20,
+   "规格": "星光断档-白色&gt;34*74cm"
+  },
+  {
+   "价格": "3.99",
+   "库存": 20,
+   "规格": "水波纹-棕色&gt;34*74cm"
+  },
+  {
+   "价格": "4.19",
+   "库存": 20,
+   "规格": "圆点宽锻-蓝色&gt;34*74cm"
+  },
+  {
+   "价格": "3.98",
+   "库存": 20,
+   "规格": "三段毛巾-绿色&gt;34*74cm"
+  },
+  {
+   "价格": "2.49",
+   "库存": 20,
+   "规格": "丝带格-黄色&gt;34*74cm"
+  },
+  {
+   "价格": "3.20",
+   "库存": 20,
+   "规格": "彩虹条-黄色&gt;34*74cm"
+  },
+  {
+   "价格": "3.99",
+   "库存": 20,
+   "规格": "水波纹-蓝色&gt;34*74cm"
+  },
+  {
+   "价格": "3.20",
+   "库存": 20,
+   "规格": "彩虹条-蓝色&gt;34*74cm"
+  },
+  {
+   "价格": "2.75",
+   "库存": 20,
+   "规格": "千鸟格-蓝色&gt;34*74cm"
+  },
+  {
+   "价格": "4.19",
+   "库存": 20,
+   "规格": "金丝断档-咖色&gt;34*74cm"
+  },
+  {
+   "价格": "3.98",
+   "库存": 20,
+   "规格": "三段毛巾-米白&gt;34*74cm"
+  },
+  {
+   "价格": "2.75",
+   "库存": 20,
+   "规格": "千鸟格-灰绿色&gt;34*74cm"
+  },
+  {
+   "价格": "3.98",
+   "库存": 20,
+   "规格": "三段毛巾-浅粉&gt;34*74cm"
+  },
+  {
+   "价格": "4.19",
+   "库存": 20,
+   "规格": "圆点宽锻-白色&gt;34*74cm"
+  },
+  {
+   "价格": "4.19",
+   "库存": 20,
+   "规格": "星光断档-蓝色&gt;34*74cm"
+  },
+  {
+   "价格": "3.20",
+   "库存": 20,
+   "规格": "彩虹条-粉色&gt;34*74cm"
+  },
+  {
+   "价格": "4.19",
+   "库存": 20,
+   "规格": "星光断档-棕色&gt;34*74cm"
+  },
+  {
+   "价格": "3.99",
+   "库存": 20,
+   "规格": "水波纹-白色&gt;34*74cm"
+  },
+  {
+   "价格": "4.19",
+   "库存": 20,
+   "规格": "金丝断档-蓝色&gt;34*74cm"
+  },
+  {
+   "价格": "4.19",
+   "库存": 20,
+   "规格": "金丝断档-米白色&gt;34*74cm"
+  },
+  {
+   "价格": "4.19",
+   "库存": 20,
+   "规格": "圆点宽锻-灰色&gt;34*74cm"
+  },
+  {
+   "价格": "3.98",
+   "库存": 20,
+   "规格": "三段毛巾-棕色&gt;34*74cm"
+  },
+  {
+   "价格": "2.49",
+   "库存": 20,
+   "规格": "丝带格-蓝色&gt;34*74cm"
+  },
+  {
+   "价格": "2.75",
+   "库存": 20,
+   "规格": "千鸟格-绿色&gt;34*74cm"
+  },
+  {
+   "价格": "2.49",
+   "库存": 20,
+   "规格": "丝带格-粉色&gt;34*74cm"
+  }
+ ],
+ "规格图": [
+  [
+   "千鸟格-绿色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01nyLusu25TQCiuxESH_!!2208617607527-0-cib.jpg"
+  ],
+  [
+   "千鸟格-蓝色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01yMne8X25TQCnyvzRS_!!2208617607527-0-cib.jpg"
+  ],
+  [
+   "千鸟格-灰绿色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01NAj24p25TQHO6kbFb_!!2208617607527-0-cib.jpg"
+  ],
+  [
+   "彩虹条-粉色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01OgNAWe25TQCsMgxUK_!!2208617607527-0-cib.jpg"
+  ],
+  [
+   "彩虹条-蓝色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01UrB17725TQCnFqeAI_!!2208617607527-0-cib.jpg"
+  ],
+  [
+   "彩虹条-黄色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01jXxxRH25TQCpkqHfB_!!2208617607527-0-cib.jpg"
+  ],
+  [
+   "丝带格-粉色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01UVJoTC25TQCqJWCo5_!!2208617607527-0-cib.jpg"
+  ],
+  [
+   "丝带格-黄色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN014ngFvI25TQCpkxGXe_!!2208617607527-0-cib.jpg"
+  ],
+  [
+   "丝带格-蓝色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01PSxhsY25TQCsMpQ1K_!!2208617607527-0-cib.jpg"
+  ],
+  [
+   "水波纹-蓝色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01ptxF9425TQCru3WGb_!!2208617607527-0-cib.jpg"
+  ],
+  [
+   "水波纹-棕色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01H4uynm25TQCqJapu8_!!2208617607527-0-cib.jpg"
+  ],
+  [
+   "水波纹-白色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN018LTaVK25TQCsMrdKQ_!!2208617607527-0-cib.jpg"
+  ],
+  [
+   "三段毛巾-绿色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01XodPGT25TQCqgFDzr_!!2208617607527-0-cib.jpg"
+  ],
+  [
+   "三段毛巾-米白",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01roJHm125TQCnzQCdA_!!2208617607527-0-cib.jpg"
+  ],
+  [
+   "三段毛巾-浅粉",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01tqOaoL25TQCoBT0aJ_!!2208617607527-0-cib.jpg"
+  ],
+  [
+   "三段毛巾-棕色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01tFEaHT25TQCoBSwTd_!!2208617607527-0-cib.jpg"
+  ],
+  [
+   "金丝断档-米白色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01JGFvEb25TQD3RgMnY_!!2208617607527-0-cib.jpg"
+  ],
+  [
+   "金丝断档-蓝色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01FzqcIu25TQD6OLQvI_!!2208617607527-0-cib.jpg"
+  ],
+  [
+   "金丝断档-咖色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01BXVJYC25TQD5q7Zle_!!2208617607527-0-cib.jpg"
+  ],
+  [
+   "星光断档-棕色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01wzgHuF25TQD49TDga_!!2208617607527-0-cib.jpg"
+  ],
+  [
+   "星光断档-蓝色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01xw09xV25TQD49VESG_!!2208617607527-0-cib.jpg"
+  ],
+  [
+   "星光断档-白色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01itGvh025TQD8NVOEX_!!2208617607527-0-cib.jpg"
+  ],
+  [
+   "圆点宽锻-蓝色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01SivJy625TQD6oD0gU_!!2208617607527-0-cib.jpg"
+  ],
+  [
+   "圆点宽锻-灰色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01oLSHep25TQG7BNJwS_!!2208617607527-0-cib.jpg"
+  ],
+  [
+   "圆点宽锻-白色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01wMHvSi25TQD3Rkrry_!!2208617607527-0-cib.jpg"
+  ]
+ ],
+ "规格属性": [
+  {
+   "值": [
+    "千鸟格-绿色",
+    "千鸟格-蓝色",
+    "千鸟格-灰绿色",
+    "彩虹条-粉色",
+    "彩虹条-蓝色",
+    "彩虹条-黄色",
+    "丝带格-粉色",
+    "丝带格-黄色",
+    "丝带格-蓝色",
+    "水波纹-蓝色",
+    "水波纹-棕色",
+    "水波纹-白色",
+    "三段毛巾-绿色",
+    "三段毛巾-米白",
+    "三段毛巾-浅粉",
+    "三段毛巾-棕色",
+    "金丝断档-米白色",
+    "金丝断档-蓝色",
+    "金丝断档-咖色",
+    "星光断档-棕色",
+    "星光断档-蓝色",
+    "星光断档-白色",
+    "圆点宽锻-蓝色",
+    "圆点宽锻-灰色",
+    "圆点宽锻-白色"
+   ],
+   "属性": "颜色"
+  },
+  {
+   "值": [
+    "34*74cm"
+   ],
+   "属性": "规格（长*宽cm）"
+  }
+ ],
+ "起订量": 2,
+ "阶梯价_登录后": [
+  {
+   "beginAmount": 2,
+   "price": "2.49"
+  },
+  {
+   "beginAmount": 2,
+   "price": "4.19"
+  }
+ ],
+ "url": "https://detail.1688.com/offer/862598996258.html",
+ "核页时间": "2026-10-15T23:13:29.777Z"
+}

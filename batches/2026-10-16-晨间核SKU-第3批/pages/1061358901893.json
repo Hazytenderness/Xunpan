@@ -1,0 +1,168 @@
+{
+ "offerId": "1061358901893",
+ "条目": "H0063",
+ "block": false,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN010ekyJi20PEdQVkN8V_!!3252956841-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01uWxZLY20PEdPoMX64_!!3252956841-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01zmihYN20PEdQVk6VE_!!3252956841-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01vGeGC620PEdQ0kI8V_!!3252956841-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN011LAlsQ20PEdPwPrKG_!!3252956841-0-cib.jpg"
+ ],
+ "价格区间": "5.45-5.50",
+ "价格展示": "rangePrice",
+ "到手价": {
+  "件数": 1,
+  "价": "4.5",
+  "说明": "新人价"
+ },
+ "包装信息": [
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "灰色",
+   "skuId": 6105655516591,
+   "volume": 0,
+   "weight": 110,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "粉色",
+   "skuId": 6105655516592,
+   "volume": 0,
+   "weight": 110,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "天蓝",
+   "skuId": 6105655516593,
+   "volume": 0,
+   "weight": 110,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "卡其",
+   "skuId": 6105655516594,
+   "volume": 0,
+   "weight": 110,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "孔雀蓝",
+   "skuId": 6105655516595,
+   "volume": 0,
+   "weight": 110,
+   "width": 0
+  }
+ ],
+ "单位": "个",
+ "卖家公司": "义乌市嘉徒户外用品有限公司",
+ "可售总量": 83854,
+ "商品属性": [
+  "产品类别:充气枕",
+  "品牌:无",
+  "规格:46*27cm",
+  "货号:JT-CQZ-05",
+  "产地:中国",
+  "主要下游平台:ebay/亚马逊/wish/速卖通/独立站/LAZADA/其他",
+  "主要销售地区:非洲/欧洲/南美/东南亚/北美/东北亚/中东",
+  "有可授权的自有品牌:是",
+  "是否跨境出口专供货源:是",
+  "颜色:灰色/粉色/天蓝/卡其/孔雀蓝",
+  "专利类型:无",
+  "外贸出口认证:无",
+  "质检报告编号:/"
+ ],
+ "已售": 511,
+ "已登录": true,
+ "旺旺名": "嘉途户外用品",
+ "标题": "新款2026旅行按压便携U型枕飞机高铁车载午休枕头颈枕护脖充气枕",
+ "状态": "PUBLISHED",
+ "类目": "其他户外用品",
+ "规格价格": [
+  {
+   "价格": "5.50",
+   "库存": 16844,
+   "规格": "粉色"
+  },
+  {
+   "价格": "5.50",
+   "库存": 16845,
+   "规格": "孔雀蓝"
+  },
+  {
+   "价格": "5.50",
+   "库存": 16510,
+   "规格": "灰色"
+  },
+  {
+   "价格": "5.50",
+   "库存": 16853,
+   "规格": "天蓝"
+  },
+  {
+   "价格": "5.50",
+   "库存": 16802,
+   "规格": "卡其"
+  }
+ ],
+ "规格图": [
+  [
+   "灰色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01fgUcmZ20PEdPgELTh_!!3252956841-0-cib.jpg"
+  ],
+  [
+   "粉色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01c88jOZ20PEdPvBoH4_!!3252956841-0-cib.jpg"
+  ],
+  [
+   "天蓝",
+   "https://cbu01.alicdn.com/img/ibank/O1CN010HIKwT20PEdQ0m6N4_!!3252956841-0-cib.jpg"
+  ],
+  [
+   "卡其",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01PbL7Yi20PEdQBganQ_!!3252956841-0-cib.jpg"
+  ],
+  [
+   "孔雀蓝",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01qzgipD20PEdPwXqkz_!!3252956841-0-cib.jpg"
+  ]
+ ],
+ "规格属性": [
+  {
+   "值": [
+    "灰色",
+    "粉色",
+    "天蓝",
+    "卡其",
+    "孔雀蓝"
+   ],
+   "属性": "颜色"
+  }
+ ],
+ "起订量": 1,
+ "阶梯价_登录后": [
+  {
+   "beginAmount": 1,
+   "price": "5.50"
+  },
+  {
+   "beginAmount": 1000,
+   "price": "5.48"
+  },
+  {
+   "beginAmount": 10000,
+   "price": "5.45"
+  }
+ ],
+ "url": "https://detail.1688.com/offer/1061358901893.html",
+ "核页时间": "2026-10-15T23:27:17.481Z"
+}

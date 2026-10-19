@@ -1,0 +1,157 @@
+{
+ "offerId": "655066648864",
+ "条目": "H0011",
+ "block": false,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01N4RnEE1pi2phReTBd_!!3886215393-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01A34GrY1pi2grYGGHy_!!3886215393-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01poc4ld1pi2glR26De_!!3886215393-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01saBWaP1pi2glQyPAs_!!3886215393-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01bdWkyY1Bs2iMTCurD_!!0-0-cib.jpg"
+ ],
+ "价格区间": "5.00-15.00",
+ "价格展示": "skuPrice",
+ "到手价": {
+  "件数": 2,
+  "价": "4.5",
+  "说明": "新人价"
+ },
+ "包装信息": [
+  {
+   "height": 10,
+   "length": 25,
+   "sku1": "小号",
+   "skuId": 5207499567622,
+   "volume": 3750,
+   "weight": 600,
+   "width": 15
+  },
+  {
+   "height": 15,
+   "length": 30,
+   "sku1": "中号",
+   "skuId": 5207499567623,
+   "volume": 9000,
+   "weight": 800,
+   "width": 20
+  },
+  {
+   "height": 20,
+   "length": 35,
+   "sku1": "大号",
+   "skuId": 5207499567624,
+   "volume": 17500,
+   "weight": 900,
+   "width": 25
+  },
+  {
+   "height": 20,
+   "length": 40,
+   "sku1": "加大号",
+   "skuId": 5207499567621,
+   "volume": 24000,
+   "weight": 1000,
+   "width": 30
+  }
+ ],
+ "单位": "个",
+ "卖家公司": "台州市黄岩米迈塑业有限公司",
+ "可售总量": 31882,
+ "商品属性": [
+  "材质:pet",
+  "功能:整理",
+  "产品类别:杂物收纳筐",
+  "品牌:米迈",
+  "容量:1L",
+  "收纳场景:浴室",
+  "是否进口:否",
+  "商品特性:无盖",
+  "适用范围:其他",
+  "风格:现代简约",
+  "图案:纯色",
+  "规格:透明款",
+  "产地:台州",
+  "货号:MMA9527",
+  "加工定制:否",
+  "加印LOGO:可以",
+  "贸易属性:内贸+外贸",
+  "箱装数量:48",
+  "产品上市时间:2020年",
+  "价格段:5-10元",
+  "专利:否",
+  "颜色:小号/中号/大号/加大号",
+  "是否跨境出口专供货源:否",
+  "毛重:0.8kg",
+  "类别:收纳架"
+ ],
+ "已售": 0,
+ "已登录": true,
+ "旺旺名": "米迈塑业",
+ "标题": "透明pet收纳盒收纳套装储物小物件浴室卧室厨房宿舍杂物筐置物",
+ "状态": "PUBLISHED",
+ "类目": "收纳盒",
+ "规格价格": [
+  {
+   "价格": "15.00",
+   "库存": 8907,
+   "规格": "加大号"
+  },
+  {
+   "价格": "7.30",
+   "库存": 9458,
+   "规格": "中号"
+  },
+  {
+   "价格": "5.00",
+   "库存": 4094,
+   "规格": "小号"
+  },
+  {
+   "价格": "11.00",
+   "库存": 9423,
+   "规格": "大号"
+  }
+ ],
+ "规格图": [
+  [
+   "小号",
+   "https://cbu01.alicdn.com/img/ibank/O1CN012zx9rI1pi2hBBt0gF_!!3886215393-0-cib.jpg"
+  ],
+  [
+   "中号",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01WRVFbF1pi2hHy9lmY_!!3886215393-0-cib.jpg"
+  ],
+  [
+   "大号",
+   "https://cbu01.alicdn.com/img/ibank/O1CN012SrjaO1pi2hHyAZj2_!!3886215393-0-cib.jpg"
+  ],
+  [
+   "加大号",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01OW7wmI1pi2hM2xmm0_!!3886215393-0-cib.jpg"
+  ]
+ ],
+ "规格属性": [
+  {
+   "值": [
+    "小号",
+    "中号",
+    "大号",
+    "加大号"
+   ],
+   "属性": "颜色"
+  }
+ ],
+ "起订量": 2,
+ "阶梯价_登录后": [
+  {
+   "beginAmount": 2,
+   "price": "5.00"
+  },
+  {
+   "beginAmount": 2,
+   "price": "15.00"
+  }
+ ],
+ "url": "https://detail.1688.com/offer/655066648864.html",
+ "核页时间": "2026-10-15T23:15:38.426Z"
+}

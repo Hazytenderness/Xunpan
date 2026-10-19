@@ -1,0 +1,179 @@
+{
+ "offerId": "769362318165",
+ "条目": "H0237",
+ "block": false,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01v6UkOC1zdbDrSfemS_!!2214695716737-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01LmQggu1zdbDrwOECi_!!2214695716737-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01Q6Ie9N1zdbDmOoFmD_!!2214695716737-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01k4heN01zdbDrSgOYH_!!2214695716737-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01t2DOwA1zdbDt3DdTl_!!2214695716737-0-cib.jpg"
+ ],
+ "价格区间": null,
+ "价格展示": "skuPrice",
+ "到手价": null,
+ "包装信息": [
+  {
+   "height": 8,
+   "length": 23,
+   "sku1": "20cm白色",
+   "skuId": 5278197729124,
+   "volume": 2576,
+   "weight": 280,
+   "width": 14
+  },
+  {
+   "height": 8,
+   "length": 33,
+   "sku1": "30cm白色",
+   "skuId": 5278197729125,
+   "volume": 3696,
+   "weight": 420,
+   "width": 14
+  },
+  {
+   "height": 8,
+   "length": 43,
+   "sku1": "40cm白色",
+   "skuId": 5278197729126,
+   "volume": 4816,
+   "weight": 530,
+   "width": 14
+  },
+  {
+   "height": 8,
+   "length": 23,
+   "sku1": "20cm黑色",
+   "skuId": 5278197729127,
+   "volume": 2576,
+   "weight": 280,
+   "width": 14
+  },
+  {
+   "height": 8,
+   "length": 33,
+   "sku1": "30cm黑色",
+   "skuId": 5278197729128,
+   "volume": 3696,
+   "weight": 420,
+   "width": 14
+  },
+  {
+   "height": 8,
+   "length": 43,
+   "sku1": "40cm黑色",
+   "skuId": 5278197729129,
+   "volume": 4816,
+   "weight": 530,
+   "width": 14
+  }
+ ],
+ "单位": "件",
+ "卖家公司": "惠州市铭泉友盛家居有限公司",
+ "可售总量": 3958,
+ "商品属性": [
+  "材质:铁",
+  "品牌:圣西陶",
+  "层数:1层",
+  "表面处理:烤漆",
+  "风格:现代简约风",
+  "认证:无",
+  "尺寸:20cm白色/30cm白色/40cm白色/20cm黑色/30cm黑色/40cm黑色",
+  "是否一般纳税人:是",
+  "货号:QY-10005",
+  "型号:QY-10005",
+  "产地:广东惠州",
+  "承重:5-10kg(含)",
+  "是否跨境出口专供货源:否"
+ ],
+ "已售": 14,
+ "已登录": true,
+ "旺旺名": "泉友实业有限公司",
+ "标题": "免打孔置物架卫生间墙上壁挂式架子洗漱台用品大全厕所浴室收纳架",
+ "状态": "PUBLISHED",
+ "类目": "卫浴置物架",
+ "规格价格": [
+  {
+   "价格": "8.50",
+   "库存": 992,
+   "规格": "20cm黑色"
+  },
+  {
+   "价格": "8.50",
+   "库存": 0,
+   "规格": "20cm白色"
+  },
+  {
+   "价格": "10.50",
+   "库存": 973,
+   "规格": "30cm白色"
+  },
+  {
+   "价格": "10.50",
+   "库存": 998,
+   "规格": "30cm黑色"
+  },
+  {
+   "价格": "13.50",
+   "库存": 995,
+   "规格": "40cm黑色"
+  },
+  {
+   "价格": "13.50",
+   "库存": 0,
+   "规格": "40cm白色"
+  }
+ ],
+ "规格图": [
+  [
+   "30cm白色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01v74TNC1zdbDpjxXc5_!!2214695716737-0-cib.jpg"
+  ],
+  [
+   "20cm黑色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN012kDqcs1zdbDpjxXcR_!!2214695716737-0-cib.jpg"
+  ],
+  [
+   "30cm黑色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN012R4eaZ1zdbDqRs3g1_!!2214695716737-0-cib.jpg"
+  ],
+  [
+   "40cm黑色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01QWLby61zdbDrShbPD_!!2214695716737-0-cib.jpg"
+  ],
+  [
+   "20cm白色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN018NJWFj1zdbDtRyrm7_!!2214695716737-0-cib.jpg"
+  ],
+  [
+   "40cm白色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01RRV5k41zdbDrSfiyC_!!2214695716737-0-cib.jpg"
+  ]
+ ],
+ "规格属性": [
+  {
+   "值": [
+    "30cm白色",
+    "20cm黑色",
+    "30cm黑色",
+    "40cm黑色",
+    "20cm白色",
+    "40cm白色"
+   ],
+   "属性": "尺寸"
+  }
+ ],
+ "起订量": 2,
+ "阶梯价_登录后": [
+  {
+   "beginAmount": 2,
+   "price": "8.50"
+  },
+  {
+   "beginAmount": 2,
+   "price": "13.50"
+  }
+ ],
+ "url": "https://detail.1688.com/offer/769362318165.html",
+ "核页时间": "2026-10-16T00:11:08.431Z"
+}

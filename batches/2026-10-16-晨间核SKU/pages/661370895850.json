@@ -1,0 +1,87 @@
+{
+ "offerId": "661370895850",
+ "条目": "H0232",
+ "block": false,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01doSVVD1LoVpA4Sn0K_!!2211820891346-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN011jUQsE1LoVpDXw0hu_!!2211820891346-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01aXH7du1LoVpE3gWq0_!!2211820891346-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01vEnGIm1LoVpE3fK0C_!!2211820891346-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01loB2u21LoVpB0mNlM_!!2211820891346-0-cib.jpg"
+ ],
+ "价格区间": null,
+ "价格展示": "rangePrice",
+ "到手价": null,
+ "包装信息": null,
+ "单位": "个",
+ "卖家公司": "荔浦市鹏程家居用品有限公司",
+ "可售总量": null,
+ "商品属性": [
+  "材质:木",
+  "品牌:PC",
+  "产品类别:衣架",
+  "包装数量:单只装",
+  "是否进口:否",
+  "产地:其他",
+  "产品上市时间:2015年夏",
+  "货号:PCP66",
+  "加工定制:否",
+  "箱装数量:100",
+  "颜色:原木色",
+  "规格:44.5*1.2",
+  "是否跨境出口专供货源:否",
+  "风格:现代简约",
+  "是否有专利:否",
+  "版权:无"
+ ],
+ "已售": 0,
+ "已登录": true,
+ "旺旺名": "king9910182021",
+ "标题": "高端定制原木色无痕木衣架打坎圆头一级实木衣架防滑服装酒店衣挂",
+ "状态": "PUBLISHED",
+ "类目": "衣架",
+ "规格价格": [
+  {
+   "价格": null,
+   "库存": 0,
+   "规格": "原木色&gt;44.5*1.2"
+  }
+ ],
+ "规格图": [
+  [
+   "原木色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01doSVVD1LoVpA4Sn0K_!!2211820891346-0-cib.jpg"
+  ]
+ ],
+ "规格属性": [
+  {
+   "值": [
+    "原木色"
+   ],
+   "属性": "颜色"
+  },
+  {
+   "值": [
+    "44.5*1.2"
+   ],
+   "属性": "规格"
+  }
+ ],
+ "起订量": 2000,
+ "阶梯价_登录后": [
+  {
+   "beginAmount": 2000,
+   "price": "2.20"
+  },
+  {
+   "beginAmount": 6000,
+   "price": "2.10"
+  },
+  {
+   "beginAmount": 10000,
+   "price": "2.00"
+  }
+ ],
+ "url": "https://detail.1688.com/offer/661370895850.html",
+ "核页时间": "2026-10-16T00:09:46.935Z"
+}

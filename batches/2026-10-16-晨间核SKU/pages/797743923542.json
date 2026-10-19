@@ -1,0 +1,225 @@
+{
+ "offerId": "797743923542",
+ "条目": "H0276",
+ "block": false,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01T0eFJy2H41ZaRFZJS_!!2216789859096-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN018bkqno2H41ZZJdI0Y_!!2216789859096-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN019zvCcQ2H41ZPpLCru_!!2216789859096-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01kKemhS2H41ZXUaZBQ_!!2216789859096-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01YhzShg2H41ZVd9py3_!!2216789859096-0-cib.jpg"
+ ],
+ "价格区间": "4.50-49.00",
+ "价格展示": "skuPrice",
+ "到手价": {
+  "件数": 1,
+  "价": "2.28",
+  "说明": "新人价"
+ },
+ "包装信息": [
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "4mm",
+   "sku2": "20米",
+   "skuId": 5440369029302,
+   "volume": 0,
+   "weight": 200,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "4mm",
+   "sku2": "50米",
+   "skuId": 5440369029303,
+   "volume": 0,
+   "weight": 400,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "4mm",
+   "sku2": "100米",
+   "skuId": 5440369029304,
+   "volume": 0,
+   "weight": 800,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "6mm",
+   "sku2": "20米",
+   "skuId": 5440369029305,
+   "volume": 0,
+   "weight": 260,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "6mm",
+   "sku2": "50米",
+   "skuId": 5440369029306,
+   "volume": 0,
+   "weight": 500,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "6mm",
+   "sku2": "100米",
+   "skuId": 5440369029307,
+   "volume": 0,
+   "weight": 1000,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "8mm",
+   "sku2": "20米",
+   "skuId": 5440369029308,
+   "volume": 0,
+   "weight": 365,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "8mm",
+   "sku2": "50米",
+   "skuId": 5440369029309,
+   "volume": 0,
+   "weight": 860,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "8mm",
+   "sku2": "100米",
+   "skuId": 5440369029310,
+   "volume": 0,
+   "weight": 1500,
+   "width": 0
+  }
+ ],
+ "单位": "件",
+ "卖家公司": "义乌市秋合宠物用品有限公司",
+ "可售总量": 7660334,
+ "商品属性": [
+  "材质:黄麻",
+  "品牌:QH PET",
+  "风格:简约",
+  "是否专利货源:否",
+  "是否进口:否",
+  "货号:MS1650",
+  "规格:20米/50米/100米",
+  "是否跨境出口专供货源:是",
+  "主要销售地区:欧美",
+  "主要下游平台:亚马逊",
+  "颜色:4mm/6mm/8mm"
+ ],
+ "已售": 309,
+ "已登录": true,
+ "旺旺名": "秋合宠物用品",
+ "标题": "宠物DIY手工麻绳 猫爬架用猫咪抓绳剑麻绳材料猫抓板猫抓盆猫玩具",
+ "状态": "PUBLISHED",
+ "类目": "猫爬架",
+ "规格价格": [
+  {
+   "价格": "9.50",
+   "库存": 883495,
+   "规格": "4mm&gt;50米"
+  },
+  {
+   "价格": "4.28",
+   "库存": 856038,
+   "规格": "4mm&gt;20米"
+  },
+  {
+   "价格": "14.25",
+   "库存": 872588,
+   "规格": "6mm&gt;50米"
+  },
+  {
+   "价格": "46.55",
+   "库存": 804748,
+   "规格": "8mm&gt;100米"
+  },
+  {
+   "价格": "9.98",
+   "库存": 824453,
+   "规格": "8mm&gt;20米"
+  },
+  {
+   "价格": "6.18",
+   "库存": 854586,
+   "规格": "6mm&gt;20米"
+  },
+  {
+   "价格": "18.05",
+   "库存": 849404,
+   "规格": "4mm&gt;100米"
+  },
+  {
+   "价格": "23.75",
+   "库存": 837860,
+   "规格": "8mm&gt;50米"
+  },
+  {
+   "价格": "27.55",
+   "库存": 877162,
+   "规格": "6mm&gt;100米"
+  }
+ ],
+ "规格图": [
+  [
+   "4mm",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01H6kBQw2H41ZZDCRAy_!!2216789859096-0-cib.jpg"
+  ],
+  [
+   "6mm",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01rfsHG32H41ZbZXjda_!!2216789859096-0-cib.jpg"
+  ],
+  [
+   "8mm",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01UVpZHL2H41ZZlSyh6_!!2216789859096-0-cib.jpg"
+  ]
+ ],
+ "规格属性": [
+  {
+   "值": [
+    "4mm",
+    "6mm",
+    "8mm"
+   ],
+   "属性": "颜色"
+  },
+  {
+   "值": [
+    "20米",
+    "50米",
+    "100米"
+   ],
+   "属性": "规格"
+  }
+ ],
+ "起订量": 1,
+ "阶梯价_登录后": [
+  {
+   "beginAmount": 1,
+   "price": "4.28"
+  },
+  {
+   "beginAmount": 1,
+   "price": "46.55"
+  }
+ ],
+ "url": "https://detail.1688.com/offer/797743923542.html",
+ "核页时间": "2026-10-15T23:04:40.239Z"
+}

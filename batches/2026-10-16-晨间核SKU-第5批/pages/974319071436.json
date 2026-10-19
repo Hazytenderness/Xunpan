@@ -1,0 +1,231 @@
+{
+ "offerId": "974319071436",
+ "条目": "H0328",
+ "block": false,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01HRECKw1NBhrWTTS7O_!!2219689131532-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01D8GzmS1NBhrWPMwHb_!!2219689131532-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01obY9Qh1NBhrVqCCIy_!!2219689131532-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01B8QpE41NBhrX2GgwR_!!2219689131532-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01ZwmNbE1NBhrWhOlTz_!!2219689131532-0-cib.jpg"
+ ],
+ "价格区间": "11.47-16.50",
+ "价格展示": "skuPrice",
+ "到手价": {
+  "件数": 1,
+  "价": "10.47",
+  "说明": "新人价"
+ },
+ "包装信息": [
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "白色【LED充电款 数显款】",
+   "sku2": "无",
+   "skuId": 5929176933723,
+   "volume": 0,
+   "weight": 150,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "绿色【LED充电款 数显款】",
+   "sku2": "无",
+   "skuId": 5929176933724,
+   "volume": 0,
+   "weight": 150,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "粉色【LED充电款 数显款】",
+   "sku2": "无",
+   "skuId": 5929176933725,
+   "volume": 0,
+   "weight": 150,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "灰白色【LED充电款 防水款】",
+   "sku2": "无",
+   "skuId": 5929176933726,
+   "volume": 0,
+   "weight": 150,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "绿白色【LED充电款 防水款】",
+   "sku2": "无",
+   "skuId": 5929176933727,
+   "volume": 0,
+   "weight": 150,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "粉白色【LED充电款 防水款】",
+   "sku2": "无",
+   "skuId": 5929176933728,
+   "volume": 0,
+   "weight": 150,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "拇指剃毛器白色",
+   "sku2": "无",
+   "skuId": 6285051302538,
+   "volume": 0,
+   "weight": 120,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "拇指剃毛器绿色",
+   "sku2": "无",
+   "skuId": 6285051302539,
+   "volume": 0,
+   "weight": 120,
+   "width": 0
+  }
+ ],
+ "单位": "个",
+ "卖家公司": "义乌市歆霏科技有限公司",
+ "可售总量": 14900,
+ "商品属性": [
+  "品牌:其他",
+  "材质:ABS",
+  "是否专利货源:否",
+  "是否进口:否",
+  "货号:lx-926",
+  "颜色:白色【LED充电款 数显款】/绿色【LED充电款 数显款】/粉色【LED充电款 数显款】/灰白色【LED充电款 防水款】/绿白色【LED充电款 防水款】/粉白色【LED充电款 防水款】/拇指剃毛器白色/拇指剃毛器绿色",
+  "是否跨境出口专供货源:否",
+  "有可授权的自有品牌:有",
+  "规格:无"
+ ],
+ "已售": 2466,
+ "已登录": true,
+ "旺旺名": "歆霏宠物用品实力工厂",
+ "标题": "宠物电动剃毛器宠物猫咪狗狗剃毛器电推剪专用电推剪猫爪修脚神器",
+ "状态": "PUBLISHED",
+ "类目": "宠物电推剪",
+ "规格价格": [
+  {
+   "价格": "15.00",
+   "库存": 1935,
+   "规格": "灰白色【LED充电款 防水款】&gt;无"
+  },
+  {
+   "价格": "11.50",
+   "库存": 1854,
+   "规格": "粉色【LED充电款 数显款】&gt;无"
+  },
+  {
+   "价格": "15.00",
+   "库存": 1995,
+   "规格": "绿白色【LED充电款 防水款】&gt;无"
+  },
+  {
+   "价格": "15.00",
+   "库存": 1982,
+   "规格": "粉白色【LED充电款 防水款】&gt;无"
+  },
+  {
+   "价格": "16.50",
+   "库存": 1992,
+   "规格": "拇指剃毛器白色&gt;无"
+  },
+  {
+   "价格": "11.50",
+   "库存": 1666,
+   "规格": "绿色【LED充电款 数显款】&gt;无"
+  },
+  {
+   "价格": "11.47",
+   "库存": 1488,
+   "规格": "白色【LED充电款 数显款】&gt;无"
+  },
+  {
+   "价格": "16.50",
+   "库存": 1988,
+   "规格": "拇指剃毛器绿色&gt;无"
+  }
+ ],
+ "规格图": [
+  [
+   "白色【LED充电款 数显款】",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01iItylA1NBhrWPXsep_!!2219689131532-0-cib.jpg"
+  ],
+  [
+   "绿色【LED充电款 数显款】",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01Y08PXg1NBhrQEJqOA_!!2219689131532-0-cib.jpg"
+  ],
+  [
+   "粉色【LED充电款 数显款】",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01jTBEYA1NBhrW4IZjs_!!2219689131532-0-cib.jpg"
+  ],
+  [
+   "灰白色【LED充电款 防水款】",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01OSOmjb1NBhrW4MT9T_!!2219689131532-0-cib.jpg"
+  ],
+  [
+   "绿白色【LED充电款 防水款】",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01EpFaM91NBhrVqSAwl_!!2219689131532-0-cib.jpg"
+  ],
+  [
+   "粉白色【LED充电款 防水款】",
+   "https://cbu01.alicdn.com/img/ibank/O1CN011CZwoy1NBhrWppiY4_!!2219689131532-0-cib.jpg"
+  ],
+  [
+   "拇指剃毛器白色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01ya3z1gelkVK2vH2e_!!2219689131532-0-cib.jpg"
+  ],
+  [
+   "拇指剃毛器绿色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN014jIcTjaQnqI2vH2e_!!2219689131532-0-cib.jpg"
+  ]
+ ],
+ "规格属性": [
+  {
+   "值": [
+    "白色【LED充电款 数显款】",
+    "绿色【LED充电款 数显款】",
+    "粉色【LED充电款 数显款】",
+    "灰白色【LED充电款 防水款】",
+    "绿白色【LED充电款 防水款】",
+    "粉白色【LED充电款 防水款】",
+    "拇指剃毛器白色",
+    "拇指剃毛器绿色"
+   ],
+   "属性": "颜色"
+  },
+  {
+   "值": [
+    "无"
+   ],
+   "属性": "规格"
+  }
+ ],
+ "起订量": 1,
+ "阶梯价_登录后": [
+  {
+   "beginAmount": 1,
+   "price": "11.47"
+  },
+  {
+   "beginAmount": 1,
+   "price": "16.50"
+  }
+ ],
+ "url": "https://detail.1688.com/offer/974319071436.html",
+ "核页时间": "2026-10-16T00:33:45.221Z"
+}

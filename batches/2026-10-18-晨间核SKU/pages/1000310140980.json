@@ -1,0 +1,81 @@
+{
+ "offerId": "1000310140980",
+ "条目": "H0002",
+ "block": false,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN019V6ZfI2D0aHnxqKYD_!!1024188547-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01CKtUDX2D0aHZxgezh_!!1024188547-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN018IMOwL2D0aIToGv7M_!!1024188547-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01Fwi87q2D0aITgtugs_!!1024188547-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01n0cvTi2D0aHa5Xtld_!!1024188547-0-cib.jpg"
+ ],
+ "价格区间": null,
+ "价格展示": "skuPrice",
+ "到手价": null,
+ "包装信息": null,
+ "单位": "件",
+ "卖家公司": "嘉兴山途户外用品有限公司",
+ "可售总量": null,
+ "商品属性": [
+  "主体材质:涤纶（聚酯纤维）",
+  "品牌:tmt",
+  "适用人群:通用",
+  "颜色:白色",
+  "货号:DZ-HY63",
+  "适用运动:睡眠",
+  "箱装数量:50",
+  "规格:睡眠腰带【90*19cm】/延长搭扣",
+  "适用场景:其他",
+  "是否跨境出口专供货源:否",
+  "专利类型:无",
+  "外贸出口认证:其他",
+  "质检报告编号:其他",
+  "医疗器械备案凭证编号：:其他"
+ ],
+ "已售": 6484,
+ "已登录": true,
+ "旺旺名": "shantuhuwai",
+ "标题": "加工定制睡觉护腰护腰带保暖睡眠腰枕腰托腰垫腰部支撑束腰",
+ "状态": "PUBLISHED",
+ "类目": "护腰",
+ "规格价格": [
+  {
+   "价格": "40.00",
+   "库存": 498,
+   "规格": "睡眠腰带【90*19cm】"
+  },
+  {
+   "价格": "15.00",
+   "库存": 468,
+   "规格": "延长搭扣"
+  }
+ ],
+ "规格图": [
+  [
+   "延长搭扣",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01mgQyjU2D0aHahIywQ_!!1024188547-0-cib.jpg"
+  ]
+ ],
+ "规格属性": [
+  {
+   "值": [
+    "睡眠腰带【90*19cm】",
+    "延长搭扣"
+   ],
+   "属性": "规格"
+  }
+ ],
+ "起订量": 2000,
+ "阶梯价_登录后": [
+  {
+   "beginAmount": 2000,
+   "price": "15.00"
+  },
+  {
+   "beginAmount": 2000,
+   "price": "40.00"
+  }
+ ],
+ "url": "https://detail.1688.com/offer/1000310140980.html",
+ "核页时间": "2026-10-17T23:00:34.213Z"
+}

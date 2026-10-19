@@ -1,0 +1,154 @@
+{
+ "offerId": "1046953552994",
+ "条目": "H0008",
+ "block": false,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01laVPro1vbXCAiQ2RF_!!2222327496191-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01zKIDG01vbXCF6QS12_!!2222327496191-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01Cu49nJ1vbXCF6RrKw_!!2222327496191-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN010MGTVL1vbXCF1yxF1_!!2222327496191-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN017Y6PYI1vbXCF6879Q_!!2222327496191-0-cib.jpg"
+ ],
+ "价格区间": "1.35-1.50",
+ "价格展示": "rangePrice",
+ "到手价": {
+  "件数": 3,
+  "价": "1.17",
+  "说明": "新人价"
+ },
+ "包装信息": [
+  {
+   "height": 20,
+   "length": 50,
+   "volume": 50000,
+   "weight": 200,
+   "width": 50
+  }
+ ],
+ "单位": "支",
+ "卖家公司": "南阳市栩和工艺品有限公司",
+ "可售总量": 798564,
+ "商品属性": [
+  "材质:绢花",
+  "工艺:丝网印",
+  "品种:雏菊",
+  "用途:摄影道具/家居装扮/其他",
+  "品牌:其他",
+  "货号:ZYA47",
+  "是否专利货源:否",
+  "颜色:1#白色/2#粉色/3#黄色/4#玫红色/5#紫色/6#兰色/7#大红/8#桔色",
+  "产品形态:单枝",
+  "规格:12g左右",
+  "尺寸:42cm整支左右"
+ ],
+ "已售": 204,
+ "已登录": true,
+ "旺旺名": "栩和工艺品厂",
+ "标题": "跨境外贸高级感逼真非洲菊客厅桌面摆件婚庆造景软装单支仿真花",
+ "状态": "PUBLISHED",
+ "类目": "仿真花",
+ "规格价格": [
+  {
+   "价格": "1.50",
+   "库存": 99992,
+   "规格": "4#玫红色"
+  },
+  {
+   "价格": "1.50",
+   "库存": 99577,
+   "规格": "1#白色"
+  },
+  {
+   "价格": "1.50",
+   "库存": 99780,
+   "规格": "7#大红"
+  },
+  {
+   "价格": "1.50",
+   "库存": 99884,
+   "规格": "3#黄色"
+  },
+  {
+   "价格": "1.50",
+   "库存": 99793,
+   "规格": "6#兰色"
+  },
+  {
+   "价格": "1.50",
+   "库存": 99667,
+   "规格": "2#粉色"
+  },
+  {
+   "价格": "1.50",
+   "库存": 99889,
+   "规格": "5#紫色"
+  },
+  {
+   "价格": "1.50",
+   "库存": 99982,
+   "规格": "8#桔色"
+  }
+ ],
+ "规格图": [
+  [
+   "1#白色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN0105INlK1vbXCFFK3ts_!!2222327496191-0-cib.jpg"
+  ],
+  [
+   "2#粉色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01GRxjR41vbXCAikZvn_!!2222327496191-0-cib.jpg"
+  ],
+  [
+   "3#黄色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01Uux6hv1vbXCF6Q2UC_!!2222327496191-0-cib.jpg"
+  ],
+  [
+   "4#玫红色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01uOy75A1vbXCFEl4EH_!!2222327496191-0-cib.jpg"
+  ],
+  [
+   "5#紫色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01v6GVzB1vbXCAikmUz_!!2222327496191-0-cib.jpg"
+  ],
+  [
+   "6#兰色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01seEXqX1vbXCFEmTgQ_!!2222327496191-0-cib.jpg"
+  ],
+  [
+   "7#大红",
+   "https://cbu01.alicdn.com/img/ibank/O1CN011hvPW31vbXCFFPu2t_!!2222327496191-0-cib.jpg"
+  ],
+  [
+   "8#桔色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01NZDrMv1vbXCEtctlm_!!2222327496191-0-cib.jpg"
+  ]
+ ],
+ "规格属性": [
+  {
+   "值": [
+    "1#白色",
+    "2#粉色",
+    "3#黄色",
+    "4#玫红色",
+    "5#紫色",
+    "6#兰色",
+    "7#大红",
+    "8#桔色"
+   ],
+   "属性": "颜色"
+  }
+ ],
+ "起订量": 3,
+ "阶梯价_登录后": [
+  {
+   "beginAmount": 3,
+   "price": "1.50"
+  },
+  {
+   "beginAmount": 200,
+   "price": "1.35"
+  }
+ ],
+ "url": "https://detail.1688.com/offer/1046953552994.html",
+ "核页时间": "2026-10-15T23:14:49.739Z"
+}

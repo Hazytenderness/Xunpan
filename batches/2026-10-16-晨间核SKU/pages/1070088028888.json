@@ -1,0 +1,130 @@
+{
+ "offerId": "1070088028888",
+ "条目": "H0141",
+ "block": false,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN016aVYVx27sjSYET58z_!!2222359677853-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN017iBsz927sjSZ3iRsb_!!2222359677853-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01q1JKmq27sjSYOiJLe_!!2222359677853-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01LrztED27sjSYRcD0p_!!2222359677853-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01UTPJo027sjSa3caOx_!!2222359677853-0-cib.jpg"
+ ],
+ "价格区间": null,
+ "价格展示": "skuPrice",
+ "到手价": null,
+ "包装信息": [
+  {
+   "height": 0,
+   "length": 0,
+   "volume": 0,
+   "weight": 100,
+   "width": 0
+  }
+ ],
+ "单位": "套",
+ "卖家公司": "衢州柯城爱颖贸易商行（个体工商户）",
+ "可售总量": 41758,
+ "商品属性": [
+  "材质:PVC",
+  "品牌:其他",
+  "风格:简约风",
+  "版权:无",
+  "颜色:方形（圆弧角）5*5cm/方形（直角） 5*5cm/圆形 5*5cm/矩形 5*8cm/矩形 3*5cm",
+  "规格:套",
+  "货号:其他",
+  "产品编号:11111",
+  "尺寸:50*50",
+  "是否进口:否",
+  "支持支付宝:其他",
+  "是否专利货源:否",
+  "主要下游平台:ebay/亚马逊/wish/速卖通/独立站/LAZADA/其他",
+  "主要销售地区:非洲/欧洲/南美/东南亚/北美/东北亚/中东/其他",
+  "有可授权的自有品牌:否",
+  "是否跨境出口专供货源:是",
+  "是否属于礼品:否",
+  "加工定制:否",
+  "流行元素:透明",
+  "冰箱贴类型:装饰型",
+  "是否IP授权:否"
+ ],
+ "已售": 7636,
+ "已登录": true,
+ "旺旺名": "爱颖源头实力工厂",
+ "标题": "跨境新品亚克力 DIY 套件矩形透明丙烯酸磁性冰箱贴 套装 带背胶",
+ "状态": "PUBLISHED",
+ "类目": "冰箱贴",
+ "规格价格": [
+  {
+   "价格": "1.60",
+   "库存": 9798,
+   "规格": "矩形 5*8cm"
+  },
+  {
+   "价格": "0.60",
+   "库存": 7415,
+   "规格": "矩形 3*5cm"
+  },
+  {
+   "价格": "0.85",
+   "库存": 4950,
+   "规格": "方形（圆弧角）5*5cm"
+  },
+  {
+   "价格": "0.85",
+   "库存": 9797,
+   "规格": "方形（直角） 5*5cm"
+  },
+  {
+   "价格": "0.85",
+   "库存": 9798,
+   "规格": "圆形 5*5cm"
+  }
+ ],
+ "规格图": [
+  [
+   "方形（圆弧角）5*5cm",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01v5YtIA27sjSYMBppP_!!2222359677853-0-cib.jpg"
+  ],
+  [
+   "方形（直角） 5*5cm",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01BUYLnh27sjSYOK01i_!!2222359677853-0-cib.jpg"
+  ],
+  [
+   "圆形 5*5cm",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01QK9HV227sjSYESkKL_!!2222359677853-0-cib.jpg"
+  ],
+  [
+   "矩形 5*8cm",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01qOq0Fj27sjSYcOzjR_!!2222359677853-0-cib.jpg"
+  ],
+  [
+   "矩形 3*5cm",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01inUyyC18PbB1chua_!!2222359677853-0-cib.jpg"
+  ]
+ ],
+ "规格属性": [
+  {
+   "值": [
+    "方形（圆弧角）5*5cm",
+    "方形（直角） 5*5cm",
+    "圆形 5*5cm",
+    "矩形 5*8cm",
+    "矩形 3*5cm"
+   ],
+   "属性": "颜色"
+  }
+ ],
+ "起订量": 1,
+ "阶梯价_登录后": [
+  {
+   "beginAmount": 1,
+   "price": "0.60"
+  },
+  {
+   "beginAmount": 1,
+   "price": "1.60"
+  }
+ ],
+ "url": "https://detail.1688.com/offer/1070088028888.html",
+ "核页时间": "2026-10-15T23:47:18.986Z"
+}

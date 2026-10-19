@@ -1,0 +1,78 @@
+{
+ "offerId": "1006305214285",
+ "条目": "H0361",
+ "block": false,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01vFQ36E2KYf4Dk6GMx_!!3172439569-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01WeGZWO2KYf4Drq27E_!!3172439569-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01yqz3L92KYf4DZUtcT_!!3172439569-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01gzWz2z2KYf48JVOAw_!!3172439569-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01gzWz2z2KYf48JVOAw_!!3172439569-0-cib.jpg"
+ ],
+ "价格区间": null,
+ "价格展示": "rangePrice",
+ "到手价": null,
+ "包装信息": [
+  {
+   "height": 11,
+   "length": 8,
+   "sku1": "Pet Compound Amino Acid 10+",
+   "skuId": 6003299065051,
+   "volume": 704,
+   "weight": 135,
+   "width": 8
+  }
+ ],
+ "单位": "包",
+ "卖家公司": "上海勃滕罔伽生物科技有限公司",
+ "可售总量": 500000,
+ "商品属性": [
+  "品牌:Hinuya",
+  "适用阶段:通用",
+  "产地:上海",
+  "是否进口:否",
+  "重量:100",
+  "是否专利货源:否",
+  "口味:Pet Compound Amino Acid 10+",
+  "是否跨境出口专供货源:否"
+ ],
+ "已售": 0,
+ "已登录": true,
+ "旺旺名": "1986jana",
+ "标题": "跨境海诺娅宠物复合氨基酸10+ Hinuya Pet Compound Amino Ac",
+ "状态": "PUBLISHED",
+ "类目": "猫猫保健品",
+ "规格价格": [
+  {
+   "价格": null,
+   "库存": 500000,
+   "规格": "Pet Compound Amino Acid 10+"
+  }
+ ],
+ "规格图": [],
+ "规格属性": [
+  {
+   "值": [
+    "Pet Compound Amino Acid 10+"
+   ],
+   "属性": "口味"
+  }
+ ],
+ "起订量": 2,
+ "阶梯价_登录后": [
+  {
+   "beginAmount": 2,
+   "price": "9.80"
+  },
+  {
+   "beginAmount": 10,
+   "price": "8.80"
+  },
+  {
+   "beginAmount": 50,
+   "price": "6.80"
+  }
+ ],
+ "url": "https://detail.1688.com/offer/1006305214285.html",
+ "核页时间": "2026-10-15T23:05:12.905Z"
+}

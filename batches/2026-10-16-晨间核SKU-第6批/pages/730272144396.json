@@ -1,0 +1,107 @@
+{
+ "offerId": "730272144396",
+ "条目": "H0286",
+ "block": false,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01AloGWy1qmufiK9cah_!!2908655539-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01Dx1xqJ1qmufSocdyG_!!2908655539-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01VlatZI1qmufbOAJcs_!!2908655539-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01VRryHv1qmufhXqYKI_!!2908655539-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01DRXllc1qmufbOBK5i_!!2908655539-0-cib.jpg"
+ ],
+ "价格区间": "10.50-11.50",
+ "价格展示": "rangePrice",
+ "到手价": null,
+ "包装信息": null,
+ "单位": "个",
+ "卖家公司": "淮安奇宠服饰有限公司",
+ "可售总量": 9730,
+ "商品属性": [
+  "材质:布",
+  "品牌:奇宠",
+  "产品类别:变身装",
+  "风格:休闲风",
+  "适用性别:通用",
+  "产地:江苏",
+  "是否进口:否",
+  "是否专利货源:否",
+  "颜色:拼色披风/蜘蛛披风/五角星披风",
+  "尺码:均码",
+  "主要下游平台:ebay/亚马逊/wish/速卖通/独立站/LAZADA/其他",
+  "主要销售地区:非洲/欧洲/南美/东南亚/北美/东北亚/中东/其他",
+  "有可授权的自有品牌:是",
+  "是否跨境出口专供货源:是",
+  "是否属于礼品:否",
+  "是否IP授权:否"
+ ],
+ "已售": 1,
+ "已登录": true,
+ "旺旺名": "奇宠宠物",
+ "标题": "跨境 新款万圣节披风套装宠物狗狗披风猫咪斗篷帽子套装饰品",
+ "状态": "PUBLISHED",
+ "类目": "狗狗服装",
+ "规格价格": [
+  {
+   "价格": "11.50",
+   "库存": 6780,
+   "规格": "五角星披风&gt;均码"
+  },
+  {
+   "价格": "11.50",
+   "库存": 2050,
+   "规格": "蜘蛛披风&gt;均码"
+  },
+  {
+   "价格": "11.50",
+   "库存": 900,
+   "规格": "拼色披风&gt;均码"
+  }
+ ],
+ "规格图": [
+  [
+   "拼色披风",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01QV48ls1qmuff3SBf0_!!2908655539-0-cib.jpg"
+  ],
+  [
+   "蜘蛛披风",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01Fdf8tg1qmufXWZcGS_!!2908655539-0-cib.jpg"
+  ],
+  [
+   "五角星披风",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01WScaA41qmufdtr7Wp_!!2908655539-0-cib.jpg"
+  ]
+ ],
+ "规格属性": [
+  {
+   "值": [
+    "拼色披风",
+    "蜘蛛披风",
+    "五角星披风"
+   ],
+   "属性": "颜色"
+  },
+  {
+   "值": [
+    "均码"
+   ],
+   "属性": "尺码"
+  }
+ ],
+ "起订量": 2,
+ "阶梯价_登录后": [
+  {
+   "beginAmount": 1,
+   "price": "11.50"
+  },
+  {
+   "beginAmount": 100,
+   "price": "11.00"
+  },
+  {
+   "beginAmount": 500,
+   "price": "10.50"
+  }
+ ],
+ "url": "https://detail.1688.com/offer/730272144396.html",
+ "核页时间": "2026-10-16T00:22:37.637Z"
+}

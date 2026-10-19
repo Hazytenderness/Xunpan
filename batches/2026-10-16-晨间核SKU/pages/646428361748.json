@@ -1,0 +1,86 @@
+{
+ "offerId": "646428361748",
+ "条目": "H0016",
+ "block": false,
+ "卖家公司": "广东蓝鹊实业有限公司",
+ "旺旺名": "广东蓝鹊实业有限公司",
+ "标题": "NSH 6080 浴室墙面瓷砖刷 卫生间墙角地板缝隙刷 卫浴清洁刷子",
+ "状态": "PUBLISHED",
+ "类目": "清洁刷、钢丝球",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "颜色",
+   "值": [
+    "白色"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "白色",
+   "价格": null,
+   "库存": 9136
+  }
+ ],
+ "规格图": [
+  [
+   "白色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01huojPO1uFFzlh4CAI_!!4271776007-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "rangePrice",
+ "价格区间": null,
+ "阶梯价_登录后": [
+  {
+   "price": "4.30",
+   "beginAmount": 24
+  },
+  {
+   "price": "4.10",
+   "beginAmount": 192
+  }
+ ],
+ "到手价": null,
+ "起订量": 24,
+ "单位": "个",
+ "可售总量": 9136,
+ "已售": 432,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN014HQS5I1GJl7EoGmB4_!!2208403480602-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01Ud5lZk1GJl70O6py4_!!2208403480602-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01p58WMC1GJl7AaiiSx_!!2208403480602-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01QbwZVv1GJl70O7mD5_!!2208403480602-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01huojPO1uFFzlh4CAI_!!4271776007-0-cib.jpg"
+ ],
+ "商品属性": [
+  "产品类别:地板缝隙刷",
+  "材质:PP",
+  "功能:清洁",
+  "只数:1",
+  "品牌:NSH",
+  "货号:6080",
+  "是否进口:否",
+  "产地:广州",
+  "箱装数量:24/192",
+  "重量:40g",
+  "价格段:5元以内",
+  "颜色:白色",
+  "专利:否",
+  "主要下游平台:ebay/亚马逊/wish/速卖通",
+  "主要销售地区:欧洲/南美/东南亚/北美",
+  "有可授权的自有品牌:是",
+  "是否跨境出口专供货源:是"
+ ],
+ "包装信息": [
+  {
+   "volume": 0,
+   "length": 0,
+   "width": 0,
+   "weight": 70,
+   "height": 0
+  }
+ ],
+ "url": "https://detail.1688.com/offer/646428361748.html",
+ "核页时间": "2026-10-08T11:49:16.283Z"
+}

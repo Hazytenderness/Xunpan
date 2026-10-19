@@ -1,0 +1,224 @@
+{
+ "offerId": "1085487844643",
+ "条目": "H0355",
+ "block": false,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01lIhY1xQRupE1chua_!!2222930134973-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01ZxAYjmRJ4lL1chua_!!2222930134973-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01L7li0njkzHH1chua_!!2222930134973-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN012VK0C1XVsGG1chua_!!2222930134973-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01x9FkGzchTyG1chua_!!2222930134973-0-cib.jpg"
+ ],
+ "价格区间": null,
+ "价格展示": "skuPrice",
+ "到手价": null,
+ "包装信息": [
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "SME（双喇叭款）",
+   "skuId": 6137661460766,
+   "volume": 0,
+   "weight": 400,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "SME（一喇叭一灯光款）",
+   "skuId": 6137661460767,
+   "volume": 0,
+   "weight": 400,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "SET（双喇叭款）",
+   "skuId": 6137661460768,
+   "volume": 0,
+   "weight": 400,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "SET（一灯光一喇叭）",
+   "skuId": 6137661460769,
+   "volume": 0,
+   "weight": 400,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "SET（猫头鹰款）",
+   "skuId": 6137661460770,
+   "volume": 0,
+   "weight": 400,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "SEM（6灯款）",
+   "skuId": 6137661460771,
+   "volume": 0,
+   "weight": 400,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "小圆款",
+   "skuId": 6137661460772,
+   "volume": 0,
+   "weight": 400,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "小方款",
+   "skuId": 6137661460773,
+   "volume": 0,
+   "weight": 400,
+   "width": 0
+  }
+ ],
+ "单位": "件",
+ "卖家公司": "宁海鹏诚塑料厂(个体工商户)",
+ "可售总量": 799800,
+ "商品属性": [
+  "是否支持充电:支持",
+  "品牌:其他",
+  "灭蚊灯种类:其它",
+  "外壳工艺:注塑",
+  "型号:驱赶器",
+  "货号:驱鼠器",
+  "灭蚊驱虫驱螂种类:驱鼠器",
+  "适用面积:20平米以下",
+  "额定电压:3.7",
+  "额定频率:60",
+  "额定功率:1",
+  "包装种类:盒装",
+  "包装体积:17.1*13.5*10.5cm",
+  "颜色:SME（双喇叭款）/SME（一喇叭一灯光款）/SET（双喇叭款）/SET（一灯光一喇叭）/SET（猫头鹰款）/SEM（6灯款）/小圆款/小方款",
+  "主要下游平台:ebay/亚马逊/wish/速卖通/独立站/LAZADA",
+  "主要销售地区:欧洲/南美/北美",
+  "有可授权的自有品牌:否",
+  "是否跨境出口专供货源:是",
+  "插头规格:其他规格",
+  "上市年份季节:2026年春季"
+ ],
+ "已售": 200,
+ "已登录": true,
+ "旺旺名": "宁海鹏诚电器",
+ "标题": "新款太阳能驱鼠器超声波驱鸟器驱狗器庭院驱蛇器动物驱逐器驱赶器",
+ "状态": "PUBLISHED",
+ "类目": "驱虫驱鼠器",
+ "规格价格": [
+  {
+   "价格": "5.20",
+   "库存": 100000,
+   "规格": "小方款"
+  },
+  {
+   "价格": "25.00",
+   "库存": 100000,
+   "规格": "SET（一灯光一喇叭）"
+  },
+  {
+   "价格": "5.20",
+   "库存": 99800,
+   "规格": "小圆款"
+  },
+  {
+   "价格": "25.99",
+   "库存": 100000,
+   "规格": "SME（双喇叭款）"
+  },
+  {
+   "价格": "25.00",
+   "库存": 100000,
+   "规格": "SET（双喇叭款）"
+  },
+  {
+   "价格": "29.90",
+   "库存": 100000,
+   "规格": "SEM（6灯款）"
+  },
+  {
+   "价格": "25.99",
+   "库存": 100000,
+   "规格": "SME（一喇叭一灯光款）"
+  },
+  {
+   "价格": "35.00",
+   "库存": 100000,
+   "规格": "SET（猫头鹰款）"
+  }
+ ],
+ "规格图": [
+  [
+   "SME（双喇叭款）",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01DETbxv7h73D1chua_!!2222930134973-0-cib.jpg"
+  ],
+  [
+   "SME（一喇叭一灯光款）",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01nOu3rcrSh0F1chua_!!2222930134973-0-cib.jpg"
+  ],
+  [
+   "SET（双喇叭款）",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01AgkGWJttO0D1chua_!!2222930134973-0-cib.jpg"
+  ],
+  [
+   "SET（一灯光一喇叭）",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01o2vsYDS0olB1chua_!!2222930134973-0-cib.jpg"
+  ],
+  [
+   "SET（猫头鹰款）",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01CtSHvSY1mmB1chua_!!2222930134973-0-cib.jpg"
+  ],
+  [
+   "SEM（6灯款）",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01XOa3PK1DeEE1chua_!!2222930134973-0-cib.jpg"
+  ],
+  [
+   "小圆款",
+   "https://cbu01.alicdn.com/img/ibank/O1CN012d4ODQYGR7C1Nj80_!!2222930134973-0-cib.jpg"
+  ],
+  [
+   "小方款",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01sXvpPLL978B2PIaU_!!2222930134973-0-cib.jpg"
+  ]
+ ],
+ "规格属性": [
+  {
+   "值": [
+    "SME（双喇叭款）",
+    "SME（一喇叭一灯光款）",
+    "SET（双喇叭款）",
+    "SET（一灯光一喇叭）",
+    "SET（猫头鹰款）",
+    "SEM（6灯款）",
+    "小圆款",
+    "小方款"
+   ],
+   "属性": "颜色"
+  }
+ ],
+ "起订量": 100,
+ "阶梯价_登录后": [
+  {
+   "beginAmount": 100,
+   "price": "5.20"
+  },
+  {
+   "beginAmount": 100,
+   "price": "35.00"
+  }
+ ],
+ "url": "https://detail.1688.com/offer/1085487844643.html",
+ "核页时间": "2026-10-16T00:41:05.641Z"
+}

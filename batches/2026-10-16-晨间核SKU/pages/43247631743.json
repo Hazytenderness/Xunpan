@@ -1,0 +1,82 @@
+{
+ "offerId": "43247631743",
+ "条目": "H0219",
+ "block": false,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN010Oa3uKdZCkI1chua_!!959562719-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01lwMMyI0mjxJ1chua_!!959562719-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01NNPwExZFpzE1chua_!!959562719-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01GIBnrDitqmK1chua_!!959562719-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01OVK0UsJHa5E1chua_!!959562719-0-cib.jpg"
+ ],
+ "价格区间": null,
+ "价格展示": "rangePrice",
+ "到手价": null,
+ "包装信息": [
+  {
+   "height": 25,
+   "length": 39,
+   "volume": 35100,
+   "weight": 35,
+   "width": 36
+  }
+ ],
+ "单位": "套",
+ "卖家公司": "台州市黄岩幸运塑料厂",
+ "可售总量": 19680,
+ "商品属性": [
+  "材质:PS",
+  "产品类别:黏胶挂钩",
+  "品牌:挂钩",
+  "款式:单钩",
+  "最大承重:1-3kg（含）",
+  "是否进口:否",
+  "货号:ZX-108",
+  "价格段:5元以内",
+  "产品上市时间:其他",
+  "专利:否",
+  "个数:6",
+  "规格:160/PCS",
+  "是否跨境出口专供货源:否",
+  "风格:现代简约"
+ ],
+ "已售": 10240,
+ "已登录": true,
+ "旺旺名": "黄岩幸运塑料厂",
+ "标题": "台州振信厂家批发简约白色U型创意塑料粘钩黏胶6个装免打孔挂钩",
+ "状态": "PUBLISHED",
+ "类目": "衣钩、挂钩、粘钩、钩子",
+ "规格价格": [
+  {
+   "价格": null,
+   "库存": 19680,
+   "规格": "160/PCS"
+  }
+ ],
+ "规格图": [],
+ "规格属性": [
+  {
+   "值": [
+    "160/PCS"
+   ],
+   "属性": "规格"
+  }
+ ],
+ "起订量": 5,
+ "阶梯价_登录后": [
+  {
+   "beginAmount": 5,
+   "price": "4.40"
+  },
+  {
+   "beginAmount": 160,
+   "price": "1.17"
+  },
+  {
+   "beginAmount": 20000,
+   "price": "1.11"
+  }
+ ],
+ "url": "https://detail.1688.com/offer/43247631743.html",
+ "核页时间": "2026-10-16T00:06:40.522Z"
+}

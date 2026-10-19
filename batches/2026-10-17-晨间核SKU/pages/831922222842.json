@@ -1,0 +1,170 @@
+{
+ "offerId": "831922222842",
+ "条目": "H0144",
+ "block": false,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01emoQSd1UJDZHtRGiT_!!2217957852496-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01qLYlJ11UJDZB0bgTN_!!2217957852496-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01gaMFvG1UJDZHmyHLE_!!2217957852496-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01VYMCZT1UJDZHtQ81b_!!2217957852496-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01rXobki1UJDZJaHue5_!!2217957852496-0-cib.jpg"
+ ],
+ "价格区间": null,
+ "价格展示": "rangePrice",
+ "到手价": null,
+ "包装信息": [
+  {
+   "height": 0,
+   "length": 0,
+   "volume": 0,
+   "weight": 200,
+   "width": 0
+  }
+ ],
+ "单位": "个",
+ "卖家公司": "义乌市苏和文化用品有限公司",
+ "可售总量": 80,
+ "商品属性": [
+  "填充物:棉花",
+  "枕芯面料:纯棉",
+  "品牌:笛聪",
+  "风格:卡通风",
+  "货号:V2",
+  "枕头重量:1斤（不含）以内",
+  "适用对象:通用",
+  "颜色:小猪U/白熊猫U/老虎U/青蛙U/轻松熊U/黑猫咪U/草莓U/粉熊U/深棕熊U",
+  "尺寸规格:通用型",
+  "是否有专利:否",
+  "是否一般纳税人:否"
+ ],
+ "已售": 8,
+ "已登录": true,
+ "旺旺名": "suhe96",
+ "标题": "卡通毛绒U型枕午睡办公两用颈枕儿童枕头旅行枕活动礼品促销u型枕",
+ "状态": "PUBLISHED",
+ "类目": "U型枕",
+ "规格价格": [
+  {
+   "价格": null,
+   "库存": 0,
+   "规格": "小猪U&gt;通用型"
+  },
+  {
+   "价格": null,
+   "库存": 24,
+   "规格": "轻松熊U&gt;通用型"
+  },
+  {
+   "价格": null,
+   "库存": 0,
+   "规格": "黑猫咪U&gt;通用型"
+  },
+  {
+   "价格": null,
+   "库存": 0,
+   "规格": "深棕熊U&gt;通用型"
+  },
+  {
+   "价格": null,
+   "库存": 0,
+   "规格": "草莓U&gt;通用型"
+  },
+  {
+   "价格": null,
+   "库存": 32,
+   "规格": "粉熊U&gt;通用型"
+  },
+  {
+   "价格": null,
+   "库存": 10,
+   "规格": "青蛙U&gt;通用型"
+  },
+  {
+   "价格": null,
+   "库存": 14,
+   "规格": "白熊猫U&gt;通用型"
+  },
+  {
+   "价格": null,
+   "库存": 0,
+   "规格": "老虎U&gt;通用型"
+  }
+ ],
+ "规格图": [
+  [
+   "小猪U",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01beSrrM1UJDZHmzLuL_!!2217957852496-0-cib.jpg"
+  ],
+  [
+   "白熊猫U",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01P6ewYm1UJDZJ9A7jk_!!2217957852496-0-cib.jpg"
+  ],
+  [
+   "老虎U",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01R84nxb1UJDZHn161j_!!2217957852496-0-cib.jpg"
+  ],
+  [
+   "青蛙U",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01kdOCi51UJDZLes4RT_!!2217957852496-0-cib.jpg"
+  ],
+  [
+   "轻松熊U",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01B1cf1H1UJDZJaHmO2_!!2217957852496-0-cib.jpg"
+  ],
+  [
+   "黑猫咪U",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01voCFgq1UJDZL8op3y_!!2217957852496-0-cib.jpg"
+  ],
+  [
+   "草莓U",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01p9qzEZ1UJDZB0dxv8_!!2217957852496-0-cib.jpg"
+  ],
+  [
+   "粉熊U",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01u8eZsK1UJDZKMDgk7_!!2217957852496-0-cib.jpg"
+  ],
+  [
+   "深棕熊U",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01zIgdC91UJDZHtRsCP_!!2217957852496-0-cib.jpg"
+  ]
+ ],
+ "规格属性": [
+  {
+   "值": [
+    "小猪U",
+    "白熊猫U",
+    "老虎U",
+    "青蛙U",
+    "轻松熊U",
+    "黑猫咪U",
+    "草莓U",
+    "粉熊U",
+    "深棕熊U"
+   ],
+   "属性": "颜色"
+  },
+  {
+   "值": [
+    "通用型"
+   ],
+   "属性": "尺寸规格"
+  }
+ ],
+ "起订量": 2,
+ "阶梯价_登录后": [
+  {
+   "beginAmount": 2,
+   "price": "6.00"
+  },
+  {
+   "beginAmount": 100,
+   "price": "5.80"
+  },
+  {
+   "beginAmount": 2000,
+   "price": "5.50"
+  }
+ ],
+ "url": "https://detail.1688.com/offer/831922222842.html",
+ "核页时间": "2026-10-15T23:48:40.472Z"
+}

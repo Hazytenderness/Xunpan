@@ -1,0 +1,167 @@
+{
+ "offerId": "688268118416",
+ "条目": "H0006",
+ "block": false,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01MmAivd1uSzpzlGh4H_!!2211929886037-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN018IiMqd1uSzpv4qlgE_!!2211929886037-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01mSqAW91uSzpni5ug8_!!2211929886037-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01acHox71uSzpv4t7Cq_!!2211929886037-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01DYQzKM1Bs2menxEyM_!!0-0-cib.jpg"
+ ],
+ "价格区间": null,
+ "价格展示": "rangePrice",
+ "到手价": null,
+ "包装信息": [
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "红色",
+   "skuId": 4901338536289,
+   "volume": 0,
+   "weight": 1,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "黑色",
+   "skuId": 4901338536290,
+   "volume": 0,
+   "weight": 1,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "酒红",
+   "skuId": 4901338536291,
+   "volume": 0,
+   "weight": 1,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "蓝色",
+   "skuId": 4901338536292,
+   "volume": 0,
+   "weight": 1,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "咖色",
+   "skuId": 4901338536293,
+   "volume": 0,
+   "weight": 1,
+   "width": 0
+  }
+ ],
+ "单位": "件",
+ "卖家公司": "义乌市紫嘉电子商务有限公司",
+ "可售总量": 4735,
+ "商品属性": [
+  "材质:全棉",
+  "产品类别:围裙",
+  "用途:防污",
+  "品牌:韩聪",
+  "围裙分类:有袖围裙",
+  "是否进口:否",
+  "尺码:均码",
+  "风格:韩式风格",
+  "花色:红色   酒红  咖色  黑色  蓝色",
+  "图案:条纹/格子",
+  "专利:否",
+  "货号:19999",
+  "颜色:红色/黑色/酒红/蓝色/咖色",
+  "是否跨境出口专供货源:否",
+  "人群:其他",
+  "版权:无"
+ ],
+ "已售": 198,
+ "已登录": true,
+ "旺旺名": "韩聪日用百货",
+ "标题": "韩版时尚纯棉围裙厨房做饭长袖连帽正穿衣罩衣上班耐磨工作服围腰",
+ "状态": "PUBLISHED",
+ "类目": "家务围裙、袖套",
+ "规格价格": [
+  {
+   "价格": null,
+   "库存": 935,
+   "规格": "黑色"
+  },
+  {
+   "价格": null,
+   "库存": 947,
+   "规格": "酒红"
+  },
+  {
+   "价格": null,
+   "库存": 966,
+   "规格": "蓝色"
+  },
+  {
+   "价格": null,
+   "库存": 961,
+   "规格": "咖色"
+  },
+  {
+   "价格": null,
+   "库存": 926,
+   "规格": "红色"
+  }
+ ],
+ "规格图": [
+  [
+   "红色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01t0A0O81uSzpqh9zIk_!!2211929886037-0-cib.jpg"
+  ],
+  [
+   "黑色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01FwCn9p1uSzpyvi5Qp_!!2211929886037-0-cib.jpg"
+  ],
+  [
+   "酒红",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01BvyMue1uSzpsTVWux_!!2211929886037-0-cib.jpg"
+  ],
+  [
+   "蓝色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01ggneuY1uSzpsule3P_!!2211929886037-0-cib.jpg"
+  ],
+  [
+   "咖色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN017vHwKJ1uSzpsTUSW3_!!2211929886037-0-cib.jpg"
+  ]
+ ],
+ "规格属性": [
+  {
+   "值": [
+    "红色",
+    "黑色",
+    "酒红",
+    "蓝色",
+    "咖色"
+   ],
+   "属性": "颜色"
+  }
+ ],
+ "起订量": 1,
+ "阶梯价_登录后": [
+  {
+   "beginAmount": 1,
+   "price": "9.30"
+  },
+  {
+   "beginAmount": 10,
+   "price": "9.10"
+  },
+  {
+   "beginAmount": 30,
+   "price": "8.90"
+  }
+ ],
+ "url": "https://detail.1688.com/offer/688268118416.html",
+ "核页时间": "2026-10-17T23:01:01.637Z"
+}

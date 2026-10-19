@@ -1,0 +1,100 @@
+{
+ "offerId": "739830095293",
+ "条目": "H0136",
+ "block": false,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01ATvJWC1wBFogaNPfo_!!2122736269-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01yivEvV1wBG4uUNomg_!!2122736269-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01KQyW3l1wBG4v9ylBG_!!2122736269-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01nkiOy41wBG4upd4h2_!!2122736269-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01Cw1JlI1wBFoaE8l29_!!2122736269-0-cib.jpg"
+ ],
+ "价格区间": null,
+ "价格展示": "rangePrice",
+ "到手价": null,
+ "包装信息": [
+  {
+   "height": 2,
+   "length": 4.5,
+   "sku1": "外径45*45*20mm",
+   "skuId": 5857934597548,
+   "volume": 40.5,
+   "weight": 6,
+   "width": 4.5
+  }
+ ],
+ "单位": "个",
+ "卖家公司": "镇江呈晨塑料有限公司",
+ "可售总量": 999927708,
+ "商品属性": [
+  "用途:通用包装",
+  "undefined:",
+  "塑料品种:PP",
+  "产地:江苏镇江",
+  "原产国/地区:中国",
+  "加工定制:是",
+  "货号:CZ4520",
+  "是否有盖:有盖",
+  "日生产量:20000",
+  "壁厚:1",
+  "长度:45",
+  "高度:20",
+  "宽度:45",
+  "适用送礼场合:通用",
+  "品牌:呈晨塑料",
+  "主要下游平台:wish",
+  "主要销售地区:东南亚",
+  "有可授权的自有品牌:是",
+  "是否跨境出口专供货源:是",
+  "销售方式:批发",
+  "内径:40*40*17mm",
+  "外径:45*45*20mm",
+  "外形:正方形",
+  "可否印LOG:可以",
+  "容量:34000mm³"
+ ],
+ "已售": 9829,
+ "已登录": true,
+ "旺旺名": "呈晨塑料",
+ "标题": "正方形零件盒高透耳塞盒透明小方盒小饰品塑料盒PP盒",
+ "状态": "PUBLISHED",
+ "类目": "塑料盒",
+ "规格价格": [
+  {
+   "价格": null,
+   "库存": 999927708,
+   "规格": "外径45*45*20mm"
+  }
+ ],
+ "规格图": [
+  [
+   "外径45*45*20mm",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01rM6Kt31wBFrZdeYO4_!!2122736269-0-cib.jpg"
+  ]
+ ],
+ "规格属性": [
+  {
+   "值": [
+    "外径45*45*20mm"
+   ],
+   "属性": "规格型号"
+  }
+ ],
+ "起订量": 1,
+ "阶梯价_登录后": [
+  {
+   "beginAmount": 1,
+   "price": "0.30"
+  },
+  {
+   "beginAmount": 1232,
+   "price": "0.23"
+  },
+  {
+   "beginAmount": 30000,
+   "price": "0.17"
+  }
+ ],
+ "url": "https://detail.1688.com/offer/739830095293.html",
+ "核页时间": "2026-10-15T23:45:55.905Z"
+}

@@ -1,0 +1,978 @@
+{
+ "offerId": "717576310155",
+ "条目": "H0273",
+ "block": false,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01Ol4eww1k7ncyKpG0i_!!2213271394637-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01Sv83NX1k7nOT1G2Ei_!!2213271394637-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN014ZCybe1k7nOXsIURR_!!2213271394637-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN019SfPZ71k7nOPtXgJB_!!2213271394637-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01AQTW7U1k7nZeJuWRT_!!2213271394637-0-cib.jpg"
+ ],
+ "价格区间": null,
+ "价格展示": "skuPrice",
+ "到手价": null,
+ "包装信息": [
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "EPI蓝红双色13",
+   "sku2": "现货",
+   "skuId": 6271680026615,
+   "volume": 0,
+   "weight": 28,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "EPI黄红双色13",
+   "sku2": "现货",
+   "skuId": 6271680026616,
+   "volume": 0,
+   "weight": 28,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "背心袋黄色27.5*30cm",
+   "sku2": "现货",
+   "skuId": 6105751793719,
+   "volume": 0,
+   "weight": 30,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "1.3丝大背心袋蓝色",
+   "sku2": "现货",
+   "skuId": 6026228867346,
+   "volume": 0,
+   "weight": 30,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "1.3丝大背心袋粉色",
+   "sku2": "现货",
+   "skuId": 6026228867347,
+   "volume": 0,
+   "weight": 30,
+   "width": 0
+  },
+  {
+   "height": 6,
+   "length": 3,
+   "sku1": "可降解1.2丝爱心",
+   "sku2": "现货",
+   "skuId": 5844212754395,
+   "volume": 54,
+   "weight": 26,
+   "width": 3
+  },
+  {
+   "height": 6,
+   "length": 3,
+   "sku1": "可降解1丝草莓味粉色",
+   "sku2": "现货",
+   "skuId": 5181098699268,
+   "volume": 54,
+   "weight": 23,
+   "width": 3
+  },
+  {
+   "height": 6,
+   "length": 3,
+   "sku1": "可降解1丝草莓味紫色",
+   "sku2": "现货",
+   "skuId": 5181098699267,
+   "volume": 54,
+   "weight": 23,
+   "width": 3
+  },
+  {
+   "height": 6,
+   "length": 3,
+   "sku1": "1丝纯墨绿色",
+   "sku2": "现货",
+   "skuId": 5494973442878,
+   "volume": 36,
+   "weight": 23,
+   "width": 2
+  },
+  {
+   "height": 6,
+   "length": 3,
+   "sku1": "1.2丝粉狗",
+   "sku2": "现货",
+   "skuId": 5467533552391,
+   "volume": 54,
+   "weight": 26,
+   "width": 3
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "绿狗1.2丝",
+   "sku2": "现货",
+   "skuId": 5675923978287,
+   "volume": 0,
+   "weight": 26,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "1.2丝纯黑色",
+   "sku2": "现货",
+   "skuId": 5191101325100,
+   "volume": 0,
+   "weight": 26,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "粉色猫咪1.2丝",
+   "sku2": "现货",
+   "skuId": 5509753185133,
+   "volume": 0,
+   "weight": 26,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "绿色猫咪1.2丝",
+   "sku2": "现货",
+   "skuId": 5509753185134,
+   "volume": 0,
+   "weight": 26,
+   "width": 0
+  },
+  {
+   "height": 6,
+   "length": 3,
+   "sku1": "可降解1.3丝军绿色",
+   "sku2": "现货",
+   "skuId": 5181098699269,
+   "volume": 54,
+   "weight": 28,
+   "width": 3
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "可降解1.3丝咖色",
+   "sku2": "现货",
+   "skuId": 5809808546795,
+   "volume": 0,
+   "weight": 28,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "可降解1.3丝军绿色印刷骨头",
+   "sku2": "现货",
+   "skuId": 5538951544389,
+   "volume": 0,
+   "weight": 28,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "可降解1.5丝蜂蜜",
+   "sku2": "现货",
+   "skuId": 5873153748781,
+   "volume": 0,
+   "weight": 27,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "黑色无印刷1.5丝",
+   "sku2": "现货",
+   "skuId": 5505192688718,
+   "volume": 0,
+   "weight": 33,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "可降解1.5丝军绿色",
+   "sku2": "现货",
+   "skuId": 5455385341599,
+   "volume": 0,
+   "weight": 33,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "1.5丝墨绿色",
+   "sku2": "现货",
+   "skuId": 5283850240889,
+   "volume": 0,
+   "weight": 33,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "可降解无卷芯1.5丝",
+   "sku2": "现货",
+   "skuId": 5029169500994,
+   "volume": 0,
+   "weight": 31,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "分琴背心袋40*30",
+   "sku2": "现货",
+   "skuId": 5175040600608,
+   "volume": 0,
+   "weight": 30,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "1丝灰狗背心1丝",
+   "sku2": "现货",
+   "skuId": 5675923978286,
+   "volume": 0,
+   "weight": 20,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "可降解1.5丝紫色背心袋",
+   "sku2": "现货",
+   "skuId": 5012263877543,
+   "volume": 0,
+   "weight": 32,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "可降解1.7丝背心袋",
+   "sku2": "现货",
+   "skuId": 5091830716393,
+   "volume": 0,
+   "weight": 32,
+   "width": 0
+  },
+  {
+   "height": 6,
+   "length": 3,
+   "sku1": "全降解1.5丝无印刷",
+   "sku2": "现货",
+   "skuId": 5181098699272,
+   "volume": 54,
+   "weight": 43,
+   "width": 3
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "全降解小狗玉米15",
+   "sku2": "现货",
+   "skuId": 6289431874875,
+   "volume": 0,
+   "weight": 42,
+   "width": 0
+  },
+  {
+   "height": 6,
+   "length": 3,
+   "sku1": "全降解2丝背心袋10个/卷",
+   "sku2": "现货",
+   "skuId": 5181098699273,
+   "volume": 54,
+   "weight": 40,
+   "width": 3
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "全降解军绿15玉米",
+   "sku2": "现货",
+   "skuId": 6146426408845,
+   "volume": 0,
+   "weight": 42,
+   "width": 0
+  },
+  {
+   "height": 6,
+   "length": 3,
+   "sku1": "全降解1.8丝带印刷",
+   "sku2": "现货",
+   "skuId": 5181098699274,
+   "volume": 54,
+   "weight": 50,
+   "width": 3
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "淀粉基23*33cm（1.5丝）",
+   "sku2": "现货",
+   "skuId": 5007953628708,
+   "volume": 0,
+   "weight": 30,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "军绿色",
+   "sku2": "现货",
+   "skuId": 5751816686733,
+   "volume": 0,
+   "weight": 18,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "蓝色",
+   "sku2": "现货",
+   "skuId": 5751816686732,
+   "volume": 0,
+   "weight": 18,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "湖蓝色",
+   "sku2": "现货",
+   "skuId": 5751816686734,
+   "volume": 0,
+   "weight": 18,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "紫色",
+   "sku2": "现货",
+   "skuId": 5751816686731,
+   "volume": 0,
+   "weight": 18,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "黄色",
+   "sku2": "现货",
+   "skuId": 5751816686730,
+   "volume": 0,
+   "weight": 18,
+   "width": 0
+  },
+  {
+   "height": 9,
+   "length": 4,
+   "sku1": "军绿色药丸分配器",
+   "sku2": "现货",
+   "skuId": 5181098699275,
+   "volume": 144,
+   "weight": 30,
+   "width": 4
+  },
+  {
+   "height": 9,
+   "length": 4,
+   "sku1": "军绿色骨头分配器",
+   "sku2": "现货",
+   "skuId": 5181098699276,
+   "volume": 144,
+   "weight": 30,
+   "width": 4
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "绿色骨头1丝",
+   "sku2": "现货",
+   "skuId": 5736715021681,
+   "volume": 0,
+   "weight": 23,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "橙色骨头1丝",
+   "sku2": "现货",
+   "skuId": 5736715021678,
+   "volume": 0,
+   "weight": 23,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "绿色狗爪1丝",
+   "sku2": "现货",
+   "skuId": 5736715021677,
+   "volume": 0,
+   "weight": 23,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "粉色狗爪1丝",
+   "sku2": "现货",
+   "skuId": 5736715021682,
+   "volume": 0,
+   "weight": 23,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "黑色狗爪1丝",
+   "sku2": "现货",
+   "skuId": 5736715021679,
+   "volume": 0,
+   "weight": 23,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "白色狗爪1丝",
+   "sku2": "现货",
+   "skuId": 5736715021680,
+   "volume": 0,
+   "weight": 23,
+   "width": 0
+  }
+ ],
+ "单位": "个",
+ "卖家公司": "东莞市恒进包装制品有限公司",
+ "可售总量": 6411395,
+ "商品属性": [
+  "材质:PLA/玉米淀粉基/PBAT",
+  "样式:连卷式",
+  "厚薄:加厚",
+  "品牌:中性",
+  "产地:东莞石排",
+  "颜色:EPI蓝红双色13/EPI黄红双色13/背心袋黄色27.5*30cm/1.3丝大背心袋蓝色/1.3丝大背心袋粉色/可降解1.2丝爱心/可降解1丝草莓味粉色/可降解1丝草莓味紫色/1丝纯墨绿色/1.2丝粉狗/绿狗1.2丝/1.2丝纯黑色/粉色猫咪1.2丝/绿色猫咪1.2丝/可降解1.3丝军绿色/可降解1.3丝咖色/可降解1.3丝军绿色印刷骨头/可降解1.5丝蜂蜜/黑色无印刷1.5丝/可降解1.5丝军绿色/1.5丝墨绿色/可降解无卷芯1.5丝/分琴背心袋40*30/1丝灰狗背心1丝/可降解1.5丝紫色背心袋/可降解1.7丝背心袋/全降解1.5丝无印刷/全降解小狗玉米15/全降解2丝背心袋10个/卷/全降解军绿15玉米/全降解1.8丝带印刷/淀粉基23*33cm（1.5丝）/军绿色/蓝色/湖蓝色/紫色/黄色/军绿色药丸分配器/军绿色骨头分配器/绿色骨头1丝/橙色骨头1丝/绿色狗爪1丝/粉色狗爪1丝/黑色狗爪1丝/白色狗爪1丝",
+  "是否进口:否",
+  "货号:PB22251",
+  "规格:现货",
+  "主要下游平台:ebay/亚马逊/wish/速卖通/独立站/LAZADA",
+  "是否跨境出口专供货源:是",
+  "主要销售地区:非洲/欧洲/南美/东南亚/北美/东北亚/中东",
+  "有可授权的自有品牌:否",
+  "是否专利货源:否",
+  "个数:15个/卷",
+  "厚度:0.01mm-0.015mm",
+  "图案:有",
+  "封口方式:点断式",
+  "尺寸:23*33cm",
+  "是否IP授权:否"
+ ],
+ "已售": 82876,
+ "已登录": true,
+ "旺旺名": "东莞恒进包装",
+ "标题": "亚马逊跨境宠物拾便袋全降解可堆肥宠物垃圾袋玉米狗屎袋分配器",
+ "状态": "PUBLISHED",
+ "类目": "宠物拾便袋",
+ "规格价格": [
+  {
+   "价格": "0.84",
+   "库存": 199926,
+   "规格": "可降解1.3丝军绿色&gt;现货"
+  },
+  {
+   "价格": "0.88",
+   "库存": 67324,
+   "规格": "可降解1.5丝军绿色&gt;现货"
+  },
+  {
+   "价格": "1.54",
+   "库存": 98794,
+   "规格": "全降解小狗玉米15&gt;现货"
+  },
+  {
+   "价格": "0.50",
+   "库存": 9971,
+   "规格": "蓝色&gt;现货"
+  },
+  {
+   "价格": "1.00",
+   "库存": 99977,
+   "规格": "EPI黄红双色13&gt;现货"
+  },
+  {
+   "价格": "0.87",
+   "库存": 98786,
+   "规格": "可降解1.5丝蜂蜜&gt;现货"
+  },
+  {
+   "价格": "0.94",
+   "库存": 194381,
+   "规格": "可降解1.3丝军绿色印刷骨头&gt;现货"
+  },
+  {
+   "价格": "0.88",
+   "库存": 92872,
+   "规格": "1.5丝墨绿色&gt;现货"
+  },
+  {
+   "价格": "0.92",
+   "库存": 49922,
+   "规格": "1.2丝粉狗&gt;现货"
+  },
+  {
+   "价格": "0.80",
+   "库存": 49302,
+   "规格": "绿色骨头1丝&gt;现货"
+  },
+  {
+   "价格": "1.21",
+   "库存": 8160,
+   "规格": "1.3丝大背心袋蓝色&gt;现货"
+  },
+  {
+   "价格": "0.90",
+   "库存": 9965,
+   "规格": "分琴背心袋40*30&gt;现货"
+  },
+  {
+   "价格": "1.30",
+   "库存": 199702,
+   "规格": "军绿色药丸分配器&gt;现货"
+  },
+  {
+   "价格": "0.80",
+   "库存": 4973,
+   "规格": "1丝纯墨绿色&gt;现货"
+  },
+  {
+   "价格": "1.00",
+   "库存": 99977,
+   "规格": "EPI蓝红双色13&gt;现货"
+  },
+  {
+   "价格": "0.92",
+   "库存": 9841,
+   "规格": "绿色猫咪1.2丝&gt;现货"
+  },
+  {
+   "价格": "0.87",
+   "库存": 9823,
+   "规格": "1丝灰狗背心1丝&gt;现货"
+  },
+  {
+   "价格": "0.94",
+   "库存": 1999344,
+   "规格": "淀粉基23*33cm（1.5丝）&gt;现货"
+  },
+  {
+   "价格": "1.30",
+   "库存": 199780,
+   "规格": "军绿色骨头分配器&gt;现货"
+  },
+  {
+   "价格": "0.73",
+   "库存": 91614,
+   "规格": "1.2丝纯黑色&gt;现货"
+  },
+  {
+   "价格": "0.88",
+   "库存": 98824,
+   "规格": "可降解1.2丝爱心&gt;现货"
+  },
+  {
+   "价格": "0.92",
+   "库存": 3738,
+   "规格": "粉色猫咪1.2丝&gt;现货"
+  },
+  {
+   "价格": "0.50",
+   "库存": 5249,
+   "规格": "紫色&gt;现货"
+  },
+  {
+   "价格": "1.42",
+   "库存": 198003,
+   "规格": "全降解2丝背心袋10个/卷&gt;现货"
+  },
+  {
+   "价格": "1.21",
+   "库存": 9515,
+   "规格": "1.3丝大背心袋粉色&gt;现货"
+  },
+  {
+   "价格": "1.02",
+   "库存": 97575,
+   "规格": "可降解1.7丝背心袋&gt;现货"
+  },
+  {
+   "价格": "0.80",
+   "库存": 49908,
+   "规格": "橙色骨头1丝&gt;现货"
+  },
+  {
+   "价格": "0.50",
+   "库存": 91371,
+   "规格": "黄色&gt;现货"
+  },
+  {
+   "价格": "0.80",
+   "库存": 45271,
+   "规格": "黑色狗爪1丝&gt;现货"
+  },
+  {
+   "价格": "0.80",
+   "库存": 36349,
+   "规格": "绿色狗爪1丝&gt;现货"
+  },
+  {
+   "价格": "1.85",
+   "库存": 199884,
+   "规格": "全降解1.8丝带印刷&gt;现货"
+  },
+  {
+   "价格": "1.53",
+   "库存": 196301,
+   "规格": "全降解1.5丝无印刷&gt;现货"
+  },
+  {
+   "价格": "0.80",
+   "库存": 49340,
+   "规格": "白色狗爪1丝&gt;现货"
+  },
+  {
+   "价格": "0.88",
+   "库存": 3019,
+   "规格": "可降解1.3丝咖色&gt;现货"
+  },
+  {
+   "价格": "0.80",
+   "库存": 150140,
+   "规格": "可降解1丝草莓味粉色&gt;现货"
+  },
+  {
+   "价格": "0.92",
+   "库存": 8651,
+   "规格": "绿狗1.2丝&gt;现货"
+  },
+  {
+   "价格": "0.50",
+   "库存": 9983,
+   "规格": "湖蓝色&gt;现货"
+  },
+  {
+   "价格": "0.95",
+   "库存": 99971,
+   "规格": "背心袋黄色27.5*30cm&gt;现货"
+  },
+  {
+   "价格": "0.80",
+   "库存": 49085,
+   "规格": "粉色狗爪1丝&gt;现货"
+  },
+  {
+   "价格": "1.28",
+   "库存": 999466,
+   "规格": "可降解无卷芯1.5丝&gt;现货"
+  },
+  {
+   "价格": "0.50",
+   "库存": 9404,
+   "规格": "军绿色&gt;现货"
+  },
+  {
+   "价格": "0.80",
+   "库存": 179367,
+   "规格": "可降解1丝草莓味紫色&gt;现货"
+  },
+  {
+   "价格": "1.02",
+   "库存": 180939,
+   "规格": "可降解1.5丝紫色背心袋&gt;现货"
+  },
+  {
+   "价格": "1.54",
+   "库存": 0,
+   "规格": "全降解军绿15玉米&gt;现货"
+  },
+  {
+   "价格": "0.88",
+   "库存": 45608,
+   "规格": "黑色无印刷1.5丝&gt;现货"
+  }
+ ],
+ "规格图": [
+  [
+   "EPI蓝红双色13",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01ZvolRe1k7nc2T7hYg_!!2213271394637-0-cib.jpg"
+  ],
+  [
+   "EPI黄红双色13",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01BNLDoc1k7nc2T7dNC_!!2213271394637-0-cib.jpg"
+  ],
+  [
+   "背心袋黄色27.5*30cm",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01wcoMR61k7nhnj2X3A_!!2213271394637-0-cib.jpg"
+  ],
+  [
+   "1.3丝大背心袋蓝色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01ad1J1I1k7ncr3JTKW_!!2213271394637-0-cib.jpg"
+  ],
+  [
+   "1.3丝大背心袋粉色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN016USRMY1k7ncxqMmus_!!2213271394637-0-cib.jpg"
+  ],
+  [
+   "可降解1.2丝爱心",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01AQTW7U1k7nZeJuWRT_!!2213271394637-0-cib.jpg"
+  ],
+  [
+   "可降解1丝草莓味粉色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN011t4LKY1k7nOVZX4uW_!!2213271394637-0-cib.jpg"
+  ],
+  [
+   "可降解1丝草莓味紫色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01imEYYY1k7nOXsL6ca_!!2213271394637-0-cib.jpg"
+  ],
+  [
+   "1丝纯墨绿色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01J1mW1V1k7nV5mSzO0_!!2213271394637-0-cib.jpg"
+  ],
+  [
+   "1.2丝粉狗",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01Gxs96L1k7nWFdBqiX_!!2213271394637-0-cib.jpg"
+  ],
+  [
+   "绿狗1.2丝",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01VrExog1k7nWek9XUm_!!2213271394637-0-cib.jpg"
+  ],
+  [
+   "1.2丝纯黑色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01xNiXo41k7nSbf49M6_!!2213271394637-0-cib.jpg"
+  ],
+  [
+   "粉色猫咪1.2丝",
+   "https://cbu01.alicdn.com/img/ibank/O1CN018D9YiH1k7nSVNU5kT_!!2213271394637-0-cib.jpg"
+  ],
+  [
+   "绿色猫咪1.2丝",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01pzznj81k7nSKGhOq0_!!2213271394637-0-cib.jpg"
+  ],
+  [
+   "可降解1.3丝军绿色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01jkACmF1k7nNBYQuGo_!!2213271394637-0-cib.jpg"
+  ],
+  [
+   "可降解1.3丝咖色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN017gbwQT1k7nZ1AQts5_!!2213271394637-0-cib.jpg"
+  ],
+  [
+   "可降解1.3丝军绿色印刷骨头",
+   "https://cbu01.alicdn.com/img/ibank/O1CN012tgsfk1k7nNX8U2pK_!!2213271394637-0-cib.jpg"
+  ],
+  [
+   "可降解1.5丝蜂蜜",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01DDy40w1k7ndCAmPmG_!!2213271394637-0-cib.jpg"
+  ],
+  [
+   "黑色无印刷1.5丝",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01BLlFPi1k7nTSOpotT_!!2213271394637-0-cib.jpg"
+  ],
+  [
+   "可降解1.5丝军绿色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01jkACmF1k7nNBYQuGo_!!2213271394637-0-cib.jpg"
+  ],
+  [
+   "1.5丝墨绿色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01faVJo71k7nUJcTlAb_!!2213271394637-0-cib.jpg"
+  ],
+  [
+   "可降解无卷芯1.5丝",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01hacpEi1k7nPHjIk0Y_!!2213271394637-0-cib.jpg"
+  ],
+  [
+   "分琴背心袋40*30",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01UNUVm11k7nSQsSQA4_!!2213271394637-0-cib.jpg"
+  ],
+  [
+   "1丝灰狗背心1丝",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01puKHfH1k7nWcUHAc9_!!2213271394637-0-cib.jpg"
+  ],
+  [
+   "可降解1.5丝紫色背心袋",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01ooMH0Z1k7nOh6jtIb_!!2213271394637-0-cib.jpg"
+  ],
+  [
+   "可降解1.7丝背心袋",
+   "https://cbu01.alicdn.com/img/ibank/O1CN010KOPdo1k7nQqjlMRl_!!2213271394637-0-cib.jpg"
+  ],
+  [
+   "全降解1.5丝无印刷",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01jzhgYv1k7nOXZ8jel_!!2213271394637-0-cib.jpg"
+  ],
+  [
+   "全降解小狗玉米15",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01KwEhRVjNVuD1chua_!!2213271394637-0-cib.jpg"
+  ],
+  [
+   "全降解2丝背心袋10个/卷",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01j1GtUL1k7nbpVZzgA_!!2213271394637-0-cib.jpg"
+  ],
+  [
+   "全降解军绿15玉米",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01ng401ab3paG220h8_!!2213271394637-0-cib.jpg"
+  ],
+  [
+   "全降解1.8丝带印刷",
+   "https://cbu01.alicdn.com/img/ibank/O1CN013JGEGY1k7nNIkwnzw_!!2213271394637-0-cib.jpg"
+  ],
+  [
+   "淀粉基23*33cm（1.5丝）",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01SR8nfi1k7nOb1cuBp_!!2213271394637-0-cib.jpg"
+  ],
+  [
+   "军绿色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01vMvjU81k7nXyWlWUp_!!2213271394637-0-cib.jpg"
+  ],
+  [
+   "蓝色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01hkOFke1k7nXyWobul_!!2213271394637-0-cib.jpg"
+  ],
+  [
+   "湖蓝色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01ieNLSr1k7nXxnzaA3_!!2213271394637-0-cib.jpg"
+  ],
+  [
+   "紫色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01kCSzlX1k7nXzaAFya_!!2213271394637-0-cib.jpg"
+  ],
+  [
+   "黄色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01Ms8tmd1k7nXyWlex1_!!2213271394637-0-cib.jpg"
+  ],
+  [
+   "军绿色药丸分配器",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01vkT6zv1k7nOaQzqHs_!!2213271394637-0-cib.jpg"
+  ],
+  [
+   "军绿色骨头分配器",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01S03W5H1k7nOaR1vF0_!!2213271394637-0-cib.jpg"
+  ],
+  [
+   "绿色骨头1丝",
+   "https://cbu01.alicdn.com/img/ibank/O1CN0168BePg1k7nakjGbgb_!!2213271394637-0-cib.jpg"
+  ],
+  [
+   "橙色骨头1丝",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01wg1Hlp1k7naiStcA4_!!2213271394637-0-cib.jpg"
+  ],
+  [
+   "绿色狗爪1丝",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01RSDn851k7nalCzijA_!!2213271394637-0-cib.jpg"
+  ],
+  [
+   "粉色狗爪1丝",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01FJb2Xs1k7nadKfDHB_!!2213271394637-0-cib.jpg"
+  ],
+  [
+   "黑色狗爪1丝",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01VHNto01k7najsPMec_!!2213271394637-0-cib.jpg"
+  ],
+  [
+   "白色狗爪1丝",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01216BH11k7nakjKV67_!!2213271394637-0-cib.jpg"
+  ]
+ ],
+ "规格属性": [
+  {
+   "值": [
+    "EPI蓝红双色13",
+    "EPI黄红双色13",
+    "背心袋黄色27.5*30cm",
+    "1.3丝大背心袋蓝色",
+    "1.3丝大背心袋粉色",
+    "可降解1.2丝爱心",
+    "可降解1丝草莓味粉色",
+    "可降解1丝草莓味紫色",
+    "1丝纯墨绿色",
+    "1.2丝粉狗",
+    "绿狗1.2丝",
+    "1.2丝纯黑色",
+    "粉色猫咪1.2丝",
+    "绿色猫咪1.2丝",
+    "可降解1.3丝军绿色",
+    "可降解1.3丝咖色",
+    "可降解1.3丝军绿色印刷骨头",
+    "可降解1.5丝蜂蜜",
+    "黑色无印刷1.5丝",
+    "可降解1.5丝军绿色",
+    "1.5丝墨绿色",
+    "可降解无卷芯1.5丝",
+    "分琴背心袋40*30",
+    "1丝灰狗背心1丝",
+    "可降解1.5丝紫色背心袋",
+    "可降解1.7丝背心袋",
+    "全降解1.5丝无印刷",
+    "全降解小狗玉米15",
+    "全降解2丝背心袋10个/卷",
+    "全降解军绿15玉米",
+    "全降解1.8丝带印刷",
+    "淀粉基23*33cm（1.5丝）",
+    "军绿色",
+    "蓝色",
+    "湖蓝色",
+    "紫色",
+    "黄色",
+    "军绿色药丸分配器",
+    "军绿色骨头分配器",
+    "绿色骨头1丝",
+    "橙色骨头1丝",
+    "绿色狗爪1丝",
+    "粉色狗爪1丝",
+    "黑色狗爪1丝",
+    "白色狗爪1丝"
+   ],
+   "属性": "颜色"
+  },
+  {
+   "值": [
+    "现货"
+   ],
+   "属性": "规格"
+  }
+ ],
+ "起订量": 1,
+ "阶梯价_登录后": [
+  {
+   "beginAmount": 1,
+   "price": "0.50"
+  },
+  {
+   "beginAmount": 1,
+   "price": "1.85"
+  }
+ ],
+ "url": "https://detail.1688.com/offer/717576310155.html",
+ "核页时间": "2026-10-16T00:19:14.101Z"
+}

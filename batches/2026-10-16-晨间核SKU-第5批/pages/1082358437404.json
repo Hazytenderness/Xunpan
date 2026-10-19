@@ -1,0 +1,166 @@
+{
+ "offerId": "1082358437404",
+ "条目": "H0333",
+ "block": false,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01N9hDX37eIYC1chua_!!2211237402400-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01nuaPL0SWQ0D1chua_!!2211237402400-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01PyRKuoXOmeI1chua_!!2211237402400-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01YyxhN0ppM5H1chua_!!2211237402400-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01kpw2vPN2vxJ1chua_!!2211237402400-0-cib.jpg"
+ ],
+ "价格区间": "14.90-22.90",
+ "价格展示": "skuPrice",
+ "到手价": {
+  "件数": 1,
+  "价": "13.9",
+  "说明": "新人价"
+ },
+ "包装信息": [
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "老鼠款",
+   "skuId": 6299692151900,
+   "volume": 0,
+   "weight": 330,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "涂鸦款",
+   "skuId": 6299692151901,
+   "volume": 0,
+   "weight": 330,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "小鱼款",
+   "skuId": 6299692151902,
+   "volume": 0,
+   "weight": 330,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "【独家升级款】奔奔大队",
+   "skuId": 6299692151903,
+   "volume": 0,
+   "weight": 330,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "小鸭款",
+   "skuId": 6299692151904,
+   "volume": 0,
+   "weight": 330,
+   "width": 0
+  }
+ ],
+ "单位": "个",
+ "卖家公司": "漳州市芗城区崇吾宠物用品有限公司",
+ "可售总量": 499971,
+ "商品属性": [
+  "材质:聚酯纤维（涤纶）",
+  "品牌:柒哦",
+  "产品类别:套装玩具",
+  "是否进口:否",
+  "货号:捕猎毯",
+  "箱装数量:60",
+  "重量:QW10393",
+  "是否专利货源:否",
+  "颜色:老鼠款/涂鸦款/小鱼款/【独家升级款】奔奔大队/小鸭款",
+  "是否跨境出口专供货源:否",
+  "是否属于礼品:是",
+  "是否IP授权:否",
+  "是否智能:否",
+  "附加功能:互动性",
+  "使用场景:多场景"
+ ],
+ "已售": 24,
+ "已登录": true,
+ "旺旺名": "漳州柒哦宠物用品有限公司",
+ "标题": "猫咪捕猎毯玩具自动转盘五角星玩具自嗨解闷逗猫棒宠物互动躲藏罩",
+ "状态": "PUBLISHED",
+ "类目": "猫猫玩具",
+ "规格价格": [
+  {
+   "价格": "14.90",
+   "库存": 99998,
+   "规格": "涂鸦款"
+  },
+  {
+   "价格": "22.90",
+   "库存": 99999,
+   "规格": "【独家升级款】奔奔大队"
+  },
+  {
+   "价格": "14.90",
+   "库存": 99995,
+   "规格": "老鼠款"
+  },
+  {
+   "价格": "14.90",
+   "库存": 99999,
+   "规格": "小鸭款"
+  },
+  {
+   "价格": "14.90",
+   "库存": 99980,
+   "规格": "小鱼款"
+  }
+ ],
+ "规格图": [
+  [
+   "老鼠款",
+   "https://cbu01.alicdn.com/img/ibank/O1CN018DrGI1Khq3L1chua_!!2211237402400-0-cib.jpg"
+  ],
+  [
+   "涂鸦款",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01xZtYc1BTlCG1chua_!!2211237402400-0-cib.jpg"
+  ],
+  [
+   "小鱼款",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01VQ4wOxOr3CB1chua_!!2211237402400-0-cib.jpg"
+  ],
+  [
+   "【独家升级款】奔奔大队",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01U5KgJRywHZJ1chua_!!2211237402400-0-cib.jpg"
+  ],
+  [
+   "小鸭款",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01YRgrngBTgUE1St88_!!2211237402400-0-cib.jpg"
+  ]
+ ],
+ "规格属性": [
+  {
+   "值": [
+    "老鼠款",
+    "涂鸦款",
+    "小鱼款",
+    "【独家升级款】奔奔大队",
+    "小鸭款"
+   ],
+   "属性": "颜色"
+  }
+ ],
+ "起订量": 1,
+ "阶梯价_登录后": [
+  {
+   "beginAmount": 1,
+   "price": "14.90"
+  },
+  {
+   "beginAmount": 1,
+   "price": "22.90"
+  }
+ ],
+ "url": "https://detail.1688.com/offer/1082358437404.html",
+ "核页时间": "2026-10-16T00:35:08.181Z"
+}

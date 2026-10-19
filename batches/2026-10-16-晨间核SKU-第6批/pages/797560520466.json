@@ -1,0 +1,442 @@
+{
+ "offerId": "797560520466",
+ "条目": "H0354",
+ "block": false,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01WUnA722NYbiL6jKDU_!!2200592779975-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01jjUzB42NYbiKGIbY5_!!2200592779975-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01Ywi7M62NYbiMVVxDe_!!2200592779975-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01JmQEbj2NYbiGjJrDq_!!2200592779975-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01cdqzJq2NYbiCArJir_!!2200592779975-0-cib.jpg"
+ ],
+ "价格区间": "11.80-52.50",
+ "价格展示": "skuPrice",
+ "到手价": null,
+ "包装信息": [
+  {
+   "height": 11,
+   "length": 20,
+   "sku1": "15X14cm普通5W【可调温】",
+   "skuId": 5548835232971,
+   "volume": 6600,
+   "weight": 80,
+   "width": 30
+  },
+  {
+   "height": 11,
+   "length": 20,
+   "sku1": "28X15cm普通7W【可调温】",
+   "skuId": 5548835232963,
+   "volume": 6600,
+   "weight": 100,
+   "width": 30
+  },
+  {
+   "height": 11,
+   "length": 20,
+   "sku1": "28X28cm普通14W【可调温】",
+   "skuId": 5548835232964,
+   "volume": 6600,
+   "weight": 100,
+   "width": 30
+  },
+  {
+   "height": 11,
+   "length": 20,
+   "sku1": "42X28cm普通20W【可调温】",
+   "skuId": 5548835232968,
+   "volume": 6600,
+   "weight": 150,
+   "width": 30
+  },
+  {
+   "height": 11,
+   "length": 20,
+   "sku1": "28X15cm升级速热14W【可调温】",
+   "skuId": 5548835232970,
+   "volume": 6600,
+   "weight": 80,
+   "width": 30
+  },
+  {
+   "height": 11,
+   "length": 20,
+   "sku1": "28X28cm升级速热28W【可调温】",
+   "skuId": 5548835232962,
+   "volume": 6600,
+   "weight": 100,
+   "width": 30
+  },
+  {
+   "height": 11,
+   "length": 20,
+   "sku1": "42X28cm升级速热40W【可调温】",
+   "skuId": 5548835232966,
+   "volume": 6600,
+   "weight": 150,
+   "width": 30
+  },
+  {
+   "height": 11,
+   "length": 20,
+   "sku1": "53X28cm升级速热28W【可调温】",
+   "skuId": 5548835232969,
+   "volume": 6600,
+   "weight": 200,
+   "width": 30
+  },
+  {
+   "height": 11,
+   "length": 20,
+   "sku1": "65X28cm升级速热35W【可调温】",
+   "skuId": 5548835232965,
+   "volume": 6600,
+   "weight": 300,
+   "width": 30
+  },
+  {
+   "height": 11,
+   "length": 20,
+   "sku1": "80X28cm升级速热45W【可调温】",
+   "skuId": 5548835232967,
+   "volume": 6600,
+   "weight": 500,
+   "width": 30
+  },
+  {
+   "height": 11,
+   "length": 20,
+   "sku1": "15X14cm普通5W【可调温】+【反射膜】",
+   "skuId": 5796012098746,
+   "volume": 6600,
+   "weight": 90,
+   "width": 30
+  },
+  {
+   "height": 11,
+   "length": 20,
+   "sku1": "28X15cm普通7W【可调温】+【反射膜】",
+   "skuId": 5796012098747,
+   "volume": 6600,
+   "weight": 120,
+   "width": 30
+  },
+  {
+   "height": 11,
+   "length": 20,
+   "sku1": "28X28cm普通14W【可调温】+【反射膜】",
+   "skuId": 5796012098748,
+   "volume": 6600,
+   "weight": 120,
+   "width": 30
+  },
+  {
+   "height": 11,
+   "length": 20,
+   "sku1": "42X28cm普通20W【可调温】+【反射膜】",
+   "skuId": 5796012098749,
+   "volume": 6600,
+   "weight": 200,
+   "width": 30
+  },
+  {
+   "height": 11,
+   "length": 20,
+   "sku1": "28X15cm升级速热14W【可调温】+【反射膜】",
+   "skuId": 5796012098750,
+   "volume": 6600,
+   "weight": 130,
+   "width": 30
+  },
+  {
+   "height": 11,
+   "length": 20,
+   "sku1": "28X28cm升级速热28W【可调温】+【反射膜】",
+   "skuId": 5796012098751,
+   "volume": 6600,
+   "weight": 130,
+   "width": 30
+  },
+  {
+   "height": 11,
+   "length": 20,
+   "sku1": "42X28cm升级速热40W【可调温】+【反射膜】",
+   "skuId": 5796012098752,
+   "volume": 6600,
+   "weight": 220,
+   "width": 30
+  },
+  {
+   "height": 11,
+   "length": 20,
+   "sku1": "53X28cm升级速热28W【可调温】+【反射膜】",
+   "skuId": 5796012098753,
+   "volume": 6600,
+   "weight": 260,
+   "width": 30
+  },
+  {
+   "height": 11,
+   "length": 20,
+   "sku1": "65X28cm升级速热35W【可调温】+【反射膜】",
+   "skuId": 5796012098754,
+   "volume": 6600,
+   "weight": 390,
+   "width": 30
+  },
+  {
+   "height": 11,
+   "length": 20,
+   "sku1": "80X28cm升级速热45W【可调温】+【反射膜】",
+   "skuId": 5796012098755,
+   "volume": 6600,
+   "weight": 600,
+   "width": 30
+  }
+ ],
+ "单位": "件",
+ "卖家公司": "泉州大冰洋贸易有限公司",
+ "可售总量": 43936,
+ "商品属性": [
+  "功率:10",
+  "材质:PVC",
+  "品牌:1",
+  "是否进口:否",
+  "产品类别:电加热器",
+  "货号:123123",
+  "重量:1",
+  "颜色:15X14cm普通5W【可调温】/28X15cm普通7W【可调温】/28X28cm普通14W【可调温】/42X28cm普通20W【可调温】/28X15cm升级速热14W【可调温】/28X28cm升级速热28W【可调温】/42X28cm升级速热40W【可调温】/53X28cm升级速热28W【可调温】/65X28cm升级速热35W【可调温】/80X28cm升级速热45W【可调温】/15X14cm普通5W【可调温】+【反射膜】/28X15cm普通7W【可调温】+【反射膜】/28X28cm普通14W【可调温】+【反射膜】/42X28cm普通20W【可调温】+【反射膜】/28X15cm升级速热14W【可调温】+【反射膜】/28X28cm升级速热28W【可调温】+【反射膜】/42X28cm升级速热40W【可调温】+【反射膜】/53X28cm升级速热28W【可调温】+【反射膜】/65X28cm升级速热35W【可调温】+【反射膜】/80X28cm升级速热45W【可调温】+【反射膜】",
+  "有可授权的自有品牌:是",
+  "是否跨境出口专供货源:是"
+ ],
+ "已售": 6176,
+ "已登录": true,
+ "旺旺名": "上海渊幽贸易",
+ "标题": "爬宠加热垫乌龟蜥蜴鱼缸角蛙宠物保温饲养箱加温控温守宫爬虫斗鱼",
+ "状态": "PUBLISHED",
+ "类目": "温控设备",
+ "规格价格": [
+  {
+   "价格": "14.50",
+   "库存": 6903,
+   "规格": "28X15cm普通7W【可调温】"
+  },
+  {
+   "价格": "46.80",
+   "库存": 368,
+   "规格": "65X28cm升级速热35W【可调温】+【反射膜】"
+  },
+  {
+   "价格": "47.50",
+   "库存": 252,
+   "规格": "80X28cm升级速热45W【可调温】"
+  },
+  {
+   "价格": "34.60",
+   "库存": 353,
+   "规格": "53X28cm升级速热28W【可调温】"
+  },
+  {
+   "价格": "19.80",
+   "库存": 2062,
+   "规格": "42X28cm普通20W【可调温】"
+  },
+  {
+   "价格": "18.50",
+   "库存": 2504,
+   "规格": "28X15cm普通7W【可调温】+【反射膜】"
+  },
+  {
+   "价格": "19.50",
+   "库存": 2571,
+   "规格": "28X28cm升级速热28W【可调温】"
+  },
+  {
+   "价格": "17.50",
+   "库存": 2223,
+   "规格": "28X28cm普通14W【可调温】"
+  },
+  {
+   "价格": "42.80",
+   "库存": 181,
+   "规格": "65X28cm升级速热35W【可调温】"
+  },
+  {
+   "价格": "26.50",
+   "库存": 1705,
+   "规格": "28X28cm升级速热28W【可调温】+【反射膜】"
+  },
+  {
+   "价格": "52.50",
+   "库存": 249,
+   "规格": "80X28cm升级速热45W【可调温】+【反射膜】"
+  },
+  {
+   "价格": "39.60",
+   "库存": 362,
+   "规格": "53X28cm升级速热28W【可调温】+【反射膜】"
+  },
+  {
+   "价格": "24.80",
+   "库存": 2510,
+   "规格": "28X15cm升级速热14W【可调温】+【反射膜】"
+  },
+  {
+   "价格": "21.50",
+   "库存": 1706,
+   "规格": "28X28cm普通14W【可调温】+【反射膜】"
+  },
+  {
+   "价格": "24.80",
+   "库存": 1814,
+   "规格": "42X28cm普通20W【可调温】+【反射膜】"
+  },
+  {
+   "价格": "23.30",
+   "库存": 2371,
+   "规格": "42X28cm升级速热40W【可调温】"
+  },
+  {
+   "价格": "15.80",
+   "库存": 3924,
+   "规格": "15X14cm普通5W【可调温】+【反射膜】"
+  },
+  {
+   "价格": "11.80",
+   "库存": 6120,
+   "规格": "15X14cm普通5W【可调温】"
+  },
+  {
+   "价格": "16.80",
+   "库存": 3944,
+   "规格": "28X15cm升级速热14W【可调温】"
+  },
+  {
+   "价格": "27.30",
+   "库存": 1814,
+   "规格": "42X28cm升级速热40W【可调温】+【反射膜】"
+  }
+ ],
+ "规格图": [
+  [
+   "15X14cm普通5W【可调温】",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01E74AJf2NYbjrJY5Bw_!!2200592779975-0-cib.jpg"
+  ],
+  [
+   "28X15cm普通7W【可调温】",
+   "https://cbu01.alicdn.com/img/ibank/O1CN011Eue4g2NYbjrDHa3h_!!2200592779975-0-cib.jpg"
+  ],
+  [
+   "28X28cm普通14W【可调温】",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01dyuMVf2NYbjkMbepH_!!2200592779975-0-cib.jpg"
+  ],
+  [
+   "42X28cm普通20W【可调温】",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01AVYBlM2NYbjt6Mm4N_!!2200592779975-0-cib.jpg"
+  ],
+  [
+   "28X15cm升级速热14W【可调温】",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01bAKB1B2NYbjrlGmwr_!!2200592779975-0-cib.jpg"
+  ],
+  [
+   "28X28cm升级速热28W【可调温】",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01qxzKO22NYbju6Rriy_!!2200592779975-0-cib.jpg"
+  ],
+  [
+   "42X28cm升级速热40W【可调温】",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01lwpH6h2NYbjopbZan_!!2200592779975-0-cib.jpg"
+  ],
+  [
+   "53X28cm升级速热28W【可调温】",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01XQgVIK2NYbjopZMPu_!!2200592779975-0-cib.jpg"
+  ],
+  [
+   "65X28cm升级速热35W【可调温】",
+   "https://cbu01.alicdn.com/img/ibank/O1CN0139SuZB2NYbjkMeTbq_!!2200592779975-0-cib.jpg"
+  ],
+  [
+   "80X28cm升级速热45W【可调温】",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01ZwHkAl2NYbjrJZlMB_!!2200592779975-0-cib.jpg"
+  ],
+  [
+   "15X14cm普通5W【可调温】+【反射膜】",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01a17z4W2NYbl5Y4AxP_!!2200592779975-0-cib.jpg"
+  ],
+  [
+   "28X15cm普通7W【可调温】+【反射膜】",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01j50XpW2NYbl5vdMGj_!!2200592779975-0-cib.jpg"
+  ],
+  [
+   "28X28cm普通14W【可调温】+【反射膜】",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01vX6o9H2NYbl6eJngE_!!2200592779975-0-cib.jpg"
+  ],
+  [
+   "42X28cm普通20W【可调温】+【反射膜】",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01r6u07B2NYbl4zwTud_!!2200592779975-0-cib.jpg"
+  ],
+  [
+   "28X15cm升级速热14W【可调温】+【反射膜】",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01V5k7gS2NYbl5vfdkM_!!2200592779975-0-cib.jpg"
+  ],
+  [
+   "28X28cm升级速热28W【可调温】+【反射膜】",
+   "https://cbu01.alicdn.com/img/ibank/O1CN015kWR0e2NYbl4Qwhhw_!!2200592779975-0-cib.jpg"
+  ],
+  [
+   "42X28cm升级速热40W【可调温】+【反射膜】",
+   "https://cbu01.alicdn.com/img/ibank/O1CN019ulnQK2NYbl29ABCt_!!2200592779975-0-cib.jpg"
+  ],
+  [
+   "53X28cm升级速热28W【可调温】+【反射膜】",
+   "https://cbu01.alicdn.com/img/ibank/O1CN018qZAzO2NYbl29ANjG_!!2200592779975-0-cib.jpg"
+  ],
+  [
+   "65X28cm升级速热35W【可调温】+【反射膜】",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01IktnGQ2NYbl6pdUkb_!!2200592779975-0-cib.jpg"
+  ],
+  [
+   "80X28cm升级速热45W【可调温】+【反射膜】",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01LXxDPv2NYbl6peZGc_!!2200592779975-0-cib.jpg"
+  ]
+ ],
+ "规格属性": [
+  {
+   "值": [
+    "15X14cm普通5W【可调温】",
+    "28X15cm普通7W【可调温】",
+    "28X28cm普通14W【可调温】",
+    "42X28cm普通20W【可调温】",
+    "28X15cm升级速热14W【可调温】",
+    "28X28cm升级速热28W【可调温】",
+    "42X28cm升级速热40W【可调温】",
+    "53X28cm升级速热28W【可调温】",
+    "65X28cm升级速热35W【可调温】",
+    "80X28cm升级速热45W【可调温】",
+    "15X14cm普通5W【可调温】+【反射膜】",
+    "28X15cm普通7W【可调温】+【反射膜】",
+    "28X28cm普通14W【可调温】+【反射膜】",
+    "42X28cm普通20W【可调温】+【反射膜】",
+    "28X15cm升级速热14W【可调温】+【反射膜】",
+    "28X28cm升级速热28W【可调温】+【反射膜】",
+    "42X28cm升级速热40W【可调温】+【反射膜】",
+    "53X28cm升级速热28W【可调温】+【反射膜】",
+    "65X28cm升级速热35W【可调温】+【反射膜】",
+    "80X28cm升级速热45W【可调温】+【反射膜】"
+   ],
+   "属性": "颜色"
+  }
+ ],
+ "起订量": 1,
+ "阶梯价_登录后": [
+  {
+   "beginAmount": 1,
+   "price": "11.80"
+  },
+  {
+   "beginAmount": 1,
+   "price": "52.50"
+  }
+ ],
+ "url": "https://detail.1688.com/offer/797560520466.html",
+ "核页时间": "2026-10-16T00:40:47.223Z"
+}

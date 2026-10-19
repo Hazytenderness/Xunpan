@@ -1,0 +1,146 @@
+{
+ "offerId": "1045063326571",
+ "条目": "H0165",
+ "block": false,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01rmTjDj1CO6rYhuU9d_!!2648550070-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01di4u4O1CO6rdSHM00_!!2648550070-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01LCyBCi1CO6rdHjrOh_!!2648550070-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01JWPEkH1CO6rd9Nx2l_!!2648550070-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01s0PxYQ1CO6rdU5jYZ_!!2648550070-0-cib.jpg"
+ ],
+ "价格区间": "4.25-4.40",
+ "价格展示": "rangePrice",
+ "到手价": {
+  "件数": 2,
+  "价": "3.96",
+  "说明": "限时价"
+ },
+ "包装信息": [
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "黄色",
+   "skuId": 6234775319776,
+   "volume": 0,
+   "weight": 167,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "灰色",
+   "skuId": 6234775319777,
+   "volume": 0,
+   "weight": 167,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "白色",
+   "skuId": 6234775319778,
+   "volume": 0,
+   "weight": 167,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "蓝色",
+   "skuId": 6234775319779,
+   "volume": 0,
+   "weight": 167,
+   "width": 0
+  }
+ ],
+ "单位": "个",
+ "卖家公司": "义乌市建俊供应链有限公司",
+ "可售总量": 399292,
+ "商品属性": [
+  "材质:其它",
+  "品牌:无",
+  "风格:其它",
+  "是否进口:否",
+  "贸易属性:内贸+外贸",
+  "产品上市时间:2026年春",
+  "专利:否",
+  "货号:洗鞋袋",
+  "颜色:黄色/灰色/白色/蓝色",
+  "是否跨境出口专供货源:否"
+ ],
+ "已售": 3923,
+ "已登录": true,
+ "旺旺名": "俊曼日用品",
+ "标题": "跨境懒人洗鞋袋洗衣机专用洗护袋家用雪尼尔洗鞋袋防变形鞋子机洗",
+ "状态": "PUBLISHED",
+ "类目": "洗衣袋、护洗袋",
+ "规格价格": [
+  {
+   "价格": "3.96",
+   "库存": 99595,
+   "规格": "蓝色"
+  },
+  {
+   "价格": "3.96",
+   "库存": 99702,
+   "规格": "白色"
+  },
+  {
+   "价格": "3.96",
+   "库存": 98932,
+   "规格": "灰色"
+  },
+  {
+   "价格": "3.96",
+   "库存": 101063,
+   "规格": "黄色"
+  }
+ ],
+ "规格图": [
+  [
+   "黄色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01DkHwkh1CO6rdAqbWU_!!2648550070-0-cib.jpg"
+  ],
+  [
+   "灰色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01PQlfBK1CO6rYhyRe9_!!2648550070-0-cib.jpg"
+  ],
+  [
+   "白色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01NbVyDb1CO6rYhyF72_!!2648550070-0-cib.jpg"
+  ],
+  [
+   "蓝色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01WBxX1l1CO6rdcD2s0_!!2648550070-0-cib.jpg"
+  ]
+ ],
+ "规格属性": [
+  {
+   "值": [
+    "黄色",
+    "灰色",
+    "白色",
+    "蓝色"
+   ],
+   "属性": "颜色"
+  }
+ ],
+ "起订量": 2,
+ "阶梯价_登录后": [
+  {
+   "beginAmount": 2,
+   "price": "3.96"
+  },
+  {
+   "beginAmount": 100,
+   "price": "4.30"
+  },
+  {
+   "beginAmount": 500,
+   "price": "4.25"
+  }
+ ],
+ "url": "https://detail.1688.com/offer/1045063326571.html",
+ "核页时间": "2026-10-15T23:10:30.633Z"
+}

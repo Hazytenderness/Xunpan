@@ -1,0 +1,114 @@
+{
+ "offerId": "829467989784",
+ "条目": "H0367",
+ "block": false,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01bENANw22e0XDfJxXR_!!2218198707144-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01rAPtOa22e0XEcD4hM_!!2218198707144-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01CpEafC22e0XFpoLVZ_!!2218198707144-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01RtmHY322e0XFpnsQK_!!2218198707144-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01VzF8qi22e0XFSkYr1_!!2218198707144-0-cib.jpg"
+ ],
+ "价格区间": null,
+ "价格展示": "rangePrice",
+ "到手价": null,
+ "包装信息": [
+  {
+   "height": 0,
+   "length": 0,
+   "volume": 0,
+   "weight": 1100,
+   "width": 0
+  }
+ ],
+ "单位": "套",
+ "卖家公司": "山东中科康源生物科技有限公司",
+ "可售总量": 268257,
+ "商品属性": [
+  "品牌:FAENBEI",
+  "适用阶段:通用",
+  "口味:鸡肉金枪鱼/牛肉/鸡肉",
+  "是否进口:否",
+  "重量:14.6kg",
+  "货号:FNBYWSLB005法恩贝英文慕斯包85g盒装",
+  "产地:山东",
+  "箱装数量:12盒/箱",
+  "规格:85g*12/盒，箱规12盒/箱（约14.6kg）",
+  "是否专利货源:否",
+  "主要下游平台:ebay/亚马逊/速卖通/独立站/LAZADA",
+  "主要销售地区:其他",
+  "是否跨境出口专供货源:是",
+  "有可授权的自有品牌:是",
+  "是否属于礼品:否"
+ ],
+ "已售": 5372,
+ "已登录": true,
+ "旺旺名": "山东中科康源",
+ "标题": "FAENBEI宠物湿粮包慕斯零食罐头",
+ "状态": "PUBLISHED",
+ "类目": "猫猫湿粮",
+ "规格价格": [
+  {
+   "价格": null,
+   "库存": 91179,
+   "规格": "鸡肉&gt;85g*12/盒，箱规12盒/箱（约14.6kg）"
+  },
+  {
+   "价格": null,
+   "库存": 84797,
+   "规格": "鸡肉金枪鱼&gt;85g*12/盒，箱规12盒/箱（约14.6kg）"
+  },
+  {
+   "价格": null,
+   "库存": 92281,
+   "规格": "牛肉&gt;85g*12/盒，箱规12盒/箱（约14.6kg）"
+  }
+ ],
+ "规格图": [
+  [
+   "鸡肉金枪鱼",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01Ro56AK22e0Ydj282A_!!2218198707144-0-cib.jpg"
+  ],
+  [
+   "牛肉",
+   "https://cbu01.alicdn.com/img/ibank/O1CN014KwrfE22e0Ydj4D6x_!!2218198707144-0-cib.jpg"
+  ],
+  [
+   "鸡肉",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01Mb8eXI22e0Yd5rQE1_!!2218198707144-0-cib.jpg"
+  ]
+ ],
+ "规格属性": [
+  {
+   "值": [
+    "鸡肉金枪鱼",
+    "牛肉",
+    "鸡肉"
+   ],
+   "属性": "口味"
+  },
+  {
+   "值": [
+    "85g*12/盒，箱规12盒/箱（约14.6kg）"
+   ],
+   "属性": "规格"
+  }
+ ],
+ "起订量": 12,
+ "阶梯价_登录后": [
+  {
+   "beginAmount": 12,
+   "price": "22.00"
+  },
+  {
+   "beginAmount": 600,
+   "price": "17.60"
+  },
+  {
+   "beginAmount": 1200,
+   "price": "15.95"
+  }
+ ],
+ "url": "https://detail.1688.com/offer/829467989784.html",
+ "核页时间": "2026-10-16T00:43:51.070Z"
+}

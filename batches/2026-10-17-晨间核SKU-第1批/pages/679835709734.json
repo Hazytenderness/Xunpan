@@ -1,0 +1,96 @@
+{
+ "offerId": "679835709734",
+ "条目": "H0033",
+ "block": false,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01I1uUVR1GNt7hYuGSy_!!2206867040611-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN0147IBIj1GNt9L0rXeK_!!2206867040611-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01NGHlnv1GNt9KEYqXu_!!2206867040611-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01KpUWH01GNslizRa2s_!!2206867040611-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01PKBakH1GNsle6xuGQ_!!2206867040611-0-cib.jpg"
+ ],
+ "价格区间": null,
+ "价格展示": "rangePrice",
+ "到手价": null,
+ "包装信息": [
+  {
+   "height": 0,
+   "length": 0,
+   "volume": 0,
+   "weight": 40,
+   "width": 0
+  }
+ ],
+ "单位": "个",
+ "卖家公司": "邢台市卓朗网络科技有限公司",
+ "可售总量": 212893,
+ "商品属性": [
+  "品牌:大丽丸",
+  "适用阶段:通用",
+  "口味:鸡肉+金枪鱼/鸡肉+银鱼",
+  "是否进口:否",
+  "重量:35g",
+  "货号:dliw-mych",
+  "产地:中国",
+  "箱装数量:以发货为准",
+  "是否专利货源:否",
+  "是否跨境出口专供货源:否",
+  "是否属于礼品:否",
+  "保质期:18个月",
+  "生产日期:见罐体侧面"
+ ],
+ "已售": 178,
+ "已登录": true,
+ "旺旺名": "邢台多丽网络科技有限公司",
+ "标题": "大丽丸猫餐盒35g猫罐头猫咪湿粮幼猫猫零食猫粮营养宠物零食批发",
+ "状态": "PUBLISHED",
+ "类目": "猫猫湿粮",
+ "规格价格": [
+  {
+   "价格": null,
+   "库存": 106294,
+   "规格": "鸡肉+金枪鱼"
+  },
+  {
+   "价格": null,
+   "库存": 106599,
+   "规格": "鸡肉+银鱼"
+  }
+ ],
+ "规格图": [
+  [
+   "鸡肉+金枪鱼",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01nxvaD01GNt42kYLQF_!!2206867040611-0-cib.jpg"
+  ],
+  [
+   "鸡肉+银鱼",
+   "https://cbu01.alicdn.com/img/ibank/O1CN017Agm5H1GNt49NJNua_!!2206867040611-0-cib.jpg"
+  ]
+ ],
+ "规格属性": [
+  {
+   "值": [
+    "鸡肉+金枪鱼",
+    "鸡肉+银鱼"
+   ],
+   "属性": "口味"
+  }
+ ],
+ "起订量": 1,
+ "阶梯价_登录后": [
+  {
+   "beginAmount": 1,
+   "price": "2.20"
+  },
+  {
+   "beginAmount": 50,
+   "price": "2.10"
+  },
+  {
+   "beginAmount": 200,
+   "price": "1.90"
+  }
+ ],
+ "url": "https://detail.1688.com/offer/679835709734.html",
+ "核页时间": "2026-10-16T23:06:55.752Z"
+}

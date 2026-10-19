@@ -1,0 +1,119 @@
+{
+ "offerId": "948185584753",
+ "条目": "H0151",
+ "block": false,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01TkWZeI2N1dJEs3Srl_!!2215473789903-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01rJFEfU2N1dJE1QVnY_!!2215473789903-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01ZNxXq72N1dJEMHCRk_!!2215473789903-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN010uirgJ2N1dJEsAaBx_!!2215473789903-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01bJ6aw12N1dJEMIkAx_!!2215473789903-0-cib.jpg"
+ ],
+ "价格区间": "3.90",
+ "价格展示": "skuPrice",
+ "到手价": {
+  "件数": 1,
+  "价": "2.9",
+  "说明": "新人价"
+ },
+ "包装信息": [
+  {
+   "height": 10,
+   "length": 10,
+   "sku1": "孔雀绿",
+   "skuId": 6022882335408,
+   "volume": 1000,
+   "weight": 100,
+   "width": 10
+  },
+  {
+   "height": 10,
+   "length": 10,
+   "sku1": "藏青",
+   "skuId": 6022882335409,
+   "volume": 1000,
+   "weight": 100,
+   "width": 10
+  },
+  {
+   "height": 10,
+   "length": 10,
+   "sku1": "浅灰",
+   "skuId": 6022882335410,
+   "volume": 1000,
+   "weight": 100,
+   "width": 10
+  }
+ ],
+ "单位": "个",
+ "卖家公司": "义乌市涵遇家居用品有限公司",
+ "可售总量": 50519,
+ "商品属性": [
+  "填充物:记忆棉",
+  "枕芯面料:无",
+  "品牌:涵遇",
+  "风格:现代简约",
+  "货号:3811",
+  "枕头重量:1斤（不含）以内",
+  "适用对象:通用",
+  "颜色:孔雀绿/藏青/浅灰",
+  "是否有专利:否",
+  "是否一般纳税人:否"
+ ],
+ "已售": 16,
+ "已登录": true,
+ "旺旺名": "涵遇家居用品",
+ "标题": "趴枕出行神器高中生飞机旅游式按压u型枕充气旅行午睡便携充气式",
+ "状态": "PUBLISHED",
+ "类目": "U型枕",
+ "规格价格": [
+  {
+   "价格": "3.90",
+   "库存": 16876,
+   "规格": "藏青"
+  },
+  {
+   "价格": "3.90",
+   "库存": 16868,
+   "规格": "浅灰"
+  },
+  {
+   "价格": "3.90",
+   "库存": 16775,
+   "规格": "孔雀绿"
+  }
+ ],
+ "规格图": [
+  [
+   "孔雀绿",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01VP9t0y2N1dJDjSgGY_!!2215473789903-0-cib.jpg"
+  ],
+  [
+   "藏青",
+   "https://cbu01.alicdn.com/img/ibank/O1CN0168YeEZ2N1dJE0OrNa_!!2215473789903-0-cib.jpg"
+  ],
+  [
+   "浅灰",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01ax5BbH2N1dJEHwqyf_!!2215473789903-0-cib.jpg"
+  ]
+ ],
+ "规格属性": [
+  {
+   "值": [
+    "孔雀绿",
+    "藏青",
+    "浅灰"
+   ],
+   "属性": "颜色"
+  }
+ ],
+ "起订量": 1,
+ "阶梯价_登录后": [
+  {
+   "beginAmount": 1,
+   "price": "3.90"
+  }
+ ],
+ "url": "https://detail.1688.com/offer/948185584753.html",
+ "核页时间": "2026-10-15T23:50:03.807Z"
+}

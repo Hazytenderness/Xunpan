@@ -1,0 +1,540 @@
+{
+ "offerId": "693714659654",
+ "条目": "H0154",
+ "block": false,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01puojSC1SRnpP0nLWw_!!2213004992244-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01b2eSnV1SRngN4KUN7_!!2213004992244-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01SZoU9G1SRne2DdCPC_!!2213004992244-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN012U28vz1SRne3idZpc_!!2213004992244-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01pZSZaz1SRne1qSePM_!!2213004992244-0-cib.jpg"
+ ],
+ "价格区间": null,
+ "价格展示": "skuPrice",
+ "到手价": null,
+ "包装信息": [
+  {
+   "height": 3,
+   "length": 3,
+   "sku1": "3cm金箔款+黑曜石",
+   "skuId": 5759186329152,
+   "volume": 27,
+   "weight": 15,
+   "width": 3
+  },
+  {
+   "height": 3,
+   "length": 3,
+   "sku1": "3cm金箔款＋青金石",
+   "skuId": 5759191233880,
+   "volume": 27,
+   "weight": 15,
+   "width": 3
+  },
+  {
+   "height": 3,
+   "length": 3,
+   "sku1": "3cm金箔款+南红玛瑙",
+   "skuId": 5759191233881,
+   "volume": 27,
+   "weight": 15,
+   "width": 3
+  },
+  {
+   "height": 3,
+   "length": 3,
+   "sku1": "3cm金箔款+红碧玉",
+   "skuId": 5759191233882,
+   "volume": 27,
+   "weight": 15,
+   "width": 3
+  },
+  {
+   "height": 3,
+   "length": 3,
+   "sku1": "3cm金箔款+黄水晶",
+   "skuId": 5759186329162,
+   "volume": 27,
+   "weight": 15,
+   "width": 3
+  },
+  {
+   "height": 3,
+   "length": 3,
+   "sku1": "3cm金箔款+虎眼石",
+   "skuId": 5759186329158,
+   "volume": 27,
+   "weight": 15,
+   "width": 3
+  },
+  {
+   "height": 3,
+   "length": 3,
+   "sku1": "3cm金箔款+白水晶",
+   "skuId": 5759191233883,
+   "volume": 27,
+   "weight": 15,
+   "width": 3
+  },
+  {
+   "height": 3,
+   "length": 3,
+   "sku1": "3cm金箔款＋碧玺",
+   "skuId": 5759191233884,
+   "volume": 27,
+   "weight": 15,
+   "width": 3
+  },
+  {
+   "height": 3,
+   "length": 3,
+   "sku1": "3cm金箔款+绿东陵",
+   "skuId": 5759186329165,
+   "volume": 27,
+   "weight": 15,
+   "width": 3
+  },
+  {
+   "height": 3,
+   "length": 3,
+   "sku1": "3cm金箔款＋彩贝",
+   "skuId": 5759191233889,
+   "volume": 27,
+   "weight": 15,
+   "width": 3
+  },
+  {
+   "height": 3,
+   "length": 3,
+   "sku1": "3cm金箔款+海蓝宝琉璃",
+   "skuId": 5759191233890,
+   "volume": 27,
+   "weight": 15,
+   "width": 3
+  },
+  {
+   "height": 3,
+   "length": 3,
+   "sku1": "3cm金箔款+紫水晶",
+   "skuId": 5759191233891,
+   "volume": 27,
+   "weight": 15,
+   "width": 3
+  },
+  {
+   "height": 3,
+   "length": 3,
+   "sku1": "3cm金箔款+深粉晶",
+   "skuId": 5759186329160,
+   "volume": 27,
+   "weight": 15,
+   "width": 3
+  },
+  {
+   "height": 3,
+   "length": 3,
+   "sku1": "3cm金箔款+五彩玛瑙石",
+   "skuId": 5759186329161,
+   "volume": 27,
+   "weight": 15,
+   "width": 3
+  },
+  {
+   "height": 5,
+   "length": 5,
+   "sku1": "金箔款一套7色",
+   "skuId": 5970807707524,
+   "volume": 575,
+   "weight": 150,
+   "width": 23
+  },
+  {
+   "height": 3,
+   "length": 3,
+   "sku1": "3cm螺旋款+黑曜石金箔",
+   "skuId": 5759186329164,
+   "volume": 27,
+   "weight": 15,
+   "width": 3
+  },
+  {
+   "height": 3,
+   "length": 3,
+   "sku1": "3cm螺旋款+红碧玉金箔",
+   "skuId": 5759191233879,
+   "volume": 27,
+   "weight": 15,
+   "width": 3
+  },
+  {
+   "height": 3,
+   "length": 3,
+   "sku1": "3cm螺旋款+粉晶金箔",
+   "skuId": 5759191233885,
+   "volume": 27,
+   "weight": 15,
+   "width": 3
+  },
+  {
+   "height": 3,
+   "length": 3,
+   "sku1": "3cm螺旋款+白水晶金箔",
+   "skuId": 5759191233886,
+   "volume": 27,
+   "weight": 15,
+   "width": 3
+  },
+  {
+   "height": 3,
+   "length": 3,
+   "sku1": "3cm螺旋款+青金石金箔",
+   "skuId": 5759191233893,
+   "volume": 27,
+   "weight": 15,
+   "width": 3
+  },
+  {
+   "height": 3,
+   "length": 3,
+   "sku1": "3cm螺旋款+绿松石金箔",
+   "skuId": 5759191233892,
+   "volume": 27,
+   "weight": 15,
+   "width": 3
+  },
+  {
+   "height": 3,
+   "length": 3,
+   "sku1": "3cm螺旋款+虎眼石金箔",
+   "skuId": 5759191233887,
+   "volume": 27,
+   "weight": 15,
+   "width": 3
+  },
+  {
+   "height": 3,
+   "length": 3,
+   "sku1": "3cm螺旋款+紫水晶金箔",
+   "skuId": 5759191233894,
+   "volume": 27,
+   "weight": 15,
+   "width": 3
+  },
+  {
+   "height": 3,
+   "length": 3,
+   "sku1": "3cm螺旋款+彩贝金箔",
+   "skuId": 5759191233888,
+   "volume": 27,
+   "weight": 15,
+   "width": 3
+  },
+  {
+   "height": 5,
+   "length": 5,
+   "sku1": "螺旋款3cm全套",
+   "skuId": 5970807707525,
+   "volume": 575,
+   "weight": 150,
+   "width": 23
+  }
+ ],
+ "单位": "件",
+ "卖家公司": "连云港阿晶工艺饰品有限公司",
+ "可售总量": 4697,
+ "商品属性": [
+  "材质:树脂",
+  "类别:几何形状",
+  "品牌:晶生缘",
+  "风格:现代简约风",
+  "适用节日:通用/其他",
+  "货号:SJ042",
+  "产品编号:Ognjan pyramid",
+  "包装:PP袋独立包装",
+  "是否专利货源:否",
+  "颜色:3cm金箔款+黑曜石/3cm金箔款＋青金石/3cm金箔款+南红玛瑙/3cm金箔款+红碧玉/3cm金箔款+黄水晶/3cm金箔款+虎眼石/3cm金箔款+白水晶/3cm金箔款＋碧玺/3cm金箔款+绿东陵/3cm金箔款＋彩贝/3cm金箔款+海蓝宝琉璃/3cm金箔款+紫水晶/3cm金箔款+深粉晶/3cm金箔款+五彩玛瑙石/金箔款一套7色/3cm螺旋款+黑曜石金箔/3cm螺旋款+红碧玉金箔/3cm螺旋款+粉晶金箔/3cm螺旋款+白水晶金箔/3cm螺旋款+青金石金箔/3cm螺旋款+绿松石金箔/3cm螺旋款+虎眼石金箔/3cm螺旋款+紫水晶金箔/3cm螺旋款+彩贝金箔/螺旋款3cm全套",
+  "适用送礼场合:旅游纪念/派对聚会/其他",
+  "适用送礼关系:晚辈/情侣/夫妻/同事/朋友/长辈/孩子/同学/恩师/其他",
+  "送礼用途:积分换购礼品/商务礼品/广告礼品/促销赠品/会议礼品/福利礼品/节庆礼品/嘉奖纪念/公关礼品",
+  "是否属于礼品:是，个人礼品",
+  "是否IP授权:否",
+  "制作工艺:金字塔摆件水晶金字塔",
+  "净重:15g"
+ ],
+ "已售": 181,
+ "已登录": true,
+ "旺旺名": "水晶皇后工艺品",
+ "标题": "金字塔摆件查克拉水晶碎石工艺品办公桌面装饰摆件独立站跨境热销",
+ "状态": "PUBLISHED",
+ "类目": "树脂工艺品",
+ "规格价格": [
+  {
+   "价格": "25.00",
+   "库存": 190,
+   "规格": "金箔款一套7色"
+  },
+  {
+   "价格": "3.49",
+   "库存": 185,
+   "规格": "3cm金箔款+白水晶"
+  },
+  {
+   "价格": "3.49",
+   "库存": 184,
+   "规格": "3cm金箔款+黑曜石"
+  },
+  {
+   "价格": "3.60",
+   "库存": 199,
+   "规格": "3cm螺旋款+虎眼石金箔"
+  },
+  {
+   "价格": "27.00",
+   "库存": 94,
+   "规格": "螺旋款3cm全套"
+  },
+  {
+   "价格": "3.49",
+   "库存": 191,
+   "规格": "3cm金箔款+红碧玉"
+  },
+  {
+   "价格": "3.60",
+   "库存": 197,
+   "规格": "3cm螺旋款+黑曜石金箔"
+  },
+  {
+   "价格": "3.49",
+   "库存": 186,
+   "规格": "3cm金箔款+虎眼石"
+  },
+  {
+   "价格": "3.49",
+   "库存": 190,
+   "规格": "3cm金箔款＋碧玺"
+  },
+  {
+   "价格": "3.60",
+   "库存": 199,
+   "规格": "3cm螺旋款+红碧玉金箔"
+  },
+  {
+   "价格": "3.60",
+   "库存": 199,
+   "规格": "3cm螺旋款+彩贝金箔"
+  },
+  {
+   "价格": "3.60",
+   "库存": 198,
+   "规格": "3cm螺旋款+白水晶金箔"
+  },
+  {
+   "价格": "3.49",
+   "库存": 200,
+   "规格": "3cm金箔款+南红玛瑙"
+  },
+  {
+   "价格": "3.49",
+   "库存": 185,
+   "规格": "3cm金箔款+绿东陵"
+  },
+  {
+   "价格": "3.60",
+   "库存": 197,
+   "规格": "3cm螺旋款+绿松石金箔"
+  },
+  {
+   "价格": "3.49",
+   "库存": 194,
+   "规格": "3cm金箔款+黄水晶"
+  },
+  {
+   "价格": "3.49",
+   "库存": 187,
+   "规格": "3cm金箔款+深粉晶"
+  },
+  {
+   "价格": "3.49",
+   "库存": 183,
+   "规格": "3cm金箔款＋彩贝"
+  },
+  {
+   "价格": "3.49",
+   "库存": 177,
+   "规格": "3cm金箔款＋青金石"
+  },
+  {
+   "价格": "3.49",
+   "库存": 188,
+   "规格": "3cm金箔款+海蓝宝琉璃"
+  },
+  {
+   "价格": "3.49",
+   "库存": 199,
+   "规格": "3cm金箔款+紫水晶"
+  },
+  {
+   "价格": "3.60",
+   "库存": 192,
+   "规格": "3cm螺旋款+紫水晶金箔"
+  },
+  {
+   "价格": "3.60",
+   "库存": 191,
+   "规格": "3cm螺旋款+粉晶金箔"
+  },
+  {
+   "价格": "3.49",
+   "库存": 200,
+   "规格": "3cm金箔款+五彩玛瑙石"
+  },
+  {
+   "价格": "3.60",
+   "库存": 192,
+   "规格": "3cm螺旋款+青金石金箔"
+  }
+ ],
+ "规格图": [
+  [
+   "3cm金箔款+黑曜石",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01VSQRbZ1SRne3GFqYE_!!2213004992244-0-cib.jpg"
+  ],
+  [
+   "3cm金箔款＋青金石",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01pZSZaz1SRne1qSePM_!!2213004992244-0-cib.jpg"
+  ],
+  [
+   "3cm金箔款+南红玛瑙",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01x3nF331SRneTohiGU_!!2213004992244-0-cib.jpg"
+  ],
+  [
+   "3cm金箔款+红碧玉",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01iuOAdm1SRndyoyeN8_!!2213004992244-0-cib.jpg"
+  ],
+  [
+   "3cm金箔款+黄水晶",
+   "https://cbu01.alicdn.com/img/ibank/O1CN010xrDmp1SRnXwp9T6u_!!2213004992244-0-cib.jpg"
+  ],
+  [
+   "3cm金箔款+虎眼石",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01jqcP021SRnXy5V76H_!!2213004992244-0-cib.jpg"
+  ],
+  [
+   "3cm金箔款+白水晶",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01NuKZgT1SRne03bUjF_!!2213004992244-0-cib.jpg"
+  ],
+  [
+   "3cm金箔款＋碧玺",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01PRmoz71SRndwlNOSW_!!2213004992244-0-cib.jpg"
+  ],
+  [
+   "3cm金箔款+绿东陵",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01JmLNOj1SRne00VPuj_!!2213004992244-0-cib.jpg"
+  ],
+  [
+   "3cm金箔款＋彩贝",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01mwF04O1SRne2DbaTG_!!2213004992244-0-cib.jpg"
+  ],
+  [
+   "3cm金箔款+海蓝宝琉璃",
+   "https://cbu01.alicdn.com/img/ibank/O1CN017iyiKs1SRneTodHSY_!!2213004992244-0-cib.jpg"
+  ],
+  [
+   "3cm金箔款+紫水晶",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01et3UwU1SRndqKKU4p_!!2213004992244-0-cib.jpg"
+  ],
+  [
+   "3cm金箔款+深粉晶",
+   "https://cbu01.alicdn.com/img/ibank/O1CN012U28vz1SRne3idZpc_!!2213004992244-0-cib.jpg"
+  ],
+  [
+   "3cm金箔款+五彩玛瑙石",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01S7QF651SRndywAcxr_!!2213004992244-0-cib.jpg"
+  ],
+  [
+   "金箔款一套7色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01Gy3eEF1SRnpNQUJjS_!!2213004992244-0-cib.jpg"
+  ],
+  [
+   "3cm螺旋款+黑曜石金箔",
+   "https://cbu01.alicdn.com/img/ibank/O1CN011mpI7i1SRnoW8dBSL_!!2213004992244-0-cib.jpg"
+  ],
+  [
+   "3cm螺旋款+红碧玉金箔",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01FuufiG1SRnoZDs26H_!!2213004992244-0-cib.jpg"
+  ],
+  [
+   "3cm螺旋款+粉晶金箔",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01gy2JUj1SRnoXTVX2I_!!2213004992244-0-cib.jpg"
+  ],
+  [
+   "3cm螺旋款+白水晶金箔",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01tkS3qw1SRnoXrrSZ4_!!2213004992244-0-cib.jpg"
+  ],
+  [
+   "3cm螺旋款+青金石金箔",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01bi0XST1SRnoW8jYrr_!!2213004992244-0-cib.jpg"
+  ],
+  [
+   "3cm螺旋款+绿松石金箔",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01X9dpJL1SRnoYgdCaq_!!2213004992244-0-cib.jpg"
+  ],
+  [
+   "3cm螺旋款+虎眼石金箔",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01PAF0NY1SRnoXTXslr_!!2213004992244-0-cib.jpg"
+  ],
+  [
+   "3cm螺旋款+紫水晶金箔",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01nFNcIo1SRnoR6vTGU_!!2213004992244-0-cib.jpg"
+  ],
+  [
+   "3cm螺旋款+彩贝金箔",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01zJ2WsH1SRnoVODzqv_!!2213004992244-0-cib.jpg"
+  ]
+ ],
+ "规格属性": [
+  {
+   "值": [
+    "3cm金箔款+黑曜石",
+    "3cm金箔款＋青金石",
+    "3cm金箔款+南红玛瑙",
+    "3cm金箔款+红碧玉",
+    "3cm金箔款+黄水晶",
+    "3cm金箔款+虎眼石",
+    "3cm金箔款+白水晶",
+    "3cm金箔款＋碧玺",
+    "3cm金箔款+绿东陵",
+    "3cm金箔款＋彩贝",
+    "3cm金箔款+海蓝宝琉璃",
+    "3cm金箔款+紫水晶",
+    "3cm金箔款+深粉晶",
+    "3cm金箔款+五彩玛瑙石",
+    "金箔款一套7色",
+    "3cm螺旋款+黑曜石金箔",
+    "3cm螺旋款+红碧玉金箔",
+    "3cm螺旋款+粉晶金箔",
+    "3cm螺旋款+白水晶金箔",
+    "3cm螺旋款+青金石金箔",
+    "3cm螺旋款+绿松石金箔",
+    "3cm螺旋款+虎眼石金箔",
+    "3cm螺旋款+紫水晶金箔",
+    "3cm螺旋款+彩贝金箔",
+    "螺旋款3cm全套"
+   ],
+   "属性": "颜色"
+  }
+ ],
+ "起订量": 1,
+ "阶梯价_登录后": [
+  {
+   "beginAmount": 1,
+   "price": "3.49"
+  },
+  {
+   "beginAmount": 1,
+   "price": "27.00"
+  }
+ ],
+ "url": "https://detail.1688.com/offer/693714659654.html",
+ "核页时间": "2026-10-15T23:50:54.215Z"
+}

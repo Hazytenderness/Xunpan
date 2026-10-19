@@ -1,0 +1,308 @@
+{
+ "offerId": "1033088968473",
+ "条目": "H0357",
+ "block": false,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01eGYXbahJ82B1chua_!!2216991870214-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01jEZpJHPM7AI1chua_!!2216991870214-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01j7LcNb1DS3szOjLrW_!!2216991870214-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN017gSomI1DS3szxxsgp_!!2216991870214-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN016PnUWA1DS3szt07R9_!!2216991870214-0-cib.jpg"
+ ],
+ "价格区间": "25.99-100.00",
+ "价格展示": "skuPrice",
+ "到手价": {
+  "件数": 1,
+  "价": "24.99",
+  "说明": "新人价"
+ },
+ "包装信息": [
+  {
+   "height": 15.8,
+   "length": 10,
+   "sku1": "set-01一个装",
+   "skuId": 6211092467010,
+   "volume": 1580,
+   "weight": 280,
+   "width": 10
+  },
+  {
+   "height": 15.8,
+   "length": 19.6,
+   "sku1": "set-01两个装",
+   "skuId": 6211092467011,
+   "volume": 3096.8,
+   "weight": 540,
+   "width": 10
+  },
+  {
+   "height": 18.8,
+   "length": 19.8,
+   "sku1": "set-01四个装",
+   "skuId": 6211092467012,
+   "volume": 6328.08,
+   "weight": 1080,
+   "width": 17
+  },
+  {
+   "height": 15.8,
+   "length": 10,
+   "sku1": "set-02一个装",
+   "skuId": 6211092467013,
+   "volume": 1580,
+   "weight": 280,
+   "width": 10
+  },
+  {
+   "height": 15.8,
+   "length": 19.6,
+   "sku1": "set-02两个装",
+   "skuId": 6211092467014,
+   "volume": 3096.8,
+   "weight": 540,
+   "width": 10
+  },
+  {
+   "height": 18.8,
+   "length": 19.8,
+   "sku1": "set-02四个装",
+   "skuId": 6211092467015,
+   "volume": 6328.08,
+   "weight": 1080,
+   "width": 17
+  },
+  {
+   "height": 15.5,
+   "length": 13.4,
+   "sku1": "SEM-双喇叭一个装",
+   "skuId": 6257214171759,
+   "volume": 1412.36,
+   "weight": 283,
+   "width": 6.8
+  },
+  {
+   "height": 15.5,
+   "length": 13.4,
+   "sku1": "SEM-双喇叭两个装",
+   "skuId": 6257214171764,
+   "volume": 2596.25,
+   "weight": 562,
+   "width": 12.5
+  },
+  {
+   "height": 15.5,
+   "length": 24.5,
+   "sku1": "SEM-双喇叭四个装",
+   "skuId": 6257214171760,
+   "volume": 5126.625,
+   "weight": 1102,
+   "width": 13.5
+  },
+  {
+   "height": 15.5,
+   "length": 13.4,
+   "sku1": "SEM-右闪一个装",
+   "skuId": 6257214171761,
+   "volume": 1412.36,
+   "weight": 283,
+   "width": 6.8
+  },
+  {
+   "height": 15.5,
+   "length": 24.5,
+   "sku1": "SEM-右闪两个装",
+   "skuId": 6257214171762,
+   "volume": 5126.625,
+   "weight": 562,
+   "width": 13.5
+  },
+  {
+   "height": 15.5,
+   "length": 24.5,
+   "sku1": "SEM-右闪四个装",
+   "skuId": 6257214171763,
+   "volume": 5126.625,
+   "weight": 1102,
+   "width": 13.5
+  }
+ ],
+ "单位": "个",
+ "卖家公司": "义乌市智达照明电器有限公司",
+ "可售总量": 119462,
+ "商品属性": [
+  "是否支持充电:支持",
+  "品牌:智达",
+  "灭蚊灯种类:其它",
+  "外壳工艺:注塑",
+  "型号:set-01",
+  "货号:set-01",
+  "灭蚊驱虫驱螂种类:驱鼠器",
+  "适用面积:20-50平米",
+  "额定电压:3.7",
+  "额定频率:--",
+  "额定功率:--",
+  "包装种类:盒装",
+  "包装体积:10*10*15.8cm",
+  "颜色:set-01一个装/set-01两个装/set-01四个装/set-02一个装/set-02两个装/set-02四个装/SEM-双喇叭一个装/SEM-双喇叭两个装/SEM-双喇叭四个装/SEM-右闪一个装/SEM-右闪两个装/SEM-右闪四个装",
+  "主要下游平台:亚马逊/wish/速卖通/独立站/LAZADA/其他",
+  "主要销售地区:欧洲/南美/东南亚/北美/东北亚",
+  "有可授权的自有品牌:是",
+  "是否跨境出口专供货源:是",
+  "插头规格:其他规格",
+  "灯光功能:闪烁",
+  "工作原理:灯光闪烁+声波",
+  "适用场景:花园、草坪、庭院、菜园、果园",
+  "上市年份季节:2026年春季",
+  "材质:ABS"
+ ],
+ "已售": 523,
+ "已登录": true,
+ "旺旺名": "智达照明电器有限公司",
+ "标题": "跨境太阳能动物驱赶器红外爆闪超声波驱猫狗器热销超声波驱鼠器",
+ "状态": "PUBLISHED",
+ "类目": "驱虫驱鼠器",
+ "规格价格": [
+  {
+   "价格": "50.99",
+   "库存": 9927,
+   "规格": "SEM-双喇叭两个装"
+  },
+  {
+   "价格": "25.99",
+   "库存": 9998,
+   "规格": "SEM-右闪四个装"
+  },
+  {
+   "价格": "25.99",
+   "库存": 9992,
+   "规格": "set-01一个装"
+  },
+  {
+   "价格": "100.00",
+   "库存": 9983,
+   "规格": "set-02四个装"
+  },
+  {
+   "价格": "25.99",
+   "库存": 9595,
+   "规格": "set-02一个装"
+  },
+  {
+   "价格": "25.99",
+   "库存": 9999,
+   "规格": "SEM-双喇叭一个装"
+  },
+  {
+   "价格": "100.00",
+   "库存": 9995,
+   "规格": "set-01四个装"
+  },
+  {
+   "价格": "50.99",
+   "库存": 9999,
+   "规格": "set-01两个装"
+  },
+  {
+   "价格": "50.99",
+   "库存": 9984,
+   "规格": "SEM-右闪两个装"
+  },
+  {
+   "价格": "100.00",
+   "库存": 9999,
+   "规格": "SEM-双喇叭四个装"
+  },
+  {
+   "价格": "50.99",
+   "库存": 9996,
+   "规格": "set-02两个装"
+  },
+  {
+   "价格": "25.99",
+   "库存": 9995,
+   "规格": "SEM-右闪一个装"
+  }
+ ],
+ "规格图": [
+  [
+   "set-01一个装",
+   "https://cbu01.alicdn.com/img/ibank/O1CN017CyYov1DS3szEwqmU_!!2216991870214-0-cib.jpg"
+  ],
+  [
+   "set-01两个装",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01FIxUso1DS3szuepFr_!!2216991870214-0-cib.jpg"
+  ],
+  [
+   "set-01四个装",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01886ixv1DS3t0Cblne_!!2216991870214-0-cib.jpg"
+  ],
+  [
+   "set-02一个装",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01mZbIgd1DS3t055UGf_!!2216991870214-0-cib.jpg"
+  ],
+  [
+   "set-02两个装",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01yXq83c1DS3szmPkOV_!!2216991870214-0-cib.jpg"
+  ],
+  [
+   "set-02四个装",
+   "https://cbu01.alicdn.com/img/ibank/O1CN015g5DYS1DS3szyaU3b_!!2216991870214-0-cib.jpg"
+  ],
+  [
+   "SEM-双喇叭一个装",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01Z0S6SL1DS3szF73TM_!!2216991870214-0-cib.jpg"
+  ],
+  [
+   "SEM-双喇叭两个装",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01Gwy7Ss1DS3tsPsvXX_!!2216991870214-0-cib.jpg"
+  ],
+  [
+   "SEM-双喇叭四个装",
+   "https://cbu01.alicdn.com/img/ibank/O1CN0197kr2j1DS3t0C98vz_!!2216991870214-0-cib.jpg"
+  ],
+  [
+   "SEM-右闪一个装",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01dzxytT1DS3szygWTM_!!2216991870214-0-cib.jpg"
+  ],
+  [
+   "SEM-右闪两个装",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01h4lEML1DS3szmQxYG_!!2216991870214-0-cib.jpg"
+  ],
+  [
+   "SEM-右闪四个装",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01WwcVmx1DS3tsPrv8D_!!2216991870214-0-cib.jpg"
+  ]
+ ],
+ "规格属性": [
+  {
+   "值": [
+    "set-01一个装",
+    "set-01两个装",
+    "set-01四个装",
+    "set-02一个装",
+    "set-02两个装",
+    "set-02四个装",
+    "SEM-双喇叭一个装",
+    "SEM-双喇叭两个装",
+    "SEM-双喇叭四个装",
+    "SEM-右闪一个装",
+    "SEM-右闪两个装",
+    "SEM-右闪四个装"
+   ],
+   "属性": "颜色"
+  }
+ ],
+ "起订量": 1,
+ "阶梯价_登录后": [
+  {
+   "beginAmount": 1,
+   "price": "25.99"
+  },
+  {
+   "beginAmount": 1,
+   "price": "100.00"
+  }
+ ],
+ "url": "https://detail.1688.com/offer/1033088968473.html",
+ "核页时间": "2026-10-16T00:41:33.604Z"
+}

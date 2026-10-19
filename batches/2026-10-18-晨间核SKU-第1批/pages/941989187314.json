@@ -1,0 +1,444 @@
+{
+ "offerId": "941989187314",
+ "条目": "H0033",
+ "block": false,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01LcHC7u290ny7ACUVr_!!2591268006-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01tIBRqV290ny8cmNgh_!!2591268006-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01uA5CdM290ny8iV7ys_!!2591268006-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01FeC0Tg290ny9ExpBt_!!2591268006-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01mvGmp8290ny8JqeWu_!!2591268006-0-cib.jpg"
+ ],
+ "价格区间": null,
+ "价格展示": "skuPrice",
+ "到手价": null,
+ "包装信息": [
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "47cm绿萝叶",
+   "skuId": 5846181524652,
+   "volume": 0,
+   "weight": 500,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "47cm冷水",
+   "skuId": 5846181524654,
+   "volume": 0,
+   "weight": 500,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "47cm变色木",
+   "skuId": 5846181524635,
+   "volume": 0,
+   "weight": 500,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "47cm绿色眉叶",
+   "skuId": 5846181524650,
+   "volume": 0,
+   "weight": 500,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "47cm紫色眉叶",
+   "skuId": 5846181524651,
+   "volume": 0,
+   "weight": 500,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "47cm龟背",
+   "skuId": 5846181524648,
+   "volume": 0,
+   "weight": 500,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "47cm紫苏",
+   "skuId": 5846181524653,
+   "volume": 0,
+   "weight": 500,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "47cm白边地瓜",
+   "skuId": 5846181524649,
+   "volume": 0,
+   "weight": 500,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "47cm红胡杨",
+   "skuId": 5846181524655,
+   "volume": 0,
+   "weight": 500,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "45cm镜片绿色",
+   "skuId": 5846181524644,
+   "volume": 0,
+   "weight": 500,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "45cm镜片红点",
+   "skuId": 5846181524643,
+   "volume": 0,
+   "weight": 500,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "45cm手感秋海棠",
+   "skuId": 5846181524645,
+   "volume": 0,
+   "weight": 500,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "45cm圆贝叶--白纹",
+   "skuId": 5846181524646,
+   "volume": 0,
+   "weight": 500,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "45cm彩芋-大枝黄绿色",
+   "skuId": 5846181524636,
+   "volume": 0,
+   "weight": 500,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "45cm彩芋红叶",
+   "skuId": 5846181524647,
+   "volume": 0,
+   "weight": 500,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "45cm水芋-大枝白绿色",
+   "skuId": 5846181524637,
+   "volume": 0,
+   "weight": 500,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "45cm彩芋-大枝红点",
+   "skuId": 5846181524639,
+   "volume": 0,
+   "weight": 500,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "45cm双边彩芋红叶",
+   "skuId": 5846181524638,
+   "volume": 0,
+   "weight": 500,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "20cm彩芋-小枝黄绿色",
+   "skuId": 5846181524641,
+   "volume": 0,
+   "weight": 500,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "20cm彩芋-小枝条纹色",
+   "skuId": 5846181524642,
+   "volume": 0,
+   "weight": 500,
+   "width": 0
+  }
+ ],
+ "单位": "支",
+ "卖家公司": "雄县苟各庄镇荣鑫仿真植物厂",
+ "可售总量": 64971,
+ "商品属性": [
+  "材质:塑料",
+  "品种:彩叶芋",
+  "品牌:馨荣鑫",
+  "工艺:定型/压纹/注塑",
+  "用途:婚庆/户外/摄影道具/家居装扮",
+  "货号:JY",
+  "是否专利货源:否",
+  "颜色:47cm绿萝叶/47cm冷水/47cm变色木/47cm绿色眉叶/47cm紫色眉叶/47cm龟背/47cm紫苏/47cm白边地瓜/47cm红胡杨/45cm镜片绿色/45cm镜片红点/45cm手感秋海棠/45cm圆贝叶--白纹/45cm彩芋-大枝黄绿色/45cm彩芋红叶/45cm水芋-大枝白绿色/45cm彩芋-大枝红点/45cm双边彩芋红叶/20cm彩芋-小枝黄绿色/20cm彩芋-小枝条纹色",
+  "风格:田园风",
+  "产品形态:花束",
+  "组合形式:支",
+  "高度:30cm-100cm(含)"
+ ],
+ "已售": 9,
+ "已登录": true,
+ "旺旺名": "荣鑫植物",
+ "标题": "仿真绿植绿箩壁挂假叶子造景壁挂背景悬挂人造假植物吊",
+ "状态": "PUBLISHED",
+ "类目": "仿真绿植",
+ "规格价格": [
+  {
+   "价格": "6.50",
+   "库存": 5000,
+   "规格": "47cm紫色眉叶"
+  },
+  {
+   "价格": "6.50",
+   "库存": 0,
+   "规格": "20cm彩芋-小枝黄绿色"
+  },
+  {
+   "价格": "7.50",
+   "库存": 4998,
+   "规格": "45cm彩芋-大枝黄绿色"
+  },
+  {
+   "价格": "7.50",
+   "库存": 0,
+   "规格": "45cm彩芋红叶"
+  },
+  {
+   "价格": "5.50",
+   "库存": 4999,
+   "规格": "47cm变色木"
+  },
+  {
+   "价格": "5.50",
+   "库存": 4999,
+   "规格": "47cm紫苏"
+  },
+  {
+   "价格": "7.50",
+   "库存": 0,
+   "规格": "45cm镜片绿色"
+  },
+  {
+   "价格": "5.50",
+   "库存": 4999,
+   "规格": "47cm冷水"
+  },
+  {
+   "价格": "7.50",
+   "库存": 5000,
+   "规格": "45cm圆贝叶--白纹"
+  },
+  {
+   "价格": "7.50",
+   "库存": 0,
+   "规格": "45cm水芋-大枝白绿色"
+  },
+  {
+   "价格": "5.50",
+   "库存": 5000,
+   "规格": "47cm红胡杨"
+  },
+  {
+   "价格": "5.50",
+   "库存": 5000,
+   "规格": "47cm白边地瓜"
+  },
+  {
+   "价格": "7.50",
+   "库存": 0,
+   "规格": "45cm镜片红点"
+  },
+  {
+   "价格": "5.50",
+   "库存": 4998,
+   "规格": "47cm绿萝叶"
+  },
+  {
+   "价格": "6.50",
+   "库存": 4999,
+   "规格": "47cm绿色眉叶"
+  },
+  {
+   "价格": "7.50",
+   "库存": 0,
+   "规格": "45cm双边彩芋红叶"
+  },
+  {
+   "价格": "7.50",
+   "库存": 4980,
+   "规格": "45cm手感秋海棠"
+  },
+  {
+   "价格": "7.50",
+   "库存": 4999,
+   "规格": "45cm彩芋-大枝红点"
+  },
+  {
+   "价格": "5.50",
+   "库存": 5000,
+   "规格": "47cm龟背"
+  },
+  {
+   "价格": "6.50",
+   "库存": 0,
+   "规格": "20cm彩芋-小枝条纹色"
+  }
+ ],
+ "规格图": [
+  [
+   "47cm绿萝叶",
+   "https://cbu01.alicdn.com/img/ibank/O1CN019HQfYD290ny90djI3_!!2591268006-0-cib.jpg"
+  ],
+  [
+   "47cm冷水",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01VPzE6w290ny8KO5NL_!!2591268006-0-cib.jpg"
+  ],
+  [
+   "47cm变色木",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01Evyknp290nyA0QC8Q_!!2591268006-0-cib.jpg"
+  ],
+  [
+   "47cm绿色眉叶",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01Cb7meO290ny6fzZfK_!!2591268006-0-cib.jpg"
+  ],
+  [
+   "47cm紫色眉叶",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01rpQnaa290ny8K5UVn_!!2591268006-0-cib.jpg"
+  ],
+  [
+   "47cm龟背",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01nWJ8Lo290ny7ApA47_!!2591268006-0-cib.jpg"
+  ],
+  [
+   "47cm紫苏",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01WdSTUd290ny8Kz19W_!!2591268006-0-cib.jpg"
+  ],
+  [
+   "47cm白边地瓜",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01Pn06qO290ny9GcbSf_!!2591268006-0-cib.jpg"
+  ],
+  [
+   "47cm红胡杨",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01opn9cT290ny85mO64_!!2591268006-0-cib.jpg"
+  ],
+  [
+   "45cm手感秋海棠",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01MGoB8A290ny8jKgaK_!!2591268006-0-cib.jpg"
+  ],
+  [
+   "45cm圆贝叶--白纹",
+   "https://cbu01.alicdn.com/img/ibank/O1CN010vWwkS290nyA0fIiX_!!2591268006-0-cib.jpg"
+  ],
+  [
+   "45cm彩芋-大枝黄绿色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01xegYDx290ny8dAcFK_!!2591268006-0-cib.jpg"
+  ],
+  [
+   "45cm彩芋-大枝红点",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01yBQBok290nyA0Clg5_!!2591268006-0-cib.jpg"
+  ],
+  [
+   "45cm镜片绿色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01v2aJJx290ny9Go5AS_!!2591268006-0-cib.jpg"
+  ],
+  [
+   "45cm镜片红点",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01OW9N66290ny6gSZtn_!!2591268006-0-cib.jpg"
+  ],
+  [
+   "45cm彩芋红叶",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01bR9wOc290ny8Kh9Mp_!!2591268006-0-cib.jpg"
+  ],
+  [
+   "45cm水芋-大枝白绿色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01z320qR290ny8KHRB1_!!2591268006-0-cib.jpg"
+  ],
+  [
+   "45cm双边彩芋红叶",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01tLmE5S290ny2KCuQG_!!2591268006-0-cib.jpg"
+  ],
+  [
+   "20cm彩芋-小枝黄绿色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01ZOXjsY290ny8KtRjs_!!2591268006-0-cib.jpg"
+  ],
+  [
+   "20cm彩芋-小枝条纹色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01GLyM7p290ny90Yxsp_!!2591268006-0-cib.jpg"
+  ]
+ ],
+ "规格属性": [
+  {
+   "值": [
+    "47cm绿萝叶",
+    "47cm冷水",
+    "47cm变色木",
+    "47cm绿色眉叶",
+    "47cm紫色眉叶",
+    "47cm龟背",
+    "47cm紫苏",
+    "47cm白边地瓜",
+    "47cm红胡杨",
+    "45cm手感秋海棠",
+    "45cm圆贝叶--白纹",
+    "45cm彩芋-大枝黄绿色",
+    "45cm彩芋-大枝红点",
+    "45cm镜片绿色",
+    "45cm镜片红点",
+    "45cm彩芋红叶",
+    "45cm水芋-大枝白绿色",
+    "45cm双边彩芋红叶",
+    "20cm彩芋-小枝黄绿色",
+    "20cm彩芋-小枝条纹色"
+   ],
+   "属性": "颜色"
+  }
+ ],
+ "起订量": 1,
+ "阶梯价_登录后": [
+  {
+   "beginAmount": 1,
+   "price": "5.50"
+  },
+  {
+   "beginAmount": 1,
+   "price": "7.50"
+  }
+ ],
+ "url": "https://detail.1688.com/offer/941989187314.html",
+ "核页时间": "2026-10-17T23:05:58.273Z"
+}

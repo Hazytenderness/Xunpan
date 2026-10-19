@@ -1,0 +1,703 @@
+{
+ "offerId": "1045023567232",
+ "条目": "H0127",
+ "block": false,
+ "卖家公司": "南京盛宠科技有限公司",
+ "旺旺名": "盛宠宠物用品",
+ "标题": "多巴胺悬浮水碗大容量猫碗防打翻不湿嘴狗狗喝水碗喂水器宠物用品",
+ "状态": "PUBLISHED",
+ "类目": "猫猫食具",
+ "已登录": true,
+ "规格属性": [
+  {
+   "属性": "规格",
+   "值": [
+    "黄蓝600ml",
+    "黄蓝1200ml",
+    "粉白600ml",
+    "粉白1200ml",
+    "粉黑600ml",
+    "粉黑1200ml",
+    "粉绿600ml",
+    "粉绿1200ml",
+    "紫白600ml",
+    "紫白1200ml",
+    "紫黄600ml",
+    "紫黄1200ml",
+    "棕蓝600ml",
+    "棕蓝1200ml",
+    "Kitty款600ml",
+    "Kitty款1200ml",
+    "大耳狗600ml",
+    "大耳狗1200ml",
+    "蒂安绿600ml",
+    "蒂安绿1200ml",
+    "邦迪蓝600ml",
+    "邦迪蓝1200ml",
+    "洛米棕600ml",
+    "洛米棕1200ml",
+    "黄折叠碗350ml",
+    "黄折叠碗650ml",
+    "黄折叠碗1000ml",
+    "蓝折叠碗350ml",
+    "蓝折叠碗650ml",
+    "蓝折叠碗1000ml",
+    "绿折叠碗350ml",
+    "绿折叠碗650ml",
+    "绿折叠碗1000ml"
+   ]
+  }
+ ],
+ "规格价格": [
+  {
+   "规格": "黄蓝1200ml",
+   "价格": "23.50",
+   "库存": 495
+  },
+  {
+   "规格": "粉绿600ml",
+   "价格": "18.50",
+   "库存": 465
+  },
+  {
+   "规格": "大耳狗600ml",
+   "价格": "21.80",
+   "库存": 261
+  },
+  {
+   "规格": "绿折叠碗350ml",
+   "价格": "2.80",
+   "库存": 175
+  },
+  {
+   "规格": "蓝折叠碗1000ml",
+   "价格": "6.50",
+   "库存": 30
+  },
+  {
+   "规格": "黄折叠碗350ml",
+   "价格": "2.80",
+   "库存": 69
+  },
+  {
+   "规格": "粉黑1200ml",
+   "价格": "23.50",
+   "库存": 398
+  },
+  {
+   "规格": "紫白1200ml",
+   "价格": "25.00",
+   "库存": 143
+  },
+  {
+   "规格": "绿折叠碗1000ml",
+   "价格": "6.50",
+   "库存": 4
+  },
+  {
+   "规格": "洛米棕600ml",
+   "价格": "16.50",
+   "库存": 112
+  },
+  {
+   "规格": "粉白600ml",
+   "价格": "18.50",
+   "库存": 899
+  },
+  {
+   "规格": "绿折叠碗650ml",
+   "价格": "5.00",
+   "库存": 19
+  },
+  {
+   "规格": "粉黑600ml",
+   "价格": "18.50",
+   "库存": 704
+  },
+  {
+   "规格": "黄折叠碗1000ml",
+   "价格": "6.50",
+   "库存": 48
+  },
+  {
+   "规格": "蓝折叠碗350ml",
+   "价格": "2.80",
+   "库存": 87
+  },
+  {
+   "规格": "黄蓝600ml",
+   "价格": "18.50",
+   "库存": 1213
+  },
+  {
+   "规格": "粉绿1200ml",
+   "价格": "23.50",
+   "库存": 240
+  },
+  {
+   "规格": "Kitty款1200ml",
+   "价格": "26.80",
+   "库存": 347
+  },
+  {
+   "规格": "大耳狗1200ml",
+   "价格": "26.80",
+   "库存": 134
+  },
+  {
+   "规格": "洛米棕1200ml",
+   "价格": "17.50",
+   "库存": 32
+  },
+  {
+   "规格": "紫黄600ml",
+   "价格": "20.00",
+   "库存": 93
+  },
+  {
+   "规格": "蒂安绿600ml",
+   "价格": "16.50",
+   "库存": 214
+  },
+  {
+   "规格": "邦迪蓝1200ml",
+   "价格": "17.50",
+   "库存": 50
+  },
+  {
+   "规格": "棕蓝600ml",
+   "价格": "20.00",
+   "库存": 253
+  },
+  {
+   "规格": "棕蓝1200ml",
+   "价格": "25.00",
+   "库存": 198
+  },
+  {
+   "规格": "Kitty款600ml",
+   "价格": "21.80",
+   "库存": 344
+  },
+  {
+   "规格": "邦迪蓝600ml",
+   "价格": "16.50",
+   "库存": 239
+  },
+  {
+   "规格": "紫白600ml",
+   "价格": "20.00",
+   "库存": 276
+  },
+  {
+   "规格": "粉白1200ml",
+   "价格": "23.50",
+   "库存": 242
+  },
+  {
+   "规格": "蒂安绿1200ml",
+   "价格": "17.50",
+   "库存": 72
+  },
+  {
+   "规格": "黄折叠碗650ml",
+   "价格": "5.00",
+   "库存": 48
+  },
+  {
+   "规格": "蓝折叠碗650ml",
+   "价格": "5.00",
+   "库存": 47
+  },
+  {
+   "规格": "紫黄1200ml",
+   "价格": "25.00",
+   "库存": 102
+  }
+ ],
+ "规格图": [
+  [
+   "黄蓝600ml",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01Fqmgtg1t3WXKlNdZK_!!2218774575846-0-cib.jpg"
+  ],
+  [
+   "黄蓝1200ml",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01d1fUp11t3WXKd3Wvc_!!2218774575846-0-cib.jpg"
+  ],
+  [
+   "粉白600ml",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01rI5z2g1t3WXKcpn1Q_!!2218774575846-0-cib.jpg"
+  ],
+  [
+   "粉白1200ml",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01W3aBRy1t3WXFU29mH_!!2218774575846-0-cib.jpg"
+  ],
+  [
+   "粉黑600ml",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01j65D0w1t3WXK3M6Tz_!!2218774575846-0-cib.jpg"
+  ],
+  [
+   "粉黑1200ml",
+   "https://cbu01.alicdn.com/img/ibank/O1CN014QDg7b1t3WXKB7Qb3_!!2218774575846-0-cib.jpg"
+  ],
+  [
+   "粉绿600ml",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01d9X1D11t3WXKlKcRF_!!2218774575846-0-cib.jpg"
+  ],
+  [
+   "粉绿1200ml",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01XeX8b31t3WXJyaM7J_!!2218774575846-0-cib.jpg"
+  ],
+  [
+   "紫白600ml",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01pbH38k1t3WYelAOYk_!!2218774575846-0-cib.jpg"
+  ],
+  [
+   "紫白1200ml",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01xUWUOR1t3WYgeT5dx_!!2218774575846-0-cib.jpg"
+  ],
+  [
+   "紫黄600ml",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01e2OimX1t3WYewEBNs_!!2218774575846-0-cib.jpg"
+  ],
+  [
+   "紫黄1200ml",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01aGyxPp1t3WYeyAYuO_!!2218774575846-0-cib.jpg"
+  ],
+  [
+   "棕蓝600ml",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01NNxDxj1t3WYexpxcg_!!2218774575846-0-cib.jpg"
+  ],
+  [
+   "棕蓝1200ml",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01DBAHpY1t3WYewpd13_!!2218774575846-0-cib.jpg"
+  ],
+  [
+   "Kitty款600ml",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01PwEqw11t3WY5gVIVX_!!2218774575846-0-cib.jpg"
+  ],
+  [
+   "Kitty款1200ml",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01gsrwAy1t3WYAHJCk7_!!2218774575846-0-cib.jpg"
+  ],
+  [
+   "大耳狗600ml",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01vHqMzD1t3WYBtgFA9_!!2218774575846-0-cib.jpg"
+  ],
+  [
+   "大耳狗1200ml",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01v0FoB81t3WYBn7KST_!!2218774575846-0-cib.jpg"
+  ],
+  [
+   "蒂安绿600ml",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01gK2Nwc1t3WXLkexoN_!!2218774575846-0-cib.jpg"
+  ],
+  [
+   "蒂安绿1200ml",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01ku2dT41t3WXLwwu9S_!!2218774575846-0-cib.jpg"
+  ],
+  [
+   "邦迪蓝600ml",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01ip4C9u1t3WXLkfEUM_!!2218774575846-0-cib.jpg"
+  ],
+  [
+   "邦迪蓝1200ml",
+   "https://cbu01.alicdn.com/img/ibank/O1CN016hw5Hz1t3WXMO4VOo_!!2218774575846-0-cib.jpg"
+  ],
+  [
+   "洛米棕600ml",
+   "https://cbu01.alicdn.com/img/ibank/O1CN0149YWby1t3WXMXC8dB_!!2218774575846-0-cib.jpg"
+  ],
+  [
+   "洛米棕1200ml",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01N4AYnR1t3WXM6BtKx_!!2218774575846-0-cib.jpg"
+  ],
+  [
+   "黄折叠碗350ml",
+   "https://cbu01.alicdn.com/img/ibank/O1CN0106efeK1t3WXOXnL4g_!!2218774575846-0-cib.jpg"
+  ],
+  [
+   "黄折叠碗650ml",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01tJRuQs1t3WXOpbfxn_!!2218774575846-0-cib.jpg"
+  ],
+  [
+   "黄折叠碗1000ml",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01gx2D631t3WXPH4jWN_!!2218774575846-0-cib.jpg"
+  ],
+  [
+   "蓝折叠碗350ml",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01o1f95I1t3WXP1CM57_!!2218774575846-0-cib.jpg"
+  ],
+  [
+   "蓝折叠碗650ml",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01XaiM211t3WXPPS8FG_!!2218774575846-0-cib.jpg"
+  ],
+  [
+   "蓝折叠碗1000ml",
+   "https://cbu01.alicdn.com/img/ibank/O1CN012H0Qwd1t3WXOx6Hyc_!!2218774575846-0-cib.jpg"
+  ],
+  [
+   "绿折叠碗350ml",
+   "https://cbu01.alicdn.com/img/ibank/O1CN014SA88P1t3WXKBJhq5_!!2218774575846-0-cib.jpg"
+  ],
+  [
+   "绿折叠碗650ml",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01N1cqi71t3WXPPT4V1_!!2218774575846-0-cib.jpg"
+  ],
+  [
+   "绿折叠碗1000ml",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01JJCA7j1t3WXOdekGH_!!2218774575846-0-cib.jpg"
+  ]
+ ],
+ "价格展示": "skuPrice",
+ "价格区间": null,
+ "阶梯价_登录后": [
+  {
+   "price": "2.80",
+   "beginAmount": 1
+  },
+  {
+   "price": "26.80",
+   "beginAmount": 1
+  }
+ ],
+ "到手价": null,
+ "起订量": 1,
+ "单位": "个",
+ "可售总量": 8053,
+ "已售": 30710,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01sJNqxD1t3WXKQdhjb_!!2218774575846-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01EvbU4N1t3WXJs7DSw_!!2218774575846-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01iAZIvX1t3WXKcrqlj_!!2218774575846-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01KbR0jw1t3WXKISM68_!!2218774575846-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01IdGK1p1t3WXJs6HHf_!!2218774575846-0-cib.jpg"
+ ],
+ "商品属性": [
+  "材质:PP",
+  "品牌:盛宠",
+  "成套自动喂食:否",
+  "产地:江苏",
+  "是否进口:否",
+  "货号:2606LBDJ5092-SC",
+  "箱装数量:1",
+  "是否专利货源:否",
+  "规格:黄蓝600ml/黄蓝1200ml/粉白600ml/粉白1200ml/粉黑600ml/粉黑1200ml/粉绿600ml/粉绿1200ml/紫白600ml/紫白1200ml/紫黄600ml/紫黄1200ml/棕蓝600ml/棕蓝1200ml/Kitty款600ml/Kitty款1200ml/大耳狗600ml/大耳狗1200ml/蒂安绿600ml/蒂安绿1200ml/邦迪蓝600ml/邦迪蓝1200ml/洛米棕600ml/洛米棕1200ml/黄折叠碗350ml/黄折叠碗650ml/黄折叠碗1000ml/蓝折叠碗350ml/蓝折叠碗650ml/蓝折叠碗1000ml/绿折叠碗350ml/绿折叠碗650ml/绿折叠碗1000ml",
+  "主要下游平台:ebay/亚马逊/wish/速卖通/独立站/LAZADA",
+  "主要销售地区:欧洲/南美/东南亚/北美",
+  "有可授权的自有品牌:是",
+  "是否跨境出口专供货源:是",
+  "是否属于礼品:否",
+  "是否IP授权:否",
+  "是否智能:否",
+  "容量:/",
+  "重量:/",
+  "碗型设计:/",
+  "供电方式:/",
+  "电压规格:/",
+  "过滤功能:/",
+  "图案主题:/",
+  "安装说明:/"
+ ],
+ "包装信息": [
+  {
+   "volume": 0,
+   "sku1": "黄蓝600ml",
+   "length": 0,
+   "width": 0,
+   "weight": 800,
+   "skuId": 6237533007300,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "黄蓝1200ml",
+   "length": 0,
+   "width": 0,
+   "weight": 1200,
+   "skuId": 6237533007304,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "粉白600ml",
+   "length": 0,
+   "width": 0,
+   "weight": 800,
+   "skuId": 6237533007302,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "粉白1200ml",
+   "length": 0,
+   "width": 0,
+   "weight": 1200,
+   "skuId": 6237533007305,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "粉黑600ml",
+   "length": 0,
+   "width": 0,
+   "weight": 800,
+   "skuId": 6237533007307,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "粉黑1200ml",
+   "length": 0,
+   "width": 0,
+   "weight": 1200,
+   "skuId": 6237533007306,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "粉绿600ml",
+   "length": 0,
+   "width": 0,
+   "weight": 800,
+   "skuId": 6237533007303,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "粉绿1200ml",
+   "length": 0,
+   "width": 0,
+   "weight": 1200,
+   "skuId": 6237533007301,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "紫白600ml",
+   "length": 0,
+   "width": 0,
+   "weight": 800,
+   "skuId": 6121595224212,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "紫白1200ml",
+   "length": 0,
+   "width": 0,
+   "weight": 1200,
+   "skuId": 6121595224213,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "紫黄600ml",
+   "length": 0,
+   "width": 0,
+   "weight": 800,
+   "skuId": 6121595224216,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "紫黄1200ml",
+   "length": 0,
+   "width": 0,
+   "weight": 1200,
+   "skuId": 6121595224211,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "棕蓝600ml",
+   "length": 0,
+   "width": 0,
+   "weight": 800,
+   "skuId": 6121595224214,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "棕蓝1200ml",
+   "length": 0,
+   "width": 0,
+   "weight": 1200,
+   "skuId": 6121595224215,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "Kitty款600ml",
+   "length": 0,
+   "width": 0,
+   "weight": 800,
+   "skuId": 6107897420028,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "Kitty款1200ml",
+   "length": 0,
+   "width": 0,
+   "weight": 1200,
+   "skuId": 6107897420029,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "大耳狗600ml",
+   "length": 0,
+   "width": 0,
+   "weight": 800,
+   "skuId": 6108698033362,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "大耳狗1200ml",
+   "length": 0,
+   "width": 0,
+   "weight": 1200,
+   "skuId": 6108698033361,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "蒂安绿600ml",
+   "length": 0,
+   "width": 0,
+   "weight": 800,
+   "skuId": 6070686068079,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "蒂安绿1200ml",
+   "length": 0,
+   "width": 0,
+   "weight": 1200,
+   "skuId": 6070686068080,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "邦迪蓝600ml",
+   "length": 0,
+   "width": 0,
+   "weight": 800,
+   "skuId": 6070686068083,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "邦迪蓝1200ml",
+   "length": 0,
+   "width": 0,
+   "weight": 1200,
+   "skuId": 6070686068084,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "洛米棕600ml",
+   "length": 0,
+   "width": 0,
+   "weight": 800,
+   "skuId": 6237533007308,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "洛米棕1200ml",
+   "length": 0,
+   "width": 0,
+   "weight": 1200,
+   "skuId": 6237533007309,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "黄折叠碗350ml",
+   "length": 0,
+   "width": 0,
+   "weight": 200,
+   "skuId": 6075117809028,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "黄折叠碗650ml",
+   "length": 0,
+   "width": 0,
+   "weight": 200,
+   "skuId": 6075117809024,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "黄折叠碗1000ml",
+   "length": 0,
+   "width": 0,
+   "weight": 200,
+   "skuId": 6075117809021,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "蓝折叠碗350ml",
+   "length": 0,
+   "width": 0,
+   "weight": 200,
+   "skuId": 6075117809025,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "蓝折叠碗650ml",
+   "length": 0,
+   "width": 0,
+   "weight": 200,
+   "skuId": 6075117809026,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "蓝折叠碗1000ml",
+   "length": 0,
+   "width": 0,
+   "weight": 200,
+   "skuId": 6075117809027,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "绿折叠碗350ml",
+   "length": 0,
+   "width": 0,
+   "weight": 200,
+   "skuId": 6075117809022,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "绿折叠碗650ml",
+   "length": 0,
+   "width": 0,
+   "weight": 200,
+   "skuId": 6075117809023,
+   "height": 0
+  },
+  {
+   "volume": 0,
+   "sku1": "绿折叠碗1000ml",
+   "length": 0,
+   "width": 0,
+   "weight": 200,
+   "skuId": 6075117809020,
+   "height": 0
+  }
+ ],
+ "url": "https://detail.1688.com/offer/1045023567232.html",
+ "核页时间": "2026-10-08T12:20:20.957Z"
+}

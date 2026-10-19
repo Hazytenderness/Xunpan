@@ -1,0 +1,143 @@
+{
+ "offerId": "721192776082",
+ "条目": "H0048",
+ "block": false,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01ewFEWZ1VZzXrmPaK1_!!2207614912668-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01FwkM1C1VZzY3H1QI6_!!2207614912668-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN018AGinb1VZzY5Z5C6O_!!2207614912668-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01IHvHIb1VZzXyQOCy9_!!2207614912668-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01jB9XBa1Bs2qOoSPPl_!!0-0-cib.jpg"
+ ],
+ "价格区间": null,
+ "价格展示": "skuPrice",
+ "到手价": null,
+ "包装信息": [
+  {
+   "height": 5,
+   "length": 20,
+   "sku1": "小号帽+南瓜围兜",
+   "skuId": 5195178555132,
+   "volume": 1000,
+   "weight": 35,
+   "width": 10
+  },
+  {
+   "height": 5,
+   "length": 20,
+   "sku1": "小号帽+幽灵围兜",
+   "skuId": 5195178555133,
+   "volume": 1000,
+   "weight": 35,
+   "width": 10
+  },
+  {
+   "height": 5,
+   "length": 20,
+   "sku1": "大号帽+南瓜围兜",
+   "skuId": 5195178555134,
+   "volume": 1000,
+   "weight": 35,
+   "width": 10
+  },
+  {
+   "height": 5,
+   "length": 20,
+   "sku1": "大号帽+幽灵围兜",
+   "skuId": 5195178555135,
+   "volume": 1000,
+   "weight": 35,
+   "width": 10
+  }
+ ],
+ "单位": "个",
+ "卖家公司": "义乌大圆子电子商务有限公司",
+ "可售总量": 7160,
+ "商品属性": [
+  "材质:毛线",
+  "品牌:大圆子",
+  "适用对象:通用",
+  "风格:卡通",
+  "是否专利货源:否",
+  "颜色:小号帽+南瓜围兜/小号帽+幽灵围兜/大号帽+南瓜围兜/大号帽+幽灵围兜",
+  "是否跨境出口专供货源:是",
+  "主要销售地区:欧洲/南美/东南亚/北美/东北亚",
+  "是否进口:否",
+  "主要下游平台:ebay/亚马逊/wish/速卖通/独立站/LAZADA/其他",
+  "适用节日:万圣节",
+  "有可授权的自有品牌:否",
+  "产地:浙江",
+  "是否属于礼品:否",
+  "是否IP授权:否"
+ ],
+ "已售": 74,
+ "已登录": true,
+ "旺旺名": "大圆子宠物用品有限公司",
+ "标题": "宠物猫咪狗狗万圣节南瓜帽幽灵围兜套装卡通毛绒头套摄影道具装扮",
+ "状态": "PUBLISHED",
+ "类目": "宠物头饰",
+ "规格价格": [
+  {
+   "价格": "9.90",
+   "库存": 1826,
+   "规格": "小号帽+幽灵围兜"
+  },
+  {
+   "价格": "10.50",
+   "库存": 1811,
+   "规格": "大号帽+幽灵围兜"
+  },
+  {
+   "价格": "9.90",
+   "库存": 1768,
+   "规格": "小号帽+南瓜围兜"
+  },
+  {
+   "价格": "10.50",
+   "库存": 1755,
+   "规格": "大号帽+南瓜围兜"
+  }
+ ],
+ "规格图": [
+  [
+   "小号帽+南瓜围兜",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01V8xPKo1VZzXyQnNuB_!!2207614912668-0-cib.jpg"
+  ],
+  [
+   "小号帽+幽灵围兜",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01Rq0X2V1VZzXrmxgld_!!2207614912668-0-cib.jpg"
+  ],
+  [
+   "大号帽+南瓜围兜",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01amweCM1VZzY62ehvR_!!2207614912668-0-cib.jpg"
+  ],
+  [
+   "大号帽+幽灵围兜",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01cBepyP1VZzY3zHsSo_!!2207614912668-0-cib.jpg"
+  ]
+ ],
+ "规格属性": [
+  {
+   "值": [
+    "小号帽+南瓜围兜",
+    "小号帽+幽灵围兜",
+    "大号帽+南瓜围兜",
+    "大号帽+幽灵围兜"
+   ],
+   "属性": "颜色"
+  }
+ ],
+ "起订量": 3,
+ "阶梯价_登录后": [
+  {
+   "beginAmount": 3,
+   "price": "9.90"
+  },
+  {
+   "beginAmount": 3,
+   "price": "10.50"
+  }
+ ],
+ "url": "https://detail.1688.com/offer/721192776082.html",
+ "核页时间": "2026-10-17T23:09:09.664Z"
+}

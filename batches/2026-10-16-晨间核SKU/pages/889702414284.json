@@ -1,0 +1,111 @@
+{
+ "offerId": "889702414284",
+ "条目": "H0091",
+ "block": false,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN010QCtW81QtAAbxKSx5_!!2884432033-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN018MMkFh1QtAAYc1lNM_!!2884432033-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01tzftqm1QtAAeJONOA_!!2884432033-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN013yzyc31QtAAeJNhoH_!!2884432033-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01UPonAV1QtAAfYgZTe_!!2884432033-0-cib.jpg"
+ ],
+ "价格区间": "7.00-11.00",
+ "价格展示": "skuPrice",
+ "到手价": null,
+ "包装信息": [
+  {
+   "height": 31,
+   "length": 35,
+   "sku1": "白色",
+   "skuId": 5734611476859,
+   "volume": 17902.5,
+   "weight": 650,
+   "width": 16.5
+  },
+  {
+   "height": 31,
+   "length": 35,
+   "sku1": "灰色",
+   "skuId": 5734611476860,
+   "volume": 17902.5,
+   "weight": 650,
+   "width": 16.5
+  }
+ ],
+ "单位": "个",
+ "卖家公司": "台州市黄岩文彪塑料厂",
+ "可售总量": 3364,
+ "商品属性": [
+  "材质:塑料",
+  "品牌:文彪",
+  "功能:纸篓",
+  "容量:12L以上",
+  "开合方式:按压式",
+  "形状:椭圆形",
+  "是否进口:否",
+  "重量:700g",
+  "产地:台州",
+  "箱装数量:24",
+  "贸易属性:内贸+外贸",
+  "价格段:20-30元",
+  "产品上市时间:2024",
+  "专利:否",
+  "塑料新料占比:100%新料",
+  "货号:椭圆垃圾桶",
+  "颜色:白色/灰色",
+  "是否跨境出口专供货源:否",
+  "使用场景:家用",
+  "验厂标准:无",
+  "毛重:700"
+ ],
+ "已售": 442,
+ "已登录": true,
+ "旺旺名": "言之有信以诚相待",
+ "标题": "带盖椭圆夹缝垃圾桶家用卫生间卧室厨房宿舍垃圾篓大号办公室纸篓",
+ "状态": "PUBLISHED",
+ "类目": "垃圾桶",
+ "规格价格": [
+  {
+   "价格": "11.00",
+   "库存": 389,
+   "规格": "白色"
+  },
+  {
+   "价格": "7.00",
+   "库存": 2975,
+   "规格": "灰色"
+  }
+ ],
+ "规格图": [
+  [
+   "白色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01UPonAV1QtAAfYgZTe_!!2884432033-0-cib.jpg"
+  ],
+  [
+   "灰色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01bk1oo21QtAAdFdu0H_!!2884432033-0-cib.jpg"
+  ]
+ ],
+ "规格属性": [
+  {
+   "值": [
+    "白色",
+    "灰色"
+   ],
+   "属性": "颜色"
+  }
+ ],
+ "起订量": 1,
+ "阶梯价_登录后": [
+  {
+   "beginAmount": 1,
+   "price": "7.00"
+  },
+  {
+   "beginAmount": 1,
+   "price": "11.00"
+  }
+ ],
+ "url": "https://detail.1688.com/offer/889702414284.html",
+ "核页时间": "2026-10-15T23:35:05.614Z"
+}

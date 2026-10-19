@@ -1,0 +1,115 @@
+{
+ "offerId": "926835124050",
+ "条目": "H0032",
+ "block": false,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01hmybYi240HQX0yYte_!!2211703167328-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01OiJ0yW240HQXnYdLN_!!2211703167328-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01BCDWDg240HQXgQwrI_!!2211703167328-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01FrJm0K240HQXKS6wr_!!2211703167328-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01qVSYmb240HQYsAcPm_!!2211703167328-0-cib.jpg"
+ ],
+ "价格区间": null,
+ "价格展示": "rangePrice",
+ "到手价": null,
+ "包装信息": [
+  {
+   "height": 0,
+   "length": 0,
+   "volume": 0,
+   "weight": 130,
+   "width": 0
+  }
+ ],
+ "单位": "束",
+ "卖家公司": "佛山市芬满湖工艺品有限公司",
+ "可售总量": 1998,
+ "商品属性": [
+  "材质:绢花",
+  "品种:尤加利叶",
+  "品牌:芬满湖",
+  "工艺:彩绘/压纹/丝网印/3D打印/射骨",
+  "用途:婚庆/户外/摄影道具/家居装扮",
+  "货号:FM1990&1993&1994",
+  "是否专利货源:否",
+  "颜色:7叉地瓜叶（白霜色）/7叉地瓜叶（绿色）/7叉吊兰叶/7叉金钱叶",
+  "风格:自然风",
+  "产品形态:花束",
+  "组合形式:支",
+  "高度:30cm-100cm(含)"
+ ],
+ "已售": 2,
+ "已登录": true,
+ "旺旺名": "芬满湖人造花厂",
+ "标题": "仿真绿萝壁挂植物室内装饰绿藤人造塑料壁挂花吊篮藤条壁挂假绿植",
+ "状态": "PUBLISHED",
+ "类目": "仿真绿植",
+ "规格价格": [
+  {
+   "价格": null,
+   "库存": 0,
+   "规格": "7叉地瓜叶（白霜色）"
+  },
+  {
+   "价格": null,
+   "库存": 0,
+   "规格": "7叉吊兰叶"
+  },
+  {
+   "价格": null,
+   "库存": 998,
+   "规格": "7叉金钱叶"
+  },
+  {
+   "价格": null,
+   "库存": 1000,
+   "规格": "7叉地瓜叶（绿色）"
+  }
+ ],
+ "规格图": [
+  [
+   "7叉地瓜叶（绿色）",
+   "https://cbu01.alicdn.com/img/ibank/O1CN011LWnPn240HQXnbSCN_!!2211703167328-0-cib.jpg"
+  ],
+  [
+   "7叉金钱叶",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01aQzQ9w240HQXtBpnT_!!2211703167328-0-cib.jpg"
+  ],
+  [
+   "7叉地瓜叶（白霜色）",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01k3XMXj240HQX112sk_!!2211703167328-0-cib.jpg"
+  ],
+  [
+   "7叉吊兰叶",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01oZH8gW240HQYsE6qS_!!2211703167328-0-cib.jpg"
+  ]
+ ],
+ "规格属性": [
+  {
+   "值": [
+    "7叉地瓜叶（绿色）",
+    "7叉金钱叶",
+    "7叉地瓜叶（白霜色）",
+    "7叉吊兰叶"
+   ],
+   "属性": "颜色"
+  }
+ ],
+ "起订量": 1,
+ "阶梯价_登录后": [
+  {
+   "beginAmount": 1,
+   "price": "7.90"
+  },
+  {
+   "beginAmount": 200,
+   "price": "7.40"
+  },
+  {
+   "beginAmount": 400,
+   "price": "6.90"
+  }
+ ],
+ "url": "https://detail.1688.com/offer/926835124050.html",
+ "核页时间": "2026-10-17T23:05:43.639Z"
+}

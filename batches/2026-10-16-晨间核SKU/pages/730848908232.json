@@ -1,0 +1,454 @@
+{
+ "offerId": "730848908232",
+ "条目": "H0325",
+ "block": false,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01VZthdO2CEwqXsYva4_!!2918088443-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN0185ytWe2CEwqa8kteX_!!2918088443-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN018ZhtKN2CEx5sC5bC9_!!2918088443-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01jd2CGS2CEx5rBRJEy_!!2918088443-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01jhpz9R2CEx697aRIc_!!2918088443-0-cib.jpg"
+ ],
+ "价格区间": "7.90-15.70",
+ "价格展示": "skuPrice",
+ "到手价": {
+  "件数": 1,
+  "价": "4.9",
+  "说明": "新人价"
+ },
+ "包装信息": [
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "大号",
+   "skuId": 5234411406969,
+   "volume": 0,
+   "weight": 100,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "小号",
+   "skuId": 5234411406970,
+   "volume": 0,
+   "weight": 100,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "原木色短柄粉皮中号",
+   "skuId": 6086514251325,
+   "volume": 0,
+   "weight": 80,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "原木色短柄粉皮大号",
+   "skuId": 6086514251326,
+   "volume": 0,
+   "weight": 80,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "原木色短柄白皮中号",
+   "skuId": 6086514251327,
+   "volume": 0,
+   "weight": 80,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "原木色短柄白皮大号",
+   "skuId": 6086514251328,
+   "volume": 0,
+   "weight": 80,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "紫色波浪柄粉皮中号",
+   "skuId": 6086514251329,
+   "volume": 0,
+   "weight": 80,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "紫色波浪柄白皮大号",
+   "skuId": 6086514251332,
+   "volume": 0,
+   "weight": 80,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "黑色波浪柄粉皮中号",
+   "skuId": 6086514251333,
+   "volume": 0,
+   "weight": 80,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "黑色波浪柄粉皮大号",
+   "skuId": 6086514251334,
+   "volume": 0,
+   "weight": 80,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "黑色波浪柄白皮中号",
+   "skuId": 6086514251335,
+   "volume": 0,
+   "weight": 80,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "黑色波浪柄白皮大号",
+   "skuId": 6086514251336,
+   "volume": 0,
+   "weight": 80,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "原木色波浪柄粉皮中号",
+   "skuId": 6086514251337,
+   "volume": 0,
+   "weight": 80,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "原木色波浪柄粉皮大号",
+   "skuId": 6086514251338,
+   "volume": 0,
+   "weight": 80,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "原木色波浪柄白皮中号",
+   "skuId": 6086514251339,
+   "volume": 0,
+   "weight": 80,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "原木色弯柄粉皮中号",
+   "skuId": 6086514251341,
+   "volume": 0,
+   "weight": 80,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "原木色弯柄粉皮大号",
+   "skuId": 6086514251342,
+   "volume": 0,
+   "weight": 80,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "原木色弯柄白皮中号",
+   "skuId": 6086514251343,
+   "volume": 0,
+   "weight": 80,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "原木色弯柄白皮大号",
+   "skuId": 6086514251344,
+   "volume": 0,
+   "weight": 80,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "双色竹细针宠物刷",
+   "skuId": 6086514251345,
+   "volume": 0,
+   "weight": 80,
+   "width": 0
+  }
+ ],
+ "单位": "个",
+ "卖家公司": "宁波木鹿家居用品有限公司",
+ "可售总量": 2381,
+ "商品属性": [
+  "材质:不锈钢",
+  "品牌:木鹿家居",
+  "产品分类:梳子刷子",
+  "是否进口:否",
+  "箱装数量:80",
+  "是否专利货源:否",
+  "规格:大号/小号/原木色短柄粉皮中号/原木色短柄粉皮大号/原木色短柄白皮中号/原木色短柄白皮大号/紫色波浪柄粉皮中号/紫色波浪柄白皮大号/黑色波浪柄粉皮中号/黑色波浪柄粉皮大号/黑色波浪柄白皮中号/黑色波浪柄白皮大号/原木色波浪柄粉皮中号/原木色波浪柄粉皮大号/原木色波浪柄白皮中号/原木色弯柄粉皮中号/原木色弯柄粉皮大号/原木色弯柄白皮中号/原木色弯柄白皮大号/双色竹细针宠物刷",
+  "主要下游平台:ebay/亚马逊/wish/速卖通/独立站/LAZADA",
+  "主要销售地区:欧洲/南美/东南亚/北美/东北亚/中东",
+  "有可授权的自有品牌:否",
+  "是否跨境出口专供货源:是",
+  "是否属于礼品:否",
+  "形状:双面、波浪柄、弯柄、短柄",
+  "功能:功能清洁,开结，去浮毛，顺毛",
+  "核心功能:去浮毛",
+  "使用方式:手动",
+  "是否IP授权:否",
+  "颜色:原木色"
+ ],
+ "已售": 499,
+ "已登录": true,
+ "旺旺名": "boomdeer",
+ "标题": "楠竹猪鬃毛双面刷狗狗护理清洁按摩狗毛刷源头工厂现货零售",
+ "状态": "PUBLISHED",
+ "类目": "狗狗清洁美容工具",
+ "规格价格": [
+  {
+   "价格": "13.40",
+   "库存": 30,
+   "规格": "原木色弯柄粉皮大号"
+  },
+  {
+   "价格": "13.60",
+   "库存": 27,
+   "规格": "黑色波浪柄粉皮大号"
+  },
+  {
+   "价格": "11.50",
+   "库存": 67,
+   "规格": "原木色短柄白皮中号"
+  },
+  {
+   "价格": "10.10",
+   "库存": 716,
+   "规格": "小号"
+  },
+  {
+   "价格": "12.90",
+   "库存": 20,
+   "规格": "紫色波浪柄粉皮中号"
+  },
+  {
+   "价格": "12.90",
+   "库存": 5,
+   "规格": "黑色波浪柄白皮中号"
+  },
+  {
+   "价格": "7.90",
+   "库存": 485,
+   "规格": "双色竹细针宠物刷"
+  },
+  {
+   "价格": "12.40",
+   "库存": 48,
+   "规格": "原木色弯柄白皮中号"
+  },
+  {
+   "价格": "13.40",
+   "库存": 49,
+   "规格": "原木色弯柄白皮大号"
+  },
+  {
+   "价格": "13.60",
+   "库存": 5,
+   "规格": "黑色波浪柄白皮大号"
+  },
+  {
+   "价格": "12.10",
+   "库存": 22,
+   "规格": "原木色短柄粉皮大号"
+  },
+  {
+   "价格": "12.90",
+   "库存": 10,
+   "规格": "原木色波浪柄粉皮中号"
+  },
+  {
+   "价格": "13.60",
+   "库存": 48,
+   "规格": "紫色波浪柄白皮大号"
+  },
+  {
+   "价格": "11.50",
+   "库存": 27,
+   "规格": "原木色短柄粉皮中号"
+  },
+  {
+   "价格": "12.90",
+   "库存": 11,
+   "规格": "原木色波浪柄白皮中号"
+  },
+  {
+   "价格": "12.90",
+   "库存": 50,
+   "规格": "黑色波浪柄粉皮中号"
+  },
+  {
+   "价格": "15.70",
+   "库存": 669,
+   "规格": "大号"
+  },
+  {
+   "价格": "12.10",
+   "库存": 46,
+   "规格": "原木色短柄白皮大号"
+  },
+  {
+   "价格": "12.40",
+   "库存": 29,
+   "规格": "原木色弯柄粉皮中号"
+  },
+  {
+   "价格": "13.60",
+   "库存": 17,
+   "规格": "原木色波浪柄粉皮大号"
+  }
+ ],
+ "规格图": [
+  [
+   "大号",
+   "https://cbu01.alicdn.com/img/ibank/O1CN018ERZV42CEwqbcyfjX_!!2918088443-0-cib.jpg"
+  ],
+  [
+   "小号",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01zrw1D12CEwqWhehLi_!!2918088443-0-cib.jpg"
+  ],
+  [
+   "原木色短柄粉皮中号",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01zfG9jG2CEx3eHgvMj_!!2918088443-0-cib.jpg"
+  ],
+  [
+   "原木色短柄粉皮大号",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01oGd1QJ2CEx3eEuPuY_!!2918088443-0-cib.jpg"
+  ],
+  [
+   "原木色短柄白皮中号",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01mE7Wn72CEx3c0ROan_!!2918088443-0-cib.jpg"
+  ],
+  [
+   "原木色短柄白皮大号",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01NgiY562CEx3eASisk_!!2918088443-0-cib.jpg"
+  ],
+  [
+   "紫色波浪柄粉皮中号",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01qLBkx62CEx3sqw9vq_!!2918088443-0-cib.jpg"
+  ],
+  [
+   "紫色波浪柄白皮大号",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01oXqvRq2CEx3s66oZV_!!2918088443-0-cib.jpg"
+  ],
+  [
+   "黑色波浪柄粉皮中号",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01Vn6yPk2CEx3rr5n7E_!!2918088443-0-cib.jpg"
+  ],
+  [
+   "黑色波浪柄粉皮大号",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01ROdA0Z2CEx3sqvgoW_!!2918088443-0-cib.jpg"
+  ],
+  [
+   "黑色波浪柄白皮中号",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01RvbEwp2CEx3r5u7q0_!!2918088443-0-cib.jpg"
+  ],
+  [
+   "黑色波浪柄白皮大号",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01eozr0W2CEx3mIjgtc_!!2918088443-0-cib.jpg"
+  ],
+  [
+   "原木色波浪柄粉皮中号",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01jVcnxk2CEx3skMTlM_!!2918088443-0-cib.jpg"
+  ],
+  [
+   "原木色波浪柄粉皮大号",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01d7WZA72CEx3sP0rNB_!!2918088443-0-cib.jpg"
+  ],
+  [
+   "原木色波浪柄白皮中号",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01Lp2qM82CEx3srOvs4_!!2918088443-0-cib.jpg"
+  ],
+  [
+   "原木色弯柄粉皮中号",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01iyb4l42CEx3u83O6O_!!2918088443-0-cib.jpg"
+  ],
+  [
+   "原木色弯柄粉皮大号",
+   "https://cbu01.alicdn.com/img/ibank/O1CN010yKLMv2CEx3vHbBcA_!!2918088443-0-cib.jpg"
+  ],
+  [
+   "原木色弯柄白皮中号",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01eiToF22CEx3vYtid7_!!2918088443-0-cib.jpg"
+  ],
+  [
+   "原木色弯柄白皮大号",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01nzKf4i2CEx3uZrfYA_!!2918088443-0-cib.jpg"
+  ],
+  [
+   "双色竹细针宠物刷",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01Al89sg2CEx2yCZWOn_!!2918088443-0-cib.jpg"
+  ]
+ ],
+ "规格属性": [
+  {
+   "值": [
+    "大号",
+    "小号",
+    "原木色短柄粉皮中号",
+    "原木色短柄粉皮大号",
+    "原木色短柄白皮中号",
+    "原木色短柄白皮大号",
+    "紫色波浪柄粉皮中号",
+    "紫色波浪柄白皮大号",
+    "黑色波浪柄粉皮中号",
+    "黑色波浪柄粉皮大号",
+    "黑色波浪柄白皮中号",
+    "黑色波浪柄白皮大号",
+    "原木色波浪柄粉皮中号",
+    "原木色波浪柄粉皮大号",
+    "原木色波浪柄白皮中号",
+    "原木色弯柄粉皮中号",
+    "原木色弯柄粉皮大号",
+    "原木色弯柄白皮中号",
+    "原木色弯柄白皮大号",
+    "双色竹细针宠物刷"
+   ],
+   "属性": "规格"
+  }
+ ],
+ "起订量": 1,
+ "阶梯价_登录后": [
+  {
+   "beginAmount": 1,
+   "price": "7.90"
+  },
+  {
+   "beginAmount": 1,
+   "price": "15.70"
+  }
+ ],
+ "url": "https://detail.1688.com/offer/730848908232.html",
+ "核页时间": "2026-10-16T00:32:52.992Z"
+}

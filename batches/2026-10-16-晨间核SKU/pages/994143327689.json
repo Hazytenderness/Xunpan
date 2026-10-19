@@ -1,0 +1,157 @@
+{
+ "offerId": "994143327689",
+ "条目": "H0164",
+ "block": false,
+ "主图": [
+  "https://cbu01.alicdn.com/img/ibank/O1CN01MhxoCb1hBySPoEoi3_!!2200731314240-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN010gMEg31hBySU9NPA4_!!2200731314240-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01rgNqAa1hBySUlSqZd_!!2200731314240-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01QT8Uol1hBySUGqSXU_!!2200731314240-0-cib.jpg",
+  "https://cbu01.alicdn.com/img/ibank/O1CN01fQvJec1hBySUSBX7z_!!2200731314240-0-cib.jpg"
+ ],
+ "价格区间": "4.25-4.40",
+ "价格展示": "rangePrice",
+ "到手价": {
+  "件数": 2,
+  "价": "3.96",
+  "说明": "限时价"
+ },
+ "包装信息": [
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "黄色",
+   "sku2": "约39*19cm",
+   "skuId": 6139329570252,
+   "volume": 0,
+   "weight": 167,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "灰色",
+   "sku2": "约39*19cm",
+   "skuId": 6139329570253,
+   "volume": 0,
+   "weight": 167,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "白色",
+   "sku2": "约39*19cm",
+   "skuId": 6139329570254,
+   "volume": 0,
+   "weight": 167,
+   "width": 0
+  },
+  {
+   "height": 0,
+   "length": 0,
+   "sku1": "蓝色",
+   "sku2": "约39*19cm",
+   "skuId": 6139329570255,
+   "volume": 0,
+   "weight": 167,
+   "width": 0
+  }
+ ],
+ "单位": "个",
+ "卖家公司": "义乌市家雅季贸易有限公司",
+ "可售总量": 39957213,
+ "商品属性": [
+  "材质:涤纶（聚酯纤维）",
+  "品牌:无",
+  "风格:现代简约风",
+  "是否进口:否",
+  "贸易属性:内贸",
+  "专利:否",
+  "货号:XNRXXD",
+  "颜色:黄色/灰色/白色/蓝色",
+  "规格:约39*19cm",
+  "是否跨境出口专供货源:否",
+  "商品类型:个人洗漱/清洁/护理"
+ ],
+ "已售": 45085,
+ "已登录": true,
+ "旺旺名": "家雅季贸易有限公司",
+ "标题": "跨境洗护袋洗衣机专用懒人洗鞋袋家用防变形鞋子机洗洗鞋袋洗护包",
+ "状态": "PUBLISHED",
+ "类目": "洗衣袋、护洗袋",
+ "规格价格": [
+  {
+   "价格": "3.96",
+   "库存": 9981626,
+   "规格": "黄色&gt;约39*19cm"
+  },
+  {
+   "价格": "3.96",
+   "库存": 9990395,
+   "规格": "蓝色&gt;约39*19cm"
+  },
+  {
+   "价格": "3.96",
+   "库存": 9999104,
+   "规格": "白色&gt;约39*19cm"
+  },
+  {
+   "价格": "3.96",
+   "库存": 9986088,
+   "规格": "灰色&gt;约39*19cm"
+  }
+ ],
+ "规格图": [
+  [
+   "黄色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01Absac71hBySU9OPXz_!!2200731314240-0-cib.jpg"
+  ],
+  [
+   "灰色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01tNTapX1hBySUGrw4e_!!2200731314240-0-cib.jpg"
+  ],
+  [
+   "白色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01gOCJvX1hBySUerUmO_!!2200731314240-0-cib.jpg"
+  ],
+  [
+   "蓝色",
+   "https://cbu01.alicdn.com/img/ibank/O1CN01tkDi3W1hBySUes20l_!!2200731314240-0-cib.jpg"
+  ]
+ ],
+ "规格属性": [
+  {
+   "值": [
+    "黄色",
+    "灰色",
+    "白色",
+    "蓝色"
+   ],
+   "属性": "颜色"
+  },
+  {
+   "值": [
+    "约39*19cm"
+   ],
+   "属性": "规格"
+  }
+ ],
+ "起订量": 2,
+ "阶梯价_登录后": [
+  {
+   "beginAmount": 2,
+   "price": "3.96"
+  },
+  {
+   "beginAmount": 100,
+   "price": "4.30"
+  },
+  {
+   "beginAmount": 500,
+   "price": "4.25"
+  }
+ ],
+ "url": "https://detail.1688.com/offer/994143327689.html",
+ "核页时间": "2026-10-15T23:10:15.505Z"
+}
