@@ -4,18 +4,21 @@
 import json, sys
 from pathlib import Path
 sys.path.insert(0, str(Path(__file__).parent / 'lib'))
-from base import find
+from base import find,CACHE
+from port import file_lock
+from resilience import atomic_text
 
 qid = sys.argv[1]
 add = json.loads(Path(sys.argv[3]).read_text(encoding='utf-8')) if sys.argv[2]=='--file' else json.loads(sys.argv[2])
 b, _ = find(qid)
 f = b / 'quotes.jsonl'
-rows = [json.loads(l) for l in f.read_text(encoding='utf-8').splitlines() if l.strip()] if f.exists() else []
-row = next((r for r in rows if r['id'] == qid), None)
-if not row:
-    row = {'id': qid, '状态': '已回'}
-    rows.append(row)
-for k, (v, said, t) in add.items():
-    row[k] = {'值': v, '原话': said, '时间': t}
-f.write_text('\n'.join(json.dumps(r, ensure_ascii=False) for r in rows) + '\n', encoding='utf-8')
+with file_lock(CACHE/'quotes_write.lock'):
+    rows = [json.loads(l) for l in f.read_text(encoding='utf-8').splitlines() if l.strip()] if f.exists() else []
+    row = next((r for r in rows if r['id'] == qid), None)
+    if not row:
+        row = {'id': qid, '状态': '已回'}
+        rows.append(row)
+    for k, (v, said, t) in add.items():
+        row[k] = {'值': v, '原话': said, '时间': t}
+    atomic_text(f,'\n'.join(json.dumps(r,ensure_ascii=False) for r in rows)+'\n')
 print(b.name, qid, list(add))

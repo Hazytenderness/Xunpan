@@ -12,6 +12,8 @@ import json, re, sys
 from pathlib import Path
 sys.path.insert(0, str(Path(__file__).resolve().parents[1] / 'lib'))
 from base import CACHE, batch_dirs, now_bj
+from workflow_backlog import snapshot
+from base import ROOT
 
 D = now_bj().strftime('%Y-%m-%d')
 F = CACHE / f'buziliao_day_{D}.json'
@@ -50,6 +52,12 @@ elif cmd == 'daily':
     lines = [f'补资料日报 {D[5:]}',
              f'发询盘 {r1} 家，跟进回复 {rp} 条；队列还剩 {left} 家',
              f"收到回复 {st['新回复']} 家，记到单价 {st['单价']} 家、包装尺寸 {st['尺寸']} 家，推到网站 {st['推网站']} 条"]
+    backlog=snapshot(ROOT,CACHE,now_bj())
+    stages=backlog['统计']
+    lines.append('资料进度：'+ '，'.join(k+str(stages.get(k,0)) for k in ['确认同款','补包装','补贴标等资料','补图片视频报价','资料收集完成']))
+    lines.append('积压出口：待补主图'+str(stages.get('待补主图',0))+'，待核实'+str(stages.get('待核实',0))+'，超72小时'+str(backlog['超72小时']))
+    decisions=json.loads((CACHE/'workflow_decisions.json').read_text(encoding='utf-8'))['分类']
+    if decisions:lines.append('集中决策：'+'，'.join(k+str(len(v))+'项' for k,v in decisions.items()))
     asks = [a.replace('要你定：', '', 1) for a in st['要你定']]
     lines += [f'今天要你定的 {len(asks)} 件：'] + [f'{i}. {a}' for i, a in enumerate(asks, 1)] if asks else ['今天没有要你定的事']
     print('\n'.join(lines))

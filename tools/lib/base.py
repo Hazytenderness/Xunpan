@@ -7,7 +7,8 @@
 import os
 import copy
 import tempfile
-from port import file_lock, require, permissions,HIDDEN
+from port import file_lock, require, permissions,HIDDEN,captured,ensure_neo
+from resilience import RetryLater,UnsafeOperation,atomic_json,atomic_text,send_once,latest_send_times
 import json
 import subprocess
 import time
@@ -108,8 +109,14 @@ def find(key):
 
 
 def append_log(batch, row):
-    with open(Path(batch) / 'sent_log.jsonl', 'a', encoding='utf-8') as f:
-        f.write(json.dumps(row, ensure_ascii=False) + '\n')
+    target=Path(batch)/'sent_log.jsonl'
+    with file_lock(CACHE/'sent_log.lock'):
+        if target.exists() and row.get('结果')=='成功':
+            for line in target.read_text(encoding='utf-8').splitlines():
+                old=json.loads(line)
+                if old.get('结果')=='成功' and all(old.get(k)==row.get(k) for k in ('id','轮次','文本')):return
+        with target.open('a',encoding='utf-8',newline='\n') as f:
+            f.write(json.dumps(row,ensure_ascii=False)+'\n');f.flush();os.fsync(f.fileno())
 
 
 def sent_texts():
@@ -128,10 +135,19 @@ def wait_gap():
         left = GAP_SECONDS - (time.time() - float(LAST.read_text(encoding='utf-8') or 0))
         if left > 0:
             time.sleep(left)
+    next_send=CACHE/'next_send.txt'
+    if next_send.exists():
+        left=float(next_send.read_text(encoding='utf-8'))-time.time()
+        if left>0:time.sleep(left)
 
 
-def mark_sent():
-    LAST.write_text(str(time.time()), encoding='utf-8')
+def mark_sent(sent_at=None,not_before=None):
+    stamp=sent_at or time.time()
+    old=float(LAST.read_text(encoding='utf-8') or 0) if LAST.exists() else 0
+    atomic_text(LAST,str(max(old,stamp)))
+    target=CACHE/'next_send.txt'
+    old_next=float(target.read_text(encoding='utf-8') or 0) if target.exists() else 0
+    atomic_text(target,str(max(old_next,not_before or stamp+GAP_SECONDS)))
 
 
 def browser(script, job=None, timeout=300, sending=False):
@@ -153,22 +169,53 @@ def browser(script, job=None, timeout=300, sending=False):
         if script == 'chat_list.mjs':
             require('scan')
     with file_lock(LOCK):
+        if os.name=='nt':ensure_neo()
         if sending:
+            if os.name=='nt':
+                try:
+                    stamp,next_time=latest_send_times(CACHE)
+                    if stamp:mark_sent(stamp,next_time)
+                except UnsafeOperation as error:
+                    atomic_json(CACHE/'send_paused.json',{'原因':str(error),'时间':now_bj().isoformat()})
+                    return {'结果':'停止:'+str(error)}
             wait_gap()
             if not in_work_hours():
-                return {'结果':'停止:不在北京时间9:00–18:00'}
-        (CACHE / 'job.json').write_text(json.dumps(job or {}, ensure_ascii=False), encoding='utf-8')
-        out.unlink(missing_ok=True)
-        if os.name == 'nt':
-            command = ['node', str(BROWSER / 'neo_bridge.mjs'), script]
-        else:
-            code = f'const NAME = {json.dumps(Path(script).stem)};\n' + (BROWSER / '_prelude.txt').read_text(encoding='utf-8') + '\n' + (BROWSER / script).read_text(encoding='utf-8')
-            command = ['ego-browser', 'nodejs', '-e', code]
-        r = subprocess.run(command, capture_output=True, text=True, encoding='utf-8',
-                           errors='replace', timeout=timeout, stdin=subprocess.DEVNULL,creationflags=HIDDEN)
-        if sending:
-            mark_sent()
-        if out.exists():
-            return json.loads(out.read_text(encoding='utf-8'))
-        (CACHE / 'last_error.txt').write_text(r.stdout[-3000:] + '\n' + r.stderr[-3000:], encoding='utf-8')
-        return None
+                raise RetryLater('已到18点，保留待发，明天继续')
+        def attempt(payload):
+            if sending and not in_work_hours():return {'结果':'暂缓:已到18点','时段结束':True}
+            atomic_json(CACHE/'job.json',payload)
+            out.unlink(missing_ok=True)
+            if os.name=='nt':command=['node',str(BROWSER/'neo_bridge.mjs'),script]
+            else:
+                code=f'const NAME = {json.dumps(Path(script).stem)};\n'+(BROWSER/'_prelude.txt').read_text(encoding='utf-8')+'\n'+(BROWSER/script).read_text(encoding='utf-8')
+                command=['ego-browser','nodejs','-e',code]
+            try:
+                r=captured(command,capture_output=True,text=True,encoding='utf-8',errors='replace',
+                           timeout=timeout,creationflags=HIDDEN)
+                if out.exists():return json.loads(out.read_text(encoding='utf-8'))
+                (CACHE/'last_error.txt').write_text(r.stdout[-3000:]+'\n'+r.stderr[-3000:],encoding='utf-8')
+            except RetryLater:pass
+            progress={}
+            if script=='send.mjs':
+                f=CACHE/'send.progress.json'
+                if f.exists():progress=json.loads(f.read_text(encoding='utf-8'))
+                if progress.get('operation_id')!=payload.get('operation_id'):progress={}
+            safe=script!='send.mjs' or progress.get('阶段')=='准备'
+            return {**progress,'错误':'浏览器连接暂不可用','结果':'停止:浏览器连接暂不可用','可重试':safe}
+        if os.name=='nt' and script=='send.mjs' and sending:
+            if (CACHE/'send_paused.json').exists():return {'结果':'停止:发送暂停，需核实上次异常后恢复'}
+            try:result=send_once(CACHE,job or {},attempt)
+            except UnsafeOperation as error:
+                atomic_json(CACHE/'send_paused.json',{'原因':str(error),'时间':now_bj().isoformat(),'ww':(job or {}).get('ww')})
+                mark_sent();return {'结果':'停止:'+str(error)}
+            if result.get('结果')=='成功':mark_sent(result.get('sent_at'),result.get('not_before'))
+            return result
+        for number in range(3 if os.name=='nt' else 1):
+            result=attempt(job or {})
+            if result and not result.get('错误'):
+                if sending:mark_sent()
+                return result
+            if (CACHE/'neo_paused.json').exists():return result
+            if number<2:time.sleep(2*(number+1))
+        reason=str((result or {}).get('错误') or '浏览器页面或连接暂不可用')[:240]
+        raise RetryLater('保留任务下轮恢复：'+reason)

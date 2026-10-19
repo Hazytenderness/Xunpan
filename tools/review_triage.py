@@ -16,7 +16,7 @@ from pathlib import Path
 SITE = Path.home() / 'ClaudeP/06_VibeCoding/ataous/ataous-site-night'
 MARGIN_FLOOR = 0.15
 SMALL_SWING = 0.03
-FACTS = {'页面卖家', '在售状态', '现货', '箱规', '中性包装', '交期', '打样', '开票', '定制'}
+FACTS = {'页面卖家', '在售状态', '现货', '箱规', '中性包装', '贴标', '每箱数量', '实拍图', '视频', '匹配确认', '交期', '打样', '开票', '定制'}
 # 对标装数，同站点 review.js 的 pack()
 PACK = re.compile(r'([0-9]{1,3})\s*(?:枚|本|個|足|点|袋|個入|P|ピース)?\s*(?:セット|組|入り?|パック)')
 

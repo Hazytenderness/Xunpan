@@ -15,13 +15,14 @@ from datetime import datetime, timedelta
 from pathlib import Path
 sys.path.insert(0, str(Path(__file__).resolve().parents[1] / 'lib'))
 from base import ROOT, BATCHES, CACHE, batch_dirs, load_queue, save_queue, now_bj
-from port import HIDDEN
+from port import HIDDEN,site_root
+from inquiry_workflow import first_message,VERSION
 
-SITE = Path.home() / 'ClaudeP/06_VibeCoding/ataous/ataous-site-night'  # 夜间任务的网站副本，货源候选和匹配度最新
+SITE = site_root()
 B = BATCHES / '补资料'
 TEXT = '{产品}单品包装尺寸多少（长宽高）、重量多少，500 个什么价？'
 PER_PRODUCT, ACTIVE_HOURS = 2, 72
-ELSEWHERE = {'待发R1', '待人工核实', '已发R1', '已回', '已发R2', '已催', '拒绝', '无货'}
+ELSEWHERE = {'待发R1', '待补主图', '待人工核实', '已发R1', '已回', '已发R2', '已催', '拒绝', '无货'}
 
 ap = argparse.ArgumentParser()
 ap.add_argument('--purchase')
@@ -124,6 +125,7 @@ for t in todo:
              '供应商_站点记录': c['供应商'], '页面卖家': meta['页面卖家'], '旺旺名': meta['旺旺名'],
              'r1_text': TEXT.replace('{产品}', short(meta['规格'])), 'r2_text': None, '状态': '待发R1',
              '备注': f"{t['状态']}·{c['等级']}" + ('·已有价缺尺寸' if c.get('有价') else ''), '建于': now.isoformat(timespec='seconds')}
+        x['r1_text']=first_message(x);x['话术版本']=VERSION
         q.append(x); added.append(x); asked.add((t['序'], c['候选ID'])); live_ww.add(meta['旺旺名']); picked += 1
     if not picked and not on:
         skipped['可问的家被别处占着或没旺旺名'] += 1

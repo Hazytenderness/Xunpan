@@ -5,6 +5,8 @@ import json, re, sys, time
 from pathlib import Path
 sys.path.insert(0, str(Path(__file__).parent / 'lib'))
 from base import browser, entries, sent_texts, CACHE
+from resilience import RetryLater,atomic_json
+from port import file_lock
 
 SYSTEM = re.compile(r'商家长时间没有回复|平台已通知|欢迎光临|欢迎来到|优惠券|库存不多|不要错过|抓紧下单|等你等得')
 minutes = float(sys.argv[1]) if len(sys.argv) > 1 else 10
@@ -16,9 +18,11 @@ end = time.time() + minutes * 60
 print(f'开始盯回复 {minutes:g} 分钟，每 {every:g} 秒一次，已发询盘的店 {len(E)} 家', flush=True)
 while True:
     mine = sent_texts()
-    r = browser('chat_list.mjs', timeout=120)
+    try:r = browser('chat_list.mjs', timeout=120)
+    except RetryLater as error:print('暂缓：'+str(error),flush=True);break
     if not r or '错误' in r:
         print('停止：' + (r or {}).get('错误','浏览器无结果'), flush=True); break
+    news={}
     for it in (r or {}).get('会话', []):
         name = it['名']
         if name not in E:
@@ -27,9 +31,15 @@ while True:
         changed = (name not in state and it['未读'] > 0) or (name in state and state[name] != last)
         ours = any(last.startswith(t) for t in mine)
         if changed and not ours and not SYSTEM.search(last):
-            print(f"新回复|{E[name][1]['id']}|{name}|未读{it['未读']}|{last[:50]}", flush=True)
+            key=E[name][1]['id'];line=f"新回复|{key}|{name}|未读{it['未读']}|{last[:50]}"
+            news[key]=line;print(line,flush=True)
         state[name] = last
-    state_f.write_text(json.dumps(state, ensure_ascii=False), encoding='utf-8')
+    # 先持久化待处理，再推进扫描游标；父程序中断也不会丢新回复。
+    with file_lock(CACHE/'pending_replies.lock'):
+        target=CACHE/'pending_replies.json'
+        pending=json.loads(target.read_text(encoding='utf-8')) if target.exists() else {}
+        pending.update(news);atomic_json(target,pending)
+    atomic_json(state_f,state)
     if time.time() + every > end:
         break
     time.sleep(every)

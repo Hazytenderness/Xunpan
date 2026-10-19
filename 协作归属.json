@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "updated": "2026-10-19",
+  "execution_owner": {
+    "machine": "DESKTOP-2AS3AVO",
+    "platform": "Windows",
+    "runtime": "Python + Codex + BrowserOS neo",
+    "tasks": [
+      "Xunpan-Inquiry-Send",
+      "Xunpan-Reply-Scan"
+    ]
+  },
+  "other_machines_mode": "prepare-only",
+  "canonical_branch": "main",
+  "runtime_branch": "windows-port",
+  "cutover_requires": "用户明确指定切换；旧机停任务、同步增量与发送回执、新机核验后才启用",
+  "credentials_and_permissions": "各机独立配置，禁止从Git克隆自动获得发送授权"
+}

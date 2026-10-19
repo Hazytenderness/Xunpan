@@ -5,12 +5,15 @@ import json, re, sys, urllib.request
 from pathlib import Path
 sys.path.insert(0, str(Path(__file__).parent / 'lib'))
 from base import browser, find, to_beijing, now_bj
+from resilience import RetryLater,atomic_json
 
 SYSTEM = re.compile(r'商家长时间没有回复|平台已通知|欢迎光临|欢迎来到|优惠券|满\d+可用|去逛逛|评价|自动回复|库存不多|不要错过|抓紧下单|等你等得')
 for key in sys.argv[1:]:
     b, x = find(key)
     ww, offer = x['旺旺名'], x['商品'][0]['offerId']
-    r = browser('chat_read.mjs', {'ww': ww, 'offerId': offer}, timeout=180)
+    try:r = browser('chat_read.mjs', {'ww': ww, 'offerId': offer}, timeout=180)
+    except RetryLater as error:
+        print(json.dumps({'id':x['id'],'错误':str(error),'可重试':True},ensure_ascii=False));continue
     if not r or '错误' in r:
         print(json.dumps({'id': x['id'], '旺旺名': ww, '错误': (r or {}).get('错误', '浏览器无结果'),'实际页头':(r or {}).get('实际页头',[])}, ensure_ascii=False)); continue
     msgs = []
@@ -32,8 +35,8 @@ for key in sys.argv[1:]:
             files.append(str(f.relative_to(b)))
         m['文件'] = files
     (b / 'chats').mkdir(exist_ok=True)
-    (b / 'chats' / f'{offer}.json').write_text(json.dumps({'offerId': offer, '旺旺名': ww, '条目': x['id'], '批次': b.name,
-                                                            '读取时间': now_bj().isoformat(timespec='seconds'), '消息': msgs}, ensure_ascii=False, indent=1), encoding='utf-8', newline='\n')
+    atomic_json(b/'chats'/f'{offer}.json',{'offerId':offer,'旺旺名':ww,'条目':x['id'],'批次':b.name,
+                                         '读取时间':now_bj().isoformat(timespec='seconds'),'消息':msgs})
     mine = [i for i, m in enumerate(msgs) if m['发送方'] == '我方']
     start = mine[-2] if len(mine) >= 2 else (mine[-1] if mine else 0)
     print(f"## {x['id']} {ww} | 询：{' / '.join(k['规格'] for k in x['对应款'])} | 我方共 {len(mine)} 条")

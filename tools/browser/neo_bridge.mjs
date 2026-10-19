@@ -4,6 +4,8 @@ import os from 'node:os';
 import path from 'node:path';
 import {fileURLToPath} from 'node:url';
 import {policyAction as sitePolicy} from '../lib/operating-policy.mjs';
+import {evaluateValue,newPage,toolFailure} from './neo_protocol.mjs';
+import {writeSendProgress} from './send_journal.mjs';
 
 const C = path.join(os.homedir(), '.cache', 'xunpan');
 const dir = path.dirname(fileURLToPath(import.meta.url));
@@ -12,6 +14,7 @@ if (!['probe.mjs','page.mjs','chat_list.mjs','chat_read.mjs','send.mjs','site_po
 const NAME = path.parse(script).name;
 if(script==='send.mjs')await fs.unlink(path.join(C,'send.progress.json')).catch(()=>{});
 const job = JSON.parse(await fs.readFile(path.join(C, 'job.json'), 'utf8'));
+if(script==='send.mjs')await fs.writeFile(path.join(C,'send.progress.json'),JSON.stringify({operation_id:job.operation_id,阶段:'准备'}));
 let policy={};try{policy=JSON.parse(await fs.readFile(path.join(C,'windows_permissions.json'),'utf8'));}catch{}
 if(script==='send.mjs'&&policy.send!==true)throw Error('发送未授权');
 if(script==='site_policy.mjs'&&job.apply&&policy.site_policy!==true)throw Error('网站采纳/排除未授权');
@@ -50,7 +53,7 @@ async function call(name, args = {}) {
   session = result._meta?.['com.browseros.neo/session'] || session;
   if (result.isError) {
     await fs.writeFile(path.join(C,'neo_tool_error.json'),JSON.stringify({name,time:new Date().toISOString(),content:result.content}));
-    throw Error('neo 工具失败：' + name);
+    throw Error(toolFailure(name,result));
   }
   if (result.structuredContent) return result.structuredContent;
   const text = (result.content || []).filter(x=>x.type==='text').map(x=>x.text).join('\n');
@@ -77,18 +80,23 @@ await rpc('initialize',{protocolVersion:'2024-11-05',capabilities:{},clientInfo:
 await rpc('notifications/initialized', {}, true);
 await call('name_session',{name:'xunpan port',category:'testing-and-qa',summary:'Windows inquiry workflow migration verification'});
 await call('tabs',{action:'list'});
+const before=await run("return (await browser.pages.list()).map(p=>({id:p.pageId}));");
 // 重连后按独有会话组回收，绝不接管用户或其他任务的标签。
 const tab = await call('tabs',{action:'new',url:'about:blank',...(st.groupId ? {groupId:st.groupId}: {})});
 // tabs 的结构化形状由下面的 run 以公开 SDK 固定返回形状取得。
 const own = await run("return (await browser.pages.list()).filter(p=>p.ownership==='mine').map(p=>({id:p.pageId,url:p.url}));");
-const active = own.find(p=>p.url==='about:blank');
-if (!active) throw Error('找不到本次新建的 neo 标签');
+const active = newPage(before,own);
 let pageId = active.id;
 const chatJob=['chat_list.mjs','chat_read.mjs','send.mjs'].includes(script);
-const persistentChat=chatJob?own.find(p=>p.url.startsWith('https://air.1688.com/')):null;
+let persistentChat=null;
+if(chatJob){
+  for(const p of own.filter(p=>p.url.startsWith('https://air.1688.com/'))){
+    try{await run(`return (await browser.page(${p.id}).snapshot({depth:1})).url;`);persistentChat=p;break;}catch{}
+  }
+}
 if(persistentChat){
   const redundant=own.filter(p=>p.id!==persistentChat.id&&(p.url.startsWith('https://air.1688.com/')||p.id===active.id)).map(p=>p.id);
-  await run(`for(const id of ${JSON.stringify(redundant)})await browser.page(id).close();return true;`);
+  await run(`for(const id of ${JSON.stringify(redundant)}){try{await browser.page(id).close();}catch{}}return true;`);
   pageId=persistentChat.id;
 }
 // 保存 groupId，后续工具重连回到同一任务组。
@@ -105,17 +113,19 @@ function pageHandle(id) {
     goto: url=>execute(`const current=await p.snapshot();if(current.url.split('#')[0]!==${JSON.stringify(url)}.split('#')[0])await p.goto(${JSON.stringify(url)});return true;`),
     evaluate:async(fn,arg)=>{
       if(fn!==sitePolicy){
-        return execute(`const result=await p.evaluate(${fn.toString()},${JSON.stringify(arg)??'undefined'});if(result.value===undefined)throw Error('页面读取没有有效返回值');return result.value;`);
+        const result=await execute(`return await p.evaluate(${fn.toString()},${JSON.stringify(arg)??'undefined'});`);
+        return evaluateValue(result,file=>fs.readFile(file,'utf8'));
       }
       const result=await call('evaluate',{page:id,code:`return await (${fn.toString()})(${JSON.stringify(arg)??'undefined'});`,maxChars:200000});
-      if(result.file){const text=await fs.readFile(result.file,'utf8');return JSON.parse(text.slice(text.indexOf('{'),text.lastIndexOf('}')+1));}
-      return result.value;
+      if(!Object.hasOwn(result,'page')&&Object.hasOwn(result,'value'))return result.value;
+      return evaluateValue(result,file=>fs.readFile(file,'utf8'));
     },
     waitForFunction:async(fn,arg,options={})=>{
       const end=Date.now()+(options.timeout||10000);
       do{
         const duration=Math.max(1,Math.min(20000,end-Date.now()));
-        const matched=await execute(`const result=await p.evaluate(async arg=>{const end=Date.now()+${duration};const fn=${fn.toString()};while(Date.now()<end){if(fn(arg))return true;await new Promise(r=>setTimeout(r,250));}return false;},${JSON.stringify(arg)??'undefined'});return result.value;`);
+        const evaluated=await execute(`return await p.evaluate(async arg=>{const end=Date.now()+${duration};const fn=${fn.toString()};while(Date.now()<end){if(fn(arg))return true;await new Promise(r=>setTimeout(r,250));}return false;},${JSON.stringify(arg)??'undefined'});`);
+        const matched=await evaluateValue(evaluated,file=>fs.readFile(file,'utf8'));
         if(matched===true)return true;
         if(matched!==false)throw Error('等待页面返回无效结果');
       }while(Date.now()<end);
@@ -161,18 +171,29 @@ try {
   }
   const source=await fs.readFile(path.join(dir,script==='send.mjs'?'send_neo.mjs':script),'utf8');
   const AsyncFunction=Object.getPrototypeOf(async function(){}).constructor;
-  const cacheFs={...fs,writeFile:(filename,...args)=>fs.writeFile(path.basename(filename)==='state.json'?stFile:filename,...args)};
+  const cacheFs={...fs,writeFile:async(filename,...args)=>{
+    const target=path.basename(filename)==='state.json'?stFile:filename;
+    if(path.basename(target)==='send.progress.json'){
+      await writeSendProgress(target,...args);
+    }else await fs.writeFile(target,...args);
+  }};
   await new AsyncFunction('pageFor','st','fs','path','C','job','done','blocked','chatUrl','sitePolicy',source)(pageFor,st,cacheFs,path,C,job,done,blocked,chatUrl,sitePolicy);
 } catch(error) {
   if (!error?.done){
     let progress={};if(script==='send.mjs')progress=JSON.parse(await fs.readFile(path.join(C,'send.progress.json'),'utf8').catch(()=>'{}'));
     const message='BrowserOS neo 停止：'+String(error.message||error).slice(0,200);
-    await fs.writeFile(path.join(C,NAME+'.out.json'),JSON.stringify({...progress,错误:message,...(script==='send.mjs'?{结果:'停止:'+message}:{})}));
+    let safe=script!=='send.mjs'||progress.阶段==='准备';
+    if(script==='send.mjs'&&safe){
+      for(const p of jobPages.values()){
+        try{if(await blocked(p)){safe=false;break;}}catch{}
+      }
+    }
+    await fs.writeFile(path.join(C,NAME+'.out.json'),JSON.stringify({...progress,...(error.progressPendingPath?{进度待提交文件:error.progressPendingPath}:{}),错误:message,可重试:safe,...(script==='send.mjs'?{结果:'停止:'+message}:{})}));
   }
 } finally {
   if(script!=='probe.mjs'){
     const result=JSON.parse(await fs.readFile(path.join(C,NAME+'.out.json'),'utf8').catch(()=>'{}'));
-    if(!result.错误&&!String(result.结果||'').startsWith('停止')){
+    if(!result.同步待确认&&((!result.错误&&!String(result.结果||'').startsWith('停止'))||result.可重试)){
       const ids=[...jobPages.values()].map(p=>+p.label.slice(4)).filter(id=>!chatJob||id!==pageId);if(!ids.length&&!chatJob)ids.push(pageId);
       await run(`for(const id of ${JSON.stringify(ids)})await browser.page(id).close();return true;`).catch(()=>{});
     }

@@ -1,5 +1,7 @@
 # Xunpan 1688 询盘 · Mac mini 主控说明
 
+> 历史说明：当前运行机已是Windows。本文件中的Mac执行归属、旧话术、旧定时入口与从空缓存启动规则不再作为接管依据。多机协作以 [换机说明.md](换机说明.md)、[协作归属.json](协作归属.json) 和 [templates/话术.md](templates/话术.md) 为准，其他机器默认prepare-only。
+
 这份说明给跑在 Mac mini 上的 Claude Code 会话用。从现在起，询盘的整条流程都在这台机器上完成：发送、读回复、整理报价、追问、A/B 对比、出报告。仓库 `Hazytenderness/Xunpan`（分支 `main`，10/8 起；旧分支 claude/claude-github-connection-mtu9fd 已合并停用）是唯一的记录本，每完成一步都提交并推送。
 
 ## 0. 每次开始前

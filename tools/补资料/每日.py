@@ -10,17 +10,20 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).resolve().parents[1] / 'lib'))
 from base import ROOT, CACHE, batch_dirs, load_queue, find, now_bj, browser
 from port import file_lock, run, require, notify, commit_paths, permissions,HIDDEN
+from resilience import RetryLater,atomic_json,merge_pending
+from review_sync import flush
+from workflow_backlog import snapshot
 
 SITE = Path.home() / 'ClaudeP/06_VibeCoding/ataous/ataous-site-night'
 
 
 def current_policy():
     result=browser('site_policy.mjs',{'apply':True,'includeRows':True},timeout=180)
-    if not result or result.get('错误') or result.get('采纳失败'):
-        raise RuntimeError('网站实时采纳/筛选未完成，停止询盘')
+    if not result or result.get('错误'):raise RetryLater('网站实时筛选暂不可用，保留队列，下轮恢复')
+    if result.get('采纳失败'):raise RuntimeError('网站复核有无法采纳项，需要核对数据')
     rows=result.pop('行')
-    (CACHE/'current_purchase.json').write_text(json.dumps({'行':rows},ensure_ascii=False),encoding='utf-8')
-    (CACHE/'current_policy.json').write_text(json.dumps(result,ensure_ascii=False),encoding='utf-8')
+    atomic_json(CACHE/'current_purchase.json',{'行':rows})
+    atomic_json(CACHE/'current_policy.json',result)
     return result
 
 
@@ -44,21 +47,41 @@ def main():
         return
     def py(file, *args):
         return run([sys.executable, ROOT / 'tools' / file, *args], cwd=ROOT,timeout=12*3600 if file=='run.py' else 3600)
+    status={'status':'ok','time':now.isoformat()}
+    def alert(message):
+        try:notify(message);return True
+        except Exception:print('通知暂未送达，保留本地运行日志',flush=True);return False
+    def record(paths,message):
+        sync_note=CACHE/'git_sync_pending.json'
+        try:
+            with file_lock(CACHE/'git_record.lock',timeout=30):
+                commit_paths(ROOT,paths,message,push=permissions().get('github_push') is True)
+            if permissions().get('github_push') is True and sync_note.exists():
+                alert('询盘GitHub同步已恢复，main和执行分支均已更新。');sync_note.unlink(missing_ok=True)
+        except Exception:
+            print('GitHub同步暂缓，业务文件已保留；不强推或覆盖其他机器提交',flush=True)
+            if permissions().get('github_push') is True and not sync_note.exists():
+                delivered=alert('⚠ 询盘GitHub同步暂缓，本地台账已保存；请核对远端提交或网络，禁止其他机器直接接管发送。')
+                if delivered:atomic_json(sync_note,{'时间':now_bj().isoformat(),'原因':'Git同步失败，保留本地提交，不强推'})
     try:
         with file_lock(CACHE / f'buziliao_{a.mode}_windows.lock', blocking=False):
+            atomic_json(CACHE/f'runtime_{a.mode}.json',{'status':'running','time':now.isoformat()})
             if a.mode == 'send':
                 require('send')
+                if (CACHE/'send_paused.json').exists() or (CACHE/'neo_paused.json').exists():
+                    raise RuntimeError('发送因风险或不确定回执暂停，需核实后恢复')
                 stamp = CACHE / f'buziliao_send_{day}_{now.hour}'
                 if stamp.exists() and not a.resume: return
                 # 仅允许已经只读核实过的断点补字，不重复发图。
                 for b in batch_dirs():
                     if any(x['id'] == 'BZ0097' and x['状态'] == '待发R1' and not x.get('断点核实',{}).get('允许补文字') for x in load_queue(b)):
                         raise RuntimeError('BZ0097 尚未人工核实，发送保持停止')
-                notify(f'Windows发询盘任务已启动（{now:%Y-%m-%d %H:%M} 北京时间）。仅处理日本站非食品接触、最新倍数>2且缺资料的款。')
+                started=CACHE/f'send_started_{day}'
+                if not started.exists() and alert(f'Windows发询盘任务已启动（{now:%Y-%m-%d %H:%M} 北京时间）。仅处理日本站非食品接触、最新倍数>2且缺资料的款。'):started.touch()
                 policy=current_policy()
                 stamp.touch()
                 print(py('补资料/建队列.py','--purchase',CACHE/'current_purchase.json','--policy',CACHE/'current_policy.json'),flush=True)
-                commit_paths(ROOT, [ROOT/'batches/补资料'], f'补资料 {day} 建队列', push=permissions().get('github_push') is True)
+                record([ROOT/'batches/补资料'],f'补资料 {day} 建队列')
                 batches = [b for b in batch_dirs() if b.name != '补资料' and
                            any(x['状态'] == '待发R1' and x.get('旺旺名') for x in load_queue(b))]
                 for b in batches + [ROOT / 'batches/补资料']:
@@ -66,25 +89,39 @@ def main():
                     with log.open('a',encoding='utf-8') as output:
                         child=subprocess.run([sys.executable,'-X','utf8',str(ROOT/'tools/run.py'),str(b),'--no-push'],cwd=ROOT,
                             env={**os.environ,'PYTHONUTF8':'1','PYTHONUNBUFFERED':'1'},stdout=output,stderr=output,stdin=subprocess.DEVNULL,creationflags=HIDDEN)
-                    commit_paths(ROOT,[b],f'R1 发送记录 {day}',push=permissions().get('github_push') is True)
+                    record([b],f'R1 发送记录 {day}')
+                    if child.returncode==75:raise RetryLater('发送准备暂不可用，已保存断点，下轮自动继续')
                     if child.returncode:raise RuntimeError(f'发送在{b.name}停止，退出码{child.returncode}')
-                notify(f'Windows发询盘任务本轮结束（{now_bj():%H:%M}）。发送记录已保存，18点会汇总。')
+                print(f'发送本轮结束 {now_bj():%H:%M}；18点汇总',flush=True)
             elif now.hour == 18:
                 stamp = CACHE / f'buziliao_daily_{day}'
                 if not stamp.exists():
                     require('notify')
-                    notify(py('补资料/日报.py', 'daily')); stamp.touch()
+                    if alert(py('补资料/日报.py','daily')):stamp.touch()
             else:
                 require('scan')
                 started=CACHE/f'read_started_{day}'
                 if not started.exists():
-                    notify(f'Windows扫描回复任务已启动（{now:%Y-%m-%d %H:%M}）。每10分钟扫描，有新回复就整理报价并同步日本站；18点汇总。');started.touch()
-                policy=current_policy()
+                    if alert(f'Windows扫描回复任务已启动（{now:%Y-%m-%d %H:%M}）。每10分钟扫描，有新回复就整理报价并同步日本站；18点汇总。'):started.touch()
+                # 网络断开不影响扫描与本地落盘；同步队列与AI处理分离。
+                with file_lock(CACHE/'review_sync.lock',timeout=90):sync=flush(CACHE)
+                if sync['待同步']:print(f"网站待补同步：{sync['待同步']}份",flush=True)
+                if sync['需处理']:
+                    note=CACHE/'review_sync_attention.json'
+                    if not note.exists() or json.loads(note.read_text(encoding='utf-8'))!=sync['需处理']:
+                        if alert('⚠ 网站报价同步有权限或业务拒绝项，需要核对本机日志；其他采集继续。'):atomic_json(note,sync['需处理'])
                 scan = py('watch.py', '0.01')
                 if '停止' in scan:
-                    raise RuntimeError('浏览器扫描停止，不重试')
+                    if (CACHE/'neo_paused.json').exists():raise RuntimeError('出现验证或风控，暂停浏览器操作')
+                    raise RetryLater('扫描页面暂不可用，保留任务，下轮恢复')
                 pending_file=CACHE/'pending_replies.json'
                 pending=json.loads(pending_file.read_text(encoding='utf-8')) if pending_file.exists() else {}
+                baseline=pending.copy()
+                backlog=snapshot(ROOT,CACHE,now_bj())
+                for key in backlog['可续接']:pending.setdefault(key,f'续接资料|{key}|已有会话|按最新优先级补资料')
+                def persist():
+                    nonlocal pending,baseline
+                    pending=merge_pending(CACHE,baseline,pending);baseline=pending.copy()
                 recovered=CACHE/'recovered_39_seeded'
                 if not recovered.exists():
                     for item in json.loads((ROOT/'tools/windows_pending_chats.json').read_text(encoding='utf-8')):
@@ -92,7 +129,9 @@ def main():
                     recovered.touch()
                 for line in scan.splitlines():
                     if line.startswith('新回复|'):pending[line.split('|')[1]]=line
-                pending_file.write_text(json.dumps(pending,ensure_ascii=False),encoding='utf-8')
+                persist()
+                if '暂缓：' in scan:raise RetryLater('扫描连接暂不可用，下轮恢复')
+                policy=current_policy()
                 permitted={x['序'] for x in policy['可询盘']}
                 active=[]
                 for key in list(pending):
@@ -100,7 +139,7 @@ def main():
                     if any(k['序'] in permitted for k in x['对应款']):active.append(key)
                     else:pending.pop(key)
                 keys=active[:5]
-                pending_file.write_text(json.dumps(pending,ensure_ascii=False),encoding='utf-8')
+                persist()
                 if not keys:return
                 readable=[]
                 # 先由已验收的工具取证，AI只读缓存和图片，避免漏读或二次扫描丢消息。
@@ -108,12 +147,10 @@ def main():
                     text=py('chat.py',key);print(text,flush=True)
                     if '"错误"' in text:
                         if (CACHE/'neo_paused.json').exists():raise RuntimeError('出现验证或风控，停止读取')
-                        if '聊天页未完成收件人核验' not in text and '读不到消息' not in text:
-                            raise RuntimeError('浏览器连接或工具读取失败，停止本轮并保留队列')
                         pending[key]=pending.pop(key)
                         print(f'会话暂缓|{key}|读取未通过，保留待处理并继续其他会话',flush=True)
                     else:readable.append(key)
-                pending_file.write_text(json.dumps(pending,ensure_ascii=False),encoding='utf-8')
+                persist()
                 keys=readable
                 if not keys:return
                 news=[pending[key] for key in keys]
@@ -128,14 +165,21 @@ def main():
                         if key in keys:pending.pop(key,None)
                     for key in keys:
                         if key not in finished and key in pending:pending[key]=pending.pop(key)
-                pending_file.write_text(json.dumps(pending,ensure_ascii=False),encoding='utf-8')
+                persist()
                 report = py('补资料/日报.py', 'round', CACHE / 'buziliao_read.out')
-                if report.strip(): notify(report)
+                if report.strip():alert(report)
                 dirs=sorted({find(line.split('|')[1])[0] for line in news})
-                commit_paths(ROOT,dirs,f'补资料读回复 {now:%Y-%m-%d %H:%M}',push=permissions().get('github_push') is True)
+                record(dirs,f'补资料读回复 {now:%Y-%m-%d %H:%M}')
                 current_policy()
+                snapshot(ROOT,CACHE,now_bj())
     except BlockingIOError:
         print('上一轮仍在运行，跳过')
+        status['status']='busy'
+    except RetryLater as error:
+        status.update(status='deferred',reason=str(error));print('暂缓|'+str(error),flush=True)
+    except BaseException:
+        status['status']='failed';raise
+    finally:atomic_json(CACHE/f'runtime_{a.mode}.json',status)
 
 
 if __name__ == '__main__':

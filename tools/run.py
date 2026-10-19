@@ -6,8 +6,10 @@ import argparse, json, random, re, subprocess, sys, time, urllib.request
 from pathlib import Path
 sys.path.insert(0, str(Path(__file__).parent / 'lib'))
 from base import ROOT, CACHE, browser, load_queue, save_queue, append_log, to_beijing, in_work_hours, now_bj
-from port import require
+from port import require,site_root
+from resilience import RetryLater
 from images import download_image
+from inquiry_workflow import first_message,VERSION
 require('send')
 
 ap = argparse.ArgumentParser()
@@ -18,7 +20,7 @@ a = ap.parse_args()
 B = Path(a.batch)
 BRANCH = 'main'
 ASK = '图上这款有吗？'
-SITE_JS = Path.home() / 'ClaudeP/06_VibeCoding/ataous/ataous-site-night/build/js'  # 网站夜间副本，每款都存了亚马逊主图
+SITE_JS = site_root()/'build/js'
 
 
 def main_image(asin):
@@ -66,9 +68,11 @@ for n, lid in enumerate(order):
     x = next(i for i in q if i['id'] == lid)
     if x['状态'] != '待发R1':
         continue
-    job = {'ww': x['旺旺名'], 'offerId': x['商品'][0]['offerId'], 'text': x['r1_text'], 'seqs':[k['序'] for k in x['对应款']]}
-    if not x['r1_text'].startswith(ASK):  # 先问图上这款有没有，再问价和包装【用户定·10/9】
-        x['r1_text'] = job['text'] = ASK + x['r1_text']
+    job = {'ww': x['旺旺名'], 'offerId': x['商品'][0]['offerId'], 'text': x['r1_text'], 'seqs':[k['序'] for k in x['对应款']],
+           'targets':[{'seq':k['序'],'asin':k['asin']} for k in x['对应款']],'kind':'R1'}
+    if x.get('话术版本')!=VERSION:
+        x['r1_text'] = job['text'] = first_message(x)
+        x['话术版本']=VERSION
         save_queue(B, q)
     if not x.get('图已发'):
         try:job['img'] = main_image(x['对应款'][0]['asin'])
@@ -76,9 +80,13 @@ for n, lid in enumerate(order):
             print(f'{lid} 商品主图下载失败，保持待发并跳过本条',flush=True)
             continue
         if not job['img']:
-            print(f"{now_bj():%H:%M:%S} {lid} 网站数据里找不到 {x['对应款'][0]['asin']} 的主图，跳过", flush=True)
+            x['发送阻塞']={'原因':'缺目标主图','ASIN':x['对应款'][0]['asin'],'时间':now_bj().isoformat()}
+            x['状态']='待补主图';save_queue(B,q)
+            print(f"{now_bj():%H:%M:%S} {lid} 缺目标主图，移交核页，停止反复重试", flush=True)
             continue
-    r = browser('send.mjs', job, sending=True) or {'结果': '无结果'}
+    try:r = browser('send.mjs', job, sending=True) or {'结果': '无结果'}
+    except RetryLater as error:
+        print('XUNPAN_RETRY_LATER: '+str(error),file=sys.stderr,flush=True);sys.exit(75)
     # Windows 接管：断线、验证、收件人异常立即停，不自动重试。
     if str(r.get('结果','')).startswith('跳过:'):
         x['状态']='不用发';x['备注']=(x.get('备注') or '')+'；'+r['结果'];save_queue(B,q)

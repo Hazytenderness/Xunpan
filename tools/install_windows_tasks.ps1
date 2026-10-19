@@ -12,10 +12,10 @@ if (-not $VerifyOnly) {
         if (Get-ScheduledTask -TaskName $taskName -ErrorAction SilentlyContinue) { throw "Task already exists: $taskName; review before replacing." }
         $taskAction = New-ScheduledTaskAction -Execute $taskPython -Argument ('-X utf8 "'+(Join-Path $taskRoot 'tools\scheduled.py')+'" '+$taskMode) -WorkingDirectory $taskRoot
         $taskTrigger = New-ScheduledTaskTrigger -Daily -At $taskStart
-        if ($taskMode -eq 'read') {
-            $taskRepeat = New-ScheduledTaskTrigger -Once -At $taskStart -RepetitionInterval (New-TimeSpan -Minutes 10) -RepetitionDuration (New-TimeSpan -Hours 10)
-            $taskTrigger.Repetition = $taskRepeat.Repetition
-        }
+        $taskHours = if ($taskMode -eq 'send') {9} else {10}
+        $taskRepeat = New-ScheduledTaskTrigger -Once -At $taskStart -RepetitionInterval (New-TimeSpan -Minutes 10) -RepetitionDuration (New-TimeSpan -Hours $taskHours)
+        $taskRepeat.Repetition.StopAtDurationEnd = $false
+        $taskTrigger.Repetition = $taskRepeat.Repetition
         $taskDescription = if ($taskMode -eq 'send') {'09:00 Beijing: Japan non-food-contact products; latest multiple >2; stop at 18:00; Feishu notifications.'} else {'09:00-18:59 Beijing every 10 minutes: read replies, record quotes and update Japan review; daily report at 18:00.'}
         Register-ScheduledTask -TaskName $taskName -Action $taskAction -Trigger $taskTrigger -Settings $taskSettings -Principal $taskPrincipal -Description $taskDescription | Out-Null
     }

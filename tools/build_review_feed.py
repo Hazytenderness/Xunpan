@@ -16,17 +16,20 @@ import json
 import re
 from pathlib import Path
 sys.path.insert(0,str(Path(__file__).parent/'lib'))
-from port import HIDDEN
+from port import HIDDEN,site_root
 
 ap = argparse.ArgumentParser()
 ap.add_argument('batch')
 ap.add_argument('--candidates', help='缺省时直接读 ataous 站点的 products.js（澳洲站读 products-au.js）')
 ap.add_argument('--站', choices=['jp', 'au'], help='缺省按 queue.json 里记的站点（建批次.py 写入），旧批次没有记就是日本站')
-ap.add_argument('--site', default=str(Path.home() / 'ClaudeP/06_VibeCoding/ataous/ataous-site-night'), help='ataous 夜间站点目录，用它的公式做 AI 预判')
+ap.add_argument('--site', default=str(site_root()), help='当前已发布的网站资料目录，用其公式预判')
+ap.add_argument('--ids',help='只生成本轮有新资料的询盘ID，逗号分隔')
+ap.add_argument('--fields',help='只生成本轮更新的字段（网站字段名），逗号分隔')
 args = ap.parse_args()
 
 B = Path(args.batch)
 queue = json.loads((B / 'queue.json').read_text(encoding='utf-8'))
+if args.ids:queue=[x for x in queue if x['id'] in set(args.ids.split(','))]
 站 = args.站 or next((x.get('站') for x in queue if x.get('站')), 'jp')
 if args.candidates:
     raw = json.loads(Path(args.candidates).read_text(encoding='utf-8'))
@@ -122,20 +125,34 @@ for x in queue:
             if price:
                 add(序, offer, seller, '采购单价', price, ladder['原话'], link, ladder.get('时间', ''), '询盘回复', 页面价=page_price.get((序, offer)))
         for field, target in [('起订量', '起订量'), ('现货', '现货'), ('箱规', '箱规'), ('中性包装', '中性包装'),
+                              ('贴标', '贴标'), ('每箱数量', '每箱数量'), ('实拍图', '实拍图'), ('视频', '视频'),
                               ('交期', '交期'), ('打样', '打样'), ('开票点数', '开票'), ('定制', '定制')]:
             v = said(field)
             if v:
-                value = v['值'] if target == '起订量' and str(v['值']).isdigit() else str(v['值'])
-                add(序, offer, seller, target, int(value) if target == '起订量' else value, v['原话'], link, v.get('时间', ''), '询盘回复')
+                if target in ('起订量','每箱数量'):
+                    # 包/套/定制等条件不能直接当成件数，原始报价保留待核实。
+                    value = v['值']
+                    if isinstance(value, bool) or not str(value).isdigit():
+                        print(f"起订量待核实|{x['id']}|{v['原话']}")
+                        continue
+                    value = int(value)
+                else:
+                    value = str(v['值'])
+                add(序, offer, seller, target, value, v['原话'], link, v.get('时间', ''), '询盘回复')
+        confirmed=said('匹配确认')
+        if confirmed and confirmed['值'] in ('完全匹配','不匹配'):
+            spec='；'.join(k.get('规格','') for k in x['对应款'] if k['序']==序)
+            add(序, offer, seller, '匹配确认', confirmed['值'], '商家原话：'+confirmed['原话']+'；询盘目标：'+spec, link, confirmed.get('时间',''), '供应商询盘确认')
         pack = said('包装尺寸毛重')
         if pack and isinstance(pack['值'], dict):
             add(序, offer, seller, '单品包装', pack['值'], pack['原话'], link, pack.get('时间', ''), '询盘回复')
 
 sys.path.insert(0, str(Path(__file__).parent))
 from review_triage import triage
+if args.fields:items=[i for i in items if i['字段'] in set(args.fields.split(','))]
 items = triage(items, Path(args.site), 站)
 feed = {'批次': batch_name, '站': 站, '来源': '询盘与核页', '生成时间': max((i['采集时间'] for i in items), default=''), '条目': items}
 out = B / 'review_feed.json'
-out.write_text(json.dumps(feed, ensure_ascii=False, indent=1), encoding='utf-8')
+out.write_text(json.dumps(feed, ensure_ascii=False, indent=1), encoding='utf-8',newline='\n')
 from collections import Counter
 print(out, len(items), dict(Counter(i['字段'] for i in items)), '产品', len({i['序'] for i in items}))

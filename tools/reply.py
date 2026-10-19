@@ -5,6 +5,7 @@ import json, sys
 from pathlib import Path
 sys.path.insert(0, str(Path(__file__).parent / 'lib'))
 from base import browser, find, load_queue, save_queue, append_log, now_bj, in_work_hours
+from resilience import RetryLater
 
 args = [x for x in sys.argv[1:] if x != '--dry']
 dry = '--dry' in sys.argv
@@ -14,7 +15,9 @@ if not dry and not in_work_hours():
     raise SystemExit('不在北京 9:00–18:00，不发')
 b, x = find(key)
 ww = x['旺旺名']
-r = browser('send.mjs', {'ww': ww, 'offerId': x['商品'][0]['offerId'], 'text': text, 'dry': dry,'seqs':[k['序'] for k in x['对应款']]}, sending=not dry) or {'结果': '无结果'}
+try:r = browser('send.mjs', {'ww': ww, 'offerId': x['商品'][0]['offerId'], 'text': text, 'dry': dry,'seqs':[k['序'] for k in x['对应款']],
+                           'targets':[{'seq':k['序'],'asin':k['asin']} for k in x['对应款']]}, sending=not dry) or {'结果': '无结果'}
+except RetryLater as error:print('XUNPAN_RETRY_LATER: '+str(error),file=sys.stderr);sys.exit(75)
 if not dry:
     append_log(b, {'id': x['id'], '组': x['组'], '轮次': '回复', '旺旺名': ww, 'offerId': x['商品'][0]['offerId'],
                    '时间': now_bj().isoformat(timespec='seconds'), '文本': text, '核对': r.get('核对'),
