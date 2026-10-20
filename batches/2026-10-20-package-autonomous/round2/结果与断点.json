@@ -119,6 +119,13 @@
       "cny": 2.6,
       "units": 1,
       "note": "500瓶现在下单报价不含税运；145g明确净重，不作包装毛重"
+    },
+    {
+      "cw": 2422,
+      "offer": "1057368231731",
+      "cny": 3.3,
+      "units": 1,
+      "note": "15:05:17回复，验证码恢复后核验发送回显并采用；包装未回复"
     }
   ],
   "factsAdopted": [
@@ -161,15 +168,16 @@
     74
   ],
   "humanReviewAdded": [],
-  "businessMessagesSentThisRound": 0,
+  "businessMessagesSentThisRound": 1,
   "pendingSend": {
     "cw": 2422,
     "offer": "1057368231731",
     "ww": "三寻日用百货有限公司",
-    "status": "CAPTCHA人工验证待完成；无成功发送回执，保留输入框草稿",
+    "status": "2026-10-20 15:05:06已发送且商家已读；15:05:17回复3.3，报价已采用；包装未回复",
     "pageId": 386,
     "helpRequestId": "help-01M5C10S4XWJV54F3DWX7CTMSK",
-    "resume": "只有验证由人完成并交还控制后，先查最新聊天和发送回显；存在同文则记录不重发，无回显再发送并核验。"
+    "resume": "不重复发送首轮；下次先读最新回复，只处理仍缺包装资料。",
+    "captchaResolved": true
   },
   "continuation": [
     "复用现有atao每小时跟进，不新建重复调度；先读最新聊天与本轮原文、已发47条回执再选具体缺项。",
