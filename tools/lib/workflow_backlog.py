@@ -27,6 +27,7 @@ def snapshot(root, cache, now):
         for message in lines(batch/'sent_log.jsonl'):
             if message.get('结果')=='成功':sent[message['id']].append(message)
         for entry in json.loads((batch/'queue.json').read_text(encoding='utf-8')):
+            if entry.get('人工暂缓'):continue
             if entry.get('站','jp')!='jp':continue
             state=entry.get('状态')
             if state in ('不用发','款不对','下架','已合并'):continue

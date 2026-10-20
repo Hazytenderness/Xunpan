@@ -13,6 +13,8 @@ from port import file_lock, run, require, notify, commit_paths, permissions,HIDD
 from resilience import RetryLater,atomic_json,merge_pending
 from review_sync import flush
 from workflow_backlog import snapshot
+from inquiry_reporting import notify_once
+from inquiry_actions import consume_decisions,publish_tasks,report_outcome
 
 SITE = Path.home() / 'ClaudeP/06_VibeCoding/ataous/ataous-site-night'
 
@@ -49,7 +51,7 @@ def main():
         return run([sys.executable, ROOT / 'tools' / file, *args], cwd=ROOT,timeout=12*3600 if file=='run.py' else 3600)
     status={'status':'ok','time':now.isoformat()}
     def alert(message):
-        try:notify(message);return True
+        try:return notify_once(CACHE,message,notify)
         except Exception:print('通知暂未送达，保留本地运行日志',flush=True);return False
     def record(paths,message):
         sync_note=CACHE/'git_sync_pending.json'
@@ -100,6 +102,12 @@ def main():
                     if alert(py('补资料/日报.py','daily')):stamp.touch()
             else:
                 require('scan')
+                try:print('网站意见领取：'+json.dumps(consume_decisions(ROOT,CACHE),ensure_ascii=False),flush=True)
+                except (RetryLater,OSError,ValueError) as error:print('网站意见本轮暂缓，原询盘扫描继续：'+str(error),flush=True)
+                retry_file=CACHE/'inquiry_publish_pending.json'
+                if retry_file.exists() and json.loads(retry_file.read_text(encoding='utf-8')):
+                    try:publish_tasks(ROOT,CACHE,only=set())
+                    except (RetryLater,OSError,ValueError) as error:print('历史网站待办仍待同步，原扫描继续：'+str(error),flush=True)
                 started=CACHE/f'read_started_{day}'
                 if not started.exists():
                     if alert(f'Windows扫描回复任务已启动（{now:%Y-%m-%d %H:%M}）。每10分钟扫描，有新回复就整理报价并同步日本站；18点汇总。'):started.touch()
@@ -108,7 +116,7 @@ def main():
                 if sync['待同步']:print(f"网站待补同步：{sync['待同步']}份",flush=True)
                 if sync['需处理']:
                     note=CACHE/'review_sync_attention.json'
-                    if not note.exists() or json.loads(note.read_text(encoding='utf-8'))!=sync['需处理']:
+                    if not note.exists() or sorted(set(json.loads(note.read_text(encoding='utf-8'))))!=sorted(set(sync['需处理'])):
                         if alert('⚠ 网站报价同步有权限或业务拒绝项，需要核对本机日志；其他采集继续。'):atomic_json(note,sync['需处理'])
                 scan = py('watch.py', '0.01')
                 if '停止' in scan:
@@ -136,8 +144,13 @@ def main():
                 active=[]
                 for key in list(pending):
                     b,x=find(key)
+                    if x.get('人工暂缓'):
+                        report_outcome(ROOT,CACHE,key,'done','已按意见暂缓此供应商，原聊天和报价保留')
+                        pending.pop(key,None);continue
                     if any(k['序'] in permitted for k in x['对应款']):active.append(key)
-                    else:pending.pop(key)
+                    else:
+                        report_outcome(ROOT,CACHE,key,'blocked','当前商品未通过网站询盘门槛，已停止发送；请核对商品状态、规格与当前资格。')
+                        pending.pop(key)
                 keys=active[:5]
                 persist()
                 if not keys:return
@@ -166,6 +179,8 @@ def main():
                     for key in keys:
                         if key not in finished and key in pending:pending[key]=pending.pop(key)
                 persist()
+                try:print('网站待办同步：'+json.dumps(publish_tasks(ROOT,CACHE,only=set(keys)),ensure_ascii=False),flush=True)
+                except (RetryLater,OSError,ValueError) as error:print('网站待办暂待同步，原询盘结果已保留：'+str(error),flush=True)
                 report = py('补资料/日报.py', 'round', CACHE / 'buziliao_read.out')
                 if report.strip():alert(report)
                 dirs=sorted({find(line.split('|')[1])[0] for line in news})

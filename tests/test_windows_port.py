@@ -77,7 +77,7 @@ class WindowsPortTests(unittest.TestCase):
                  patch.object(daily,'now_bj',return_value=datetime(2026,10,14,17,tzinfo=base.BJ)),\
                  patch.object(daily,'file_lock',return_value=nullcontext()),patch.object(daily,'require'),\
                  patch.object(daily,'notify'),patch.object(daily,'current_policy',side_effect=RetryLater('网站断网')),\
-                 patch.object(daily,'run',side_effect=child):daily.main()
+                 patch.object(daily,'consume_decisions',return_value={'received':0}),patch.object(daily,'run',side_effect=child):daily.main()
             self.assertIn('X1',json.loads((cache/'pending_replies.json').read_text(encoding='utf8')))
             self.assertEqual(json.loads((cache/'runtime_read.json').read_text(encoding='utf8'))['status'],'deferred')
 
@@ -231,6 +231,7 @@ class WindowsPortTests(unittest.TestCase):
                  patch.object(daily,'file_lock',return_value=nullcontext()),patch.object(daily,'require'),\
                  patch.object(daily,'notify'),patch.object(daily,'commit_paths'),patch.object(daily,'snapshot',return_value={'可续接':[]}),\
                  patch.object(daily,'find',return_value=(cache,{'对应款':[{'序':1}]})),\
+                 patch.object(daily,'consume_decisions',return_value={'received':0}),patch.object(daily,'publish_tasks',return_value={'published':0}),\
                  patch.object(daily,'current_policy',return_value={'可询盘':[{'序':1}]}),patch.object(daily,'run',side_effect=child):
                 daily.main()
             self.assertEqual(calls,['X2','X3','X4','X5'])

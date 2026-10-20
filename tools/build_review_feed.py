@@ -17,6 +17,7 @@ import re
 from pathlib import Path
 sys.path.insert(0,str(Path(__file__).parent/'lib'))
 from port import HIDDEN,site_root
+from review_evidence import media_values
 
 ap = argparse.ArgumentParser()
 ap.add_argument('batch')
@@ -125,7 +126,7 @@ for x in queue:
             if price:
                 add(序, offer, seller, '采购单价', price, ladder['原话'], link, ladder.get('时间', ''), '询盘回复', 页面价=page_price.get((序, offer)))
         for field, target in [('起订量', '起订量'), ('现货', '现货'), ('箱规', '箱规'), ('中性包装', '中性包装'),
-                              ('贴标', '贴标'), ('每箱数量', '每箱数量'), ('实拍图', '实拍图'), ('视频', '视频'),
+                              ('贴标', '贴标'), ('每箱数量', '每箱数量'),
                               ('交期', '交期'), ('打样', '打样'), ('开票点数', '开票'), ('定制', '定制')]:
             v = said(field)
             if v:
@@ -139,6 +140,13 @@ for x in queue:
                 else:
                     value = str(v['值'])
                 add(序, offer, seller, target, value, v['原话'], link, v.get('时间', ''), '询盘回复')
+        for field in ('实拍图', '视频'):
+            fact=said(field)
+            if not fact:continue
+            values=media_values(fact,B,offer,field)
+            for value in values:
+                add(序,offer,seller,field,value,fact['原话'],link,fact.get('时间',''),'询盘回复')
+            if not values:print(f'影像证据待补取|{x["id"]}|{field}仅有文字状态，原始报价保留，不发送无效字段')
         confirmed=said('匹配确认')
         if confirmed and confirmed['值'] in ('完全匹配','不匹配'):
             spec='；'.join(k.get('规格','') for k in x['对应款'] if k['序']==序)

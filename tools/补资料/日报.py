@@ -12,8 +12,8 @@ import json, re, sys
 from pathlib import Path
 sys.path.insert(0, str(Path(__file__).resolve().parents[1] / 'lib'))
 from base import CACHE, batch_dirs, now_bj
-from workflow_backlog import snapshot
 from base import ROOT
+from inquiry_reporting import identity_index, humanize_line
 
 D = now_bj().strftime('%Y-%m-%d')
 F = CACHE / f'buziliao_day_{D}.json'
@@ -30,14 +30,15 @@ elif cmd == 'round':
     for k, v in re.findall(r'(\S+?)=(\d+)', m.group(1) if m else ''):
         if k in st:
             st[k] += int(v)
-    new = [l.strip() for l in text.splitlines() if l.strip().startswith('要你定：') and l.strip() not in st['要你定']]
+    new = list(dict.fromkeys(l.strip() for l in text.splitlines() if l.strip().startswith('要你定：') and l.strip() not in st['要你定']))
     st['要你定'] += new
     stop = [l.strip() for l in text.splitlines() if l.strip().startswith('⚠')]
     F.write_text(json.dumps(st, ensure_ascii=False), encoding='utf-8')
     hm = now_bj().strftime('%H:%M')
     out = stop[:1] + new
     if out:
-        print(f'补资料 {hm}\n' + '\n'.join(out))
+        index=identity_index(ROOT)
+        print(f'补资料 {hm}\n' + '\n'.join(humanize_line(line,index) for line in out))
 elif cmd == 'daily':
     r1 = rp = 0
     for b in batch_dirs():
@@ -50,14 +51,17 @@ elif cmd == 'daily':
                     rp += x.get('轮次') != 'R1'
     left = sum(1 for x in json.loads((Path(__file__).resolve().parents[2] / 'batches/补资料/queue.json').read_text(encoding='utf-8')) if x['状态'] == '待发R1')
     lines = [f'补资料日报 {D[5:]}',
-             f'发询盘 {r1} 家，跟进回复 {rp} 条；队列还剩 {left} 家',
-             f"收到回复 {st['新回复']} 家，记到单价 {st['单价']} 家、包装尺寸 {st['尺寸']} 家，推到网站 {st['推网站']} 条"]
-    backlog=snapshot(ROOT,CACHE,now_bj())
-    stages=backlog['统计']
-    lines.append('资料进度：'+ '，'.join(k+str(stages.get(k,0)) for k in ['确认同款','补包装','补贴标等资料','补图片视频报价','资料收集完成']))
-    lines.append('积压出口：待补主图'+str(stages.get('待补主图',0))+'，待核实'+str(stages.get('待核实',0))+'，超72小时'+str(backlog['超72小时']))
-    decisions=json.loads((CACHE/'workflow_decisions.json').read_text(encoding='utf-8'))['分类']
-    if decisions:lines.append('集中决策：'+'，'.join(k+str(len(v))+'项' for k,v in decisions.items()))
-    asks = [a.replace('要你定：', '', 1) for a in st['要你定']]
-    lines += [f'今天要你定的 {len(asks)} 件：'] + [f'{i}. {a}' for i, a in enumerate(asks, 1)] if asks else ['今天没有要你定的事']
+             f'今日新发询盘 {r1} 条，发出跟进 {rp} 条；待首次发送 {left} 条',
+             f"今日处理回复/续审 {st['新回复']} 次（含同商家多轮），记录单价 {st['单价']} 次、包装 {st['尺寸']} 次；网站新增复核 {st['推网站']} 条"]
+    cloud_file=CACHE/'inquiry_cloud_state.json'
+    tasks=json.loads(cloud_file.read_text(encoding='utf-8')).get('tasks',[]) if cloud_file.exists() else []
+    needs=[t for t in tasks if t.get('status') in ('needs_human','blocked')]
+    pending=[t for t in tasks if t.get('status') in ('answered','queued','working','waiting_send')]
+    done=[t for t in tasks if t.get('status')=='done' and str(t.get('updatedAt',''))[:10]==D]
+    if tasks:
+        lines.append(f'网站当前：待同事处理 {len(needs)} 项，已提交待AI续接 {len(pending)} 项，今日已执行 {len(done)} 项')
+        for task in needs[:3]:
+            lines.append(task['product']['cw']+' '+task['product']['name']+' · '+task['supplier']['name']+'：'+task['question'][:100]+' · https://ataous.com/inquiry/?task='+task['id'])
+    else:lines.append('网站待办状态尚未刷新，请打开待办页查看实时进度。')
+    lines.append('查看全部待办、聊天与图片并提交意见：https://ataous.com/inquiry/')
     print('\n'.join(lines))

@@ -8,6 +8,8 @@ from port import HIDDEN, require
 
 
 def enqueue(cache, feed):
+    if not feed.get('撤回批次') and not any(feed.get(k) for k in ('条目','拉取','现价')):
+        return None
     identity={k:v for k,v in feed.items() if k!='生成时间'}
     ident=fingerprint(identity)+'.json'
     target=Path(cache)/'review_outbox'/ident
