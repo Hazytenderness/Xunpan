@@ -1,0 +1,933 @@
+{
+  "date": "2026-10-20",
+  "scope": 45,
+  "sent_messages": 36,
+  "sent_products": 38,
+  "skipped_products": 7,
+  "prior_followup_messages": 8,
+  "additional_followup_messages": 3,
+  "total_explicit_sent_messages": 47,
+  "verification": "36条本批首询均编辑器已清空且发送正文出现在self回显；所有附加消息分别有发送前读取及回显。平台自动领券消息不计入主动发送数。",
+  "files": [
+    "authorized_followups_20261020.json",
+    "authorized_new_inquiries_20261020_part2.json",
+    "authorized_new_inquiries_reply_read.json",
+    "authorized_followup1141_thickness.json",
+    "authorized_followup2932_20d.json",
+    "authorized_followup2092_weight.json"
+  ],
+  "products": [
+    {
+      "id": 76,
+      "status": "pending",
+      "sent": true,
+      "offer": "929940397989",
+      "wangwang": "南通晓星尘家纺",
+      "message": "您好，先核您链接929940397989的云朵白120×200cm床垫护垫，按4条一套销售。请确认有没有四角松紧带；请给4条折叠装好销售包装后的长、宽、高（厘米）和含包装总重量（克），普通袋装即可，并报500套出厂不含税运单套价，仅作询价。",
+      "fact_state": "pending",
+      "reason": "已发送并核实回显，回读尚无具体包装回复；不重复催问。",
+      "merchant_reply": [
+        {
+          "class": "content-row",
+          "images": [],
+          "text": "南通晓星尘家纺:小瑞\n2026-10-20 14:11:29\n稍等一下哦宝 这边为您转接专员 和您详聊一下哦"
+        },
+        {
+          "class": "content-row",
+          "images": [],
+          "text": "南通晓星尘家纺:小瑞\n2026-10-20 14:21:30\n亲亲，喜欢就尽快拍下吧，有什么问题都可以咨询我哦，么么哒~"
+        },
+        {
+          "class": "content-row",
+          "images": [],
+          "text": "南通晓星尘家纺:小瑞\n2026-10-20 14:21:30\n暂不支持的消息类型"
+        }
+      ],
+      "image_urls": []
+    },
+    {
+      "id": 404,
+      "status": "replied",
+      "sent": true,
+      "offer": "1074633251746",
+      "wangwang": "田争彪贸易",
+      "message": "您好，询问链接1074633251746的折叠免安装3层芭比粉【扶手＋金属轮子】款，单台销售。请确认展开尺寸是否46×30×93cm，并给单台折叠装好销售包装后的长宽高（厘米）、含包装重量（克），以及500台出厂不含税运单价，仅作询价。",
+      "fact_state": "unavailable_parameters",
+      "reason": "商家称没这个参数，未报实际尺寸，不能认定目标46×30×93可供。",
+      "merchant_reply": [
+        {
+          "class": "content-row",
+          "images": [],
+          "text": "田争彪贸易\n2026-10-20 14:09:17\n抱歉亲，没这个参数"
+        }
+      ],
+      "image_urls": []
+    },
+    {
+      "id": 638,
+      "status": "pending",
+      "sent": true,
+      "offer": "1055795426815",
+      "wangwang": "文莺户外运动用品",
+      "message": "您好，询问链接1055795426815的“办公室隔断屏风小4片-黑色”，一套4扇。请确认展开是否高183cm、总宽224cm；请给一整套折叠装好销售包装后的长宽高（厘米）、含包装重量（克），及500套出厂不含税运单价，仅作询价。",
+      "fact_state": "pending",
+      "reason": "已发送并核实回显，回读尚无具体包装回复；不重复催问。",
+      "merchant_reply": [
+        {
+          "class": "content-row",
+          "images": [],
+          "text": "文莺户外运动用品:小心\n2026-10-20 14:08:37\n暂不支持的消息类型"
+        },
+        {
+          "class": "content-row",
+          "images": [],
+          "text": "文莺户外运动用品:小心\n2026-10-20 14:09:11\n您好"
+        }
+      ],
+      "image_urls": []
+    },
+    {
+      "id": 816,
+      "status": "pending",
+      "sent": true,
+      "offer": "949658379190",
+      "wangwang": "梦雅地毯厂",
+      "message": "您好，先核您链接949658379190的乳白色140×200cm记忆棉地毯，单条销售。目标原规格130×185cm、厚25mm，您这款尺寸有差异，请确认实际厚度；先给您140×200这款折叠装好销售包装后的长宽高（厘米）、含包装重量（克）和500条出厂不含税运单价，仅作询价。",
+      "fact_state": "pending",
+      "reason": "已发送并核实回显，回读尚无具体包装回复；不重复催问。",
+      "merchant_reply": [
+        {
+          "class": "content-row",
+          "images": [],
+          "text": "梦雅地毯厂\n2026-10-20 14:13:37\n暂不支持的消息类型"
+        }
+      ],
+      "image_urls": []
+    },
+    {
+      "id": 915,
+      "status": "replied",
+      "sent": true,
+      "offer": "733500907132",
+      "wangwang": "云霞包装工厂",
+      "message": "您好，询问链接733500907132大团扇24×33cm，能否做白色空白上质纸扇面、塑料扇骨、无印刷的DIY款？若能，按50把一套销售，请给50把装好后的销售包装长宽高（厘米）、含包装重量（克）和500套出厂不含税运单套价。若仅有PP塑料扇面请说明，仅作询价。",
+      "fact_state": "partial",
+      "reason": "商家回复可以的，尚无包装尺寸重量和正式价。",
+      "merchant_reply": [
+        {
+          "class": "content-row",
+          "images": [],
+          "text": "云霞包装工厂:小云\n2026-10-20 14:11:41\n暂不支持的消息类型"
+        },
+        {
+          "class": "content-row",
+          "images": [],
+          "text": "云霞包装工厂:小云\n2026-10-20 14:12:22\n可以的 "
+        }
+      ],
+      "image_urls": []
+    },
+    {
+      "id": 917,
+      "status": "replied",
+      "sent": true,
+      "offer": "634799525603",
+      "wangwang": "诸暨市蓝鲸贸易有限公司",
+      "message": "您好，先核链接634799525603白色纯棉68×34cm洗脸巾，按3条一套销售，不加品牌标志。请问可否配礼盒和手提纸袋？请给3条装好后的销售包装长宽高（厘米）、含包装总重量（克）和500套出厂不含税运价；如只有普通袋装请按袋装说明，仅作询价。",
+      "fact_state": "unavailable",
+      "reason": "商家称做不了、都是洁丽雅品牌，不能供已问无品牌白毛巾方案。",
+      "merchant_reply": [
+        {
+          "class": "content-row",
+          "images": [],
+          "text": "诸暨市蓝鲸贸易有限公司\n2026-10-20 14:13:44\n做不了呢"
+        },
+        {
+          "class": "content-row",
+          "images": [],
+          "text": "诸暨市蓝鲸贸易有限公司\n2026-10-20 14:13:49\n我们都是有洁丽雅品牌的"
+        }
+      ],
+      "image_urls": []
+    },
+    {
+      "id": 1047,
+      "status": "skipped",
+      "reason": "最新已核3候选普通42cm或普通花头，不符108cm巨型非洲菊；另3旧候选未有明确SKU/尺寸，未盲发，需核新候选页面或有效货源。"
+    },
+    {
+      "id": 1560,
+      "status": "replied",
+      "sent": true,
+      "offer": "1051376353854",
+      "wangwang": "菏泽双林木制品有限公司",
+      "message": "您好，这次另核链接1051376353854的伞架18孔10钩黑色款，单台销售，与前面夹缝推车不同。请给这款伞架装好销售包装后的长宽高（厘米）、含包装重量（克）及500台出厂不含税运单价，仅作询价。目标原为36孔Z架，您现有X架18孔的差异已记下，先按现有款核。",
+      "fact_state": "needs_reference",
+      "reason": "商家要求发链接，需发送offer商品卡；前文旧聊天为夹缝推车43×24×24cm1500g，不能用于伞架。",
+      "merchant_reply": [
+        {
+          "class": "content-row",
+          "images": [],
+          "text": "菏泽双林木制品有限公司:月儿\n2026-10-20 14:20:15\n暂不支持的消息类型"
+        },
+        {
+          "class": "content-row",
+          "images": [],
+          "text": "菏泽双林木制品有限公司:月儿\n2026-10-20 14:20:59\n发链接"
+        }
+      ],
+      "image_urls": []
+    },
+    {
+      "id": 1570,
+      "status": "pending",
+      "sent": true,
+      "offer": "1056510608882",
+      "wangwang": "瑞格地毯厂",
+      "message": "您好，询问链接1056510608882的灰色40×60cm回字框图案软硅藻泥浴室地垫，单块销售。请给单块卷好/折好装袋后的长、宽、高（厘米）和含包装重量（克），普通袋装即可；请确认灰色现货可供。",
+      "fact_state": "pending",
+      "reason": "已发送并核实回显，回读尚无具体包装回复；不重复催问。",
+      "merchant_reply": [
+        {
+          "class": "content-row",
+          "images": [],
+          "text": "瑞格地毯厂\n2026-10-20 14:21:51\n暂不支持的消息类型"
+        }
+      ],
+      "image_urls": []
+    },
+    {
+      "id": 1733,
+      "status": "pending",
+      "sent": true,
+      "offer": "788599741716",
+      "wangwang": "曹县品然工艺品",
+      "message": "您好，先核链接788599741716亚麻色11cm圆杯垫，按6片一套销售。请确认能否配同材质收纳筐；请给6片连筐装好后的销售包装长宽高（厘米）、含包装重量（克）和500套不含税运价；如果不能配筐，请明确按6片不带筐的数据回复，仅作询价。",
+      "fact_state": "pending",
+      "reason": "已发送并核实回显，回读尚无具体包装回复；不重复催问。",
+      "merchant_reply": [
+        {
+          "class": "content-row",
+          "images": [],
+          "text": "曹县品然工艺品:pr04\n2026-10-20 14:13:04\n暂不支持的消息类型"
+        },
+        {
+          "class": "content-row",
+          "images": [],
+          "text": "曹县品然工艺品:pr04\n2026-10-20 14:15:04\n暂不支持的消息类型"
+        }
+      ],
+      "image_urls": []
+    },
+    {
+      "id": 1793,
+      "status": "pending",
+      "sent": true,
+      "offer": "642419776523",
+      "wangwang": "漳州柒哦宠物用品有限公司",
+      "message": "您好，这次另核链接642419776523的定位排便诱导剂120ml，单瓶销售，和之前电动玩具无关。请给这款单瓶装好销售包装后的长宽高（厘米）、含包装重量（克）和500瓶出厂不含税运单价，仅作询价；请注明产地及是否有添加香精。",
+      "fact_state": "pending",
+      "reason": "已发送并核实回显，回读尚无具体包装回复；不重复催问。",
+      "merchant_reply": [],
+      "image_urls": []
+    },
+    {
+      "id": 1870,
+      "status": "replied",
+      "sent": true,
+      "offer": "799673125112",
+      "wangwang": "东阳俊琪",
+      "message": "您好，询问链接799673125112自粘猫抓贴，米白色100×60cm、厚4mm，单片销售。请补单片卷好装袋后的长、宽、高（厘米）及含包装重量（克），普通OPP袋即可。",
+      "fact_state": "partial",
+      "reason": "回复240g及包装加0.5元/卷；包装尺寸未回复。",
+      "merchant_reply": [
+        {
+          "class": "content-row",
+          "images": [],
+          "text": "东阳俊琪\n2026-10-20 14:08:54\n暂不支持的消息类型"
+        },
+        {
+          "class": "content-row",
+          "images": [],
+          "text": "东阳俊琪\n2026-10-20 14:12:12\n包装加0.5元一卷哈"
+        },
+        {
+          "class": "content-row",
+          "images": [],
+          "text": "东阳俊琪\n2026-10-20 14:12:16\n240g"
+        }
+      ],
+      "image_urls": []
+    },
+    {
+      "id": 1894,
+      "status": "skipped",
+      "reason": "主代理已取得并采用已有完整包装；不重复询问，不自动不做。"
+    },
+    {
+      "id": 1895,
+      "status": "replied",
+      "sent": true,
+      "offer": "801167891991",
+      "wangwang": "锦晟浩达医疗用品",
+      "message": "您好，询问链接801167891991的【薄款】S码33×45cm尿垫，100片/包这款。目标按200片一套销售，请确认薄款颜色和是否7层；若可以，请提供200片装好后的销售包装长宽高（厘米）、含包装总重量（克），普通袋装即可，并报500套的出厂不含税运单套价，仅作询价。",
+      "fact_state": "partial",
+      "reason": "薄款蓝色；200片套装尺寸重量、7层未回复。",
+      "merchant_reply": [
+        {
+          "class": "content-row",
+          "images": [],
+          "text": "锦晟浩达医疗用品:婉婷\n2026-10-20 14:02:11\n店铺专享\n￥\n1\n满10可用\n有效期 01.01-12.31"
+        },
+        {
+          "class": "content-row",
+          "images": [],
+          "text": "锦晟浩达医疗用品:婉婷\n2026-10-20 14:02:49\n您好"
+        },
+        {
+          "class": "content-row",
+          "images": [],
+          "text": "锦晟浩达医疗用品:阿诺\n2026-10-20 14:03:23\n好的"
+        },
+        {
+          "class": "content-row",
+          "images": [],
+          "text": "锦晟浩达医疗用品:阿诺\n2026-10-20 14:03:31\n薄款尿垫为蓝色"
+        },
+        {
+          "class": "content-row",
+          "images": [],
+          "text": "锦晟浩达医疗用品:阿诺\n2026-10-20 14:13:31\n亲，宝贝已为您备好，现在下单优先发货哦！商品是有运费险的，不满意支持 7 天无理由退换！有任何问题都可以找我，24 小时在线为您服务～"
+        },
+        {
+          "class": "content-row",
+          "images": [],
+          "text": "锦晟浩达医疗用品:阿诺\n2026-10-20 14:13:31\n竹炭狗狗尿垫除臭加厚强吸水尿布一次性宠物隔尿垫猫咪尿片尿不湿\n￥1.75\n新人价\n¥\n1\n满20可用\n优惠下单"
+        }
+      ],
+      "image_urls": []
+    },
+    {
+      "id": 1902,
+      "status": "replied",
+      "sent": true,
+      "offer": "632626935362",
+      "wangwang": "xinyijf",
+      "message": "您好，先核链接632626935362宠物薄毯的黑色60×90cm规格，按5条一套销售。请给5条折叠装袋后的长宽高（厘米）、含包装总重量（克）和500套出厂不含税运单套价，普通OPP袋即可，仅作询价；并请确认该款是印花绒面还是纯色泡泡纹。",
+      "fact_state": "quantity_clarification",
+      "reason": "商家称500条做不了；本次实问500套×5条，应后续澄清2500条，未重复催。",
+      "merchant_reply": [
+        {
+          "class": "content-row",
+          "images": [],
+          "text": "xinyijf:黄海心\n2026-10-20 14:14:37\n你好"
+        },
+        {
+          "class": "content-row",
+          "images": [],
+          "text": "xinyijf:黄海心\n2026-10-20 14:16:52\n500条做不了"
+        }
+      ],
+      "image_urls": []
+    },
+    {
+      "id": 1905,
+      "status": "replied",
+      "sent": true,
+      "offer": "900698559667",
+      "wangwang": "山东得伴卫生用品有限公司",
+      "message": "您好，询问链接900698559667母狗款S码（建议2–4kg）一次性纸尿裤。目标需要能接住便便的裤型、14片一套，请先确认是否具备接便功能，还是只吸尿？若能接便并可14片装，请给14片销售包装长宽高（厘米）、含包装重量（克）和500套不含税运价，仅作询价。",
+      "fact_state": "custom_required",
+      "reason": "14片需定制，现常规母狗款10片/包，接便功能未答；不将吸尿裤当接便裤。",
+      "merchant_reply": [
+        {
+          "class": "content-row",
+          "images": [],
+          "text": "山东得伴卫生用品有限公司\n2026-10-20 14:20:25\n您好"
+        },
+        {
+          "class": "content-row",
+          "images": [],
+          "text": "山东得伴卫生用品有限公司\n2026-10-20 14:20:49\n亲，这个需要定制的"
+        },
+        {
+          "class": "content-row",
+          "images": [],
+          "text": "山东得伴卫生用品有限公司\n2026-10-20 14:21:00\n咱这边一般没有14片一包的"
+        },
+        {
+          "class": "content-row",
+          "images": [],
+          "text": "山东得伴卫生用品有限公司\n2026-10-20 14:21:49\n母狗款一般是10片一包的"
+        }
+      ],
+      "image_urls": []
+    },
+    {
+      "id": 1926,
+      "status": "replied",
+      "sent": true,
+      "offer": "1042945589627",
+      "wangwang": "谨晓宠物用品厂",
+      "message": "您好，询问链接1042945589627的榉木不倒翁：可爱熊彩色羽毛1个＋可爱熊简约款（熊帽扭扭款）1个，组合2个一套销售。请给这一套装进销售袋后的长、宽、高（厘米）和含包装总重量（克），普通OPP袋即可；请确认两款均可供货。",
+      "fact_state": "partial",
+      "reason": "商家表为单个6×6×14cm、毛重41g（净40g），两款一行；2个合装尺寸重量未给，不能直接倍乘尺寸。",
+      "merchant_reply": [
+        {
+          "class": "content-row",
+          "images": [],
+          "text": "谨晓宠物用品厂:恒\n2026-10-20 14:02:36\n暂不支持的消息类型"
+        },
+        {
+          "class": "content-row",
+          "images": [],
+          "text": "谨晓宠物用品厂:恒\n2026-10-20 14:03:03\n您好"
+        },
+        {
+          "class": "content-row",
+          "images": [
+            "https://img.alicdn.com/imgextra/i2/2217241657203/O1CN01ZRDSkD8dh5H3vSE8_!!2217241657203-2-ampmedia.png"
+          ],
+          "text": "谨晓宠物用品厂:恒\n2026-10-20 14:03:18\n预览"
+        }
+      ],
+      "image_urls": [
+        "https://img.alicdn.com/imgextra/i2/2217241657203/O1CN01ZRDSkD8dh5H3vSE8_!!2217241657203-2-ampmedia.png"
+      ]
+    },
+    {
+      "id": 1932,
+      "status": "skipped",
+      "reason": "现有有效标签候选实为免洗擦浴精华300ml/免洗泡沫400ml，目标为冲洗三合一香波约430ml，功能不同，未当合格包装候选发问。"
+    },
+    {
+      "id": 1942,
+      "status": "replied",
+      "sent": true,
+      "offer": "1081716785744",
+      "wangwang": "萌选宠物用品厂家",
+      "message": "您好，询问链接1081716785744的“麻布猫薄荷小鱼”剑麻鱼款，2个一套销售。请确认填充物是否能拆换；若可供，请给2个合装销售包装后的长、宽、高（厘米）和含包装总重量（克），普通OPP袋即可，并报500套不含税运单套价，仅作询价。",
+      "fact_state": "complete",
+      "reason": "两个一套22×8×5cm、约80g、8元/套；填充不可拆卸，保留与目标可替换填充的差异。",
+      "merchant_reply": [
+        {
+          "class": "content-row",
+          "images": [],
+          "text": "萌选宠物用品厂家\n2026-10-20 14:18:51\n填充物不可拆卸。两个装一套。22×8×5公分80克左右。"
+        },
+        {
+          "class": "content-row",
+          "images": [],
+          "text": "萌选宠物用品厂家\n2026-10-20 14:19:06\n8元一套"
+        }
+      ],
+      "image_urls": []
+    },
+    {
+      "id": 2053,
+      "status": "replied",
+      "sent": true,
+      "offer": "1036391948277",
+      "wangwang": "曹县晨迦工艺品",
+      "message": "您好，询问链接1036391948277的猫咪款原木色踏板【12.5×10.5×21cm】，带毛毡防滑垫，3个一套销售。请确认能否配齐安装件及逗猫球；若可供，请给3个完整配件合装后的销售包装长宽高（厘米）、含包装总重量（克），并报500套不含税运单套价，仅作询价。",
+      "fact_state": "needs_reference",
+      "reason": "商家问有图片吗；已发明确offer和SKU，但需再发送商品卡/图定位。",
+      "merchant_reply": [
+        {
+          "class": "content-row",
+          "images": [],
+          "text": "曹县晨迦工艺品\n2026-10-20 14:05:26\n有图片吗  亲"
+        }
+      ],
+      "image_urls": []
+    },
+    {
+      "id": 2057,
+      "status": "pending",
+      "sent": true,
+      "offer": "634100864508",
+      "wangwang": "华创宠物用品",
+      "message": "您好，先核链接634100864508狗鞋的黑色九孔透气款1码（建议6斤内），按4只一套销售。请确认一套确为4只，并给4只装好销售包装后的长宽高（厘米）、含包装总重量（克）和500套出厂不含税运单套价。按您现有黑色低帮款核数据，仅作询价。",
+      "fact_state": "pending",
+      "reason": "已发送并核实回显，回读尚无具体包装回复；不重复催问。",
+      "merchant_reply": [],
+      "image_urls": []
+    },
+    {
+      "id": 2088,
+      "status": "pending",
+      "sent": true,
+      "offer": "829735751030",
+      "wangwang": "乐茜宠物",
+      "message": "您好，先核链接829735751030宠物套头衫姜黄色M码现有纯色款，单件销售。请给M码胸围背长及单件折叠装袋后的长宽高（厘米）、含袋重量（克），普通OPP袋即可，并报500件出厂不含税运单价，仅作询价；请注明里布是否毛圈。",
+      "fact_state": "pending",
+      "reason": "已发送并核实回显，回读尚无具体包装回复；不重复催问。",
+      "merchant_reply": [],
+      "image_urls": []
+    },
+    {
+      "id": 2092,
+      "status": "replied",
+      "sent": true,
+      "offer": "649287057018",
+      "wangwang": "zzy1366243290",
+      "message": "您好，先核链接649287057018灰色M号85×85×10cm可拆洗狗床，单个销售。请给单个压缩或折叠装好销售包装后的长宽高（厘米）、含包装重量（克）和500个出厂不含税运单价，仅作询价；请说明采用压缩还是普通袋装。",
+      "fact_state": "partial",
+      "reason": "M普通袋装60×43×10、500个不含税运33元；附图确为完整透明袋装狗床，无尺秤；重量缺失，M与原85×85展开规格关系待核。",
+      "merchant_reply": [
+        {
+          "class": "content-row",
+          "images": [],
+          "text": "zzy1366243290:wdc18964\n2026-10-20 14:15:39\n好的  "
+        },
+        {
+          "class": "content-row",
+          "images": [],
+          "text": "zzy1366243290:wdc18964\n2026-10-20 14:18:41\nM 60*43*10    普通袋装   500个出厂不含税运单价33元   "
+        },
+        {
+          "class": "content-row",
+          "images": [
+            "https://img.alicdn.com/imgextra/i4/988150125/O1CN01scovlMVpDmE11wrU_!!988150125-2-ampmedia.png"
+          ],
+          "text": "zzy1366243290:wdc18964\n2026-10-20 14:18:41\n预览"
+        }
+      ],
+      "image_urls": [
+        "https://img.alicdn.com/imgextra/i4/988150125/O1CN01scovlMVpDmE11wrU_!!988150125-2-ampmedia.png"
+      ]
+    },
+    {
+      "id": 2122,
+      "status": "replied",
+      "sent": true,
+      "offer": "1068111280400",
+      "wangwang": "科澳毛毡制品",
+      "message": "您好，询问链接1068111280400的30cm羊毛棉签棒猫玩具，内置猫薄荷，单个销售。请给单个装好销售包装后的长、宽、高（厘米）、含包装重量（克），普通OPP袋即可，并报500个出厂不含税运单价，仅作询价。",
+      "fact_state": "ambiguous",
+      "reason": "单独回复18，未标价/尺寸/重量单位，不采用。",
+      "merchant_reply": [
+        {
+          "class": "content-row",
+          "images": [],
+          "text": "科澳毛毡制品\n2026-10-20 14:09:03\n暂不支持的消息类型"
+        },
+        {
+          "class": "content-row",
+          "images": [],
+          "text": "科澳毛毡制品\n2026-10-20 14:09:27\n18"
+        }
+      ],
+      "image_urls": []
+    },
+    {
+      "id": 2158,
+      "status": "replied",
+      "sent": true,
+      "offer": "677767450064",
+      "wangwang": "鸿森家居用品",
+      "message": "您好，先核链接677767450064的两种收纳箱，分别按4个带盖一套销售：①透明15# 34×24.5×19cm；②透橙标准小号8L 28×20×17cm。请分别给每种4个装好销售包装后的长宽高（厘米）、含包装总重量（克）和500套出厂不含税运单套价；请注明是否套叠包装，仅作询价。",
+      "fact_state": "needs_reference",
+      "reason": "商家问看哪个款，需发送同一offer商品卡；两规格已分别写明，包装未给。",
+      "merchant_reply": [
+        {
+          "class": "content-row",
+          "images": [],
+          "text": "鸿森家居用品:洛丹\n2026-10-20 14:16:02\n您好 "
+        },
+        {
+          "class": "content-row",
+          "images": [],
+          "text": "鸿森家居用品:洛丹\n2026-10-20 14:16:33\n您看的是哪个款？"
+        }
+      ],
+      "image_urls": []
+    },
+    {
+      "id": 2159,
+      "status": "replied",
+      "sent": true,
+      "offer": "677767450064",
+      "wangwang": "鸿森家居用品",
+      "message": "您好，先核链接677767450064的两种收纳箱，分别按4个带盖一套销售：①透明15# 34×24.5×19cm；②透橙标准小号8L 28×20×17cm。请分别给每种4个装好销售包装后的长宽高（厘米）、含包装总重量（克）和500套出厂不含税运单套价；请注明是否套叠包装，仅作询价。",
+      "fact_state": "needs_reference",
+      "reason": "与2158合并问；商家问看哪个款，包装未给。",
+      "merchant_reply": [
+        {
+          "class": "content-row",
+          "images": [],
+          "text": "鸿森家居用品:洛丹\n2026-10-20 14:16:02\n您好 "
+        },
+        {
+          "class": "content-row",
+          "images": [],
+          "text": "鸿森家居用品:洛丹\n2026-10-20 14:16:33\n您看的是哪个款？"
+        }
+      ],
+      "image_urls": []
+    },
+    {
+      "id": 2234,
+      "status": "pending",
+      "sent": true,
+      "offer": "559986158173",
+      "wangwang": "卓越支架",
+      "message": "您好，先核链接559986158173木制画架的12寸高30厘米款，单个销售。请确认可支撑约30–48cm相框吗？请给单个折叠装好销售包装后的长宽高（厘米）、含包装重量（克）及500个出厂不含税运单价，仅作询价。",
+      "fact_state": "pending",
+      "reason": "已发送并核实回显，回读尚无具体包装回复；不重复催问。",
+      "merchant_reply": [],
+      "image_urls": []
+    },
+    {
+      "id": 2238,
+      "status": "pending",
+      "sent": true,
+      "offer": "800847689259",
+      "wangwang": "地毯地垫厂家直销",
+      "message": "您好，先核链接800847689259雪尼尔浴室地垫米黄色40×60cm，按5块一套销售；这次按您现有40×60规格核，不按45×60。请给5块折叠装袋后的长宽高（厘米）、含包装总重量（克）及500套出厂不含税运单套价，普通袋装即可，仅作询价。",
+      "fact_state": "pending",
+      "reason": "已发送并核实回显，回读尚无具体包装回复；不重复催问。",
+      "merchant_reply": [],
+      "image_urls": []
+    },
+    {
+      "id": 2410,
+      "status": "replied",
+      "sent": true,
+      "offer": "1059223091840",
+      "wangwang": "currytowel",
+      "message": "您好，先核链接1059223091840现有心形提花浴巾70×140cm，有两种销售组合：①米白色3条一套；②灰色4条一套。请分别给每套折叠装袋后的长宽高（厘米）、含袋总重量（克）及500套出厂不含税运单套价，普通OPP袋即可，仅作询价。请同时确认是否有60×120cm款及圆点提花款。",
+      "fact_state": "needs_reference",
+      "reason": "商家问圆点有图片吗；米白3条及灰色4条心形候选包装均未给。",
+      "merchant_reply": [
+        {
+          "class": "content-row",
+          "images": [],
+          "text": "currytowel\n2026-10-20 14:17:24\n在"
+        },
+        {
+          "class": "content-row",
+          "images": [],
+          "text": "currytowel\n2026-10-20 14:17:52\n圆点的有图片吗"
+        }
+      ],
+      "image_urls": []
+    },
+    {
+      "id": 2429,
+      "status": "pending",
+      "sent": true,
+      "offer": "44928069670",
+      "wangwang": "梦恰家纺厂",
+      "message": "您好，先核链接44928069670白色45×45cm、300g枕芯，单个销售。请确认这款是否能整只水洗；目标43×43cm可水洗款，若有请说明。先给您现有45×45款压缩/装袋后的长宽高（厘米）、含包装重量（克）及500个不含税运单价，仅作询价。",
+      "fact_state": "pending",
+      "reason": "已发送并核实回显，回读尚无具体包装回复；不重复催问。",
+      "merchant_reply": [
+        {
+          "class": "content-row",
+          "images": [],
+          "text": "梦恰家纺厂:小额批发\n2026-10-20 14:16:53\n💐您好亲，很高兴为您服务。记得枕芯要比枕套大5cm哦  📣"
+        },
+        {
+          "class": "content-row",
+          "images": [],
+          "text": "梦恰家纺厂:小额批发\n2026-10-20 14:17:48\n你好"
+        },
+        {
+          "class": "content-row",
+          "images": [],
+          "text": "梦恰家纺厂:小额批发\n2026-10-20 14:17:50\n稍等"
+        }
+      ],
+      "image_urls": []
+    },
+    {
+      "id": 2436,
+      "status": "replied",
+      "sent": true,
+      "offer": "1075769605950",
+      "wangwang": "棉花唐纱布",
+      "message": "您好，先核链接1075769605950白色30×30cm六层纱布方巾，目标按10条一套销售，不按页面12条装。请确认能否10条装，并给10条装袋后的长宽高（厘米）、含袋总重量（克）及500套出厂不含税运单套价，普通OPP袋即可。另问是否有34×35cm白色毛圈方巾，仅作询价。",
+      "fact_state": "complete",
+      "reason": "已问30×30cm白色六层纱布10条装，回复35×35×5cm、310g左右、22.5元/套；不得当34×35cm毛圈目标原款。",
+      "merchant_reply": [
+        {
+          "class": "content-row",
+          "images": [],
+          "text": "棉花唐纱布:佳佳\n2026-10-20 14:17:07\n欢迎光临，本店小件默认发中通快递。 大件默认发安能物流 ，百世快运，韵达快运。 源头工厂，一手货源，备货充足，一般发货时间48h， 支持一件代发，加工定制，跨境入仓（代贴条码）。"
+        },
+        {
+          "class": "content-row",
+          "images": [],
+          "text": "棉花唐纱布:佳佳\n2026-10-20 14:17:56\n好"
+        },
+        {
+          "class": "content-row",
+          "images": [],
+          "text": "棉花唐纱布:佳佳\n2026-10-20 14:20:42\n10条装35*35*5 310克左右22.5元一套 10条装"
+        }
+      ],
+      "image_urls": []
+    },
+    {
+      "id": 2441,
+      "status": "replied",
+      "sent": true,
+      "offer": "1059223091840",
+      "wangwang": "currytowel",
+      "message": "您好，先核链接1059223091840现有心形提花浴巾70×140cm，有两种销售组合：①米白色3条一套；②灰色4条一套。请分别给每套折叠装袋后的长宽高（厘米）、含袋总重量（克）及500套出厂不含税运单套价，普通OPP袋即可，仅作询价。请同时确认是否有60×120cm款及圆点提花款。",
+      "fact_state": "needs_reference",
+      "reason": "商家问圆点有图片吗；需提供目标圆点图；已问的灰色4条心形为近似方案。",
+      "merchant_reply": [
+        {
+          "class": "content-row",
+          "images": [],
+          "text": "currytowel\n2026-10-20 14:17:24\n在"
+        },
+        {
+          "class": "content-row",
+          "images": [],
+          "text": "currytowel\n2026-10-20 14:17:52\n圆点的有图片吗"
+        }
+      ],
+      "image_urls": []
+    },
+    {
+      "id": 2444,
+      "status": "skipped",
+      "reason": "已有候选全部核为不匹配，需有效新货源，不向无效候选重复发。"
+    },
+    {
+      "id": 2503,
+      "status": "pending",
+      "sent": true,
+      "offer": "785322750720",
+      "wangwang": "xueshi001",
+      "message": "您好，先核链接785322750720“钢网-约11cm外径”不锈钢排水过滤网，单个销售。请给单个装好销售包装后的长宽高（厘米）、含包装重量（克）及500个出厂不含税运单价，仅作询价。我们目标是宽边平盖板配网篮，请说明您此规格是否为完整盖板加网篮。",
+      "fact_state": "pending",
+      "reason": "已发送并核实回显，回读尚无具体包装回复；不重复催问。",
+      "merchant_reply": [
+        {
+          "class": "content-row",
+          "images": [],
+          "text": "xueshi001\n2026-10-20 14:17:19\n暂不支持的消息类型"
+        },
+        {
+          "class": "content-row",
+          "images": [],
+          "text": "xueshi001\n2026-10-20 14:21:45\n工厂批发实价，已经是最低供货价，可以提交订单让客服看看运费!"
+        }
+      ],
+      "image_urls": []
+    },
+    {
+      "id": 2537,
+      "status": "skipped",
+      "reason": "已有候选全部核为不匹配，需有效新货源，不向无效候选重复发。"
+    },
+    {
+      "id": 2586,
+      "status": "replied",
+      "sent": true,
+      "offer": "1028444902989",
+      "wangwang": "义乌市荣欣家居",
+      "message": "您好，询问链接1028444902989的【顶装】免打孔自粘滑轨（送工具）1.0米白色款，单根一套。请确认是否包含S钩和迷你锯，并提供含全部随附配件装好销售包装后的长、宽、高（厘米）及含包装总重量（克）。",
+      "fact_state": "needs_clarification",
+      "reason": "商家问迷你锯是什么；包装尺寸重量未回复，迷你锯即裁切轨道小手锯。",
+      "merchant_reply": [
+        {
+          "class": "content-row",
+          "images": [],
+          "text": "义乌市荣欣家居:小新\n2026-10-20 14:04:21\n暂不支持的消息类型"
+        },
+        {
+          "class": "content-row",
+          "images": [],
+          "text": "义乌市荣欣家居:小新\n2026-10-20 14:05:15\n迷你锯是什么"
+        }
+      ],
+      "image_urls": []
+    },
+    {
+      "id": 2684,
+      "status": "pending",
+      "sent": true,
+      "offer": "1019799862610",
+      "wangwang": "南通吾喜欢家纺有限公司",
+      "message": "您好，询问链接1019799862610的彩云灰【凉感面料＋锌离子抑菌＋可水洗】100×200cm单床垫。请确认能否双面使用、是否4层结构；请给单条折叠装好销售包装后的长宽高（厘米）、含包装重量（克），普通袋装即可，及500条出厂不含税运单价，仅作询价。",
+      "fact_state": "pending",
+      "reason": "已发送并核实回显，回读尚无具体包装回复；不重复催问。",
+      "merchant_reply": [
+        {
+          "class": "content-row",
+          "images": [],
+          "text": "南通吾喜欢家纺有限公司:艾薇儿\n2026-10-20 14:09:48\n在的呢 亲"
+        },
+        {
+          "class": "content-row",
+          "images": [],
+          "text": "南通吾喜欢家纺有限公司:艾薇儿\n2026-10-20 14:10:27\n亲亲    这边帮您问下哈 "
+        },
+        {
+          "class": "content-row",
+          "images": [],
+          "text": "南通吾喜欢家纺有限公司\n2026-10-20 14:10:55\n你好"
+        },
+        {
+          "class": "content-row",
+          "images": [],
+          "text": "南通吾喜欢家纺有限公司\n2026-10-20 14:20:55\n亲，库存不多，喜欢就不要错过哦！"
+        },
+        {
+          "class": "content-row",
+          "images": [],
+          "text": "南通吾喜欢家纺有限公司\n2026-10-20 14:20:55\n暂不支持的消息类型"
+        }
+      ],
+      "image_urls": []
+    },
+    {
+      "id": 2780,
+      "status": "replied",
+      "sent": true,
+      "offer": "1025406221029",
+      "wangwang": "畅悦纺织品加工厂",
+      "message": "您好，先核链接1025406221029灰色浴巾70×130cm，按5条一套销售。请给5条折叠装袋后的长宽高（厘米）、含袋总重量（克）及500套出厂不含税运单套价，普通OPP袋即可，仅作询价。目标原为60×120cm，如果有该尺寸请说明，不能将两规格混用。",
+      "fact_state": "unavailable",
+      "reason": "商家明确灰色没有货了，未追加重复询问。",
+      "merchant_reply": [
+        {
+          "class": "content-row",
+          "images": [],
+          "text": "畅悦纺织品加工厂\n2026-10-20 14:18:24\n灰色没有货了"
+        }
+      ],
+      "image_urls": []
+    },
+    {
+      "id": 2811,
+      "status": "replied",
+      "sent": true,
+      "offer": "950187332331",
+      "wangwang": "jshanyao",
+      "message": "您好，询问链接950187332331“冰凉湿巾一包”，我们要单片60×20cm、每片独立包装、白麝香味，24片一套。请确认能否供这个规格；若能，请给24片装好后的销售包装长宽高（厘米）、含包装总重量（克）及500套出厂不含税运单套价，仅作询价；若不同请说明实际尺寸和香型。",
+      "fact_state": "unavailable_quantity",
+      "reason": "商家明确该数量做不了，包装数据未给。",
+      "merchant_reply": [
+        {
+          "class": "content-row",
+          "images": [],
+          "text": "jshanyao:zln\n2026-10-20 14:17:51\n暂不支持的消息类型"
+        },
+        {
+          "class": "content-row",
+          "images": [],
+          "text": "jshanyao:zln\n2026-10-20 14:18:14\n在的"
+        },
+        {
+          "class": "content-row",
+          "images": [],
+          "text": "jshanyao:zln\n2026-10-20 14:20:33\n老板，这个数量做不了哈"
+        }
+      ],
+      "image_urls": []
+    },
+    {
+      "id": 2884,
+      "status": "pending",
+      "sent": true,
+      "offer": "782386323443",
+      "wangwang": "汝康日用品厂",
+      "message": "您好，先核链接782386323443方形凝胶坐垫38×32×1.2cm，配网眼布套，单套销售。请确认能否折叠携带；请给含布套装好销售包装后的长宽高（厘米）、含包装重量（克）及500套出厂不含税运单套价，仅作询价。现有纯色布套即可，猫咪印花另待核。",
+      "fact_state": "pending",
+      "reason": "已发送并核实回显，回读尚无具体包装回复；不重复催问。",
+      "merchant_reply": [
+        {
+          "class": "content-row",
+          "images": [],
+          "text": "汝康日用品厂\n2026-10-20 14:18:07\n暂不支持的消息类型"
+        }
+      ],
+      "image_urls": []
+    },
+    {
+      "id": 3156,
+      "status": "skipped",
+      "reason": "与2932同旺旺同offer；正在核130×185cm厚25mm定制海绵方案，3156咖啡色130×190候选未混入，不重复同类催问，需独立规格后续。"
+    },
+    {
+      "id": 3298,
+      "status": "replied",
+      "sent": true,
+      "offer": "804586456490",
+      "wangwang": "美廉美饰家装企业店",
+      "message": "这次另核链接804586456490的米白【地毯】免胶可移款40×40cm，按10片一套销售（与上次50×50cm、20片不同）。请确认目前有此40×40规格吗？若有，请给10片合装后的销售包装长宽高（厘米）和含包装重量（克）；可移胶的结构说明已记下。",
+      "fact_state": "complete",
+      "reason": "确认40×40规格有；10片0.7公斤；41×41×5厘米（原文41x41xx5）。可移胶结构、纹理差异保留。",
+      "merchant_reply": [
+        {
+          "class": "content-row",
+          "images": [],
+          "text": "美廉美饰家装企业店:售前\n2026-10-20 14:12:02\n40x40规格有的"
+        },
+        {
+          "class": "content-row",
+          "images": [],
+          "text": "美廉美饰家装企业店:售前\n2026-10-20 14:13:49\n10片.0.7公斤"
+        },
+        {
+          "class": "content-row",
+          "images": [],
+          "text": "美廉美饰家装企业店:售前\n2026-10-20 14:15:18\n41x41xx5厘米"
+        }
+      ],
+      "image_urls": []
+    },
+    {
+      "id": 3566,
+      "status": "skipped",
+      "reason": "主代理已取得并采用已有完整包装；不重复询问，不自动不做。"
+    },
+    {
+      "id": 3583,
+      "status": "replied",
+      "sent": true,
+      "offer": "1041187670643",
+      "wangwang": "义乌维纳宠物",
+      "message": "您好，先核链接1041187670643宠物胸背的玫红XS（胸围43–56、颈围31–41cm），单件销售。请给这件装袋后的长、宽、高（厘米）、含包装重量（克），普通OPP袋即可，及500件出厂不含税运单价，仅作询价。",
+      "fact_state": "needs_reference",
+      "reason": "商家问哪款，需再发商品卡/图；当前已发明确链接编号和玫红XS。",
+      "merchant_reply": [
+        {
+          "class": "content-row",
+          "images": [],
+          "text": "义乌维纳宠物\n2026-10-20 14:10:57\n老板说的是那款的呀"
+        }
+      ],
+      "image_urls": []
+    },
+    {
+      "id": 2791,
+      "status": "replied",
+      "sent": true,
+      "offer": "673546422233",
+      "wangwang": "博白县中翔工艺品有限公司",
+      "message": "您好，询问链接673546422233的茶色椭圆PP仿藤篮30×20×7cm，按2个一套销售。请给2个合装后的销售包装长、宽、高（厘米）及含包装总重量（克），并报500套出厂不含税运单套价，仅作询价。",
+      "fact_state": "partial",
+      "reason": "回复15元一套；包装尺寸重量未回复。",
+      "merchant_reply": [
+        {
+          "class": "content-row",
+          "images": [],
+          "text": "博白县中翔工艺品有限公司\n2026-10-20 14:11:51\n暂不支持的消息类型"
+        },
+        {
+          "class": "content-row",
+          "images": [],
+          "text": "博白县中翔工艺品有限公司\n2026-10-20 14:15:43\n15一套"
+        }
+      ],
+      "image_urls": []
+    }
+  ]
+}
