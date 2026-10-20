@@ -135,6 +135,12 @@ function pageHandle(id) {
     snapshot:()=>execute('return (await p.snapshot()).text;'),
     click:ref=>execute(`return await p.click(${JSON.stringify(ref)});`),
     insertText:text=>execute(`return await p.insertText(${JSON.stringify(text)});`),
+    clearDraft:async expected=>{
+      const node=await nativeNode('pre[contenteditable=true]');
+      const check=await execute(`return await p.evaluate(()=>[...document.querySelectorAll('iframe')].some(f=>{try{return f.contentDocument.querySelector('pre[contenteditable=true]')?.innerText.trim()===${JSON.stringify(expected.trim())};}catch{return false;}}));`);
+      if(await evaluateValue(check,file=>fs.readFile(file,'utf8'))!==true)throw Error('自有草稿已变化');
+      return execute(`await p.cdp('DOM.focus',JSON.stringify({backendNodeId:${node.backendNodeId}}));await p.press('Control+A');await p.press('Backspace');return true;`);
+    },
     upload:(ref,files)=>execute(`return await p.upload(${JSON.stringify(ref)},${JSON.stringify(files)});`),
     nativeNode,
     focusEditor:async()=>{const node=await nativeNode('pre[contenteditable=true]');if(node.name!=='pre')throw Error('输入框类型错误');return execute(`return await p.cdp('DOM.focus',JSON.stringify({backendNodeId:${node.backendNodeId}}));`);},

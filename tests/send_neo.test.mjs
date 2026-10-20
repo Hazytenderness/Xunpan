@@ -3,22 +3,53 @@ import fs from 'node:fs/promises';
 import test from 'node:test';
 const source=await fs.readFile(new URL('../tools/browser/send_neo.mjs',import.meta.url),'utf8');
 const AsyncFunction=Object.getPrototypeOf(async function(){}).constructor;
-async function simulate(states, {dry=false,blocked=false,snapshots=[],text='原话',waitFails=false,syncFails=false,track=false,risks=null,clock=null,targets=[],latest=null}={}){
+async function simulate(states, {dry=false,blocked=false,snapshots=[],text='原话',waitFails=false,syncFails=false,track=false,risks=null,clock=null,targets=[],latest=null,jobExtra={}}={}){
   const actions=[];let result,waits=0;
   const policy=()=>{};
   const page={goto:async()=>{},evaluate:async fn=>fn===policy?{采纳失败:[],变更款:syncFails?[24]:[],可询盘:[latest||{序:24,可询盘候选ID:['123']}]}:states.shift(),snapshot:async()=>snapshots.shift()||'',
     click:async ref=>actions.push(['click',ref]),insertText:async t=>actions.push(['paste',t]),
+    clearDraft:async text=>actions.push(['clear-owned',text]),
     waitForFunction:async()=>{waits++;if(syncFails&&waits===3)throw Error('fixture quota');if(waitFails)throw Error('fixture loading');return true;}};
   const cacheFs={writeFile:async(name,data)=>actions.push(['journal',JSON.parse(data).阶段])};
   const TaskDate=clock?class extends Date{constructor(){super(clock);}static now(){return new Date(clock).valueOf();}}:class extends Date{constructor(){super('2026-10-14T02:00:00Z');}static now(){return new Date('2026-10-14T02:00:00Z').valueOf();}};
   try{await new AsyncFunction('pageFor','job','done','blocked','chatUrl','sitePolicy','fs','path','C','Date',source)(async()=>page,
-    {ww:'supplier',offerId:'123',seqs:[24],targets,text,dry,...(track?{operation_id:'test'}:{})},async r=>{result=r;throw {done:true};},async()=>risks?risks.shift():blocked,()=> 'fixture',policy,cacheFs,{join:(...p)=>p.join('/')},'cache',TaskDate);}
+    {ww:'supplier',offerId:'123',seqs:[24],targets,text,dry,...jobExtra,...(track?{operation_id:'test'}:{})},async r=>{result=r;throw {done:true};},async()=>risks?risks.shift():blocked,()=> 'fixture',policy,cacheFs,{join:(...p)=>p.join('/')},'cache',TaskDate);}
   catch(e){if(!e.done)throw e;}
   return {result,actions};
 }
 test('wrong recipient stops without typing or clicking',async()=>{
   const r=await simulate([{ok:false,hd:'other',mine:[],box:''}]);
   assert.match(r.result.结果,/收件人对不上/);assert.deepEqual(r.actions,[]);
+});
+test('existing exact outbound text never sends twice',async()=>{
+  const r=await simulate([{ok:true,hd:'supplier',mine:[{text:'原话'}],box:''}]);
+  assert.match(r.result.结果,/最新聊天已有相同内容/);assert.deepEqual(r.actions,[]);
+});
+test('recovery requires unique absolute-time evidence and never touches editor',async()=>{
+  for(const t of ['2026-10-14 10:00:00','10:00','2026-10-13 10:00:00']){
+    const r=await simulate([{ok:true,hd:'supplier',mine:[{text:'原话',t}],box:''}],
+      {jobExtra:{recover_only:true,intent_time:Date.parse('2026-10-14T02:00:00Z')/1000}});
+    assert.equal(r.result.回执恢复,t==='2026-10-14 10:00:00'?true:undefined);
+    assert.deepEqual(r.actions,[]);
+  }
+});
+test('history comparison ignores transport object-key order',async()=>{
+  const r=await simulate([{ok:true,hd:'supplier',mine:[],box:'',history:[{images:[],self:false,text:'有',videos:[]}]}],
+    {dry:true,jobExtra:{expected_history:[{self:false,text:'有',images:[],videos:[]}]}});
+  assert.equal(r.result.结果,'演练通过');
+});
+test('only a proven owned draft can be replaced after reanalysis',async()=>{
+  const r=await simulate([{ok:true,hd:'supplier',mine:[],box:'旧问题'},{ok:true,mine:[],box:'原话'},
+    {ok:true,mine:[{text:'原话',t:'2026-10-14 10:00:00'}],box:''}],
+    {jobExtra:{owned_draft:'旧问题'},snapshots:['textbox [ref=e1] 输入','button [ref=e2] 发送']});
+  assert.equal(r.result.结果,'成功');assert.deepEqual(r.actions[0],['clear-owned','旧问题']);
+  const blocked=await simulate([{ok:true,hd:'supplier',mine:[],box:'别人的草稿'}],{jobExtra:{owned_draft:'旧问题'}});
+  assert.equal(blocked.result.草稿冲突,true);assert.equal(blocked.result.已点击发送,false);assert.deepEqual(blocked.actions,[]);
+});
+test('incoming message during preparation blocks click',async()=>{
+  const r=await simulate([{ok:true,hd:'supplier',mine:[],box:'',history:[]},{ok:true,mine:[],box:'原话',history:[{self:false,text:'新答复'}]}],
+    {snapshots:['textbox [ref=e1] 请输入消息','button [ref=e2] 发送']});
+  assert.match(r.result.结果,/聊天已变化/);assert.ok(!r.actions.some(a=>a[0]==='click'&&a[1]==='e2'));
 });
 
 test('website change awaiting sync keeps draft and defers before supplier effects',async()=>{

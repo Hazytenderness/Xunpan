@@ -69,6 +69,11 @@ def executable(name):
 
 
 def site_root():
+    configured=os.environ.get('XUNPAN_SITE_ROOT')
+    if configured:
+        path=Path(configured).resolve()
+        if not (path/'build/js/products.js').is_file():raise RuntimeError('XUNPAN_SITE_ROOT缺网站产品目录')
+        return path
     current=Path(__file__).resolve().parents[3]/'06_VibeCoding/ataous-site'
     if os.name=='nt' and (current/'build/js/products.js').is_file():return current
     return Path.home()/'ClaudeP/06_VibeCoding/ataous/ataous-site-night'

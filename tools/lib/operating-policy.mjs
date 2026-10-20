@@ -7,6 +7,7 @@ export function policyAction(options={}) {
   const products=new Map(deck.map(p=>[p.序,p])),time=new Date().toISOString(),actor='询盘AI（用户授权）';
   const accepted=[],errors=[],excluded=[],protectedRows=[],eligible=[],changed=new Set();
   for(const [number,row] of Object.entries(data)){
+    if(options.readOnly)continue;
     const p=products.get(+number);if(!p)continue;
     for(const [id,e] of Object.entries(row.复核||{})){
       if(e.状态!=='待复核')continue;
@@ -55,8 +56,8 @@ export function policyAction(options={}) {
       const state=core.reviewState(p,row,orders),pending=core.rerunPending(row);
       const inquiry=Object.values(row.复核||{}).some(e=>e.来源==='询盘回复'||e.来源==='供应商询盘确认');
       const plans=row.询价方案||[];
-      const missing=inquiry&&!orders.length&&!row.确&&!row.选品?.负责人&&!row.选品?.已移交&&plans.some(q=>!q.历史报价&&['贴标','中性包装','每箱数量','实拍图','视频'].some(k=>q[k]===undefined||q[k]===''));
-      eligible.push({...record,状态:state,可询盘:state==='待核对'||pending||missing,补充询盘资料:missing,食品接触:false});
+      const missing=false; // 2026-10-20：标签、视频、报价不再阻断包装资料完成。
+      eligible.push({...record,状态:state,可询盘:state!=='已完成'&&(state==='待核对'||pending),补充询盘资料:missing,食品接触:false});
     }
   }
   if(options.apply&&changed.size){

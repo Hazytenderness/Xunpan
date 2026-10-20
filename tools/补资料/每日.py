@@ -66,9 +66,12 @@ def main():
     try:
         with file_lock(CACHE / f'buziliao_{a.mode}_windows.lock', blocking=False):
             atomic_json(CACHE/f'runtime_{a.mode}.json',{'status':'running','time':now.isoformat()})
+            if permissions().get('send') is True and not (CACHE/'neo_paused.json').exists():
+                run([sys.executable,ROOT/'tools/reconcile_sends.py'],cwd=ROOT)
             if a.mode == 'send':
                 require('send')
-                if (CACHE/'send_paused.json').exists() or (CACHE/'neo_paused.json').exists():
+                from resilience import global_send_pause
+                if global_send_pause(CACHE) or (CACHE/'neo_paused.json').exists():
                     raise RuntimeError('发送因风险或不确定回执暂停，需核实后恢复')
                 stamp = CACHE / f'buziliao_send_{day}_{now.hour}'
                 if stamp.exists() and not a.resume: return

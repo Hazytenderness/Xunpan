@@ -17,7 +17,9 @@ def enqueue(cache, feed):
 
 def transport(feed, station):
     require('review_push')
-    token=(Path.home()/'.config/xunpan/ataous_review_token').read_text(encoding='utf-8').strip()
+    token_path=Path.home()/'.config/xunpan/ataous_review_token'
+    if not token_path.is_file():raise RetryLater('本机缺网站复核推送凭据，保留outbox待已授权执行机同步')
+    token=token_path.read_text(encoding='utf-8').strip()
     if '\n' in token or '\r' in token:raise ValueError('报价同步凭据格式无效')
     # 仅stdin传入凭据，不能进入命令行或诊断输出。
     config='header = '+json.dumps('Authorization: Bearer '+token)+'\n'

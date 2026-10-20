@@ -1,8 +1,23 @@
 """2026-10-19 用户确认的话术与资料优先级；仅判断下一步，不发送消息。"""
 import re
+from datetime import datetime, timezone
 
-VERSION = '2026-10-19'
+VERSION = '2026-10-20-executor-1'
 
+def routine_clarification(text):
+    return bool(re.search(r'税运|含税|运费|开票|联系方式|包装选择|选择包装|没测量|允许澄清',text or '')) and not re.search(r'付款|下单|接受替代|定制承诺',text or '')
+
+def requires_fact_analysis(history):
+    """单款快恢复只处理纯澄清；数字、图片、确认/否认同款等都回到字段分析器。"""
+    boundary=max((i for i,m in enumerate(history) if m.get('发送方')=='我方'),default=-1)
+    for m in history[boundary+1:]:
+        if m.get('发送方')!='对方':continue
+        text=m.get('内容','')
+        if m.get('图片') or m.get('视频') or m.get('文件') or re.search(r'\d',text):return True
+        if re.fullmatch(r'[\s你好您好亲！!，,。.?？]*',text):continue
+        if not re.fullmatch(r'[\s你好您好亲！!，,。.?？]*(?:稍等(?:一下)?|您稍等(?:一下)?|等一下|没(?:有)?测量过|没(?:有)?量过|含税运吗|含税运价格|您需要配送到哪里呢)[\s。.?？!！]*',text):
+            return True
+    return False
 
 def value(quotes, field):
     return (quotes.get(field) or {}).get('值')
@@ -45,24 +60,6 @@ def next_step(entry, quotes, sent=()):
     result = {'版本': VERSION, '贴标': label if label in ('能贴', '不能贴') else '未确认'}
 
     def step(stage, text='', reason=''):
-        # 同一缺项最多提问两次；不把供应商“不能贴标”作为自动不做理由。
-        asks = [x.get('文本', '') for x in sent if x.get('结果', '成功') == '成功']
-        repeated = sum(text == t for t in asks) if text else 0
-        if stage == '确认同款':
-            repeated = sum('图上这款有吗？' in t for t in asks)
-        if stage=='补包装':
-            counts=[]
-            if '尺寸' in text:counts.append(sum(bool(re.search(r'包装.*(?:尺寸|长宽高|多大)',t)) for t in asks))
-            if '重量' in text:counts.append(sum('包装' in t and bool(re.search(r'重量|多重',t)) for t in asks))
-            repeated=max(counts,default=0)
-        if stage=='补贴标等资料':
-            counts=[sum(word in t for t in asks) for word in ('中性包装','贴标','一箱') if word in text]
-            repeated=max(counts,default=0)
-        if stage=='补图片视频报价':
-            counts=[sum(word in t for t in asks) for word in ('实拍图','视频','多少钱') if word in text]
-            repeated=max(counts,default=0)
-        if text and repeated >= 2:
-            stage, text, reason = '待核实', '', '同一问题已问两次，未得到明确答复'
         return {**result, '阶段': stage, '话术': text, '原因': reason}
 
     match = value(quotes, '匹配确认')
@@ -79,26 +76,42 @@ def next_step(entry, quotes, sent=()):
     if not dimensions or not weight:
         text = f'{unit}包装尺寸多少？重量多少？' if not dimensions and not weight else f'{unit}包装尺寸多少？' if not dimensions else f'{unit}带包装重量多少？'
         return step('补包装', text)
-    second = []
-    if value(quotes, '中性包装') in (None, ''):
-        second.append('这款能发中性包装吗？')
-    if label not in ('能贴', '不能贴'):
-        second.append('能帮忙贴标吗？')
-    box = value(quotes, '每箱数量')
-    if box in (None, ''):
-        second.append(f'一箱装多少{count}？')
-    if second:
-        return step('补贴标等资料', ''.join(second))
-    photos, video, price = (value(quotes, k) for k in ('实拍图', '视频', '阶梯价'))
-    third = []
-    if photos in (None, '') and video in (None, ''):
-        third.append('这款实拍图和视频发下，')
-    elif photos in (None, ''):
-        third.append('这款实拍图发下，')
-    elif video in (None, ''):
-        third.append('这款视频发下，')
-    if price in (None, ''):
-        third.append('订500件多少钱？')
-    if third:
-        return step('补图片视频报价', ''.join(third).rstrip('，') + ('。' if third[-1].endswith('，') else ''))
     return step('资料收集完成')
+
+
+def response_step(entry, quotes, sent, history):
+    """根据最后一次我方消息之后的整段商家回复续接；卡片不遮蔽前面的反问。"""
+    flow = next_step(entry, quotes, sent)
+    if flow['阶段'] in ('资料收集完成', '不匹配结束'):
+        return flow
+    boundary = max((i for i,m in enumerate(history) if m.get('发送方')=='我方'), default=-1)
+    recent = [m for m in history[boundary+1:] if m.get('发送方')=='对方']
+    if boundary>=0 and not recent:
+        return {**flow,'阶段':'等商家回复','话术':'','原因':'最新消息仍是我方，先等回复；超24小时核查，不每小时重复追问'}
+    text = '\n'.join(m.get('内容','') for m in recent)
+    unit,_ = sales_unit(entry)
+    question = flow['话术']
+    if flow['阶段']=='确认同款':
+        question=f'图上这款有吗？有的话请补{unit}包装长宽高（厘米）和带包装重量（克）。'
+    if re.search(r'稍等|等一下|晚点|明天|量好.*发|正在.*量', text) and not re.search(r'[?？]|哪|什么', text):
+        try:
+            elapsed=(datetime.now(timezone.utc)-datetime.fromisoformat(recent[-1]['时间'])).total_seconds()/3600
+        except (KeyError,ValueError,TypeError):elapsed=0
+        if elapsed<24:
+            return {**flow, '阶段':'等商家测量', '话术':'', '原因':'商家承诺补数据，等待新回复；24小时后核查'}
+        return {**flow,'话术':f'之前您说稍等，麻烦帮忙补下{unit}实际发货包装的长宽高（厘米）和带包装重量（克）；还没测的话，请仓库量尺、称重，拍读数也可以。',
+                '原因':'商家承诺超过24小时，先核对最新聊天再续接一次'}
+    if re.search(r'没(?:有)?测|没(?:有)?量|不知道|不清楚|没(?:有)?数据', text):
+        question=f'麻烦拿{unit}现货按实际发货包装，用尺量长宽高、连包装称重量，发厘米和克数；拍尺和秤读数也可以。'
+    elif re.search(r'详情|往下翻|页面.*有', text):
+        question=f'麻烦把对应{unit}带包装长宽高和毛重的那张参数图发这里，需与这次规格一致；产品尺寸和整箱数据不能代替。'
+    elif re.search(r'外箱|整箱|一箱|装箱', text):
+        question=f'收到，这是整箱数据。还需要{unit}实际发货包装的长宽高（厘米）和带包装重量（克），麻烦量一下。'
+    elif re.search(r'袋装|盒装|OPP|彩盒|纸盒', text, re.I) and re.search(r'哪|还是|选择|[?？]',text):
+        question=f'先不定包装，请分别提供现成袋装、盒装对应{unit}的包装长宽高和毛重；我们核算后再确认。'
+    prefix=[]
+    if re.search(r'含税|开票|发票|不含税', text):prefix.append('先了解不含税、不含运费报价。')
+    if re.search(r'发哪|哪里|地址|运费|发货地|含税运|含运', text):prefix.append('发义乌。')
+    if re.search(r'微信|电话|加我|联系方式', text):prefix.append('先在这里聊，资料发这里即可。')
+    routed=bool(prefix) or question!=flow['话术']
+    return {**flow,'话术':(''.join(prefix)+question)[:120],'响应类型':'上下文澄清' if routed else '普通追问'}

@@ -9,7 +9,7 @@ from base import ROOT,CACHE,find,now_bj,in_work_hours,load_queue,save_queue
 from port import run,codex,site_root
 from resilience import RetryLater,atomic_json
 from analysis_cache import analyze_cached
-from inquiry_workflow import VERSION, next_step,allowed_reply,clarification_messages
+from inquiry_workflow import VERSION, next_step,response_step,allowed_reply,clarification_messages
 
 FIELDS={'阶梯价','包装尺寸毛重','起订量','现货','匹配确认','箱规','产品尺寸净重','中性包装','贴标','每箱数量','实拍图','视频','定制','打样','交期','开票点数'}
 
@@ -44,6 +44,8 @@ def validate_quote(q,record,batch,visible_images=None):
         value=value['状态']
     if q['field']=='匹配确认' and isinstance(value,dict) and isinstance(value.get('匹配'),bool) and set(value)<= {'匹配','规格','说明'}:
         value='完全匹配' if value['匹配'] else '不匹配'
+    if q['field']=='匹配确认' and isinstance(value,dict) and value.get('匹配') in ('完全匹配','不匹配') and set(value)<={'匹配','原话','规格','说明'}:
+        value=value['匹配']
     if q['field']=='现货' and value is False:value='无货'
     indices=q['source_indexes']
     sources=[record['历史'][i] for i in indices if 0<=i<len(record['历史']) and record['历史'][i]['发送方']=='对方']
@@ -86,7 +88,7 @@ def main():
             'source_indexes必须引用历史中发送方为对方的消息index，不能引用我方问题当作确认。'
             '图片数据在image_files中引用原始相对文件名，image_quote写识别出的原文，不能猜看不清的数；只可引用下方附图清单实际附上的图片。'
             '每个ID的每个field最多输出一次，不能用重复字段表示不同规格。阶梯价只记录对应款所需规格/包装的价格；'
-            '多种包装或规格的报价无法确定该选哪种时，不输出阶梯价，写needs_user说明选项，不能静默取最后一个。'
+            '多种包装或规格报价归属不明时不输出阶梯价，继续询问分别的包装数据，不需要用户选择包装，不静默取最后一个。'
             'value_json是字段值的JSON字符串；阶梯价用{"单价":数值}，包装尺寸毛重用{"长":厘米,"宽":厘米,"高":厘米,"重量克":克}，不明的项省略；'
             '如果只是裸产品尺寸而不是包装，要在conversion标明产品尺寸非包装。'
             '最新用户规则优先：我方发过目标图并询问图上这款有吗，商家针对该目标说有/有的/可以提供，就记录匹配确认=完全匹配，不再要求逐项确认规格。'
@@ -96,7 +98,7 @@ def main():
             '产品裸尺寸/净重只能记产品尺寸净重，不能记包装尺寸毛重。商家估算包装尺寸重量可记录但原话标明估算。'
             '只给价格数字但不清楚对应规格或整套装数，不输出阶梯价；原话内保留单件与整套口径。'
             'reply仅用于回应商家实际反问或必要澄清，必须从该条允许澄清列表中原样复制一条；无对应反问时留空。普通资料追问由程序按优先级生成，不由你自由发挥。'
-            '凡付款、下单、接受替代/定制、选择包装、联系方式等只填needs_user，不替用户拍板；贴标内容细节不作为需要用户决策的任务，不追问。'
+            '只有确需付款、下单、接受替代或定制承诺才填needs_user；包装选项、税运、尺寸测量、联系方式属于普通澄清，不填needs_user，不作采购承诺；贴标内容细节不作为需要用户决策的任务，不追问。'
             '只分析日本站，回复前的食品/倍数/不做筛选由外部程序再次核对。\n规则背景：\n'+instructions+'\n附图清单（按附图顺序）：\n'+json.dumps([str(p.relative_to(ROOT)) for p in images],ensure_ascii=False)+'\n输入：\n'+json.dumps(records,ensure_ascii=False))
     output=CACHE/'reply_analysis.json'
     def compute(missing):
@@ -119,7 +121,7 @@ def main():
                 except (ValueError,TypeError,IndexError,KeyError) as error:invalid.append({'field':q.get('field'),'error':str(error)})
             if invalid:
                 atomic_json(CACHE/'analysis_rejected'/f"{item['id']}.json",{'id':item['id'],'fields':invalid,'item':item})
-                blocking=any(x['field'] not in ('产品尺寸净重','箱规') for x in invalid)
+                blocking=any(x['field'] in ('匹配确认','包装尺寸毛重') for x in invalid)
                 if blocking:item={**item,'reply':'','needs_user':item['needs_user'] or '有字段未通过原文/数值核验，已保存其他有效事实，需核实。'}
                 else:print('细节：'+item['id']+'非优先字段格式待核实，其他资料继续',flush=True)
             if '\n' in item['reply'] or len(item['reply'])>120:raise ValueError('追问必须一行且不超过120字')
@@ -130,14 +132,17 @@ def main():
         merged={**existing,**{field:{'值':v[0],'原话':v[1],'时间':v[2]} for field,v in quotes.items()}}
         log=batch/'sent_log.jsonl'
         sent=[json.loads(line) for line in log.read_text(encoding='utf-8').splitlines() if line.strip() and json.loads(line).get('id')==item['id']] if log.exists() else []
-        flow=next_step(entry,merged,sent)
+        flow=response_step(entry,merged,sent,by[item['id']]['历史'])
         # 用户指定目的和固定话术优先；AI只处理有原文依据的商家反问。
         extra=item['reply'].strip()
         item={**item,'reply':flow['话术']}
         approved=allowed_reply(entry,extra)
-        last=next((m for m in reversed(by[item['id']]['历史']) if m['发送方']!='系统'),{})
-        is_question=last.get('发送方')=='对方' and __import__('re').search(r'[?？]|吗|呢|哪|多少|什么|几[个件套包箱]',last.get('内容',''))
-        if approved and is_question:item['reply']=approved
+        history=by[item['id']]['历史']
+        boundary=max((i for i,m in enumerate(history) if m.get('发送方')=='我方'),default=-1)
+        is_question=any(m.get('发送方')=='对方' and __import__('re').search(r'[?？]|吗|呢|哪|多少|什么|几[个件套包箱]',m.get('内容','')) for m in history[boundary+1:])
+        if approved and is_question and flow['阶段'] not in ('资料收集完成','不匹配结束','等商家测量','等商家回复'):
+            # 规范/单位反问必须先答；税运等由上下文路由生成的完整响应保留。
+            if approved not in ('发义乌。',) or flow.get('响应类型')!='上下文澄清':item['reply']=approved
         if flow['阶段']=='待核实' and not item['needs_user']:item['needs_user']=flow['原因']
         planned.append((item,batch,entry,quotes,flow))
     if a.dry:print(json.dumps(result,ensure_ascii=False,indent=2));return
@@ -161,7 +166,7 @@ def main():
             if row['id']==key:
                 row['询盘流程']={k:v for k,v in flow.items() if k!='话术'}
                 if item['needs_user']:row['待决策']=item['needs_user']
-                elif row.get('待决策') and flow['阶段']=='资料收集完成':row.pop('待决策',None)
+                elif row.get('待决策'):row.pop('待决策',None)
         save_queue(batch,q)
     # 已核实的报价先同步；个别追问故障不能挡住其他商家的已得资料。
     for batch,change in changed.items():
@@ -175,9 +180,10 @@ def main():
     for item,batch,entry,quotes,flow in planned:
         key=item['id']
         if item['needs_user']:asks.append('要你定：'+key+'：'+item['needs_user'][:80])
-        elif item['reply'] and in_work_hours() and not entry.get('回复暂停'):
+        elif item['reply'] and in_work_hours() and (not entry.get('回复暂停') or '未核实发送意图' in entry['回复暂停'].get('原因','')):
             # 实发工具内部已包含完整核对，不再另开一次dry会话造成二次加载。
             sent=json.loads(run([sys.executable,ROOT/'tools/reply.py',key,item['reply']],cwd=ROOT))
+            if sent.get('需重读'):continue
             if sent['结果']=='成功':stats['回了']+=1
             elif not sent['结果'].startswith('跳过:'):
                 q=load_queue(batch)
@@ -185,8 +191,8 @@ def main():
                     if row['id']==key:row['状态']='待人工核实';row['回复暂停']={'时间':now_bj().isoformat(),'原因':sent['结果']}
                 save_queue(batch,q)
                 if (CACHE/'neo_paused.json').exists():raise RuntimeError('验证或风控，停止所有操作')
-                stopped='⚠ 跟进暂停：'+key+'：'+sent['结果']+'；已保存报价和断点，本轮不再发回复'
-                break
+                stopped='⚠ 单商家暂停：'+key+'：'+sent['结果']+'；已保存报价和断点，其他商家继续'
+                continue
         if not by[key].get('缺失附图'):completed.append(key)
         else:print('附图待补取|'+key+'|文字事实已保存，下轮重读补图',flush=True)
     print('统计 '+' '.join(f'{k}={v}' for k,v in stats.items()))

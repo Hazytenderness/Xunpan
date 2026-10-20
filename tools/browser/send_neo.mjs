@@ -17,14 +17,36 @@ const state=()=>chat.evaluate(ww=>{
     const hd=header?[...header.childNodes].filter(n=>n.nodeType===3).map(n=>n.textContent).join('').trim():'';
     if(/若长时间未加载/.test(d.body.innerText))return {blocked:true};
     const mine=[...d.querySelectorAll('.message-item.self')].map(m=>({t:m.querySelector('.time')?.textContent.trim(),text:(m.querySelector('pre.edit')?.innerText||m.querySelector('.content')?.innerText||'').trim()}));
-    return {ok:!!hd&&hd===ww,hd,mine,box:ed.innerText};
+    const history=[...d.querySelectorAll('.message-item')].map(m=>({
+      self:m.classList.contains('self'),text:(m.querySelector('pre.edit')?.innerText??m.querySelector('.content')?.innerText??'').trim(),
+      images:[...m.querySelectorAll('img.imui-msg-img')].map(i=>i.src),videos:[...m.querySelectorAll('video')].map(v=>v.src||v.currentSrc).filter(Boolean)
+    })).slice(-8);
+    return {ok:!!hd&&hd===ww,hd,mine,history,box:ed.innerText};
   }catch{}}return null;
 },job.ww);
 const s0=await state();if(!s0||s0.blocked)await done({...out,结果:'停止:聊天暂未加载',可重试:true});
 if(!s0.ok)await done({...out,结果:'停止:收件人对不上',实际页头:s0.hd});
 const norm=x=>(x||'').replace(/\r/g,'').trim();
+const historyKey=h=>JSON.stringify(h?.map(m=>[m.self,norm(m.text),m.images||[],m.videos||[]]));
+// 恢复只读聊天，永远不进入粘贴/发图/发送分支。只接受绝对时间的正面证据。
+if(job.recover_only){
+  const matches=s0.mine.filter(m=>norm(m.text)===norm(job.text));
+  const proven=matches.map(m=>({...m,stamp:/^\d{4}-\d{2}-\d{2} \d{2}:\d{2}:\d{2}$/.test(m.t||'')?Date.parse(m.t.replace(' ','T')+'+08:00')/1000:0}))
+    .filter(m=>job.intent_time>0&&m.stamp>=Math.floor(job.intent_time)&&m.stamp<=Date.now()/1000);
+  if(proven.length===1)await done({...out,结果:'成功',回执恢复:true,sent_at:proven[0].stamp,
+    核对:{收件人:true,内容一致:true,未误发:true},聊天证据:proven[0]});
+  await done({...out,结果:'停止:未取得唯一且有绝对时间的发送证据'});
+}
+if(s0.mine.some(m=>norm(m.text)===norm(job.text)))await done({...out,结果:'跳过:最新聊天已有相同内容',聊天证据:s0.mine.filter(m=>norm(m.text)===norm(job.text))});
+if(job.expected_history&&historyKey(s0.history)!==historyKey(job.expected_history))
+  await done({...out,结果:'跳过:最新聊天已变化，重新读取分析',需重读:true,最新聊天:s0.history,原分析聊天:job.expected_history});
 const draft=norm(s0.box)===norm(job.text);
-if(s0.box.trim()&&!draft)await stop('输入框原本有内容');
+if(s0.box.trim()&&!draft){
+  if(!job.dry&&job.owned_draft&&norm(s0.box)===norm(job.owned_draft)&&chat.clearDraft){
+    await chat.clearDraft(job.owned_draft);
+    s0.box='';
+  }else await done({...out,结果:'暂缓:输入框有未确认归属的草稿',草稿冲突:true,已点击发送:false});
+}
 if(job.dry){
   const editor=chat.nativeNode?await chat.nativeNode('pre[contenteditable=true]'):null;
   const image=chat.nativeNode?await chat.nativeNode("input[type=file][accept='image/*']"):null;
@@ -38,7 +60,7 @@ await site.waitForFunction(()=>{
   if(sync?.dataset.state==='error')throw Error('网站同步门禁失败：'+sync.textContent.slice(0,200));
   return !!window.jp云?.能写不()&&!!window.ReviewCore&&window.SelectionCore?.sourcesReady()&&sync?.dataset.state==='ok';
 },undefined,{timeout:25000});
-const current=await site.evaluate(sitePolicy,{apply:true});
+const current=await site.evaluate(sitePolicy,{apply:false,readOnly:true});
 if(current.采纳失败.length)await stop('网站采纳有失败项，先处理数据');
 if(current.变更款.length){
   try{await site.waitForFunction(()=>{
@@ -68,7 +90,7 @@ if(job.img&&!draft){
   await chat.waitForFunction(n=>[...document.querySelectorAll('iframe')].some(f=>{try{const m=[...f.contentDocument.querySelectorAll('.message-item.self')];return m.length===n+1&&!!m[n].querySelector('.content img');}catch{return false;}}),s0.mine.length,{timeout:20000});
   const si=await state();out.图已发=si?.mine.length===s0.mine.length+1;
   if(out.图已发)await fs.writeFile(path.join(C,'send.progress.json'),JSON.stringify({...out,图已发:true}));
-  if(!out.图已发)await stop('图片新增条数不等于1');s0.mine=si.mine;
+  if(!out.图已发)await stop('图片新增条数不等于1');s0.mine=si.mine;s0.history=si.history;
 }
 if(!draft){
   await stage('粘贴前');
@@ -77,6 +99,9 @@ if(!draft){
   await chat.insertText(job.text);
 }
 const s1=await state();out.核对={收件人:!!s1?.ok,内容一致:norm(s1?.box)===norm(job.text),未误发:s1?.mine.length===s0.mine.length};
+if(historyKey(s1?.history)!==historyKey(s0.history))
+  await done({...out,结果:'暂缓:准备发送期间聊天已变化，保留草稿重新分析',需重读:true,已点击发送:false,
+    自有草稿:norm(s1?.box)===norm(job.text)?job.text:null});
 if(!Object.values(out.核对).every(Boolean))await stop('发送前三项核对不通过');
 if(await blocked(chat))await stop('发送前出现验证或掉登录');
 const buttons=refs(await chat.snapshot(),/button.*发送/);
