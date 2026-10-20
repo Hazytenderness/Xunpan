@@ -42,12 +42,13 @@ class InquiryActionTests(unittest.TestCase):
             with patch.object(actions,'api_request',return_value={'tasks':[task]}):actions.consume_decisions(root,cache)
             self.assertNotIn('人工处理意见',json.loads((batch/'queue.json').read_text(encoding='utf-8'))[0])
 
-    def test_explicit_human_requirements_allow_safe_answer_but_not_payment_or_purchase(self):
+    def test_human_opinion_does_not_allow_unapproved_freeform_copy(self):
         from inquiry_workflow import allowed_reply
         entry={'对应款':[{'规格':'饲养箱'}],'人工处理意见':{'state':'queued','action':'continue','text':'需要金属网盖'}}
-        self.assertEqual(allowed_reply(entry,'我们需要金属网盖，请确认能否提供。'),'我们需要金属网盖，请确认能否提供。')
+        self.assertFalse(allowed_reply(entry,'我们需要金属网盖，请确认能否提供。'))
         self.assertFalse(allowed_reply(entry,'我们同意下单，请发付款账号。'))
-        self.assertEqual(allowed_reply(entry,'请分别报两个方案，先补资料，暂不确认方案或下单。'),'请分别报两个方案，先补资料，暂不确认方案或下单。')
+        self.assertFalse(allowed_reply(entry,'请分别报两个方案，先补资料，暂不确认方案或下单。'))
+        self.assertEqual(allowed_reply(entry,'我们要的是饲养箱。'),'我们要的是饲养箱。')
         self.assertFalse(allowed_reply(entry,'暂不下单。请发付款账号。'))
         self.assertFalse(allowed_reply({'对应款':[{'规格':'饲养箱'}],'人工处理意见':{'state':'done','action':'continue'}},'我们需要金属网盖。'))
 

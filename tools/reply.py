@@ -15,7 +15,7 @@ if not dry and not in_work_hours():
     raise SystemExit('不在北京 9:00–18:00，不发')
 b, x = find(key)
 ww = x['旺旺名']
-try:r = browser('send.mjs', {'ww': ww, 'offerId': x['商品'][0]['offerId'], 'text': text, 'dry': dry,'seqs':[k['序'] for k in x['对应款']],
+try:r = browser('send.mjs', {'inquiryId': x['id'], 'ww': ww, 'offerId': x['商品'][0]['offerId'], 'text': text, 'dry': dry,'seqs':[k['序'] for k in x['对应款']],
                            'targets':[{'seq':k['序'],'asin':k['asin']} for k in x['对应款']]}, sending=not dry) or {'结果': '无结果'}
 except RetryLater as error:print('XUNPAN_RETRY_LATER: '+str(error),file=sys.stderr);sys.exit(75)
 if not dry:

@@ -168,6 +168,9 @@ def browser(script, job=None, timeout=300, sending=False):
                 raise SystemExit('聊天读取未授权：会标为已读，必须先经用户确认指定条目')
         if script == 'chat_list.mjs':
             require('scan')
+    if script=='send.mjs':
+        from send_policy import validate_job
+        validate_job(ROOT,job or {})
     with file_lock(LOCK):
         if os.name=='nt':ensure_neo()
         if sending:
@@ -190,7 +193,7 @@ def browser(script, job=None, timeout=300, sending=False):
                 code=f'const NAME = {json.dumps(Path(script).stem)};\n'+(BROWSER/'_prelude.txt').read_text(encoding='utf-8')+'\n'+(BROWSER/script).read_text(encoding='utf-8')
                 command=['ego-browser','nodejs','-e',code]
             try:
-                r=captured(command,capture_output=True,text=True,encoding='utf-8',errors='replace',
+                r=captured(command,cwd=ROOT,capture_output=True,text=True,encoding='utf-8',errors='replace',
                            timeout=timeout,creationflags=HIDDEN)
                 if out.exists():return json.loads(out.read_text(encoding='utf-8'))
                 (CACHE/'last_error.txt').write_text(r.stdout[-3000:]+'\n'+r.stderr[-3000:],encoding='utf-8')

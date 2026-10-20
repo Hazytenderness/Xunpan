@@ -1,7 +1,7 @@
 """2026-10-19 用户确认的话术与资料优先级；仅判断下一步，不发送消息。"""
 import re
 
-VERSION = '2026-10-19'
+VERSION = '2026-10-20'
 
 
 def value(quotes, field):
@@ -27,11 +27,6 @@ def clarification_messages(entry):
 
 
 def allowed_reply(entry, text):
-    opinion=entry.get('人工处理意见') or {}
-    if opinion.get('state') in ('queued','working','waiting_send') and opinion.get('action') in ('continue','clarify'):
-        reply=str(text or '').strip()
-        safety=re.sub(r'暂不确认方案或下单|暂不下单|不下单|不付款|不支付|不转账','',reply)
-        if reply and len(reply)<=120 and '\n' not in reply and not re.search(r'下单|付款|转账|支付|支付宝|银行卡|微信|电话号码|发货吧|确认采购',safety):return reply
     clean=lambda x:re.sub(r'[。！？?！\s]+$','',x.strip())
     return next((t for t in clarification_messages(entry) if clean(t)==clean(text)),None)
 

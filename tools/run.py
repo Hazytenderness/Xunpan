@@ -68,9 +68,9 @@ for n, lid in enumerate(order):
     x = next(i for i in q if i['id'] == lid)
     if x['状态'] != '待发R1':
         continue
-    job = {'ww': x['旺旺名'], 'offerId': x['商品'][0]['offerId'], 'text': x['r1_text'], 'seqs':[k['序'] for k in x['对应款']],
+    job = {'inquiryId': x['id'], 'ww': x['旺旺名'], 'offerId': x['商品'][0]['offerId'], 'text': x['r1_text'], 'seqs':[k['序'] for k in x['对应款']],
            'targets':[{'seq':k['序'],'asin':k['asin']} for k in x['对应款']],'kind':'R1'}
-    if x.get('话术版本')!=VERSION:
+    if x.get('话术版本')!=VERSION or x.get('r1_text')!=first_message(x):
         x['r1_text'] = job['text'] = first_message(x)
         x['话术版本']=VERSION
         save_queue(B, q)

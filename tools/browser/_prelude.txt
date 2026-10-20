@@ -1,6 +1,11 @@
 const fs = await import("node:fs/promises"), os = await import("node:os"), path = await import("node:path");
 const C = path.join(os.homedir(), ".cache", "xunpan");
 const job = JSON.parse(await fs.readFile(path.join(C, "job.json"), "utf8"));
+if(NAME==='send'){
+  const {pathToFileURL}=await import('node:url');
+  const {validateSendJob}=await import(pathToFileURL(path.join(process.cwd(),'tools/browser/send_policy.mjs')).href);
+  validateSendJob(job);
+}
 const done = async (o) => { await fs.writeFile(path.join(C, NAME + ".out.json"), JSON.stringify(o)); process.exit(0); };
 let st = {}; try { st = JSON.parse(await fs.readFile(path.join(C, "state.json"), "utf8")); } catch {}
 let task = null;

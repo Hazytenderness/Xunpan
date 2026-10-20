@@ -6,14 +6,16 @@ import {fileURLToPath} from 'node:url';
 import {policyAction as sitePolicy} from '../lib/operating-policy.mjs';
 import {evaluateValue,newPage,toolFailure} from './neo_protocol.mjs';
 import {writeSendProgress} from './send_journal.mjs';
+import {validateSendJob} from './send_policy.mjs';
 
 const C = path.join(os.homedir(), '.cache', 'xunpan');
 const dir = path.dirname(fileURLToPath(import.meta.url));
 const script = process.argv[2];
 if (!['probe.mjs','page.mjs','chat_list.mjs','chat_read.mjs','send.mjs','site_policy.mjs'].includes(script)) throw Error('未知浏览器任务');
 const NAME = path.parse(script).name;
-if(script==='send.mjs')await fs.unlink(path.join(C,'send.progress.json')).catch(()=>{});
 const job = JSON.parse(await fs.readFile(path.join(C, 'job.json'), 'utf8'));
+if(script==='send.mjs')validateSendJob(job);
+if(script==='send.mjs')await fs.unlink(path.join(C,'send.progress.json')).catch(()=>{});
 if(script==='send.mjs')await fs.writeFile(path.join(C,'send.progress.json'),JSON.stringify({operation_id:job.operation_id,阶段:'准备'}));
 let policy={};try{policy=JSON.parse(await fs.readFile(path.join(C,'windows_permissions.json'),'utf8'));}catch{}
 if(script==='send.mjs'&&policy.send!==true)throw Error('发送未授权');
