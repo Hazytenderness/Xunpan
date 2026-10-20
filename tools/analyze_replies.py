@@ -193,6 +193,7 @@ def main():
                 if (CACHE/'neo_paused.json').exists():raise RuntimeError('验证或风控，停止所有操作')
                 stopped='⚠ 单商家暂停：'+key+'：'+sent['结果']+'；已保存报价和断点，其他商家继续'
                 continue
+        if flow['阶段']=='待核发送时间':continue
         if not by[key].get('缺失附图'):completed.append(key)
         else:print('附图待补取|'+key+'|文字事实已保存，下轮重读补图',flush=True)
     print('统计 '+' '.join(f'{k}={v}' for k,v in stats.items()))

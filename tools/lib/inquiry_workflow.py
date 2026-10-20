@@ -1,6 +1,6 @@
 """2026-10-19 用户确认的话术与资料优先级；仅判断下一步，不发送消息。"""
 import re
-from datetime import datetime, timezone
+from datetime import datetime, timezone, timedelta
 
 VERSION = '2026-10-20-executor-1'
 
@@ -89,6 +89,28 @@ def response_step(entry, quotes, sent, history):
     if boundary>=0 and not recent:
         return {**flow,'阶段':'等商家回复','话术':'','原因':'最新消息仍是我方，先等回复；超24小时核查，不每小时重复追问'}
     text = '\n'.join(m.get('内容','') for m in recent)
+    no_data=bool(re.search(r'没(?:有)?测|没(?:有)?量|不知道|不清楚|没(?:有)?(?:具体)?数据',text))
+    previous=history[boundary] if boundary>=0 else {}
+    requested=bool(re.search(r'量尺|尺.*量|称重|秤.*读数',previous.get('内容',''))) and '包装' in previous.get('内容','')
+    if no_data and requested and not re.search(r'[?？]|吗|呢|哪|什么|还是|是否|要不要|需不需要',text):
+        try:
+            asked_at=datetime.fromisoformat(previous['时间'])
+            if asked_at.tzinfo is None:raise ValueError('发送时间无时区')
+            due=asked_at+timedelta(hours=24)
+        except (KeyError,TypeError,ValueError):
+            due=None
+            for message in reversed(sent):
+                if message.get('结果')!='成功' or message.get('文本')!=previous.get('内容'):continue
+                try:
+                    stamp=datetime.fromisoformat(message['时间'])
+                    if stamp.tzinfo is not None:due=stamp+timedelta(hours=24);break
+                except (KeyError,TypeError,ValueError):continue
+        if due is None:
+            return {**flow,'阶段':'待核发送时间','话术':'','原因':'测量已问但聊天时间缺失；先从发送日志或原始聊天核回执时间，不重复发送',
+                    '下次核查时间':datetime.now(timezone.utc).isoformat()}
+        if datetime.now(timezone.utc)<due:
+            return {**flow,'阶段':'等商家测量','话术':'','原因':'已明确请求包装量尺称重，商家仍无数据；避免短时间换词重复追问',
+                    '下次核查时间':due.isoformat() if due else None}
     unit,_ = sales_unit(entry)
     question = flow['话术']
     if flow['阶段']=='确认同款':
@@ -101,7 +123,7 @@ def response_step(entry, quotes, sent, history):
             return {**flow, '阶段':'等商家测量', '话术':'', '原因':'商家承诺补数据，等待新回复；24小时后核查'}
         return {**flow,'话术':f'之前您说稍等，麻烦帮忙补下{unit}实际发货包装的长宽高（厘米）和带包装重量（克）；还没测的话，请仓库量尺、称重，拍读数也可以。',
                 '原因':'商家承诺超过24小时，先核对最新聊天再续接一次'}
-    if re.search(r'没(?:有)?测|没(?:有)?量|不知道|不清楚|没(?:有)?数据', text):
+    if no_data:
         question=f'麻烦拿{unit}现货按实际发货包装，用尺量长宽高、连包装称重量，发厘米和克数；拍尺和秤读数也可以。'
     elif re.search(r'详情|往下翻|页面.*有', text):
         question=f'麻烦把对应{unit}带包装长宽高和毛重的那张参数图发这里，需与这次规格一致；产品尺寸和整箱数据不能代替。'

@@ -60,7 +60,7 @@ def snapshot(root, cache, now):
             old_evidence=False
             if history and chat.exists() and entry.get('询盘流程',{}).get('版本')!=VERSION:
                 old_evidence=any(m.get('发送方')=='对方' for m in json.loads(chat.read_text(encoding='utf-8')).get('消息',[]))
-            if history and chat.exists() and flow['阶段'] not in ('待你决策','待核实','待补主图','不匹配结束','资料收集完成') and (receipt_pause or old_evidence or flow['话术'] and not asked):resume.append(ident)
+            if history and chat.exists() and flow['阶段'] not in ('待你决策','待核实','待补主图','不匹配结束','资料收集完成') and (receipt_pause or old_evidence or flow['阶段']=='待核发送时间' or flow['话术'] and not asked):resume.append(ident)
     result={'版本':VERSION,'时间':now.isoformat(),'统计':dict(Counter(x['阶段'] for x in items)),'超72小时':sum((x['距上次发送小时'] or 0)>=72 and x['阶段'] not in ('资料收集完成','不匹配结束') for x in items),'条目':items,'可续接':resume}
     atomic_json(cache/'workflow_backlog.json',result)
     atomic_json(cache/'workflow_decisions.json',{'时间':now.isoformat(),'分类':dict(decisions)})

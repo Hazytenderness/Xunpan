@@ -3,6 +3,7 @@ import sys
 import tempfile
 import unittest
 from pathlib import Path
+from datetime import datetime, timezone, timedelta
 
 sys.path.insert(0, str(Path(__file__).resolve().parents[1] / 'tools/lib'))
 import resilience as r
@@ -10,6 +11,44 @@ import inquiry_workflow as w
 
 
 class RecoveryTests(unittest.TestCase):
+    def test_recent_measurement_request_waits_when_supplier_has_no_data(self):
+        now=datetime.now(timezone.utc)
+        history=[{'发送方':'我方','内容':'请仓库量尺、称重，给单个包装长宽高和重量。','时间':(now-timedelta(minutes=45)).isoformat()},
+                 {'发送方':'对方','内容':'没有具体数据','时间':now.isoformat()}]
+        flow=w.response_step({'对应款':[{'规格':'灰色地毯'}]}, {}, [], history)
+        self.assertEqual(flow['阶段'],'等商家测量')
+        self.assertEqual(flow['话术'],'')
+        self.assertGreater(datetime.fromisoformat(flow['下次核查时间']),now)
+        history[0]['时间']=(now-timedelta(hours=25)).isoformat()
+        self.assertIn('尺',w.response_step({'对应款':[{'规格':'灰色地毯'}]}, {}, [], history)['话术'])
+
+    def test_new_tax_question_is_not_hidden_by_measurement_wait(self):
+        history=[{'发送方':'我方','内容':'请量尺称重，单个包装长宽高和重量。','时间':datetime.now(timezone.utc).isoformat()},
+                 {'发送方':'对方','内容':'没有具体数据，含税还是不含税'}]
+        self.assertIn('不含税',w.response_step({'对应款':[{'规格':'灰色'}]}, {}, [], history)['话术'])
+
+    def test_missing_measurement_time_requires_receipt_check_not_endless_wait(self):
+        history=[{'发送方':'我方','内容':'请量尺称重，给单个包装数据。'}, {'发送方':'对方','内容':'没有具体数据'}]
+        flow=w.response_step({'对应款':[{'规格':'灰色'}]}, {}, [], history)
+        self.assertEqual(flow['阶段'],'待核发送时间')
+        self.assertIn('发送日志',flow['原因'])
+        sent=[{'结果':'成功','文本':history[0]['内容'],'时间':datetime.now(timezone.utc).isoformat()}]
+        flow=w.response_step({'对应款':[{'规格':'灰色'}]}, {}, sent, history)
+        self.assertEqual(flow['阶段'],'等商家测量')
+        self.assertIsNotNone(flow['下次核查时间'])
+
+    def test_missing_time_remains_in_backlog_for_fresh_chat_recovery(self):
+        from workflow_backlog import snapshot
+        with tempfile.TemporaryDirectory() as folder:
+            root=Path(folder);batch=root/'batches/b';batch.mkdir(parents=True);cache=root/'cache';cache.mkdir()
+            entry={'id':'X1','站':'jp','状态':'已回','对应款':[{'规格':'灰色','序':1}],'商品':[{'offerId':'1'}]}
+            r.atomic_json(batch/'queue.json',[entry])
+            (batch/'sent_log.jsonl').write_text(json.dumps({'id':'X1','结果':'成功','文本':'更早的问题','时间':datetime.now(timezone.utc).isoformat()})+'\n',encoding='utf-8')
+            r.atomic_json(batch/'chats/1.json',{'消息':[{'发送方':'我方','内容':'请量尺称重，给单个包装数据。'}, {'发送方':'对方','内容':'没有具体数据'}]})
+            plan=snapshot(root,cache,datetime.now(timezone.utc))
+            self.assertEqual(plan['条目'][0]['阶段'],'待核发送时间')
+            self.assertIn('X1',plan['可续接'])
+
     def test_positive_receipt_restores_only_matching_sender_failure(self):
         row={'旺旺名':'A','商品':[{'offerId':'1'}],'对应款':[{'序':24}],
              '状态':'待人工核实','回复暂停':{'原因':'发送连接中断，结果待核实'}}
