@@ -68,7 +68,8 @@ def build_tasks(root,cache,only=None):
     cloud={t['id']:t for t in json.loads(cloud_file.read_text(encoding='utf-8')).get('tasks',[])} if cloud_file.exists() else {}
     for batch,e in identities(root):
         previous=cloud.get(e.get('人工处理意见',{}).get('taskId'),{})
-        question=e.get('待决策') or previous.get('question')
+        paused=e.get('回复暂停') or {}
+        question=e.get('待决策') or ('发送结果待核实：'+str(paused.get('原因','请核对实际聊天及发送回执'))[:200]+'。已保留防重复保护，请勿直接重发。' if paused else previous.get('question'))
         if e.get('站','jp')!='jp' or not question or (only is not None and e['id'] not in only):continue
         offer=str(e['商品'][0]['offerId']);chat=batch/'chats'/f'{offer}.json'
         if not chat.exists():continue

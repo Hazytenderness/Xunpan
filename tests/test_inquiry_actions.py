@@ -70,5 +70,14 @@ class InquiryActionTests(unittest.TestCase):
             tasks=actions.build_tasks(root,cache,{'BZ0383'})
             self.assertEqual(tasks[0]['question'],question);self.assertEqual(tasks[0]['messages'][0]['text'],'新回复')
 
+    def test_uncertain_send_gets_viewable_task_without_clearing_pause(self):
+        import inquiry_actions as actions
+        with tempfile.TemporaryDirectory(dir=ROOT.parent/'temp') as folder:
+            root=Path(folder);batch,e=self.fixture(root);cache=root/'cache';cache.mkdir()
+            e.pop('待决策');e['回复暂停']={'原因':'存在未核实发送意图'}
+            (batch/'queue.json').write_text(json.dumps([e]),encoding='utf-8');(batch/'chats').mkdir();(batch/'chats/743844801853.json').write_text('{"消息":[]}',encoding='utf-8')
+            tasks=actions.build_tasks(root,cache,{'BZ0383'})
+            self.assertIn('请勿直接重发',tasks[0]['question']);self.assertEqual(json.loads((batch/'queue.json').read_text(encoding='utf-8'))[0]['回复暂停'],e['回复暂停'])
+
 
 if __name__=='__main__':unittest.main()
