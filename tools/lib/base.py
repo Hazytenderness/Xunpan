@@ -8,7 +8,7 @@ import os
 import copy
 import tempfile
 from port import file_lock, require, permissions,HIDDEN,captured,ensure_neo
-from resilience import RetryLater,UnsafeOperation,atomic_json,atomic_text,send_once,latest_send_times
+from resilience import RetryLater,UnsafeOperation,atomic_json,atomic_text,send_once,latest_send_times,global_send_pause
 import json
 import subprocess
 import time
@@ -206,10 +206,12 @@ def browser(script, job=None, timeout=300, sending=False):
             safe=script!='send.mjs' or progress.get('阶段')=='准备'
             return {**progress,'错误':'浏览器连接暂不可用','结果':'停止:浏览器连接暂不可用','可重试':safe}
         if os.name=='nt' and script=='send.mjs' and sending:
-            if (CACHE/'send_paused.json').exists():return {'结果':'停止:发送暂停，需核实上次异常后恢复'}
-            try:result=send_once(CACHE,job or {},attempt)
+            if global_send_pause(CACHE):return {'结果':'停止:发送暂停，需核实上次异常后恢复'}
+            try:result=send_once(CACHE,job or {},attempt,recover=attempt)
             except UnsafeOperation as error:
-                atomic_json(CACHE/'send_paused.json',{'原因':str(error),'时间':now_bj().isoformat(),'ww':(job or {}).get('ww')})
+                atomic_json(CACHE/'supplier_pauses'/((job or {}).get('ww','unknown')+'.json'),{'原因':str(error),'时间':now_bj().isoformat(),'ww':(job or {}).get('ww')})
+                if any(word in str(error) for word in ('收件人','验证','风控','登录','误发','三项核对')):
+                    atomic_json(CACHE/'send_paused.json',{'原因':str(error),'时间':now_bj().isoformat()})
                 mark_sent();return {'结果':'停止:'+str(error)}
             if result.get('结果')=='成功':mark_sent(result.get('sent_at'),result.get('not_before'))
             return result

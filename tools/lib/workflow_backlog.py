@@ -3,7 +3,7 @@ import json
 import re
 from collections import Counter, defaultdict
 from datetime import datetime
-from inquiry_workflow import VERSION, next_step
+from inquiry_workflow import VERSION, next_step, response_step, routine_clarification
 from resilience import atomic_json
 
 
@@ -33,8 +33,11 @@ def snapshot(root, cache, now):
             if state in ('不用发','款不对','下架','已合并'):continue
             ident=entry['id'];history=sent[ident]
             if not history and state not in ('待发R1','待人工核实','待补主图'):continue
-            flow=next_step(entry,quotes.get(ident,{}),history)
-            if entry.get('回复暂停') or state=='待人工核实':flow.update(阶段='待核实',话术='',原因='有发送风险或既有人工待核实断点')
+            chat=batch/'chats'/f"{entry['商品'][0]['offerId']}.json"
+            messages=json.loads(chat.read_text(encoding='utf-8')).get('消息',[]) if chat.exists() else []
+            flow=response_step(entry,quotes.get(ident,{}),history,messages)
+            receipt_pause='未核实发送意图' in entry.get('回复暂停',{}).get('原因','')
+            if (entry.get('回复暂停') or state=='待人工核实') and not receipt_pause:flow.update(阶段='待核实',话术='',原因='有发送风险或既有人工待核实断点')
             if state=='待补主图':flow.update(阶段='待补主图',话术='',原因='移交核页补目标主图')
             if state=='待发R1':flow.update(阶段='待发送')
             current=entry.get('待决策')
@@ -42,7 +45,7 @@ def snapshot(root, cache, now):
             if current or historical:
                 text=current or historical;category=next((k for k,words in [('包装选择',('包装','袋装','盒装')),('规格选择',('规格','尺寸','颜色','材质','克重')),('定制与起订',('定制','起订','数量')),('样品与采购',('样品','下单','付款')),('税运口径',('含税','含运')),('联系方式',('联系','微信','电话'))] if any(word in text for word in words)),'其他决策')
                 decisions[category].append({'批次':batch.name,'id':ident,'问题':text,'状态':'当前待决策' if current else '历史待确认，待按新规则复核'})
-                if current:flow.update(阶段='待你决策',话术='',原因=text)
+                if current and not routine_clarification(current):flow.update(阶段='待你决策',话术='',原因=text)
             age=None
             if history:
                 try:age=round((now-datetime.fromisoformat(history[-1]['时间'])).total_seconds()/3600,1)
@@ -58,7 +61,7 @@ def snapshot(root, cache, now):
             old_evidence=False
             if history and chat.exists() and entry.get('询盘流程',{}).get('版本')!=VERSION:
                 old_evidence=any(m.get('发送方')=='对方' for m in json.loads(chat.read_text(encoding='utf-8')).get('消息',[]))
-            if history and chat.exists() and flow['阶段'] not in ('待你决策','待核实','待补主图','不匹配结束') and (old_evidence or flow['阶段'] in ('补包装','补贴标等资料','补图片视频报价') and not asked):resume.append(ident)
+            if history and chat.exists() and flow['阶段'] not in ('待你决策','待核实','待补主图','不匹配结束','资料收集完成') and (receipt_pause or old_evidence or flow['阶段']=='待核发送时间' or flow['话术'] and not asked):resume.append(ident)
     result={'版本':VERSION,'时间':now.isoformat(),'统计':dict(Counter(x['阶段'] for x in items)),'超72小时':sum((x['距上次发送小时'] or 0)>=72 and x['阶段'] not in ('资料收集完成','不匹配结束') for x in items),'条目':items,'可续接':resume}
     atomic_json(cache/'workflow_backlog.json',result)
     atomic_json(cache/'workflow_decisions.json',{'时间':now.isoformat(),'分类':dict(decisions)})

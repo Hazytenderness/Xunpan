@@ -9,7 +9,7 @@ from base import ROOT,CACHE,find,now_bj,in_work_hours,load_queue,save_queue
 from port import run,codex,site_root
 from resilience import RetryLater,atomic_json
 from analysis_cache import analyze_cached
-from inquiry_workflow import VERSION, next_step,allowed_reply,clarification_messages
+from inquiry_workflow import VERSION, next_step,response_step,allowed_reply,clarification_messages
 from inquiry_actions import report_outcome,manual_is_current
 
 FIELDS={'阶梯价','包装尺寸毛重','起订量','现货','匹配确认','箱规','产品尺寸净重','中性包装','贴标','每箱数量','实拍图','视频','定制','打样','交期','开票点数'}
@@ -45,6 +45,8 @@ def validate_quote(q,record,batch,visible_images=None):
         value=value['状态']
     if q['field']=='匹配确认' and isinstance(value,dict) and isinstance(value.get('匹配'),bool) and set(value)<= {'匹配','规格','说明'}:
         value='完全匹配' if value['匹配'] else '不匹配'
+    if q['field']=='匹配确认' and isinstance(value,dict) and value.get('匹配') in ('完全匹配','不匹配') and set(value)<={'匹配','原话','规格','说明'}:
+        value=value['匹配']
     if q['field']=='现货' and value is False:value='无货'
     indices=q['source_indexes']
     sources=[record['历史'][i] for i in indices if 0<=i<len(record['历史']) and record['历史'][i]['发送方']=='对方']
@@ -97,7 +99,7 @@ def main():
             '每箱数量记录对应目标销售单位的正整数；未说明单件/套装不能猜。实拍图/视频可记录实际附图路径或商家明确无/不能提供；不能把我方发图算商家实拍。'
             '产品裸尺寸/净重只能记产品尺寸净重，不能记包装尺寸毛重。商家估算包装尺寸重量可记录但原话标明估算。'
             '只给价格数字但不清楚对应规格或整套装数，不输出阶梯价；原话内保留单件与整套口径。'
-            'reply仅用于回应商家实际反问或必要澄清，通常必须从该条允许澄清列表中原样复制一条；若有当前待执行的人工处理意见，可据此写一句不超过120字的具体澄清或回答，不承诺采购和付款。无对应反问或意见时留空。普通资料追问由程序按优先级生成。'
+            'reply必须从该条允许澄清列表原样复制；有人工意见也不得自由改写。普通资料追问由程序生成。'
             '凡付款、下单、接受替代/定制、选择包装、联系方式等只填needs_user，不替用户拍板；贴标内容细节不作为需要用户决策的任务，不追问。'
             '只分析日本站，回复前的食品/倍数/不做筛选由外部程序再次核对。\n规则背景：\n'+instructions+'\n附图清单（按附图顺序）：\n'+json.dumps([str(p.relative_to(ROOT)) for p in images],ensure_ascii=False)+'\n输入：\n'+json.dumps(records,ensure_ascii=False))
     output=CACHE/'reply_analysis.json'
@@ -132,17 +134,17 @@ def main():
         merged={**existing,**{field:{'值':v[0],'原话':v[1],'时间':v[2]} for field,v in quotes.items()}}
         log=batch/'sent_log.jsonl'
         sent=[json.loads(line) for line in log.read_text(encoding='utf-8').splitlines() if line.strip() and json.loads(line).get('id')==item['id']] if log.exists() else []
-        flow=next_step(entry,merged,sent)
+        flow=response_step(entry,merged,sent,by[item['id']]['历史'])
         # 用户指定目的和固定话术优先；AI只处理有原文依据的商家反问。
         extra=item['reply'].strip()
         item={**item,'reply':flow['话术']}
         approved=allowed_reply(entry,extra)
-        last=next((m for m in reversed(by[item['id']]['历史']) if m['发送方']!='系统'),{})
-        is_question=last.get('发送方')=='对方' and __import__('re').search(r'[?？]|吗|呢|哪|多少|什么|几[个件套包箱]',last.get('内容',''))
+        history=by[item['id']]['历史']
+        boundary=max((i for i,m in enumerate(history) if m.get('发送方')=='我方'),default=-1)
+        is_question=any(m.get('发送方')=='对方' and __import__('re').search(r'[?？]|吗|呢|哪|多少|什么|几[个件套包箱]',m.get('内容','')) for m in history[boundary+1:])
         opinion=entry.get('人工处理意见') or {}
-        if approved and (is_question or opinion.get('state') in ('queued','working','waiting_send')):item['reply']=approved
-        if opinion.get('state') in ('queued','working','waiting_send') and opinion.get('action') in ('continue','clarify') and not approved:
-            item={**item,'reply':'','needs_user':item['needs_user'] or '处理意见暂未形成可安全发送的具体回复，请补充需要核实的资料要求。'}
+        if approved and is_question and flow['阶段'] not in ('资料收集完成','不匹配结束','等商家测量','等商家回复','待核实'):
+            item['reply']=approved
         if entry.get('人工暂缓'):item={**item,'reply':'','needs_user':''}
         if flow['阶段']=='待核实' and not item['needs_user']:item['needs_user']=flow['原因']
         planned.append((item,batch,entry,quotes,flow))
@@ -194,9 +196,10 @@ def main():
             elif entry.get('人工暂缓'):
                 report_outcome(ROOT,CACHE,key,'done','已按意见暂缓此供应商，原聊天和报价保留')
         if item['needs_user']:asks.append('要你定：'+key+'：'+item['needs_user'][:80])
-        elif item['reply'] and in_work_hours() and not entry.get('回复暂停'):
+        elif item['reply'] and in_work_hours() and (not entry.get('回复暂停') or '未核实发送意图' in entry['回复暂停'].get('原因','')):
             # 实发工具内部已包含完整核对，不再另开一次dry会话造成二次加载。
             sent=json.loads(run([sys.executable,ROOT/'tools/reply.py',key,item['reply']],cwd=ROOT))
+            if sent.get('需重读'):continue
             if sent['结果']=='成功':
                 stats['回了']+=1
                 report_outcome(ROOT,CACHE,key,'done','已按处理意见向商家回复，发送回执已保存：'+item['reply'])
@@ -208,7 +211,8 @@ def main():
                 if (CACHE/'neo_paused.json').exists():raise RuntimeError('验证或风控，停止所有操作')
                 stopped='⚠ 跟进暂停：'+key+'：'+sent['结果']+'；已保存报价和断点，本轮不再发回复'
                 report_outcome(ROOT,CACHE,key,'blocked','跟进未完成，已保存报价及发送断点：'+sent['结果'])
-                break
+                continue
+        if flow['阶段']=='待核发送时间':continue
         if opinion and not entry.get('回复暂停') and not entry.get('人工暂缓'):
             if item['needs_user']:report_outcome(ROOT,CACHE,key,'needs_human','已重新核对，仍需补充：'+item['needs_user'])
             elif item['reply'] and not in_work_hours():report_outcome(ROOT,CACHE,key,'waiting_send','已按意见生成待执行回复，等待原09:00–18:00时段，尚未发送：'+item['reply'])

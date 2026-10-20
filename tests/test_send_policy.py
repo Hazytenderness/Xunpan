@@ -46,3 +46,12 @@ class SendPolicyTests(unittest.TestCase):
                 self.assertEqual(validate_job(root,{'ww':'supplier','offerId':'123','text':text}),'T1')
             with self.assertRaises(ValueError):
                 validate_job(root,{'ww':'supplier','offerId':'123','text':'能帮忙贴标吗？'})
+
+    def test_legacy_wording_can_only_be_reconciled_without_sending(self):
+        from send_policy import validate_job
+        with tempfile.TemporaryDirectory(dir=ROOT.parent/'temp') as folder:
+            root=Path(folder);batch=root/'batches/test';batch.mkdir(parents=True)
+            (batch/'queue.json').write_text(json.dumps([self.entry]),encoding='utf-8')
+            job={'ww':'supplier','offerId':'123','text':'旧版未确认文案'}
+            with self.assertRaises(ValueError):validate_job(root,job)
+            self.assertEqual(validate_job(root,{**job,'recover_only':True}),'T1')

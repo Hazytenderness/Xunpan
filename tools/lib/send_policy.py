@@ -2,7 +2,7 @@
 import json
 import sys
 from pathlib import Path
-from inquiry_workflow import first_message, allowed_reply, next_step
+from inquiry_workflow import first_message, allowed_reply, response_step
 
 
 def validate_job(root, job):
@@ -18,6 +18,8 @@ def validate_job(root, job):
     if len(matches)!=1:
         raise ValueError('发送对象未唯一对应询盘队列，禁止临时绕过')
     batch,entry=matches[0]
+    if job.get('recover_only') is True:
+        return entry['id']
     text=job.get('text','')
     if job.get('kind')=='R1':
         approved=first_message(entry)
@@ -28,7 +30,9 @@ def validate_job(root, job):
             quotes=next((x for line in quote_file.read_text(encoding='utf-8').splitlines() if line.strip() and (x:=json.loads(line)).get('id')==entry['id']),{})
         if log.exists():
             sent=[x for line in log.read_text(encoding='utf-8').splitlines() if line.strip() and (x:=json.loads(line)).get('id')==entry['id']]
-        approved=allowed_reply(entry,text) or next_step(entry,quotes,sent)['话术']
+        chat_file=batch/'chats'/f"{job['offerId']}.json"
+        history=json.loads(chat_file.read_text(encoding='utf-8')).get('消息',[]) if chat_file.exists() else []
+        approved=allowed_reply(entry,text) or response_step(entry,quotes,sent,history)['话术']
     if not approved or text!=approved:
         raise ValueError('发送内容不符合用户确认话术，已阻止发送')
     return entry['id']

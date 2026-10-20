@@ -1,0 +1,2921 @@
+{
+  "checkedAt": "2026-10-20",
+  "scope": "83商家逐商家只读，未人工发送任何消息，未云端写入；打开聊天可能平台自动欢迎/自动领券。",
+  "target1867": {
+    "asin": "B0H5PX8RL7",
+    "unitCount": 4,
+    "evidence": "亚马逊实时选项颜色4件套/2060JPY/每单元515JPY",
+    "sourceFile": "\\\\?\\C:\\Users\\asus\\AppData\\Local\\BrowserClaw\\Application\\155.0.8311.26\\.browseros\\tool-output\\evaluate-1792479361272-ba7ed616-c452-4fa8-ac17-43ac9b60094a.txt"
+  },
+  "merchants": [
+    {
+      "index": 0,
+      "ww": "a愠风商贸",
+      "items": [
+        {
+          "id": 404,
+          "offer": "1057395106016",
+          "sku": "三层樱花粉+带扶手【折叠款打开即用】"
+        }
+      ],
+      "readStatus": "已读",
+      "latestRows": [],
+      "alreadyAsked": false,
+      "previousQuestions": [],
+      "finding": "当前空会话，无具体报价/包装回复。",
+      "imageReview": null,
+      "rawFile": "round2_chat_b_raw.json",
+      "humanDecisionNeeded": false
+    },
+    {
+      "index": 1,
+      "ww": "changxinbag",
+      "items": [
+        {
+          "id": 2258,
+          "offer": "1068256521945",
+          "sku": "透明4（73*42*35cm）"
+        }
+      ],
+      "readStatus": "已读",
+      "latestRows": [
+        {
+          "images": [],
+          "text": "changxinbag\n2026-10-14 09:27:28\n你好"
+        },
+        {
+          "images": [],
+          "text": "changxinbag\n2026-10-14 09:27:33\n没有"
+        },
+        {
+          "images": [],
+          "text": "changxinbag\n2026-10-14 09:27:36\n需要定制"
+        },
+        {
+          "images": [],
+          "text": "changxinbag\n2026-10-14 09:27:49\n尺寸多少"
+        }
+      ],
+      "alreadyAsked": true,
+      "previousQuestions": [
+        "蛙蛙cc\n2026-10-14 09:27:27\n图上这款有吗？白色防水被子收纳袋（特大容量，6个装）单品包装尺寸多少（长宽高）、重量多少，500 个什么价？\n已读"
+      ],
+      "finding": "目标白色防水6件袋无现货，需要定制，商家问尺寸；当前透明73×42×35候选须单独按SKU，不能将目标否认扩展成全店无货。",
+      "imageReview": null,
+      "rawFile": "round2_chat_b_raw.json",
+      "humanDecisionNeeded": false
+    },
+    {
+      "index": 2,
+      "ww": "fdt20",
+      "items": [
+        {
+          "id": 2850,
+          "offer": "977257019152",
+          "sku": "透明板45mm*75mm长方形直角"
+        }
+      ],
+      "readStatus": "已读",
+      "latestRows": [
+        {
+          "images": [
+            "https://cbu-im.oss-accelerate.aliyuncs.com/webim/514a6d1970a92c940bcd12a6bc4b9548.jpeg"
+          ],
+          "text": "蛙蛙cc\n2026-10-16 09:32:55\n预览\n已读"
+        },
+        {
+          "images": [],
+          "text": "蛙蛙cc\n2026-10-16 09:32:57\n图上这款有吗？亚克力冰箱磁贴DIY套件（6×4cm圆角长方形、厚5mm、免双面胶，8个装）单品包装尺寸多少（长宽高）、重量多少，500 个什么价？\n已读"
+        },
+        {
+          "images": [],
+          "text": "fdt20\n2026-10-16 09:34:56\n暂不支持的消息类型"
+        }
+      ],
+      "alreadyAsked": true,
+      "previousQuestions": [
+        "蛙蛙cc\n2026-10-16 09:32:57\n图上这款有吗？亚克力冰箱磁贴DIY套件（6×4cm圆角长方形、厚5mm、免双面胶，8个装）单品包装尺寸多少（长宽高）、重量多少，500 个什么价？\n已读"
+      ],
+      "finding": "仅自动稍等，无有效参数；整套配件及圆角尺寸缺口仍在。",
+      "imageReview": null,
+      "rawFile": "round2_chat_b_raw.json",
+      "humanDecisionNeeded": false
+    },
+    {
+      "index": 3,
+      "ww": "jinaoganfajin2013",
+      "items": [
+        {
+          "id": 1385,
+          "offer": "750966823835",
+          "sku": "灰色>一条浴巾70*140cm"
+        }
+      ],
+      "readStatus": "已读",
+      "latestRows": [
+        {
+          "images": [
+            "https://cbu-im.oss-accelerate.aliyuncs.com/webim/ee5c99c13b17ff03b71806e84bc77bd4.jpeg"
+          ],
+          "text": "蛙蛙cc\n2026-10-10 12:55:54\n预览\n已读"
+        },
+        {
+          "images": [],
+          "text": "蛙蛙cc\n2026-10-10 12:55:59\n图上这款有吗？超细纤维浴巾（约60×120cm，5条装）单品包装尺寸多少（长宽高）、重量多少，500 个什么价？\n已读"
+        },
+        {
+          "images": [],
+          "text": "jinaoganfajin2013\n2026-10-10 12:56:22\n多少克的"
+        },
+        {
+          "images": [],
+          "text": "jinaoganfajin2013\n2026-10-20 13:30:59\n暂不支持的消息类型"
+        }
+      ],
+      "alreadyAsked": true,
+      "previousQuestions": [
+        "蛙蛙cc\n2026-10-10 12:55:59\n图上这款有吗？超细纤维浴巾（约60×120cm，5条装）单品包装尺寸多少（长宽高）、重量多少，500 个什么价？\n已读"
+      ],
+      "finding": "商家问多少克；此前仅目标60×120/5条，现候选70×140灰色需区别。",
+      "imageReview": null,
+      "rawFile": "round2_chat_b_raw.json",
+      "humanDecisionNeeded": false
+    },
+    {
+      "index": 4,
+      "ww": "junjunpets",
+      "items": [
+        {
+          "id": 2092,
+          "offer": "818777659010",
+          "sku": "简约双边条纹窝  灰色>L 60*45"
+        }
+      ],
+      "readStatus": "已读",
+      "latestRows": [
+        {
+          "images": [],
+          "text": "junjunpets:小康\n2026-10-20 14:39:29\n暂不支持的消息类型"
+        }
+      ],
+      "alreadyAsked": false,
+      "previousQuestions": [],
+      "finding": "仅自动接待/不支持消息或欢迎，无可采用具体业务参数。",
+      "imageReview": null,
+      "rawFile": "round2_chat_b_raw.json",
+      "humanDecisionNeeded": false
+    },
+    {
+      "index": 5,
+      "ww": "ming333520",
+      "items": [
+        {
+          "id": 2541,
+          "offer": "674846592408",
+          "sku": "0951-浅灰【A类7A抗菌】>40*80CM"
+        }
+      ],
+      "readStatus": "已读",
+      "latestRows": [
+        {
+          "images": [
+            "https://gw.alicdn.com/imgextra/i3/O1CN01MQFx8L1ntppg6pZNH_!!6000000005148-2-tps-1076-312.png_540x540q90_.webp"
+          ],
+          "text": "ming333520:售后\n2026-10-20 14:39:31\n店铺专享\n￥\n1\n满10可用\n有效期 09.05-2027.09.06"
+        },
+        {
+          "images": [],
+          "text": "ming333520:售后\n2026-10-20 14:39:31\n亲，欢迎光临，请问有什么可以帮您的？"
+        },
+        {
+          "images": [],
+          "text": "ming333520:售后\n2026-10-20 14:40:13\n您好 在的哦 亲"
+        },
+        {
+          "images": [],
+          "text": "ming333520:售后\n2026-10-20 14:40:20\n需要什么样的商品呢 亲"
+        }
+      ],
+      "alreadyAsked": false,
+      "previousQuestions": [],
+      "finding": "仅自动接待/不支持消息或欢迎，无可采用具体业务参数。",
+      "imageReview": null,
+      "rawFile": "round2_chat_b_raw.json",
+      "humanDecisionNeeded": false
+    },
+    {
+      "index": 6,
+      "ww": "tcxinchuang",
+      "items": [
+        {
+          "id": 915,
+          "offer": "1034691186838",
+          "sku": "大胶扇24*33CM"
+        }
+      ],
+      "readStatus": "已读",
+      "latestRows": [],
+      "alreadyAsked": false,
+      "previousQuestions": [],
+      "finding": "当前会话无消息，无可采用聊天参数。",
+      "imageReview": null,
+      "rawFile": "round2_chat_b_raw.json",
+      "humanDecisionNeeded": false
+    },
+    {
+      "index": 7,
+      "ww": "xipigoucom",
+      "items": [
+        {
+          "id": 1801,
+          "offer": "1045757578932",
+          "sku": "奶白蜜桃粉丨600ML丨防溢款"
+        }
+      ],
+      "readStatus": "已读",
+      "latestRows": [
+        {
+          "images": [
+            "https://cbu01.alicdn.com/img/ibank/O1CN01V1brttxnt6G1chua_!!2743028195-0-cib.jpg"
+          ],
+          "text": "xipigoucom:小方\n2026-10-20 14:39:49\n^_^\n10月19号-21号，.每满200-10元，叠加会员9.5折，更有限量大额优惠券叠加使用。全场到手8.5折起，鞋服布艺牵引绳满500元还包邮哦，联系客服获获取详情优惠哦\n秋冬季保暖宠物窝半封闭猫屋狗窝可拆中大型犬房子睡觉猫咪跨境\n¥ 34.80\n有优惠吗\n包邮吗？\n支持代发吗？\n获取优惠\n可以定制吗？"
+        }
+      ],
+      "alreadyAsked": false,
+      "previousQuestions": [],
+      "finding": "仅促销自动欢迎，无否认600ML防溢款、无新包装；root已独立核详情。",
+      "imageReview": null,
+      "rawFile": "round2_chat_b_raw.json",
+      "humanDecisionNeeded": false
+    },
+    {
+      "index": 8,
+      "ww": "zzy1366243290",
+      "items": [
+        {
+          "id": 2092,
+          "offer": "649287057018",
+          "sku": "商家回复M号普通袋装60×43×10cm"
+        }
+      ],
+      "readStatus": "已读",
+      "latestRows": [
+        {
+          "images": [
+            "https://img.alicdn.com/imgextra/i4/988150125/O1CN01scovlMVpDmE11wrU_!!988150125-2-ampmedia.png"
+          ],
+          "text": "zzy1366243290:wdc18964\n2026-10-20 14:18:41\n预览"
+        },
+        {
+          "images": [],
+          "text": "蛙蛙cc\n2026-10-20 14:26:33\nM号普通袋装60×43×10cm、33元已记下，照片已看；只差这个M号含袋重量多少克？\n已读"
+        },
+        {
+          "images": [],
+          "text": "zzy1366243290:wdc18964\n2026-10-20 14:28:34\n您好，稍等\n智能客户专员"
+        },
+        {
+          "images": [],
+          "text": "zzy1366243290:wdc18964\n2026-10-20 14:34:37\n720g"
+        }
+      ],
+      "alreadyAsked": true,
+      "previousQuestions": [
+        "蛙蛙cc\n2026-10-20 14:15:11\n您好，先核链接649287057018灰色M号85×85×10cm可拆洗狗床，单个销售。请给单个压缩或折叠装好销售包装后的长宽高（厘米）、含包装重量（克）和500个出厂不含税运单价，仅作询价；请说明采用压缩还是普通袋装。\n已读",
+        "蛙蛙cc\n2026-10-20 14:26:33\nM号普通袋装60×43×10cm、33元已记下，照片已看；只差这个M号含袋重量多少克？\n已读"
+      ],
+      "finding": "已确认普通袋M60×43×10cm、720g、500个33元不含税运，root正在采用。",
+      "imageReview": null,
+      "rawFile": "round2_chat_b_raw.json",
+      "humanDecisionNeeded": false
+    },
+    {
+      "index": 9,
+      "ww": "万佳美工贸",
+      "items": [
+        {
+          "id": 1081,
+          "offer": "966116799467",
+          "sku": null
+        }
+      ],
+      "readStatus": "已读",
+      "latestRows": [
+        {
+          "images": [
+            "https://cbu01.alicdn.com/img/ibank/O1CN01PVDNxc1STdRLZpk1t_!!2528752248-0-cib.jpg"
+          ],
+          "text": "万佳美工贸:丹丹\n2026-10-15 09:31:32\nL型床缝填充垫床缝填塞神器可自剪裁长度床缝填充高密度海绵垫\n￥2.90\n新人价\n立即下单"
+        },
+        {
+          "images": [],
+          "text": "蛙蛙cc\n2026-10-15 09:53:59\n我们要190×30×15cm米色绗缝款，带防滑、可水洗；请报500个单价、单品包装尺寸和重量。\n已读"
+        },
+        {
+          "images": [],
+          "text": "万佳美工贸:丹丹\n2026-10-15 09:54:09\n稍等"
+        },
+        {
+          "images": [],
+          "text": "万佳美工贸:孟丹\n2026-10-15 09:56:30\n190*30*15cm，就是常规的长方形的形状吗"
+        }
+      ],
+      "alreadyAsked": true,
+      "previousQuestions": [
+        "蛙蛙cc\n2026-10-15 09:53:59\n我们要190×30×15cm米色绗缝款，带防滑、可水洗；请报500个单价、单品包装尺寸和重量。\n已读"
+      ],
+      "finding": "尺寸190×30×15已提供，商家问是否常规长方形。图是填缝用长方形包布海绵，可据已选款回答形状，无需再问用户；包装三边/毛重/价未答。",
+      "imageReview": "已看两图：床旁填缝海绵及米色包布填缝垫，均无尺、秤或包装测量。商家按190×30×15cm定制，尚问是否常规长方形。",
+      "rawFile": "round2_chat_b_raw.json",
+      "humanDecisionNeeded": false
+    },
+    {
+      "index": 10,
+      "ww": "三利集团服饰",
+      "items": [
+        {
+          "id": 3001,
+          "offer": "574121067399",
+          "sku": "白色-红标>毛巾——（34-35)*(72-74）"
+        }
+      ],
+      "readStatus": "已读",
+      "latestRows": [
+        {
+          "images": [],
+          "text": "三利集团服饰:小利\n2026-10-16 10:42:15\n没有现货的哦"
+        },
+        {
+          "images": [],
+          "text": "三利集团服饰:小利\n2026-10-16 10:42:22\n我们这个规格的目前没有哈"
+        },
+        {
+          "images": [],
+          "text": "三利集团服饰:小利\n2026-10-16 10:52:22\n亲，库存不多，喜欢就不要错过哦！"
+        },
+        {
+          "images": [
+            "https://cbu01.alicdn.com/img/ibank/O1CN010IJG181jJsKm9ytVH_!!983024528-0-cib.jpg"
+          ],
+          "text": "三利集团服饰:小利\n2026-10-16 10:52:22\n三利毛巾纯棉成人素色洗脸面巾礼品团购批发logo毛巾纯棉100全棉\n￥7.90\n新人价\n立即下单"
+        }
+      ],
+      "alreadyAsked": true,
+      "previousQuestions": [
+        "蛙蛙cc\n2026-10-16 10:42:00\n图上这款有吗？纯棉加厚大号面巾约40×90cm（白色，2个装）单品包装尺寸多少（长宽高）、重量多少，500 个什么价？\n已读"
+      ],
+      "finding": "目标40×90两条没有现货/规格；不代表当前35×75候选不存在。",
+      "imageReview": null,
+      "rawFile": "round2_chat_b_raw.json",
+      "humanDecisionNeeded": false
+    },
+    {
+      "index": 11,
+      "ww": "东莞多品宠物用品有限公司",
+      "items": [
+        {
+          "id": 3547,
+          "offer": "848350013182",
+          "sku": "红色>1.0cm*（20-30cm)"
+        }
+      ],
+      "readStatus": "已读",
+      "latestRows": [
+        {
+          "images": [],
+          "text": "东莞多品宠物用品有限公司\n2026-10-16 17:43:52\n黄色的是铃铛吗"
+        },
+        {
+          "images": [],
+          "text": "蛙蛙cc\n2026-10-16 17:51:21\n是的，黄色的是铃铛。请问500个的单价、单品包装长宽高和重量分别是多少？\n已读"
+        },
+        {
+          "images": [],
+          "text": "东莞多品宠物用品有限公司\n2026-10-17 14:22:35\n单价6.0\n单个16克"
+        },
+        {
+          "images": [],
+          "text": "蛙蛙cc\n2026-10-17 14:31:23\n请问单品包装后的长宽高分别是多少厘米？\n已读"
+        }
+      ],
+      "alreadyAsked": true,
+      "previousQuestions": [
+        "蛙蛙cc\n2026-10-16 13:26:49\n图上这款有吗？犬猫用轻量小型防丢定位标签项圈套装（带铃铛）单品包装尺寸多少（长宽高）、重量多少，500 个什么价？\n已读",
+        "蛙蛙cc\n2026-10-16 17:51:21\n是的，黄色的是铃铛。请问500个的单价、单品包装长宽高和重量分别是多少？\n已读",
+        "蛙蛙cc\n2026-10-17 14:31:23\n请问单品包装后的长宽高分别是多少厘米？\n已读"
+      ],
+      "finding": "定做铃铛项圈单价6元、单个16g；未明确含包装重量，包装三边已10-17追问未答，不重复问。",
+      "imageReview": null,
+      "rawFile": "round2_chat_b_raw.json",
+      "humanDecisionNeeded": false
+    },
+    {
+      "index": 12,
+      "ww": "临沂金利塑料制品",
+      "items": [
+        {
+          "id": 2158,
+          "offer": "904646901427",
+          "sku": "大号34.5×24×21cm"
+        },
+        {
+          "id": 2159,
+          "offer": "904646901427",
+          "sku": "中号28.5×19.5×17.5cm"
+        }
+      ],
+      "readStatus": "已读",
+      "latestRows": [],
+      "alreadyAsked": false,
+      "previousQuestions": [],
+      "finding": "当前会话无消息，无可采用聊天参数。",
+      "imageReview": null,
+      "rawFile": "round2_chat_b_raw.json",
+      "humanDecisionNeeded": false
+    },
+    {
+      "index": 13,
+      "ww": "义乌安适新材料",
+      "items": [
+        {
+          "id": 1870,
+          "offer": "805696654004",
+          "sku": "米白色>长100cm*宽60cm*4mm"
+        },
+        {
+          "id": 1870,
+          "offer": "979380352962",
+          "sku": "米白色>长100cm*宽60cm*4mm"
+        }
+      ],
+      "readStatus": "已读",
+      "latestRows": [
+        {
+          "images": [],
+          "text": "蛙蛙cc\n2026-10-13 16:01:59\n图上这款有吗？猫抓墙贴自粘保护片（可裁剪）单品包装尺寸多少（长宽高）、重量多少，500 个什么价？\n已读"
+        },
+        {
+          "images": [],
+          "text": "义乌安适新材料\n2026-10-13 16:02:32\n什么尺寸"
+        },
+        {
+          "images": [],
+          "text": "蛙蛙cc\n2026-10-20 13:56:15\n尺寸要米白色30×100cm自粘猫抓墙贴，单片销售，您页面的4mm款。请补单片卷好或折好装袋后的长、宽、高（厘米）和含袋重量（克），普通OPP袋即可。\n已读"
+        },
+        {
+          "images": [],
+          "text": "义乌安适新材料\n2026-10-20 13:57:10\n平铺\n30*30 尺寸：32*32*0.6单片40克  \n60*30 尺寸：32*62*0.6单片75克\n收卷\n60*30 尺寸：32*7*7单卷75克\n80*50尺寸： 52*8*8单卷170克\n100*30尺寸：32*9*9单卷120克\n100*40尺寸：42*9*9单卷170克\n100*60尺寸：62*9*9单卷250克\n200*40尺寸：42*13*13单卷340克\n200*60尺寸：62*13*13单卷500克\n300*30尺寸：32*14*14单卷360克\n300*40尺寸：42*14*14单卷510克\n300*60尺寸：62*14*14单卷750克"
+        }
+      ],
+      "alreadyAsked": true,
+      "previousQuestions": [
+        "蛙蛙cc\n2026-10-13 16:01:59\n图上这款有吗？猫抓墙贴自粘保护片（可裁剪）单品包装尺寸多少（长宽高）、重量多少，500 个什么价？\n已读",
+        "蛙蛙cc\n2026-10-20 13:56:15\n尺寸要米白色30×100cm自粘猫抓墙贴，单片销售，您页面的4mm款。请补单片卷好或折好装袋后的长、宽、高（厘米）和含袋重量（克），普通OPP袋即可。\n已读"
+      ],
+      "finding": "同商家完整规格表100×60cm卷装62×9×9cm250g；与CW1870规格一致，材料4mm语境可关联。不是30×100行；两个offer需保留来源语境。",
+      "imageReview": "文字表含100×60cm收卷62×9×9cm/250g。语境为4mm，未逐offer确认；不得套30×100行。",
+      "rawFile": "round2_chat_b_raw.json",
+      "humanDecisionNeeded": false
+    },
+    {
+      "index": 14,
+      "ww": "义乌市彬乐日用品厂",
+      "items": [
+        {
+          "id": 3680,
+          "offer": "958678685969",
+          "sku": "一秒去毛【加厚款7mm】>20*15cm"
+        }
+      ],
+      "readStatus": "已读",
+      "latestRows": [
+        {
+          "images": [],
+          "text": "义乌市彬乐日用品厂:小严\n2026-10-17 09:38:47\n暂不支持的消息类型"
+        },
+        {
+          "images": [],
+          "text": "蛙蛙cc\n2026-10-17 09:41:35\n请问目标均码、5mm网眼对应哪个尺寸？500个单价和单品包装长宽高、重量是多少？\n已读"
+        },
+        {
+          "images": [],
+          "text": "义乌市彬乐日用品厂:小严\n2026-10-17 09:41:47\n抱歉没有"
+        },
+        {
+          "images": [],
+          "text": "义乌市彬乐日用品厂:ai接待助手\n2026-10-17 10:00:13\n暂不支持的消息类型"
+        }
+      ],
+      "alreadyAsked": true,
+      "previousQuestions": [
+        "蛙蛙cc\n2026-10-17 09:28:25\n图上这款有吗？静电网眼除毛手套（目标均码、5mm网眼）单品包装尺寸多少（长宽高）、重量多少，500 个什么价？\n已读",
+        "蛙蛙cc\n2026-10-17 09:41:35\n请问目标均码、5mm网眼对应哪个尺寸？500个单价和单品包装长宽高、重量是多少？\n已读"
+      ],
+      "finding": "目标均码5mm网眼商家明确没有；提供的24×18等是其他尺寸产品净重，不能当目标包装。",
+      "imageReview": "已看图为两种大小黑色网面除毛手套，非包装测量图；商家随后明确目标均码5mm网眼没有。",
+      "rawFile": "round2_chat_b_raw.json",
+      "humanDecisionNeeded": false
+    },
+    {
+      "index": 15,
+      "ww": "义乌市欣幸商贸有限公司",
+      "items": [
+        {
+          "id": 1926,
+          "offer": "1038216199170",
+          "sku": "榉木不倒翁【彩色羽毛款】"
+        }
+      ],
+      "readStatus": "已读",
+      "latestRows": [
+        {
+          "images": [],
+          "text": "义乌市欣幸商贸有限公司\n2026-10-20 14:40:17\n您好，欢迎光临本店!本店正常营\n业中~\n下单默认同意以下说明条款\n一件代发分销拦截退货一律扣除3-4元发货成本，请知悉!\n专利问题请自行查清，本店不负任\n何责任!\n关于发票:所有页面价格不含税，\n当月开票收取1个点，超期收取3\n个点。"
+        }
+      ],
+      "alreadyAsked": false,
+      "previousQuestions": [],
+      "finding": "仅自动接待/不支持消息或欢迎，无可采用具体业务参数。",
+      "imageReview": null,
+      "rawFile": "round2_chat_b_raw.json",
+      "humanDecisionNeeded": false
+    },
+    {
+      "index": 16,
+      "ww": "义乌市英甯宠物用品厂",
+      "items": [
+        {
+          "id": 3548,
+          "offer": "1064418754052",
+          "sku": "透气网布XL【90斤内适用】"
+        },
+        {
+          "id": 3587,
+          "offer": "1068626363130",
+          "sku": null
+        }
+      ],
+      "readStatus": "已读",
+      "latestRows": [
+        {
+          "images": [],
+          "text": "义乌市英甯宠物用品厂:小龙女\n2026-10-16 14:54:33\n80g"
+        },
+        {
+          "images": [],
+          "text": "义乌市英甯宠物用品厂:小龙女\n2026-10-16 14:54:35\n有货"
+        },
+        {
+          "images": [],
+          "text": "义乌市英甯宠物用品厂:小龙女\n2026-10-16 14:54:37\n一个也能买"
+        },
+        {
+          "images": [],
+          "text": "义乌市英甯宠物用品厂:小龙女\n2026-10-20 11:11:51\n暂不支持的消息类型"
+        }
+      ],
+      "alreadyAsked": true,
+      "previousQuestions": [
+        "蛙蛙cc\n2026-10-16 13:48:18\n图上这款有吗？犬猫通用一键清毛底绒梳（长短毛适用）单品包装尺寸多少（长宽高）、重量多少，500 个什么价？\n已读",
+        "蛙蛙cc\n2026-10-16 14:37:27\n这款单个包装长宽高和重量多少？500个单价多少？现在有现货、最低多少个起订？\n已读",
+        "蛙蛙cc\n2026-10-16 14:53:55\n请问单个包装后的长宽高、重量是多少？现在有现货吗，最低多少个起订？\n已读"
+      ],
+      "finding": "500个4.5元、80g、有货、1个可买；包装三边已10-16追问未答，80g语境系包装后重量问句。",
+      "imageReview": null,
+      "rawFile": "round2_chat_b_raw.json",
+      "humanDecisionNeeded": false
+    },
+    {
+      "index": 17,
+      "ww": "义乌拿云电子商务",
+      "items": [
+        {
+          "id": 3062,
+          "offer": "833145947658",
+          "sku": "魔力抹布【30*30cm】"
+        }
+      ],
+      "readStatus": "已读",
+      "latestRows": [
+        {
+          "images": [],
+          "text": "义乌拿云电子商务:蓝天\n2026-10-16 11:03:36\n只有一条装的亲 "
+        },
+        {
+          "images": [],
+          "text": "义乌拿云电子商务:蓝天\n2026-10-16 11:13:37\n亲，库存不多，喜欢就不要错过哦！"
+        },
+        {
+          "images": [
+            "https://cbu01.alicdn.com/img/ibank/O1CN01DzFppc2EyPW6cywoe_!!3999938813-0-cib.jpg"
+          ],
+          "text": "义乌拿云电子商务:蓝天\n2026-10-16 11:13:37\n魔力抹布擦玻璃神器吸水不掉毛擦镜子擦车不留痕渍无水印清洁抹布\n￥0.60\n立即下单"
+        },
+        {
+          "images": [],
+          "text": "义乌拿云电子商务:蓝天\n2026-10-20 14:40:39\n您好老板， 欢迎光临本厂！假期期间正常发货。\n1：本店现货充足，可直接下单，如遇大量集采请联系在线客服、如有运费较高请联系客服进行调整。\n2：热销新品，以及下游爆款商品，可联系我们为您提供全站式服务。\n点击查看【发货时间】\n点击查看【发什么快递】\n点击查看【售后服务】\n点击查看【一件代发】\n本地自提以及物流"
+        }
+      ],
+      "alreadyAsked": true,
+      "previousQuestions": [
+        "蛙蛙cc\n2026-10-16 11:01:54\n图上这款有吗？灰色超细纤维无痕擦玻璃布（30×30cm，10个装）单品包装尺寸多少（长宽高）、重量多少，500 个什么价？\n已读"
+      ],
+      "finding": "只有单条装；目标10条套包装未答。",
+      "imageReview": null,
+      "rawFile": "round2_chat_b_raw.json",
+      "humanDecisionNeeded": false
+    },
+    {
+      "index": 18,
+      "ww": "义乌虹途宠物用品",
+      "items": [
+        {
+          "id": 1778,
+          "offer": "1074103297664",
+          "sku": "洛克黄-不锈钢刀头【去底绒不剃毛】>通用"
+        },
+        {
+          "id": 1872,
+          "offer": "1061489787395",
+          "sku": "橘白色-宠物便携手提挎包"
+        }
+      ],
+      "readStatus": "已读",
+      "latestRows": [
+        {
+          "images": [],
+          "text": "蛙蛙cc\n2026-10-13 16:45:09\n图上这款有吗？可折叠布艺宠物手提包 S码（单肩+手提）单品包装尺寸多少（长宽高）、重量多少，500 个什么价？\n已读"
+        },
+        {
+          "images": [
+            "https://cbu01.alicdn.com/img/ibank/O1CN01xaI6KR1ZvIjyWRUN8_!!2220641793256-0-cib.jpg"
+          ],
+          "text": "义乌虹途宠物用品:小熊\n2026-10-13 16:46:57\n我在看这个商品\n宠物猫咪新款外出单肩手提便携车载包折叠大容量狗狗便携透气背包\n￥9.80"
+        },
+        {
+          "images": [],
+          "text": "义乌虹途宠物用品:小熊\n2026-10-13 16:47:08\n手提的只有这个"
+        },
+        {
+          "images": [],
+          "text": "义乌虹途宠物用品:小熊\n2026-10-20 13:30:43\n欢迎光临，本店产品均为工厂直销\n本店承接国内外批发和电商代发，欢迎进店咨询\n如有运费过高情况请联系店铺客服进行改价（量大价优）🌹"
+        }
+      ],
+      "alreadyAsked": true,
+      "previousQuestions": [
+        "蛙蛙cc\n2026-10-13 16:45:09\n图上这款有吗？可折叠布艺宠物手提包 S码（单肩+手提）单品包装尺寸多少（长宽高）、重量多少，500 个什么价？\n已读"
+      ],
+      "finding": "只手提另一链接款，原目标折叠S码背包匹配需看候选差异，不混价9.8。",
+      "imageReview": null,
+      "rawFile": "round2_chat_b_raw.json",
+      "humanDecisionNeeded": false
+    },
+    {
+      "index": 19,
+      "ww": "云霞包装工厂",
+      "items": [
+        {
+          "id": 915,
+          "offer": "733500907132",
+          "sku": "大团扇24*33CM"
+        }
+      ],
+      "readStatus": "已读",
+      "latestRows": [
+        {
+          "images": [
+            "https://cbu01.alicdn.com/img/ibank/O1CN01DHflUp1pNtcjL06vp_!!2210922375349-0-cib.jpg"
+          ],
+          "text": "云霞包装工厂:小云\n2026-10-20 14:11:41\n你好，欢迎光临本厂！主要生产不干胶，贴纸，标签、条码、唛头、货号，产品腰封、纸卡、吊牌、产品包装盒、精装礼盒、产品画册、产品说明书、礼品袋、手提袋、水洗标，售后卡，好评卡，包装设计等一条龙服务！ 诚信为本，合作共赢。质量第一，服务第一！欢迎新老客户下单，需要定制请联系我哦\n不干胶标签防水包装盒封口贴转印贴纸水晶可印logo定制标贴定制\n¥ 0.01"
+        },
+        {
+          "images": [],
+          "text": "蛙蛙cc\n2026-10-20 14:11:57\n您好，询问链接733500907132大团扇24×33cm，能否做白色空白上质纸扇面、塑料扇骨、无印刷的DIY款？若能，按50把一套销售，请给50把装好后的销售包装长宽高（厘米）、含包装重量（克）和500套出厂不含税运单套价。若仅有PP塑料扇面请说明，仅作询价。\n已读"
+        },
+        {
+          "images": [],
+          "text": "云霞包装工厂:小云\n2026-10-20 14:12:22\n可以的 "
+        }
+      ],
+      "alreadyAsked": true,
+      "previousQuestions": [
+        "蛙蛙cc\n2026-10-20 14:11:57\n您好，询问链接733500907132大团扇24×33cm，能否做白色空白上质纸扇面、塑料扇骨、无印刷的DIY款？若能，按50把一套销售，请给50把装好后的销售包装长宽高（厘米）、含包装重量（克）和500套出厂不含税运单套价。若仅有PP塑料扇面请说明，仅作询价。\n已读"
+      ],
+      "finding": "对50把白色纸面塑料骨DIY扇回复‘可以的’，其余50把套包装三边、毛重、500套价已问未答。",
+      "imageReview": null,
+      "rawFile": "round2_chat_b_raw.json",
+      "humanDecisionNeeded": false
+    },
+    {
+      "index": 20,
+      "ww": "伊兆纺织",
+      "items": [
+        {
+          "id": 2297,
+          "offer": "822442279496",
+          "sku": "卡其>120/160"
+        }
+      ],
+      "readStatus": "已读",
+      "latestRows": [
+        {
+          "images": [],
+          "text": "伊兆纺织\n2026-10-14 09:47:15\n打孔还是魔术贴"
+        },
+        {
+          "images": [],
+          "text": "蛙蛙cc\n2026-10-14 09:51:42\n要带调节挂钩的挂钩式，不是打孔或魔术贴，可以做吗？\n已读"
+        },
+        {
+          "images": [],
+          "text": "伊兆纺织\n2026-10-14 09:53:43\n暂不支持的消息类型"
+        },
+        {
+          "images": [],
+          "text": "伊兆纺织\n2026-10-14 10:10:05\n我看看"
+        }
+      ],
+      "alreadyAsked": true,
+      "previousQuestions": [
+        "蛙蛙cc\n2026-10-14 09:31:24\n图上这款有吗？遮光窗帘（宽60cm×长100cm）单品包装尺寸多少（长宽高）、重量多少，500 个什么价？\n已读",
+        "蛙蛙cc\n2026-10-14 09:51:42\n要带调节挂钩的挂钩式，不是打孔或魔术贴，可以做吗？\n已读"
+      ],
+      "finding": "挂钩式非打孔/魔术贴已明确，商家说看看；缺包装/报价。",
+      "imageReview": null,
+      "rawFile": "round2_chat_b_raw.json",
+      "humanDecisionNeeded": false
+    },
+    {
+      "index": 21,
+      "ww": "优米迪宠物用品有限公司",
+      "items": [
+        {
+          "id": 1950,
+          "offer": "1002750167483",
+          "sku": "网纹狗球蓝色6.7cm【红色】"
+        }
+      ],
+      "readStatus": "已读",
+      "latestRows": [
+        {
+          "images": [],
+          "text": "优米迪宠物用品有限公司\n2026-10-20 14:40:56\n暂不支持的消息类型"
+        }
+      ],
+      "alreadyAsked": false,
+      "previousQuestions": [],
+      "finding": "仅自动接待/不支持消息或欢迎，无可采用具体业务参数。",
+      "imageReview": null,
+      "rawFile": "round2_chat_b_raw.json",
+      "humanDecisionNeeded": false
+    },
+    {
+      "index": 22,
+      "ww": "佛山协隆生物科技有限公司",
+      "items": [
+        {
+          "id": 1932,
+          "offer": "659143781230",
+          "sku": "免洗泡沫400ml"
+        }
+      ],
+      "readStatus": "已读",
+      "latestRows": [
+        {
+          "images": [],
+          "text": "蛙蛙cc\n2026-10-20 14:40:59\n老板你好，我来领取询盘有礼券～\n未读"
+        },
+        {
+          "images": [],
+          "text": "佛山协隆生物科技有限公司\n2026-10-20 14:40:59\n暂不支持的消息类型"
+        },
+        {
+          "images": [],
+          "text": "佛山协隆生物科技有限公司\n2026-10-20 14:41:00\n暂不支持的消息类型"
+        }
+      ],
+      "alreadyAsked": false,
+      "previousQuestions": [],
+      "finding": "仅自动接待/不支持消息或欢迎，无可采用具体业务参数。",
+      "imageReview": null,
+      "rawFile": "round2_chat_b_raw.json",
+      "humanDecisionNeeded": false
+    },
+    {
+      "index": 23,
+      "ww": "俊浩宠物",
+      "items": [
+        {
+          "id": 1838,
+          "offer": "570911087588",
+          "sku": "藏蓝"
+        }
+      ],
+      "readStatus": "已读",
+      "latestRows": [],
+      "alreadyAsked": false,
+      "previousQuestions": [],
+      "finding": "当前会话无消息，无可采用聊天参数。",
+      "imageReview": null,
+      "rawFile": "round2_chat_b_raw.json",
+      "humanDecisionNeeded": false
+    },
+    {
+      "index": 24,
+      "ww": "冠威制袋厂",
+      "items": [
+        {
+          "id": 2258,
+          "offer": "1038199031505",
+          "sku": "透明4（73*42*35cm）>彩色"
+        }
+      ],
+      "readStatus": "已读",
+      "latestRows": [
+        {
+          "images": [],
+          "text": "蛙蛙cc\n2026-10-14 09:23:46\n图上这款有吗？白色防水被子收纳袋（特大容量，6个装）单品包装尺寸多少（长宽高）、重量多少，500 个什么价？\n已读"
+        },
+        {
+          "images": [],
+          "text": "冠威制袋厂\n2026-10-14 09:24:27\n做pp吗"
+        },
+        {
+          "images": [],
+          "text": "冠威制袋厂\n2026-10-14 09:24:30\n克重什么要求呢"
+        },
+        {
+          "images": [],
+          "text": "冠威制袋厂\n2026-10-14 09:24:51\n尺寸多少"
+        }
+      ],
+      "alreadyAsked": true,
+      "previousQuestions": [
+        "蛙蛙cc\n2026-10-14 09:23:46\n图上这款有吗？白色防水被子收纳袋（特大容量，6个装）单品包装尺寸多少（长宽高）、重量多少，500 个什么价？\n已读"
+      ],
+      "finding": "要PP材质、克重和尺寸；先按现有候选规格补充，别重复完整旧问题。",
+      "imageReview": null,
+      "rawFile": "round2_chat_b_raw.json",
+      "humanDecisionNeeded": false
+    },
+    {
+      "index": 25,
+      "ww": "力雅清洁用品",
+      "items": [
+        {
+          "id": 3062,
+          "offer": "1062886296494",
+          "sku": "灰色>30*30cm"
+        }
+      ],
+      "readStatus": "已读",
+      "latestRows": [
+        {
+          "images": [],
+          "text": "力雅清洁用品:Tina\n2026-10-20 14:41:20\n暂不支持的消息类型"
+        }
+      ],
+      "alreadyAsked": false,
+      "previousQuestions": [],
+      "finding": "仅自动接待/不支持消息或欢迎，无可采用具体业务参数。",
+      "imageReview": null,
+      "rawFile": "round2_chat_b_raw.json",
+      "humanDecisionNeeded": false
+    },
+    {
+      "index": 26,
+      "ww": "卓品商贸有限公司",
+      "items": [
+        {
+          "id": 2258,
+          "offer": "777769327796",
+          "sku": "白色XL码【100L】"
+        }
+      ],
+      "readStatus": "已读",
+      "latestRows": [
+        {
+          "images": [
+            "https://img.alicdn.com/imgextra/i2/1107440324/O1CN01cTl0U1pvXnB3fyEY_!!1107440324-2-ampmedia.png"
+          ],
+          "text": "卓品商贸有限公司:柚子\n2026-10-17 10:01:40\n预览"
+        },
+        {
+          "images": [
+            "https://img.alicdn.com/imgextra/i1/O1CN01Z27sy227MDKGoGjS8_!!6000000007782-2-tps-64-64.png"
+          ],
+          "text": "卓品商贸有限公司:柚子\n2026-10-17 10:11:41\n亲亲，您这边还有需要下单吗，喜欢就不要错过哦！有什么问题请跟我们客服沟通哦 随时问您解决！！！"
+        },
+        {
+          "images": [],
+          "text": "卓品商贸有限公司:柚子\n2026-10-17 10:11:41\n暂不支持的消息类型"
+        },
+        {
+          "images": [],
+          "text": "卓品商贸有限公司:柚子\n2026-10-20 11:32:02\n暂不支持的消息类型"
+        }
+      ],
+      "alreadyAsked": true,
+      "previousQuestions": [
+        "蛙蛙cc\n2026-10-17 09:55:39\n图上这款有吗？白色防水被子收纳袋（特大容量，6个装）单品包装尺寸多少（长宽高）、重量多少，500 个什么价？\n已读"
+      ],
+      "finding": "商家表为透明72/88/95L，当前白色XL100L不对应；目标6件套也没包装，不能套图。",
+      "imageReview": "两张图已看：透明S72L/M88L/L95L；单个包装分别34×21×2/34×20.5×2/35×22×2cm，重量182/203.7/209.3g。均非当前白色XL100L，且不是目标6袋套包装，不采用。",
+      "rawFile": "round2_chat_b_raw.json",
+      "humanDecisionNeeded": false
+    },
+    {
+      "index": 27,
+      "ww": "南通吾喜欢家纺有限公司",
+      "items": [
+        {
+          "id": 2684,
+          "offer": "1019799862610",
+          "sku": "彩云灰【凉感面料+锌离子抑菌+可水洗】>100x200cm单床垫"
+        }
+      ],
+      "readStatus": "已读",
+      "latestRows": [
+        {
+          "images": [],
+          "text": "南通吾喜欢家纺有限公司:艾薇儿\n2026-10-20 14:10:27\n亲亲    这边帮您问下哈 "
+        },
+        {
+          "images": [],
+          "text": "南通吾喜欢家纺有限公司\n2026-10-20 14:10:55\n你好"
+        },
+        {
+          "images": [],
+          "text": "南通吾喜欢家纺有限公司\n2026-10-20 14:20:55\n亲，库存不多，喜欢就不要错过哦！"
+        },
+        {
+          "images": [],
+          "text": "南通吾喜欢家纺有限公司\n2026-10-20 14:20:55\n暂不支持的消息类型"
+        }
+      ],
+      "alreadyAsked": true,
+      "previousQuestions": [
+        "蛙蛙cc\n2026-10-20 14:09:32\n您好，询问链接1019799862610的彩云灰【凉感面料＋锌离子抑菌＋可水洗】100×200cm单床垫。请确认能否双面使用、是否4层结构；请给单条折叠装好销售包装后的长宽高（厘米）、含包装重量（克），普通袋装即可，及500条出厂不含税运单价，仅作询价。\n已读"
+      ],
+      "finding": "已10-20问彩云灰100×200单床垫+双面四层及包装/价，商家帮问尚无参数。",
+      "imageReview": null,
+      "rawFile": "round2_chat_b_raw.json",
+      "humanDecisionNeeded": false
+    },
+    {
+      "index": 28,
+      "ww": "南通瓦舍纺织品有限公司",
+      "items": [
+        {
+          "id": 2175,
+          "offer": "783225332400",
+          "sku": "米白【A类面料 防水隔尿】>双人床床垫-150*200"
+        }
+      ],
+      "readStatus": "已读",
+      "latestRows": [
+        {
+          "images": [],
+          "text": "南通瓦舍纺织品有限公司:ai接待助手\n2026-10-06 16:05:07\n暂不支持的消息类型"
+        },
+        {
+          "images": [],
+          "text": "蛙蛙cc\n2026-10-06 16:23:16\n单人100×200的，500个什么价？\n已读"
+        },
+        {
+          "images": [],
+          "text": "南通瓦舍纺织品有限公司:艾薇儿\n2026-10-06 16:23:38\n给您按95折扣哦 亲亲"
+        },
+        {
+          "images": [],
+          "text": "南通瓦舍纺织品有限公司\n2026-10-06 17:39:17\n你好"
+        }
+      ],
+      "alreadyAsked": true,
+      "previousQuestions": [
+        "蛙蛙cc\n2026-10-06 16:04:55\n单人防水床垫保护垫有现货吗？起订多少，产品包装尺寸多少，包装的图片可以发下\n已读",
+        "蛙蛙cc\n2026-10-06 16:23:16\n单人100×200的，500个什么价？\n已读"
+      ],
+      "finding": "100×200防水垫500个给95折，没有基价及包装；不能计算成交价。",
+      "imageReview": null,
+      "rawFile": "round2_chat_b_raw.json",
+      "humanDecisionNeeded": false
+    },
+    {
+      "index": 29,
+      "ww": "南通船王纺织品厂",
+      "items": [
+        {
+          "id": 2823,
+          "offer": "1067792018952",
+          "sku": "白色>Twin 152*203【英尺60*80】春秋被2.45Kg"
+        }
+      ],
+      "readStatus": "已读",
+      "latestRows": [
+        {
+          "images": [],
+          "text": "南通船王纺织品厂\n2026-10-14 16:49:57\n你好"
+        },
+        {
+          "images": [
+            "https://img.alicdn.com/imgextra/i2/2218960924325/O1CN014487LDlW2oC2BxV2_!!2218960924325-0-ampmedia.jpg"
+          ],
+          "text": "南通船王纺织品厂\n2026-10-14 16:50:02\n预览"
+        },
+        {
+          "images": [],
+          "text": "南通船王纺织品厂\n2026-10-14 16:50:06\n+"
+        },
+        {
+          "images": [],
+          "text": "南通船王纺织品厂\n2026-10-14 16:50:24\n备注被子订货"
+        }
+      ],
+      "alreadyAsked": true,
+      "previousQuestions": [
+        "蛙蛙cc\n2026-10-14 16:49:44\n图上这款有吗？人工羽毛（羽丝绒）单品包装尺寸多少（长宽高）、重量多少，500 个什么价？\n已读"
+      ],
+      "finding": "要联系备注被子订货；计算器图是联系号码，未给包装。",
+      "imageReview": "已看图为计算器显示联系号码，不是重量或单价。",
+      "rawFile": "round2_chat_b_raw.json",
+      "humanDecisionNeeded": false
+    },
+    {
+      "index": 30,
+      "ww": "博楚纺织品",
+      "items": [
+        {
+          "id": 2175,
+          "offer": "577935343461",
+          "sku": "保护垫150*200>中款200g/m2"
+        }
+      ],
+      "readStatus": "已读",
+      "latestRows": [
+        {
+          "images": [
+            "https://cbu-im.oss-accelerate.aliyuncs.com/webim/c9cf9c0e4dc46dd75bada16d9b909f77.jpeg"
+          ],
+          "text": "蛙蛙cc\n2026-10-14 09:17:16\n预览\n已读"
+        },
+        {
+          "images": [],
+          "text": "蛙蛙cc\n2026-10-14 09:17:18\n图上这款有吗？防水床垫保护垫（四角松紧带固定，3个装）单品包装尺寸多少（长宽高）、重量多少，500 个什么价？\n已读"
+        },
+        {
+          "images": [],
+          "text": "博楚纺织品\n2026-10-14 09:18:11\n有的  你要多大规格的呢"
+        }
+      ],
+      "alreadyAsked": true,
+      "previousQuestions": [
+        "蛙蛙cc\n2026-10-14 09:17:18\n图上这款有吗？防水床垫保护垫（四角松紧带固定，3个装）单品包装尺寸多少（长宽高）、重量多少，500 个什么价？\n已读"
+      ],
+      "finding": "商家问多大规格；后续按当前现有候选尺寸补，不重问已有问题。",
+      "imageReview": null,
+      "rawFile": "round2_chat_b_raw.json",
+      "humanDecisionNeeded": false
+    },
+    {
+      "index": 31,
+      "ww": "卡洛尼卫浴有限公司",
+      "items": [
+        {
+          "id": 2345,
+          "offer": "897485303356",
+          "sku": "星空蓝单花洒"
+        }
+      ],
+      "readStatus": "已读",
+      "latestRows": [
+        {
+          "images": [],
+          "text": "蛙蛙cc\n2026-10-14 09:45:04\n图上这款有吗？中空环形增压手持花洒（5档出水）单品包装尺寸多少（长宽高）、重量多少，500 个什么价？\n已读"
+        },
+        {
+          "images": [],
+          "text": "卡洛尼卫浴有限公司\n2026-10-14 09:45:10\n你好"
+        },
+        {
+          "images": [],
+          "text": "卡洛尼卫浴有限公司\n2026-10-14 09:45:38\n6.8"
+        },
+        {
+          "images": [],
+          "text": "卡洛尼卫浴有限公司\n2026-10-20 14:41:56\n欢迎光临本店!\n您好，有什么可以帮您💪\n你好\n发什么物流\n什么时候发货"
+        }
+      ],
+      "alreadyAsked": true,
+      "previousQuestions": [
+        "蛙蛙cc\n2026-10-14 09:45:04\n图上这款有吗？中空环形增压手持花洒（5档出水）单品包装尺寸多少（长宽高）、重量多少，500 个什么价？\n已读"
+      ],
+      "finding": "目标环形花洒500个6.8元，包装三边/毛重未答。",
+      "imageReview": null,
+      "rawFile": "round2_chat_b_raw.json",
+      "humanDecisionNeeded": false
+    },
+    {
+      "index": 32,
+      "ww": "品穆电子商务商行",
+      "items": [
+        {
+          "id": 1101,
+          "offer": "1013016239401",
+          "sku": "大号"
+        }
+      ],
+      "readStatus": "已读",
+      "latestRows": [
+        {
+          "images": [
+            "https://cbu-im.oss-accelerate.aliyuncs.com/webim/77f663f4d1928c16ff157aeb38909e0f.jpeg"
+          ],
+          "text": "蛙蛙cc\n2026-10-15 09:22:59\n预览\n已读"
+        },
+        {
+          "images": [],
+          "text": "蛙蛙cc\n2026-10-15 09:23:01\n图上这款有吗？透明塑料收纳盒（带盖，6个装）单品包装尺寸多少（长宽高）、重量多少，500 个什么价？\n已读"
+        },
+        {
+          "images": [],
+          "text": "品穆电子商务商行:江\n2026-10-15 09:23:05\n在的d"
+        },
+        {
+          "images": [],
+          "text": "品穆电子商务商行:赵\n2026-10-15 09:23:25\n我们没有带盖子的"
+        }
+      ],
+      "alreadyAsked": true,
+      "previousQuestions": [
+        "蛙蛙cc\n2026-10-15 09:23:01\n图上这款有吗？透明塑料收纳盒（带盖，6个装）单品包装尺寸多少（长宽高）、重量多少，500 个什么价？\n已读"
+      ],
+      "finding": "商家没有带盖子；与目标6件带盖不匹配，保留差异。",
+      "imageReview": null,
+      "rawFile": "round2_chat_b_raw.json",
+      "humanDecisionNeeded": false
+    },
+    {
+      "index": 33,
+      "ww": "地毯地垫厂家直销",
+      "items": [
+        {
+          "id": 2238,
+          "offer": "800847689259",
+          "sku": "米黄色>40*60"
+        }
+      ],
+      "readStatus": "已读",
+      "latestRows": [
+        {
+          "images": [],
+          "text": "蛙蛙cc\n2026-10-20 14:16:21\n您好，先核链接800847689259雪尼尔浴室地垫米黄色40×60cm，按5块一套销售；这次按您现有40×60规格核，不按45×60。请给5块折叠装袋后的长宽高（厘米）、含包装总重量（克）及500套出厂不含税运单套价，普通袋装即可，仅作询价。\n未读"
+        }
+      ],
+      "alreadyAsked": true,
+      "previousQuestions": [
+        "蛙蛙cc\n2026-10-20 14:16:21\n您好，先核链接800847689259雪尼尔浴室地垫米黄色40×60cm，按5块一套销售；这次按您现有40×60规格核，不按45×60。请给5块折叠装袋后的长宽高（厘米）、含包装总重量（克）及500套出厂不含税运单套价，普通袋装即可，仅作询价。\n未读"
+      ],
+      "finding": "10-20已按米黄色40×60/5块套问包装/价，未读待回复。",
+      "imageReview": null,
+      "rawFile": "round2_chat_b_raw.json",
+      "humanDecisionNeeded": false
+    },
+    {
+      "index": 34,
+      "ww": "天达毛巾龚新哲",
+      "items": [
+        {
+          "id": 917,
+          "offer": "927992743987",
+          "sku": "波点毛巾白色>32*68cm"
+        }
+      ],
+      "readStatus": "已读",
+      "latestRows": [],
+      "alreadyAsked": false,
+      "previousQuestions": [],
+      "finding": "当前会话无消息，无可采用聊天参数。",
+      "imageReview": null,
+      "rawFile": "round2_chat_b_raw.json",
+      "humanDecisionNeeded": false
+    },
+    {
+      "index": 35,
+      "ww": "宁波安得美洁具厂",
+      "items": [
+        {
+          "id": 2263,
+          "offer": "971073262391",
+          "sku": "白色单头"
+        }
+      ],
+      "readStatus": "已读",
+      "latestRows": [],
+      "alreadyAsked": false,
+      "previousQuestions": [],
+      "finding": "当前会话无消息，无可采用聊天参数。",
+      "imageReview": null,
+      "rawFile": "round2_chat_b_raw.json",
+      "humanDecisionNeeded": false
+    },
+    {
+      "index": 36,
+      "ww": "展示道具定制厂家",
+      "items": [
+        {
+          "id": 2850,
+          "offer": "987140484280",
+          "sku": "5*8厘米圆角方形（单发亚克力）"
+        }
+      ],
+      "readStatus": "已读",
+      "latestRows": [
+        {
+          "images": [
+            "https://cbu-im.oss-accelerate.aliyuncs.com/webim/514a6d1970a92c940bcd12a6bc4b9548.jpeg"
+          ],
+          "text": "蛙蛙cc\n2026-10-19 09:46:46\n预览\n已读"
+        },
+        {
+          "images": [],
+          "text": "蛙蛙cc\n2026-10-19 09:46:49\n图上这款有吗？亚克力冰箱磁贴DIY套件（6×4cm圆角长方形、厚5mm、免双面胶，8个装）单品包装尺寸多少（长宽高）、重量多少，500 个什么价？\n已读"
+        },
+        {
+          "images": [],
+          "text": "展示道具定制厂家\n2026-10-19 09:47:49\n你好"
+        },
+        {
+          "images": [],
+          "text": "展示道具定制厂家\n2026-10-19 09:48:07\n我们只做亚克力的"
+        }
+      ],
+      "alreadyAsked": true,
+      "previousQuestions": [
+        "蛙蛙cc\n2026-10-19 09:46:49\n图上这款有吗？亚克力冰箱磁贴DIY套件（6×4cm圆角长方形、厚5mm、免双面胶，8个装）单品包装尺寸多少（长宽高）、重量多少，500 个什么价？\n已读"
+      ],
+      "finding": "只做亚克力，磁贴DIY完整8片套其他配件未确认。",
+      "imageReview": null,
+      "rawFile": "round2_chat_b_raw.json",
+      "humanDecisionNeeded": false
+    },
+    {
+      "index": 37,
+      "ww": "山东省金草工艺品有限公司",
+      "items": [
+        {
+          "id": 1733,
+          "offer": "892025282621",
+          "sku": "机钉麻绳垫直径11厘米"
+        }
+      ],
+      "readStatus": "已读",
+      "latestRows": [
+        {
+          "images": [],
+          "text": "山东省金草工艺品有限公司\n2026-10-20 14:42:37\n暂不支持的消息类型"
+        }
+      ],
+      "alreadyAsked": false,
+      "previousQuestions": [],
+      "finding": "仅自动接待/不支持消息或欢迎，无可采用具体业务参数。",
+      "imageReview": null,
+      "rawFile": "round2_chat_b_raw.json",
+      "humanDecisionNeeded": false
+    },
+    {
+      "index": 38,
+      "ww": "布鲁公司",
+      "items": [
+        {
+          "id": 608,
+          "offer": "712126627522",
+          "sku": "小熊蓝色>50*25cm"
+        }
+      ],
+      "readStatus": "已读",
+      "latestRows": [
+        {
+          "images": [
+            "https://cbu-im.oss-accelerate.aliyuncs.com/webim/dfe20b916eff3f9fe1363d8f61ae3786.jpeg"
+          ],
+          "text": "蛙蛙cc\n2026-10-15 12:14:41\n预览\n已读"
+        },
+        {
+          "images": [],
+          "text": "蛙蛙cc\n2026-10-15 12:14:44\n图上这款有吗？gelato pique角色联名提花小方巾（皮卡丘图案）单品包装尺寸多少（长宽高）、重量多少，500 个什么价？\n已读"
+        },
+        {
+          "images": [],
+          "text": "布鲁公司:妍妍\n2026-10-15 12:15:41\n没有"
+        },
+        {
+          "images": [],
+          "text": "布鲁公司:妍妍\n2026-10-20 14:42:40\n暂不支持的消息类型"
+        }
+      ],
+      "alreadyAsked": true,
+      "previousQuestions": [
+        "蛙蛙cc\n2026-10-15 12:14:44\n图上这款有吗？gelato pique角色联名提花小方巾（皮卡丘图案）单品包装尺寸多少（长宽高）、重量多少，500 个什么价？\n已读"
+      ],
+      "finding": "目标皮卡丘图案没有，其他现有方巾候选不能据此一概无货。",
+      "imageReview": null,
+      "rawFile": "round2_chat_b_raw.json",
+      "humanDecisionNeeded": false
+    },
+    {
+      "index": 39,
+      "ww": "幻亿工贸有限公司",
+      "items": [
+        {
+          "id": 273,
+          "offer": "1076130399598",
+          "sku": "26CM黑色普通款"
+        }
+      ],
+      "readStatus": "已读",
+      "latestRows": [
+        {
+          "images": [],
+          "text": "蛙蛙cc\n2026-10-09 15:39:02\n磁吸浴室置物架（2个装）有现货吗？起订多少，产品包装尺寸多少，包装的图片可以发下\n已读"
+        }
+      ],
+      "alreadyAsked": true,
+      "previousQuestions": [
+        "蛙蛙cc\n2026-10-09 15:39:02\n磁吸浴室置物架（2个装）有现货吗？起订多少，产品包装尺寸多少，包装的图片可以发下\n已读"
+      ],
+      "finding": "10-09已问2件磁吸浴室架包装，尚未答。",
+      "imageReview": null,
+      "rawFile": "round2_chat_b_raw.json",
+      "humanDecisionNeeded": false
+    },
+    {
+      "index": 40,
+      "ww": "广州市壹利商行",
+      "items": [
+        {
+          "id": 2838,
+          "offer": "1063228202778",
+          "sku": "透明"
+        }
+      ],
+      "readStatus": "已读",
+      "latestRows": [
+        {
+          "images": [
+            "https://cbu-im.oss-accelerate.aliyuncs.com/webim/e65cfaaabde480a28ffd21f7d0462b73.jpeg"
+          ],
+          "text": "蛙蛙cc\n2026-10-15 11:53:36\n预览\n已读"
+        },
+        {
+          "images": [],
+          "text": "蛙蛙cc\n2026-10-15 11:53:38\n图上这款有吗？透明包包收纳分隔架（可叠放，2个装）单品包装尺寸多少（长宽高）、重量多少，500 个什么价？\n已读"
+        },
+        {
+          "images": [],
+          "text": "广州市壹利商行\n2026-10-15 11:53:49\n没有"
+        }
+      ],
+      "alreadyAsked": true,
+      "previousQuestions": [
+        "蛙蛙cc\n2026-10-15 11:53:38\n图上这款有吗？透明包包收纳分隔架（可叠放，2个装）单品包装尺寸多少（长宽高）、重量多少，500 个什么价？\n已读"
+      ],
+      "finding": "目标透明包包分隔架2件装没有。",
+      "imageReview": null,
+      "rawFile": "round2_chat_b_raw.json",
+      "humanDecisionNeeded": false
+    },
+    {
+      "index": 41,
+      "ww": "弘丰塑料厂家",
+      "items": [
+        {
+          "id": 2158,
+          "offer": "666770277912",
+          "sku": "手提787号长32宽23高18.5厘米//24个起批"
+        }
+      ],
+      "readStatus": "已读",
+      "latestRows": [
+        {
+          "images": [],
+          "text": "弘丰塑料厂家\n2026-10-20 14:42:57\n暂不支持的消息类型"
+        }
+      ],
+      "alreadyAsked": false,
+      "previousQuestions": [],
+      "finding": "仅自动接待/不支持消息或欢迎，无可采用具体业务参数。",
+      "imageReview": null,
+      "rawFile": "round2_chat_b_raw.json",
+      "humanDecisionNeeded": false
+    },
+    {
+      "index": 42,
+      "ww": "恒策宠物用品",
+      "items": [
+        {
+          "id": 1778,
+          "offer": "1074410179361",
+          "sku": "洛克黄-不锈钢刀头【去底绒不剃毛】>个"
+        }
+      ],
+      "readStatus": "已读",
+      "latestRows": [
+        {
+          "images": [],
+          "text": "蛙蛙cc\n2026-10-13 15:42:05\n老板你好，我来领取询盘有礼券～\n未读"
+        },
+        {
+          "images": [],
+          "text": "恒策宠物用品\n2026-10-13 15:42:05\n暂不支持的消息类型"
+        }
+      ],
+      "alreadyAsked": false,
+      "previousQuestions": [],
+      "finding": "仅自动接待/不支持消息或欢迎，无可采用具体业务参数。",
+      "imageReview": null,
+      "rawFile": "round2_chat_b_raw.json",
+      "humanDecisionNeeded": false
+    },
+    {
+      "index": 43,
+      "ww": "搜纳箱包厂",
+      "items": [
+        {
+          "id": 1017,
+          "offer": "1059549723839",
+          "sku": "90L提手加强【1个装】"
+        }
+      ],
+      "readStatus": "已读",
+      "latestRows": [
+        {
+          "images": [],
+          "text": "蛙蛙cc\n2026-10-09 17:19:09\n带加固提手的90L单只多少钱？加固款4个一套的包装多大多重？\n已读"
+        },
+        {
+          "images": [],
+          "text": "搜纳箱包厂\n2026-10-09 17:20:17\n【90L，4件套】的数据：\n\n• 产品规格：90L 横款无加固110克面料\n\n• 单只重量：0.17kg\n\n• 单套规格：4件套\n\n• 单套重量：0.65kg\n\n• 包装尺寸：33×23×8cm\n\n• 装箱数量：28套\n\n• 外箱重量：19kg\n\n• 外箱尺寸：55×55×50cm"
+        },
+        {
+          "images": [],
+          "text": "搜纳箱包厂\n2026-10-09 17:20:46\n18.5元/套"
+        },
+        {
+          "images": [],
+          "text": "搜纳箱包厂\n2026-10-09 17:21:37"
+        }
+      ],
+      "alreadyAsked": true,
+      "previousQuestions": [
+        "蛙蛙cc\n2026-10-09 16:30:13\n无纺布棉被收纳袋（84L，5个装），现货有没有，单品包装尺寸多少、外箱装箱一箱有几件，能不能发中性包装，有实拍图和视频的话发一下，谢谢\n已读",
+        "蛙蛙cc\n2026-10-09 17:02:56\n有带加固提手的90L吗？5个一套的话单价多少，包装多大多重？\n已读",
+        "蛙蛙cc\n2026-10-09 17:19:09\n带加固提手的90L单只多少钱？加固款4个一套的包装多大多重？\n已读"
+      ],
+      "finding": "90L无加固四件套完整33×23×8cm650g18.5元，仅历史事实；当前目标5个且候选加固款，不能直接完成。",
+      "imageReview": "实际看图为普通款无加固90L 3/4/6/8件套表，无5件套。4件33×23×8cm650g18.5元仅历史候选事实。",
+      "rawFile": "round2_chat_b_raw.json",
+      "humanDecisionNeeded": false
+    },
+    {
+      "index": 44,
+      "ww": "日均家纺",
+      "items": [
+        {
+          "id": 461,
+          "offer": "696237818365",
+          "sku": "0566长尾猫粉色>25*25cm小方巾"
+        },
+        {
+          "id": 608,
+          "offer": "696237818365",
+          "sku": "0566长尾猫粉色>25*25cm小方巾"
+        },
+        {
+          "id": 2344,
+          "offer": "1020051701395",
+          "sku": "0872小猫蓝色【A类全棉】>70*140cm±2"
+        }
+      ],
+      "readStatus": "已读",
+      "latestRows": [
+        {
+          "images": [],
+          "text": "日均家纺\n2026-10-17 09:59:30\n这款现货没有，但是可以制作"
+        },
+        {
+          "images": [],
+          "text": "日均家纺\n2026-10-17 10:09:53\n您产品克重有要求吗"
+        },
+        {
+          "images": [],
+          "text": "日均家纺\n2026-10-17 17:56:52\n在吗亲"
+        },
+        {
+          "images": [],
+          "text": "日均家纺\n2026-10-20 14:43:48\n暂不支持的消息类型"
+        }
+      ],
+      "alreadyAsked": true,
+      "previousQuestions": [
+        "蛙蛙cc\n2026-10-10 10:13:50\n图上这款有吗？gelato pique角色联名提花小方巾（皮卡丘图案）单品包装尺寸多少（长宽高）、重量多少，500 个什么价？\n已读",
+        "蛙蛙cc\n2026-10-17 09:59:06\n图上这款有吗？提花浴巾（约60×120cm）单品包装尺寸多少（长宽高）、重量多少，500 个什么价？\n已读"
+      ],
+      "finding": "皮卡丘方巾和60×120提花浴巾均无现货可定制，问克重；须按各CW分别处理。",
+      "imageReview": null,
+      "rawFile": "round2_chat_b_raw.json",
+      "humanDecisionNeeded": false
+    },
+    {
+      "index": 45,
+      "ww": "星塑宠物用品厂",
+      "items": [
+        {
+          "id": 1838,
+          "offer": "988945472118",
+          "sku": "12>（颜色款式）随机发货"
+        }
+      ],
+      "readStatus": "已读",
+      "latestRows": [
+        {
+          "images": [],
+          "text": "星塑宠物用品厂:王普\n2026-10-20 14:43:52\n暂不支持的消息类型"
+        }
+      ],
+      "alreadyAsked": false,
+      "previousQuestions": [],
+      "finding": "仅自动接待/不支持消息或欢迎，无可采用具体业务参数。",
+      "imageReview": null,
+      "rawFile": "round2_chat_b_raw.json",
+      "humanDecisionNeeded": false
+    },
+    {
+      "index": 46,
+      "ww": "晚棠纺织品",
+      "items": [
+        {
+          "id": 1925,
+          "offer": "783877283496",
+          "sku": "灰色骨头XL70*100cm"
+        }
+      ],
+      "readStatus": "已读",
+      "latestRows": [
+        {
+          "images": [
+            "https://cbu-im.oss-accelerate.aliyuncs.com/webim/c33d147985225dae4eb91f58f72d90a4.jpeg"
+          ],
+          "text": "蛙蛙cc\n2026-10-14 09:03:07\n预览\n已读"
+        },
+        {
+          "images": [],
+          "text": "蛙蛙cc\n2026-10-14 09:03:10\n图上这款有吗？可水洗宠物尿垫（波西米亚花纹，2片装）单品包装尺寸多少（长宽高）、重量多少，500 个什么价？\n已读"
+        },
+        {
+          "images": [],
+          "text": "晚棠纺织品\n2026-10-14 09:03:12\n你好"
+        },
+        {
+          "images": [],
+          "text": "晚棠纺织品\n2026-10-14 09:03:30\n没有"
+        }
+      ],
+      "alreadyAsked": true,
+      "previousQuestions": [
+        "蛙蛙cc\n2026-10-14 09:03:10\n图上这款有吗？可水洗宠物尿垫（波西米亚花纹，2片装）单品包装尺寸多少（长宽高）、重量多少，500 个什么价？\n已读"
+      ],
+      "finding": "目标波西米亚2片尿垫没有。",
+      "imageReview": null,
+      "rawFile": "round2_chat_b_raw.json",
+      "humanDecisionNeeded": false
+    },
+    {
+      "index": 47,
+      "ww": "曹县晟辉工艺品有限公司",
+      "items": [
+        {
+          "id": 1733,
+          "offer": "933316821754",
+          "sku": "麻绳餐垫（单片）>直径11CM"
+        }
+      ],
+      "readStatus": "已读",
+      "latestRows": [
+        {
+          "images": [],
+          "text": "曹县晟辉工艺品有限公司\n2026-10-20 14:43:58\n暂不支持的消息类型"
+        }
+      ],
+      "alreadyAsked": false,
+      "previousQuestions": [],
+      "finding": "仅自动接待/不支持消息或欢迎，无可采用具体业务参数。",
+      "imageReview": null,
+      "rawFile": "round2_chat_b_raw.json",
+      "humanDecisionNeeded": false
+    },
+    {
+      "index": 48,
+      "ww": "曹县瑞同工艺品厂",
+      "items": [
+        {
+          "id": 1713,
+          "offer": "1038780046325",
+          "sku": "无规格"
+        }
+      ],
+      "readStatus": "已读",
+      "latestRows": [
+        {
+          "images": [
+            "https://cbu-im.oss-accelerate.aliyuncs.com/webim/b112b5cc02fce12862fa157e47ee728b.jpeg"
+          ],
+          "text": "蛙蛙cc\n2026-10-15 09:55:36\n预览\n已读"
+        },
+        {
+          "images": [],
+          "text": "蛙蛙cc\n2026-10-15 09:55:38\n图上这款有吗？迷你分骨骨灰盒（实木）单品包装尺寸多少（长宽高）、重量多少，500 个什么价？\n已读"
+        },
+        {
+          "images": [],
+          "text": "曹县瑞同工艺品厂\n2026-10-15 09:55:45\n你好"
+        },
+        {
+          "images": [],
+          "text": "曹县瑞同工艺品厂\n2026-10-15 09:56:07\n稍等 我找一下尺寸"
+        }
+      ],
+      "alreadyAsked": true,
+      "previousQuestions": [
+        "蛙蛙cc\n2026-10-15 09:55:38\n图上这款有吗？迷你分骨骨灰盒（实木）单品包装尺寸多少（长宽高）、重量多少，500 个什么价？\n已读"
+      ],
+      "finding": "商家找迷你骨灰盒尺寸后未答。",
+      "imageReview": null,
+      "rawFile": "round2_chat_b_raw.json",
+      "humanDecisionNeeded": false
+    },
+    {
+      "index": 49,
+      "ww": "朱路安1688",
+      "items": [
+        {
+          "id": 367,
+          "offer": "733836018471",
+          "sku": "磨毛布枕芯>50x50cm（适用45x45枕套）"
+        }
+      ],
+      "readStatus": "已读",
+      "latestRows": [
+        {
+          "images": [
+            "https://cbu-im.oss-accelerate.aliyuncs.com/webim/7707ff72502be233886f80dd7751a100.jpeg"
+          ],
+          "text": "蛙蛙cc\n2026-10-17 17:26:13\n预览\n已读"
+        },
+        {
+          "images": [],
+          "text": "蛙蛙cc\n2026-10-17 17:26:18\n图上这款有吗？方形抱枕芯45×45cm（沙发/床/车用，2个装）单品包装尺寸多少（长宽高）、重量多少，500 个什么价？\n已读"
+        },
+        {
+          "images": [],
+          "text": "朱路安1688\n2026-10-17 17:26:23\n没有哈"
+        }
+      ],
+      "alreadyAsked": true,
+      "previousQuestions": [
+        "蛙蛙cc\n2026-10-17 17:26:18\n图上这款有吗？方形抱枕芯45×45cm（沙发/床/车用，2个装）单品包装尺寸多少（长宽高）、重量多少，500 个什么价？\n已读"
+      ],
+      "finding": "目标45×45两枕芯没有。",
+      "imageReview": null,
+      "rawFile": "round2_chat_b_raw.json",
+      "humanDecisionNeeded": false
+    },
+    {
+      "index": 50,
+      "ww": "梦恰家纺厂",
+      "items": [
+        {
+          "id": 2429,
+          "offer": "44928069670",
+          "sku": "白色（枕芯比枕套大5厘米拍）>45*45  300g"
+        }
+      ],
+      "readStatus": "已读",
+      "latestRows": [
+        {
+          "images": [],
+          "text": "梦恰家纺厂:小额批发\n2026-10-20 14:16:53\n暂不支持的消息类型"
+        },
+        {
+          "images": [],
+          "text": "蛙蛙cc\n2026-10-20 14:17:06\n您好，先核链接44928069670白色45×45cm、300g枕芯，单个销售。请确认这款是否能整只水洗；目标43×43cm可水洗款，若有请说明。先给您现有45×45款压缩/装袋后的长宽高（厘米）、含包装重量（克）及500个不含税运单价，仅作询价。\n已读"
+        },
+        {
+          "images": [],
+          "text": "梦恰家纺厂:小额批发\n2026-10-20 14:17:48\n你好"
+        },
+        {
+          "images": [],
+          "text": "梦恰家纺厂:小额批发\n2026-10-20 14:17:50\n稍等"
+        }
+      ],
+      "alreadyAsked": true,
+      "previousQuestions": [
+        "蛙蛙cc\n2026-10-20 14:17:06\n您好，先核链接44928069670白色45×45cm、300g枕芯，单个销售。请确认这款是否能整只水洗；目标43×43cm可水洗款，若有请说明。先给您现有45×45款压缩/装袋后的长宽高（厘米）、含包装重量（克）及500个不含税运单价，仅作询价。\n已读"
+      ],
+      "finding": "10-20已问白45×45 300g、可水洗及单件压缩包装/价，商家稍等，勿重复。",
+      "imageReview": null,
+      "rawFile": "round2_chat_b_raw.json",
+      "humanDecisionNeeded": false
+    },
+    {
+      "index": 51,
+      "ww": "永夜家居用品有限公司",
+      "items": [
+        {
+          "id": 2653,
+          "offer": "1050679758706",
+          "sku": "燕麦米【130*58*15cm】长款"
+        }
+      ],
+      "readStatus": "已读",
+      "latestRows": [
+        {
+          "images": [],
+          "text": "蛙蛙cc\n2026-10-15 11:24:34\n图上这款有吗？挂式衣物压缩防尘罩（大衣/羽绒服用，2个装）单品包装尺寸多少（长宽高）、重量多少，500 个什么价？\n已读"
+        },
+        {
+          "images": [],
+          "text": "永夜家居用品有限公司\n2026-10-15 11:24:50\n在的哦亲"
+        },
+        {
+          "images": [],
+          "text": "永夜家居用品有限公司\n2026-10-15 11:25:09\n暂时没有哦"
+        },
+        {
+          "images": [],
+          "text": "永夜家居用品有限公司\n2026-10-20 13:31:52\n暂不支持的消息类型"
+        }
+      ],
+      "alreadyAsked": true,
+      "previousQuestions": [
+        "蛙蛙cc\n2026-10-15 11:24:34\n图上这款有吗？挂式衣物压缩防尘罩（大衣/羽绒服用，2个装）单品包装尺寸多少（长宽高）、重量多少，500 个什么价？\n已读"
+      ],
+      "finding": "挂衣压缩防尘罩2件目标暂时没有。",
+      "imageReview": null,
+      "rawFile": "round2_chat_b_raw.json",
+      "humanDecisionNeeded": false
+    },
+    {
+      "index": 52,
+      "ww": "汶璇服饰",
+      "items": [
+        {
+          "id": 724,
+          "offer": "1018161749015",
+          "sku": "14>75*100"
+        }
+      ],
+      "readStatus": "已读",
+      "latestRows": [
+        {
+          "images": [],
+          "text": "蛙蛙cc\n2026-10-09 15:59:38\n法兰绒毛毯（轻薄款）有现货吗？起订多少，产品包装尺寸多少，包装的图片可以发下\n已读"
+        }
+      ],
+      "alreadyAsked": true,
+      "previousQuestions": [
+        "蛙蛙cc\n2026-10-09 15:59:38\n法兰绒毛毯（轻薄款）有现货吗？起订多少，产品包装尺寸多少，包装的图片可以发下\n已读"
+      ],
+      "finding": "法兰绒薄毯包装已10-09问，未答。",
+      "imageReview": null,
+      "rawFile": "round2_chat_b_raw.json",
+      "humanDecisionNeeded": false
+    },
+    {
+      "index": 53,
+      "ww": "泰如毛巾厂",
+      "items": [
+        {
+          "id": 2900,
+          "offer": "617672372351",
+          "sku": "迷雾灰>70*140"
+        }
+      ],
+      "readStatus": "已读",
+      "latestRows": [
+        {
+          "images": [
+            "https://cbu-im.oss-accelerate.aliyuncs.com/webim/701e23985084ab75e22f2a5f329c70e5.jpeg"
+          ],
+          "text": "蛙蛙cc\n2026-10-16 09:43:36\n预览\n已读"
+        },
+        {
+          "images": [],
+          "text": "蛙蛙cc\n2026-10-16 09:43:38\n图上这款有吗？超细纤维迷你浴巾110×50cm（炭灰色，2个装）单品包装尺寸多少（长宽高）、重量多少，500 个什么价？\n已读"
+        },
+        {
+          "images": [],
+          "text": "泰如毛巾厂\n2026-10-16 09:44:48\n没这个规格现货，"
+        },
+        {
+          "images": [],
+          "text": "泰如毛巾厂\n2026-10-20 14:44:16\n您好，需要可以直接下单，我们会第一时间给您发货，本公司默认快递，量大发物流联系客服修改运费，有其他要求联系客服，企业金牌服务店铺，品质保证！热销毛巾浴巾现货特惠中...."
+        }
+      ],
+      "alreadyAsked": true,
+      "previousQuestions": [
+        "蛙蛙cc\n2026-10-16 09:43:38\n图上这款有吗？超细纤维迷你浴巾110×50cm（炭灰色，2个装）单品包装尺寸多少（长宽高）、重量多少，500 个什么价？\n已读"
+      ],
+      "finding": "110×50目标没有现货，不推定当前70×140候选无货。",
+      "imageReview": null,
+      "rawFile": "round2_chat_b_raw.json",
+      "humanDecisionNeeded": false
+    },
+    {
+      "index": 54,
+      "ww": "浙江一帆",
+      "items": [
+        {
+          "id": 2404,
+          "offer": "982151995598",
+          "sku": "2025新款新疆长绒棉【10A抗菌】乳白>浴巾【a类母婴级】70x140cm"
+        }
+      ],
+      "readStatus": "已读",
+      "latestRows": [
+        {
+          "images": [],
+          "text": "浙江一帆:招财\n2026-10-15 12:46:05\n纯棉的做不了哦"
+        },
+        {
+          "images": [],
+          "text": "浙江一帆:招财\n2026-10-15 12:56:05\n亲，库存不多，喜欢就不要错过哦！"
+        },
+        {
+          "images": [],
+          "text": "浙江一帆:招财\n2026-10-15 12:56:05\n暂不支持的消息类型"
+        },
+        {
+          "images": [],
+          "text": "浙江一帆:招财\n2026-10-20 14:44:27\n暂不支持的消息类型"
+        }
+      ],
+      "alreadyAsked": true,
+      "previousQuestions": [
+        "蛙蛙cc\n2026-10-15 12:45:10\n图上这款有吗？轻薄速干纯棉浴巾（60×120cm，2个装）单品包装尺寸多少（长宽高）、重量多少，500 个什么价？\n已读"
+      ],
+      "finding": "纯棉目标做不了，候选聚酯材质可保留近似事实，不能当纯棉。",
+      "imageReview": null,
+      "rawFile": "round2_chat_b_raw.json",
+      "humanDecisionNeeded": false
+    },
+    {
+      "index": 55,
+      "ww": "涛哥日用家居",
+      "items": [
+        {
+          "id": 1867,
+          "offer": "1076423110797",
+          "sku": "蓝色"
+        }
+      ],
+      "readStatus": "已读",
+      "latestRows": [
+        {
+          "images": [],
+          "text": "涛哥日用家居:辣木洋子\n2026-10-15 12:37:33\n暂不支持的消息类型"
+        },
+        {
+          "images": [],
+          "text": "涛哥日用家居:辣木洋子\n2026-10-15 12:37:37\n要多少"
+        },
+        {
+          "images": [
+            "https://img.alicdn.com/imgextra/i2/2201418235456/O1CN01pzJm0EkQZwE3tZMl_!!2201418235456-0-ampmedia.jpg"
+          ],
+          "text": "涛哥日用家居:辣木洋子\n2026-10-15 12:39:49\n预览"
+        },
+        {
+          "images": [
+            "https://img.alicdn.com/imgextra/i4/2201418235456/O1CN0163XsbccGZQB2BxV1_!!2201418235456-0-ampmedia.jpg"
+          ],
+          "text": "涛哥日用家居:辣木洋子\n2026-10-15 12:39:50\n预览"
+        }
+      ],
+      "alreadyAsked": true,
+      "previousQuestions": [
+        "蛙蛙cc\n2026-10-15 12:37:23\n图上这款有吗？超小型犬用牙刷（2.8mm超薄小圆头）单品包装尺寸多少（长宽高）、重量多少，500 个什么价？\n已读"
+      ],
+      "finding": "实拍蓝色单支硬盒称重21.2g，可采用单支候选重量；目标现已核四支套，整套包装未知。",
+      "imageReview": "已实际看秤照：蓝色单支置透明硬盒，读数21.2g。另图为单支牙刷，无尺，无尺寸。此重量不跨商家。",
+      "rawFile": "round2_chat_b_raw.json",
+      "humanDecisionNeeded": false
+    },
+    {
+      "index": 56,
+      "ww": "温州伊雅工艺品有限公司",
+      "items": [
+        {
+          "id": 367,
+          "offer": "659477072064",
+          "sku": "磨毛布>45x45cm（用于40枕套）"
+        }
+      ],
+      "readStatus": "已读",
+      "latestRows": [
+        {
+          "images": [],
+          "text": "温州伊雅工艺品有限公司:佳佳\n2026-10-15 17:02:51\n磨毛布枕芯  45x45cm（用于40枕套）  500个  给您   6元/个 "
+        },
+        {
+          "images": [],
+          "text": "温州伊雅工艺品有限公司:佳佳\n2026-10-15 17:03:07\n合适 可以拍个样品回去看下哦"
+        },
+        {
+          "images": [
+            "https://img.alicdn.com/imgextra/i2/2209221213572/O1CN01vtoDtPdnE5J1OTxY_!!2209221213572-2-ampmedia.png"
+          ],
+          "text": "温州伊雅工艺品有限公司:佳佳\n2026-10-16 14:07:08\n预览"
+        },
+        {
+          "images": [],
+          "text": "温州伊雅工艺品有限公司:佳佳\n2026-10-16 14:07:13\n需要定制 可以这个联系我哦"
+        }
+      ],
+      "alreadyAsked": true,
+      "previousQuestions": [
+        "蛙蛙cc\n2026-10-14 17:10:39\n图上这款有吗？方形抱枕芯45×45cm（沙发/床/车用，2个装）单品包装尺寸多少（长宽高）、重量多少，500 个什么价？\n已读"
+      ],
+      "finding": "磨毛布45×45枕芯500个6元/个；用于40枕套；无包装三边/毛重。",
+      "imageReview": "已看图为联系二维码，不是包装数据。",
+      "rawFile": "round2_chat_b_raw.json",
+      "humanDecisionNeeded": false
+    },
+    {
+      "index": 57,
+      "ww": "温州蓝博经济贸易有限公司",
+      "items": [
+        {
+          "id": 913,
+          "offer": "708858105940",
+          "sku": "蓝色【76*35cm/114g】>请参考"
+        }
+      ],
+      "readStatus": "已读",
+      "latestRows": [
+        {
+          "images": [
+            "https://cbu-im.oss-accelerate.aliyuncs.com/webim/3026abda1bc67fad963704d68f895fd4.jpeg"
+          ],
+          "text": "蛙蛙cc\n2026-10-10 11:18:36\n预览\n已读"
+        },
+        {
+          "images": [],
+          "text": "蛙蛙cc\n2026-10-10 11:18:41\n图上这款有吗？纯棉厚款毛巾礼盒（625GSM，5个装）单品包装尺寸多少（长宽高）、重量多少，500 个什么价？\n已读"
+        },
+        {
+          "images": [],
+          "text": "温州蓝博经济贸易有限公司\n2026-10-10 11:19:03\n有货号吗"
+        },
+        {
+          "images": [],
+          "text": "温州蓝博经济贸易有限公司\n2026-10-20 14:44:45\n暂不支持的消息类型"
+        }
+      ],
+      "alreadyAsked": true,
+      "previousQuestions": [
+        "蛙蛙cc\n2026-10-10 11:18:41\n图上这款有吗？纯棉厚款毛巾礼盒（625GSM，5个装）单品包装尺寸多少（长宽高）、重量多少，500 个什么价？\n已读"
+      ],
+      "finding": "商家问货号，目标625GSM5件套缺完整对应。",
+      "imageReview": null,
+      "rawFile": "round2_chat_b_raw.json",
+      "humanDecisionNeeded": false
+    },
+    {
+      "index": 58,
+      "ww": "煜晴纺织品",
+      "items": [
+        {
+          "id": 2304,
+          "offer": "1028152854433",
+          "sku": "中性灰>70*140cm±2"
+        }
+      ],
+      "readStatus": "已读",
+      "latestRows": [
+        {
+          "images": [],
+          "text": "蛙蛙cc\n2026-10-16 09:29:28\n图上这款有吗？水波纹超细纤维大浴巾（60×120cm，4个装）单品包装尺寸多少（长宽高）、重量多少，500 个什么价？\n已读"
+        },
+        {
+          "images": [],
+          "text": "煜晴纺织品\n2026-10-16 11:53:54\n500个"
+        },
+        {
+          "images": [],
+          "text": "煜晴纺织品\n2026-10-16 11:53:56\n做不来"
+        },
+        {
+          "images": [],
+          "text": "煜晴纺织品\n2026-10-16 11:54:02\n你这个属于特殊颜色"
+        }
+      ],
+      "alreadyAsked": true,
+      "previousQuestions": [
+        "蛙蛙cc\n2026-10-16 09:29:28\n图上这款有吗？水波纹超细纤维大浴巾（60×120cm，4个装）单品包装尺寸多少（长宽高）、重量多少，500 个什么价？\n已读"
+      ],
+      "finding": "目标特殊颜色500个做不了。",
+      "imageReview": null,
+      "rawFile": "round2_chat_b_raw.json",
+      "humanDecisionNeeded": false
+    },
+    {
+      "index": 59,
+      "ww": "牧星宠物用品厂",
+      "items": [
+        {
+          "id": 1844,
+          "offer": "898529842409",
+          "sku": "猫薄荷玲珑球（中号）"
+        }
+      ],
+      "readStatus": "已读",
+      "latestRows": [
+        {
+          "images": [],
+          "text": "牧星宠物用品厂\n2026-10-13 16:25:02\n您好"
+        },
+        {
+          "images": [],
+          "text": "蛙蛙cc\n2026-10-20 13:56:31\n之前问的木天蓼玲珑球是3个一套销售。请确认能否按图做猫薄荷芯和铃铛芯混装3个？请补这3个装进一个销售袋后的长、宽、高（厘米）和含袋重量（克），普通OPP袋即可；若只有单一内芯，请说明。\n已读"
+        },
+        {
+          "images": [],
+          "text": "牧星宠物用品厂\n2026-10-20 13:58:31\n暂不支持的消息类型"
+        },
+        {
+          "images": [],
+          "text": "牧星宠物用品厂\n2026-10-20 13:59:40\n您好"
+        }
+      ],
+      "alreadyAsked": true,
+      "previousQuestions": [
+        "蛙蛙cc\n2026-10-13 16:24:43\n图上这款有吗？木天蓼玲珑球（木天蓼枝编织镂空球，3个装）单品包装尺寸多少（长宽高）、重量多少，500 个什么价？\n已读",
+        "蛙蛙cc\n2026-10-20 13:56:31\n之前问的木天蓼玲珑球是3个一套销售。请确认能否按图做猫薄荷芯和铃铛芯混装3个？请补这3个装进一个销售袋后的长、宽、高（厘米）和含袋重量（克），普通OPP袋即可；若只有单一内芯，请说明。\n已读"
+      ],
+      "finding": "10-20已问3球混芯一袋包装，商家仅您好/卡片，未答。",
+      "imageReview": null,
+      "rawFile": "round2_chat_b_raw.json",
+      "humanDecisionNeeded": false
+    },
+    {
+      "index": 60,
+      "ww": "琦洁纺织科技",
+      "items": [
+        {
+          "id": 2426,
+          "offer": "933817790579",
+          "sku": "爱健身-粉色>30*100cm(带冷感)"
+        }
+      ],
+      "readStatus": "已读",
+      "latestRows": [
+        {
+          "images": [],
+          "text": "蛙蛙cc\n2026-10-16 09:13:09\n定制500个什么价？单品包装尺寸和重量分别多少？\n已读"
+        },
+        {
+          "images": [],
+          "text": "琦洁纺织科技:利平\n2026-10-16 09:13:51\n成品是多大的呀？"
+        },
+        {
+          "images": [],
+          "text": "琦洁纺织科技:利平\n2026-10-16 09:23:52\n亲，库存不多，喜欢就不要错过哦！"
+        },
+        {
+          "images": [
+            "https://cbu01.alicdn.com/img/ibank/O1CN01GdOOzw1eVibfmek21_!!2215629803877-0-cib.jpg"
+          ],
+          "text": "琦洁纺织科技:利平\n2026-10-16 09:23:52\n健身运动速干毛巾健身房跑步瑜伽擦汗巾超细纤维双面绒毛巾定制\n￥1.68\n新人价\n立即下单"
+        }
+      ],
+      "alreadyAsked": true,
+      "previousQuestions": [
+        "蛙蛙cc\n2026-10-15 11:11:33\n图上这款有吗？应援毛巾（粉色横幅款）单品包装尺寸多少（长宽高）、重量多少，500 个什么价？\n已读",
+        "蛙蛙cc\n2026-10-16 09:13:09\n定制500个什么价？单品包装尺寸和重量分别多少？\n已读"
+      ],
+      "finding": "粉色应援巾可定制，商家问成品尺寸；原问500已给不重问。",
+      "imageReview": null,
+      "rawFile": "round2_chat_b_raw.json",
+      "humanDecisionNeeded": false
+    },
+    {
+      "index": 61,
+      "ww": "盛荃百货",
+      "items": [
+        {
+          "id": 2773,
+          "offer": "733879413830",
+          "sku": "圆角正方形30*30厘米"
+        }
+      ],
+      "readStatus": "已读",
+      "latestRows": [
+        {
+          "images": [],
+          "text": "盛荃百货\n2026-10-15 11:41:00\n你这个是多少尺寸的呀"
+        },
+        {
+          "images": [],
+          "text": "蛙蛙cc\n2026-10-15 11:52:27\n要30×25cm、4片一套的款，请问500套单价、单套包装长宽高和重量分别是多少？\n已读"
+        },
+        {
+          "images": [],
+          "text": "盛荃百货\n2026-10-15 11:52:59\n这个只能用pp袋包装"
+        },
+        {
+          "images": [],
+          "text": "盛荃百货\n2026-10-15 11:53:27\n您确定这个尺寸是30×25的吗？我看它是正方形的哟，，会不会是30×30的哟？"
+        }
+      ],
+      "alreadyAsked": true,
+      "previousQuestions": [
+        "蛙蛙cc\n2026-10-15 11:40:32\n图上这款有吗？自粘亚克力软镜（防碎，4片装）单品包装尺寸多少（长宽高）、重量多少，500 个什么价？\n已读",
+        "蛙蛙cc\n2026-10-15 11:52:27\n要30×25cm、4片一套的款，请问500套单价、单套包装长宽高和重量分别是多少？\n已读"
+      ],
+      "finding": "30×25cm4片套已告知，仅PP袋；商家质疑图正方形，需按已选尺寸澄清非30×30，不重复问全部。",
+      "imageReview": null,
+      "rawFile": "round2_chat_b_raw.json",
+      "humanDecisionNeeded": false
+    },
+    {
+      "index": 62,
+      "ww": "碧丽屋窗饰",
+      "items": [
+        {
+          "id": 656,
+          "offer": "684704453084",
+          "sku": "双涂全遮光>常规配置"
+        }
+      ],
+      "readStatus": "已读",
+      "latestRows": [
+        {
+          "images": [],
+          "text": "碧丽屋窗饰\n2026-10-14 17:17:32\n暂不支持的消息类型"
+        },
+        {
+          "images": [
+            "https://cbu-im.oss-accelerate.aliyuncs.com/webim/5488e1eefecc166be0dcbda1aab2198b.jpeg"
+          ],
+          "text": "蛙蛙cc\n2026-10-14 17:17:41\n预览\n已读"
+        },
+        {
+          "images": [],
+          "text": "蛙蛙cc\n2026-10-14 17:17:45\n图上这款有吗？免打孔顶杆式卷帘（1级遮光）单品包装尺寸多少（长宽高）、重量多少，500 个什么价？\n已读"
+        },
+        {
+          "images": [],
+          "text": "碧丽屋窗饰\n2026-10-14 17:18:15\n多宽多高"
+        }
+      ],
+      "alreadyAsked": true,
+      "previousQuestions": [
+        "蛙蛙cc\n2026-10-14 17:17:45\n图上这款有吗？免打孔顶杆式卷帘（1级遮光）单品包装尺寸多少（长宽高）、重量多少，500 个什么价？\n已读"
+      ],
+      "finding": "免打孔卷帘问宽高，按候选现有尺寸补充，包装未答。",
+      "imageReview": null,
+      "rawFile": "round2_chat_b_raw.json",
+      "humanDecisionNeeded": false
+    },
+    {
+      "index": 63,
+      "ww": "福山宠物用品",
+      "items": [
+        {
+          "id": 3648,
+          "offer": "653305904798",
+          "sku": "黄色猫咪款>L：55*55cm"
+        }
+      ],
+      "readStatus": "已读",
+      "latestRows": [
+        {
+          "images": [],
+          "text": "福山宠物用品\n2026-10-17 09:10:34\n没有跟这个图上一模一样的，目前只卖我们上架的这款"
+        },
+        {
+          "images": [],
+          "text": "福山宠物用品\n2026-10-17 09:11:31\n775923848这个是我们老板的微，您如果要单独定制的话，也可以跟我们老板问问哦"
+        },
+        {
+          "images": [
+            "https://img.alicdn.com/imgextra/i1/O1CN01Z27sy227MDKGoGjS8_!!6000000007782-2-tps-64-64.png"
+          ],
+          "text": "福山宠物用品\n2026-10-17 09:11:40"
+        },
+        {
+          "images": [],
+          "text": "福山宠物用品\n2026-10-20 14:45:15\n您好，欢迎光临唐山福山宠物用品有限公司，我司全体人员竭诚为您服务，客服正在赶来请稍后。\n快递运费问题\n一件代发问题"
+        }
+      ],
+      "alreadyAsked": true,
+      "previousQuestions": [
+        "蛙蛙cc\n2026-10-17 09:10:00\n图上这款有吗？纯棉四点悬挂猫吊床（56×47cm）单品包装尺寸多少（长宽高）、重量多少，500 个什么价？\n已读"
+      ],
+      "finding": "无图同款，只卖上架款；定做需联系老板，不新增站外联系。",
+      "imageReview": null,
+      "rawFile": "round2_chat_b_raw.json",
+      "humanDecisionNeeded": false
+    },
+    {
+      "index": 64,
+      "ww": "纳兰语家纺",
+      "items": [
+        {
+          "id": 1345,
+          "offer": "1083685596141",
+          "sku": "深睡四季被Pro3.0|夜云紫【建议室温15~25°C】>150x200cm【适合1.2m单人床】"
+        }
+      ],
+      "readStatus": "已读",
+      "latestRows": [],
+      "alreadyAsked": false,
+      "previousQuestions": [],
+      "finding": "当前会话无消息，无可采用聊天参数。",
+      "imageReview": null,
+      "rawFile": "round2_chat_b_raw.json",
+      "humanDecisionNeeded": false
+    },
+    {
+      "index": 65,
+      "ww": "绿顺日用品厂",
+      "items": [
+        {
+          "id": 1268,
+          "offer": "1030692247845",
+          "sku": "包边灰色珊瑚绒>25*30cm"
+        }
+      ],
+      "readStatus": "已读",
+      "latestRows": [
+        {
+          "images": [],
+          "text": "绿顺日用品厂:红红\n2026-10-13 16:30:49\n20*30订做  10000片起订"
+        },
+        {
+          "images": [],
+          "text": "绿顺日用品厂:红红\n2026-10-13 16:40:49\n老板，您看重的这款货是最近很受欢的，正在热销，容易断货哦！喜欢就赶紧去下单哦！"
+        },
+        {
+          "images": [
+            "https://cbu01.alicdn.com/img/ibank/O1CN01jE49Si1ODMxCweIpW_!!956131671-0-cib.jpg"
+          ],
+          "text": "绿顺日用品厂:红红\n2026-10-13 16:40:49\n跨境抹布保洁厨房家用不易沾油毛巾清洁吸水洗碗家务专用加厚批发\n￥0.53\n立即下单"
+        },
+        {
+          "images": [
+            "https://cbu01.alicdn.com/img/ibank/O1CN01BXzloPH8jeD3thOC_!!956131671-0-cib.jpg"
+          ],
+          "text": "绿顺日用品厂:红红\n2026-10-20 14:45:42\n绿顺日用品厂专注生产抹布十余年，支持代发、批发、定制、跨境板块，欢迎咨询订购！抖音爆款推荐：\n跨境双面珊瑚绒新款抹布超细纤维厨房吸水多功能洗碗专用抹布批发\n¥ 3.30\n发什么快递？\n什么时候发货？\n品质问题？\n售后问题\n运费问题\n运费问题\n开票问题"
+        }
+      ],
+      "alreadyAsked": true,
+      "previousQuestions": [
+        "蛙蛙cc\n2026-10-10 12:37:50\n图上这款有吗？超细纤维厨房吸水抹布（厚8mm双层，4片装）单品包装尺寸多少（长宽高）、重量多少，500 个什么价？\n已读",
+        "蛙蛙cc\n2026-10-13 16:30:17\n要30×20cm灰色、4片装，请问能做吗？500套单价多少，单套包装尺寸和重量多少？\n已读"
+      ],
+      "finding": "240g/m²面料，25×30/30×40/30×60现货；目标20×30需10000片起订，高于500套×4。现25×30候选可近似，不能当目标20×30。",
+      "imageReview": null,
+      "rawFile": "round2_chat_b_raw.json",
+      "humanDecisionNeeded": false
+    },
+    {
+      "index": 66,
+      "ww": "美居纳家居日用品",
+      "items": [
+        {
+          "id": 1101,
+          "offer": "994860661654",
+          "sku": "方形大号带盖【29*18*15】>6个装"
+        }
+      ],
+      "readStatus": "已读",
+      "latestRows": [
+        {
+          "images": [],
+          "text": "美居纳家居日用品\n2026-10-15 09:19:48\n啥尺寸"
+        },
+        {
+          "images": [],
+          "text": "美居纳家居日用品\n2026-10-15 09:29:49\n亲，现货库存不多，喜欢就不要错过哦！"
+        },
+        {
+          "images": [],
+          "text": "美居纳家居日用品\n2026-10-15 09:29:49\n暂不支持的消息类型"
+        },
+        {
+          "images": [],
+          "text": "美居纳家居日用品\n2026-10-19 16:46:14\n暂不支持的消息类型"
+        }
+      ],
+      "alreadyAsked": true,
+      "previousQuestions": [
+        "蛙蛙cc\n2026-10-15 09:19:04\n图上这款有吗？透明塑料收纳盒（带盖，6个装）单品包装尺寸多少（长宽高）、重量多少，500 个什么价？\n已读"
+      ],
+      "finding": "仅自动接待/不支持消息或欢迎，无可采用具体业务参数。",
+      "imageReview": null,
+      "rawFile": "round2_chat_b_raw.json",
+      "humanDecisionNeeded": false
+    },
+    {
+      "index": 67,
+      "ww": "聚宝盆严选",
+      "items": [
+        {
+          "id": 1895,
+          "offer": "998659457033",
+          "sku": "【薄款】S码33*45cm*100片/包"
+        }
+      ],
+      "readStatus": "已读",
+      "latestRows": [],
+      "alreadyAsked": false,
+      "previousQuestions": [],
+      "finding": "当前会话无消息，无可采用聊天参数。",
+      "imageReview": null,
+      "rawFile": "round2_chat_b_raw.json",
+      "humanDecisionNeeded": false
+    },
+    {
+      "index": 68,
+      "ww": "艾卫净厨卫",
+      "items": [
+        {
+          "id": 1533,
+          "offer": "666557351845",
+          "sku": "微气泡花洒+转接头"
+        }
+      ],
+      "readStatus": "已读",
+      "latestRows": [
+        {
+          "images": [],
+          "text": "蛙蛙cc\n2026-10-09 15:31:33\n好的，单个价格多少？单品包装尺寸多少，带包装重量多少？\n已读"
+        },
+        {
+          "images": [],
+          "text": "艾卫净厨卫\n2026-10-09 15:33:40\n看多少量"
+        },
+        {
+          "images": [],
+          "text": "艾卫净厨卫\n2026-10-09 15:33:56\n16.5*10.5*7CM    300G"
+        },
+        {
+          "images": [],
+          "text": "艾卫净厨卫\n2026-10-20 14:46:07\n暂不支持的消息类型"
+        }
+      ],
+      "alreadyAsked": true,
+      "previousQuestions": [
+        "蛙蛙cc\n2026-10-09 15:13:21\n增压微气泡固定花洒头（5档出水，带止水键），现货有没有，单品包装尺寸多少、外箱装箱一箱有几件，能不能发中性包装，有实拍图和视频的话发一下，谢谢\n已读",
+        "蛙蛙cc\n2026-10-09 15:31:33\n好的，单个价格多少？单品包装尺寸多少，带包装重量多少？\n已读"
+      ],
+      "finding": "完整16.5×10.5×7cm300g有文字证据，近似手持花洒；无500价。",
+      "imageReview": "已实际看：银色手持花洒、转接头、说明书、气泡袋、牛皮盒；文字包装16.5×10.5×7cm300g。",
+      "rawFile": "round2_chat_b_raw.json",
+      "humanDecisionNeeded": false
+    },
+    {
+      "index": 69,
+      "ww": "苔匠工艺品厂",
+      "items": [
+        {
+          "id": 2657,
+          "offer": "924374955713",
+          "sku": "三色猫头鹰 随机 一个"
+        }
+      ],
+      "readStatus": "已读",
+      "latestRows": [
+        {
+          "images": [],
+          "text": "苔匠工艺品厂:曦曦\n2026-10-14 10:37:24\n暂不支持的消息类型"
+        },
+        {
+          "images": [
+            "https://cbu-im.oss-accelerate.aliyuncs.com/webim/39bf720f2174ebf925c664dd570aad28.jpeg"
+          ],
+          "text": "蛙蛙cc\n2026-10-14 10:37:33\n预览\n已读"
+        },
+        {
+          "images": [],
+          "text": "蛙蛙cc\n2026-10-14 10:37:34\n图上这款有吗？树脂猫头鹰摆件（秋季帽子围巾造型，3只装）单品包装尺寸多少（长宽高）、重量多少，500 个什么价？\n已读"
+        },
+        {
+          "images": [],
+          "text": "苔匠工艺品厂:曦曦\n2026-10-14 10:39:45\n稍等我看一下"
+        }
+      ],
+      "alreadyAsked": true,
+      "previousQuestions": [
+        "蛙蛙cc\n2026-10-14 10:37:34\n图上这款有吗？树脂猫头鹰摆件（秋季帽子围巾造型，3只装）单品包装尺寸多少（长宽高）、重量多少，500 个什么价？\n已读"
+      ],
+      "finding": "树脂三猫头鹰说稍等未答。",
+      "imageReview": null,
+      "rawFile": "round2_chat_b_raw.json",
+      "humanDecisionNeeded": false
+    },
+    {
+      "index": 70,
+      "ww": "菏泽双林木制品有限公司",
+      "items": [
+        {
+          "id": 1560,
+          "offer": "1051376353854",
+          "sku": "18孔10钩【黑色】主图"
+        }
+      ],
+      "readStatus": "已读",
+      "latestRows": [
+        {
+          "images": [],
+          "text": "蛙蛙cc\n2026-10-20 14:20:33\n您好，这次另核链接1051376353854的伞架18孔10钩黑色款，单台销售，与前面夹缝推车不同。请给这款伞架装好销售包装后的长宽高（厘米）、含包装重量（克）及500台出厂不含税运单价，仅作询价。目标原为36孔Z架，您现有X架18孔的差异已记下，先按现有款核。\n已读"
+        },
+        {
+          "images": [],
+          "text": "菏泽双林木制品有限公司:月儿\n2026-10-20 14:20:59\n发链接"
+        },
+        {
+          "images": [],
+          "text": "菏泽双林木制品有限公司:月儿\n2026-10-20 14:31:00\n亲  咱工厂直销 都是正品哦 质量百分百有保证  亲亲不要错过哦"
+        },
+        {
+          "images": [
+            "https://cbu01.alicdn.com/img/ibank/O1CN01jIQ3DC1L13TCFWtG5_!!2219806881238-0-cib.jpg"
+          ],
+          "text": "菏泽双林木制品有限公司:月儿\n2026-10-20 14:31:00\n伞架家用入户门大容量长柄伞置物架酒店大堂多功能放雨伞收纳架子\n￥21.00\n立即下单"
+        }
+      ],
+      "alreadyAsked": true,
+      "previousQuestions": [
+        "蛙蛙cc\n2026-10-18 11:40:57\n要18cm宽、白色、四层带万向轮的，麻烦报下500个单价和单品包装长宽高、重量。\n已读",
+        "蛙蛙cc\n2026-10-20 14:20:33\n您好，这次另核链接1051376353854的伞架18孔10钩黑色款，单台销售，与前面夹缝推车不同。请给这款伞架装好销售包装后的长宽高（厘米）、含包装重量（克）及500台出厂不含税运单价，仅作询价。目标原为36孔Z架，您现有X架18孔的差异已记下，先按现有款核。\n已读"
+      ],
+      "finding": "10-20伞架18孔10钩黑色询价后要发链接；链接号已写但未可点击，补完整offer链接即可。旧43×24×24/1500g/22.8是夹缝车，绝不可套伞架。",
+      "imageReview": null,
+      "rawFile": "round2_chat_b_raw.json",
+      "humanDecisionNeeded": false
+    },
+    {
+      "index": 71,
+      "ww": "诸暨市蓝鲸贸易有限公司",
+      "items": [
+        {
+          "id": 917,
+          "offer": "634799525603",
+          "sku": "白色（棉田eva单条袋装）>68*34"
+        }
+      ],
+      "readStatus": "已读",
+      "latestRows": [
+        {
+          "images": [],
+          "text": "蛙蛙cc\n2026-10-20 14:12:30\n您好，先核链接634799525603白色纯棉68×34cm洗脸巾，按3条一套销售，不加品牌标志。请问可否配礼盒和手提纸袋？请给3条装好后的销售包装长宽高（厘米）、含包装总重量（克）和500套出厂不含税运价；如只有普通袋装请按袋装说明，仅作询价。\n已读"
+        },
+        {
+          "images": [],
+          "text": "诸暨市蓝鲸贸易有限公司\n2026-10-20 14:13:44\n做不了呢"
+        },
+        {
+          "images": [],
+          "text": "诸暨市蓝鲸贸易有限公司\n2026-10-20 14:13:49\n我们都是有洁丽雅品牌的"
+        }
+      ],
+      "alreadyAsked": true,
+      "previousQuestions": [
+        "蛙蛙cc\n2026-10-20 14:12:30\n您好，先核链接634799525603白色纯棉68×34cm洗脸巾，按3条一套销售，不加品牌标志。请问可否配礼盒和手提纸袋？请给3条装好后的销售包装长宽高（厘米）、含包装总重量（克）和500套出厂不含税运价；如只有普通袋装请按袋装说明，仅作询价。\n已读"
+      ],
+      "finding": "无品牌要求做不了，都有洁丽雅品牌；当前按差异处理，不虚称无牌。",
+      "imageReview": null,
+      "rawFile": "round2_chat_b_raw.json",
+      "humanDecisionNeeded": false
+    },
+    {
+      "index": 72,
+      "ww": "象征家纺",
+      "items": [
+        {
+          "id": 909,
+          "offer": "684181208780",
+          "sku": "灰色植绒>充气枕+眼罩耳塞收纳袋"
+        }
+      ],
+      "readStatus": "已读",
+      "latestRows": [
+        {
+          "images": [
+            "https://cbu-im.oss-accelerate.aliyuncs.com/webim/0ab5b2fc602f87ad1d92f99369fa6629.jpeg"
+          ],
+          "text": "蛙蛙cc\n2026-10-10 11:12:32\n预览\n已读"
+        },
+        {
+          "images": [],
+          "text": "蛙蛙cc\n2026-10-10 11:12:36\n图上这款有吗？按压充气U型颈枕（双气囊）单品包装尺寸多少（长宽高）、重量多少，500 个什么价？\n已读"
+        },
+        {
+          "images": [],
+          "text": "象征家纺\n2026-10-10 11:12:45\n这款没有"
+        },
+        {
+          "images": [],
+          "text": "象征家纺\n2026-10-20 14:46:30\n暂不支持的消息类型"
+        }
+      ],
+      "alreadyAsked": true,
+      "previousQuestions": [
+        "蛙蛙cc\n2026-10-10 11:12:36\n图上这款有吗？按压充气U型颈枕（双气囊）单品包装尺寸多少（长宽高）、重量多少，500 个什么价？\n已读"
+      ],
+      "finding": "目标按压充气U枕没有。",
+      "imageReview": null,
+      "rawFile": "round2_chat_b_raw.json",
+      "humanDecisionNeeded": false
+    },
+    {
+      "index": 73,
+      "ww": "趣纳生活",
+      "items": [
+        {
+          "id": 2162,
+          "offer": "637619304245",
+          "sku": "小号：深27*宽18*高10cm（5L）"
+        }
+      ],
+      "readStatus": "已读",
+      "latestRows": [
+        {
+          "images": [],
+          "text": "趣纳生活:西柚\n2026-10-17 10:23:16\n有什么要求"
+        },
+        {
+          "images": [],
+          "text": "趣纳生活:西柚\n2026-10-17 10:23:18\n需要含税运吗"
+        },
+        {
+          "images": [],
+          "text": "趣纳生活:西柚\n2026-10-17 10:23:29\n收货地址是哪里"
+        },
+        {
+          "images": [],
+          "text": "趣纳生活:西柚\n2026-10-20 14:46:33\n亲亲，进店就是缘分～有任何问题随时咨询，在线秒回🥰！"
+        }
+      ],
+      "alreadyAsked": true,
+      "previousQuestions": [
+        "蛙蛙cc\n2026-10-17 09:51:22\n图上这款有吗？抽屉式收纳盒（宽18.4×深27.2×高10.2cm，4个装）单品包装尺寸多少（长宽高）、重量多少，500 个什么价？\n已读",
+        "蛙蛙cc\n2026-10-17 10:14:07\n请问500个什么价？单个怎么包装？\n已读",
+        "蛙蛙cc\n2026-10-17 10:21:39\n500个的单价麻烦报一下。\n已读"
+      ],
+      "finding": "单件泡沫袋；图只有产品尺寸27×18×10净350g，整箱12.7kg，不是单件毛重/包尺。500价问税运和地址；可以报价不含税运解答，不用用户另判。",
+      "imageReview": "已看表：1212小号，产品规格27×18×10cm，净重350g，整箱毛重12.7kg、32装、箱规60×38×79cm。无单个毛重/单个销售包装三边；产品尺寸不能混当包装。",
+      "rawFile": "round2_chat_b_raw.json",
+      "humanDecisionNeeded": false
+    },
+    {
+      "index": 74,
+      "ww": "达开工艺品",
+      "items": [
+        {
+          "id": 2053,
+          "offer": "1057129183325",
+          "sku": "咨询"
+        }
+      ],
+      "readStatus": "已读",
+      "latestRows": [
+        {
+          "images": [],
+          "text": "达开工艺品\n2026-10-20 14:46:47\n暂不支持的消息类型"
+        }
+      ],
+      "alreadyAsked": false,
+      "previousQuestions": [],
+      "finding": "仅自动接待/不支持消息或欢迎，无可采用具体业务参数。",
+      "imageReview": null,
+      "rawFile": "round2_chat_b_raw.json",
+      "humanDecisionNeeded": false
+    },
+    {
+      "index": 75,
+      "ww": "鄢林华",
+      "items": [
+        {
+          "id": 1867,
+          "offer": "692876694907",
+          "sku": "绿色>93067"
+        }
+      ],
+      "readStatus": "已读",
+      "latestRows": [
+        {
+          "images": [],
+          "text": "蛙蛙cc\n2026-10-18 13:11:15\n麻烦直接确认下：牙刷是不是2.8mm超薄小圆头？每份装几支，包装长宽高和重量多少？\n已读"
+        },
+        {
+          "images": [],
+          "text": "鄢林华:小颖\n2026-10-18 13:13:16\n暂不支持的消息类型"
+        },
+        {
+          "images": [],
+          "text": "鄢林华:小颖\n2026-10-18 13:27:24\n看下页面哦"
+        },
+        {
+          "images": [],
+          "text": "鄢林华:小颖\n2026-10-20 11:51:39\n暂不支持的消息类型"
+        }
+      ],
+      "alreadyAsked": true,
+      "previousQuestions": [
+        "蛙蛙cc\n2026-10-18 12:45:58\n图上这款有吗？超小型犬用牙刷（2.8mm超薄小圆头）单品包装尺寸多少（长宽高）、重量多少，500 个什么价？\n已读",
+        "蛙蛙cc\n2026-10-18 13:00:57\n牙刷本身是同款2.8mm超薄小圆头吗？你们是什么包装和装数，单品包装长宽高、重量多少？500个单价多少？\n已读",
+        "蛙蛙cc\n2026-10-18 13:11:15\n麻烦直接确认下：牙刷是不是2.8mm超薄小圆头？每份装几支，包装长宽高和重量多少？\n已读"
+      ],
+      "finding": "商品详情已读并实际看图：绿色93067单支包装22×6.2×1.5cm17g，明确单支优先于通用30g；当前Amazon B0H5PX8RL7实际4件套，目标整套包装未确认，单支事实可记，不能标整套完成。",
+      "imageReview": "已实际看目标商品详情所有产品图：单支装，ABS柄/PBT毛，带包装17g；包装220×62×15mm；裸刷152mm、10mm手柄、头12mm、毛8mm，裸重7.5g。上方通用重量30g不如明确单支详情17g。目标Amazon实际4件套，故仅采用单支事实，不完成整套。",
+      "rawFile": "round2_chat_b_raw.json",
+      "humanDecisionNeeded": false
+    },
+    {
+      "index": 76,
+      "ww": "金琴韵纺织品",
+      "items": [
+        {
+          "id": 913,
+          "offer": "806665840474",
+          "sku": "雅致浅蓝>33×70cm"
+        }
+      ],
+      "readStatus": "已读",
+      "latestRows": [],
+      "alreadyAsked": false,
+      "previousQuestions": [],
+      "finding": "当前会话无消息，无可采用聊天参数。",
+      "imageReview": null,
+      "rawFile": "round2_chat_b_raw.json",
+      "humanDecisionNeeded": false
+    },
+    {
+      "index": 77,
+      "ww": "锦博金纺织品",
+      "items": [
+        {
+          "id": 3062,
+          "offer": "1074992075891",
+          "sku": "加厚款【裸装】灰色>30×30cm"
+        }
+      ],
+      "readStatus": "已读",
+      "latestRows": [
+        {
+          "images": [
+            "https://cbu-im.oss-accelerate.aliyuncs.com/webim/a29fc3e3747be2dabc58cc7ce2727db9.jpeg"
+          ],
+          "text": "蛙蛙cc\n2026-10-16 10:57:31\n预览\n已读"
+        },
+        {
+          "images": [],
+          "text": "蛙蛙cc\n2026-10-16 10:57:32\n图上这款有吗？灰色超细纤维无痕擦玻璃布（30×30cm，10个装）单品包装尺寸多少（长宽高）、重量多少，500 个什么价？\n已读"
+        },
+        {
+          "images": [],
+          "text": "锦博金纺织品\n2026-10-16 10:57:41\n给你包邮"
+        }
+      ],
+      "alreadyAsked": true,
+      "previousQuestions": [
+        "蛙蛙cc\n2026-10-16 10:57:32\n图上这款有吗？灰色超细纤维无痕擦玻璃布（30×30cm，10个装）单品包装尺寸多少（长宽高）、重量多少，500 个什么价？\n已读"
+      ],
+      "finding": "商家给包邮，没报价数字或包装。",
+      "imageReview": null,
+      "rawFile": "round2_chat_b_raw.json",
+      "humanDecisionNeeded": false
+    },
+    {
+      "index": 78,
+      "ww": "锦晟浩达医疗用品",
+      "items": [
+        {
+          "id": 1895,
+          "offer": "801167891991",
+          "sku": "【薄款】S码33*45cm*100片/包"
+        },
+        {
+          "id": 1895,
+          "offer": "771076948756",
+          "sku": "【新品上市】S码33*45cm*100片/包"
+        }
+      ],
+      "readStatus": "已读",
+      "latestRows": [
+        {
+          "images": [],
+          "text": "锦晟浩达医疗用品:阿诺\n2026-10-20 14:03:23\n好的"
+        },
+        {
+          "images": [],
+          "text": "锦晟浩达医疗用品:阿诺\n2026-10-20 14:03:31\n薄款尿垫为蓝色"
+        },
+        {
+          "images": [],
+          "text": "锦晟浩达医疗用品:阿诺\n2026-10-20 14:13:31\n亲，宝贝已为您备好，现在下单优先发货哦！商品是有运费险的，不满意支持 7 天无理由退换！有任何问题都可以找我，24 小时在线为您服务～"
+        },
+        {
+          "images": [
+            "https://cbu01.alicdn.com/img/ibank/O1CN01MEScbY1XLSK1jmCHJ_!!2217101902907-0-cib.jpg"
+          ],
+          "text": "锦晟浩达医疗用品:阿诺\n2026-10-20 14:13:31\n竹炭狗狗尿垫除臭加厚强吸水尿布一次性宠物隔尿垫猫咪尿片尿不湿\n￥1.75\n新人价\n¥\n1\n满20可用\n优惠下单"
+        }
+      ],
+      "alreadyAsked": true,
+      "previousQuestions": [
+        "蛙蛙cc\n2026-10-20 14:02:30\n您好，询问链接801167891991的【薄款】S码33×45cm尿垫，100片/包这款。目标按200片一套销售，请确认薄款颜色和是否7层；若可以，请提供200片装好后的销售包装长宽高（厘米）、含包装总重量（克），普通袋装即可，并报500套的出厂不含税运单套价，仅作询价。\n已读"
+      ],
+      "finding": "薄款S33×45是蓝色已确认；200片套包装及7层与500套价已问未答。",
+      "imageReview": null,
+      "rawFile": "round2_chat_b_raw.json",
+      "humanDecisionNeeded": false
+    },
+    {
+      "index": 79,
+      "ww": "雪月家纺",
+      "items": [
+        {
+          "id": 913,
+          "offer": "657669890609",
+          "sku": "0321-至尊白>34*75cm±2"
+        },
+        {
+          "id": 2541,
+          "offer": "657669890609",
+          "sku": "0321-至尊白>34*75cm±2"
+        }
+      ],
+      "readStatus": "已读",
+      "latestRows": [
+        {
+          "images": [],
+          "text": "雪月家纺\n2026-10-10 11:28:49\n可以定做的 "
+        },
+        {
+          "images": [],
+          "text": "雪月家纺\n2026-10-10 11:28:57\n您这个是出口的订单吗 "
+        },
+        {
+          "images": [],
+          "text": "雪月家纺\n2026-10-13 16:07:15\n暂不支持的消息类型"
+        },
+        {
+          "images": [],
+          "text": "雪月家纺\n2026-10-20 14:47:18\n暂不支持的消息类型"
+        }
+      ],
+      "alreadyAsked": true,
+      "previousQuestions": [
+        "蛙蛙cc\n2026-10-10 11:21:27\n图上这款有吗？纯棉厚款毛巾礼盒（625GSM，5个装）单品包装尺寸多少（长宽高）、重量多少，500 个什么价？\n已读"
+      ],
+      "finding": "目标625GSM五件礼盒无同款可定做，问是否出口。",
+      "imageReview": null,
+      "rawFile": "round2_chat_b_raw.json",
+      "humanDecisionNeeded": false
+    },
+    {
+      "index": 80,
+      "ww": "驰阳毛巾厂",
+      "items": [
+        {
+          "id": 2404,
+          "offer": "775520745264",
+          "sku": "21股进口纯棉【连锁酒店的选择】>350克浴巾【70*140】"
+        },
+        {
+          "id": 2465,
+          "offer": "775520745264",
+          "sku": "主图款纯棉16支铂金段长绒毛【五星级酒店主选】>500克浴巾【70*140】"
+        }
+      ],
+      "readStatus": "已读",
+      "latestRows": [
+        {
+          "images": [
+            "https://cbu-im.oss-accelerate.aliyuncs.com/webim/13c32164392901163c47531b3d00d2e6.jpeg"
+          ],
+          "text": "蛙蛙cc\n2026-10-14 09:50:29\n预览\n已读"
+        },
+        {
+          "images": [],
+          "text": "蛙蛙cc\n2026-10-14 09:50:32\n图上这款有吗？轻薄速干纯棉浴巾（60×120cm，2个装）单品包装尺寸多少（长宽高）、重量多少，500 个什么价？\n已读"
+        },
+        {
+          "images": [],
+          "text": "驰阳毛巾厂\n2026-10-14 09:50:58\n没有需要订做"
+        },
+        {
+          "images": [],
+          "text": "驰阳毛巾厂\n2026-10-20 14:47:21\n暂不支持的消息类型"
+        }
+      ],
+      "alreadyAsked": true,
+      "previousQuestions": [
+        "蛙蛙cc\n2026-10-14 09:50:32\n图上这款有吗？轻薄速干纯棉浴巾（60×120cm，2个装）单品包装尺寸多少（长宽高）、重量多少，500 个什么价？\n已读"
+      ],
+      "finding": "目标60×120两条无现货需订做；同商家多CW须区分，不能套给70×140/500g现有款。",
+      "imageReview": null,
+      "rawFile": "round2_chat_b_raw.json",
+      "humanDecisionNeeded": false
+    },
+    {
+      "index": 81,
+      "ww": "高阳县硕宇纺织品厂",
+      "items": [
+        {
+          "id": 2304,
+          "offer": "1060286444443",
+          "sku": "灰色>浴巾"
+        }
+      ],
+      "readStatus": "已读",
+      "latestRows": [
+        {
+          "images": [],
+          "text": "高阳县硕宇纺织品厂\n2026-10-16 09:27:23\n暂不支持的消息类型"
+        },
+        {
+          "images": [],
+          "text": "高阳县硕宇纺织品厂\n2026-10-16 09:27:34\n好"
+        },
+        {
+          "images": [],
+          "text": "高阳县硕宇纺织品厂\n2026-10-16 09:28:08\n没有这几个颜色"
+        },
+        {
+          "images": [],
+          "text": "高阳县硕宇纺织品厂\n2026-10-20 14:47:24\n暂不支持的消息类型"
+        }
+      ],
+      "alreadyAsked": true,
+      "previousQuestions": [
+        "蛙蛙cc\n2026-10-16 09:25:25\n图上这款有吗？水波纹超细纤维大浴巾（60×120cm，4个装）单品包装尺寸多少（长宽高）、重量多少，500 个什么价？\n已读"
+      ],
+      "finding": "目标60×120四色四条没有这些颜色；当前灰70×140不同，不泛化。",
+      "imageReview": null,
+      "rawFile": "round2_chat_b_raw.json",
+      "humanDecisionNeeded": false
+    },
+    {
+      "index": 82,
+      "ww": "鸿森家居用品",
+      "items": [
+        {
+          "id": 2158,
+          "offer": "677767450064",
+          "sku": "透明【量大从优】>15#：34*24.5*19cm"
+        },
+        {
+          "id": 2159,
+          "offer": "677767450064",
+          "sku": "透橙【量大从优】>标准小号8L：28*20*17cm"
+        }
+      ],
+      "readStatus": "已读",
+      "latestRows": [
+        {
+          "images": [],
+          "text": "鸿森家居用品:洛丹\n2026-10-20 14:16:02\n您好 "
+        },
+        {
+          "images": [],
+          "text": "鸿森家居用品:洛丹\n2026-10-20 14:16:33\n您看的是哪个款？"
+        },
+        {
+          "images": [
+            "https://img.alicdn.com/imgextra/i1/O1CN01nle7A81GnziKnJ6ow_!!6000000000668-2-tps-64-64.png"
+          ],
+          "text": "鸿森家居用品:洛丹\n2026-10-20 14:26:33\n需要的请下单，仓库会尽快安排发货哦。"
+        },
+        {
+          "images": [],
+          "text": "鸿森家居用品:洛丹\n2026-10-20 14:26:33\n暂不支持的消息类型"
+        }
+      ],
+      "alreadyAsked": true,
+      "previousQuestions": [
+        "蛙蛙cc\n2026-10-20 14:15:34\n您好，先核链接677767450064的两种收纳箱，分别按4个带盖一套销售：①透明15# 34×24.5×19cm；②透橙标准小号8L 28×20×17cm。请分别给每种4个装好销售包装后的长宽高（厘米）、含包装总重量（克）和500套出厂不含税运单套价；请注明是否套叠包装，仅作询价。\n已读"
+      ],
+      "finding": "两规格4个套10-20已问且offer号已给，商家问哪个款；按每款图或完整链接澄清，不重复包尺问题。",
+      "imageReview": null,
+      "rawFile": "round2_chat_b_raw.json",
+      "humanDecisionNeeded": false
+    }
+  ]
+}

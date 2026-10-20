@@ -2,6 +2,7 @@ const fs = await import("node:fs/promises"), os = await import("node:os"), path 
 const C = path.join(os.homedir(), ".cache", "xunpan");
 const job = JSON.parse(await fs.readFile(path.join(C, "job.json"), "utf8"));
 if(NAME==='send'){
+  if(job.recover_only)throw Error('旧Mac入口不支持只读回执恢复，请使用Windows执行机');
   const {pathToFileURL}=await import('node:url');
   const {validateSendJob}=await import(pathToFileURL(path.join(process.cwd(),'tools/browser/send_policy.mjs')).href);
   validateSendJob(job);

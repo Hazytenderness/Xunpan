@@ -89,14 +89,24 @@ for n, lid in enumerate(order):
         print('XUNPAN_RETRY_LATER: '+str(error),file=sys.stderr,flush=True);sys.exit(75)
     # Windows 接管：断线、验证、收件人异常立即停，不自动重试。
     if str(r.get('结果','')).startswith('跳过:'):
+        if r.get('需重读'):
+            print(lid,r['结果'],flush=True);continue
+        if '最新聊天已有相同内容' in r['结果']:
+            x['状态']='已发R1';x['发送核对']=r;save_queue(B,q)
+            print(lid,'聊天已有首询，继续读回复',flush=True);continue
         x['状态']='不用发';x['备注']=(x.get('备注') or '')+'；'+r['结果'];save_queue(B,q)
+        print(lid,r['结果'],flush=True);continue
+    if r.get('需重读'):
         print(lid,r['结果'],flush=True);continue
     print(f"{now_bj():%H:%M:%S} {lid} {x['组']} {x['旺旺名']} {r.get('结果')}", flush=True)
     if r.get('图已发') and r.get('结果') != '成功':  # 图发出去了、字没发成：下次只补发字，不重复发图
         x['图已发'] = True
         save_queue(B, q)
     if r.get('结果') != '成功':
-        x['状态']='待人工核实';save_queue(B,q)
+        x['状态']='待人工核实';x['回复暂停']={'时间':now_bj().isoformat(),'原因':r.get('结果','无结果')};save_queue(B,q)
+        if '未核实发送意图' in r.get('结果','') and not (CACHE/'neo_paused.json').exists():
+            print('仅暂停本商家，保留发送意图等待回执核实',flush=True)
+            continue
         print('停止：' + json.dumps(r, ensure_ascii=False), flush=True)
         push(f'R1 发送停止于 {lid}（{B.name}）')
         sys.exit(3)
