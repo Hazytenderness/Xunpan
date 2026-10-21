@@ -2,13 +2,14 @@
 import re
 from datetime import datetime, timezone, timedelta
 
-VERSION = '2026-10-20-unified-copy-1'
+VERSION = '2026-10-21-packaging-custom-moq-1'
 
 def routine_clarification(text):
     return bool(re.search(r'税运|含税|运费|开票|联系方式|包装选择|选择包装|没测量|允许澄清',text or '')) and not re.search(r'付款|下单|接受替代|定制承诺',text or '')
 
-def requires_fact_analysis(history):
+def requires_fact_analysis(history, stored_version=VERSION):
     """单款快恢复只处理纯澄清；数字、图片、确认/否认同款等都回到字段分析器。"""
+    if stored_version!=VERSION:return True
     boundary=max((i for i,m in enumerate(history) if m.get('发送方')=='我方'),default=-1)
     for m in history[boundary+1:]:
         if m.get('发送方')!='对方':continue
@@ -73,6 +74,8 @@ def next_step(entry, quotes, sent=()):
         if stage=='补贴标等资料':
             counts=[sum(word in t for t in asks) for word in ('中性包装','贴标','一箱') if word in text]
             repeated=max(counts,default=0)
+        if '怎么包装的？' in text:
+            repeated=max(repeated,sum('怎么包装的？' in t for t in asks))
         if stage=='补图片视频报价':
             counts=[sum(word in t for t in asks) for word in ('实拍图','视频','多少钱') if word in text]
             repeated=max(counts,default=0)
@@ -81,7 +84,21 @@ def next_step(entry, quotes, sent=()):
         return {**result, '阶段': stage, '话术': text, '原因': reason}
 
     match = value(quotes, '匹配确认')
-    if match == '不匹配' or value(quotes, '现货') == '无货':
+    if match == '不匹配':
+        return step('不匹配结束', reason='供应商明确没有目标款或无货')
+    if value(quotes,'定制款') is True:
+        minimum=value(quotes,'定制起订量') or {}
+        quantity=minimum.get('数量') if isinstance(minimum,dict) else None
+        if isinstance(quantity,bool) or not isinstance(quantity,int) or quantity<=0:
+            return step('确认定制起订量','定制款的起订量是多少？')
+        moq_unit=minimum.get('单位')
+        comparable=moq_unit=='套' if count=='套' else moq_unit in ('个','件','条','支','片','枚','本','双','只','张','根','颗','块')
+        if not comparable:
+            return step('确认定制起订量',f'这个起订量是按{unit}算的吗？')
+        result['定制可继续']=quantity<=50
+        if quantity>50:
+            return step('询问类似现货','有没有类似款，有现货的？')
+    if value(quotes, '现货') == '无货' and not result.get('定制可继续'):
         return step('不匹配结束', reason='供应商明确没有目标款或无货')
     if match != '完全匹配':
         return step('确认同款', '图上这款有吗？')
@@ -93,9 +110,13 @@ def next_step(entry, quotes, sent=()):
         dimensions = weight = False
     if not dimensions or not weight:
         text = f'{unit}包装尺寸多少？重量多少？' if not dimensions and not weight else f'{unit}包装尺寸多少？' if not dimensions else f'{unit}带包装重量多少？'
+        if dimensions and value(quotes,'包装方式') in (None,''):
+            text+='怎么包装的？'
         return step('补包装', text)
     result['包装已完成'] = True
     second = []
+    if value(quotes,'包装方式') in (None,''):
+        second.append('怎么包装的？')
     if value(quotes, '中性包装') in (None, ''):
         second.append('这款能发中性包装吗？')
     if label not in ('能贴', '不能贴'):
@@ -130,6 +151,8 @@ def response_step(entry, quotes, sent, history):
     if boundary>=0 and not recent:
         return {**flow,'阶段':'等商家回复','话术':'','原因':'最新消息仍是我方，先等回复；超24小时核查，不每小时重复追问'}
     text = '\n'.join(m.get('内容','') for m in recent)
+    if flow['阶段']=='询问类似现货' and boundary>=0 and '有没有类似款，有现货的？' in history[boundary].get('内容',''):
+        return {**flow,'阶段':'待核实','话术':'','原因':'已收到类似现货答复，先核对新款图片、链接和目标规格，不自动接受替代款'}
     no_data=bool(re.search(r'没(?:有)?测|没(?:有)?量|不知道|不清楚|没(?:有)?(?:具体)?数据',text))
     previous=history[boundary] if boundary>=0 else {}
     requested=bool(re.search(r'量尺|尺.*量|称重|秤.*读数',previous.get('内容',''))) and '包装' in previous.get('内容','')

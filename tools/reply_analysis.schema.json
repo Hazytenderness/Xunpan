@@ -7,7 +7,7 @@
       "quotes":{"type":"array","items":{
         "type":"object","additionalProperties":false,"required":["field","value_json","source_indexes","image_files","image_quote","conversion"],
         "properties":{
-          "field":{"type":"string","enum":["阶梯价","包装尺寸毛重","起订量","现货","匹配确认","箱规","产品尺寸净重","中性包装","定制","打样","交期","开票点数","贴标","每箱数量","实拍图","视频"]},
+          "field":{"type":"string","enum":["阶梯价","包装尺寸毛重","包装方式","起订量","现货","匹配确认","箱规","产品尺寸净重","中性包装","定制","定制款","定制起订量","打样","交期","开票点数","贴标","每箱数量","实拍图","视频"]},
           "value_json":{"type":"string"},"source_indexes":{"type":"array","items":{"type":"integer"}},
           "image_files":{"type":"array","items":{"type":"string"}},"image_quote":{"type":"string"},"conversion":{"type":"string"}
         }

@@ -12,7 +12,7 @@ from analysis_cache import analyze_cached
 from inquiry_workflow import VERSION, next_step,response_step,allowed_reply,clarification_messages
 from inquiry_actions import report_outcome,manual_is_current
 
-FIELDS={'阶梯价','包装尺寸毛重','起订量','现货','匹配确认','箱规','产品尺寸净重','中性包装','贴标','每箱数量','实拍图','视频','定制','打样','交期','开票点数'}
+FIELDS={'阶梯价','包装尺寸毛重','包装方式','起订量','现货','匹配确认','箱规','产品尺寸净重','中性包装','贴标','每箱数量','实拍图','视频','定制','定制款','定制起订量','打样','交期','开票点数'}
 
 def context(ids):
     records=[];images=[]
@@ -67,6 +67,9 @@ def validate_quote(q,record,batch,visible_images=None):
     if q['field'] in ('包装尺寸毛重','产品尺寸净重') and (not isinstance(value,dict) or any(v is not None and (isinstance(v,bool) or not isinstance(v,(int,float)) or v<=0) for v in value.values())):raise ValueError('包装数值无效')
     if q['field']=='匹配确认' and value not in ('完全匹配','不匹配'):raise ValueError('匹配确认无效')
     if q['field']=='贴标' and value not in ('能贴','不能贴'):raise ValueError('贴标只记录能贴或不能贴')
+    if q['field']=='包装方式' and (not isinstance(value,str) or not value.strip()):raise ValueError('包装方式必须是商家明确说明的非空文本')
+    if q['field']=='定制款' and not isinstance(value,bool):raise ValueError('定制款只记录目标产品是否必须定制')
+    if q['field']=='定制起订量' and (not isinstance(value,dict) or set(value)!={'数量','单位'} or isinstance(value.get('数量'),bool) or not isinstance(value.get('数量'),int) or value['数量']<=0 or not isinstance(value.get('单位'),str) or not value['单位'].strip()):raise ValueError('定制起订量必须有明确正整数数量和单位')
     if q['field']=='每箱数量' and (isinstance(value,bool) or not isinstance(value,int) or value<=0):raise ValueError('每箱数量必须是明确正整数')
     if q['field']=='视频' and value not in ('无','不能提供'):
         videos=[url for m in sources for url in m.get('视频',[])]
@@ -96,11 +99,16 @@ def main():
             '最新用户规则优先：我方发过目标图并询问图上这款有吗，商家针对该目标说有/有的/可以提供，就记录匹配确认=完全匹配，不再要求逐项确认规格。'
             '不能把系统欢迎语、库存推广或对另一问题的有当作确认。商家明确不同款或没有目标款记不匹配。确认记录引用商家真实原话。'
             '贴标仅记录能贴或不能贴，不问标签内容、位置、张数或费用；不能贴也继续收集其他资料，绝不自动不做。'
+            '商家已主动说明袋装、盒装、吸塑等包装方式时提取包装方式，不因只缺该新字段就忽略历史原话；能发中性包装不等于已说明怎么包装。没有具体方式不猜。'
+            '定制款用布尔值，仅当商家明确目标产品必须定制时记true；泛称支持定制、可选彩盒/颜色定制只能记旧定制字段，不能据此判定目标必须定制。'
+            '定制起订量用{"数量":正整数,"单位":"商家明确的计量单位"}，只引用对应目标定制条件的起订量；现货起批量、其他定制方案的起订量和我方计划500件都不能挪用。单位不明不猜。'
+            '用户已确认：目标定制起订量按目标销售单位≤50可继续评估，不因这项单独报needs_user；>50由程序问有没有类似款，有现货的。按箱/包或单件与套装口径不明先澄清，不能只比数字。'
+            '商家回答类似现货有/可以，不等于原目标完全匹配；未经独立核对不改成原目标有现货或非定制，也不接受替代款。'
             '每箱数量记录对应目标销售单位的正整数；未说明单件/套装不能猜。实拍图/视频可记录实际附图路径或商家明确无/不能提供；不能把我方发图算商家实拍。'
             '产品裸尺寸/净重只能记产品尺寸净重，不能记包装尺寸毛重。商家估算包装尺寸重量可记录但原话标明估算。'
             '只给价格数字但不清楚对应规格或整套装数，不输出阶梯价；原话内保留单件与整套口径。'
             'reply必须从该条允许澄清列表原样复制；有人工意见也不得自由改写。普通资料追问由程序生成。'
-            '凡付款、下单、接受替代/定制、选择包装、联系方式等只填needs_user，不替用户拍板；贴标内容细节不作为需要用户决策的任务，不追问。'
+            '凡付款、下单、接受替代、超出已确认≤50起订范围的定制承诺、选择包装、联系方式等只填needs_user，不替用户拍板；符合≤50规则仅继续资料收集，不承诺下单。贴标内容细节不作为需要用户决策的任务，不追问。'
             '只分析日本站，回复前的食品/倍数/不做筛选由外部程序再次核对。\n规则背景：\n'+instructions+'\n附图清单（按附图顺序）：\n'+json.dumps([str(p.relative_to(ROOT)) for p in images],ensure_ascii=False)+'\n输入：\n'+json.dumps(records,ensure_ascii=False))
     output=CACHE/'reply_analysis.json'
     def compute(missing):
@@ -143,7 +151,7 @@ def main():
         boundary=max((i for i,m in enumerate(history) if m.get('发送方')=='我方'),default=-1)
         is_question=any(m.get('发送方')=='对方' and __import__('re').search(r'[?？]|吗|呢|哪|多少|什么|几[个件套包箱]',m.get('内容','')) for m in history[boundary+1:])
         opinion=entry.get('人工处理意见') or {}
-        if approved and is_question and flow['阶段'] not in ('资料收集完成','不匹配结束','等商家测量','等商家回复','待核实'):
+        if approved and is_question and flow['阶段'] not in ('资料收集完成','不匹配结束','等商家测量','等商家回复','待核实','确认定制起订量','询问类似现货'):
             item['reply']=approved
         if entry.get('人工暂缓'):item={**item,'reply':'','needs_user':''}
         if flow['阶段']=='待核实' and not item['needs_user']:item['needs_user']=flow['原因']

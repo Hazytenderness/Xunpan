@@ -22,7 +22,7 @@ def main():
         raise RuntimeError('最新聊天未读取成功：'+run.stdout+run.stderr)
     offer=str(entry['商品'][0]['offerId'])
     chat=json.loads((batch/'chats'/f'{offer}.json').read_text(encoding='utf-8'))
-    if requires_fact_analysis(chat['消息']):
+    if requires_fact_analysis(chat['消息'],entry.get('询盘流程',{}).get('版本')):
         command=[sys.executable,str(ROOT/'tools/analyze_replies.py'),args.id]+(['--dry'] if args.dry else [])
         analyzed=subprocess.run(command,capture_output=True,text=True,encoding='utf-8')
         report={'id':args.id,'产品':[k['序'] for k in entry['对应款']],'时间':now_bj().isoformat(),
