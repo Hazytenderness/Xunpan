@@ -15,11 +15,14 @@ def validate_job(root, job):
                 continue
             if entry.get('旺旺名')==job.get('ww') and any(str(p.get('offerId'))==str(job.get('offerId')) for p in entry.get('商品',[])):
                 matches.append((queue.parent,entry))
+    if job.get('recover_only') is True:
+        # 恢复只读聊天回执，发送方+offer 已足以定位对话；恢复写回另按序号和暂停原因筛选。
+        if not matches:
+            raise ValueError('回执核对对象无法定位，保持待核实')
+        return job.get('inquiryId') or matches[0][1]['id']
     if len(matches)!=1:
         raise ValueError('发送对象未唯一对应询盘队列，禁止临时绕过')
     batch,entry=matches[0]
-    if job.get('recover_only') is True:
-        return entry['id']
     text=job.get('text','')
     if job.get('kind')=='R1':
         approved=first_message(entry)
