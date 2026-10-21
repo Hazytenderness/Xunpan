@@ -15,7 +15,7 @@ class InquiryWorkflowTests(unittest.TestCase):
         self.entry = {'id': 'X1', '对应款': [{'规格': '白色18cm宽四层带轮推车', 'asin': 'A', '序': 1}]}
 
     def test_first_message_preserves_user_exact_copy_and_full_specs(self):
-        self.assertEqual(w.first_message(self.entry), '图上这款有吗？我们要的是白色18cm宽四层带轮推车。单个包装尺寸多少？重量多少？订500件多少钱')
+        self.assertEqual(w.first_message(self.entry), '图上这款有吗？我们要的是白色18cm宽四层带轮推车。单个包装尺寸多少？重量多少？')
 
     def test_supplier_yes_is_sufficient_no_repeated_spec_question(self):
         q = {'匹配确认': fact('完全匹配')}
@@ -41,7 +41,7 @@ class InquiryWorkflowTests(unittest.TestCase):
         q = {'匹配确认': fact('完全匹配'), '包装尺寸毛重': fact({'长': 10, '宽': 20, '高': 30, '重量克': 500}), '贴标': fact('能贴'), '中性包装': fact('不能提供'), '每箱数量': fact(12)}
         q['包装方式'] = fact('袋装')
         p = w.next_step(self.entry, q)
-        self.assertEqual(p['话术'], '这款实拍图和视频发下，订500件多少钱？')
+        self.assertEqual(p['话术'], '这款实拍图和视频发下。')
 
     def test_product_size_cannot_satisfy_packaging_requirement(self):
         q = {'匹配确认': fact('完全匹配'), '包装尺寸毛重': {'值': {'长': 10, '宽': 20, '高': 30, '重量克': 500}, '原话': '产品尺寸，非包装'}}
@@ -64,7 +64,7 @@ class InquiryWorkflowTests(unittest.TestCase):
 
     def test_pack_quantity_is_not_silently_discarded(self):
         self.entry['对应款'][0]['规格'] = '浴巾110×50cm，炭灰色，2条装'
-        self.assertIn('2条装的一套包装尺寸多少？重量多少？订500件多少钱', w.first_message(self.entry))
+        self.assertIn('2条装的一套包装尺寸多少？重量多少？', w.first_message(self.entry))
 
     def test_explicit_set_and_other_pack_units(self):
         for spec,expected in [('蓝色2件套','2件装的一套'),('2只装','2只装的一套'),('10张装','10张装的一套')]:
@@ -137,3 +137,10 @@ class InquiryWorkflowTests(unittest.TestCase):
         history=[{'发送方':'对方','内容':'OPP袋装'}, {'发送方':'我方','内容':'谢谢'}, {'发送方':'对方','内容':'你好'}]
         self.assertTrue(w.requires_fact_analysis(history,'2026-10-20-unified-copy-1'))
         self.assertFalse(w.requires_fact_analysis(history,w.VERSION))
+
+    def test_missing_price_is_no_longer_a_collection_gap(self):
+        q={'匹配确认':fact('完全匹配'),'包装尺寸毛重':fact({'长':10,'宽':20,'高':30,'重量克':500}),
+           '包装方式':fact('袋装'),'贴标':fact('能贴'),'中性包装':fact('可以'),'每箱数量':fact(12),
+           '实拍图':fact('无'),'视频':fact('无')}
+        self.assertEqual(w.next_step(self.entry,q)['阶段'],'资料收集完成')
+        self.assertIsNone(w.allowed_reply(self.entry,'先按500件了解，麻烦报下价。'))

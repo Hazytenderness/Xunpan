@@ -8,7 +8,7 @@
   - 款已经不在待核对（已完成、不做等）的，还没发的条目改成「不用发」。
   - 也排「重新跑」还没跑完的款；其他批次没发出去的待发R1（如 10/6 家居扩展停在滑块的 81 条）每日.sh 一起发，
     其中对应款都已不缺资料的改「不用发」【用户定·10/8】。
-话术原话（用户定·10/8，只替换 {产品}）：{产品}单品包装尺寸多少（长宽高）、重量多少，500 个什么价？
+话术原话（用户定·10/8，只替换 {产品}）：{产品}单品包装尺寸多少（长宽高）、重量多少？
 """
 import argparse, json, re, subprocess, sys
 from datetime import datetime, timedelta
@@ -20,7 +20,7 @@ from inquiry_workflow import first_message,VERSION
 
 SITE = site_root()
 B = BATCHES / '补资料'
-TEXT = '{产品}单品包装尺寸多少（长宽高）、重量多少，500 个什么价？'
+TEXT = '{产品}单品包装尺寸多少（长宽高）、重量多少？'
 PER_PRODUCT, ACTIVE_HOURS = 2, 72
 ELSEWHERE = {'待发R1', '待补主图', '待人工核实', '已发R1', '已回', '已发R2', '已催', '拒绝', '无货'}
 
