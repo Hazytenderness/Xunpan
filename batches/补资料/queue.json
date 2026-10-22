@@ -12251,18 +12251,17 @@
    "原因": "同一问题已问两次，未得到明确答复"
   },
   "人工处理意见": {
-   "id": "31c1f7de-4a7a-4ee3-baf6-3bd80ae4a1e9",
-   "requestId": "c2796d1a-9d93-445c-9dd0-7dcb8f877bc4",
-   "text": "请先核对以下要求。\n补充说明：纸卡包装的可以拍个图片吗",
+   "id": "4abe7026-e04e-4b87-ac7f-0645f968ad6f",
+   "requestId": "2fb13f61-9b94-46e1-8684-9774204630e8",
+   "text": "请先核对以下要求。\n补充说明：纸卡包装的图片有吗",
    "action": "continue",
    "actor": "2796818572@qq.com",
-   "at": "2026-10-21T09:28:44.832Z",
+   "at": "2026-10-22T02:26:38.452Z",
    "sourceFingerprint": "c8284d433ead9c3ff5db62859e7840cde0542a2594d17b0b47ede03853a110b5",
    "choiceId": "custom",
    "choiceLabel": "我有其他要求",
    "taskId": "jp-BZ0383-2060-743844801853",
-   "state": "blocked",
-   "result": "当前商品未通过网站询盘门槛，已停止发送；请核对商品状态、规格与当前资格。"
+   "state": "queued"
   }
  },
  {
