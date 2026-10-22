@@ -7852,18 +7852,15 @@
    "原因": "商家已回复没有类似现货，不重复询问，不改原目标款状态"
   },
   "人工处理意见": {
-   "id": "5e5796cb-c7a5-4d06-8775-7b30b36f7f81",
-   "requestId": "3e41e23a-1a88-4737-bcf7-70a6919636e0",
-   "text": "请先核对以下要求。\n补充说明：有相似款吗",
-   "action": "continue",
-   "actor": "2796818572@qq.com",
-   "at": "2026-10-21T08:30:12.576Z",
-   "sourceFingerprint": "88151bc9f9e94fa1391fca6e979d310d10eaeac61e3aea0a142f67527fbd1563",
-   "choiceId": "custom",
-   "choiceLabel": "我有其他要求",
+   "id": "d08f5cd4-8463-46de-92d5-98c42a35d590",
+   "requestId": "5810647c-8169-4e0b-8d8b-99001606cee7",
+   "text": "本供应商先暂停跟进，保留聊天和已取得的资料。\n补充说明：放进不做",
+   "action": "hold",
+   "actor": "cravez630@gmail.com",
+   "at": "2026-10-22T09:21:30.633Z",
+   "sourceFingerprint": "068b64ef98d11e6d0409678fa385570f49f0675ecf29a6593de51d6bdca36426",
    "taskId": "jp-BZ0248-2681-1063627732043",
-   "state": "done",
-   "result": "已按处理意见向商家回复。商家答复没有类似现货款。已结束这次相似款询问，原目标款和原定制信息保留，未采用替代款。"
+   "state": "queued"
   },
   "人工续问": {
    "kind": "similar_stock",
@@ -7886,7 +7883,7 @@
     "outcome": "no_similar"
    }
   },
-  "待决策": "商家称目标为定制款且“1000起”，但未说明起订量单位；人工意见要求询问相似款，按规则还应确认是否有类似现货款。允许澄清列表没有对应话术，需审核补充后再发送。"
+  "人工暂缓": true
  },
  {
   "id": "BZ0249",
@@ -10515,18 +10512,17 @@
    "原因": ""
   },
   "人工处理意见": {
-   "id": "4ab94bd3-1c30-4d14-af57-4c599d8052c3",
-   "requestId": "a3505798-063e-445c-9e8e-29d3e51f8122",
-   "text": "本供应商先暂停跟进，保留聊天和已取得的资料。",
+   "id": "e63e1184-7e08-4ca8-a96f-0bf9ac19e4c3",
+   "requestId": "1881a767-803b-4415-b98c-a7c1b1ecafdb",
+   "text": "本供应商先暂停跟进，保留聊天和已取得的资料。\n补充说明：测试1234",
    "action": "hold",
-   "actor": "2796818572@qq.com",
-   "at": "2026-10-22T02:16:07.212Z",
+   "actor": "cravez630@gmail.com",
+   "at": "2026-10-22T09:24:45.265Z",
    "sourceFingerprint": "13f85046d7334402a1fbf634159a8592ac219d13f46b981f9e314ec3c3b97f67",
    "choiceId": "hold",
    "choiceLabel": "这家先不跟进",
    "taskId": "jp-BZ0328-1203-661697525758",
-   "state": "done",
-   "result": "已按意见暂缓此供应商，原聊天和报价保留"
+   "state": "queued"
   },
   "人工暂缓": true
  },
