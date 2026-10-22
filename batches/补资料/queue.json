@@ -10260,18 +10260,17 @@
    "原因": ""
   },
   "人工处理意见": {
-   "id": "0d35fada-2374-4a51-9933-a4acf6d6b492",
-   "requestId": "c3e02a7b-0c81-4ad3-85be-61507f3fac85",
-   "text": "请先核对以下要求。\n补充说明：28*15*14cm",
+   "id": "08288482-fb49-4e5c-bea4-ef792bb32cf7",
+   "requestId": "c73d43ee-dcb6-4734-a728-c2bbdac36349",
+   "text": "请先核对以下要求。\n补充说明：28*14*15",
    "action": "continue",
    "actor": "2796818572@qq.com",
-   "at": "2026-10-21T09:13:40.720Z",
+   "at": "2026-10-22T02:04:17.936Z",
    "sourceFingerprint": "c447efa7e443a0a4241819d8c9dd54b395c630a1865d7355d4143e16f8a883c6",
    "choiceId": "custom",
    "choiceLabel": "我知道尺寸，填写长宽高",
    "taskId": "jp-BZ0322-1101-994860661654",
-   "state": "blocked",
-   "result": "当前商品未通过网站询盘门槛，已停止发送；请核对商品状态、规格与当前资格。"
+   "state": "queued"
   }
  },
  {
