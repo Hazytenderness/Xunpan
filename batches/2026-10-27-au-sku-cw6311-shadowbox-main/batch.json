@@ -1,0 +1,19 @@
+{
+  "batch": "2026-10-27-au-sku-cw6311-shadowbox-main",
+  "createdAt": "2026-10-27T12:24:15.9344606+08:00",
+  "site": "au",
+  "identities": [
+    {
+      "cw": 6311,
+      "asin": "B0DSFRNHMW"
+    }
+  ],
+  "sourceQueuePath": "D:\\YH工作\\迁移接管\\20261020_ATAOUS三任务\\运行准备\\workspace\\01_跨境项目\\ataous日本站运营\\选品更新\\2026-P22\\供应链恢复\\市场消费\\2026-10-27_POOL-retail-refresh\\au\\supplier-queue.json",
+  "sourceQueueSha256": "4ceb2591b28c5f6243036288d136d99be01610d4e44e440abd929b2252b97de6",
+  "verificationProductsPath": "D:\\YH工作\\选品数据\\供应商匹配\\20261020_AU调度\\持续执行核查_20261023\\au-cw6311-main-once-20261027T1010+08\\sku-verification-input\\refresh-20261027T122228+0800\\queue-output\\products.json",
+  "verificationProductsSha256": "609c98c53c4d8a2641aa244523240e389474e99f8ff2757bb258a0685b3471aa",
+  "candidateCount": 3,
+  "merchantMessages": 0,
+  "status": "sku_review_pending",
+  "note": "候选逐身份待核页与销售SKU；不代表同款或实时在售。"
+}

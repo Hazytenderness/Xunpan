@@ -1,0 +1,35 @@
+{
+  "task": "ataous-4",
+  "automationId": "ataous-4",
+  "createdAt": "2026-10-27T12:24:15.9344606+08:00",
+  "site": "au",
+  "cw": 6311,
+  "asin": "B0DSFRNHMW",
+  "dispatchStatus": "local_shared_queue_written_event_ingress_not_adapted",
+  "queuePath": "D:\\YH工作\\迁移接管\\20261020_ATAOUS三任务\\运行Git\\workspace\\Xunpan\\batches\\2026-10-27-au-sku-cw6311-shadowbox-main\\queue.json",
+  "queueSha256": "251cab73fb99c407cf9f575ab58e1018df85be83f290bd5bb2690acb4b0db5a0",
+  "sourceQueuePath": "D:\\YH工作\\迁移接管\\20261020_ATAOUS三任务\\运行准备\\workspace\\01_跨境项目\\ataous日本站运营\\选品更新\\2026-P22\\供应链恢复\\市场消费\\2026-10-27_POOL-retail-refresh\\au\\supplier-queue.json",
+  "sourceQueueSha256": "4ceb2591b28c5f6243036288d136d99be01610d4e44e440abd929b2252b97de6",
+  "verificationProductsPath": "D:\\YH工作\\选品数据\\供应商匹配\\20261020_AU调度\\持续执行核查_20261023\\au-cw6311-main-once-20261027T1010+08\\sku-verification-input\\refresh-20261027T122228+0800\\queue-output\\products.json",
+  "verificationProductsSha256": "609c98c53c4d8a2641aa244523240e389474e99f8ff2757bb258a0685b3471aa",
+  "candidateOfferIds": [
+    "1069202006586",
+    "1070150260031",
+    "1000702819520"
+  ],
+  "privateState": {
+    "checkedAt": "2026-10-27T12:24:15.9909304+08:00",
+    "purchaseUi": "authenticated exact CW6311 search; no matching product",
+    "ordersUi": "authenticated exact CW6311 filter; no matching order; not a site-wide zero claim"
+  },
+  "publication": {
+    "onlineReadback": "exact deck object has candidate IDs 1069202006586, 1070150260031, 1000702819520; reference cost and effective reference cost null",
+    "pushed": true,
+    "commit": "e9081333a2c2bafd53e78d33fcec954516f4f41c",
+    "cloudflareBuildId": "567ad6e1-081c-4cc3-981e-f6030647b030",
+    "branch": "main"
+  },
+  "messageSent": false,
+  "eventIngress": "not adapted; no cross-thread message sent",
+  "nextAction": "ATAOUS 核页与SKU按唯一执行方拾取本地共享队列，核具体offer SKU、完整销售单位及组合；报价和成本保持空。"
+}
