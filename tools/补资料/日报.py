@@ -21,6 +21,21 @@ KEYS = ['新回复', '回了', '单价', '尺寸', '推网站']
 st = json.loads(F.read_text(encoding='utf-8')) if F.exists() else {'轮': 0, **{k: 0 for k in KEYS}, '要你定': []}
 cmd = sys.argv[1]
 
+def buziliao_extra():
+    """能发的家＋卡住原因（读 batch.json「本次」）；同款确认累计（读补资料批次 quotes.jsonl「匹配确认.值」）"""
+    bdir = Path(__file__).resolve().parents[2] / 'batches/补资料'
+    f = bdir / 'batch.json'
+    cur = json.loads(f.read_text(encoding='utf-8')).get('本次', {}) if f.exists() else {}
+    m = x = y = 0
+    q = bdir / 'quotes.jsonl'
+    for l in (q.read_text(encoding='utf-8').splitlines() if q.exists() else []):
+        v = (json.loads(l).get('匹配确认') or {}).get('值') if l.strip() else None
+        if v:
+            m += 1; x += v == '完全匹配'; y += v == '不匹配'
+    return [f"能发的家：待发 {cur.get('待发合计', 0)} 家；卡住：没有可问的家 {cur.get('没有可问的家', 0)}、被占或没旺旺名 {cur.get('可问的家被别处占着或没旺旺名', 0)}、已在问 {cur.get('已在问', 0)}",
+            f'同款确认累计：问到 {m} 家，完全匹配 {x}、不匹配 {y}']
+
+
 if cmd == 'asked':
     print('\n'.join(st['要你定']) or '（今天还没有）')
 elif cmd == 'round':
@@ -52,6 +67,7 @@ elif cmd == 'daily':
     left = sum(1 for x in json.loads((Path(__file__).resolve().parents[2] / 'batches/补资料/queue.json').read_text(encoding='utf-8')) if x['状态'] == '待发R1')
     lines = [f'补资料日报 {D[5:]}',
              f'今日新发询盘 {r1} 条，发出跟进 {rp} 条；待首次发送 {left} 条',
+             *buziliao_extra(),
              f"今日处理回复/续审 {st['新回复']} 次（含同商家多轮），记录单价 {st['单价']} 次、包装 {st['尺寸']} 次；网站新增复核 {st['推网站']} 条"]
     cloud_file=CACHE/'inquiry_cloud_state.json'
     tasks=json.loads(cloud_file.read_text(encoding='utf-8')).get('tasks',[]) if cloud_file.exists() else []

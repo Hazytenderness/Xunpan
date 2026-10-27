@@ -144,5 +144,9 @@ for b in other_drop:
     save_queue(b, others[b])
 if not (B / '核页规格匹配.json').exists():
     (B / '核页规格匹配.json').write_text('[]', encoding='utf-8')
-(B / 'batch.json').write_text(json.dumps({'批次': '补资料', '来源': '每天北京 8:50 由 tools/补资料/建队列.py 从 ataous 货源核实待核对款滚动生成',
-                                         '最近一次': now.isoformat(timespec='seconds'), '本次': summary}, ensure_ascii=False, indent=1), encoding='utf-8')
+# 「本次」没变就不写文件：只改「最近一次」会让 git 天天有无意义的 diff
+bj = B / 'batch.json'
+old = json.loads(bj.read_text(encoding='utf-8')) if bj.exists() else {}
+if old.get('本次') != summary:
+    bj.write_text(json.dumps({'批次': '补资料', '来源': '每天北京 8:50 由 tools/补资料/建队列.py 从 ataous 货源核实待核对款滚动生成',
+                              '最近一次': now.isoformat(timespec='seconds'), '本次': summary}, ensure_ascii=False, indent=1), encoding='utf-8')
