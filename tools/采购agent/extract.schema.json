@@ -1,0 +1,166 @@
+{
+  "$comment": "模型抽事实的输出格式，规矩见 AGENT.md 第 3 节。只抽商家说的，不写回复、不判齐全、不折算。",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "候选",
+    "事实",
+    "无法提供",
+    "商家反问",
+    "待决策"
+  ],
+  "properties": {
+    "候选": {
+      "type": "string",
+      "description": "当前候选 offerId"
+    },
+    "事实": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "项",
+          "候选",
+          "原话",
+          "来源"
+        ],
+        "properties": {
+          "项": {
+            "enum": [
+              "匹配确认",
+              "采购单价",
+              "起订量",
+              "包装",
+              "包装方式",
+              "贴标",
+              "中性包装",
+              "每箱数量",
+              "实拍图",
+              "视频",
+              "定制款",
+              "定制起订量"
+            ]
+          },
+          "候选": {
+            "type": "string",
+            "description": "这条事实对应的 offerId；和当前候选不同就不算"
+          },
+          "值": {
+            "description": "匹配确认: 完全匹配|类似款|不匹配；采购单价/起订量/每箱数量/定制起订量: 数字；贴标: 能贴|不能贴；中性包装: 能|不能；实拍图/视频: 已发|不能提供；定制款: true|false；包装方式: 原话里的方式"
+          },
+          "单位": {
+            "type": "string",
+            "description": "采购单价、起订量、定制起订量的计价单位：个/套/箱/包…；没说填 不明"
+          },
+          "长": {
+            "type": "number"
+          },
+          "宽": {
+            "type": "number"
+          },
+          "高": {
+            "type": "number"
+          },
+          "重量克": {
+            "type": "number"
+          },
+          "口径": {
+            "enum": [
+              "包装",
+              "产品",
+              "不明"
+            ],
+            "description": "仅 项=包装：裸尺寸、净重填 产品"
+          },
+          "对应单位": {
+            "enum": [
+              "销售单位",
+              "单个",
+              "不明"
+            ],
+            "description": "仅 项=包装"
+          },
+          "单位明确": {
+            "type": "boolean",
+            "description": "仅 项=包装：商家写了厘米/克等单位才填 true"
+          },
+          "原话": {
+            "type": "string"
+          },
+          "来源": {
+            "type": "array",
+            "items": {
+              "type": [
+                "integer",
+                "string"
+              ]
+            },
+            "description": "对方消息序号或附图文件名；不能引我方消息"
+          }
+        }
+      }
+    },
+    "无法提供": {
+      "type": "array",
+      "items": {
+        "enum": [
+          "采购单价",
+          "起订量",
+          "包装尺寸",
+          "带包装重量",
+          "包装方式",
+          "中性包装",
+          "每箱数量",
+          "实拍图",
+          "视频"
+        ]
+      }
+    },
+    "商家反问": {
+      "type": "array",
+      "items": {
+        "enum": [
+          "发货地",
+          "联系方式",
+          "采购数量",
+          "哪一款",
+          "多型号"
+        ]
+      }
+    },
+    "待决策": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "description": "真业务取舍，如多种报价拿不准对哪款"
+    },
+    "看不懂": {
+      "type": "array",
+      "description": "商家说的、看不懂的原话（说不出准数、指代不清、缩写）；AGENT.md 3.10，程序交人工",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "原话",
+          "来源"
+        ],
+        "properties": {
+          "原话": {
+            "type": "string"
+          },
+          "来源": {
+            "type": "array",
+            "items": {
+              "type": [
+                "integer",
+                "string"
+              ]
+            }
+          }
+        }
+      }
+    }
+  }
+}
